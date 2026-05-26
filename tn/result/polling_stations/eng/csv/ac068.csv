@@ -1,0 +1,1177 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+1,68,1,1,"Panchayat Union Elementary  School,  West  Side  South Facing,  Ariyur Village  Valavanoor Post  632511","1.Ariyur (R.V) And (P) Ward 1  Perumal Koil Street,
+2.Ariyur (R.V) And (P) Ward 2  Mettu Street,
+3.Ariyur (R.V) And (P) Ward 2  Nadu Street,
+4.Ariyur (R.V) And (P) Ward 3  Achari Street,
+5.Ariyur (R.V) And (P) Ward 3  Kuttaikara Street,
+6.Ariyur (R.V) And (P) Ward 3  Adhithiravidar  Colony  Bajanai Koil Street,
+7.Ariyur (R.V) And (P) Ward 3  Othaivadai Street,
+8.Ariyur (R.V) And (P) Ward 3  Erikarai Street"
+2,68,2,2,"Panchayat Union Elementary  school ,  North Building,Panamugai Village  Pulivalam  Post  632511","1.Panamugai (R.V) And (P) Ward 2  Palla Street 1, 2.Panamugai (R.V) And (P) Ward 2  Palla Street 2, 3.Panamugai (R.V) And (P) Ward 1  Mettu Street 1, 4.Panamugai (R.V) And (P) Ward 1  Mettu Street 2, 5.Panamugai (R.V) And (P) Ward 2  Adideravedar  Quarters"
+3,68,3,3,"Panchayat Union Middle  School,North  Building  South Facing ,Pulivalam  Village  & Post  632511","1.Pulivalam  (R.V) And (P) Ward1 Pillaiyar Koil Street, 2.Pulivalam  (R.V) And (P) Ward 1  Bajanai Koil Street, 3.Pulivalam  (R.V) And (P) Ward 1  Durgaiyamman  Koil Street,
+4.Pulivalam  (R.V) And (P) Ward 1  Arijana Colony  Bajanai Koil Street  , 5.Pulivalam  (r.v) and (p) Ward 1 mudha koil street,
+6.Pulivalam  (R.V) And (P) Ward 1  Pudhu Colony,"
+4,68,4,4,"Panchayat Union Middle  School ,  East Facing, North Side  Building,  Pulivalam Village,Post 632511","1.Pulivalam  (R.V) And (P) Ward 2  Sunaipattu School Street, 2.Pulivalam  (R.V) And (P) Ward 2  Road Street,
+3.Pulivalam  (R.V) And (P) Ward 2  Bajanai Koil Street, 4.Pulivalam  (R.V) And (P) Ward 2  Mettu Street,
+5.Pulivalam  (R.V) And (P) Ward 2  Arijana Colony  Mudha Koil Street, 6.Pulivalam  ( R.V) And (P) Ward 2 Pudhu Street,
+7.Pulivalam  (R.V) And (P) Ward 2  Bajanai Koil Street"
+5,68,5,5,"Panchayat Union Elementary  school,  West  Part Building  North  Facing  , Brammadesam 632511","1.Brammadesam (R.V) And (P) Ward 1 Karunekar  Street, 2.Brammadesam (R.V) And (P) Ward 1 Maruthuva Street, 3.Brammadesam (r.v) and (p) Ward 1 kuyavar street, 4.Brammadesam(R.V) And (P) Ward 1 Pavundu Street, 5.Brammadesam (R.V) And (P) Ward 1 Chetti Street, 6.Brammadesan (R.V) And (P) Ward 2 Main  Road"
+6,68,6,6,"Panchayat Union Elementary  School,SSA East  Facing South Side  Building  ,Brammadesam Village  & Post 632511","1.Brammadesam(R.V) And (P) Ward 2 Kuthanurar  Street, 2.Pramadsam (R.V) And (P) Ward 2 Moorthi Street, 3.Brammadesam (R.V) And (P) Ward 2 Bramanar  Street, 4.Pramadesan (R.V) And (P) Ward 2 Kammalar Street"
+7,68,7,7,"Panchayat Union Elementary  school,  west  side  East face  Building, Brammadesam  Village  & Post  632511","1.Brammadesam (R.V) And (P) Ward 1 Periya Street, 2.Brammadesam (R.V) And (P) Ward 1 Mariyamman Koil Street"
+8,68,8,8,"Adi Dravidar Welfare  Elecmentary  Scool West Facing Building,Brammadesam  Village  & Post  632511","1.Brammadesam (R.V) And (P) Ward 3 Seiyanur  Pettai Street, 2.Brammadesam (R.V) And (P) Ward 3 Amedkar 1St  Street, 3.Brammadesam (R.V) And (P) Ward 3 Ambethkar  2nd Street, 4.Brammadesam (R.V) And (P) Ward 2 Ambethkar  3rd Street, 5.Brammadesam (R.V) And (P) Ward 3 Ambethkar  4th  Street, 6.Brammadesam (R.V) And (P) Ward 2 Ambethkar  5th  Street, 7.Brammadesam (R.V) And (P) Ward 2 Ambethkar  6th  Street, 8.Brammadesam (R.V) Ward 2 Ambethkar  7th Street, 9.Brammadesam (R.V) And (P) Ward 2 Bajanai Koil Street, 10.Brammadesam (R.V) And (P) Ward 2 Colony  Nadu Street, 11.Brammadesam (R.V) And (P) Ward 2 Mudha Koil Street, 12.Brammadesam (R.V) And (P) Ward 2 Colony  Periya Street"
+9,68,9,9,"Panchayat Union Elementary  School,  New Building,West  Facing,Pudur  Brammadesam-632511","1.Puthur  (R.V) Brammadesam  (P) Ward  3 Main Road,
+2.Puthur  (R.V) Brammadesam  (P) Ward  3 Pilliyar Koil Street,
+3.Pothur (R.V) Brammadesam (P) Ward 3  Bajanai Koil Street,
+4.Puthur  (R.V) Brammadesam  (P) Ward  3 Colony  Pilliyar Koil Street,
+5.Pudhur (R.V) Brammadesam  (P) Ward 3  Colony  Cross Street,
+6.Pudhur (R.V) Brammadesam  (P) Ward 3  Mudha Koil Street"
+10,68,10,10,"Govt Hr  Sec School South  side  Building North facing,Brammadesam Village  & Post 632511.","1.Pudhur (R.V) Brammadesam  (P) Ward 3  Panchayat Road Street,
+2.Puthur  (R.V) Brammadesam  (P) Ward  3 Nadu Street,
+3.Puthur  (R.V) Brammadesam  (P) Ward  3 Durgaiyamman Koil Street,
+4.Pudhru (R.V) Brammadesam  (P) Ward 3  E.B.  Street"
+11,68,11,11,"Panchayat Union Elementary  School ,SSA Building East Facing,Chittanakkal Village  Sirunavalpattu Madura Post  632511","1.Chithanakkal (R.V) Sirunavalpattu (P) Ward 1  & 2 Bajanai Koil Street, 2.Chithanakkal (R.V) Sirunavalpattu (P) Ward 2  Mariyamman  Koil Street, 3.Chithanakkal (R.V) Sirunavalpattu (P) Ward 2  Medai Street"
+12,68,12,12,"Panchayat Union Elementary  School,  South  Facing North Side  Building,  Chittanakkal Village Sirunavalpattu Madura Post  632511","1.Chithanakkal (R.V) Sirunavalpattu (P) Ward 2  Road Street, 2.Chithanakkal (R.V) Sirunavalpattu (P) Ward 2  Kavakarai Street, 3.Chithanakkal (R.V) Sirunavalpattu (P) Ward 2  Erikarai Street, 4.Chithanakkal (R.V) Sirunavalpattu (P) Ward 2  Pillaiyar Koil Street,
+5.Chithanakkal(R.V) Sirunavalpattu (P) Ward 2 Thiraopathi Amman Koil Street, 6.Chithanakkal (R.V) Sirunavalpattu (P) Ward 2  Main Road Street, 7.Chithanakkal (R.V) Sirunavalpattu (P) Ward 2  Chithanakkal Colony Bajanai Koil Street,
+8.Chithanakkal (R.V)Sirunavalpattu (P) Ward 2 Chithanakkal Colony"
+13,68,13,13,"Panchayat Union Elementary  School,  Left  side Room,Sirunavalpattu Village  & Post  632511","1.Sirunavalpattu (R.V) And (P) Ward 1 Pillaiyar Koil Street, 2.Sirunavalpattu (R.V) And (P) Ward 1 Erikarai Street, 3.Sirunavalpattu(R.V) And (P) Ward  1 School Street, 4.Sirunavalpattu (R.V) And (P) Ward 1 Mottu Kudisai,
+5.Sivaram (R.V) Sirunavalpattu (P) Ward 1 Sivaram Village  Mettu Street,
+6.Sivaram (R.V) Sirunavalpattu (P) Ward 1 Sivaram Road Street,
+7.Sivaram (R.V) Sirunavalpattu (P) Ward 1 Sivaram Colony  Pillaiyar  Koil Street,
+8.Sivaram (R.V) Sirunavalpattu (P) Ward 1 Sivaram Colony  Othavadai Street"
+14,68,14,14,"Panchayat Union Elementary  School,  West  Side  South Facing,Vadaeluppai Village  & Post 632511","1.Vadaeluppai (R.V) And (P) Ward 1 Malligapura Street, 2.Vadaeluppai (R.V) And (P) Ward 1 Road Street, 3.Vadaeluppai (R.V) And (P) Ward 1 Bramanar  Street, 4.Vadaeluppai (R.V) And (P) Ward 1 Mettu Street, 5.Vadaeluppai (R.V) And (P) Ward 1 Chinna Street"
+15,68,15,15,"Panchayat Union Elementary  School,Melpettai Village Vadaeluppai Post  632511","1.Vadaeluppai (R.V) And (P) Ward 2 Melpettai Bajani Koil Street, 2.Vadaeluppai (r.v) and (p) Ward 2  mel pettai pillaiyar koil street, 3.Vadaeluppai (r.v) and (p) Ward 1  melpettai road street, 4.Vadaeluppai (R.V) And (P) Ward 2 Pattarai Bajanai Koil Street, 5.Vadaeluppai (R.V) And (P) Ward 2 Pattarai Anjeneyar  Koil Street, 6.Vadaeluppai (R.V) And (P) Ward 2 Pattarai Mandhaiveli Street, 7.Vadaeluppai (R.V) And (P) Ward 2 Pattarai Pilliyar  Koil Street"
+16,68,16,16,"Adi Dravidar Welfare  Middle  School,South  Building North Facing  west part, Vadaeluppai Village  & Post 632511","1.Vadaeluppai (R.V) And (P) Ward 3 Mariyamman  Koil St Arijana Colony, 2.Vadaeluppai (R.V) And (P) Ward 3 Padasalai Street Arijana Colony, 3.Vadaeluppai (R.V) And (P) Ward 3 Bajanai Koil Street  Arijana Colony"
+17,68,17,17,"Govt High  School ,  SSA Building  South  Wing,Natteri Village  & Post  632511","1.Natteri (R.V) And (P) Ward 1 Eswarn  Koil Street,
+2.Natteri (R.V) And (P) Ward 1 Kalvaikarai Street,
+3.Natteri (R.V) And (P) Ward 1 Arijana Colony Bajanai Street,
+4.Natteri (R.V) And (P) Ward 1 Arijana Colony Othavadai Street,
+5.Natteri (R.V) And (P) Ward 1 Arijana Colony Road Street,
+6.Natteri (R.V) And (P) Ward 1 New Colony"
+18,68,18,18,"Government High School East  Building SSA Building,Natteri Village  & Post  632511","1.Natteri (R.V) And (P) Ward 1 Anjineyar Koil Street,
+2.Natteri (R.V) And (P) Ward 1 Othavadai Bramanar Street,
+3.Natteri (R.V) And (P) Ward 1 School Street,
+4.Natteri (R.V) And (P) Ward 1 Kaikolar  Pettai Street"
+19,68,19,19,"Panchayat Union Primary  School, New Building  East Facing,Natteri Village  & Post  632511","1.Natteri (R.V) And (P) Ward 2 Koneri Street,
+2.Natteri (R.V) And (P) Ward 2 Arunagiri Street,
+3.Natteri (R.V) And (P) Ward 2 Kammala Street,
+4.Natteri (R.V) And (P) Ward 2 Theradi Street,
+5.Natteri (R.V) And (P) Ward 2 Kulakarai Street,
+6.Natteri (R.V) And (P) Ward 2 Sami Muthali Street,
+7.Natteri (R.V) And (P) Ward 2 Vannara Street,
+8.Natteri (r.v) and (p) Ward  2 meenavar  street,
+9.Natteri (R.V) And (P) Ward 2 Bajanai Koil Street"
+20,68,20,20,"Panchayat Union Middle  School East Building,Pokkasamudiram Natteri Post  632511","1.Natteri (R.V) Seempalam (P) Ward 3  Seempalam  Arunthathiyar  Palayam Pokkasamuthiram,
+2.Natteri (R.V) Pokkasamuthiram  (P) Ward 3 Pokkasamuthiram  Udaiyar Street,
+3.Natteri (R.V) Pokkasamuthiram  (P) Ward 3 Pokkasamuthiram  Kullathu Street,
+4.Natteri (R.V) Pokkasamuthiram  (P) Ward 3 Pokkasamuthiram  Pillaiyar Koil Street"
+21,68,21,21,"Panchayat Union Middle  School,  North  Facing,  East Portion  Building,  Kalpattu Village,  Natteri Post  632511","1.Natteri (R.V) Kalpattu (P) Ward3 Kalpattu Athithiravedar  Colony Pokkasamuthiram,
+2.Natteri (R.V) kalpattu (P) Ward 3 Kalpattu Pallast Pokkasamuthiram,
+3.Natteri (R.V) Kalpattu (P) Ward 3 Kalpattu Mettu Street Pokkasamuthiram,
+4.Natteri (R.V) kalpattu (P) Ward 3 Kalpattu Chettist  Pokkasamuthiram,"
+22,68,22,22,"Panchayat Union Middle  School SSA Building  Right Side  Room,Pokkasamudiram Natteri Post  632511","1.NATTERI  (R.V) Pokkasamuthiram  (P) Ward 3 Pokkasamuthiram  Bajanai Koil Street,
+2.Natteri (R.V) Pokkasamuthiram  (P) Ward 3 Pokkasamuthiram  Pattai Street,
+3.Natteri (R.V) Pokkasamuthiram  (P) Ward 3 Pokkasamuthiram  Road Street,
+4.Natteri (R.V) Pokkasamuthiram  (P) Ward 3 Pokkasamuthiram  New Street,
+5.Natteri (R.V) Pokkasamuthiram  (P) Ward 3 Pokkasamuthiram  Kuttai Street,
+6.Natteri (R.V) Seempalam (P) Ward 2  Seempalam  Arunthathiyarpalayam,
+7.Natteri (R.V) Seempalam (P) Ward 2  Seempalam  Road Street,
+8.NATTERI  (R.V) Seempalam  (P) Ward  2 Seempalam  Mettu Street"
+23,68,23,23,"Panachayat Union Elementary  School,Munjurpattu Sattuvanthangal Post  632511","1.Munjurpattu (R.V) And (P) Ward 1 Deradi Street, 2.Munjurpattu (R.V) And (P) Ward 1 Bajanai Koil Street, 3.Munjurpattu (R.V) And (P) Ward 1 School Street, 4.Munjurpattu (R.V) And (P) Ward 1 Pillaiyar Koil Street,
+5.Munjurpattu (R.V) And (P) Ward 2 Adideravidar Quarters Mudha Koil Street, 6.Munjurpattu (R.V) And (P) Ward 2 Venugopal Samy  Street,
+7.Munjurpattu (R.V) And (P) Ward 2 Otraivadai Street, 8.Munjurpattu (R.V) And (P) Ward 2 Ambethkar  1st Street, 9.Munjurpattu (R.V) And (P) Ward 2 Ambethkar  2nd  Street, 10.Munjurpattu (R.V) And (P) Ward 2  Ambethkar  3rd Street"
+24,68,24,24,"Government High School,  East  Building,  West Facing, South portion,  Sattuvanthangal Village  & Post  632511","1.Sattuvanthangal (R.V) And (P) Ward 1  Sattuvanthangal Bajanai Koil Street, 2.Sattuvanthangal (R.V) And (P) Ward 1  Sattuvanthangal Mettu Street, 3.Sattuvanthangal (R.V) And (P) Ward 1  Sattuvanthangal Vanikar  Street, 4.Sattuvanthangal (R.V)And (P) Ward 1 Sattuvanthangal Road Street, 5.Sattuvanthangal (R.V) And (P) Ward 2  Sattuvanthangal Tank Street, 6.Sattuvanthangal (r.v) and (p) Ward 2 Arijana colony  bajanai koil street, 7.Sattuvanthangal (R.V) And (P) Ward 2  Arijana Colony  Pillayar  Koil Street, 8.Sattuvanthangal (R.V) And (P) Ward 2  Sattuvanthangal Mettu colony"
+25,68,25,25,"Panchayat Union Elementary  School,  South  Facing East Portion Building, Poonthandalam Village, Sattuvanthangal Post  632511","1.Poonthandalam  (r.v) sattuvanthangal (p) Ward 1  poonthandalam manthangal eari street,
+2.Poonthandalam  (R.V) Sattuvanthangal (P) Ward 1 Poonthandalam Road Street, 3.Poonthandalam  (R.V) Sattuvanthangal (P) Ward 1 Poonthandalam Poyar Colony, 4.Poonthandalam  (R.V) Sattuvanthangal (P) Ward 1 Poonthandalam Nadhu Street, 5.Poonthandalam  (R.V) Sattuvanthangal (P) Ward 1 Poonthandalam Kadasai Street, 6.Poonthandalam  (R.V) Sattuvanthangal (P) Ward 1 Poonthandalam Pattai Street, 7.Poonthandalam  (R.V) Sattuvanthangal (P) Ward 1 Poonthandalam Arunthathiyar colony,
+8.Poonthandalam  (R.V) Sattuvanthangal (P) Ward 1 Poonthandalam Kodi Street, 9.Poonthandalam  (R.V) Sattuvanthangal (P) Ward 1 Poonthandalam Bajanai Koil Street,
+10.Poonthandalam (R.V) Sattuvanthangal (P) Ward 1 Bajanai Koil 1st  Street, 11.Poonthandalam (R.V) Sattuvanthangal (P) Ward 2 Poonthandalam Bajanai Koil 2nd Kurukku Street,
+12.Poonthandalam (R.V) Sattuvanthangal (P) Ward 1 Poonthandalam Palla Street, 13.Poonthandalam (R.V) Sattuvanthangal (P) Ward 1 Poonthandalam Pillaiyar  Koil Street,"
+26,68,26,26,"Panchayat Union Elementary  School,Siruvanjipattu Village  & Post  632506","1.Siruvanjipattu (r.v) and (p) Ward 1 vadavandai street, 2.Sirvangipattu (R.V) And (P) Ward 1 Kilandi Street, 3.Siruvangipattu (R.V) And (P) Ward 1 Nadu Street, 4.Sirvangipattu (R.V) And (P) Ward 1 Pillaiyar Koil Street, 5.Sirvangipattu (R.V) And (P) Ward 1 Bajanai Koil Street, 6.Sirvangipattu (R.V) And (P) Ward 1 Bajanai Koil St  West, 7.Sirvangipattu (R.V) And (P) Ward 1 New Street, 8.Sirvangipattu (r.v) and (p) Ward 2 mettu street, 9.Sirvangipattu (R.V) And (P) Ward 2 Ankalamman  Koil Street, 10.Sirvangipattu (R.V) And (P) Ward 2 Pallikuda Street, 11.Sirvangipattu (R.V) And (P) Ward 2 Kullakarai Street, 12.Sirvangipattu (R.V) And (P) Ward 2 Athithiravidar Colony"
+27,68,27,27,"Panchayat Union Middle  School,  North  facing building, Irumaram village,  Sattuvanthangal Post 632511","1.Irumaram  (RV) and (P) Ward 1 Siriya street,
+2.Irumaram  (RV) and (P) Ward 1 Periya street,
+3.Irumaram  (RV) and (P) Ward 1 Irular  colony,
+4.Irumaram  (RV) and (P) Ward 2 old colony  periya street,
+5.Irumaram  (RV) and (P) Ward 2 old colony  othavadai street,
+6.Irumaram  (RV) and (P) Ward 2 old colony  muthakoil street,
+7.Irumaram  (RV) and (P) Ward 3 New  colony  1st  cross street,
+8.Irumaram  (RV) and (P) Ward 3 New  colony  2nd cross street,
+9.Irumaram  (RV) and (P) Ward 3 New  colony  3rd cross street, 10.Irumaram (RV) and (P) Ward  3 New colony  4th  cross street, 11.Irumaram (RV) and (P) Ward  3 New colony  5th  cross street, 12.Irumaram (RV) and (P) Ward  23New colony  6th cross street, 13.Irumaram (RV) and (P) Ward  2 New colony  7th  cross street"
+28,68,28,28,"Govt Higher  Sec School,  Cement  Building  East Side,Randam 604407","1.Randham (RV) and  (P) Ward 1  Padasalai Street ,
+2.Randham (RV) and  (P) Ward 1  Bajanai Koil Street  ,
+3.Randham (RV) and  (P) Ward 1  Thennandai Street  Randham ,
+4.Randham (RV) and  (P) Ward 1  Road Street Randham  ,
+5.Durairaj Nagar  (RV) and Randham (P) Ward 1 Road St Durai raj Nagar ,
+6.Durairaj Nagar  (RV) and Randham (P) Ward 3 Amman  koil Street Durairaj Nagar  ,
+7.Durairaj Nagar  (RV) and Randham (P) Ward 3 pillaiyar  koil street  Durairaj Nagar ,
+8.Durairaj Nagar  (RV) and Randham (P) Ward 3 Indira gandhi st  Durairaj Nagar ,
+9.Durairaj Nagar  (RV) and Randham (P) Ward 3 Kamarajar street  ,
+10.Durairaj Nagar (RV) and  Randham  (P) Ward 3  Thennandai street Durairaj Nagar
+,
+11.Durairaj Nagar (RV) and  Randham  (P) Ward 3  Bajanai koil street  Durairaj nagar colony ,
+12.Durairaj Nagar (RV) and  Randham  (P) Ward 3  Madha koil street  Durairaj nagar colony ,
+13.Durairaj Nagar (RV) and  Randham  (P) Ward 3  Pudhu street  Durairaj Nagar , 14.Durairaj Nagar (RV) and  Randham  (P) Ward 1  Cross Street"
+29,68,29,29,"Govt Higher  Sec School Room  No.  7B,  Cement Building  West  Side,Randam 604407","1.Rantham  (R.V) And (P) Ward 1 Mettu Street  ,
+2.Rantham  (R.V) And (P) Ward1 Bajanai Koil Street ,
+3.Randam (R.V) And (P) Ward 1 Tank Street  ,
+4.Rantham  (R.V) And (P) Ward 2 Indira Nagar ,
+5.Rantham  (R.V) And (P) Ward 2 Mettu Street  ,
+6.Rantham  (R.V) And (P) Ward 2 Bajanai Koil Street  ,
+7.Rantham  (R.V) And (P) Ward 2 Tank Street"
+30,68,30,30,"Government Higher Secondary School,Room  No.1 Nabard Building  South  Facing,  Randam  Village  & Post 604407","1.Rantham  (R.V) And (P) Ward 2 Thennandai Street  ,
+2.Rantham  (R.V) And (P) Ward 2 Arunthathiyar  Street ,
+3.Rantham  (R.V) And (P) Ward 2 BorKuzhai Street ,
+4.Rantham  (R.V) And (P) Ward 2 Nadhu Street  ,
+5.Rantham  (R.V) And (P) Ward 2 Tank Street  ,
+6.Rantham  (R.V) And (P) Ward 2 Solai Nagar ,
+7.Nayanthangal (R.V) Rantham(P) Ward 2 Arunthathiyar Street  , 8.Nayanthangal (R.V) And Ranthan(P) Ward  2 Bajanai Koil Street  , 9.Nayanthangal (R.V) Rantham(P) Ward 2 Kuravar Street , 10.Nayanthangal (R.V) Rantham(P) Ward 2  Tank Street  , 11.Nayanthangal (R.V) Ranthanm (P) Ward 2 Pattai Street  ,
+12.Nayanthangal (R.V) And Rantham(P) Ward 2 Thanthoniamman Koil Street , 13.Nayanthangal (R.V) Rantham(P) Ward 2  Erular Colony"
+31,68,31,31,"Govt High  School South SSA Building  East  Room Thennampattu 632511,Thennampattu 632511","1.Thennampattu (R.V) And (P) Ward 1 Praminar Street, 2.Thennampattu (R.V) And (P) Ward 1 Periya Street ,  3.Thennampattu (R.V) And (P) Ward 1 Thanthoniyamman  Koil Street , 4.Thennampattu (R.V) And (P) Ward 1 Theradi Street , 5.Thennampattu (R.V) And (P) Ward 2 Main  Road Street  , 6.Thennampattu (R.V) And (P) Ward 3 Chinna Street  , 7.Thennampattu (R.V) And (P) Ward 3 Pudu Colony  Street"
+32,68,32,32,"Panchayat Union Elementary  School Center Building,Thennampattu 632511","1.Thennampattu (R.V) And (P) Ward 2 Vijaya Rice  Mill Street  , 2.Thennampaattu (R.V) And (P) Ward 2 Thangal Street , 3.Thennampattu (R.V) And (P) Ward 2 Erular Colony  Street  , 4.Thennampattu (R.V) And (P) Ward 2 School Street , 5.Thennampattu (R.V) And (P) Ward 3 Bajanai Koil Street  , 6.Thennampattu (R.V) And (P) Ward 3 School Cross Street"
+33,68,33,33,"Panchayat Union Elementary  School,  North  Facing West Portion Building, Thiruvengadamthan Kudesai Village,  Thennampattu 632511","1.Thennampattu (R.V) And (P) Ward 2 Bajanai Koil Street  , 2.Thennampattu (R.V) And (P) Ward 3 Pillaiyar Koil Street  ,"
+34,68,34,34,"Panchayat Union Elementary  School,  North  Bulinding South Facing  ,Kuthanur  Village  & Post  604402","1.Kuthanur  (R.V) And (P) Ward 1 Bramanar  Street ,
+2.Kuthanur  (R.V) And (P) Ward 1 Big  Street  ,
+3.Kuthanur  (R.V) And (P) Ward 1 Small Street  ,
+4.Kuthunur (R.V) And (P) Ward 1 Thundhu Street  ,
+5.Kuthanur  (R.V) And (P) Ward 1 Mettu Street  ,
+6.Kuthanur  (R.V) And (P) Ward 2 School Street"
+35,68,35,35,"Panchayat Union Elementary  School,  South  Bulinding North Facing  West  part Kuthanur Village  & Post 604402","1.Kuthanur  (R.V) And (P) Ward 1 North  Bajanai Koil Street  ,
+2.Kuthanur  (R.V) And (P) Ward 1.  1st Cross Kullakarai Street  ,
+3.Kuthanur  (R.V) And (P) Ward 2 West  Road Street  ,
+4.Kuthanur  (R.V) And (P) Ward 2 Pillaiyar Koil Street  ,
+5.Kuthanur  (R.V) And (P) Ward 2 West  Bajanai Koil Street  ,
+6.Kuthanur  (R.V) And (P) Ward 1 2nd Cross Kullakarai Street  ,
+7.Kuthanur  (R.V) And (P) Ward 1 Kulakarai Street  ,
+8.Kuthanur  (R.V) And (P) Ward 2 1st Cross Road Street  ,
+9.Kuthanur  (R.V) And (P) Ward 2.  2nd  Cross Road Street , 10.Kuthanur  (R.V) And (P) Ward 2  North  Road Street  , 11.Kuthanur  (R.V) And (P) Ward 2  3rd Cross Road Street"
+36,68,36,36,"Govt.  High  School, North  Facing  South  Building  East Part,  Kuthanur  Village  & Post 604402","1.Melkanchankuzhi (R.V) And Kuthanur (P) Ward 3 Perumal Koil Street Melkangankuzhi ,
+2.MelKanchankuzhi (R.V) Kuthanur(P) Ward 3  Pillaiyar Koil St  Mel Kanchankuzhi , 3.MelKanchankuzhi (R.V) Kuthanur(P) Ward 3  Mettu Street MelKanchankuzi , 4.MelKanchankuzhi (R.V) Kuthanur(P) Ward 3  South  Bajanai Koil Street MelKanchankuzhi ,
+5.MelKanchankuzhi (R.V) Kuthanur(P) Ward 3  North  Bajanai Koil Street  . Melkanchankuzhi ,
+6.Kizh  Kanchankuzhi (R.V) Kuthanur(P) Ward 3  Kizh  Kanchankuzhi Pillaiyar  Koil Street  ,
+7.Kizh  Kanchankuzhi (R.V) Kuthanur(P) Ward 3  Kizhkanchankuzhi Mettu Street  ,
+8.Kuthanur  (R.V) And (P) Ward 3 North  Kurukku Street  ,
+9.Kuthanur  (R.V) And (P) Ward 3 East  Kurukku Street , 10.Kuthanur  (R.V) And (P) Ward 3  Mellandai Street  , 11.Kuthanur  (R.V) And (P) Ward 3  West  Road Street  , 12.Kuthanur  (R.V) And (P) Ward 3  Bajanai Koil Street  , 13.Kuthanur  (R.V) And (P) Ward 3  Mettu Street , 14.Kuthanur  (RV) And (P) Ward 3 Pillaiyar Koil Street"
+37,68,37,37,"Panachayat Union Elementary  School,Cheyyanur Vadaeluppai Post  632511","1.Cheyyanur (R.V) And (P) Ward 3 Cheyyanur Road Street , 2.Cheyyanur (R.V) And (P) Ward 3 Cheyyanur Pillaiyar  Koil Street , 3.Cheyyanur (R.V) And (P) Ward3 Cheyyanur Pettai Street  , 4.Cheyyanur (R.V) And (P) Ward3 Colony  Road Street  , 5.Cheyyanur (R.V) And (P) Ward3 Colony  Bajanai Koil Street , 6.Cheyyanur (R.V) And (P) Ward1 Cheyyanur Vellalar  Street , 7.Cheyyanur (R.V) And (P) Ward2 Cheyyanur Kammalar  Street  , 8.Cheyyanur (R.V) And (P) Ward1 Cheyyanur Palla Street , 9.Cheyyanur (R.V) And (P) Ward2 Cheyyanur Bramanar Street , 10.Cheyyanur (R.V) And (P) Ward 2 Bramanar  Street Melandai"
+38,68,38,38,"Goverment High  School, SSA East  Face,Vengalathur Village  & Post  604410","1.Vengalathur (R.V) And (P) Ward1 Vellalar  Street , 2.Vengalathur (R.V) And (P) Ward1 Bazaar Street , 3.Vengalathur (R.V) And (P) Ward1 Kammala Street  , 4.Vengalathur (R.V) And (P) Ward1 Bramanar Street  , 5.Vengalathur (R.V) And (P) Ward1 Mariyamman  Koil Street , 6.Vengalathur (R.V) And (P) Ward2 Karunikar Street  , 7.Vengalathur (R.V) And (P) Ward2 Oathavadai Street , 8.Vengalathur (R.V) And (P) Ward2 Kizhandai Mettu Street  , 9.Vengalathur (R.V) And (P) Ward2 Mariyamman  Koil Street , 10.Vengalathur  (R.V) And (P) Ward2 Vellalar  Kurukku Street"
+39,68,39,39,"Govt High  School SSA Building  West  Room,  South Building,Vengalathur  604410","1.Venkalathur  R.V) And (P) Ward 2 Thennandai Mettu Street , 2.Venkalathur  (R.V) And (P) Ward 2 Kulatu Street  ,
+3.Venkalathur  (P) And (P) Ward 3 Arijana Colony  1st Kurkku Street , 4.Venkalathur  (R.V) Venkalathur (P) Ward 3 Arijana Colony  2nd Street  , 5.Venkalathur  (R.V) Venkalathur (P) Ward 3 Arijana Colony  3rd Cross Street , 6.Venkalathur  (R.V) Venkalathur (P) Ward 3 Arijana Colony  4th  Cross Street  , 7.Venkalathur  (R.V) Venkalathur (P) Ward 3 Arijana Colony  5th  Cross Street"
+40,68,40,40,"Panchayat Union Elementary  SSA Building  East Room,Umayalpuram  604410","1.Venkalathur  (R.V) And (P) Ward 4 Kulathukarai Street  , 2.Venkalathur  (R.V) And (P) Ward 4 Bajanai Koil Street  , 3.Venkalathur  (R.V) And (P) Ward 4 Pramanar Street  , 4.Umaiyalpuram (R.V) And (P) Ward 4 Mettu Street  ,
+5.Umaiyalpuram (R.V) And Venkaluthur  (P) Ward  4 Murukar  Koil Street , 6.Umaiyalpuram ( R.V) Venkalathur (P) Ward 4 Road Street"
+41,68,41,41,"Adi Dravidar Welfare  Primary school, North  Building South Facing  East Part, Arasankuppam  Tirupanagadu Post  604410","1.Arasangkuppam  (R.V) And (P) Ward 1  Yadavar  Street , 2.Arasangkuppam  (R.V) And (P) Ward 1  Road Street , 3.Arasangkuppam  (R.V) And (P) Ward 1  Jakan  Jeevanram Street  , 4.Chettithangal (R.V) Arasangkuppam (P) Ward 2 Arijana Colony"
+42,68,42,42,"Panchayat Union Elementary  School,  South  Facing (New Building),Ozhukkavakkam  604410","1.Chettithangal (R.V) Arasangkuppam (P) Ward 2 Chettithangal Chettithangal Road Street  ,
+2.Chettithangal (R,V) Arasangkuppam (P) Ward 2 Chettithangal Pillaiyar Koil Street
+,
+3.Chettithangal (R.V) Arasangkuppam (P) Ward 3 Chettithangal Pudhu Street  , 4.Ozhukkavakkam (R.V) ArasangKuppam (P) Ward 3 Ozhukkavakkam  Amman Koil Street  ,
+5.Ozhukkavakkam(R.V) Arasangkuppam (P) Ward 3 Ozhukkavakkam  Road Street  , 6.Ozhukkavakam (R.V) Arasangkuppam (P) Ward 3 Ozhukkavakka Siruvanankadu"
+43,68,43,43,"Panachayat Union Elementary  School South  Facing building,Vellakkulam  Tirupanangadu Post  604410","1.Vellakulam (R.V) And (P) Ward 1 Atru Street  , 2.Vellakulam (R.V) And (P) Ward 1 Mariyamman  Koil Street , 3.Thalikkal (R.V) Vellakulam (P) Ward 1 Road St  Thalikkal ,
+4.Thalikkal (R.V) Vellakulam(P) Ward  1 Colony  Bajanai Koil Street , 5.Thalikkal (R.V) Vellakulam (P) Ward 2 Kottai Street ,
+6. Vellakulam (R.V) And (P) Ward 2 Vellakulam Colony  , 7.Vellakulam(R.V) And (P) Ward 2 Vellakulam Road  Street ,
+8. Vellakulam(R.V) And (P) Ward 2  Mettu Street"
+44,68,44,44,"Panachayat Union Middle  School Eastern Building,Tirupanangadu 604410","1.Thiruppanagadu (R.V) And (P) Ward 1 & 2 Road Street  , 2.Thiruppanagadu (R.V) And (P) Ward 1 Karuneekar Street , 3.Thiruppanagadu (R.V) And (P) Ward 1 Karuneekar Cross st 1 , 4.Thirupanankadu (R.V) And (P) Ward 1 Selliyamman Koil Street , 5.Thirupanankadu (R.V) And (P) Ward 1 Karuneekar  Pe.Street Mandaveli , 6.Thirupanankadu (R.V) And (P) Ward 1 Palaya Street  Karunekar Street 2 , 7.Thirupanankadu (R.V) And (P) Ward 1 Karunekar Cross Street  3 , 8.Thirupanankadu (R.V) And (P) Ward 1 Kammala Street , 9.Thirupanankadu (R.V) And (P) Ward 1 Velalar  Street , 10.Thirupanankadu (R.V) And (P) Ward 2 Odanthangal (Madura)"
+45,68,45,45,"Panachayat Union Middle  School Western Building,Tirupanangadu 604410","1.Thirupanankadu (R.V) And (P) Ward 2 Pillaiyar Koil Street , 2.Thirupanankadu (R.V) And (P) Ward 2 Mariyamman Koil Street , 3.Thirupanankadu (R.V) And (P) Ward 2 Bajanai Koil Periya Street  , 4.Thirupanankadu (R.V) And (P) Ward 2 Bajanai Koil Chinna Street  , 5.Thirupanankadu (R.V) And (P) Ward 2 Melandai Street  , 6.Thirupanankadu (R.V) And (P) Ward 2 Siruvanagkadu , 7.Thirupanankadu (R.V) And (P) Ward 2 Pudhucolony  1 Street  , 8.Thirupanankadu (R.V) And (P) Ward 2 Pudhucolony  2 nd Street  , 9.Thirupanankadu (R.V) And (P) Ward 2 Pudhu Colony  3 rd Street , 10.Thirupanankadu (R.V) And (P) Ward 2 Pudhu Colony  4th Street , 11.Thirupanankadu (R.V) And (P) Ward 1 J  J  Nagar 2nd Street  , 12.Thirupanankadu (R.V) And (P) Ward 1 J  J  Nagar 4 th Street  , 13.Thirupanankadu (R.V) And (P) Ward 1 J  J  Nagar 5 Street , 14.Thirupanankadu (R.V) And (P) Ward 1 J  J  Nagar 6th  Street , 15.Thirupanankadu (R.V) And (P) Ward 2 Bajanai Koil Street  Cross Street"
+46,68,46,46,"Govt Boys Higher Sec School North building  West facing,Vembakkam  Village  & Post  604410","1.Vempakkam  (R.V) And (P) Ward1 Palla Street , 2.Vempakkam  (R.V) And (P) Ward1 Bramanar Street , 3.Vempakkam  (R.V) And (P) Ward1Bajanai Koil Street , 4.Vempakkam  (R.V) And (P) Ward1 Mettu Street  , 5.Vempakkam  (R.V) And (P) Ward1 Pavundu Street  ,
+6.Vempakkam  (R.V) And (P) Ward2 Kailasanathar  Koil 1st Street , 7.Vempakkam  (R.V) And (P) Ward Kailasanathar  Koil 2nd  Cross Street  , 8.Vempakkam  (R.V) And (P) Ward3 Kailasanathar  Koil 3rd  Cross Street  , 9.Vempakkam  (R.V) And (P) Ward3 Oodaithangal Eari
+10.Vempakkam (R.V) And (P) Ward3 Arni Pattai St  1st  Street , 11.Vempakkam (R.V) And (P) Ward3 Venkallathur  Road Street"
+47,68,47,47,"Govt Boys Higher Sec School,West  Facing  North Building  North  Portion,Vembakkam  Village.  Post 604410","1.Vempakkam  (R.V) And (P) Ward2 Kailasanathar  Koil Street , 2.Vempakkam  (R.V) And (P) Ward3 Old Colony 1st Street , 3.Vempakkam  (R.V) And (P) Ward3 Alamara Street , 4.Vempakkam  (R.V) And (P) Ward 3  New Colony  1st Street  ,
+5.Vempakkam  (R.V) And (P) Ward3 New Colony  2nd Kurukku Street , 6.Vempakkam  (R.V) And (P) Ward3 New Colony  3rd Kurukku Street 7.Vempakkam  (R.V) And (P) Ward3 Old Colony 2nd  Kurukku Street  , 8.Vempakkam  (R.V) And (P) Ward3 Old Colony 3rd Kurukku Street  , 9.Vempakkam  (R.V) And (P) Ward3 Old Colony 4th  Kurukku Street , 10.Vempakkam (R.V) And (P) Ward3 Thriupannankaddu Road Street"
+48,68,48,48,"Govt Boys higher Sec.  school,  West  Facing  Building, East Building,Vembakkam  Village  & Post  604410","1.Vempakkam  (R.V) And (P) Ward2 Arni Pattai Street  , 2.Vempakkam  (R.V) And (P) Ward2 Tank Street  , 3.Vempakkam  (R.V) And (P) Ward2 Vaniyampadi Street , 3.Vempakkam  (R.V) And (P) Ward2 Thoppu Street  , 4.Vempakkam  (R.V) And (P) Ward2 Housing  Board"
+49,68,49,49,"Govt Boys higher Sec.  school ,East building  West facing,Vembakkam  Village  & Post  604410","1.Vempakkam  (R.V) And (P) Ward3 Road Street , 2.Vempakkam  (R.V) And (P) Ward3 Kullakari Street , 3.Vempakkam  (R.V) And (P) Ward3 Mettu Colony Street  , 4.Vempakkam  (R.V) And (P) Ward 3  J J  Nagar 1st Street  , 5.Vempakkam  (R.V) And (P) Ward3 J  J Nagar 2nd Street  , 6.Vempakkam  (R.V) And (P) Ward 3  J.J.Nagar 3rd Street , 7.Vempakkam  (R.V) And (P) Ward 3  J.J.Nagar 4th  Street  , 8.Vempakkam  (R.V) And (P) Ward 3  J.J.Nagar 5th  Street  , 9.Vempakkam  (R.V) And (P) Ward 3  J.J.Nagar 6th  Street  , 10.Vempakkam (R.V) And (P) Ward 3 J.J.Nagar 7th  Street , 11.Vempakkam (R.V) And (P) Ward 3 J.J.Nagar 8th  Street , 12.Vempakkam (R.V) And (P) Ward 3 J.J.Nagar 9th  Street"
+50,68,50,50,"Panachayat Union Elementary  School South  Building, North Side  Room,Azhividanthangi Village  &post 604402","1.Azhividaithangi (R.V) And Vayalur (P) Ward 1 Vavandai Street , 2.Azhividaithangi (R.V) Vayalur (P) Ward 1 Bramanar  Street , 3.Azhividaithangi (R.V) Vayalur (P) Ward 2 Nadu Street"
+51,68,51,51,"Panchayat Union Ele  School North  Second Building,Azhividaithangi Village  &post  604402","1.Azhividaithangi (R.V) Vayalur (P) Ward 1 Melandai Street  , 2.Azhividaithangi (R.V) Vayalur (P) Ward 2 Thenandai Street  , 3.Azhividaithangi (R.V) Vayalur (P) Ward 2 Raman  Thoppu , 4.Azhividaithangi (R.V) Vayalur (P) Ward 2 Konamadai"
+52,68,52,52,"Panachayat Union Elementary  School,  South  Building, North Facing,Vayaloor H O Village  Azhividaithangi  post  604402","1.Azhividaithangi (R.V) Vayalur Ward 5 School Street Vayalur , 2.Azhividaithangi (R.V) Vayalur (P) Ward 5 Mariyamman Koil Street Vayalur , 3.Azhividaithangi (R.V) Vayalur (P) Ward 5 Bajanai koil Street Vayalur , 4.Azhividaithangi (R.V) Vayalur (P) Tharsalai ,
+5.Azhividaithangi (R.V) And (P) Thennandai Street , 6.Azhividaithangi (R.V) and Vayalur P) Melandai Street"
+53,68,53,53,"Govt Higher  Sec School East  SSA Building  North Room,Azhividanthangi Village  &post 604402","1.Azhividaithangi (R.V) And (P) Ward 3 Bairavapuram  , 2.Azhividaithangi (R.V) And (P) Ward 3 J.J.Nagar colony  , 3.Azhividaithangi (R.V) And (P) Ward 3 Uthukattu Ellaiyamman  Street , 4.Azhividaithangi (R.V) And (P) Ward 3 Mariyamman Koil Street , 5.Azhividaithangi (R.V) And (P) Ward 3 Bajanai Koil Street"
+54,68,54,54,"Panchayat Union Elementary  School,Jambodai H O Village  Azhividanthangi Post  604402","1.Azhividaithangi ( R.V) And (P) Ward 4 Road Street Jambodai , 2.Azhividaithangi (R.V) And (P) Ward 4 Bajanai Koil Street  , 3.Azhividaithangi (R.V) And (P) Ward 4 Pillaiyar Koil Street  , 4.Azhividaithangi (R.V) And (P) Ward 4 Road Street , 5.Azhividaithangi (R.V) And (P) Ward 4 Pillaiyar Koil Street  ,
+6.Azhividaithangi (R.V) And (P) Ward 4 Perumal Koil Street Edapalayam , 7.Azhividaithangi (R.V) And (P) Ward 4 Vempakkam  Road , 8.Azhividaithangi (R.V) And (P) Ward 4 Thundu Street  , 9.Azhividaithangi (R.V) And (P) Ward 4 Colony  Perumal Pettai , 10.Azhividaithangi (R.V) And (P) Ward 4 Mariyamman Koil Street , 11.Azhividaithangi (R.V) And (P) Ward 3 Kosa Street"
+55,68,55,55,"Panachayat Union Middle  School , North Centre Building,  South Facing,Perumanthangal Azhividanthangi Post  604402","1.Perumanthangal (R.V) And (P) Ward 1 Mariyamman Koil Street , 2.Perumanthangal (R.V) And (P) Ward 1 Pillaiyar Koil Street  , 3.Perumanthangal (R.V) And (P) Ward 1 Bajanai Koil Street  , 4.Perumanthangal (R.V) And (P) Ward 1 Road street  , 5.Perumanthangal (R.V) And (P) Ward 1 Kallamparai Street  , 6.Perumanthangal (R.V) And (P) Ward 1 Kalamparai 2nd Street , 7.Perumanthangal (R.V) And (P) Ward 1 Kalambarai Street , 8.Perumanrthagal (R.V) And (P) Ward 1 Karuppan  Nagar"
+56,68,56,56,"Panachayat Union Middle  school ,East Building West Facing,Thandappanthangal Azhividanthangal Post 604402","1.Thandapanthangal (R.V) And (P) Ward 2 Chinna Street , 2.Thandapanthangal (R.V) And (P) Ward 2 Pillaiyar Koil Street , 3.Thandapanthangal (R.V) And (P) Ward 2 Road Street  , 4.Thandapanthangal (R.V) And (P) Ward 2 Bajanai Koil Street  , 5.Thandapanthangal (R.V) And (P) Ward 2 Cross Street  , 6.Thandapanthangal (R.V) And (P) Ward 2 Mariyaamman  Koil Street , 7.Thandapanthangal (R.V) And (P) Ward 2 Kannikapuram"
+57,68,57,57,"Govt.  Higher  Secontary  School,  East Building  ,  South Room,  Vadamanapakkam Village  & Post 604402","1.Vadamanapakkam  (R.V) And (P) Ward 2 High School Street , 2.Vadamanapakkam  (R.V) And (P) Ward 2 Kizhandai Street , 3.Vadamanapakkam  (R.V) And (P) Ward 2 Bramanar  Street , 4.Vadamanapakkam  (R.V) And (P) Ward 2 Road Street"
+58,68,58,58,"Govt.  Higher  Secontary  School,  Nabard Building, South Facing  East part, Vadamanapakkam Village  & Post  604402","1.Vadamanapakkam  (R.V) And (P) Ward 3 Cross Street  , 2.Vadamanapakkam  (R.V) And (P) Ward 3 Thoppu Street  ,
+3.Vadamanapakkam  (R.V) And (P) Ward 3 Vinaithirtha Vinayagar Koil Street  , 4.Vadamanapakkam  (R.V) And (P) Ward 3 Mariyamman Koil Street , 5.Vadamanapakkam  (R.V) And (P) Ward 3 Palvadi Street  (Colony)"
+59,68,59,59,"Govt.  Higher  Secontary  School,  East Building,  West Facing,  North  Side  Room,  Vadamanapakkam  Village  & Post  604402","1.Vadamanapakkam  (R.V) And (P) Ward 1 Mettu Street  , 2.Vadamanapakkam  (R.V) And (P) Ward 1 & 2 Yathavar  Street"
+60,68,60,60,"Govt.  Higher  Secontary  School,  South Building,  North Facing,  East Side  Room,  Vadamanapakkam  Village  & Post  604402","1.Vadamanapakkam  (R.V) And (P) Ward 1 Achukuttai Street  , 2.Vadamanapakkam  (R.V) And (P) Ward 1 Periyar  Salai , 3.Vadamanapakkam  (R.V) And (P) Ward 1 Vembukula Street , 4.Vadamanapakkam  (R.V) And (P) Ward 1 Jai Nagar"
+61,68,61,61,"Govt High  School, South  Side,Moranam  Village  & Post 604407","1.Moranam  (R.V) And (P) Ward 1 Mettu Street  ,
+2.Moranam  (R.V) And (P) Ward 1 Manthaiveli North  Street ,
+3.Moranam  (R.V) And (P) Ward 1 Road Street ,
+4.Moranam  (R.V) And (P) Ward 1 Palla Street ,
+5.Moranam  (R.V) And (P) Ward 1 Pillaiyar Koil Street  ,
+6.Moranam  (R.V) And (P) Ward 1 Bramanar  Street ,
+7.Moranam  (R.V) And (P) Ward 2 Ponninagar Othavadi Street ,"
+62,68,62,62,"Panchayat Union primary  School, North  Facing East Building,Moranam  Village  & Post  604407","1.Moranam  (R.V) And (P) Ward 1 Thiruverkadu Street  ,
+2.Moranam  (R.V) And (P) Ward 1 Mariyamman Koil Street ,
+3.Moranam  (R.V) And (P) Ward 3 Moranam A Colony  Padasalai Street ,
+4.Moranam  (R.V) And (P) Ward 1 Manthaveli South  Street ,
+5.Moranam  (R.V) And (P) Ward 1 Palla Street Cross Street  ,
+6.Moranam  (R.V) And (P) Ward 2 Ponninagar Periya Street  ,
+7.Moranam  (R.V) And (P) Ward 2 Ponni Nagar Cross Street  ,
+8.Moranam  (R.V) And (P) Ward 3 Moranam A Colony  Pillaiyar Kovil Street"
+63,68,63,63,"Government High School,  West  Facing  Building  South Part,  Moranam  village  & Post 604407","1.Moranam  (R.V) And (P) Ward 2 Bajanai Koil Street  ,
+2.Moranam  (R.V) And (P) Ward 2 Vannarapettai ,
+3.Moranam  (R.V) And (P) Ward 3 Moranam A Colony  Bajanai Kovil Street ,
+4.Moranam  (R.V) And (P) Ward 3 Moranam A Colony  Madha Kovil Street ,
+5.Moranam  (R.V) And (P) Ward 3 Moranam A Colony  Mariyamman  Kovil Street"
+64,68,64,64,"Panchayat Union Elementary  School,  North  Facing South Building,  Melpootheri Village,  Moranam  Post 604407","1.Melpootheri (R.V) Moranam (P) Ward 3 Melpootheri Road Street , 2.Melpootheri (R.V) Moranam (P) Ward 3 Melpootheri Old Street  , 3.Melpootheri (R.V  Moranam  (P) Ward 3  Melpootheri Erikkarai Street , 4.Melpootheri (R.V) Moranam (P) Ward 3 Melpootheri Cross Street"
+65,68,65,65,"Panachayat union  elementary school ,  North Portion,Thalarapadi Village  sennasamuthiram post 632506","1.Thalarapadi (R.V) And (P) Ward 1 Thalarapadi Pillaiyar Koil Street , 2.Thalarapadi (R.V) And (P) Ward 1 Thalarapadi School Street , 3.Thalarapadi (R.V) And (P) Ward 1 Mettu Street  ,
+4.Thalarapadi (R.V) And (P) Ward 1 Adidiravidar  Colony  Angalamman Koil ST , 5.Thalarapadi (R.V) And (P) Ward 1 Adidiravidar  Colony  Perumal Koil St , 6.Thalarapadi (R.V) And (P) Ward 1 Adidiravidar  Colony  Mariyamman  Koil St , 7.Thalarapadi (R.V) And (P) Ward 1 Adidiravidar  Quarters Ambethkar Nagar
+8.Pulundai (R.V) Thalarapadi (P) Ward 2  Manthangal Road Street"
+66,68,66,66,"Panchayat Union Primary  School, East  Facing Building,  Pulundai Village  Sennasamuthiram Post 632506","1.Pulundai (R.V) Thalarapadi (P) Ward 2  Amman Koil Street  ,
+2.Pulundai (R.V) Thalarapadi (P) Ward 2  School Street ,
+3.Pulundai (R.V) Thalarapadi Ward 2  Adidiravidar Quarters Periya Street  ,
+4.Pulundai (R.V) Thalarapadi (P) Ward 2  Pulundai Colony  ,
+5.Pulundai (R.V) And (P) Ward 2 Sagayapuram Colony  ,
+6.Pulundai (R.V) Thalarapadi (P) Ward 2  Sagayapuram  Perumal Koil Street ,
+7.Pulundai (R.V) Thalarapadi (P) Ward 2  Madha Koil Street  ,
+8.Pulundai (R.V) Thalarapadi (P) Ward 2  Karunikar Nagar"
+67,68,67,67,"Panachayat Union Elementary  School,Booderi pullavakkam moranam  post  604407","1.Pootheri (r.v) pootheripullavakkam  (p) Ward 1  pootheri pillaiyar  koil street  ,
+2.Pootheri (R.V) Pootheripullavakkam  (P) Ward 1  Pootheri Perumal Koil Street ,
+3.Pootheri (r.v) pootheripullavakkam  (p) Ward 1  pootheri murugar  koil street , 4.Pullavakkam (R.V) Pootheripullavakkam  (P) Ward 2  Pullavakkam  Indira Nagar"
+68,68,68,68,"Govt High  School East Building,Booderi Pullavakkam Moranam  Post 604407","1.Pullavakkam (R.V) Pootheripullavakkam  (P) Ward 1  Pullavakkam  North Othavadai Street  ,
+2.Pullavakkam (R.V) PootheriPullavakkam  (P) Ward 2  Pullavakkam  New Rattaivadai Street  ,
+3.Pullavakkam (R.V) Pootheripullavakkam  (P) Ward 2  Pullavakkam  Old Rattaivadai Street  ,
+4.Pullavakkam (R.V) Pootheripullavakkam  (P) Ward 2  Pullavakkam  Kulathu Street  , 5.Pullavakkam (R.V) Pootheripullavakkam  (P) Ward 2  Pullavakkam  Road Street"
+69,68,69,69,"Panachayat Union Elementary  School North  Facing Building,Asanamapettai Village  & post  604402","1.Asanamapettai (R.V) And (P) Ward 1 Sannathi Street , 2.Asanamapettai (R.V) And (P) Ward 1 seniyar Street  , 3.Asanamapettai (R.V) And (P) Ward 1 Bajanai Koil Street  , 4.Asanamapettai (R.V) And (P) Ward 1 Pillaiyar Koil Street 5.Asanamapettai (R.V) And (P) Ward 2 Ponniyamman Koil Street , 6.Asanamapettai (R.V) And (P) Ward 2 Mel Street , 7.Asanamapettai (R.V) And (P) Ward 2 Pudu Street , 8.Asanamapettai (R.V) And (P) Ward 2 Tharumaraja Koil Street"
+70,68,70,70,"Panachayat Union Elementary  School,  East  Building West Facing  Asanamapettai Village  & post  631402","1.Asanamapettai (R.V) And (P) Ward 3 Theradi Street , 2.Asanamapettai (R.V) And (P) Ward 3 Angalamman Koil Street , 3.Asanamapettai (R.V) And (P) Ward 3 Manthoppu Street , 4.Kammanthangal (R.V) Asanamapettai (P) Ward 3  Kammanthangal , 5.Kammanthangal (R.V) Asanamapettai (P) Ward 3  Variyar Street  , 6.Kammanthangal (R.V) Asanamapettai (P) Ward 3  Road Street"
+71,68,71,71,"Govt Girls Higher  Sec School Northern  Building,South facing,Thenkazhani 604402","1.Thenkazhani (R.V) And (P) Ward 1 Periya Street  , 2.Thenkazhani (R.V) And (P) Ward 1 Kailasanathar  Koil Street , 3.Thenkazhani (R.V) And (P) Ward 1 Kammalar  Street  , 4.Thenkazhani (R.V) And (P) Ward 1 Mariyamman  Koil Street  , 5.Thenkazhani (R.V) And (P) Ward 1 Cross Street"
+72,68,72,72,"Govt Girls Higher  Sec School Western Building  Right Side  Room,Thenkazhani Village  604402","1.Thenkazhani (R.V) And (P) Ward 2 Veerapathiran  Koil Street , 2.Thenkazhani (R.V) And (P) Ward 2 Bajanai Koil Street , 3.Thenkazhani (R.V) And (P) Ward 2 Pudu Street  , 4.Thenkazhani (R.V) And (P) Ward 2 Kulakkarai Street , 5.Thenkazhani (R.V) And (P) Ward 2 Sathira Street  , 6.Thenkazhani (R.V) And (P) Ward 2 2nd Cross Street"
+73,68,73,73,"Government Girls Higher Secondary School,South Side  Building North  Facing  East part ,Thenkazhani Village  Hasanamapettai Post 631702","1.Thenkazhani (R.V) And (P) Ward 2 Kannigapuram  Street  , 2.Thenkazhani (R.V) And (P) Ward 2 M.G.R. Nagar Bharathiyar  Street  , 3.Thenkazhani (R.V) And (P) Ward 2 M.G.R.Nagar.  Thiruvalluvar  Street  , 4.Thenkazhani (R.V) And (P) Ward 2 M.G.R. Nagar Kamarajar  Street ,
+5.Thenkazhani (R.V) And (P) Ward 2 M.G.R. Nagar Arinjar  Annadurai Street  , 6.Thenkazhani (R.V) And (P) Ward 2 M.G.R. Nagar Pillaiyar Koil Street  , 7.Thenkazhani (R.V) And (P) Ward 2 M.G.R. Nagar Road Street , 8.Thenkazhani (R.V) And (P) Ward 2 Thangal Street ,
+9.Thenkazhani (R.V) And (P) Ward 2 Salai Kulam  Street"
+74,68,74,74,"Govt Boys Higher Secondary School North  Side Building  Room  No 31,Perunkattur 604402","1.Perunkattur (R.V) And (P) Ward 3 Vellalar  Street , 2.Perunkattur (R.V) And (P) Ward 3 Kammalar  Street  , 3.Perunkattur (R.V) And (P) Ward 3 Vaniyar Street , 4.Perunkattur (R.V) And (P) Ward 3 Bramanar Street  , 5.Perunkattur (R.V) And (P) Ward 1 J.J.  Nagar"
+75,68,75,75,"Panchayat Union Elementary  School North Building,Perunkattur 604402","1.Perunkattur (R.V) And (P) Ward 1 Vettaikkaran Street  , 2.Perunkattur (R.V) And (P) Ward 1 Neelamanikka Perumal Koil Street, 3.Perunkattur (R.V) And (P) Ward 1 Bajanai Koil Street ,
+4.Perunkattur (R.V) And (P) Ward 1 Road Street"
+76,68,76,76,"Govt boys higher  secondary  school,  East  Building West Facing,Perunkattur  604402","1.Perunkattur (R.V) And (P) Ward 1 Murugesan Street , 2.Perunkattur (R.V) And (P) Ward 3 Kuttaikarai Street  , 3.Perunkattur (R.V) And (P) Ward 2 Mettu Street"
+77,68,77,77,"Adi Dravidar Welfare  Primary school, South  Bluiding North Facing,  Perunkattur  Village  Post  604402","1.Perunkattur (R.V) And (P) Ward 2 Muthumariyamman  Koil Street  , 2.Perunkattur (r.v) and (p) Ward  2 pongavanam street  , 3.Perunkattur (R.V) And (P) Ward 3 Kulathu Street ,
+4.Perunkattur (R.V) And (P) Ward 3 New colony  , 5.Perunkattur (R.V) And (P) Ward 2 Colony  Bajanai Koil Street"
+78,68,78,78,"Panchayat Union Elementary  School,New Building North Facing  West  Part,  Kodayampakkam Azhividathangi Post  604402","1.Kodaiyampakkam (R.V) And (P) Ward 1 Vadavandai Street , 2.Kodaiyampakkam (R.V) And (P) Ward 1 Mettu Street  , 3.Kodaiyampakkam (R.V) And (P) Ward 1 Bajanai Koil Street  , 4.Kodaiyampakkam (R.V) And (P) Ward 1 Nadu street  , 5.Kodaiyampakkam (R.V) And (P) Ward 1 Giramani Street  , 6.Kodaiyampakkam (R.V) And (P) Ward 1 South  Street 7.Kodaiyampakkam (R.V) And (P) Ward 1 Manikara Street"
+79,68,79,79,"Panachayat union  elementary School,  North  Facing South Building,  Alanthangal Village,  Azhividathangi post  604402","1.Alanthangal (R.V) And (P) Ward 2 Main Road Street M.G.R. , 2.Alanthangal (R.V) And (P) Ward 2 Pilaiyar  Koil Street"
+80,68,80,80,"Panchayat Union Middle  School,North  Facing South side  Building  West  Part, Sumangali village  & Post 604402","1.Sumangali (R.V) And (P) Ward 1 Amman  Kula Street , 2.Sumangali (R.V) And (P) Ward 1 Pudu Street , 3.Sumangali (R.V) And (P) Ward 1 Road Street , 4.Sumangali (R.V) And (P) Ward 1 Bramanar  Street , 5.Sumangali (R.V) And (P) Ward 1 Theradi Street , 6.Sumangali (R.V) And (P) Ward 1 Periya Street  , 7.Sumangali (R.V) And (P) Ward 1 Pudu Street 1st  Street  , 8.Sumangali (R.V) And (P) Ward 1 Pudu Street 2nd Street  , 9.Sumangali (R.V) And (P) Ward 1 Pudu Street 3rd Street"
+81,68,81,81,"Panchayat union  middle  school East Building  West facing,Sumangali village  & post  604402","1.Sumangali (R.V) And (P) Ward 1 Bajanai Koil Street  , 2.Alanthangal (R.V) Sumangali (P) Ward 2 Thangal Street , 3.Sumangali (R.V) And (P) Ward 2 Kulalar  Street  , 4.Sumangali (R.V) And (P) Ward 2 Amman  Koil Street  , 5.Sumangali (R.V) And (P) Ward 2 Sellapa Nagar 1st  Street  , 6.Sumangali (R.V) And (P) Ward 2 Sellappa Nagar 2nd Street"
+82,68,82,82,"Panchayat union  elementary school ,  North Facing,Karanthai Colony  Village  vembakkam Post 604410","1.Karanthai (R.V) And (P) Ward 1 Road Street  , 2.Karanthai (R.V) And (P) Ward 1 Bajanai Koil Street  , 3.Karanthai (R.V) And (P) Ward 1 Perumal Koil Street  , 4.Karanthai (R.V) And (P) Ward 1 Mandavelli Street  , 5.Karanthai (R.V) And (P) Warad 1 Thoppu Street  ,
+6.Karanthai (R.V) And (P) Ward 2 Mariyamman Koil Street (Colony) , 7.Karanthai (R.V) And (P) Ward 2 Bajanai Koil Street  (Colony) , 8.Karanthai (R.V) And (P) Ward 2 Murugar Koil Street (Colony) , 9.Karanthai (R.V) And (P) Ward 2 Pudu Street (Colony) , 10.Karanthai (R.V) And (P) Ward 2 Grouphouse  Street (Colony) , 11.Karanthai (R.V) And (P) Ward 1 Othavadai Street  ,
+12.Karanthai (R.V) And (P) Ward 1 Kannan  Koil Street  , 13.Karanthai (R.V) And (P) Ward 1 Bajanai Koil Cross Street  1 , 14.Karanthai (R.V) And (P) Ward 1 Bajanai Koil Cross Street  2 , 15.Karanthai (R.V) And (P) Ward 1 Jain  Koil Melandai Street , 16.Karanthai (R.V) And (P) Ward 1 Jain  Koil Thennandai Street  , 17.Karanthai (R.V) And (P) Ward 1 Jain  Koil Kilandai Street , 18.Karanthai (R.V) And (P) Ward 1 Thamarai Kuttai Street , 19.Karanthai (R.V) And (P) Ward 2 Parai Street ,
+20.Karanthai (R.V) And (P) Ward 2 Pudu Street 2 , 21.Karanthai (R.V) And (P) Warad  2 Pudu Street 3 , 22.Karanthai (R.V) And (P) Ward 2 Kinarttu Street"
+83,68,83,83,"Panchayat Union Primary  School, Venkatrayanpettai, Thiruppanamur  Village,  vembakkam Post  604410","1.Venkatrayan Pettai (R.V) Thirupanmoor (P) Ward 3 Venkatrayan  Pettai Bajanai Koil Street  ,
+2.Venkatrayan Pettai (R.V) Thirupanamoor  (P) Ward 3  Venkatrayan  Pettai Pillaiyar Koil Street  ,
+3.Venkatrayan Pettai (R.V) Thirupanamoor  (P) Ward 3  Venkatrayan  Pettai Road Street  ,
+4.Vengatrayan Pettai (R.V) Thirupanamoor  (P) Ward 3  Vengatrayan Pettai Mandavelli Street  ,
+5.Selari (R.V) Thirupanamoor(P) Ward 3 Selari Village  ,
+6.Seleri (R.V) Thirupanamoor (P) Ward 3  Seleri Adidiravidar  Colony  ,
+7.Seleri (R.V) Thirupanamoor (P) Ward 3  Seleri Road Street ,
+8.Seleri (R.V) Thiruppanamoor (P) Ward 3 Seleri Othavadai Street"
+84,68,84,84,"Government Adidravidar  welfare  Primary School,Thiruppanamur Mettu colony,vembakkam Taluk and Post  604410","1.Thiruppanamoor (R.V) and (P) Ward  1 Mettu Nagar Kizhvandai Street  , 2.Thirupanamoor (R.V) And (P) Ward 1 Mettu Nagar Bajanai Koil Street  , 3.Thiruppanamoor (R.V) And (P) Ward 1 Mettu Nagar Othavadai Street"
+85,68,85,85,"Panchayat union  middle  school, West Facing,Thiruppanamur Village  vembakkam Post 604410","1.Thirupanamoor (R.V) And (P) Ward 1 Alamara Street  , 2.Thirupanamoor (R.V) And (P) Ward 2 Thamarai Kuttai Street , 3.Thirupanamoor (R.V) And (P) Ward 2 Pavundu Street  , 4.Thirupanamoor (R.V) And (P) Ward 1 Juyar Mandaba Street , 5.Thirupanamoor (R.V) And (P) Ward 2 Road Street , 6.Thirupanamoor (R.V) And (P) Ward 2 Mandavelli Street  , 7.Thirupanamoor (R.V) And (P) Ward 2 Bajanai Koil Street  , 8.Thirupanamoor (R.V) And (P) Ward 2 Padavettamman Koil Street , 9.Thirupanamoor (R.V) And (P) Ward 2 Mariyamman Koil Street , 10.Thirupanamoor  (R.V) And (P) Ward 2  Thoppu Street  ,
+11.Thirupanamoor  (R.V) And (P) Ward 2  Jeeyar  Mandapa Road Street , 12.Thirupanamoor  (R.V) And (P) Ward 2  Jeeyar  Mandapa Othavadai Street , 13.Thirupanamoor  (R.V) And (P) Ward 2  Jeeyar  Mandapa Varapathi Street , 14.Thirupanamoor  (R.V) And (P) Ward 1  Jain  Koil Street  , 15.Thirupanamoor  (R.V) And (P) Ward 2  Alamara Street  2 , 16.Thirupanamoor  (R.V) And (P) Ward 1  Eswarn  Koil Street , 17.Thirupanamoor  (R.V) And (P) Ward 2  Mettu Street ,
+18.Thirupanamoor  (R.V) And (P) Ward 2  Palla Street  , 19.Thirupanamoor  (R.V) And (P) Ward 2  Kuravar  Street 20.Thirupanamoor  (R.V) And (P) Ward 2  Pudu Street , 21.Thirupanamoor  (R.V) And (P) Ward 2  Mandavelli Street  2 , 22.Thirupanamoor  (R.V) And (P) Ward 2  Sandu Street"
+86,68,86,86,"Panchayat Union Middle  school,Pillanthangal village  & post  604410","1.Pillanthangal (R.V) And (P) Ward 1 Colony  First  Street  , 2.Pillathangal (R.V) And (P) Ward 1 Road Street ,
+3.Pillathangal (R.V) And (P) Ward 1 Iruvatchi Amman  Koil Street  , 4.Pillathangal (R.V) And (P) Ward 2 Kinatru Street , 5.Pillathangal (R.V) And (P) Ward 2 Perumal Koil Street  , 6.Pillathangal (R.V) And (P) Ward 2 Vettaikar Street ,
+7.Pillathangal (R.V) And (P) Ward 2 Thanthoni Amman  Koil Street , 8.Pillathangal (R.V) And (P) Ward 2 Velalar Street ,
+9.Pillathangal (R.V) And (P) Ward 2 Tank Street  , 10.Pillathangal (R.V) And (P) Ward 2 Sandu Street , 11.Pillathangal (R.V) And (P) Ward 2 Vettaikara Sandu Street"
+87,68,87,87,"Govt High  School, West  side,Namandi Village  & post 604410","1.Namandi (R.V) And (P) Ward  1 Melandai Street  ,
+2.Namandi (R.V) And (P) Ward  1 Nadu street  ,
+3.Namandi (R.V) And (P) Ward  1 Kilandai Street"
+88,68,88,88,"Panchayat Union Elementary  School,Ariyarapakkam Viillage  Namandi post  604410","1.Ariyarappakkam (R.V) Namandi (P) Ward 1 Bajanai Koil Street  , 2.Ariyarappakkam (R.V) Namandi (P) Ward 2 Road Street  , 3.Ariyarappakkam (R.V) Namandi (P) Ward 2 Mettu Street , 4.Ariyarappakkam (R.V) And Namandi(P) Ward 2 School West  Street, 5.Ariyarappakkam (R.V) Namandi (P) Ward 2 School East Street 6.Ariyarappakkam (R.V) Namandi (P) Ward 2 Namandi Koadu Street  , 7.Ariyarappakkam (R.V) Namandi (P) Ward 2 Musilim Street"
+89,68,89,89,"Panchayat Union Elementary  School SSA Eest Building,Namandi Village  & post 604410","1.Namandi (R.V) And (P) Ward  2 Chinna Street ,
+2.Namandi (R.V) And (P) Ward  2 Periya Street ,
+3.Namandi (R.V) And (P) Ward  2 Tank Street  ,
+4.Namandi (R.V) And (P) Ward  2 School Street ,
+5.Namandi (R.V) And (P) Ward  2 Main Road ,
+6.Namandi (R.V) And (P) Ward  2 Karuneegar  Veethi ,
+7.Namandi (R.V) And (P) Ward  3 Mettu Street"
+90,68,90,90,"Panchayat Union Elementary  School,Vadamavandhal 604410","1.Vadamavanthal (R.V  Namandi (P) Ward 3 Bajanai Koil Street , 2.Vadamavanthal (R.V) Namandi (P) Ward 3  Eswaran  Koil Street  , 3.Vadamavanthal (R.V) Namandi (P) Ward 3  Colony  Tank Street , 4.Vadamavanthal (R.V0 Namandi (P) Ward 3  Senkanniyamman  Street  , 5.Vadamavanthal (r.v) and namandi (p) Ward 3  periyar street"
+91,68,91,91,"Panchayat Union Elementary  School East  Side Building,Chithathur  Village  & post  604410","1.Chithathur (R.V) And (P) Ward 1 Kulakkarai Veethi , 2.Chithathur (R.V) And (P) Ward 1 Selvavinayagar  Koil Street , 3.Chithathur (R.V) And (P) Ward Velalar Street ,
+4.Chithathur (R.V) And (P) Ward 1 Mariyamman Kovil Street  , 5.Chithathur (R.V) And (P) Ward 1 Velalar Cross Street  , 6.Chithathur (R.V) And (P) Ward 3 Kammavar  Street , 7.Chithathur (R.V) And (P) Ward 3 Melandai Vanniyar Street  , 8.Chithathur (R.V) And (P) Ward 3 Thatchar  Street , 9.Chithathur (R.V) And (P) Ward 2 Vanniyar Street  , 10.Chithathur  (R.V) And (P) Ward 3 Bramanar  Street ,
+11.Chithathur  (R.V) And (P) Ward 1 Kulakkarai Veethi 1st Cross Street"
+92,68,92,92,"Panchayat Union Elementary  School East  Building Room no  2,Chithathur Village  & post 604410","1.Chithathur (R.V) And (P) Ward 1 Road Street , 2.Chithathur (R.V) And (P) Ward 2 Road Street Colony  ,
+3.Chithathur (R.V) And (P) Ward 2 Road Cross 1st  Street  Colony  , 4.Chithathur (R.V) And (P) Ward 2 Road Cross 2nd Street  Colony  , 5.Chithathur (R.V) And (P) Ward 2 Road Cross 3rd Street  Colony , 6.Chithathur (R.V) And (P) Ward 2 Road Cross 4th  Street  Colony  , 7.Chithathur (R.V) And (P) Ward 2 Perumal Koil Street  Colony  , 8.Chithathur (R.V) And (P) Ward 2 Perumal Koil Cross Street , 9.Chithathur (R.V) And (P) Ward 3 Pillaiyar Koil Street Sanarppandai , 10.Chithathur  (R.V) And (P) Ward 3 Pillaiyar Koil 1st Cross Street  , 11.Chithathur  (R.V) And (P) Ward 3 Pillaiyar Koil 2nd Cross Street  , 12.Chithathur  (R.V) And (P) Ward 1 Mettu Street"
+93,68,93,93,"Govt Higher  Sec School South  building,Chithathur Village  & post  604410","1.Chithathur (R.V) And (P) Ward 1 Mukamathiyar  Street  , 2.Chithathur (R.V) And (P) Ward 1 Kamaraji Street , 3.Chithathur (R.V) And (P) Ward 1 Melandai Sengunthar  Street , 4.Chithathur (R.V) And (P) Ward 1 1st Ricemill Cross Street  , 5.Chithathur (R.V) And (P) Ward 1 Bajanai Koil Street  , 6.Chithathur (R.V) And (P) Ward 1 Ricemill Road Street  , 7.Chithathur (R.V) And (P) Ward 2 Kizhandai Sengunthar Street  , 8.Chithathur (R.V) And (P) Ward 1 New Street  ,
+9. Kanagampakkam (R.V) Hariharapakkam  (P) Ward 2  Kanagampakkam 1st  Cross Street,
+10.  Kanagampakkam  (R.V) Hariharapakkam  (P) Ward 2  Kanagampakkam 2nd Cross Street,
+11.  Kanagampakkam  (R.V) Hariharapakkam  (P) Ward 2  Kanagampakkam 3rd Cross Street"
+94,68,94,94,"Panchayat Union Elementary  School Main Building,Thiruvadirayapuram Chithathur Post  604410","1.Thiruvadirayapuram  (R.V) Kilnelli (P) Ward  2 Thiruvadirayapuram Periya Street  , 2.Thiruvadirayapuram  (R.V) Kilnelli (P) Ward  2 Thiruvadirayapuram 1st  Cross Street  ,
+3.Thiruvadirayapuram  (R.V) Kilnelli (P) Ward  2 Thiruvadirayapuram 2nd Cross Street  ,
+4.Thiruvadirayapuram  (R.V) Kilnelli (P) Ward  2 Thiruvadirayapuram 3rd Cross Street  ,
+5.Thiruvadirayapuram  (R.V) Kilnelli (P) Ward  2 Ottrai Vadai Street"
+95,68,95,95,"Panchayat Union Elementry  School ,  East Wing,Kanagampakkam Chithathur Post  604410","1.Ward 2 Kanagampakkam 1st  Cross Street,
+2.Ward 2 Kanagampakkam 2nd Cross Street,
+3.Ward 2 Kanagampakkam 3rd Cross Street"
+96,68,96,96,"Panchayat Elementary  school,  Rcc building  south face,  Kilnelli village  Chithathur Post  604410","1.Kilnelli (r.v) and (p) Ward 3 vellalar street ,
+2.Kilnelli (R.V) And (P) Ward 3 Kullakarai Street ,
+3.Kilnelli (R.V) And (P) Ward 3 Big  Street"
+97,68,97,97,"Panchayat Union Elementary  School South Building,Kilnelli Chithathur Post  604410","1.Kilnelli (R.V) And (P) Ward 2 Arijana Colony  West  Side  Othavadai St ,
+2.Kilnelli (R.V) And (P) Ward 3 Valluvar  Street ,
+3.Kilnelli (R.V) And (P) Ward 3 Bajanai Koil Street  ,
+4.Kilnelli (R.V) And (P) Ward 3 Mettu Street  ,
+5.Kilnelli (R.V) And (P) Ward 3 Ganga Nagar ,
+6.Kilnelli (R.V) And (P) Ward 3 Padukalam  Street  ,
+7.Kilnelli (R.V) And (P) Ward2 Arijana Colony  Southside  Othavadai St  ,
+8.Kilnelli (R.V) And (P) Ward 2 Mariyamman Koil Street ,
+9.Kilnelli (R.V) And (P) Ward2 Arijana Colony  North  side  Othavadai St"
+98,68,98,98,"Panchayat Union Elementary  School,  West Facing,Kaganam  Village  & Post  604410","1.Kaganam  (R.V) And (P) Ward 1 Bajanai Koil Street  ,
+2.Kaganam  (R.V) And (P) Ward 1 Melandai Street  ,
+3.Kaganam  (R.V) And (P) Ward 1 Kizhandai Street ,
+4.Kaganam  (R.V) And (P) Ward 1 Nadu Street  ,
+5.Kaganam  (R.V) And (P) Ward 1 Thennandai Street  ,
+6.Kaganam  (R.V) And (P) Ward 1 Thoppu Street  ,
+7.Kaganam  (R.V) And (P) Ward 2 Mettu Street  ,
+8.Kaganam  (R.V) And (P) Ward 1 Palla Street  ,
+9.Kaganam  (R.V) And (P) Ward 2 Pudu Street ,
+10.Kaganam  (R.V) And (P) Ward 2 Othavadai Street  ,
+11.Kaganam  (R.V) And (P) Ward 1 Thoppu Cross Street ,
+12.Kaganam  (R.V) And (P) Ward 1 Thoppu Road Street"
+99,68,99,99,"Panchayat Union Elementary  School,  North Portion,Kunnathur post  604402","1.Kunnathur  (R.V) And (P) Ward 1  Bramanar  Street , 2.Kunnathur  (R.V) And (P) Ward 1  Kizhandai Street , 3.Kunnathur  (R.V) And (P) Ward 1  Pillaiyar Koil Street  , 4.Kunnathur  (R.V) And (P) Ward 1  Mettu Street , 5.Kunnathur  (R.V) And (P) Ward 2  Road Street , 6.Kunnathur  (R.V) And (P) Ward 2  Bajanai Koil Street  , 7.Kunnathur  (R.V) And (P) Ward 2  School Street , 8.Kunnathur  (R.V) And (P) Ward 2  Sandhu Street  , 9.Kunnathur  (R.V) And (P) Ward 2  Road Street ,
+10.Kunnathur (R.V) And (P) Ward 2 & 3 Harijana Colony  Bajanai Koil Street  , 11.Perumandi (R.V) Kunnathur  (P) Ward 3  Mettu Street ,
+12.Perumandi (R.V) Kunnathur  (P) Ward 3  Perumandi Bajanai Koil Street"
+100,68,100,100,"Panchayat Union Elementary  School,Melapattu(H/o) Thenpoondipattu Ramakrishnapuram  Post  604402","1.Thenpoondipattu (R.V) And (P) Ward 1  Thenpoondipattu , 2.Thenpoondipattu (r.v) and (p) Ward 1 old colony  , 3.Thenpoondipattu (r.v) and (p) Ward 1 melappattu , 4.Thenpoondipattu (r.v) pappanthangal (p) Ward 2 Bharathanthangal"
+101,68,101,101,"Panchayat Union Elementary  School,Jaderi Village Ramakrishnapuram  Post 604 402","1.Thenpoondipattu (R.V) And (P) Ward 1  Pudu Colony  ,
+2.Jaderi (R.V) Thenpoondipattu (P) Ward 2  Jaderi Bajanai Koil Street  ,
+3.Jaderi (R.V) Thenpoondipattu (P) Ward 2  Jaderi Road Street ,
+4.Jaderi (R.V) Thenpoondipattu (P) Ward 2  Jaderi Mettu Street  ,
+5.Jaderi (R.V) Thenpoondipattu (P) Ward 2  Jaderi Kulakkarai Street"
+102,68,102,102,"Panchayat Union Elementary  School North  Side  New Building  ,,Arathirevellore  Viilage  604402","1.Arathirivellore  (R.V) And (P) Ward 1 Pillaiyar Koil Street , 2.Arathirivellore  (R.V) And (P) Ward 1 Periya Street , 3.Arathirivellore  (R.V) And (P) Ward 2 Cheyyar  Road Street , 4.Arathirivellore  (R.V) And (P) Warad 2 Cross Street  , 5.Arathirivellore  (R.V) And (P) Ward 1 Thoppu Street  ,
+6.Ramakrishnapuram (R.V) Arathirivellore  (P) Ward 1  Thiruvalluvar Nagar"
+103,68,103,103,"Panchayat Union Middle  School,East  Facing  Building, Ramakrishnapuram  Village  & Post  604402","1.Ramakrishnapuram (R.V) Arathirivellore  (P) Ward 1  Pudu Street , 2.Ramakrishnapuram (R.V) Arathirivellore  (P) Ward 2  Palla Street  , 3.Ramakrishnapuram (R.V) Arathirivellore  (P) Ward 2  Kalangal Street 4.Ramakrishnapuram (R.V) Arathirivellore  (P) Ward 1  Kollaimettu Street 5.Ramakrishnapuram (R.V) Arathirivellore  (P) Ward 1  Manthaiveli Street  , 6.Ramakrishnapuram (R.V) Arathirivellore  (P) Ward 2  Periya Street , 7.Ramakrishnapuram (R.V) Arathirivellore  (P) Ward 2  Mottur"
+104,68,104,104,"Panachayat Union Elementary  School North Facing,Arumbaruthi Village  Ramakrishnapuram  Post 604402","1.Arumparuthi (R.V) And (P) Ward 1 Narikuravar Colony  Vasanthapuram  , 2.Arumparuthi (R.V) And (P) Ward 1 Narikuravar Colony  Tank  Street , 3.Arumparuthi (R.V) And (P) Ward 1 Narikuravar Colony  Road Street  , 4.Arumparuthi (R.V) And (P) Ward 1 Arumparuthi Mettu Street  , 5.Arumparuthi (R.V) And (P) Ward 1 Arumparuthi Palla Street  , 6.Arumparuthi (r.v) and (p) Ward 3 mettu colony  vinayagar koil street , 7.Arumparuthi (R.V) And (P) Ward 3 Mettu Colony  Murugar  Koil Street , 8.Arumparuthi (R.V) And (P) Ward 3 Mettu Colony  Mariyamman  Koil Street"
+105,68,105,105,"Panachayat Union Elementary  School,  North Portion,Sirunkattur Ramakrishnapuram  Post 604402","1.Sirukattur  (R.V) Arumparuthi (P) Ward 2 Sirukattur Alamara Street , 2.Sirukattur  (R.V) Arumparuthi (P) Ward 2 Sirukattur Arsamara Street  , 3.Sirukattur  (R.V) Arumparuthi (P) Ward 2 Sirukattur School Street , 4.Sirukattur  (R.V) Arumparuthi (P) Ward 2 Sirukattur Bramanar  Street , 5.Sirukattur  (R.V) Arumparuthi (P) Ward 2 Sirukattur Ayammal Street  , 6.Sirukattur  (R.V) Arumparuthi (P) Ward 2 Sirukattur Pillaiyar Koil Street  , 7.Sirukattur  (R.V) Arumparuthi (P) Ward 2 Sirukattur Road  Street , 8.Sirukattur  (R.V) Arumparuthi (P) Ward 2 Colony  Sathiya Nagar 9.Sirukattur  (R.V) Arumparuthi (p) Ward 2 Palla Colony  Tank Street  , 10.Sirukattur (R.V) Arumparuthi (P) Ward  3 Palla Colony  Anthoniyar  Street  , 11.Sirukattur (R.V) Arumparuthi (P) Ward  3 Madha Koil Street  Palla Colony  ,
+12.Sirukattur (R.V) Arumparuthi (P) Ward  3 Muthumariyamman Koil Street Palla Colony ,
+13.Sirukattur (R.V) Arumparuthi (P) Ward  3 Vannarapettai Palla Colony"
+106,68,106,106,"Panchayat Union Elementary  School,  South  Facing Building  North  Side,  Senkattankundil & Post 604407","1.Senkattankundil (R.V) And (P) Ward 1 Periya Street , 2.Senkattankundil (R.V) And (P) Ward 1 Bramanar  Street , 3.Senkattankundil (R.V) And (P) Ward 1 Cross Street  , 4.Senkattankundil (R.V) And (P) Ward 1 Kamala Street  , 5.Senkattankundil (R.V) And (P) Ard 1 Ponniyamman Koil Street , 6.Senkattankundil (R.V) And (P) Ward 1 Kulakkarai Street , 7.Senkattankundil (R.V) And (P) Ward 1 Kannigapuram"
+107,68,107,107,"Panchayat Union Elementary  School,  West  Facing Building,  East side,  Senkattankundil VillagePost 604407","1.Senkattankundil (R.V) And (P) Ward 2 Old Colony  Road Street 2.Senkattankundil (R.V) And (P) Ward 2 Old Colony  1st  Cross Street  , 3.Senkattankundil (R.V) And (P) Ward 2 Old Colony  2nd Cross Street  , 3.Senkattankundil (R.V) And (P) Ward 2 New Colony  1st Cross Street  , 4.Senkattankundil (R.V) And (P) Ward 2 New Colony  Road Street  , 5.Senkattankundil (R.V) And (P) Ward 2 New Colony  2nd  Cross Street  , 6.Senkattankundil (R.V) And (P) Ward 2 New Colony  3rd  Cross Street  , 7.Senkattankundil (R.V) And (P) Ward 2 Samanthipuram , 8.Senkattankundil (R.V) And (P) Ward 2 Malligapuram , 9.Senkattankundil (R.V) And (P) Ward 2 Erular Colony"
+108,68,108,108,"Government High School East  Facing  New Building, Eanathavadi Village  Murukkathampoondi Post 604407","1.Eanathavadi (R.V) And (P) Ward 1 Pillaiyar Kovil Street , 2.Eanathavadi (R.V) And (P) Ward 2 Dhanasekarapuram  , 3.Eanathavadi (R.V) And (P) Ward 2 M.G.R Nagar , 4.Eanathavadi (R.V) And (P) Ward 2J.J Nagar 1st  Street  ,
+5.Eanathavadi (R.V) And (P) Ward 2 Adidiravidar  Colony  Bajanai Koil Street , 6.Eanathavadi (R.V) And (P) Ward 2 Adidravidar  Colony  Nadu Street  , 7.Eanathavadi (R.V) And (P) Ward 2 J.J  Nagar 2nd Street"
+109,68,109,109,"Government High School East  Side,Eanathavadi Murukkathampoondi Post 604407","1.Eanathavadi (R.V) And (P) Ward 1 Bramanar  Street , 2.Eanathavadi (R.V) And (P) Ward 1 Cross Street  , 3.Eanathavadi (R.V) And (P) Ward 1 Mettu Street  , 4.Eanathavadi (R.V) And (P) Ward 2 Kosapalayam  Street  , 5.Eanathavadi (R.V) And (P) Ward 2 Mariyamman Koil Street , 6.Eanathavadi (R.V) And (P) Ward 2 Naickar Kula Street  ,
+7.Eanathavadi (R.V) And (P0 Ward  2 Kosapalayam  Melandai Street"
+110,68,110,110,"Panchayat Union Elementary  school,  East face building  Vadugappattu Murukathampoondi Post 604407","1.Murugathampoondi (R.V) And (P) Ward 1  Road Street , 2.Murugathampoondi (R.V) And (P) Ward 1  Mettu Street , 3.Murugathampoondi (R.V) And (P) Ward 1  Pillaiyar Koil Street  , 4.Murugathampoondi (R.V) And (P) Ward 2  Bajanai Koil Street  , 5.Murugathampoondi (R.V) And (P) Ward 2  Braminar  Street , 6.Murugathampoondi (R.V) And (P) Ward 2  Cross Street"
+111,68,111,111,"Government High school,  North  Face Building,Vadugappattu Village,  Murukathampoondi Post  604407","1.Vadugappattu (R.V) Murugathampoondi (P) Ward 2 Vadugapattu Salai Street  , 2.Vadugappattu (R.V) Murgathampoondi (P) Ward 2  Bajanai Koil Street  , 3.Vadugappattu (R.V) Murgathampoondi (P) Ward 2  Mettu Street , 4.Vadugappattu (R.V) Murgathampoondi (P) Ward 2  Thirowbathi Amman  Koil Street  ,
+5.Vadugapattu (R.V) Murgathampoondi (P) Ward  3 Palla Street  , 6.Vadugapattu (R.V) Murgathampoondi (P) Ward  3 Mettu Street , 7.Vadugapattu (R.V) Murgathampoondi (P) Ward  3 Road Street , 8.Vadugapattu (R.V) Murgathampoondi (P) Arad 3 Jayanthi Colony"
+112,68,112,112,"Panachayat Union Elementary  School,Serampattu Murukkathampoondi Post 604407","1.Serampattu (R.V) Vadugapattu (P) Ward 1 Ellamman Koil Street , 2.Serampattu (R.V) Vadugapattu (P) Ward 1 Pillaiyar Koil Street  , 3.Serampattu (R.V) Vadugapattu (P) Ward 1 School Street , 4.Serampattu (R.V) Vadugapattu (P) Ward 1 Mettu Street"
+113,68,113,113,"Panchayat union  Middle  school,  SSA Building,  West Side  Building,Thandarai Murukkathampoondi Post 604407","1.Thandarai (R.V) And (P) Ward 1 Bramanar Street , 2.Thandarai (R.V) And (P) Ward 1 Vanniyar  Street , 3.Thandarai (R.V) And (P) Ward 1 Vaniya Street  , 4.Thandarai (R.V) And (P) Ward 1 Yathavar  Street  , 5.Thandarai (R.V) And (P) Ward 1 Road Street ,
+6.Thandarai (R.V) And (P) Ward 2 Sanniyasi Street,  Kulathumettu Street"
+114,68,114,114,"Panchayat Union Middle  School,  North  Face  New Building,Thandarai Village  Murukkathampoondi Post 604407","1.Thandarai (R.V) And (P) Ward 2 Palla Colony  ,
+2.Thandarai (R.V) And (P) Ward 2 Palla Colony  Mariyamman  Koil Street , 3.Thandarai (R.V) And (P) Ward 2 North Mettu Colony"
+115,68,115,115,"Panachayat Union Elementary  School,Sundivakkam Senkanttankundil Post  604407","1.Sundivakkam (R.V) Thandarai (P) Ward 1 Road Street , 2.Sundivakkam (R.V) Thandarai (P) Ward 1 Pillaiyar  Kovil Street  , 3.Sundivakkam (R.V) Thandarai (P) Ward 1 Erikkarai Street , 4.Sundivakkam (R.V) Thandarai (P) Ward 1 Kulakkarai Street , 5.Sundivakkam (R.V) Thandarai (P) Ward 1 School Street ,
+6.Sundivakkam (R.V) Thandarai (P) Ward 2 Adidiravidar  Colony  Tank  Street , 7.Sundivakkam (R.V) Thandarai (P) Ward 2 Adidiravidar  Colony  Road street , 8.Sundivakkam (R.V) Thandarai (P) Ward 2 Adidiravidar  Colony  Amman Kovil Street  ,
+9.Sundivakkam (R.V) Thandarai (P) Ward 2 Adidiravidar  Colony  Periya street"
+116,68,116,116,"Panachayat Union Elementary  School,Perumpallam Village  Arugavoor Post  604407","1.Perumpallam (R.V) And (P) Ward 1 Bramanar Street , 2.Perumpallam (R.V) And (P) Ward 1 Cross Street , 3.Perumpallam (R.V) And (P) Ward 1 Rattaivadai Street  , 4.Perumpallam (R.V) And (P) Ward 1 Pattai street  , 5.Perumpallam (R.V) And (P) Ward 1 Perumal Kovil Street  , 6.Perumpallam (R.V) And (P) Ward 1 Mettu Street , 7.Perumpallam (R.V) And (P) Ward 2 Road Street , 8.Perumpallam (R.V) And (P) Ward 2 J.J.  Nagar , 9.Perumpallam (R.V) And (P) Ward 2 Kulakkarai Street  , 10.Perumpallam  (r.v) and (p) Ward 2 Arijana colony  , 11.Perumpallam  (r.v) and (p) Ward 2 karukkanthangal"
+117,68,117,117,"Panchayat Union Elementary  School,  North  Portion West Facing,Arugavoor Village  & Post 604407","1.Arugavur (r.v) and (p) Ward 1 velalar street ,
+2.Arugavur (R.V) And (P) Ward 1 Kuyavar Street  ,
+3.Arugavur (R.V) And (P) Ward 1 Road Street ,
+4.Arugavur (R.V) And (P) Ward 1 Arikrishnapuram ,
+5.Arugavur (R.V) And (P) Ward 2 Indiranagar Adidiravidar  Colony  ,
+6.Arugavur (r.v) and (p) Ward 2 adidiravidar colony  mariyaman koil ,
+7.Arugavur (R.V) And (P) Ward 2 Adidiravidar  Colony  Pillaiyar  Koil"
+118,68,118,118,"Panchayat Union Elementary  School North  Side  West facing  Building,Papanthangal Village  & Post  604407","1.Pappanthagal (R.V) And (P) Ward 1 Jaderi Salai , 2.Pappanthagal (R.V) And (P) Ward 1 Arcot  Salai ,
+3.Pappanthagal (R.V) And (P) Ward 1 Angalaparameswari Koil Street  , 4.Pappanthagal (R.V) And (P) Ward 1 Kanni Koil Street , 5.Pappanthagal (R.V) And (P) Ward 1 Pillaiyar  Koil Street , 6.Pappanthagal (R.V) And (P) Ward 1 School Street ,
+7.Pappanthagal (R.V) And (P) Ard 1 Ponniyamman  Koil Street , 8.Pappanthagal (R.V) And (P) Ward 1 Perumal Koil Street , 9.Pappanthagal (R.V) And (P) Ward 1 Othavadai Street"
+119,68,119,119,"Panchayat Union Elementary  School South  Side  New Building,Papanthangal Village  & Post  604407","1.Ganesapuram  (R.V) Pappanthagal (P) Ward 1 Ganesapuram , 2.Ganesapuram  (R.V) Pappanthagal (P) Ward 1 Bajanai Koil Street  , 3.Poomanthangal (R.V) Pappanthagal (P) Ward 2  Poomanthangal Annamal Koil Street  ,
+4.Pazhaveri (R.V) Pappanthagal (P) Ward 2 Pazhaveri ,
+5.Pudur (R.V) Pappanthagal (P) Ward 2 Pudur"
+120,68,120,120,"Panachayat Union Elementary  School SSA Building North Side,Dooli Papanthangal Post  604407","1.Duli (R.V) And (P) Ward 2 Duli Ottravadai Street  ,
+2.Duli (R.V) And (P) Ward 2 Mettu Street  ,
+3.Duli (R.V) And (P) Ward 2 Duli Kannagoundar  Street ,
+4.Duli (R.V) And (P) Ward 2 Duli School Street ,
+5.Duli (R.V) And (P) Ward 2 Duli Ottar Street  ,
+6.Duli (R.V) And (P) Ward 2 Duli Duli Colony  2nd Street ,
+7.Duli (R.V) And (P) Ward 3 Duli Palla Street  ,
+8.Duli (R.V) And (P) Ward 3 Duli Pillaiyar Koil Street ,
+9.Duli (R.V) And (P) Ward 3 Duli Pari Nagar ,
+10.Duli (R.V) And (P) Ward 2 Duli Colony  1st  Street ,
+11.Duli (R.V) And (P) Ward 2 Duli Colony  3rd Street ,
+12.Duli (R.V) And (P) Ward 2 Alamara Street  ,
+13.Duli (R.V) And (P) Ward 2 School Street"
+121,68,121,121,"Panachayat Union Elementary  School North Side,Periyakoil Village  604407","1.Periya Koil (R.V) Duli (P) Ward 1  Periya Koil Pillaiyar Koil Street ,
+2.Periya Koil (R.V) Duli (P) Ward 1  Periya Koil Kulakkarai Street ,
+3.Periya Koil (R.V) Duli (P) Ward 1  Periya Koil School Street ,
+4.Periya Koil (R.V) Duli (P) Ward 1  Periya Koil Karbaga Vinayagar Koil Street  ,
+5.Periya Koil (R.V) Duli (P) Ward 1  Periya Koil Perumal Koil Street  ,
+6.Periya Koil (R.V) Duli (P) Ward 1  Periya Koil Periya Koil Colony"
+122,68,122,122,"Govt HR.sec School ,South  face  Nabard Building, Nedumpirai villageNedumpirai village  & Post  604407","1.Nedumpirai (R.V) And (P) Ward 1 Melandai Street  , 2.Nedumpirai (R.V) And (P) Ward 1 Vadavandai Street , 3.Nedumpirai (R.V) And (P) Ward 1 Nadu Street  , 4.Nedumpirai (R.V) And (P) Ward 2 Pillaiyar Koil Street  , 5.Nedumpirai (r.v) and (p) Ward 1 melandai street ,"
+123,68,123,123,"Govt.  HR.sec School,  East side  west  face  building, Nedumpirai village  & Post  604407","1.Nedumpirai (R.V) And (P) Ward 2 Kizhandai Street , 2.Nedumpirai (R.V) And (P) Ward 2 Nathakollai Street  , 3.Nedumpirai (R.V) And (P) Ward 2 Road Street , 4.Nedumpirai (R.V) And (P) Ward 2 Kulakkarai Street , 5.Nedumpirai (R.V) And (P) Ward 2 J.J.  Nagar  , 6.Nedumpirai (R.V) And (P) Ward 2 Adidiravidar  Colony  ,
+7.Nedumpirai (R.V) And (P) Ward 8 Adidiravidar  Group Houses , 8.Nedumpirai (R.V) And (P) Ward 2 Road Cross Street"
+124,68,124,124,"Panchayat Union Elementary  School West Side,Mariyanallur  kakanam post  604410","1.Mariyanallur (R.V) And (P) Ward 1 Maniyakarar Street  , 2.Mariyanallur (R.V) And (P) Ward 1 Road Street , 3.Mariyanallur (R.V) And (P) Ward 1 Irular Colony  , 4.Mariyanallur (R.V) And (P) Ward 2 Karuneegar Street  , 5.Mariyanallur (R.V) And (P) Ward 2 Cross Street  ,
+6.Mariyanallur (R.V) And (P) Ward 2 Thuluganathamman  Koil Street  , 7.Mariyanallur (R.V) And (P) Ward 1 Ediga Street ,
+8.Mariyanallur (R.V) And (P) Ward 2 Ellaiyamman  Koil Street ,
+9.Mangalam  (R.V) Palli (P) Ward 4 Mangalam  Mettu Nagar , 10.Mangalam  (R.V) Palli (P) Ward 4 Mangalam  Pillaiyar Koil Street , 11.Mangalam  (R.V) Palli (P) Warad 4 Mangalam  Ediga Street  , 12.Mangalam  (R.V) Palli (P) Ward 4 Mangalam  Bajanai Koil Street"
+125,68,125,125,"Panachayat Union Elementary School,Vadapoondipattu Kakanam Post  604410","1.Vadapoondipattu (R.V) Vadapoondipattu (P) Ward 2 Pillaiyar Koil Street , 2.Vadapoondipattu (R.V) Vadapoondipattu (P) Ward 1 Ramar  Koil Street , 3.Vadapoondipattu (R.V) Vadapoondipattu (P) Ward 1 Road Street  , 4.Vadapoondipattu (R.V) Vadapoondipattu (P) Ward 1 Cross Street  , 5.Vadapoondipattu (R.V) Vadapoondipattu (P) Ward 1 Mariyamman Koil Street , 6.Vadapoondipattu (R.V) Vadapoondipattu (P) Ward 2 School Street , 7.Vadapoondipattu (R.V) Vadapoondipattu (P) Ward 2 Perumal Koil Street  , 8.Vadapoondipattu (R.V) Vadapoondipattu (p) Ward 2 gengaiyamman  koil street , 9.Vadapoondipattu (R.V) Vadapoondipattu (P) Ward 2 Mootha Koil Street , 10.Vadapoondipattu (R.V) Vadapoondipattu (P) Ward 2 Dr.  Ambethkar  Street"
+126,68,126,126,"Panachayat Union Elementary  School,Thumbai Village Palli Post 604407","1.Thumbai (R.V) And (P) Ward  1 Pillaiyar Koil Street  ,
+2.Thumbai (R.V) And (P) Ward  2 Old Colony  ,
+3.Thumbai (R.V) And (P) Ward  2 New Colony  ,
+4.Thumbai (R.V) And (P) Ward  3 Kiliyathur  Road Street ,
+5.Thumbai (R.V) And (P) Ward  3 Vilvapuram"
+127,68,127,127,"Government Higher Secondary School South  Facing Building,Palli Village  & Post  604407","1.Palli (R.V) And (P) Ward 1 Bramanar  street  ,
+2.Palli (R.V) And (P) Ward 1 Karuneegar  Street ,
+3.Palli (R.V) And (P) Ward 1 Yathavar  Street  ,
+4.Palli (R.V) And (P) Ward 2 Pandithar  Street  ,
+5.Palli (R.V) And (P) Ward 2 Udaiyar Street  ,
+6.Palli (r.v) and (p) Ward 2 vannar street ,
+7.Palli (R.V) And (P) Ward 2 Mettu Street  ,
+8.Palli (R.V) Palli (P) Ward 2 Mettu Street  ,
+9.Mangalam  (R.V) Palli (P) Ward 2 Road Street , 10.Mangalam  (R.V) Palli (P) Ward 2 Mangalam  ,
+11.Palli (R.V) Palli (P) Ward  2 Kolavimedu ,
+12.Palli (R.V) And (P) Ward 2 Mariyamman Koil Street ,
+13.Palli (R.V) And (P) Ward 2 Perumal Kovil Street  ,
+14.Palli (R.V) And (P) Ward 2 Palla Colony  ,
+15.Palli (R.V) Palli (P) Ward  2 Palla Colony  Palli ,
+16.  Palli (R.V) And (P) Ward 2 School Street ,
+17.Vadakampattu (R.V) Palli (P) Ward  2 Pillaiyar Kovil Street  (Vadakalpattu)"
+128,68,128,128,"Government Higher Secondary School East  Facing Building,Palli Village  & Post  604407","1.Mangalam  (R.V) Palli (P) Ward 4 Mangalam  , 2.Erumanthangal(R.V) Palli (P) Ward  4 Road Street ,
+3.PALLI (R.V) And (P) Ward 4 Kammavar  Street Erumanthangal , 4.Vadaelapakkam (R.V) And (P) Ward 4 Vadaelapakkam  , 5.Erumanthangal (R.V) And (P) Ward 4 Poyar Street , 6.PALLI(R.V) And (P) Ward 4 Yathavar  Street  (Erumanthangal) ,
+7.Palli (R.V) And (P) Ward 4 Udaiyar Street  (Erumanthangal)"
+129,68,129,129,"Panchayat union  Elementary  School,Palli Mettu Nagar Palli post 604407","1.Palli (R.V) And (P) Ward 3 Perunkalathuran  Street ,
+2.Palli (R.V) And (P) Ward 3 Perumal Koil Street  ,
+3.Palli (R.V) And (P) Ward 3 Mariyamman Koil Street ,
+4.Palli (R.V) And (P) Ward 3 School Street ,
+5.Palli (R.V) And (P) Ward 3 Pudu Street , 6.PALLI(R.V) And (P) Ward 3 Kodi Street  ,
+7.PALLI (R.V) And (P) Ward 3 Mariyamman  Koil Cross Street"
+130,68,130,130,"Panchayat Union Elementary  School,Vadangampattu Village  & Post  604407","1.Vadangampattu(RV) Palli (P) Ward 1 Mottur  (vadangampattu) , 2.Vadangampattu(R.V) Palli (P) Ward 1  Mariyamman  koil street(vadakkalpattu) , 3.VadangampattuRV) Palli (P) Ward  1 Pillaiyar koil street(vadangampattu)"
+131,68,131,131,"Panchayat Union Elementary  School SSA Building,Karanai Village  & Post 604401","1.Karanai (R.V) And (P) Ward 2 Karanai Padasalai Street ,
+2.Karanai (R.V) And (P) Ward 2 Karanai Kizhandai Street ,
+3.Karanai (R.V) And (P) Ward 2 Karanai Melandai Street ,
+4.Karanai (R.V) And (P) Ward 2 Karanai Bajanai Koil Street  ,
+5.Karanai (R.V) And (P) Ward 2 Karanai Road Street ,
+6.Karanai (R.V) And (P) Ward 1 Palla Colony  Street ,
+7.Karanai (R.V) And (P) Ward 3 Ambedkar Main  Street ,
+8.Karanai (R.V) And (P) Ward 3 Mettu Colony  ,
+9.Karanai (R.V) And (P) Ward 3 Karanai Ambedkar  Kurukku 1st Street  ,
+10.Karanai (R.V) And (P) Ward 3 Karanai Ambedkar  Kurukku 2nd Street ,
+11.Karanai (R.V) And (P) Ward 3 Karanai Ambethkar  Kurukku 3rd Street"
+132,68,132,132,"Panchayat Union Elementary School,Pandiyampakkam  Village  Karanai Post  604401","1.Karanai (R.V) And (P) Ward 1 Pilliyar Koil Street  ,
+2.Karanai (R.V) And (P) Ward 1 Udaiyar Street  ,
+3.Karanai (R.V) And (P) Ward 1 Pandiyambakkam Road ,
+4.Karanai (R.V) And (P) Ward 1 Thoppu Street  ,
+5.Karanai (R.V) And (P) Ward 1 Pandiyambakkam Colony  Kinaru Street ,
+6.Karanai (R.V) And (P) Ward 1 Kanchipuram Salai
+7.Pandiyampakkam (R.V) Karanai (P) Ward 1 Pandiyampakkam  Mariamman Koil Street  ,
+8.Pandiyampakkam (R.V) Karanai (P) Ward 1 Pandiyambakkam  Colony  Nadu Street
+,
+9.Pandiyampakkam (R.V) Karanai (P) Ward 1 Pandiambakkam Colony  Oathavadai Street  ,"
+133,68,133,133,"Panchayat Elementary  school,  Rcc building  East face, Cholavaram  village  & Post 631701","1.Sozhavaram  (R.V) And (P) Ward 2 Kanniyamman Koil Street , 2.Sozhavaram  (R.V) And (P0 Ward  2 Perumal Koil Street , 3.Sozhavaram  (R.V) And (P) Ward 2 Mariyamman Koil Street , 4.Sozhavaram  (R.V) And (P) Ward 3 Road Street , 5.Sozhavaram  (R.V) And (P) Ward 3 Mettu Street"
+134,68,134,134,"Panchayat Elementary  school,  Rcc building  East face, Cholavaram  village  & Post 631701","1.Perumpulimedu (R.V) Sozhavaram  (P) Ward  1 Perumpulimedu Bajanai Koil Street
+,
+2.Perumpulimedu (R.V) Sozhavaram  (P) Ward  1 Perumpulimedu Nadu Street  , 3.Perumpulimedu (R.V) Solavaram  (P) Ward 1 Perumpulimedu Mariyamman  Koil Street  ,
+4.Perumpulimedu (R.V) Sozhavaram  (P) Ward  1 Perumpulimedu School Street , 5.Perumpulimedu (R.V) Sozhavaram  (P) Ward  1 Perumpulimedu Road Street , 6.Sozhavaram  (R.V) And (P) Ward 3 Kizhandai Street ,
+7.Sozhavaram  (R.V) And (P) Ward 3 Bajanai Koil Street"
+135,68,135,135,"Panachayat Union Middle  School,  East Building  West Face,Azhinsalpattu Solavaram  Post  631701","1.Azhinjalpattu (R.V) And (P) Ward 1 Pillaiyar Koil Street  , 2.Azhinjalpattu (R.V) And (P) Ward 1 Nadu Street  , 3.Azhinjalpattu (R.V) And (P) Ward 1 Othavadai Street  , 4.Azhinjalpattu (R.V) And (P) Ward 1 School Street , 5.Azhinjalpattu (R.V) And (P) Ward 1 Road Street ,
+6.Azhinjalpattu (R.V) And (P) Ward 1 Mettu Colony  Mariyamman  Koil Street , 7.Azhinjalpattu (R.V) And (P) Ward 1 Palla Colony  Perumal Koil Street"
+136,68,136,136,"Panachayat Union Elementary  School,  North  Facing Building,  Sellaperumpulimedu Village,  Solavaram Post 631701","1.Sellaperumpulimedu (R.V) Azhinjalpattu (P) Ward 2 Sellaperumpulimedu School Street  ,
+2.Sellaperumpulimedu (R.V) Azhinjalpattu (P) Ward 2 Sellaperumpulimedu Othavadai Street  ,
+3.Sellaperumpulimedu (R.V) Azhinjalpattu (P) Ward 2 Sellaperumpulimedu Nadu Street  ,
+4.Sellaperumpulimedu (R.V) Azhinjalpattu (P) Ward 2 Sellaperumpulimedu Road Street  ,
+5.Sellaperumpulimedu (R.V) Azhinjalpattu (P) Ward 2 Sellaperumpulimedu Pillaiyar Koil Street"
+137,68,137,137,"Panchayat Union Elementary  School Eastern  Building South Face,Vagai Village  Dusi Post 631702","1.Vagai (R.V) Thoosi(P) Ward  3 Bajanai Koil Street  Vagai ,
+2.Vagai (R.V) Thoosi(P) Ward  3 Othavadai Street  ,
+3.Vagai (R.V) Thoosi (P) Ward 3 Erataivadai Street  ,
+4.Vagai (R.V) Thoosi (P) Ward 3 Mariyamman Koil Street"
+138,68,138,138,"Panchayat Union Primary  School, East  Facing,Dusi Nathakollai Village  Dusi Post 631702","1.Vagai (R.V) And Thoosi (P) Ward 3  School Street ,
+2.Vagai (R.V) Thoosi (P) Ward 3 Kavankarai Street Keezhandai Street ,
+3.Vagai (R.V) Thoosi(P) Ward  3 Bajanai Koil Street  ,
+4.Vagai (R.V) Thoosi (P) Ward 3 Tank Street  ,
+5.Vagai(R.V) Thoosi (P) Ward 3 Pillaiyar Koil Street  Thoosi ,
+6.Vagai (R.V) Thoosi (P) Ward 3 Mettu Street  ,
+7.Vagai (R.V) Thoosi (P) Ward 3 Pillaiyar Koil Street vagai ,
+8.Vagai (R.V) Thoosi (P) Ward 3 Tank Vadavandai Street  ,
+9.Vagai (R.V) Thoosi (P) Ward 3 Kavankarai Street Melandai Street"
+139,68,139,139,"Panchayat Union Elementary  School ,  East Side, South Facing  Old Buiding,Dusi Village  & Post  631702","1.Dusi (R.V) And (P) Ward 1 Bajanai Koil Street  ,
+2.Dusi (R.V) And (P) Ward 1 Udaiyar  Street  ,
+3.Dusi (R.V) And (P) Ward 1 Vinayagar Koil Street ,
+4.Dusi (R.V) And (P) Ward 1 Othavadai Pramanar Street  ,
+5.Dusi (R.V) And (P) Ward 1 Perumal Koil Bramanar  Street ,
+6.Dusi (R.V) And (P) Ward 1 1st Bramanar Street ,
+7.Dusi (R.V) And (P) Ward 1 Kavankarai Street ,"
+140,68,140,140,"Panchayat union  Elementary  school ,West Building,Dusi Village  & Post  631702","1.Dusi (R.V) And (P) Ward 1 School Street ,
+2.Dusi (R.V) And (P) Ward 1 Vinayagapuram Ricemill Street ,
+3.Dusi (R.V) And (P) Ward 1 Tank Street  ,
+4.Dusi (R.V) And (P) Ward 1 Chiteri Street  ,
+5.Dusi (R.V) And (P) Ward 1 Kulakkari street"
+141,68,141,141,"Govt High  School, South  Facing Building Left Side  1st Room,Dusi Village  & Post  631702","1.Thoosi (R.V) And (P) Ward 2 Chettiar  Street ,
+2.Thoosi (R.V) And (P) Ward 2 Vellalar  Street  ,
+3.Thoosi (R.V) And (P) Ward 2 Valluvar  Street ,
+4.Thoosi (R.V) And (P0 Ward  2 Sub Register  Street  ,
+5.Thoosi (R.V) And (P) Ward 2 Musilim Street ,
+6.Thoosi (R.V) And (P) Ward 2 Gandhi Nagar  ,
+7.Thoosi (R.V) And (P) Ward 2 Vinayakar  Koil Street ,
+8.Thoosi (R.V) And (P) Ward 2 Borwell Street  ,
+9.Thoosi (R.V) And (P) Ward 2 Erular Street  ,
+10.Thoosi (R.V) And (P) Ward 2 Road Street ,
+11.Thoosi (R.V) And (P0 Ward 2 Poonga Nagar ,
+12.Thoosi (R.V) And (P) Ward 2 Vallalar Nagar"
+142,68,142,142,"Govt High  School, North  Facing  South  Building Right Side  1st Room,Dusi Village  & Post  631702","1.Thoosi (R.V) And (P) Ward 2 Thottakara Street  ,
+2.Thoosi (R,V) And (P) Ward 2 Ricemile  Street  ,
+3.Thoosi (R.V) And (P) Ward 2 Sadayandi Kollai Street  ,
+4.Thoosi (R.V) And (P) Ward 2 Pillaiyar Koil Street  ,
+5.Thoosi (R.V) And (P) Ward 2 Earikari Street  ,
+6.Thoosi (r.v) and (p) Ward 2 main road ,
+7.Thoosi (R.V) And (P) Ward 2 Officer  Street ,
+8.Thoosi (R.V) And (P) Ward 2 Police  Line  Street"
+143,68,143,143,"Panchayat Union Middle  School,  North Facing,Abdulapuram Village  Dusi Post 631702","1.Abdullapuram  (R.V) And (P) Ward 1  Annanagar Street , 2.Abdullapuram(R.V) And (P) Ward 1 Subramaniyar Koil Street , 3.Abdullapuram  (R.V) And (P) Ward 1  Thoppu Street  (North) , 4.Abdullapuram  (R.V) And (P) Ward 1  Big  Street  , 5.Abdullapuram  (R.V) And (P) Ward 3  Thoppu Street"
+144,68,144,144,"Panchayat Union Middle  School,  North  Building, South Facing,Abdulapuram Village  Dusi Post 631702","1.Abdullapuram  (R.V) And (P) Ward 2  Colony  Bajanai Koil Street , 2.Abdullapuram  (R.V) And (P) Ward 2  Rajivgandhi Nagar , 3.Abdullapuram  (R.V) And (P) Ward 2  K.K.Nagar , 4.Abdullapuram  (R.V) And (P) Ward 2  New Colony  Street , 5.Abdullapuram  (R.V) And (P) WArd 2 Group  House  Street  , 6.Abdullapuram  (R.V) And (P) Ward 2  Pillaiyar Koil Street , 7.Abdullapuram  (R.V) And (P) Ward 2  Athiyaman  Nagar"
+145,68,145,145,"Panchayat Union Middle  School,  West  Facing North Side  Building,  Abdulapuram  Village  Dusi Post 631702","1.Abdullapuram  (R.V) And (P) Ward 1  Adaigiamman Koil Street , 2.Abdullapuram  (R.V) And (P) Ward 1  Mariyamman  Koil Street , 3.Abdullapuram  (R.V) And (P) Ward 1  Main Road Street , 4.Abdullapuram  (R.V) And (P) Ward 2  Salai Street ,"
+146,68,146,146,"Adi Dravidar Welfare  School,Kuranginilmuttam  Dusi Post  631702","1.Kurankanil Muttam (R.V) Vadakalpakkam  (P) Ward 1  Kurankanil Muttam Selliamman Street ,
+2.Kurankanil Muttam (R.V) Vadakalpakkam  (P) Ward 1  Road Street , 3.Kurankanil Muttam (R.V) Vadakalpakkam  (P) Ward 1  School Street , 4.Kurankanil Muttam (R.V) Vadakalpakkam  (P) Ward 1  Perumal Koil Street  , 5.Kurankanil Muttam (R.V) Vadakalpakkam  (P) Ward 1  Mettucolony  Street New Street  ,
+6.Kurankanil Muttam (R.V) Vadakalpakkam  (P) Ward 1  Mettu Colony  Perumal Koil Street  ,
+7.Kurankanil Muttam (R.V) Vadakalpakkam  (P) Ward 1  Mettucolony  Road Street , 8.Kurankanil Muttam (R.V) Vadakalpakkam  (P) Ward 1  Othavadai School Street"
+147,68,147,147,"Panchayat Union Elementary  School,  SSA South Building,  North Facing,Pallavaram Village  Dusi Post 631702","1.Pallavaram  (R.V) And (P) Ward 1 Selva Vinayakar Koil Street , 2.Pallavaram  (R.V) And (P) Ward 1 Gengaiamman Koil Street  , 3.Pallavaram  (R.V) And (P) Ward 1 Gandhi Nagar  , 4.Pallavaram  (R.V) And (P) Ward1 Perumal Koil Street"
+148,68,148,148,"Panchayat Union Elementary  School West Face,Pallavaram Nathakollai Dusi Post  631702","1.Pallavaram  (R.V) And (P) Ward 2 Thoppu Street  , 2.Pallavaram  (R.V) And (P) Ward 2 Pillaiyar Koil Street  , 3.Pallavaram  (R.V) And (P) Ward 2 Bajanai Koil Street  , 4.Pallavaram  (R.V) And (P) Ward 1 Alamara Street"
+149,68,149,149,"Panchayat Union Elementary  School ,  SSA South Building  North  Facing,Kanikilluppai Dusi Post  631702","1.Kanikilupai (R.V) Kizhnaickkanpalayam (P) Ward 2 Eswaran  Koil Street  , 2.Kanikilupai (R.V) Kizhnaickkanpalayam (P) Ward 2 Pillaiyar Koil Street  , 3.Kanikilupai (R.V) Kizhnaickkanpalayam (P) Ward 2 Mariyamman Koil Street , 4.Kanikilupai (R.V) Kizhnaickkanpalayam (P) Ward 2 Erikkarai Street  , 5.Kanikilupai (R.V) Kizhnaickkanpalayam (P) Ward Ambethkar Street , 6.Kanikilupai (R.V) Kizhnaickkanpalayam (P) Ward 2 Road Street , 7.Kanikilupai (R.V) Kizhnaickkanpalayam (P) Ward 2 Murugar Koil Street ,
+8.Kanikilupai (R.V) Kizhnaickkanpalayam (P) Ward 2 Karumariyamman  Koil Street
+,
+9.Kanikilupai (R.V) Kizhnaickkanpalayam (P) Warad 2  Eswaran Koil Road Street"
+150,68,150,150,"Panchayat Union Elementary  School Centre  Building, North Wing,  East Facing,Mamandur Village  & Post 631702","1.Mamandoor (R.V) And (P) Ward 1 Nayakkar Street  , 2.Mamandoor (R.V) And (P) Ward 1 Periya Street ,
+3.Mamandoor (R.V) And (P) Ward 2 Ottravadai Bramanar Street  , 4.Mamandoor (R.V) And (P) Ward 1 Bhavani Amman  Koil Street"
+151,68,151,151,"Panchayat Union Elementry  School, New Building West Facing,Mamandur Village  & Post  631702","1.Mamandoor (R.V) And (P) Ward 1 Erattaivadai Braman Street , 2.Mamandoor (R.V) And (P) Ward 2 Koothadi Street , 3.Mamandoor (R.V) And (P) Ward 2 Kammala Street  , 4.Mamandoor (R.V) And (P) Ward 2 Madurayanpettai Street , 5.Mamandoor (R.V) And (P) Ward 2 Mariyamman Koil Street , 6.Mamandoor (R.V) And (P) Ward 2 Theradi Street"
+152,68,152,152,"Govt Higher  Sec School,  West  Face Building,Mamandur Village  & Post  631702","1.Mamandoor (R.V) And (P) Ward 3 Road Street , 2.Mamandoor (R.V) And (P) Ward 3 Velalar Street"
+153,68,153,153,"Govt Higher  Sec School West  Facing Building,Mamandur Village  & Post  631702","1.Mamandoor (R.V) And (P) Ward 4 Saraswathipuram  , 2.Mamandoor (R.V) And (P) Ward 4 Saraswathipuram  Road Street  , 3.Mamandoor (R.V) And (P) Ward 4 Tharmapuram  ,
+4.Mamandoor (R.V) And (P) Ward 4 Santhaimedu , 5.Mamandoor (R.V) And (P) Ward 4 Tharmapuram"
+154,68,154,154,"Panchayat Union Elementary  School South  Building, North Facing,Mannur  631702","1.Kizhnaickkanpalayam (R.V) And (P) Ward 1 Mannur Road Street , 2.Kizhnaickkanpalayam (R.V) And (P) Ward 1 Muthuvinayagar Koil Street  , 3.Kizhnaickkanpalayam (R.V) And (P) Ward 1 Kizhnaickkanpalayam Road Street , 4.Kizhnaickkanpalayam (R.V) And (P) Ward 1 Mariyamman Koil Street , 5.Kizhnaickkanpalayam (R.V) And (P) Ward 1 Coloy  Road Street  , 6.Vadakalpakkam (R.V) Kilnayakanpalayam (P) Ward 2 Road Street (Vadakalpakkam) ,
+7.Vadakalpakkam (R.V) Kilnayakanpalayam (P) Ward 2 Vellalar  Street (Vadakalpakkam) ,
+8.Vadakalpakkam (R.V) Kilnayankanpalayam (P) Ward 2  Vinayagar  Koil Street (Vadakalpakkam)"
+155,68,155,155,"Panchayat Union Elementary  School Old Building North Wing,  East Face,Mannur 631702","1.Vadakalpakkam (R.V)  Kilnayakanpalyam (P) Ward  2  Bajanai Koil  Street (Vadakalpakkam) Colony ,
+2.Vadakalpakkam (R.V)  Kilnayakanpalayam (P)  Ward  3  Cross Street (Vadakalpakkam)  Colony , 3.Vadakalpakkam (R.V)  Kilnayakanpalayam (P)  Ward  3  Nadu Street (Vadakalpakkam) Colony  , 4.Vadakalpakkam (R.V)  Kilnayakanpalayam (P)  Ward  3  Moothakoil  Street (Vadakalpakkam)Colony  ,
+5.Vadakalpakkam (R.V)  Kilnayakanpalayam (P)  Ward  3  Ellaiyamman Koil  Street (Vadakalpakkam) ,
+6.Vadakalpakkam (R.V)  Kilnayakanpalayam (P)  Ward  3  Group  House 1st Street (Vadakalpakkam) ,
+7.Vazhavanthal  (R.V)  Kilnayakanpalayam (P)  Ward  3  Ellaiyamman Koil  Street (Vazhavanthal)  , 8.Vazhavanthal  (R.V)  Kilnayakanpalayam (P)  Ward  3  School  Street (Vazhavanthal)  , 9.Vazhavanthal  (R.V)  Kilnayakanpalayam (P)  Ward  3  Vinayagar Koil Street (Vazhavanthal)  , 10.Vazhavanthal  (R.V) Kilnayakanpalayam (P)  Ward  3  Mettu Street (Vazhavanthal) , 11.Vazhavathal (R.V) Kilnayakanpalayam (P)  Ward  3  Pulavar Govindan Street (Vazhavathal)  , 12.Vazhavathal (R.V) Kilnayakanpalayam (P)  Ward  3  Manthaveli Street (Vazhavathal) , 13.Vadakalpakkam (R.V)  Kilnayakanpalayam(P)  Ward  3  Grouphouse 2nd  Street (Vadakalpakkam) ,
+14.Vadakalpakkam (R.V)  Kilnayakanpalayam (P)  Ward  3  Grouphouse 3rd  Street (Vadakalpakkam) ,
+15.Vadakalpakkam (R.V)  Kilnayakanpalayam (P)  Ward  3  Group  House 4th  Street Vadakalpakkam"
+156,68,156,156,"Aringar Anna Govt  Higher  Sec.  School,  South building North facing,Menallur Village  & Post  631702","1.Mennallur  (R.V) And (P) Ward 1 Road Street , 2.Mennallur  (R.V) And (P) Ward 1 Eswaran Koil Street  ,
+3.Mennallur  (R.V) And (P) Ward 1 Pudupalayam  Road Street  , 4.Mennallur  (R.V) And (P) Ward 1 & 2 Yathavar  Street  , 5.Mennallur  (R.V) And (P) Ward 2 New Colony  1,2&3rd  Street ,
+6.Mennallur  (r.v) and (p) Ward2 othavadi bajanai kovil padavetamman kovil st"
+157,68,157,157,"Panchayat Union Elementary  School,  Old Building,Menallur  & Post  631 702","1.Poonaithangal (R.V) And (P) Ward 1 Eswaran Koil Street  , 2.Poonaithangal (R.V) And (P) Ward 1 Poonaithangal Road Street  , 3.Poonaithangal (R.V) And (P) Ward 1 Poonaithangal Mettu Street ,
+4.Poonaithangal (R.V) And (P) Ward 1 Poonaithangal Thiravpathyamman koilst  , 5.Girijapuram (R.V) Poonaithangal (P) Ward 2  Girijapuram Pillaiyar Koil Street , 6.Girijapuram (R.V) Poonaithangal (P) Ward 2  Girijapuram Cross Street  , 7.Girijapuram (R.V) Poonaithangal (P) Ward 2  Girijapuram Thoppu Street  , 8.Girijapuram (R.V) Poonaithangal (P) Ward 2  Girijapuram Road Street  , 9.Seniyanallur  (r.v) poonaithangal(p) Ward 3  seniyanallur pillaiyar  koil street  , 10.Seniyanallur  (R.V) Poonaithangal(P) Ward 3 Seniyanallur  Padavettamman  Koil St  ,
+11.Seniyanallur  (R.V) Poonaithangal(P) Ward 3 Seniyanallur  Mariyamman  Koil St , 12.Seniyanallur  (R.V) Poonaithangal (P) Ward 3 Seniyanallur  Sathiyamangalam Street"
+158,68,158,158,"Panchayat Union Elementary  School,  West Facing,Kundianthandalam Menallur  Post  631 702","1.Kundiyanthandlam  (R.V) And (P) Ward 1 Road Street , 2.Kundiyanthandalam  (R.V) And (P) Ward 1  Pillaiyarkoil Street , 3.Kundiyanthandalam  (R.V) And (P) Ward 1  Bajanai Koil Street  , 4.Kundiyanthandalam  (R.V) And (P) Ward 2  Periyandavar  Koil Street , 5.Kundiyanthandalam  (R.V) And (P) Ward 2  Medai Street , 6.Kundiyanthandalam  (R.V) And (P) Ward 2  Perumal Koil Street  , 7.Kundiyanthandlam  (R.V) And (P) Ward 1 Eswaran  Koil Street"
+159,68,159,159,"Panchayat Union Elementary  School,Suruttal Menallur  Post  631 702","1.Suruttal (R.V) And (P) Ward 1 Velalar Street ,
+2.Suruttal (R.V) And (P) Ward 1 Bajanai Koil Street ,
+3.Suruttal (R.V) And (P) Ward 1 Karunekar  Street ,
+4.Suruttal (R.V) And (P) Ward 1 Eswarn Koil Street ,
+5.Suruttal (r.v) and (p) Ward 2 road street  ,
+6.Suruttal (R.V) And (P) Ward 2 Padavettamman Street"
+160,68,160,160,"Panchayat Union Elementary  School,East  Building North Facing,  Sothiyampakkam  Village  Chinna Ellacheri Post  631702","1.Sothiyampakkam (r.v) and  (p) Ward 1 palla street  , 2.Sothiyampakkam (r.v) and  (p) Ward 1 bajanai kovil street  , 3.Sothiyampakkam (R.V) And (P) Ward 1 Pillaiyar  Kovil Street  , 4.Sothiyampakkam (R.V) And (P) Ward 1 Kinartu Street  , 5.Sothiyampakkam (R.V) And (P) Ward 1 School Cross Sandhu Street , 6.Sothiyampakkam (R.V) And (P) Ward 1 School Street , 7.Sothiyampakkam (R.V) And (P) Ward 2 Erikkarai Street , 8.Sothiyampakkam (R.V) And (P) Ward 2 Erikkarai Cross Street  , 9.Sothiyampakkam (R.V) And (P) Ward 2 School Cross Street  , 10.Sothiyampakkam (R.V) And (P) Ward 2 Kulathankarai Street , 11.Sothiyampakkam (R.V) And (P) Ward 2 Nadu Street  , 12.Sothiyampakkam (R.V) And (P) Ward 2 Palla Street  ,
+13.Sothiyampakkam (R.V) And (P) Ward 2 Thurigaiyamman  Kovil Street  , 14.Sothiyampakkam (R.V) And (P) Ward 2 Dr.  Ambethgar Nagar"
+161,68,161,161,"Panchayat Union Elementary  School,Bagavandapuram China Ellacheri Post  631 702","1.Bhagavanthapuram (r.v) menallur  (p) Ward 3 pillaiyar kovil street , 2.Bhagavanthapuram (r.v) menallur  (p) Ward 3 selliyamman  kovil street  , 3.Bhagavanthapuram (R.V) Menallur  (P) Ward 3  Chinna Alamara Street , 4.Bhagavanthapuram (r.v) menallur  (p) Ward 3 mariyamman  kovil street  , 5.Bhagavanthapuram (R.V) Menallur  (P) Ward 3  Ponniyamman Kovil Street"
+162,68,162,162,"Panchayat Union Elementary  School,  North  Face building,Chinna Ellacheri Post  631 702","1.Eazhachery  (R.V) And (P) Ward 1,2  Pudupalayam  Salai , 2.Eazhachery  (R.V) And (P) Ward 2 Mariyamman Koil Street , 3.Eazhachery  (R.V) And (P) Ward 2 Vinayagar Koil Street , 4.Eazhachery  (R.V) And (P) Ward 2 Erikkarai Street , 5.Eazhachery  (R.V) And (P) Ward 2 Periyar  Nagar"
+163,68,163,163,"Panchayat Union Primary  School, South  Facing,Periya Ellacheri Village  & Post  631702","1.Eazhachery  (R.V) And (P) Ward 1 Periya Street , 2.Eazhachery  (R.V) And (P) Ward 1 Road Street , 3.Eazhachery  (R.V) And (P) Ward 1 Palla Colony , 4.Eazhachery  (R.V) And (P) Ward 1 Mettu Colony  Road Street  , 5.Eazhachery  (R.V) And (P) Ward 1 Mettu Colony  1st Street , 6.Eazhachery  (R.V) And (P) Ward 1 Mettu Colony  2nd Street , 7.Eazhachery  (R.V) And (P) Ward 1 Mettu Colony  3rd  Street , 8.Eazhachery  (R.V) And (P) Ward 1 Mettu Colony  4th Street  , 9.Eazhachery  (R.V) And (P) Ward 1 Mettu Colony  5th Street  , 10.Eazhachery  (R.V) And (P) Ward 1 Manthaiveli Street , 11.Eazhachery  (R.V) And (P) Ward 1 Braminar  Street"
+164,68,164,164,"Panchayat Union Elementary  School,  South Face,Arasanipalai Village  & Post  631 702","1.Arasanipalai (R.V) And (P) Ward 1 Perumal Koil Street  , 2.Arasanipalai (R.V) And (P0 Ward  1 Pillaiyar Koil Street , 3.Arasanipalai (R.V) And (P) Ward 1 Nadu Street  , 4.Arasanipalai (R.V) And (P) Ward 2 Parai Street , 5.Arasanipalai (R.V) And (P) Ward 2 Manthaveli Street  , 6.Arasanipalai (R.V) And (P) Ward 2 Kula Street  , 7.Arasanipalai (R.V) And (P) Ward 2 Mettu Street  Colony , 8.Arasanipalai (R.V) And (P) Ward 2 Palla Street  Colony  , 9.Arasanipalai (R.V) And (P) Ward 2 Bajanai Koil Street  , 10.Arasanipalai (R.V) And (P) Ward 2 Rettaivadai Street , 11.Arasanipalai (R.V) And (P) Ward 2 Ottravadai Street"
+165,68,165,165,"Panchayat Union Elementary  School,  South Face,Sithalapakkam  Village  Arasanipalai Post  631 702","1.Sithalapakkam (R.V) Arasanipalai (P) Ward  3 Chenniyamman  Koil Street , 2.Sithalapakkam (R.V) Arasanipalai (P) Ward  3 Palla Street  , 3.Sithalapakkam (R.V) Arasanipalai (P) Ward  3 Musilim  Street , 4.Sithalapakkam (R.V) Arasanipalai (P) Ward  3 Mariyamman Koil Street"
+166,68,166,166,"Panchayat Union Elementary  School,Vayalathur Arasanipalai Post  631 702","1.Vayalathur  (R.V) And (P) Ward 1  Palla Street , 2.Vayalathur  (R.V) And (P) Ward 2  Mettu Street , 3.Vayalathur  (R.V) And (P) Ward 2  Road Street , 4.Vayalathur  (R.V) And (P) Ward 2  Mariyamman  Koil Street ,
+5.Vayalathur  (R.V) And (P) Ward 2  Pudupalayam  Road Street  ,
+6.Vayalathur  (R.V) And (P) Ward 2  New Colony Street"
+167,68,167,167,"Govt Higher  Sec School,  East  Side  New Building,Pudupalayam Village  & Post  631 702","1.Pudupalayam (R.V) And (P) Ward 1 Mathagu Mettu Street  , 2.Pudupalayam (R.V) And (P) Ward 1 Sannathi Street , 3.Pudupalayam (R.V) And (P) Ward 1 Chinna Street , 4.Pudupalayam (R.V) And (P) Ward 1 Periya Street , 5.Pudupalayam (R.V) And (P) Ward 2 Vanigar  Street  ,
+6.Pudupalayam (R.V) And (P) Warad 2  Old Colony  Mariyamman  Koil Street  , 7.Pudupalayam (R.V) And (P) Ward 2 New Colony  ,
+8.Pudupalayam (R.V) And (P) Ward 2 Old Colony  Thanthoniyamman  Koil Street , 9.Pudupalayam (R.V) And (P) Ward 2 New Colony  1st Street ,
+10.Pudupalayam (R.V) And (P) Ward 2 Newcolony  2nd Cross Street , 11.Pudupalayam (R.V) And (P) Ward 2 New Colony  3rd Cross Street"
+168,68,168,168,"Panchayat union  Middle  School North Face,Punnai Village  Pudupalayam  Post 631 702","1.Punnai (R.V) And (P) Ward 1 Velalar Street Punnai ,
+2.Punnai (R.V) And (P) Ward 1 Bramanar  Street Punnai ,
+3.Punnai (R.V) And (P) Ward 1 Kulakkarai Street Punnai ,
+4.Punnai (R.V) And (P) Ward 1 Vanniyar Street  Punnai , 5.Tharumaseri (R.V) And (p) Ward  1 Road Street Punnai , 6.Tharumaseri (R.V) And (p) Ward  2 Mishin Street  punnai , 7.Tharumaseri (R.V) And (P) Ward  1 Otraivadai Street  Punnai , 8.Tharumaseri (R.V) And (P) Ward  2 Punnai Colony  Punnai"
+169,68,169,169,"Panchayat Union Elementary  School,  South Face,Sirunallur  Pudhupalayam Post  631 702","1.Sirunallur  (R.V) And (P) Ward 1 Kuzhankanniyamman  Street , 2.Sirunallur  (R.V) And (P) Ward 1 Karbaga Vinayagar Koil Street  , 3.Sirunallur  (R.V) And (P) Ward 1 Perumal Koil Street  , 4.Sirunallur  (R.V) And (P) Ward 2 Bajanai Kovil Street , 5.Sirunallur  (R.V) And (P) Ward 2 Gangaiyamman  Kovil Street  ,
+6.Nemili (R.V) And (P) Ward  1 Mariyamman  Kovil Street  ,
+7.Nemili (R.V) And (P) Ward  1 Road Street ,
+8.Nemili (R.V) And (P) Ward  2 Colony  Mariyamman  Kovil Street  ,
+9.Nemili (R.V) And (P) Ward  2 Ukkalpattai Street ,
+10.Nemili (R.V) And (P) Ward 2 Nadu Street"
+170,68,170,170,"Panchayat Union Elementary  School ,  South Facing Pavoor  Pudhupalayam  Post 631702","1.Pavur  (R.V) And (P) Ward 1 Yathavar  Street  ,
+2.Pavur  (R.V) And (P) Ward 1 Pandithar  Street ,
+3.Pavur  (R.V) And (P) Ward 1 Perumal Koil Street  ,
+4.Pavur  (R.V) And (P) Ward 1 Bajanai Koil Street  ,
+5.Pavur  (R.V) And (P) Ward 1 Pillaiyar Koil Street ,
+6.Pavur  (R.V) And (P) Ward 1 Nadu Street  ,
+7.Pavur  (R.V) And (P) Ward 1 Kulakkarai Street ,
+8.Pavur  (R.V) And (P) Ward 1 Otraivadai Street ,
+9.Pavur  (r.v) and (p) Ward  2 road street  ,
+10.Pavur (R.V) And (P) Ward 2 Perumal Koil Street ,
+11.Pavur (R.V) And (P) Ward 2 Mariyamman Koil Street ,
+12.Pavur (R.V) And (P) Ward 1 Eripattu"
+171,68,171,171,"Panchayat Union Middle  School,  South Building  North Facing ,Mathur Village  & Post  631701","1.Mathur (R.V) And (P) Ward 1 Bramanar  street  ,
+2.Mathur (R.V) And (P) WArd 1  Old Vanniyar  Street  ,
+3.Mathur (R.V) And (P) WArd 1  Palla Street  ,
+4.Mathur (R.V) And (P) Ward 2 Kamalar Street  ,
+5.Mathur (R.V) And (P) Ward 2 krunikar  Street"
+172,68,172,172,"Panchayat Union Middle  School,  East  Face,Mathur Village  & Post  631701","1.Mathur (R.V) And (P) Ward 2 Velalar Street ,
+2.Mathur (R.V) And (P) Ward 2 Vannarapettai ,
+3.Mathur (R.V) And (P) Ward 1 Ambethkar  Nagar ,
+4.Mathur (R.V) And (P) Ward 2 Mathur  Kutturoad"
+173,68,173,173,"Panchayat Union Elementary  School,  North  Building South Facing  West Part, Narasamangalam  village  & Post  631702","1.Narasamangalam (R.V) And (P) Ward 1 School Street , 2.Narasamangalam (R.V) And (P) Ward 1 Pillaiyar Koil Street  , 3.Narasamangalam (R.V) And (P) Ward 1 Mariyamman Koil Street  , 4.Narasamangalam (R.V) And (P) Ward 1 Renugambal Kovil Street  , 5.Narasamangalam (R.V) And (P) Ward 1 Road  Street"
+174,68,174,174,"Panchayat Union Elementary  School,  South  Building North Facing  East  Part,  Narasamangalam  village  & Post  631702","1.Narasamangalam (R.V) And (P) Ward 2 Melkattamman  Koil Street Lakshmipuram
+,
+2.Narasamangalam (R.V) And (P) Ward 2 Gandhisilai Street Lakshmipuram  , 3.Narasamangalam (R.V) And (P) Ward 2 New Colony  Kulakkarai St Venkatrayapuram  ,
+4.Narasamangalam (R.V) And (P) Ward2 Venkatrayapuram  New Colony  Bajanai Koil St  ,
+5.Narasamangalam (R.V) And (P) Ward2 Venkatrayapuram  Muthumariyamman Koil St  ,
+6.Narasamangalam (R.V) And (P) Ward 2 Pillaiyar Koil Street  , 7.Narasamangalam (R.V) And (P) Ward 2 Kanniyamman  Koil Irular Street"
+175,68,175,175,"Panchayat Union Elementary  School New Building North facing,Kunnavakkam  Village  Aakkoor  Post 631701","1.Kunnavakkam (r.v) and (p) Ward 1 puliyanthoppu street , 2.Kunnavakkam (R.V) And (P) Ward 2 Palla Street 1st Street  , 3.Kunnavakkam (R.V) And (P) Ward 3 Mettu Street  , 4.Kunnavakkam(r.v)&(p) Ward 1  bajanai koil st , 5.Kunnavakkam (R.V) And (P) Ward 1 Perumal Koil Street , 6.Kunnavakkam (r.v) and (p) Ward 1 kulakarai street  , 7.Kunnavakkam (r.v) and (p) Ward 2 ponni amman  koil street , 8.Kunnavakkam (R.V) And (P) Ward 1 School Street , 9.Kunnavakkam (R.V) And (P) Ward 2 Palla Street Nadu Street  , 10.Kunnavakkam  (r.v) and (p) Ward 2 Bajanai koil street , 11.Kunnavakkam  (R.V) And (P) Ward 2 Palla East  Street  ,
+12.Kunnavakkam  (R.V) And (P) Ward 2 Palla Street  Kurukku Street  , 13.Kunnavakkam  (R.V) And (P) Ward 3 Mettu Street  2nd Street  , 14.Kunnavakkam  (R.V) And (P) Ward 3 Mettu Street  3rd Street  , 15.Kunnavakkam  (R.V) And (P) Ward 3 Mettu Street  4th Street , 16.Kunnavakkam  (R.V) And (P) Ward 1 School Back side  Street"
+176,68,176,176,"Panchayat Union Elementary  School SSA Building South Facing,Mahajanapakkam  Village  & Post  631701","1.Mahajanampakkam  (R.V) And (P) Ward 1  Pudhu  Street , 2.Mahajanampakkam  (R.V) And (P) Ward 1  Velallar Street  , 3.Mahajanampakkam  (R.V) And (P) Ward 1  Mettu Street , 4.Mahajanampakkam  (R.V) And (P) Ward 2  Kulakkarai Street , 5.Mahajanampakkam  (R.V) And (P) Ward 2  Kalleri"
+177,68,177,177,"Panchayat Uunion  Elementry  School SSA Building South facing,Mahajanapakkam Village  & Post  631701","1.Mahajanampakkam  (R.V) And (P) Ward 3  Mantra Koil Street , 2.Mahajanampakkam  (R.V) And (P) Ward 3  Road Street"
+178,68,178,178,"Panchayat Union Middle  School South  Side Building,Ukkamperumpakkam Mathur Post  631 701","1.Ukkamperumpakkam (R.V) And (P) Ward 1 Masuthi Street  , 2.Ukkamperumpakkam (R.V) And (P) Ward 1 Erikkarai Street , 3.Ukkamperumpakkam (R.V) And (P) Ward 1 Udaiyar  Street  , 4.Ukkamperumpakkam (R.V) And (P) Warad 1  Velalar  Street , 5.Ukkamperumpakkam (R.V) And (P) Ward 1 Road Street, 6.Ukkamperumpakkam(R.V)Ukkamperumpakkammathur(P) Ward 2 North  Medu , 7.Ukkamperumpakkam(R.V)Ukkamperumpakkammathur(P) Ward 2 Athidravidar Quartrase"
+179,68,179,179,"Panchayat Union Primary  School, South Facing,Mangal Village  & Post  631701","1.Mangal (R.V) And (P) Ward 1 Vinayagar Koil Street ,
+2.Mangal (R.V) And (P) Ward 1 Alamara Street  ,
+3.Mangal (R.V) And (P) Ward 1 Palaiyakkara Street ,
+4.Mangal (R.V) And (P) Ward 1 Road Street ,
+5.Mangal (R.V) And (P) Ward 2 Mariyaamman  Koil Street ,
+6.Mangal (R.V) And (P) Ward 2 East  West  Street  ,
+7.Mangal (R.V) And (P) Ward 2 Water  Tank Street ,
+8.Mangal (R.V) And (P) Ward 2 New Street"
+180,68,180,180,"Govt Higher  Secondary  School, SSA Building,  South facing,Ukkal Village  & Post  631701","1.Ukkal (R.V) And (P) Ward 1 Velalar Street ,
+2.Ukkal (R.V) And (P) Ward 1 Karunigar Street  ,
+3.Ukkal (R.V) And (P) Ward 1 Bramanar  Street ,
+4.Ukkal (R.V) And (P) Ward 1 Yadhavar  Street ,
+5.Ukkal (R.V) And (P) Ward 1 Kammala Street  ,
+6.Ukkal (R.V) And (P) Ward 1 Perumal Koil Street ,
+7.Ukkal (R.V) And (P) Ward 1 Maduvangarai Street  ,
+8.Ukkal (R.V) And (P) Ward 2 Nadu Street  ,
+9.Ukkal (R.V) And (P) Ward 2 Eswaran  Koil Street  ,
+10.Ukkal (R.V) And (P) Ward  2 Mugamathiyar  Street"
+181,68,181,181,"Govt Higher  Secondary  School, SSA Building South Facing,Ukkal Village  & Post  631701","1.Ukkal (R.V) And (P) Ward 3 Valluvar  Colony  ,
+2.Ukkal (R.V) And (P) Ward 2 Meenavar Street  ,
+3.Ukkal (R.V) And (P) Ward 3 Kuttakarai Street  ,
+4.Ukkal (R.V) And (P) Ward 2 Kulakkarai Street ,"
+182,68,182,182,"Government Higher Secondary School,  Old  Building (Middle) South  Facing,Ukkal Post 631701","1.Ukkal (R.V) And (P) Ward 3 Pendai mudhal Street ,
+2.Ukkal (R.V) And (P) Ward 3 Kottaikkarai ,
+3.Ukkal (R.V) And (P) Ward 3 Athithravidar  Colony  ,
+4.Pendai (R.V) Ukkal (P) Ward  Pendai 2nd Street"
+183,68,183,183,"Government High school South  Building  North facing,Kuzhamanthal Village  Ukkal Post  631701","1.Kuzhamanthal (R.V) And (P) Ward 1 Periya Street , 2.Kuzhamanthal (R.V) And (P) Ward 1 Road Street , 3.Kuzhamanthal (R.V) And (P) Ward 1 Pilaiyar  Koil Street  , 4.Kuzhamanthal (R.V) And (P) Ward 1 Mandapa Street , 5.Kuzhamanthal (R.V) And (P) Ward 2 Kallukuttai Street"
+184,68,184,184,"Government High school school Centre  Building  South side  East  facing,Kuzhamanthal Village  Ukkal Post 631701","1.Kuzhamanthal (R.V) And (P) Ward 2 Rettaivadai Street  , 2.Kuzhamanthal (R.V) And (P) Ward 2 Athithravidar kudiiruppu , 3.Kuzhamanthal (R.V) And (P) Ward 2 Pendai Perumal Koil Street , 4.Kuzhamanthal (R.V) And (P) Ward 2 Pillaiyar Koil Street (Pendai) , 5.Kuzhamanthal (R.V) And (P) Ward 2 Othavadai Street"
+185,68,185,185,"Government Higher Secondary School,West  Side Building  East  Facing,  Akkur  Village  & Post  631701","1.Akkur (R.V) And (P) Ward 1 Vellalar  Street ,
+2.Akkur (R.V) And (P) Ward 1 Kulakkarai 1st Street  ,
+3.Akkur (R.V) And (P) Ward 1 Poonthottam Street ,
+4.Akkur (R.V) And (P) Ward 1 Kulakkarai 2nd Street ,
+5.Akkur (R.V) And (P) Ward 1 Kullakkarai 3rd  Street"
+186,68,186,186,"Government Higher Secondary School,North  Side Building  South  Facing,  Akkur  Village  & Post  631701","1.Eadaval (R.V) Akkur  (P) Ward 3  Mettu Street ,
+2.Eadaval (R.V) Akkur  (P) Ward 2Bramanar Street ,
+3.Akkur (P) Ward 3 Thirowbathiyamman  Koil Street"
+187,68,187,187,"Government Higher Secondary School,North  Side Building  South  Facing,  Akkur  Village  & Post  631701","1.Eadaval (R.V) Akkur  (P) Ward 2  Padasalai Street ,
+2.Eadaval (R.V) Akkur  (P) Ward 2  Thirthakulakarai Street  ,
+3.Eadaval (R.V) Akkur  (P) Ward 2  Mettu colony  vinayagar koil street  ,
+4.Eadaval (R.V) Akkur  (P) Ward 2  Palla Colony  Othavadai Street ,
+5.Akkur (P) Ward 2 Palla colony  perumal Koil Street ,
+6.Akkur (P) Ward 2 palla Colony  Rettaivadai Street ,
+7.Akkur (P) Ward 2 Palla Colony  Kuruku Street  ,
+8.Akkur (P) Ward 2 Mettu Colony  Tank Street ,
+9.Akkur (P) Ward 2 Mettu Colony  Nadu Street"
+188,68,188,188,"Panchayat union  elementary school ,  South Facing,Kizhnethapakkam Village  & Post 631701","1.Kizhnethapakkam  (R.V) And  (P) Ward 1 Vengadavaram Road  Street , 2.Kizhnethapakkam  (R.V) And  (P) Ward 1 Mudhaliyar  Street , 3.Kizhnethapakkam  (R.V) And  (P) Ward 1 Pandithar Street  , 4.Kizhnethapakkam  (R.V) And  (P) Ward 1 Vettaikarar  Street  , 5.Kizhnethapakkam  (R.V) And  (P) Ward 2 Nethapakkam  Road Street  , 6.Kizhnethapakkam  (R.V) And  (P) Ward 2 Padasalai Street , 7.Kizhnethapakkam  (R.V) And  (P) Ward 2 Naidu Street , 8.Kizhnethapakkam  (R.V) And  (P) Ward 2 Thoppu Street  , 9.Kizhnethapakkam  (R.V) And  (P) Ward 3 Nethapakkam  Colony"
+189,68,189,189,"Panchayat Union Middle  School West building,Madipakkam Village  & Post  631701","1.Madipakkam (R.V) And (P) Ward 1 Villagae  Bajanai Kovil Street  , 2.Madipakkam (R.V) And (P) Ward 1 Udaiyar  Street  , 3.Madipakkam (R.V) And (P) Ward 1 Maniyakkar Street , 4.Madipakkam (R.V) And (P) Ward 1 Village  Pillaiyar Koil Street  , 5.Madipakkam (R.V) And (P) Ward 1 Muslim Street  , 6.Madipakkam (R.V) And (P) Ward 1 Kulathangarai Street  , 7.Madipakkam (R.V) And (P) Ward 1 Road Street ,
+8.Madipakkam (R.V) And (P) Ward 2 Palla Colony  Mariamman Kovil Street , 9.Madipakkam (R.V) And (P) Ward 2 School Street ,
+10.Madipakkam  (R.V) And (P) Ward 2  Periyar  Street ,
+11.Madipakkam  (R.V) And (P) Ward 2  Mettu Colony  Pillaiyar  Koil Street , 12.Madipakkam  (R.V) And (P) Ward 2  Mettu Colony  Bajanai Kovil Street  , 13.Madipakkam  (R.V) And (P) Ward 2  Mettu Colony  Mariamman  Kovil Street  , 14.Madipakkam  (R.V) And (P) Ward 2  Samudhayakuda Street"
+190,68,190,190,"Panchayat union  Elementary  school West side  South facing  building,Veliyanallur Madipakkam Post  631701","1.Siruveliyanallur (R.V) And (P) Ward 1 Ponniyamman Koil Street  , 2.Siruveliyanallur (R.V) And (P) Ward 1 Pillaiyar  Koil Street , 3.Siruveliyanallur (R.V) And (P) Ward 2 School Street , 4.Siruveliyanallur (R.V) And (P) Ward 2 Bajanai Koil Street , 5.Siruveliyanallur (R.V) And (P) Ward 2 Bajanai Koil Cross Street"
+191,68,191,191,"Panchayat union  Elementary  school West side  South facing  building,Veliyanallur 604407","1.Veliyanallur (R.V) And (P) Ward 1 Pillaiyar Koil Street  , 2.Veliyanallur (R.V) And (P) Ward 1 Kulakkarai Street , 3.Veliyanallur (R.V) And (P) Ward 1 Bramanar  Street , 4.Veliyanallur (R.V) And (P) Ward 1 Jainar Street
+5.Veliyanallur (R.V) And (P) Ward 1 Pillaiyar Koil 1st  Cross Street , 6.Veliyanallur (R.V) And (P) Ward 1 Pillaiyar Koil 2nd Street  ,"
+192,68,192,192,"Panachayat Union Elementary  School ,  west Side,Velliyanallur  604407","1.Veliyanallur (R.V) And (P) Ward 1 Osruramman Koil Street , 2.Veliyanallur (R.V) And (P) Ward 1 Kalathumettu Street , 3.Veliyanallur (R.V) And (P) Ward 1 Veliyanallur Colony  , 4.Veliyanallur (R.V) And (P) Ward 1 Nayanthangal Colony 5.Veliyanallur (R.V) And (P) Ward 2 Kalathumettu 2nd Street , 6.Veliyanallur (R.V) And (P) Ward 2 Adi Diravidar  2nd Street"
+193,68,193,193,"Panchayat Union Elementary  School ,  East Building,Kazhaiyur Village  & Post 604407","1.Kazhiyur  (R.V) And (P) Ward 1 Karuneegar Street  ,
+2.Kazhiyur  (R.V) And (P) Ward 1 Velalar  Street ,
+3.Kazhiyur  (R.V) And (P) Ward 1 Kammalar Street ,
+4.Kazhiyur  (R.V) And (P) Ward 2 Braminar  Street  ,
+5.Kazhiyur  (R.V) And (P) Ward 1 Kulakkarai Street ,
+6.Kazhiyur  (R.V) And (P) Ward 1 Irular Colony  ,
+7.Kazhiyur  (R.V) And (P) Ward 2 Veda Medu ,
+8.Kazhiyur  (R.V) And (P) Ward 2 Perumal Koil Street"
+194,68,194,194,"Panchayat Union Elementary  School SSA Building East Part,Kazhaiyur Village  & Post  604407","1.Kazhiyur  (R.V) And (P) Ward 2 Mettu Street ,
+2.Kazhiyur  (R.V) And (P) Ward 2 Palla Street  ,
+3.Kazhiyur  (r.v) and (p) Ward 3 east street ,
+4.Kazhiyur  (R.V) And (P) Ward 3 Adidiravidar Colony"
+195,68,195,195,"Panachayat Union Elementary  school,Perunkalathur Village  604407","1.Perunkalathur (R.V) And (P) Ward 1  Braminar  Veethi , 2.Perunkalathur (R.V) And (P) Ward 1  Vadavandai Street  , 3.Perunkalathur (R.V) And (P) Ward 1  Vanniyanthangal , 4.Perunkalathur (R.V) And (P) Ward 1  Poradiyar  Nagar , 5.Perunkalathur (R.V) And (P) Ward 1  Perunkalathur Colony  , 6.Perunkalathur (R.V) And (P) Ward 1  Borewell Street , 7.Perunkalathur (R.V) And (P) Ward 1  Tank Street  , 8.Perunkalathur (R.V) And (P) Ward 1  Ortaivadai Street  , 9.Perunkalathur (R.V) And (P) Ward 1  Braminar  Veethi 1st  Street  , 10.Perunkalathur (R.V) And (P) Ward 1 Kannikovil Street , 11.Perunkalathur (R.V) And (P) Ward 1 Perumal kovil Street"
+196,68,196,196,"Panachayat Union Elementary School,Samathuvapuram Puliyarambakkam  Village  & Post  604407","1.Perunkalathur (R.V) And (P) Ward 1  Valarpuram , 2.Perunkalathur (R.V) And (P) Ward 1  Thiruvenkidanallur  , 3.Perunkalathur (R.V) And (P) Ward 1  Samathuvapuram  , 4.Perunkalathur (R.V) And (P) Ward 1  Valarpuram Irular Colony  ,
+5.Perunkalathur (R.V) And (P) Ward 1  Valarpuram Pillaiyar Kovil Street , 6.Perunkalathur (R.V) And (P) Ward 1  Palla Street Thiruvenkidanallur  , 7.Perunkalathur (R.V) And (P) Ward 1  Kambar Veethi ,
+8.Perunkalathur (R.V) And (P) Ward 1  Sundar  Veethi , 9.Perunkalathur (R.V) And (P) Ward 1  Thirugnasampanthar Veethi"
+197,68,197,197,"Panachayat Union Elementary  School,Vinnavadi Village  & Post  604407","1.Vinnavadi (r.v) and (p) Ward 1 periya street , 2.Vinnavadi (R.V) And (P) Ward 1  Alamara Street  , 3.Vinnavadi (R.V) And (P) Ward 2  School Street , 4.Vinnavadi (R.V) And (P) Ward 2  Mettu Street , 5.Vinnavadi (R.V) And (P) Ward 2  Erikodi Street  , 6.Vinnavadi (R.V) And (P) Ward 2  Thoppu Street  , 7.Vinnavadi (R.V) And (P) Ward 1  pattai Street"
+198,68,198,198,"Panachayat Union Middle  School , East side,Kizhpudupakkam 604407","1.Kizhpudupakkam (R.V) And (P) Ward 1 New Mettu Street  , 2.Kizhpudupakkam (R.V) And (P) Ward 2 Chekku Mettu Street  , 3.Kizhpudupakkam (R.V) And (P) Ward 2 Kulakarai Street  , 4.Kizhpudupakkam (R.V) And (P) Ward 2 Mayandipuram"
+199,68,199,199,"Panachayat Union Middle  school , South  Side Building,Kizhpudupakkam 604407","1.Kizhpudupakkam (R.V) And (P) Ward 1 Periya Street , 2.Kizhpudupakkam (R.V) And (P) Ward 1 Braminar  Street , 3.Kizhpudupakkam (R.V) And (P) Ward 1 Pillaiyar Koil Street  , 4.Kizhpudupakkam (R.V) And (P) Ward 1 Old Mettu Street"
+200,68,200,200,"R.C.M  Elementary  School Out  Side  the  Polling Area,Cheyyar 604407","1.Kizhpudupakkam (R.V) And (P) Ward 3 Palla Colony  , 2.Kizhpudupakkam (R.V) And (P) Ward 3 Mothilal Street  , 3.Kizhpudupakkam (R.V) And (P) Ward 3 Avaiyar Street  , 4.Kizhpudupakkam (R.V) And (P) Ward 3 Jeeyar Street , 5.Kizhpudupakkam (R.V) And (P) Ward 3 Vallalar Street  , 6.Kizhpudupakkam (R.V) And (P) Ward 3 Mettu Colony  1st Street , 7.Kizhpudupakkam (R.V) And (P) Ward 3 Mettu Colony  2nd  Street , 8.Kizhpudupakkam (R.V) And (P) Ward 3 Mettu Colony  3rd  Street"
+201,68,201,201,"R.C.M  Elementary  School Out  Side  the  Polling Area,,Cheyyar 604407","1.Kizhpudupakkam (R.V) And (P) Ward 3 Athiyaman Street , 2.Kizhpudupakkam (R.V) And (P) Ward 3 E.B.  Street  , 3.Kizhpudupakkam (R.V) And (P) Ward 3 Pulavar  Govindan Street  , 4.Kizhpudupakkam (r.v) and (p) Ward  3 sathiyamoorthi street  , 5.Kizhpudupakkam (R.V) And (P) Ward 3 Dr.Radhakrishnan Street , 6.Kizhpudupakkam (R.V) And (P) Ward 3 P.T.Usha Street  , 7.Kizhpudupakkam (R.V) And (P) Ward 3 Velmurugan Street , 8.Kizhpudupakkam (R.V) And (P) Ward 3 Oavaiar  2nd Street , 9.Kizhpudupakkam (R.V) And (P) Ward 3 Kizhpudupakkam Salai"
+202,68,202,202,"St  Joseph Matriculation English  Medium School New Building,Kizhpudupakkam Village  & Post 604407","1.Kizhpudupakkam (R.V) And (P) Ward 3 Marimuthu Street , 2.Kizhpudupakkam (R.V) And (P) Ward 3 V.O.C.  Street  , 3.Kizhpudupakkam (R.V) And (P) Ward 3 Annai Indira Street  , 4.Kizhpudupakkam (R.V) And (P) Ward 3 Victory  Street , 5.Kizhpudupakkam (R.V) And (P) Ward 3 Saravanan  Street  , 6.Kizhpudupakkam (R.V) And (P) Ward 3 Variyar  Street , 7.Kizhpudupakkam (R.V) And (P) Ward 3 Arumuga Thambirar Street  , 8.Kizhpudupakkam (R.V) And (P) Ward 3 V.O.C.  1st Street , 9.Kizhpudupakkam (R.V) And (P) Ward 3 V.O.C.  2nd street"
+203,68,203,203,"R.C.M  Elementary  School Out  Side  the  Polling Area,Cheyyar 604407","1.Kizhpudupakkam (R.V) And (P) Ward 3 Ramalingam Street  , 2.Kizhpudupakkam (R.V) And (P) Ward 3 Karpaga Vinayagar Koil Street  , 3.Kizhpudupakkam (R.V) And (P) Ward 3 Rajeev Gandhi Street  , 4.Kizhpudupakkam (R.V) And (P) Ward 3 Ranganathar Street  , 5.Kizhpudupakkam (R.V) And (P) Ward 3 Agathiyar  Street , 6.Kizhpudupakkam (R.V) And (P) Ward 3 Jawahar  Steet , 7.Kizhpudupakkam (R.V) And (P) Ward 3 Kizhipudupakkam  Salai , 8.Kizhpudupakkam (R.V) And (P) Ward 3 Ramadoss Street  , 9.Kizhpudupakkam (R.V) And (P) Ward 3 Bharathiyar  Street"
+204,68,204,204,"Panchayat union  middle  school SSA Building  Left Side Room,Kizhpudupakkam Village  & Post  604407","1.Kizhpudupakkam (R.V) And (P) Ward 3 Arinjar  Anna Street  , 2.Kizhpudupakkam (R.V) And (P) Ward 3 Pasumpon  Nagar , 3.Kizhpudupakkam (R.V) And (P) Ward 3 Vedapuri Street , 4.Kizhpudupakkam (R.V) And (P) Ward 3 M.G.R. Street , 5.Kizhpudupakkam (R.V) And (P) Ward 3 Annamalaiyar Street"
+205,68,205,205,"Panchayat Union Elementary School,Puliyarampakkam  Village  & Post 604407","1.Puliyarampakkam  (R.V) And (P) Ward 1 Kanchipuram Salai , 2.Puliyarampakkam  (R.V) And (P) Ward 1 Kammavar  Veethi , 3.Puliyarampakkam  (R.V) And (P) Ward 1 School Street , 4.Puliyarampakkam  (R.V) And (P) Ward 1 Cross Street  , 5.Puliyarampakkam  (R.V) And (P) Ward 1 Kulathumettu Street , 6.Puliyarampakkam  (R.V) And (P) Ward 1 Kosapalayam Street 7.Puliyarampakkam  (R.V) And (P) Ward 1 Vinnavadi Salai ,"
+206,68,206,206,"Athithiravidar  Welfare  high  School,  East side  North Facing Building,Puliyarampakkam  Village  & Post 604407","1.Puliyarampakkam  (R.V) And (P) Ward 2 Vadavandai Street  , 2.Puliyarampakkam  (R.V) And (P) Ward 2 Mariyamman Kovil Street 3.Puliyarampakkam  (r.v) and (p) Ward 2 & 3 bajanai koil street , 4.Puliyarampakkam  (R.V) And (P) Ward 3 Siruveniyanallur Salai , 5.Puliyarampakkam  (r.v) and (p) Ward 3 kanchipuram melandai vadai , 6.Puliyarampakkam  (R.V) And (P) Ward 3 Kollamedu"
+207,68,207,207,"Government Boys Higher  Secondary  School,Smart Class I,  North  Facing  East  Side  Building, Cheyyar - 604407","1.Thiruvathipuram (m) Ward 1  pandiyan  street  , 2.Thiruvathipuram (M) Ward 1 Pandiyan Street Sandhu , 3.Thiruvathipuram (M) Ward 1 Sozhan Street , 4.Thiruvathipuram (M) Ward 1 Cheran  Street , 5.Thiruvathipuram (m) Ward 1  pallavan  street  , 6.Thiruvathipuram (M) Ward 1 Ellappa Nagar , 7.Thiruvathipuram (M) Ward 1 Pandiyan 1st Street  , 8.Thiruvathipuram (M) Ward 1 Pandiyan 2nd Street , 9.Thiruvathipuram (m) Ward 1  pandiyan  3rd  street"
+208,68,208,208,"Government Boys Higher  Secondary  School SSA Building  West  Facing  Room  No.1,Cheyyar 604407","1.Thiruvathipuram (M) Ward 1 Jeeva Nagar , 2.Thiruvathipuram (M) Ward 1 Jeevanagar Sandhu , 3.Thiruvathipuram (M) Ward 1 Thiruvalluvar  Street  , 4.Thiruvathipuram (M) Ward 1 Jain  Koil Street , 5.Thiruvathipuram (M) Ward 1 Arni Salai 1st Street , 6.Thiruvathipuram (M) Ward 1 Arcot  Salai 1st Street , 7.Thiruvathipuram (M) Ward 1 Arni Extension  Salai , 8.Thiruvathipuram (m) Ward 1  kaveri street, 9.Thiruvathipuram (M) Ward 1 Mullai Street  , 10.Thiruvathipuram  (M) Ward 1 Kaveri 1st  Street"
+209,68,209,209,"Govt Boys Higher Sec school Nabard Building Room No  1,Cheyyar  604407","1.Thiruvathipuram (m) Ward 1  arni salai 2nd  street  , 2.Thiruvathipuram (M) Ward 1 Nehru Nagar , 3.Thiruvathipuram (m) Ward 1  ragavendira street  , 4.Thiruvathipuram (M) Ward 1 Veeramani Street  , 5.Thiruvathipuram (M) Ward 1 Bharathiyar Nagar , 6.Thiruvathipuram (M) Ward 1 Nehru Nagar 1st  Street  , 7.Thiruvathipuram (M) Ward 1 Anna Street , 8.Thiruvathipuram (M) Ward 1 Kamaraj Street  , 9.Thiruvathipuram (M) Ward 1 Bharathi Street , 10.Thiruvathipuram  (M) Ward 1 Vaigai Street  , 11.Thiruvathipuram  (M) Ward 1 Vaigai 1st  Street  , 12.Thiruvathipuram  (M) Ward 1 Thamilan  Street"
+210,68,210,210,"Govt Boys Higher Sec School Nabard Building  Room No  5,Cheyyar  604407","1.Thiruvathipuram (M) Ward 2 Vigneswara Street , 2.Thiruvathipuram (M) Ward 2 Vivekanandha Street , 3.Thiruvathipuram (M) Ward 2 K.V.  Raman  Street  , 4.Thiruvathipuram (M) Ward 2 Anna Nagar 1st  Street  , 5.Thiruvathipuram (M) Ward 2 Anna Nagar 2nd Salai , 6.Thiruvathipuram (M) Ward 1&2 Arcot  2nd  Salai , 7.Thiruvathipuram (M) Ward 2 Arcot  3rd  Salai , 8.Thiruvathipuram (M) Ward 2 R.D.O Street  , 9.Thiruvathipuram (M) Ward 2 D.S.P.  Street , 10.Thiruvathipuram  (M) Ward 2 Vallalar Street , 11.Thiruvathipuram  (M) Ward 2 Jeeyar Street"
+211,68,211,211,"Govt Boys Higher Sec School Nabard Building, Room No.  4,Cheyyar  604407","1.Thiruvathipuram (M) Ward 2 Narasimma Nagar 1st  Salai , 2.Thiruvathipuram (M) Warad 2 Narasimma Nagar 2nd Street , 3.Thiruvathipuram (M) Ward 2 Narasimma Nagar 3rd Street  , 4.Thiruvathipuram (M) Ward 2 Thandaraikalvai Street , 5.Thiruvathipuram (M) Ward 2 Avaiyar  Street  , 6.Thiruvathipuram (M) Ward 2 Bharathithasan Street  , 7.Thiruvathipuram (M) Ward 2 T.V.K.  Street  , 8.Thiruvathipuram (M) Ward 2 Kalainjar  Street , 9.Thiruvathipuram (M) Ward 2 Vishnu Street , 10.Thiruvathipuram  (M) Ward 2 Kambar Street , 11.Thiruvathipuram  (M) Ward 2 T.V. Towar Street"
+212,68,212,212,"Gengusamy  Naydu Martriculation High  School North Facing South  Side  Building,VelSomasundara Nagar Cheyyar  604407","1.Thiruvathipuram (M) Ward 4 Kanniyam Nagar , 2.Thiruvathipuram (M) Ward 4 Kanniyam Nagar 1st  Street  , 3.Thiruvathipuram (M) Ward 4 Kanniyam Nagar 2nd Street  , 4.Thiruvathipuram (M) Ward 4 Kanniyam Nagar 3rd Street  , 5.Thiruvathipuram (M) Ward 4 Kanniyam Nagar 4th  Street"
+213,68,213,213,"Govt Girls Higher  Sec School (Thayar  Abbai Black) Room No.1,Cheyyar 604407","1.Thiruvathipuram (M) Ward 3 New Street Main Street  , 2.Thiruvathipuram (M) Ward 3 New Street 1st Cross Street  , 3.Thiruvathipuram (M) Ward 3 New Street 2nd Cross Street  , 4.Thiruvathipuram (M) Ward 3 New Street 3rd Cross Street  , 5.Thiruvathipuram (M) Ward 3 New Street 4th  Cross Street , 6.Thiruvathipuram (M) Ward 3 New Street 5th  Cross Street"
+214,68,214,214,"Government Girls Higher Secondary School NABARD Building  East  Side  West  Facing Room  No.2,Cheyyar 604407","1.Thiruvathipuram (m) Ward 3  new street  6th  cross street  , 2.Thiruvathipuram (M) Ward 3 New Street 7th  Cross Street , 3.Thiruvathipuram (M) Ward 3 New Street 8th  Cross Street , 4.Thiruvathipuram (M) Ward 3 New Street 9th  Cross Street , 5.Thiruvathipuram (M) Ward 3 New Street 10th  Cross Street  , 6.Thiruvathipuram (M) Ward 3 New Street 11th  Cross Street  , 7.Thiruvathipuram (M) Ward 3 New Street 12th  Cross Street"
+215,68,215,215,"Govt Girls Higher  Sec School (Thayar  Abbai Black) Room No.5,Cheyyar 604407","1.Thiruvathipuram (M) Ward 4 New Kanchipuram Salai , 2.Thiruvathipuram (M) Ward 5 High  SchoolOtraivadai Street  , 3.Thiruvathipuram (M) Ward 4 Venkateswara Nagar 1st  Cross Street , 4.Thiruvathipuram (M) Ward 4 Venkateswara Nagar 2nd Cross Street  , 5.Thiruvathipuram (M) Ward 4 Venkateswara Nagar 3rd Cross Street  , 6.Thiruvathipuram (M) Ward 4 Venkateswara 4th  Cross Street  , 7.Thiruvathipuram (M) Ward 4 venkateswara 5th  Cross Street  , 8.Thiruvathipuram (M) Ward 4 Venkateswara 6th  Cross Street  , 9.Thiruvathipuram (m) Ward 4  velsomasundaram  nagar 1st  cross ,
+10.Thiruvathipuram  (M) Ward 4Vel Somasundaram  Nagar 2nd Cross Street  , 11.Thiruvathipuram  (M) Ward 4 Vel Somasundaram  Nagar 4th  Cross Street"
+216,68,216,216,"Govt Girls Higher  Sec School Thayar Abbai Blocak Room No.4,Cheyyar 604407","1.Thiruvathipuram (m) Ward 2  bangala street , 2.Thiruvathipuram (M) Ward 5 Loganathan Street  , 3.Thiruvathipuram (m) Ward 5  konerithoppu street"
+217,68,217,217,"Government Girls Higher Secondary School NABARD Building  East  Side  West  Facing Room  No.6,Cheyyar 604407","1.Thiruvathipuram (M) Ward 6 Selva Vinayagar  Koil Street , 2.Thiruvathipuram (M) Ward 6 Selva Vinayagar  Koil Street 1st Street  , 3.Thiruvathipuram (M) Ward 6 Selva Vinayagar  Koil Street 2nd Street , 4.Thiruvathipuram (M) Ward 6 Selva vinayagar Koil Street 3rd Street  , 5.Thiruvathipuram (M) Ward 6 Selva Vinayagar  Koil Street 4th  Street"
+218,68,218,218,"Government Girls Higher Secondary School,  NABARD Building  East  Side  West  Facing South  Portion, Cheyyar  604407","1.Thiruvathipuram (M) Ward 6 Anakkavuran  Street  , 2.Thiruvathipuram (M) Ward 6 Kidangu Street  , 3.Thiruvathipuram (M) Ward 6 Kidangu 1st  Street"
+219,68,219,219,"Government Girls Higher Secondary School,  North  to South Middle  Room  West  Facing Room  No.22,Cheyyar Thiruvathipuram Post","1.Thiruvathipuram (M) Ward 7 Govindan  Street , 2.Thiruvathipuram (M) Ward 7 Govindan  1st Sandhu , 3.Thiruvathipuram (M) Ward 7 Govindan  2nd  Sandhu , 4.Thiruvathipuram (M) Ward 7 Govindan  3rd  Sandhu , 5.Thiruvathipuram (M) Ward 7 Old Masuthi Street  , 6.Thiruvathipuram (M) Ward 7 D.S.Palanivel Street , 7.Thiruvathipuram (M) Ward 7 D.S.Palanivel 1st Street"
+220,68,220,220,"Municipality muslim  middle  school East  Face  West Side  Building,Cheyyar 604407","1.Thiruvathipuram (M) Ward 9 Bangala Street  Sandhu , 2.Thiruvathipuram (M) Ward 9 Konerimettu Street  , 3.Thiruvathipuram (M) Ward 9 New Masuthi Street , 4.Thiruvathipuram (M) Ward 9 New Masuthi Street Sandhu , 5.Thiruvathipuram (M) Ward 9 Kothandaramasami Koil Street , 6.Thiruvathipuram (N) Ward 9  Nethaji Street ,"
+221,68,221,221,"Municipality muslim  middle  school South  Side Building  North  Facing,Cheyyar 604407","1.Thiruvathipuram (M) Ward 8 Kasikkara Street , 2.Thiruvathipuram (N) Ward 8.  Athikesava Perumal Koil Street"
+222,68,222,222,"Government Boys Higher  Secondary  School,Additional Building  North  Side  South  Facing ,Cheyyar 604407","1.Thiruvathipuram (M) Ward 10 Gopal Street , 2.Thiruvathipuram (M) Ward 10 Gopal Street 1st  Street  , 3.Thiruvathipuram (M) Ward 10 Gopal Street 2 , 4.Thiruvathipuram (M) Ward 10 Gopal Street 3 , 5.Thiruvathipuram (m) Ward 10 gandhi salai , 6.Thiruvathipuram (m) Ward 10 ramakannu street  , 7.Thiruvathipuram (M) Ward 10 Ramakannu 1st Street"
+223,68,223,223,"Govt Boys Higher Secoundary  School Nabard Building Room No.3,Cheyyar 604407","1.Thiruvathipuram (m) Ward 11 anumathapettai main  road , 2.Thiruvathipuram (m) Ward 11 muhamadupettai , 3.Thiruvathipuram (M) Ward 11 Aneep Nagar , 4.Thiruvathipuram (M) Ward 11 Aneep Nagar 1st  Street  , 5.Thiruvathipuram (M) Ward 11 Aneep Nagar 2nd Street"
+224,68,224,224,"Government Boys Higher  Secondary  School NABARD Building  Room  No.  7,Cheyyar 604407","1.Thiruvathipuram (M) Ward 12 Samathiyan Kula Street  , 2.Thiruvathipuram (M) Ward 12 Samathiyan Kula street 1 , 3.Thiruvathipuram (M) Ward 12 Samathiyan Kula Street  2 , 4.Thiruvathipuram (M) Ward 12 Samathiyan Kula Street  3 , 5.Thiruvathipuram (M) Ward 12 Samathiyan Kula Street  4 , 6.Thiruvathipuram (M) Ward 12 Samathiyan Kula Street  5"
+225,68,225,225,"Government Boys Higher  Secondary  School, NABARD Building,  Eastern  Building  East Portion,  Cheyyar 604407","1.Thiruvathipuram (M) Ward 12 Samathiyan Kula Street  6 , 2.Thiruvathipuram (M) Ward 12 Samathiyan Kula Street  7 , 3.Thiruvathipuram (M) Ward 12 Samathiyan Kula Street  8 , 4.Thiruvathipuram (M) Ward 12 Samathiyan Kula Street  9 , 5.Thiruvathipuram (M) Ward 12 Samathiyan Kula Street  10 , 6.Thiruvathipuram (M) Ward 12 Samathiyan Kula Street  11"
+226,68,226,226,"Govt Boys Higher Sec School Nabard Building  Room No.8,Cheyyar  604407","1.Thiruvathipuram (M) Ward 12 Arijar  Anna Nagar , 2.Thiruvathipuram (M) Ward 12 Thiruvalluvar Nagar , 3.Thiruvathipuram (M) Ward 12 Thiruvalluvar 1st Street  , 4.Thiruvathipuram (m) Ward 12 thiruvallurvar 2nd street"
+227,68,227,227,"Municipality Middle  School SSA Building  West  Side, East Facing,Kodanagar Cheyyar Post  604407","1.Thiruvathipuram (M) Ward 13 Kuzhandai Eswaran  Koil Street , 2.Thiruvathipuram (M) Ward 13 Kuzhandaieswaran Koil 1st  Sandhu Street  , 3.Thiruvathipuram (M) Ward 13 Kuzhandaieswaran Koil 2nd sandhu , 4.Thiruvathipuram (M) Ward 13 Kuzhandaieswaran Koil 3rd Street  , 5.Thiruvathipuram (M) Ward 13 Nathakkollai Street  ,
+6.Thiruvathipuram (M) Ward 13 Nathakkollai 1st  Sandhu , 7.Thiruvathipuram (M) Ward 13 Nathakkollai Street  2nd Sandhu , 8.Thiruvathipuram (M) Ward 13 Nathakkollai Mettu Street"
+228,68,228,228,"Municipality Middle  School,  Kodanagar West  Portion North Facing,Cheyyar Thiruvathipuram Post  604407","1.Thiruvathipuram (M) Ward 14 Chinnasami Street  , 2.Thiruvathipuram (M) Ward 14 Arasamara Street , 3.Thiruvathipuram (M) Ward 14 Bajanai Koil Street  , 4.Thiruvathipuram (M) Ward 14 Nallathannirkula Street  , 5.Thiruvathipuram (M) Ward 14 Nalla Thannirkula Street 1st  Sandhu ,
+6.Thiruvathipuram (M) Ward 14 Nalla Thannirkula Street 2nd Sandhu , 7.Thiruvathipuram (M) Ward 14 Nalla Thannirkula Street 3rd Sandhu"
+229,68,229,229,"Municipality Middle  School .Kothandapani South Building  North  Facing  Room  No.4,Barthipuram Cheyyar  604407","1.Thiruvathipuram Municipality  Ward 15 Athikesavan  Street  , 2.Thiruvathipuram (M) Ward 15 Athikesavan Street  1st  Sandhu , 3.Thiruvathipuram (M) Ward 15 Athikesavan Street  2nd Sandhu , 4.Thiruvathipuram (M) Ward 15 Athikesavan Street  3rd Sandhu  , 5.Thiruvathipuram (M) Ward 15 Athikesavan Street  4th  Sandhu , 6.Thiruvathipuram (N) Ward 15 Kamaraj Nagar , 7.Thiruvathipuram (M) Ward 15 Kamaraj Nagar 1st Sandhu."
+230,68,230,230,"Municipality middle  School, Kothandapani South Building,  North Facing  Room  No.5,Barthipuram Gandhi Road Cheyyar 604407","1.Thiruvathipuram (M) Ward 15 Kamaraj Nagar 2nd Sandhu , 2.Thiruvathipuram (M) Ward 15 Kamaraj Nagar 3rd Sandhu , 3.Thiruvathipuram (M) Ward 15 Kamaraj Nagar 4th  Sandhu , 4.Thiruvathipuram (M) Ward 15 Kamaraj Nagar 5th  Sandhu , 5.Thiruvathipuram (M) Ward 15 Kamaraj Nagar 6th  Sandhu , 6.Thiruvathipuram (M) Ward 15 Kamban  Nagar , 7.Thiruvathipuram (M) Ward 15 Kamban  Nagar Cross Street"
+231,68,231,231,"Municipality Elementary  School,  Vazhurpettai North Side  Building South  East  Portion,Thiruvathipuram 604407","1.Thiruvathipuram (M) Ward 16 Gandhi Salai , 2.Thiruvathipuram (M) Ward 16 Gandhi Salai Cross Street , 3.Thiruvathipuram (M) Ward 16 Gandhi Salai Cross 1st Sandhu ,
+4.Thiruvathipuram (M) Ward 16 Gandhi Salai Cross Street 2nd Sandhu"
+232,68,232,232,"Municipality Elementary  School,Vazhurpettai South Side  Building,  Center Portion,  Thiruvathipuram Cheyyar  604407","1.Thiruvathipuram (M) Ward 16 Kannugapuram  , 2.Thiruvathipuram (M) Ward 16 Kannugapuram  Cross Street , 3.Thiruvathipuram (M) Ward 16 Kannugapuram  1st Sandhu , 4.Thiruvathipuram (M) Ward 16 Kannugapuram  2nd  Sandhu , 5.Thiruvathipuram (M) Ward 16 Kannugapuram  3rd  Sandhu , 6.Thiruvathipuram (M) Ward 16 Kannugapuram  4th Sandhu  , 7.Thiruvathipuram (m) Ward 16 kannugapuram 5th  sandhu , 8.Thiruvathipuram (M) Ward 16 Kannugapuram  6th Sandhu  , 9.Thiruvathipuram (M) Ward 16 Kannugapuram  7th Sandhu"
+233,68,233,233,"Municipality Middle  School Kothandapani West Building  East  Facing Room  No.2,Barthipurm  Gandhi Road Cheyyar 604407","1.Thiruvathipuram (M) Ward 17 Bavadaimoorthi Koil Street , 2.Thiruvathipuram (M) Ward 17 Munusamy  Street  , 3.Thiruvathipuram (m) Ward 17 palani street"
+234,68,234,234,"Muncipality  Elementary  School Vazhurpettai South Side  Building West  Portion,Cheyyar 604407",1.Thiruvathipuram (M) Ward 17 Vaithiyar  Street
+235,68,235,235,"Muncipal Elementary  School Giritharanpettai Western Building  South  Facing,Cheyyar 604407","1.Thiruvathipuram (m) Ward 19 periya street , 2.Thiruvathipuram (M) Ward 19 Chinna Street"
+236,68,236,236,"Muncilpality High  School Giritharan  Pettai Middle Building  (BRC Building) South  Facing,Cheyyar 604407","1.Thiruvathipuram (M) Ward 20 1st Nehru Street  , 2.Thiruvathipuram (M) Ward 20 2nd  Nehru Street  , 3.Thiruvathipuram (M) Ward 22 Alli Street , 4.Thiruvathipuram (M) Ward 20 Hospital Street"
+237,68,237,237,"Municipality Govt.G.H.  School,  North  face  Building, Giridharanpettai ,  Cheyyar  604407","1.Thiruvathipuram (M) Ward 21 Rajaji Street , 2.Thiruvathipuram (m) Ward 21 othavadai street , 3.Thiruvathipuram (M) Ward 21 Ponniyamman  Koil Street"
+238,68,238,238,"Municipality Elementary  School,  Main Building,  North Portion,  venkattarayanpettai,  Chengalvarayan Street, Settu Nagar,  Cheyyar 604407","1.Thiruvathipuram (M) Ward 22 Senkalvarayan Street, 2.Thiruvathipuram (M) Ward 22 Alli Street"
+239,68,239,239,"Municipality Elementary  School,  Main Building,  South Portion,  venkattarayanpettai,  Chengalvarayan Street, Settu Nagar,  Cheyyar 604407","1.Thiruvathipuram (M) Ward 22 Periyar  Street  Main , 2.Thiruvathipuram (M) Ward 22 Periyar  1st  Street , 3.Thiruvathipuram (M) Ward 22 Periyar  2nd Street ,
+4. Thiruvathipuram  (M) Ward 22 Periyar 3rd Street"
+240,68,240,240,"Municipality Elementary  School,  Additional Building Venkatrayan Pettai Chengalvarayan Street  Settu Nagar,Cheyyar  604407","1.Thiruvathipuram (M) Ward 23 Elango Street  , 2.Thiruvathipuram (M) Ward 23 Dr.  Ambedgar  Nagar 1st Street  , 3.Thiruvathipuram (M) Ward 23 Dr.Ambedgar Nagar 2nd Street"
+241,68,241,241,"Government High School MP Fund Additional Building Room No. 2  West  Side  Building,Thiruvothur 604407","1.Thiruvathipuram (M) Ward 24 East  Mada Veethi Main Street  , 2.Thiruvathipuram (M) Ward 24 East  Mada Veethi 2nd  Sandhu , 3.Thiruvathipuram (M) Ward 24 East  Mada Veethi 1st Main  Street  , 4.Thiruvathipuram (M) Ward 24 East  Mada Veethi Animal Hospital Street"
+242,68,242,242,"Govt High  School Room No 4 East  Side  North Portion West Facing  Building,Thiruvathur 604407","1.Thiruvathipuram (M) Ward 24 Sannathi Street  , 2.Thiruvathipuram (M) Ward 24 Kaduvetti Pillaiyar Kovil Street 3.Thiruvathipuram (M) Ward 24 East  Mada Veethi 1st Sandhu , 4.Thiruvathipuram (M) Ward 24 East  Mada Veethi 3rd Sandhu , 5.Thiruvathipuram (M) Ward 24 East  Mada Veethi 4th  Sandhu"
+243,68,243,243,"Municipality Elementary  School,Kumaran Street Thiruvathur  Thiruvathipuram  Post 604407","1.Thiruvathipuram (m) Ward 25 kumaran street , 2.Thiruvathipuram (M) Ward 25 Kumaran  Cross Street  , 3.Thiruvathipuram (M) Ward 25 Kumaran  Street 1st Sandhu"
+244,68,244,244,"Municipality Elementary  School West  Building River Bank Street  ,New Building,River Bank Street Thiruvathur  604407","1.Thiruvathipuram (m) Ward 27 riverside  main street ,"
+245,68,245,245,"Municipality Elementary  School South  Facing Left Side  Room,River  Bank  Street Thiruvathur  604407","1.Thiruvathipuram (M) Ward 24 Kodi Cross Street , 2.Thiruvathipuram (M) Ward 27 Riverside  1st  Cross Street , 3.Thiruvathipuram (M) Ward 27 Riverside  2nd Cross Street  , 4.Thiruvathipuram (M) Ward 24 Thirumoolar Street  , 5.Thiruvathipuram (M) Ward 24 Thirumoolar Street  1st  Sandhu , 6.Thiruvathipuram (M) Ward 24 Old vandavasi salai , 7.Thiruvathipuram (M) Ward 24 Riverside  3rd Sandhu , 8.Thiruvathipuram (M) Ward 26 Pethavadai Street"
+246,68,246,246,"Panchayat Union Middle  School,  West  Facing Building,  Painkinar Village  Arukavoor  Post 604407","1.Painkinar (R.V) And (P) Ward 1 Sanar  Street , 2.Painkinar (R.V) And (P) Ward 1 Periya Street , 3.Painkinar (R.V) And (P) Ward 1 Mariyamman Koil Street , 4.Painkinar (R.V) And (P) Ward 1 Thatara Street , 5.Painkinar (R.V) And (P) Ward 1 Chinna street  , 6.Painkinar (R.V) And (P) Ward 2 Adi Diravidar  Colony  , 7.Painkinar (R.V) And (P) Ward 2 Road Street  ,
+8.Painkinar (R.V) And (P) Ward 2 Anna Nagar Colony  Road Street"
+247,68,247,247,"Panchayat Union Elementary  School SSA Building South Part, Housing  Board,Painkinar Arukavoor Post 604407","1.Painkinar (R.V) And (P) Ward 4 Anna Nagar Colony  , 2.Painkinar (R.V) And (P) Ward 3 Housing  Board ,
+3.Painkinar (R.V) And (P) Ward 4 Anna Nagar Colony  2nd  Street , 4.Painkinar (R.V) And (P) Ward 4 Anna Nagar Colony  3rd  Street"
+248,68,248,248,"Panchayat Union Elementary  School,  SSA Building, South Part  North Facing,  Housing Board,Painkinar-604407","1.Painkinar (R.V) And (P) Ward 4 Karikundru Arcot Salai , 2.Painkinar (R.V) And (P) Ward 4 M.G.R.  Nagar  Road Street  , 3.Painkinar (R.V) And (P) Ward 3 Sakthi Nagar ,
+4.Painkinar (R.V) And (P) Ward 3 Arcot Salai ,
+5.Painkinar (R.V) And (P) Ward 4 Velanmai Quarters Street  , 6.Painkinar (R.V) And (P) Ward 3 Housing  Board 2nd  Street"
+249,68,249,249,"Panachayat Union Middle  School East  Side Building,Vadathandalam  Arukavur Post  604407","1.Vadathandalam  (R.V) And (P) Ward 1 Pillaiyar Kovil Street , 2.Vadathandalam  (r.v) and (p) Ward 1 mettu street  , 3.Vadathandalam  (R.V) And (P) Ward 1 Perumal Koil Street  ,"
+250,68,250,250,"Panachayat union  middle  school ,  Centre Building,Vadathandalam  Arukavur Post  604407","1.Vadathandalam  (R.V) And (P) Ward 2 Sankaranthangal , 2.Vadathandalam  (R.V) And (P) Ward 2 Arni Road Street , 3.Vadathandalam  (R.V) And (P) Ward 2 Adidiravidar  Colony  , 4.Vadathandalam  (p) Ward 2 road street"
+251,68,251,251,"Panchayat union  middle  school, East  Facing Building,Cheyyatraivendran Village  & Post  604401","1.Cheyyatraivendran  (R.V) And (P) Ward 1  Velalar  Street , 2.Cheyyatraivendran  (R.V) And (P) Ward 1  Vanniyar Street  , 3.Cheyyatraivendran  (R.V) And (P) Ward 1  Valaiyalkara Street  , 4.Cheyyatraivendran  (R.V) And (P) Ward 2  Road Street , 5.Cheyyatraivendran  (R.V) And (P) Ward 2  Pillaiyar Koil Street (Mettur) , 6.Cheyyatraivendran  (R.V) And (P) Ward 2  Perumal Koil Street  (Mettur) , 7.Cheyyatraivendran  (R.V) And (P) Ward 3  Road Street , 8.Cheyyatraivendran  (R.V) And (P) Ward 2  Erular Street , 9.Cheyyatraivendran  (R.V) And (P) Ward 1  Vellalar street Cross"
+252,68,252,252,"Panchayat Union Middle  School North  Part East Facing,Cheyyatraivendran Village  & Post  604401","1.Cheyyatraivendran  (R.V) And (P) Ward 3  Palla Street  , 2.Cheyyatraivendran  (R.V) And (P) Ward 3  Tank Street  , 3.Cheyyatraivendran  (R.V) And (P) Ard 3l Mootha Koil Street  , 4.Cheyyatraivendran  (R.V) And (P) Ward 2  Road Street , 5.Cheyyatraivendran  (R.V) And (P) Ward 1  Madha Koil Street  , 6.Cheyyatraivendran  (R.V) And (P) Ward 1  Samuthaya Kuda Street  , 7.Cheyyatraivendran  (R.V) And (P) Ward 3  Radio Street  , 8.Cheyyatraivendran  (R.V) And (P) Ward 3  Tank Cross 2nd Street  Colony  , 9.Cheyyatraivendran  (R.V) And (P) Ward 1  Road 1st Cross Street  , 10.Cheyyatraivendran (R.V) And (P) Ward 2 Road 2nd Cross Street"
+253,68,253,253,"Panchayat Union Elementary  School ,  South Facing,Kizhathur Village  Cheyyatralvendran Post 604401","1.Kizhathur (R.V) And (P) Ward 2 Road Street , 2.Kizhathur (R.V) And (P) Ward 1 Bramanar  Street , 3.Kizhathur (R.V) And (P) Ward 1 Bajanai Koil Street  , 4.Kizhathur (R.V) And (P) Ward 1 & 2 School Street ,
+5.Kizhathur (R.V) And (P) Ward 3 Mariyamman Koil Street , 6.Kizhathur (R.V) And (P) Ward 2 Pillaiyar Koil Street  ,
+7.Kizhathur (R.V) And (P) Ward 1 Panchayat Union Elementary  School Back Side  , 8.Kizhathur (R.V) And (P) Ward 2 Kulathankarai Street ,
+9.Earaiyur (R.V) Kizhathur (p) Ward 3 Bajanai Koil Street  , 10.Kizhathur (R.V) And (P) Ward 1 School Back Side  2nd Street  , 11.Kizhathur ( R.V) And (P) Ward 3  kizhathur Colony  Road Street"
+254,68,254,254,"Panchayat Union Elementary  School,  West Facing,Eraiyur Village  Thozhupedu Post  604409","1.Eraiyur (R.V) And (P) Ward 1 Palla Street  ,
+2.Eraiyur (R.V) And (P) Ward 1 Nadu Street  ,
+3.Eraiyur (R.V) And (P) Ward 1 Cross Street  ,
+4.Eraiyur (r.v) and (p) Ward 1&2 Bajanai koil street ,
+5.Eraiyur (R.V) And (P) Ward 2 Mettu Street ,
+6.Eraiyur (R.V) And (P) Ward 2 Thandukulam South  Street ,
+7.Eraiyur (R.V) And (P) Ward 2 Thandukulam East Street ,
+8.Eraiyur (R.V) And (P) Ward 2 Thandukulam North Street ,
+9.Eraiyur (R.V) And (P) Ward 3 Harijana Colony  ,
+10.Eraiyur  (r.v) and (p) Ward 3 colony  cross street"
+255,68,255,255,"Panchayat Union Middle  School,  South Building, Front Side  North  Facing,  Thozhupedu Village  & Post 604409","1.Thozhupedu (R.V) And (P) Ward 1  Atrangarai Street , 2.Thozhupedu (R.V) And (P) Ward 1  Pillaiyar Koil Street  , 3.Thozhupedu (R.V) And (P) Ward 1  Mariyamman  Koil Street , 4.Thozhupedu (R.V) And (P) Ward 1  Theradi Street , 5.Thozhupedu (R.V) And (P) Ward 1  Bajanai Koil Street  , 6.Thozhupedu (R.V) And (P) Ward 1  Old School Street"
+256,68,256,256,"Panchayat Union Middle  School,  South Building,  Back Side  North  Facing,  Thozhupedu Villag  Post 604409","1.Thozhupedu (R.V) And (P) Ward 3  Mootha Koil Street  , 2.Thozhupedu (R.V) And (P) Ward 3  Muthu Mariyamman  Koil Street  , 3.Thozhupedu (R.V) And (P) Ward 2  Ponniyammal Koil Street , 4.Thozhupedu (R.V) And (P) Ward 2  Eswaran  Koil Street  , 5.Thozhupedu (R.V) And (P) Ward 2  Mettu Street ,
+6.Thozhupedu (R.V) And (P) Ward 2  Manthaivelipattai Street  , 7.Thozhupedu (R.V) And (P) Ward 1  Perumal Kovil Street"
+257,68,257,257,"Panachayat Union Elementary  School,Kozhampadi Village  & Post  604503","1.Thozhupedu (R.V) And (P) Ward 3  Mettukudisai Street  Kozhampadi , 2.Thozhupedu (R.V) And (P) Ward 3  Kallankuthu Pillaiyar Koil Street , 3.Thozhupedu (R.V) And (P) Ward 3  Kozhampadi Pillaiyar Kovil Street  , 4.Thozhupedu (R.V) And (P) Ward 3  Kozhampadi Mandaiveli Street , 5.Thozhupedu (R.V) And (P) Ward 3  Kozhampadi Kavarai St,  Kozhamapadi , 6.Thozhupedu (R.V) And (P) Ward 3  Mottur  Koor  Kalankuthu Colony  Kozhampadi , 7.Kizhapalandai (R.V) Thozhupedu (P) Ward 2 Kizhapalandai Colony  Tank Street , 8.Kizhapalandai (R.V) Thozhupedu (P) Ward 2 Colony  Mootha Mariyamman  Koil Street  ,
+9.Kizhapalandai (R.V) Thozhupedu (P) Ward 2 Cross Street"
+258,68,258,258,"Panachayat Union Elementary  School South  Side Building,Kizhapalandai Village  Kadukanur Post 604503","1.Kizhpalandai (R.V) Thozhupedu (P) Ward 1 Bramanar  Street , 2.Kizhapalandai (R.V) Thozhupedu (P) Ward 1 School Street, 3.Kizhapalandai (R.V) Thozhupedu (P) Ward 1 Bajanai Koil Street, 4.Kizhapalandai (R.V) Thozhupedu (P) Ward 1 Mettu Street, 5.Kizhapalandai (R.V) Thozhupedu (P) Ward 1 Uoor Mariyamman Koil Street"
+259,68,259,259,"Govt Higher  Sec School SSA Building,  North Side,Korkkai Village  & Post  604409","1.Korukkai (R.V) And (P) Ward 1 Mettu Street  ,
+2.Korukkai (R.V) And (P) Ward 1 Pillaiyar  Koil Street ,
+3.Korukkai (R.V) And (P) Ward 1 Yathavar  Street  ,
+4.Korukkai (R.V) And (P) Ward 1 Kulathu Street ,
+5.Korukkai (R.V) And (P) Ward 2 Palla Street ,
+6.Korukkai (R.V) And (P) Ward 2 Cross Street  ,
+7.Korukkai (R.V) And (P) Ward 2 Perumal Koil Street ,
+8.Korukkai (R.V) And (P) Ward 3 Arunthathiyar Street  ,
+9.Korukkai (R.V) And (P) Ward 3 Amman  Koil Street , 10.Korukkai (R.V) And (P) Ward 3 Cross Street  , 11.Korukkai (R.V) And (P) Ward 3 North  1st Street , 12.Korukkai (R.V) And (P) Ward 3 North  2nd  Street , 13.Korukkai (R.V) And (P) Ward 3 North  3rd Street"
+260,68,260,260,"Panachayat Union Middle  School , West Building,Mukkur Village  & Post 604409","1.Mukkur  (R.V) And (P) Ward 1 Mettu Street  ,
+2.Mukkur  (R.V) And (P) Ward 2 Bajanai Koil Street  ,
+3.Mukkur  (R.V) And (P) Ward 2 Pillaiyar Koil Street ,
+4.Mukkur  (R.V) And (P) Ward 2,3  Road Street ,
+5.Mukkur  (R.V) And (P) Ward 3 Amman Kovil Street"
+261,68,261,261,"Panchayat Union Middle  School East  Side  South Building,Mukkur Village  & Post 604409.","1.Mukkur  (R.V) And (P) Ward 2 School Street ,
+2.Mukkur  (R.V) And (P) Ward 2 Palla Street  ,
+3.Mukkur  (R.V) And (P) Ward 2 Braminar  Street  ,
+4.Mukkur  (R.V) And (P) Ward 3 Palla Colony 1st  Street  ,
+5.Mukkur  (R.V) And (P) Ward 3 Palla Colony 2nd Street  ,
+6.Mukkur  (R.V) And (P) Ward 3 Mettu Colony  Katteri Eduvai Street  ,
+7.Mukkur  (R.V) And (P) Ward 3 Mettu Colony  1st Street ,
+8.Mukkur  (R.V) And (P) Ward 3 Mettu Colony  2nd Street ,
+9.Mukkur  (R.V) And (P) Ward 3 Mettu Colony  3rd Street ,
+10.Mukkur (R.V) And (P) Ward 3 Mettu Colony  4th Street"
+262,68,262,262,"Panachayat Union Elementary  School East  Building East Portion,Vakkadai Village  & Post  604409","1.Vakkadai (R.V) And (P) Ward 1 Bharathiyar street  ,
+2.Vakkadai (R.V) And (P) Ward 1 Swami Vivekanathar Street  ,
+3.Vakkadai (R.V) And (P) Ward 1 Nehru Street ,
+4.Vakkadai (R.V) And (P) Ward 1 Kumaran Street  ,
+5.Vakkadai (R.V) And (P) Ward 1 Anna Street ,
+6.Vakkadai (R.V) And (P) Ward 1 Kulakkarai Street ,
+7.Vakkadai (R.V) And (P) Ward 1 North Thiruvalluvar Street  ,
+8.Vakkadai (R.V) And (P) Ward 2 Kamarajar Street ,
+9.Vakkadai (R.V) And (P) Ward 2 Thirowbathi Amman  Koil Street , 10.Vakkadai (R.V) And (P) Ward  2 Ambedgar Colony  1st  Street , 11.Vakkadai (R.V) And (P) Ward  2 Ambedgar Colony  2nd Street  , 12.Vakkadai (R.V) And (P) Ward  2 Ambedgar Colony  3rd Street  , 13.Vakkadai (R.V) And (P) Ward  2 Oasuramman Koil Street , 14.Vakkadai (R.V) And (P) Ward  2 New Ambedgar Colony  1st  Street , 15.Vakkadai (R.V) And (P) Ward  2 New Ambedgar Colony  2nd Street , 16.Vakkadai (R.V) And (P) Ward  2 New Ambedgar Colony  3rd Street , 17.Vakkadai (R.V) And (P) Ward  2 Pudu Street ,
+18.Vakkadai (R.V) And (P) Ward  2 South  Thiruvalluvar Street"
+263,68,263,263,"Panchayat Union Elementary  School Kazhanipakkam,Kazhanipakkam  Village  & Post 604409","1.Kazhanipakkam  (R.V) And (P) Ward 1  Bramanar  Street , 2.Kazhanipakkam  (R.V) And (P) Ward 1  Mariyamman  Koil Street , 3.Kazhanipakkam  (R.V) And (P) Ward 1  Mettu Street , 4.Kazhanipakkam  (R.V) And (P) Ward 2  Kammavar Street , 5.Kazhanipakkam  (R.V) And (P) Ward 2  Ambedgar Street , 6.Kazhanipakkam  (R.V) And (P) Ward 2  Pudu Ambedgar Street , 7.Kazhanipakkam  (R.V) And (P) Ward 2  Moothakoil Street ,
+8.Kazhanipakkam  (R.V) And (P) Ward 1  Mariyamman  Koil Street Sandhu , 9.Kazhanipakkam  (R.V) And (P) Ward 1  Road Street ,
+10.Kazhanipakkam (R.V) And (P) Ward 1 Bajanai Koil Street  , 11.Kazhanipakkam (R.V) And (P) Ward 1 Pillaiyar Koil Street"
+264,68,264,264,"Panachayat Union Elementary  School ,  East Building,Naval Village  Vakkadai Post  604409","1.Naval (R.V) And (P) Ward 1 Jainar Street  ,
+2.Naval (R.V) And (P) Ward 1 Alli Kula Street  ,
+3.Naval (R.V) And (P) Ward 1 Bramanar  Street ,
+4.Naval (R.V) And (P) Ward 1 School Street ,
+5.Naval (R.V) And (P) Ward l Erular  Colony  ,
+6.Naval (R.V) And (P) Ward 1 Bajanai Koil Street  ,
+7.Naval (R.V) And (P) Ward 1 Mathavapillai Street ,
+8.Naval (R.V) And (P) Ward 1 Arunachalapillai Street ,
+9.Naval (R.V) And (P) Ward 2 Thotti Street  ,
+10.Naval (R.V) And (P) Ward 2 Nedukku Street ,
+11.Naval (R.V) And (P) Ward 2 Thalaiyari Street ,
+12.Naval (R.V) And (P) Ward 2 Moothakoil Street  ,
+13.Naval (R.V) And (P) Ward 2 New Colony  Street 1st Street  ,
+14.Naval (R.V) And (P) Ward 2 New Colony  Street 2nd Street ,
+15.Naval (R.V) And (P) Ward 2 Erular Colony  (Mayagam)"
+265,68,265,265,"Govt High  School ,  East  Building,Parasur Village  & Post  604409","1.Parasur  (R.V) And  (P) Ward 1 Bajanai Koil Street  ,
+2.Parasur  (R.V) And  (P) Ward 1 Sandhu Street ,
+3.Parasur  (R.V) And  (P) Ward 1 Chengappanaidu Street ,
+4.Parasur  (R.V) And  (P) Ward 2 Muthiyalamman  Koil Street ,
+5.Parasur  (R.V) And  (P) Ward 2 Bramanar  Street  ,
+6.Parasur  (R.V) And  (P) Ward 2 Road Street ,
+7.Parasur  (R.V) And  (P) Ward 2 Kulathukarai ,
+8.Parasur  (R.V) And  (P) Ward 3 Pillaiyar Koil Street ,
+9.Parasur  (R.V) And  (P) Ward 2 Musilim  Street ,
+10.Parasur (R.V) And (P) Ward 3  Pudu Street"
+266,68,266,266,"Govt High  School West Side  New Building,Parasur Village  & Post  604409","1.Parasur  (R.V) And  (P) Ward 3 Thirowbathaiyamman  Kovil Street  1 ,
+2.Parasur  (R.V) And  (P) Ward 3 Thirowbathaiyamman  Koil Sannathi Street  ,
+3.Parasur  (R.V) And  (P) Ward 3 Thirowbathaiyamman  Kovil 2nd Street  ,
+4.Parasur  (R.V) And  (P) Ward 3 Perumal Kovil Street ,
+5.Parasur  (R.V) And  (P) Ward 3 Pidari Amman Kovil Street ,
+6.Madurai (R.V) Parasur (P) Ward 1 Pillaiyar Kovil Street ,
+7.Madurai (R.V) Parasur (P) Ward 1 Nehru Street  ,
+8.Madurai (R.V) Parasur (P) Ward 2 Nadu Street ,
+9.Madurai (R.V) Parasur (P) Ward 2 Bramanar  Street ,
+10.Madurai (R.V) Parasur (P) Ward 2 Palla Street ,
+11.Madurai (R.V) Parasur (P) Waard 2 Harijana Colony  1st Street  ,
+12.Madurai (R.V) Parasur (P) Ward 2 Harijana Colony  Cross Street ,
+13.Madurai (R.V) Parasur (P) Ward 2 Harijana Colony  2nd Street  ,
+14.Madurai (R.V) Parasur (P) Ward 2 E.B.  Colony"
+267,68,267,267,"Govt High  School South Building,Parasur Village  & Post  604409","1.Parasur(R.V) And (P) Ward 4 Mariyamman Koil Street , 2.Parasur(R.V) And (P) Ward 4 Gengaiyamman  Koil Street , 3.Parasur(R.V) And (P) Ward 4 Nadu Street  , 4.Parasur(R.V) And (P) Ward 4 Pillaiyar Koil Street , 5.Parasur(R.V) And (P) Ward 4 1st Cross Street  , 6.Parasur(R.V) And (P) Ward 4 2nd Cross Street  , 7.Parasur(R.V) And (P) Ward 4 Road Street , 8.Parasur(R.V) And (P) Ward 5 1st Street  ,
+9.Parasur(R.V) And (P) Ward 5 2nd Street , 10.Parasur(R.V) And (P) Ward 5 3rd Street , 11.Parasur(R.V) And (P) Ward 5 Sandhu Street  , 12.Parasur(R.V) And (P) Ward 5 Pudu Street , 13.Parasur(R.V) And (P) Ward 5 Lakshmanapuram  ,
+14.Parasur(R.V) And (P) Ward 5 Kootroad Narikuravar  Colony"
+268,68,268,268,"Panchayat Union Elementary  School,  New Building,Nelvai Parasur Post 604409","1.Nelvoy  (R.V) And (P) Ward 1  Road Street ,
+2.Nelvoy  (R.V) And (P) Ward 1  Mettu Street ,
+3.Nelvoy  (R.V) And (P) Ward 1  & 2 Pillaiyar Koil Street  ,
+4.Nelvoy  (R.V) And (P) Ward 2  Sandhu Street  ,
+5.Nelvoy  (R.V) And (P) Ward 2  Bajanai Koil Street  ,
+6.Nelvoy  (R.V) And (P) Ward 2  Kulathu Street  ,
+7.Nelvoy  (R.V) And (P) Ward 2  Adi Dravidar  Colony"
+269,68,269,269,"Panchayat Union Elementary  School East  Facing  west Building,Thavasi Village  & Post  604401","1.Thavasi (R.V) And (P) Ward 1 Mettu Street  1 ,
+2.Thavasi (R.V) And (P) Ward 1 Mettu Street  2 ,
+3.Thavasi (R.V) And (P) Ward 1 Mettu Street  3 ,
+4.Thavasi (R.V) And (P) Ward 1 Mettu Street  4 ,
+5.Thavasi (R.V) And (P) Ward 1 Yadhavar  Street ,
+6.Thavasi (R.V) And (P) Ward 1 Road Street ,
+7.Thavasi (R.V) And (P) Ward 1 NelvaiRoad  Street ,
+8.Thavasi (R.V) And (P) Ward 1 Cheyatraiventran Road Street ,
+9.Thavasi (R.V) And (P) Ward 1 Cheyatrai Ventran  Road Kurukku Street ,
+10.Thavasi (R.V) And (P) Ward 2 Puliyathamman  Koil Street ,
+11.Thavasi (R.V) And (P) Ward 2 Velalar Street 1 ,
+12.Thavasi (R.V) And (P) Ward 2 Velalar Street 2"
+270,68,270,270,"Panchayat Union Elementary  School ,  South Building North Facing,Thavasi Village  & Post  604401","1.Thavasi (R.V) And (P) Ward 2 Perumal Koil Street  ,
+2.Thavasi (R.V) And (P) Ward 2 Palla Street  ,
+3.Thavasi (R.V) And (P) Ward 3 Kurukku Street  ,
+4.Thavasi (R.V) And (P) Ward 3 Sandhu Street ,
+5.Thavasi (R.V) And (P) Ward 3 Kulakkarai Street ,
+6.Thavasi (R.V) And (P) Ward 3 Adidravidar  Colony  Otraivadai Street ,
+7.Thavasi (R.V) And (P) Ward 3 Adidravidar  Colony  Koil Street  ,
+8.Thavasi (R.V) And (P) Ward 3 Adidravidar  Colony  Bore  Street ,
+9.Thavasi (R.V) And (P) Ward 3 Adidravidar  Colony  Chinna Street  ,
+10.Thavasi (R.V) And (P) Ward 3 Adidravidar Colony  Road Street"
+271,68,271,271,"Panachayat Union Elementary  School,  (Right Side Room),Vellai Cheyyatraivendran Post  604401","1.Vellai (R.V) And (P) Ward 1 jainar street ,
+2.Vellai (R.V) And (P) Ward 1 Yathavar  Street  ,
+3.Vellai (R.V) And (P) Ward 1 School Street ,
+4.Vellai (R.V) And (P) Ward 1 Mettu Street  ,
+5.Vellai (R.V) And (P) Ward 2 Padasalai Street ,
+6.Vellai (R.V) And (P) Ward 3 Borewell Street ,
+7.Vellai (R.V) And (P) Ward 3 Vinayagar Koil Street ,
+8.Vellai (R.V) And (P) Ward 1 Road Street Vellai ,
+9.Vellai (R.V) And (P) Ward 1 Yathavar  Street  Cross Street  Vellai ,
+10.Vellai (R.V) And (P) Ward 1 School Street Cross Vellai ,
+11.Vellai (R.V) And (P) Ward 1 Mettu Street Cross Vellai"
+272,68,272,272,"Panachayat Union Elementary  School (Left  side Room),Vellai Cheyyatraivendran Post  604401","1.Vellai (R.V) And (P) Ward 2 Road Street ,
+2.Vellai (R.V) And (P) Ward 2 Kulakkarai Street ,
+3.Vellai (R.V) And (P) Ward 3 Erikkarai Street  ,
+4.Vellai (R.V) And (P) Ward 3 Gnamurugan  Poondi ,
+5.Vellai (R.V) And (P) Ward 3 Erikkarai 1st Cross Kilmattai , 6.Kilmattai (R.V) Vellai (P) Ward 2  Erikkarai 2nd  Cross Kilmattai , 7.Kilmattai (R.V) Vellai (P) Ward 2  Kulakkarai Street Cross"
+273,68,273,273,"Panchayat Union Elementary  School,  North  Side Centre  Building  Room  No.5 ,Anakavoor Village  & Post 604401","1.Anakkavoor (R.V) And (P) Ward 1  Perumal Koil Street , 2.Anakkavoor (R.V) And (P) Ward 2  Mariyamman  Koil Street , 3.Anakkavoor (R.V) And (P) Ward 3  Thalayari Street  , 4.Anakkavoor(R.V) And (P) Ward 3 Kalathumettu Street"
+274,68,274,274,"Panchayat Union Elementary  School,  North  Block West Side  Building  ,Anakavoor  Village  & Post  604401","1.Anakkavoor (R.V) And (P) Ward 3  Sakthivinayagar Koil Street , 2.Anakkavoor (R.V) And (P) Ward 4  Bramanar  Street 1 , 3.Anakkavoor(R.V) And (P) Ward 4 Bramanar  Street 2 , 4.Anakkavoor (R.V) And (P) Ward 4  Bramanar  Street 3 , 5.Anakkavoor (R.V) And (P) Ward 4  Bramanar  Street 4 , 6.Anakkavoor (R.V) And (P) Ward 4  Mettu Vellalar  Street  , 7.Annakkavoor  (R.V) And (P) Ward 4  Palla Vellalar Street  , 8.Annakkavoor  (R.V) And (P) Ward 7  Kalliyamman  Koil Street"
+275,68,275,275,"Panchayat Union Elementary  School,  West  Block East Face,  Anakavoor Village  & Post  604401","1.Anakkavoor(R.V) And (P) Ward 4 Bramanar  Street 1 , 2.Anakkavoor (R.V) And (P) Ward 5  Atthikulam , 3.Anakkavoor (R.V) And (P) Ward 5  Pillaiyar Koil Street  , 4.Anakkavoor (R.V) And (P) Ward 5  Anjaneyar Koil Street  , 5.Anakkavoor (R.V) And (P) Ward 3  Vannara Street , 6.Anakkavoor (R.V) And (P) Ward 1  Mariyamman  Koil Street , 7.Anakkavoor(R.V) And (P) Ward 5 Road Street , 8.Anakkavoor (R.V) And (P) Ward 5  Kulathankarai Street , 9.Anakkavoor (R.V) And (P) Ward 1  Perumal Koil Street , 10.Anakkavoor  (R.V) And  (P) Ward 4 Saratha Nagar 1 , 11.Anakkavoor(R.V) And (P) Ward 5 Saratha Nagar 2 , 12.Anakkavoor(R.V) And (P) Ward 5 Saratha Nagar 3"
+276,68,276,276,"Panchayat Union Elementary  School,  North  Block  East Side  Building  west part  ,Anakavoor Village  & Post 604401","1.Anakkavoor (R.V) And (P) Ward 3  Kalathumettu Street , 2.Anakkavoor (R.V) And (P) Ward 7  Kalliyamman  Koil Street , 3.Anakkavoor(R.V) And (P) Ward 7 Colony  ,
+4.Anakkavoor (R.V) And (P) Ward 2  Nadu Street , 5.Anakkavoor (R.V) And (P) Ward 7  Indira Nagar 1 , 6.Anakkavoor (R.V) And (P) Ward 7  Indira Nagar 2"
+277,68,277,277,"Panchayat Union Elementary  School,  East  Building, West Part,Annapathoor  604401","1.Anappathur (R.V) And (P) Ward 1 Naikkar  Street  , 2.Anappathur (R.V) And (P) Ward 1 Mettu Street  , 3.Anappathur (R.V) And (P) Ward Bramanar  Street , 4.Anappathur (R.V) And (P) Ward 1 Kammalar Street , 5.Anappathur (R.V) And (P) Ward 1 Vellaiyan Street , 6.Anappathur (R.V) And (P) Ward 1 Navithar Street  , 7.Anappathur (R.V) And (P) Ward 1 Kosa Street , 8.Anappathur (R.V) And (P) Ward 2 Pillaiyarkoil Street"
+278,68,278,278,"Panchayat Union Elementary  School,  West Building,Annapathoor  604401","1.Anappathur (R.V) And (P) Ward 2 Mettu Pillaiyar  Koil Street  , 2.Anappathur (R.V) And (P) Ward 2 Erikodi Ananthapuram  , 3.Anappathur (R.V) And (P) Ward 3 Mariyamman Koil Street ,
+4.Vadaallapranthan (R.V) Anapathoor (P) Ward 3 Anappathur  Adi Dravidar , 5.Vadaallapranthan (R.V) Anapathoor (P) Ward 3 Adi Dravidar  Pillaiyarkoil Street , 6.Anappathur (R.V) And (P) Ward 2 Anna Nagar"
+279,68,279,279,"Panchayat Union Elementary  School,North Facing,Vadaalapirandan Village  Anappathur Post 604401","1.Vadaallapranthan (R.V) Anapathoor (P) Ward 1 Allapranthan Palla Street , 2.Vadaallapranthan (R.V) Anapathoor (P) Ward 2 Mettu Street  Allapranthan , 3.Vadaallapranthan (R.V) Anapathoor (P) Ward 2 Adi Dravidar  Colony  (Allaprandan)
+,
+4.Vadaallapranthan (R.V) Anapathoor (P) Ward 2 Road Street (Pudur) , 5.Annapathoor  (R.V) Pudur  (P) Ward 2 Pudur  Mettu Street , 6.Annapathoor  (R.V) Pudur  (P) Ward 2 Pudur  Palla Street  , 7.Annapathoor  (R.V) Pudur  (P) Ward 2 Pudur  Kulathakarai Street"
+280,68,280,280,"Government High School,  New Building  East Facing South Part, Near  theppakkulam  Elaneerkundram village  & Post  604401","1.Elaneerkuntram (R.V) And (P) Ward 1 Kizh  Street , 2.Elaneerkuntram (R.V) And (P) Ward 1 & 2 Udaiyar Street  , 3.Elaneerkuntram (R.V) And (P) Ward 1 Bramanar Street  , 4.Elaneerkuntram (R.V) And (P) Ward 1 Perumal Koil Street , 5.Elaneerkuntram (R.V) And (P) Ward 3 Colony  Road Street  , 6.Elaneerkuntram (R.V) And (P) Ward 3 Nadu Street , 7.Elaneerkuntram (r.v) and (p) Ward  3 old street  , 8.Elaneerkuntram (R.V) And (P) Ward 3 Nethaji Street , 9.Elaneerkundram  (R.V) And (P) Ward 3 Koil Street"
+281,68,281,281,"Government High School,  New Building  East Facing North Part,  Near theppakkulam Elaneerkundram village  & Post  604401","1.Elaneerkuntram (R.V) And (P) Ward 2 Thatha Street  , 2.Elaneerkuntram (R.V) And (P) Ward 2 Chetty  Street  , 3.Elaneerkuntram (R.V) And (P) Ward 2 Pavundu Street  , 4.Elaneerkuntram (r.v) and (p) Ward  2 ellaiyamman  koil street , 5.Elaneerkuntram (R.V) And (P) Ward 2 Padasalai Street  , 6.Elaneerkuntram (R.V) And (P) Ward 3 Kulakarai Street , 7.Elaneerkuntram (R.V) And (P) Ward 3 Road Street ,"
+282,68,282,282,"Panchayat Union Elementary  School,Kilneerkundram village  Elaneerkundram post  604401","1.Kilneerkundram  (R.V) Elaneerkundram (P) Ward 1  Road Street (Kilneerkundram)
+,
+2.Kilneerkundram  (R.V) Elaneerkundram (P) Ward 2  Nadu Street  Kilneerkundaram
+,
+3.Kilneerkundram  (R.V) Elaneerkundram (P) Ward 2  Eswaran Koil Street Kilneerkundram  ,
+4.Kilneerkundram  (R.V) Elaneerkundram (P) Ward 1  Perumal Koil Street Kilneerkundram  ,
+5.Kilneerkundram  (R.V) Elaneerkundram (P) Ward 2  Mariyamman  Koil Street Kilneerkundram  ,
+6.Kilneerkundram  (R.V) Elaneerkundram (P) Ward 3  Thenathopu Street  Kilneer Kundram ,
+7.Kilneerkundram  (R.V) Elaneerkundram (P) Ward 1  Jothi Koil Street Kilneerkundram  ,
+8.Kilneerkundram  (R.V) Elaneerkundram (P) Ward 2  Murugan  Koil Street Kilneerkundram  ,
+9.Kilneerkundram  (R.V) Elaneerkundram (P) Ward 3  School Street Kilneerkundram
+,
+10.Kilneerkundram (R.V) Elaneerkundram (P) Ward 3 Manthaivelli Kilneerkundram"
+283,68,283,283,"Panchayat Elementary  School ,North  Facing,Athi Village& Post  604401","1.Atthi (R.V) Elaneerkundram  (P) Ward 3  Erikkarai Street  (Atthi) ,
+2.Atthi (R.V) Elaneerkundram  (P) Ward 2  Perumal Koil Street  (Atthi) ,
+3.Atthi (R.V) Elaneerkundram  (P) Ward 1  Kavankarai Street (Atthi) ,
+4.Atthi (R.V) Elaneerkundram  (P) Ward 2  Pillaiyarkoil Street (Atthi) ,
+5.Atthi (R.V) Elaneerkundram  (P) Ward 1  Muthiriyar Street (Atthi) ,
+6.Atthi (R.V) Elaneerkundram  (P) Ward 3  Pappankula Street 2nd Street ,
+7.Atthi (R.V) Elaneerkundram  (P) Ward 3  Pappankula Street First  Cross Street  ,
+8.Atthi (R.V) Elaneerkundram  (P) Ward 3  Pappankula Street (Atthi) ,
+9.Atthi (R.V) Elaneerkundram  (P) Ward 1  Murugan  Koil Street (Atthi) ,
+10.Atthi (R.V) Elaneerkundram (P) Ward 1 Muthiriyar Koil Street East"
+284,68,284,284,"Panchayat Union Middle  School,Nedungal village Thethurai post  604408","1.Nedungal (R.V) And (P) Ward 1 Selliamman  Street  ,
+2.Nedungal (R.V) And (P) Ward1 pillaiyar  koill street  ,
+3.Nedungal (R.V) And (P) Ward 1 Earikarai Street ,
+4.Nedungal (R.V) And (P) Ward 1 Road Street ,
+5.Nedungal (R.V) And (P) Ward 2 Thirowbathiyamman  Koil Street ,
+6.Nedungal (R.V) And (P) Ward 1 Velalar Veedhi ,
+7.Nedungal (R.V) And (P) Ward 2 Pazhanthoppu Street  ,
+8.Nedungal (R.V) And (P) Ward 2 Yadhavar  Street ,
+9.Nedungal (R.V) And (P) Ward 3 Thiropathiyamman  Kovil Street  South"
+285,68,285,285,"Panchayat Union Middle  School,Nedungal village Thethurai post  604408","1.Nedungal (R.V) And (P) Ward 3 Arijana Colony  ,
+2.Nedungal (R.V) And (P) Ward 3 Thenandai Street  ,
+3.Nedungal (R.V) And (P) Ward 3 Vadavandai Street ,
+4.Nedungal (R.V) And (P) Ward 3 Nedungal Pudur  Pillaiyar Koil Street ,
+5.Nedungal (R.V) And (P) Ward 3 Pudhu Street Pudhur ,
+6.Nedungal (R.V) And (P) Ward 3 Junction  Street Pudhur"
+286,68,286,286,"G.H. School,  SSA East  face  Building  ,Thethurai Village & Post  604408","1.Thethurai (R.V)And (P) Ward 1  Mariamman Koil Street  , 2.Thethurai (R.V)And (P) Ward 1  Brahaminar Street  , 3.Thethdurai (R.V)And (P) Ward 1  Velalar  Street , 4.Thethurai (R.V)And (P) Ward 1  Nadu Street  , 5.Thethdurai (r.v)and (p) Ward 2 road street  , 6.Thethurai (R.V)And (P) Ward 2  Mettu Street ,
+7.Thethurai (R.V)And (P) Ward 3  Arijana Colony  Mariamman Koil Street , 8.Thethdurai (R.V)And (P) Ward 3  Arijana Colony  Mettu Street , 9.Thethurai (R.V)And (P) Ward 3  Arisana Colony  Aerykarai Street , 10.Thethurai(R.V)And (P) Ward 3 Valluvar Street ,
+11.Thethdurai (R.V)And (P) Ward 2 Kulakarai Street"
+287,68,287,287,"Panchayat Union Elementary  School East Facing,Kurumbur  Village  Veerampakkam Post  604408","1.Kurumbur (R.V) And (P) Ward 1 Pudhu Street ,
+2.KURUMBUR (R.V) And (P) Ward 1 School Street ,
+3.KURUMBUR (R.V) And (P) Ward 1 Nadu Street ,
+4.KURUMBUR (R.V) And (P) Ward 2 Pillaiyar Koil Street  ,
+5.KURUMBUR (R.V) And (P) Ward 2 Road Street ,
+6.KURUMBUR (R.V) And (P) Ward 2 Manthaveli Street  ,
+7.Kattu Kudisai (R.V) Kurumbur  (P) Ward 3  Kattu KudisaiPillaiyar  Koil Street  ,
+8.Kattu Kudisai(R.V) Kurumbur  (P) Ward 3  Kattu Kudusai Road Street ,
+9.Kattu Kudisai(R.V) Kurumbur  (P) Ward 3  Kattu Kudisai Nadu Street  ,
+10.Kattu Kudisai (R.V) Kurumbur  (P) Ward 3 Kattu Kudisai Cross Street  ,
+11.KATTU KUDUSAI (R.V) KURUMBUR  (P) Ward1 murugar  koill street"
+288,68,288,288,"Panchayat Union Middle  School (East Side),Erumaivetti Village  & Post  604401","1.Erumaivetti (R.V) And (P) Ward 1 Vadavandai Street  , 2.Erumaivetti (R.V) And (P) Ward 2 Pillaiyar  koil Street ,"
+289,68,289,289,"Panchayat Union Middle  School (West Side Building),Erumaivetti Village  & Post  604401","1.Erumaivetti (R.V) And (P) Ward 1 Cross Street  , 2.Erumaivetti (R.V) And (P) Ward 1 Thenandai Street , 3.Erumaivetti (R.V) And (P) Ward 1 School Street , 4.Erumaivetti (R.V) And (P) Ward 1 Kalathumettu Street , 5.Erumaivetti (R.V) And (P) Ward 3 Mariyamman  Koil Street  ,
+6.Erumaivetti (R.V) And (P) Ward 3 Thulukanathamman Koil Street"
+290,68,290,290,"Panchayat Union Elementary  School,Kilkolathur Village  Earumaivetti Post 604401","1.Kilkolathur  (R.V) And (P) Ward 1  Melandai Street , 2.Kilkolathur  (R.V) And (P) Ward 1  Bajanaikoil Street  , 3.Kilkolathur  (R.V) And (P) Ward 1  Bramanar  Street , 4.Kilkolathur  (R.V) And (P) Ward 1  Kilandai Street  , 5.Erumaivetti (R.V) And (P) Ward 2 Perumal Koil Street , 6.Kilkolathur  (R.V) Erumaivetti (P) Ward 3 Erumaivetti"
+291,68,291,291,"Panchayat Union Elementary  School,Kolamanthai Erumaivetti post  604401","1.Kolamanthi (pt) Ward 1 Palla Street  ,
+2.ERUMAIVETTI (R.V) KOLAMANTHI (PT) Ward 1 Bajanai Koil Street  , 3.ERUMAIVETTI (R.V) KOLAMANTHI (PT) Ward 1 Kulakarai Street  , 4.ERUMAIVETTI (R.V) KOLAMANTHI (PT) Ward 1 Ekampara Udaiyar  Street  , 5.Erumaivetti (R.V) Kolamanthai (PT) Ward 2 School Street , 6.ERUMAIVETTI (R.V) KOLAMANTHI (PT) Ward 2 Othavadai Street  , 7.Erumaivetti (R.V) Kolamanthai (PT) Ward 2 Pilaiyar  Koil Street"
+292,68,292,292,"Panchayat Union elementary  School,Arasoor Erumaivetti post  604401","1.ARASOOR (R.V) AND (P) Ward 1 Palla Street ,
+2.ARASOOR (R.V) AND (P) Ward 1 Cross Street  ,
+3.ARASOOR (R.V) AND (P) Ward 1 Mettu Street  ,
+4.ARASOOR (R.V) AND (P) Ward 1 Kulakarai Street ,
+5.ARASOOR (R.V) AND (P) Ward 2 Mettu Street  ,
+6.ARASOOR (R.V) AND (P) Ward2 Vinayagar Koill Street ,
+7.ARASOOR (R.V) AND (P) Ward 2 Nadu Street ,
+8.ARASOOR (R.V) AND (P) Ward 2 Kurukku Street  ,
+9.Arasoor  (R.V) And (P) Ward 3 Mootha koil Street  ,
+10.ARASOOR (R.V) AND (P) Ward 3 Etti Street ,
+11.ARASOOR (R.V) AND (P) Ward 3 Uppiravar  Palayam"
+293,68,293,293,"Panchayat Union middle  school Additional Building South Facing,Perumbalai Village  & Post  604401","1.Perumpalai (R.V) Ward 1 Bajanai Koil Street , 2.PERUMPALAI (PT) Ward 1 Perumal Koil Street , 3.PERUMPALAI (R.V) (P) Ward 1 Nadu Street , 4.PERUMPALAI (R.V) And (P) Ward 2 Mettu Street , 5.PERUMPALAI (R.V) And (P) Ward 2 Panakkara Street , 6.PERUMPALAI (R.V) And (P) Ward 2 School Street  , 7.PERUMPALAI (R.V) And (P) Ward 3 Eluppai Street  , 8.PERUMPALAI (R.V) And (P) Ward 3 Vanniyar Street  , 9.PERUMPALAI (R.V) And (P) Ward 3 Adidravidar  Quarters ,
+10.PERUMPALAI (R.V) And (P) Ward 3 Adidravidar Quarters Pudhu Street"
+294,68,294,294,"Panchayat Union Elemenary  School,South Face Buliding  Thenthandalam Village  & Post  604401","1.Perumbalai  (R.V)  And (P)  Ward  1 Pillaiyarkoil Street  , 2.Perumbalai  (R.V)  And (P)  Ward  1 Mettu  Street  , 3.Perumbalai  (R.V)  And (P)  Ward  1 School  Street  ,
+4.Thenthandalam  (R.V) Perumbalai (P)  Ward 1  Thenthandalam  Cross  Street  , 5.Thenthandalam  (R.V) Perumbalai (P)  Ward 1  Thenthandalam  Mariyamman  Koil Street  ,
+6.Perumbalai  (R.V)  And (P)  Ward  2 Mootha  Koil  Street  , 7.Perumbalai  (R.V)  And (P)  Ward  2 Uppuravarpalayam  , 8.Perumbalai  (R.V)  And (P)  Ward  2 Surgar  Mill  Housing  Board  , 9.Perumbalai  (R.V)  And (P)  Ward  8 Vinayagapuram  Road Street  ,
+10.Anakkavoor  (R.V)  Thenthandalam(P) Ward 8  Vinnayagapuram  Musilim  Street  , 11.Anakkavoor  (R.V)  Thenthandalam(P) Ward 8  Vinayagapuram  Musilim  Cross  Street  , 12.Anakkavoor  (R.V)  Thenthandalam(P) Ward 8  Vinayagapuram  Anna  Nagar  , 13.Anakkavoor  (R.V)  Thenthandalam(P) Ward 8  Vinayagapuram  Mariyamman  Koil Street  ,
+14.Annakkavoor  (R.V) Thenthandalam(P) Ward  8  Vinayagapuram  Cross  Street  , 15.Annakkavoor  (R.V) Thenthandalam(P) Ward  8  Vinayagapuram  Mettu  Street  , 16.Perumbalai(R.V) And  (P) Ward 2  Sugar  Mill Housing  Board  2nd Street"
+295,68,295,295,"Panchayat Union Elementary  School ,  North facing East Portion,Vilaripattu Village  Koviloor Post  604404","1.Villaripattu (R.V) And (P) Ward 1 Pillaiyar Koil Street , 2.Villaripattu (R.V) And (P) Ward 1Bajanai Koil Street , 3.Villaripattu (R.V) And (P) Ward 1 Kalathu Mettu Street ,
+4.Anakkavoor (R.V) And Vilaripattu (P) Ward 6 Thatchan Thangal Cheyyamoor , 5.Thenmavanthal (R.V) Villaripattu (P) Ward 2 Pillaiyarkoil Street Thenmavandal , 6.Thenmavanthal (R.V) Villaripattu (P) Ward 2 Bajanai koil Street Thenmavandal , 7.Thenmavanthal (R.V) Villaripattu (P) Ward 2 Murugan Koil Street Thenmavandal , 8.Thenmavandhal (R.V) And (Vilaripattu (P) Ward 2 Road Street Thenmavandhal , 9.Thenmavanthal (R.V) Villaripattu (P) Ward 2 Mettu Street Thenmavanthal , 10.Villaripattu (R.V) And (P) Ward 2 Valluvar Street ,
+11.Villaripattu (R.V) And (P) Ward 2 Kulakkarai Street , 12.Villaripattu (R.V) And (P) Ward 2 Thooppu Street ,
+13.Annakkavur (R.V) Villaripattu (P) Ward 6 Mettu Street Annakkavoor , 14.Anakkavoor (R.V) Anakkavoor (P) Ward 6 Moothakoil Street Anakavoor , 15.Anakkavoor (R.V) Anakkavoor(P) Ward 6 Ambedgar Street Anakkavoor , 16.Anakavoor (R.V) Anakkavoor (P) Ward 6 School Street Anakkavoor , 17.Anakkavoor(R.V) Anakkavoor (P)Ward 6 Road Street Anakkavoor , 18.Anakkavoor(R.V) Anakkavoor(P) Ward 6 Karumariyamman Koil Street"
+296,68,296,296,"Panchayat Union Elementary  School,New building East Facing  North  Portion,  Irungal village  Sengadu Post  604505","1.Erungal (R.V) And (P) Ward 1  Mettu Street ,
+2.Erungal (R.V) And (P) Ward 1  First  Cross Street  1 ,
+3.Erungal (R.V) And (P) Ward 1  Bajanai koil street  ,
+4.Erungal (R.V) And (P) Ward 1  2nd Cross street ,
+5.Erungkal (R.V) And (P) Ward 1 Pillaiyar Koil Street  ,
+6.Erungal (R.V) And Ward 1  Velalar  Street ,
+7.Erungal (R.V) And (P) Ward 2  Udaiyar  Street  ,
+8.Erungal (R.V) And (P) Ward 1  Pulliyathaman Koil Street ,
+9.Erungal (R.V) And (P) Ward 1  Kullakkarai Street  ,
+10.Erungal (R.V) And (P) Ward 2 Palla Street  Kurukku Street ,
+11.Erungal (R.V) And (P) Ward 2 Vadavandai Street ,
+12.Erungal (R.V) And (P) Ward 2 Palla Street  Pillaiyar Koil ,
+13.Erungal (R.V) And (P) Ward 2 Palla Street"
+297,68,297,297,"Panchayat Union Elementary  School,New building East Facing  South Portion,  Irungal village  Sengadu Post  604505","1.Erungal (R.V) And (P) Ward 2  Road Street ,
+2.Erungal (R.V) And (P) Ward 2  Navithar Street  ,
+3.Erungal (R.V) And (P) Ward 3  Mettu Colony  Street  ,
+4.Erungal (R.V) And (P) Ward 3  Ner Street  ,
+5.Erungal (R.V) And (P) Ward 3  Kilandai Street  ,
+6.Erungal (R.V) And (P) Ward 3  Kollaimettu Street  ,
+7.Erungal (R.V) And (P) Ward 3  Palla Colony  Street  ,
+8.Erungal (R.V) And (P) Ward 3  Palla Colony  Matha Koil Street"
+298,68,298,298,"Panchayat Union Elementary  School,Melkolathoor Village  Sengadu Post  604505","1.Melkolathoor  (R.V) And (P) Ward 1 Maniyakara Street  , 2.Melkolathoor  (R.V) And (P) Ward 1 Kutti Pillai Street  , 3.Melkolathoor  (R.V) And (P) Ward 1 PUdhu Street  , 4.Melkolathoor  (R.V) And (P) Ward 2 Bajanai Koil Street  ,
+5.Melkolathoor  (R.V) And (P) Ward 2 Mugamariamman KOil Street  , 6.Melkolathoor  (R.V) And (P) Ward 2 Padasalai Street , 7.Melkolathoor  (R.V) And (P) Ward 3 Mettu Street  ,
+8.Melkolathoor  (R.V) And (P) Ward 3 Colony  1st  Kurukku Street , 9.Melkolathoor  (R.V) And (P) Ward 3 Colony  Road Street  , 10.Melkolathoor (R.V) And (P) Ward 3 Colony  2nd KUrukku Street  , 11.Melkolathoor (R.V) And (P) Ward 3 Colony  Pudhu Street  , 12.Melkolathoor (R.V) And (P)A Ward  3 Colony  3rd Cross Street , 13.Melkolathoor (R.V) And (P) Ward 3 Colony  4th Cross Street"
+299,68,299,299,"Panchayat Union Elementary  School West  building East face,Vadathinnaloor Village  & post  604409","1.VADATHINNALOOR (R.V) And (P) Ward 1 Chetty  Street  , 2.VADATHINNALOOR (R.V) And (P) WArd 1 Road Street ,
+3.VADATHINNALOOR (R.V) And (P) Ward 1 Kulathu Street , 4.VADATHINNALOOR (R.V) And (P) Ward 1 Melandai Street  , 5.VADATHINNALOOR (R.V) And (P) Ward 1 KIzhanda Street , 6.VADATHINNALOOR (R.V) And (P) Ward 1 Bramanar Street  , 7.VADATHINNALOOR (R.V) And (P) Ward 1 Mettu Street  , 8.VADATHINNALOOR (R.V) And (P) Ward 2 North Street , 9.VADATHINNALOOR (R.V) And (P) Ward 2 Palla Street , 10.VADATHINNALOOR  (R.V) And (P) Ward 2 Panathoppu Street , 11.VADATHINNALOOR  (R.V) And (P) Ward 2 First  Street , 12.VADATHINNALOOR  (R.V) And (P) Ward 2 Periya Street , 13.VADATHINNALOOR  (R.V) And (P) Ward 2 Kaipampu Street  , 14.VADATHINNALOOR  (R.V) And (P) Ward 2 Sandhu Street , 15.VADATHINNALOOR  (R.V) And (P) Ward 3 Pillaiyar Koil Street , 16.VADATHINNALOOR  (R.V) And (P) Ward 3 Pariyambadi Mettu Street  , 17.VADATHINNALOOR  (R.V) And (P) Ward 2 Television  Street , 18.VADATHINNALOOR  (R.V) And (P) Ward 2 Medai Street , 19.VADATHINNALOOR  (R.V) And (P) Ward 2 Kurukku Street , 20.VADATHINNALOOR  (R.V) And (P) Ward 2 Nadu Street"
+300,68,300,300,"Panchayat Union Middle  School SSA Building  South Side,Melnemilli Village  & Post  604505","1.MELNEMILI (R.V) And (P) Ward 1 Palla Street 1  , 2.MELNEMILI (R.V) And (P) Ward 1Bramanar Street  , 3.MELNEMILI (R.V) And (P) Ward 2 Road Street , 4.MELNEMILI (R.V) And (P) Ward 2 School Street 1 , 5.MELNEMILI (R.V) and (P) Ward  2 Pallikuda Street  2 , 6.MELNEMILI (R.V) And (P) Ward 1 Palla Street 2  , 7.MELNEMILI (R.V) And (P) Ward 1 Palla Street 3"
+301,68,301,301,"Panchayat Union Middle  School,  West  part  North face,Melnemilli Village  & Post  604505","1.Melnemili (R.V) And (P) Ward 2 Kizhangam Poondi Bajanai Koil Street  , 2.Melnemili (R.V) And (P) Ward 2 Kizhangam Poondi Kalathu Mettu Street  , 3.Melnemili (R.V) And (P) Ward 2 Kizhangam Poondi Kulakarai Street , 4.Melnemili (R.V) And (P) Ward 3 Nadu Street  ,
+5.Melnemili (R.V) And (P) Ward 3 Kona Street  , 6.Melnemili (R.V) And (P) Ward 3 Kollai Mettu Street  , 7.Melnemili (R.V) And (P) Ward 3 Ambedkar  Street  , 8.Melnemili (R.V) And (P) Ward 3 Mariamman  Koil Street  , 9.Melnemili (R.V) And (P) Ward 3 Arunthathi Street  , 10.Melnemili (R.V) And (P) Ward 3 Matha Koil Street  , 11.Melnemili (R.V) And (P) Ward 3 Ambedkar  2nd Street , 12.Melnemili (R.V) And (P) Ward 3 Ambedkar  3rd Street , 13.Melnemili (R.V) And (P) Ward 3 Ambedkar  4th  Street  , 14.Melnemili (R.V) And (P) Ward 3 Ambedkar  5th  Street"
+302,68,302,302,"Panchayat Union Elementary  School,Kottakaram Village  Melnemilli post  604505","1.Kottagaram (R.V) And (P) Ward 1 Gengaiyamman  Koil Street , 2.Kottakaram  (R.V) And (P) Ward 3 Navithan Kullakarai Street  , 3.Kottagaram (R.V) And (P) Ward 1 Erular Colony  , 4.Kottagaram (R.V) And (P) Ward 1 Pillaiyar Koil Street , 5.Kottagaram (R.V) And (P) Ward 1 Kottagaram  Kulakkarai , 6.Kottagaram (R.V) And (P) Ward 2 Yathava Street  (South) , 7.Kottagaram (R.V) And (P) Ward 2 Bajanai Koil Street  ,
+8.Kottagaram (R.V) And (P) Ward 2 Kalathu Mettu Street (North) , 9.Kottagaram (R.V) And (P) Ward 3 Yathava Street  (North) , 10.Kottagaram  (R.V) And (P) Ward 3 Kammavar Street ,
+11.Kottagaram  (R.V) And (P) Ward 3 Pananthoppu Pillaiyar Koil Street  , 12.Kottagaram  (R.V) And (P) Ward 3 Navithan School Street , 13.Kottagaram  (R.V) And (P) Ward 3 Tank Street  ,
+14.Kottagaram  (R.V) And (P) Ward 3 Kurukku Street  , 15.Kottagaram  (R.V) And (P) Ward 1 Kalathumettu Street"
+303,68,303,303,"Govt Higher  Sec School,  South Black East Building,North  facing,Chengadu Village  & Post 604505","1.Sengadu (R.V)And (P) Ward 1 Palla Street  ,
+2.Sengadu (R.V)And (P) Ward 1 Mettu Street ,
+3.Sengadu (R.V)And (P) Ward 1 Kalathumettu Street  ,
+4.Sengadu (R.V)And (P) Ward 1 Kammala Street ,
+5.Sengadu (R.V)And (P) Ward1  Othavadai Street  ,
+6.Sengadu (R.V)And (P) Ward1  Sunnambukkara Street ,
+7.Sengadu (R.V)And (P) Ward 1 Road Street  ,
+8.Sengadu (R.V)And (P) Ward 1 Kuil Thoppu Street  ,
+9.Sengadu (R.V)And (P) Ward 2 Padavettamman  Street ,
+10.Sengadu (R.V)And  (P) Ward 2  Mariyamman  Koil Street ,
+11.Sengadu (R.V)And  (P) Ward 2  Kulakkarai Street1 ,
+12.Sengadu (R.V)And  (P) Ward 2  Road Street 2  ,
+13.Sengadu (R.V)And  (P) Ward 2  Chengiyamman  Koil Street ,
+14.Sengadu (R.V)And  (P) Ward 1  Sivan Koil Street ,
+15.Sengadu (R.V)And  (P) Ward 1  Perumal Koil Street  ,
+16.Sengadu (R.V)And  (P) Ward1 Mariyamman Koill Street ,
+17.Sengadu (R.V)And  (P) Ward 1  Kulakkarai Street 2 ,
+18.Sengadu (R.V)And  (P) Ward 1  Kanniyamman Koil Street ,
+19.Sengadu (R.V)And  (P) Ward 2  Kavankarai Street"
+304,68,304,304,"Government Higher Secondary School East  Side  South Building  North  Facing  Room  No.5,Chengadu Village  & Post  604505","1.Sengadu (R.V) And (P) Ward 2 Pillaiyar Koil Street , 2.Chinasengadu (R.V) Sengadu (P) Ward 2 Othavadai Street  , 3.Chinasengadu (R.V) Sengadu (P) Ward 3 Palla Street  , 4.Chinasengadu (R.V) Sengadu (P) Ward 3 Mettu Street  , 5.Chinasengadu (R.V) Sengadu (P) Ward 4 Kannigapuram , 6.Chinasengadu (R.V) Sengadu (P) Ward 4 Arunthathi Palayam  , 7.Chinasengadu (R.V) Sengadu (P) Ward 2 AmmaPalayam , 8.Chinasengadu (R.V) Sengadu (P) Ward 3 Kavangarai Street , 9.Chinasengadu (R.V) Sengadu (P) Ward 3 Kalathu Mettu Street  , 10.Chinasengadu (R.V) Sengadu (P) Ward 3 Tank Street  , 11.Chinasengadu (R.V) Sengadu (P) Ward 3 Pudhu Street , 12.Chinasengadu (R.V) Sengadu (P) Ward 3 Alamara Street  , 13.Chinasengadu (R.V) Sengadu (P) Ward 3 Bajanai Koil Street  , 14.Chinasengadu (R.V) Sengadu (P) Ward 3 Pillaiyar Koil Street 2 ,
+15.Chinasengadu (R.V) Sengadu (P) Ward 3 Selva Vinayagar  Koil Street"
+305,68,305,305,"Vallal R.C.  Kannan Siva Government Higher Secondary  School,Centre  Building  South  Side  North Part  East  Face  ,Koviloor  Village  & Post  604404","1.Kovilur (R.V) And (P) Ward 1 Pettai Street ,
+2.Kovilur (R.V) And (P) Ward 1,2 Elluppaimara Street  ,
+3.Kovilur (R.V) And (P) Ward 1.2 mettu street  ,
+4.Kovilur (R.V) And (P) Ward 2 Kurukku Street  ,
+5.Kovilur (R.V) And (P) Ward 1,3 Kalathumettu Street ,
+6.Kovilur (R.V) And (P) Ward 2 Aalamara Street  ,
+7.Kovilur (R.V) And (P) Ward 3 Bramanar  Street ,
+8.Kovilur (P) Ward 3 Thundu Street  ,
+9.Kovilur (R.V) And (P) Ward 3 Palla Street ,
+10.Kovilur  (R.V) And (P) Ward 3 Kammala Street ,
+11.Kovilur  (R.V) And (P) Ward 3 Kalathumettu Street East  ,
+12.Kovilur  (R.V) And (P) Ward 3 Kalathumettu Street South"
+306,68,306,306,"Vallal R.C.  Kannan Siva Government Higher Secondary  School,RCC building  , East  facing  ,Koviloor Village  & Post  604404","1.Kovilur (R.V) And (P) Ward 4 Pudu Street ,
+2.Kovilur (R.V) And (P) Ward 4 Adi Dravidar Arunthathiyar  Quarters , 3.Mulagirippattu (R.V) And Kovilur (P) Ward 1  Amman Koivil Street  , 4.Mulagiripattu (R.V) Kovilur  (P) Ward1 Bajanai Koill Street  , 5.Mulagiripattu (R.V) Kovilur  (P) Ward2 Kamaraj Street  , 6.Mulagiripattu (R.V) Kovilur  (P) Ward 3  Anna Street  , 7.Mulagiripattu (R.V) Kovilur  (P) Ward2 Murugan Koill Street , 8.Mulagiripattu (R.V) Kovilur  (P) Ward 3  Kambar Street , 9.Mulagiripattu (R.V) Kovilur  (P) Ward 3  Bharathi Street  , 10.Mulagiripattu (R.V) Kovilur  (P) Ward 3  Valluvar  Street  , 11.Mulagiripattu (R.V) Kovilur  (P) Ward 3  Erular Street ,
+12.Kovilur  (R.V) And (P) Ward 4 Kovilur  Colony  Kurukku Street 1 ,
+13.Kovilur  (R.V) And (P) Ward 4 Kovilur  Colony  Kurukku Street 2 ,
+14.Kovilur  (R.V) And (P) Ward 4 Kovilur  Colony  Kurukku Street 3 ,
+15.Kovilur  (R.V) And (P) Ward 1 Amman Koivil Street  North"
+307,68,307,307,"Panchayat Union Elementary  School,  West  Face Building  North  Portion,Nallalam koviloor post  604404","1.NALLALAM  (R.V) And (P) Ward  1 Muniswaran  Koill Street  ,
+2.NALLALAM  (R.V) And (P) Ward  1 Aalamara Street  ,
+3.NALLALAM  (R.V) And (P) Ward  1 Eswaran  Koil Street  ,
+4.NALLALAM  (R.V) And (P) Ward  1 Salai Street  ,
+5.NALLALAM  (R.V) And (P) Ward  1 Perumal Koil Street ,
+6.NALLALAM  (R.V) And (P) Ward  1 Pillaiyar Koil Street  ,
+7.NALLALAM  (R.V) And (P) Ward  1 Ponniyamman Koil Street ,
+8.NALLALAM  (R.V) And (P) Ward  1 Colony  murugan Koil Street , 9.Chithamoor (R.V) And Nallalam (P) Ward 2 Chithamoor Pillaiyar koil Street  , 10.Chithamoor  (R.V) Nallalam (P) Ward 2  Chithamoor  Road Street , 11.Chithamoor  (R.V) Nallalam (P) Ward 2  Chithamoor  Pavundu Street  , 12.Chithamoor  (R.V) Nallalam (P) Ward 2  School Street Chithamoor"
+308,68,308,308,"Panchayat Union Elementary  School,Pazhanjur  Village Kilkuvalaivedu Post 604404","1.Pazhachur  (R.V) And (P) Ward 1 Vanniyar Street  , 2.PAZHACHUR  (R.V) And (P) Ward 1  Bramanar  Street , 3.PAZHACHUR  (R.V) And (P) Ward 1  Road STreet , 4.PAZHACHUR  (R.V) And (P) Ward 2  Pillaiyar Koil Street , 5.PAZHACHUR  (R.V) And (P) Ward 2  Bajanai Koil Street"
+309,68,309,309,"Panchayat Union Elementary  School,West  side  south facing,Thirumpoondi Village  & Post  604404","1.Thirumpoondi (R.V) And (P) Ward 1 Bajanai Koil Street  , 2.Thirumpoondi (R.V) And (P) Ward 1 Erular Colony  , 3.Thirumpoondi (R.V) And (P) Ward 1 Tharmaraja Koil Street  , 4.Thirumpoondi (R.V) And (P) Ward 1 Vandavasi Salai Street  , 5.Thirumpoondi (R.V) And (P) Ward 2 Nemili Street"
+310,68,310,310,"Panchayat Union Elementary  School,East  side  south facing,Thirumpoondi Village  & Post  604404","1.Thirumpoondi (R.V) And (P) Ward 1 New Street  , 2.Thirumpoondi (R.V) And (P) Ward 2 Mettu Street  ,
+3.Thirumpoondi (R.V) And (P) Ward 3 Adi Dravidar Quarters 1st Street , 4.Thirumpoondi (R.V) And (P) Ward 3 Adi Dravidar Quarters 2nd  Street"
+311,68,311,311,"Govt Higher  Sec School ,  Middle  Black,  North  Side West facing,Purisai Village  & Post  604401","1.Purisai (R.V) And (P) Ward 1 Mettu Street  ,
+2.Purisai (R.V) And (P) Ward 1 Kulakkarai Street ,
+3.Purisai (R.V) And (P) Ward 3 Naudu Street ,
+4.Purisai (R.V) And (P) Ward 3 Kallankuthu St ,
+5.Purisai (R.V) And (P) Ward 4 Ayyappakkam  ,
+6.Purisai (R.V) And (P) Ward 4 Thenelluppai Kuttu  Road ,
+7.Purisai (R.V) And (P) Ward 1 Ricemill Street ,
+8.PURUSAI (R.V) And (P) Ward 2 Bramanar  Street ,"
+312,68,312,312,"Govt Higher  Sec School ,  East  building  West facing,Purisai Village  & Post  604401","1.PURUSAI (R.V) And (P) Ward 3 Palla Street  ,
+2.PURUSAI (R.V) And (P) Ward 2 Kurukku Yadhavar Street ,
+3.PURUSAI (R.V) And (P) Ward 3 Velalar Street ,
+4.PURUSAI (R.V) And (P) Ward 4 Bajanai Koil Street  South ,
+5.PURUSAI (R.V) And (P) Ward 4 Bajanai Koil Street  North ,
+6.PURUSAI (R.V) And (P) Ward 4 Kizhmedu Irular  Colony  ,
+7.PURUSAI (R.V) And (P) Ward 4 Savadi Street"
+313,68,313,313,"Panchayat Union Elementary  School,New Building North Facing  West  Part,  Palla Echoor & Post 604404","1.Eachur (R.V) And (P) Ward 1 Palla Eachur  Kurukku Street  ,
+2.Eachur (R.V) And (P) Ward 1 Palla Eachur  Vinayakar  Koil Street  ,
+3.Eachur (R.V) And (P) Ward 4 Eachur Thiruppanathangal Street ,
+4.Eachur (R.V) And (P) Ward 4 Malaivaiyavoor Malai Street ,
+5.Eachur (R.V) And (P) Ward 4 Malaivaiyavoor Vadavandai Street ,
+6.Eachur (R.V) And (P) Ward 4 Malaivaiyavoor Thennandai Street  ,
+7.Eachur (R.V) And (P) Ward 4 Malaivaiyavoor School Street"
+314,68,314,314,"Panchayat Union Elementary  School,New Building North Facing  East  Part,  Palla Echoor Village  & Post 604404","1.Eachur (R.V) And (P) Ward 1 Pall Eachur Bajanai Koil Street  ,
+2.Eachur (R.V) And (P) Ward 1 Palla Eachur  Savadi Street  ,
+3.Eachur (R.V) And (P) Ward 1 Palla Eachur  Perumal Koil Street  ,
+4.Eachur (R.V) And (P) Ward 1 Palla Eachur  Rice  Mill treet  ,
+5.Eachur (R.V) And (P) Ward 3 Palla colony  Vinayagar Koil Street  ,
+6.Eachur (R.V) And (P) Ward 3 Palla Colony  Kurukku Street ,
+7.Eachur (R.V) And (P) Ward 3 Palla colony  Mariyamman Koil Street"
+315,68,315,315,"Panchayat Union Elementary  School,  New North Face Building,West  Part  Mettu Echur Village  & Post  604404","1.Eachur (R.V) And (P) Ward 3 Mettu Colony  Kinartrtu Street  ,
+2.Eachur (R.V) And (P) Ward 3 Mettu Colony  Mariyamman  Koil Street  ,
+3.Eachur (R.V) And (P) Ward 3 Mettu Colony  Road Street  ,
+4.Eachur (R.V) And (P) Ward 3 Mettu Eachur Mettu Colony ,
+5.Eachur (R.V) And (P) Ward 2 Mettu Eachur Pillaiyar  Koil Street  ,
+6.Eachur (R.V) And (P) Ward 2 Mettu Eachur Periya Street  ,
+7.Eachur (R.V) And (P) Ward 2 Mettur Eachur Jayalakshmi Nagar ,
+8.Eachur (R.V) And (P) Ward 3 Mettu Colony  Vadavandai Street  ,
+9.Eachur (R.V) And (P) Ward 3 Mettu Colony  Melandai Street ,
+10.Eachur  (R.V) And (P) Ward 3 Mettu Colony  T.V. Street"
+316,68,316,316,"Panchayat Union Elementary  School,  New North Face Building,  East Part Mettu Echur Village  & Post 604404","1.Eachur (R.V) And (P) Ward 2 Mettu Eachur Road Street ,
+2.Eachur (R.V) And (P) Ward 2 Mettu Eachur Musilim Street  ,
+3.Eachur (R.V) And (P) Ward 2 Mettu Eachur Mandakula Kuzhai St ,
+4.Eachur (R.V) And (P) Ward 2 Mettu Eachur Eri Ulvai Street  ,
+5.Eachur (R.V) And (P) Ward 2 Mettu Eachur Kootroad  Street ,
+6.Eachur (R.V) And (P) Ward 2 Mettu Eachur Kulakkarai Street ,
+7.Eachur (R.V) And (P) Ward 2 Mettu Eachur Mandakula Street"
+317,68,317,317,"Panchayat Union Elementary  School ,South  Building North Facing,Theneluppai Village  & Post  604407","1.Thenelluppai (R.V)And (P) Ward  1 Thenelluppai Muthaliyar Street  , 2.Thenelluppai (R.V) And (P) Ward 1 Road Street ,
+3.Thenelluppai (R.V) And (P) Ward 2 Pillaiyar Koil Street  , 4.Thenelluppai (R.V)And (P) Ward  2 Perumal Koil Street , 5.Thenelluppai (R.V)And (P) Ward  2 Pillaiyar Koil Street  , 6.Thenelluppai (R.V)And (P) Ward  3 Palla Street Colony  , 7.Thenelluppai (R.V)And (P) Ward  3 Mettu Street ,
+8.Veerambakkam (R.V) Thenelluppai (P) Ward 1 Vadanagoor Pillaiyarkoil Street , 9.Vadanagoor  (R.V) Thenelluppai (P) Ward 1  Musilim  Stret"
+318,68,318,318,"Panchayat Union Elementary  School South Facing,Narmapallam Village  & Post 604407","1.Narmapallam  (R.V) Narmapallam (P) Ward 1  Narma Pallam  Pillaiyar Koil Street , 2.Narmapallam(R.V) Narmapallam(P) Ward 1  Yathavar Street (Narmapallam) , 3.Narmapallam(R.V) Narmapallam (P) Ward 2 Mettu Street"
+319,68,319,319,"Panchayat Union Middle  School SSA Building  South Side  North  Facing,Veerambakkam Village  & Post 604408","1.Verampakkam (R.V) And (P) Ward 2 Colony  Palla Street  , 2.Verampakkam (R.V) And (P) Ward 1 Colony  Mettu Street , 3.Verampakkam (R.V) And (P) Ward 2 Pudur Road Street , 4.Verampakkam (R.V) And (P) Ward 2 Malai Side  2"
+320,68,320,320,"Panchayat Union Middle  School SSA Building  West Facing,Veerambakkam Village  & Post  604408","1.Verampakkam (R.V) And (P) Ward 1 Pillaiyarkoil Street , 2.Verampakkam (R.V) And (P) Ward 1 Eswaran  Koil Street  , 3.Verampakkam (R.V) And (P) Ward 1 Perumal Koil , 4.Verampakkam (R.V) And (P) Ward 1 School Street , 5.Verampakkam (R.V) And (P) Ward 2 Mandabam  , 6.Verampakkam (R.V) And (P) Ward 2 Pudhur  Pillaiyar Koil Street , 7.Verampakkam (R.V) And (P) Ward 2 Pudur School Street , 8.Verampakkam (R.V) And (P) Ward 2 Malai Side  1"
+321,68,321,321,"Panchayat Union Elementary  School South Facing,Melma Village  & Post  604408","1.MELMA (R.V) And (P) Ward 1 Palla Street ,
+2.MELMA (R.V) And (P) Ward 1 Palayakara Street ,
+3.MELMA (R.V) And (P) Ward 1 Bramanar  Street ,
+4.MELMA (R.V) And (P) Ward 2 Road Street ,
+5.MELMA (R.V) And (P) Ward 2 Padasalai Street"
+322,68,322,322,"Panchayat Union Elementary  School North Facing,Melma Village  & Post  604408","1.MELMA (R.V) And (P) Ward 2 Melma Junction ,
+2.MELMA (R.V) And (P) Ward 3 Adidravidar  Quarters ,
+3.AYYAVADI (R.V) MELMA (P) Ward 3  Ayyavadi ,
+4.MELMA (R.V) And (P) Ward 3 Group House  Street  ,
+5.MELMA (R.V) And (P) Ward 3 Main  Road Street"
+323,68,323,323,"Panchayat Union Elementary  School North Facing,Soundariyapuram  Village  604408","1.Soundariyapuram (R.V) And (P) Ward 1 Padasalai Street  , 2.Soundariyapuram (R.V) And (P) Ward 1 Theradi Street  , 3.Soundariyapuram (R.V) And (P) Ward 1 Perumal Koil Street , 4.Soundariyapuram (R.V) And (P) Ward 1 Mariamman  Koil Street , 5.Soundariyapuram (R.V) And (P) Ward 1 Road Street , 6.Soundariyapuram (R.V) And (P) Ward 2 Old Colony  , 7.Soundariyapuram (R.V) And (P) Ward 2 Palla Street , 8.Soundariyapuram (R.V) And (P) Ward 2 New Colony  , 9.Soundariyapuram (R.V) And (P) Ward 2 Thennandai Street , 10.Soundariyapuram  (R.V) And (P) Ward 2 Nadu Street  , 11.Soundariyapuram  (R.V) And (P) Ward 2 Vadavandai Street  , 12.Soundariyapuram  (R.V) And (P) Ward 2 Pinnathoor  Salai , 13.Soundariyapuram  (R.V) And (P) Ward 2 Chinnathuraiyoor ,
+14.Soundariyapuram  (R.V) And (P) Ward 3 Chinnathuraiyoor Pillaiyar Koil street  , 15.Soundariyapuram  (R.V) And (P) Ward 3 Manthaiveli Street , 16.Soundariyapuram  (R.V) And (P) Ward 3 Manipuram ,
+17.Soundariyapuram  (R.V) And (P) Ward 3 Periyathuraiyoor"
+324,68,324,324,"Panchayat Union Elementary  School West Facing,Thuraiyur (H/o) Melnarma Village  604408","1.Melnarma (R.V) And (P) Ward 3 Bramanar  Street ,
+2.Melnarma (R.V) And (P) Ward 3 Pillaiyar Koil Street  ,
+3.Melnarma (R.V) And (P) Ward 3 Aerykarai Street ,
+4.Melnarma (R.V) And (P) Ward 3 Pinathoor Road ,
+5.Melnarma (R.V) And (P) Ward 3 Colony  ,
+6.Melnarma (R.V) And (P) Ward 3 Melma Road ,
+7.Melnarma (R.V) And (P) Ward 3 Palayam ,
+8.Melnarma (R.V) And (P) Ward 3 Lakshmipuram"
+325,68,325,325,"Govt High  school ,  East Facing  North Portion,Thenelapakkam  Village  & Post  604408","1.Thenelapakkam (R.V) And (P) Ward 1 Vadavandai Street  , 2.THENELAPAKKAM  (R.V) And (P) Ward  1 Kizhandai Street , 3.THENELAPAKKAM  (R.V) And (P) Ward  1 Thenandai Street  , 4.THENELAPAKKAM  (R.V) And (P) Ward  1 Melandai Street  , 5.THENELAPAKKAM  (R.V) And (P) Ward  2 Manthaiveli Street , 6.THENELAPAKKAM  (R.V) And (P) Ward  2 Road Street  , 7.THENELAPAKKAM  (R.V) And (P) Ward  2 Anna Nagar ,
+8.THENELAPAKKAM  (R.V) And (P) Ward  2 Earikarai Street , 9.THENELAPAKKAM  (R.V) And (P) Ward  2 KOlla Mettu Street  , 10.THENELAPAKKAM  (R.V) And (P) Ward 3  Chettikular Street  , 11.THENELAPAKKAM  (R.V) And (P) Ward 3  Alanthangal Pillaiyar  Koil Street  , 12.THENELAPAKKAM  (R.V) And (P) Ward 3  Alanthangal Road Stret , 13.THENELAPAKKAM  (R.V) And (P) Ward 3  Kalvai Street (Alanthangal)"
+326,68,326,326,"Panchayat Union Elementary  School,  North Facing,Thenkalpakkam Village  & Post 604408","1.THENKALPAKKAM  (R.V) And (P) Ward  1 Pillaiyar Koil Street , 2.ThenKalpakkam (R.V) And (P) Ward 1 School Street , 3.ThenKalpakkam (R.V) And (P) Ward 1 Road Street , 4.ThenKalpakkam (R.V) And (P) Ward 2 Vadavandai Street (Colony) , 5.ThenKalpakkam (R.V) And (P) Ward 2 Koil street  (Colony) , 6.Thenkalpakkam (R.V) And (P) Ward 2 Thenandai Street , 7.Thenkalpakkam (R.V) And (P) Ward 2 Bajanai Koil Street , 8.Thenkalpakkam (R.V) And (P) Ward 3 Main  Road , 9.Thenkalpakkam (R.V) And (P) Ward 3 Mettu Street  , 10.ThenKalapakkam (R.V) And (P) Ward 3 Palla Street"
+327,68,327,327,"C.S.I.  Aided Elementary  Eided school,Vachanur Village  Melma Post  604408","1.Vachanoor (R.V) And (P) Ward 1 Mettu Street , 2.Vachanoor (R.V) And (P) Ward 1 Nadu Street , 3.Vachanoor (R.V) And (P) Ward 1 Palla Street , 4.Vachanoor (R.V) And (P) Ward 1 Earikarai Street  , 5.Vachanoor (R.V) And (P) WArd 1 Road Street , 6.Vachanoor (R.V) And (P) Ward 2 Thotti Street , 7.Vachanoor (R.V) And (P) Ward 2 Mariamman  Koil Street , 8.Vachanoor (R.V) And (P) Ward 2 Thalaiyari Street  , 9.Vachanoor (R.V) And (P) Ward 2 Pannakara Street , 10.Vachanoor  (R.V) And (P) Ward 2 Pillaiyar Koil street , 11.Vachanoor  (R.V) And (P) Ward 3 Thookuvadi , 12.Vachanoor  (R.V) And (P) Ward 2 Pudhu Street"
+328,68,328,328,"Panchayat Union Middle  School North  Facing,Paiyur village  Alathur Post  604408","1.Paiyoor  (R.V) And (P) Ward 1  V.O.C Street  ,
+2.Paiyoor  (R.V) And (P) Ward 1  Road Street Paiyoor  ,
+3.Paiyoor  (R.V) And (P) Ward 1  Jawaharlal Nehru Street  ,
+4.Paiyoor  (R.V) And (P) Ward 1  Perumal Koil Street  ,
+5.Paiyoor  (R.V) And (P) Ward 1  RajivGandhi Street  ,
+6.Paiyoor  (R.V) And (P) Ward 2  Muthu Mariamman  Koil Street ,
+7.Paiyoor  (R.V) And (P) Ward 2  Bharathiyar  Street  ,
+8.Paiyoor  (R.V) And (P) WArd 2 Kamarajar  Street  ,
+9.Paiyoor  (R.V) And (P) WArd 2 Nethajisubashchandrabose  Street ,
+10.Paiyoor  (R.V) And (P) Ward 2  Thiruvalluvar Street  ,
+11.Paiyoor  (R.V) And (P) Ward 2  Anna Street  ,
+12.Paiyoor  (R.V) And (P) Ward 2  Mahatma Gandhi street ,
+13.Paiyoor  (R.V) And (P) Ward 3  Echangadu Pillaiyar Koil Street ,
+14.Paiyoor  (R.V) And (P) Ward 3  Echagadu Metttu Street ,
+15.Paiyoor  (R.V) And (P) Ward 3  Dr.  Ambedkar  Nagar"
+329,68,329,329,"Panchayat Union Middle  School ,  West Facing,Alathurai Village  Alathur Post  604408","1.ALATHURAI (R.V) And (P) Ward 1 Pillaiyar Koil Street , 2.Alathurai (r.v) and (p) Ward 1 yadhavar street , 3.Alathurai (R.V) And (P) WArd 1  Bramanar  Street , 4.Alathurai (R.V) And (P) WArd 2  Nadu Stret  , 5.Alathurai (R.V) And (P) Ward 2 Kalangal Kalvai Street  , 6.Alathurai (R.V) And (P) Ward 2 Mettu Street  , 7.Alathurai (R.V) And (P) WArd 2  Road Street ,"
+330,68,330,330,"Panchayat Union Middle  School,  North  Side  Building, South Facing  ,  Alathurai Village  Alathur Post  604408","1.Alathurai (R.V) And (P) Ward 2 Selliamman  Koil street  , 2.Alathurai (R.V) And (P) WArd 3  New Colony  1st Cross Street  , 3.Alathurai (R.V) And (P) Ward 3 New Colony  Tank Street  , 4.Alathurai (R.V) And (P) Ward 3 New Colony  2nd Cross Street  , 5.Alathurai (R.V) And (P) Ward 3 Erumbedu Road Street  , 6.Alathurai (R.V) And (P) Ward 3 New Colony  3rd Cross Street  , 7.Alathurai (R.V) Paiyur(P) WArd 3 New Colony  4th Cross Street  , 8.Alathurai (R.V) And (P) Ward 3 Mariamman  Koil Street  , 9.Alathurai (R.V) Paiyur(P) Ward  3 Valluvar  Quarters"
+331,68,331,331,"Govt High  School Room No.5 South  Facing,Alathur Village  & Post  604408","1.Alathur  (R.V) And (P) Ward 1  Eswaran  Koil Street  ,
+2.Alathur  (R.V) And (P) Ward 1  Perumal Koil Street ,
+3.Alathur  (R.V) And (P) Ward 1  Cheyyar Main  Road ,
+4.Alathur  (R.V) And (P) Ward 1  Thandarai Road Street ,
+5.Alathur  (R.V) And (P) Ward 1  Kammala Street  ,
+6.Alathur  (R.V) And (P) Ward 2  Periya Retti Street ,
+7.Alathur  (R.V) And (P) Ward 2  Kulakkarai Street ,
+8.Alathur  (R.V) And (P) Ward 3  Pudur ,
+9.Alathur  (R.V) And (P) Ward 3  Chellanpuradi"
+332,68,332,332,"Govt High  School Room No.9 North Facing,Alathur Village  & Post  604408","1.Alathur  (R.V) And (P) Ward 2  Adidravidar Melandai Street,
+2.Alathur  (R.V) And (P) Ward 3  Mangaranai ,
+3.Alathur  (R.V) And (P) Ward 2  Kilandai Street  ,
+4.Alathur  (R.V) And (P) Ward 2  Matha Koil Street ,
+5.Alathur  (R.V) And (P) Ward 2  Rajeev Street ,
+6.Alathur  (R.V) And (P) Ward 2  Valluvar  Street  ,
+7.Alathur  (R.V) And (P) Ward 2  Alathurai Road"
+333,68,333,333,"Panchayat Union Elementary  School,  South  Side Building,Vengodu Village  Alathur post  604408","1.Vengodu (R.V) And (P) Ward 1 Road Street  ,
+2.Vengodu (R.V) And (P) Ward 1 Kizhandai Street ,
+3.Vengodu (R.V) And (P) Ward 1 Kulakarai Street  ,
+4.Vengodu (R.V) And (P) Ward 1 Bajanai Koil Street  ,
+5.Vengodu (R.V) And (P) Ward 1 Melandai Street  ,"
+334,68,334,334,"Panchayat Union Elementary  School,  Northside Building,Vengodu Village  Alathur post  604408","1.Vengodu (R.V) And (P) Ward 2 Mettu Street  ,
+2.Vengodu (R.V) And (P) Ward 2 Vengodu kootroad ,
+3.Vengodu (R.V) And (P) Ward 2 Adidravidar  Quarters ,
+4.Vengodu (R.V) And (P) Ward 3 Ponnankulam ,
+5.Vengodu (R.V) And (P) Ward 3 Nemili"

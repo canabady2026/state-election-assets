@@ -1,0 +1,562 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+-1,48,-2,-3,-4,-5
+1,48,1,"Panchayat Union Elementary School,
+South Facing SSA Building Suttagunda-635 811","1 - Karapattu (R.V) Arangaldhurugam (p), Ward 3 Ponnapalli , 2 -
+Karapattur (R.V) Arangalthurugam (P), Ward 3 Ponnapalli,999 - OVERSEAS ELECTORS",ALL VOTERS
+2,48,2,"Panchayat Union Elementary School ,
+South Facing Abigiripatarai-635811","1 - Karapattur (R.V) Arangalthurugam (P), Ward 4 Abigiripattarai,999 -
+OVERSEAS ELECTORS",ALL VOTERS
+3,48,3,"Government Hr.Sec School , SSA Building North Facing Arangaldurugam-635811","1 - Karapattu (R.V) Arangaldhurugam (P), Ward 2 Old arangalthurugam , 2
+- Karapattu (R.V) Arangalthurugam (P), Ward 2, New Arangalthurugam , 3 - Karapattu (R.V) Arangalthurugam (P), Ward 2, Perumal Koil street , 4 - Karapattur (R.V) Arangalthurugam (P), Ward 2, Mariyamman Koil Street,999 - OVERSEAS ELECTORS",ALL VOTERS
+4,48,4,"Panchayat Union Elementary School , East Facing Karapattu-635811","1 - Karapattur (R.V) Arangalthurugam (P), Ward 1 Karapet , 2 - Karapattur (R.V) Arangalthurugam (P), Ward 1, Kattu Vengata puram , 3 - Karapattur (R.V) Arangalthurugam (P), Ward 1, Mathur,999 - OVERSEAS ELECTORS",ALL VOTERS
+5,48,5,"Panchayat Union Middle School , East Facing SSA Building Mathakadappa-635 754","1 - Velathikamanipenda (R.V) And (P), Ward 2 Mathagatappa school street
+, 2 - Velathikamanipenda (R.V) And (P), Ward 2 Pajanai Koil Street , 3 - Velathikamanipenda (R.V) And (P), Ward 2, Keel Street , 4 - Velathikamanipenda (R.V) And (P), Ward 2, Mathiri Vattam , 5 - Velathikamanipenda (R.V) And (P), Ward 2, Kattukollai,999 - OVERSEAS ELECTORS",ALL VOTERS
+6,48,6,"Panchayat Union Elementary School, North Facing New Building west side Velathigamanipenda-635 754","1 - Velathikamanipenda (R.V) And (p), Ward 1 Velathikamanipenda , 2 - Sinthagamanipenda (R.V) And (P), Ward 3 Sinthagamanipenda , 3 - Velathikamanipenda (R.V) And (P), Ward 3 Arimanipenda Road , 4 - Sinthagamanipenda (P), Ward 3 Colony (Sinthagamanipenda) , 5 - Velathikamanipenda (R.V) And (P), Ward 3 Mopiri gate Vattam , 6 - Velathikamanipenda (R.V) And (P), Ward 3 Cehllapatti Vattam,999 -
+OVERSEAS ELECTORS",ALL VOTERS
+7,48,7,"Panchayat Union Elementary School , South Facing West Building 2nd Class Room Madhanacheri-635 754","1 - Mathanajchery (R.V) And (P), Ward 2, Adi dravidar colony , 2 - Mathanajchery (R.V) And (P), Ward 2, Erivattam , 3 - Mathanajchery (R.V) And (P), Ward 2, Kuntan Vattam , 4 - Mathanajchery (R.V) And (P), Ward
+2, kanikaravattam,999 - OVERSEAS ELECTORS",ALL VOTERS
+8,48,8,"Panchayat Union Elementary School ,
+South Facing 3rd Class Room East side Madhanacheri-635 754","1 - Mathanajchery (R.V) And (P), Ward 2 Sankathavattam , 2 - Mathanajchery (P), Ward 2, Kolla Kottai,999 - OVERSEAS ELECTORS",ALL VOTERS
+9,48,9,"Panchayat Union Elementary School ,
+East side South Facing North Building Madhanacheri-635 754","1 - Mathanajchery (R.V) And (P), Ward 3, Perumal kovil street, 2 -
+Mathanajchery (R.V) And (P), Ward 3, Mariamman Kovil Street, 999 - Overseas Elector",ALL VOTERS
+10,48,10,"Panchayat Union Elementary School , South Facing North side West Building Room No.9 Madhanacheri-635 754","1 - Mathanajchery (R.V) And (P), Ward 3, Kollakottai,999 - Overseas Elector",ALL VOTERS
+11,48,11,"Panchayat Union Elementary School , East side South Facing Building 4th Std
+Madhanacheri-635 754","1 - Mathanajchery (R.V) And (P), Ward 3, Adidravidar Colony, 2 - Mathanajchery (R.V) And (P), Ward 3, Kilur, 999 - Overseas Elector",ALL VOTERS
+12,48,12,"Panchayat Union Middle School , East
+side South Building North Facing Pallipattu-635 754","1 - Madhanancheri (R.V) Pallipattu (P), Ward 1, Perumal kovil street , 2 -
+Madhanancheri (R.V) Pallipattu (P), Ward 1, Mettu Street,999 - OVERSEAS ELECTORS",ALL VOTERS
+13,48,13,"Panchayat Union Middle School , South
+facing North Building East side Pallipattu-635 754","1 - Madhanancheri (R.V) Pallipattu (P), Ward 1, Adidravidar  Old Colony,999 - OVERSEAS ELECTORS",ALL VOTERS
+14,48,14,"Panchayat Union Middle School, South facing West Side North Building Pallipattu-635 754","1 - Madhanancheri (R.V) Pallipattu (P), Ward 3, Mettu streety , 2 - Madhanancheri (R.V) Pallipattu (P), Ward 3, Kolla Kottai , 3 - Madhancheri (R.V) Pallipattu (P), Ward 3, Adidravidar Colony,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+15,48,15,"Panchayat Union Elementary School ,
+East facing Elayanagaram-635 754","1 - Elianagaram (R.V) And (P), Ward 1 Elaiyanagaram,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+16,48,16,"Panchayat Union Elementary School , North facing Chinna Elayanagaram-635 754","1 - Elianagaram (R.V) And (P), Ward 2 Chinna Elaiyanagaram , 2 - Elianagaram (R.V) And (P), Ward 3 Yadavar kottai , 3 - Elianagaram (R.V) And (P), Ward 3 Periya kollai , 4 - Elianagaram (R.V) And (P), Ward 3
+Tharaikadu,999 - OVERSEAS ELECTORS",ALL VOTERS
+17,48,17,"Government High School, Additional Building East Facing 8A Class North side
+Gollakuppam-635 754","1 - Kollakuppam (R.V) And (P), Ward 1 Kollakuppam,999 - OVERSEAS ELECTORS",ALL VOTERS
+18,48,18,"Government High School , Main Building East side west facing Middle Room
+Gollakuppam-635 754","1 - Kollakuppam (R.V) And (P), Ward 2, Chinna Kollakuppam , 2 - Kollakuppam (R.V) And (P), Ward 3 Puthur,999 - OVERSEAS ELECTORS",ALL VOTERS
+19,48,19,"Panchayat Union Middle School , South Facing Echampattu-635 754","1 - Eachampattu (R.V) Melkuppam (p), Ward 1,2 Melkuppam , 2 - Chinnapallikuppam (P), Ward 4, Echampet adi dravidar Colony,
+3 - Chinnapallikuppam (R.V) And (P), Ward 3 Mel Echampet , 4 - Chinnapallikuppam (R.V) And (P), Ward 4, Kundimariyamman Koil Street , 5 - Chinnapallikuppam (R.V) And (P), Ward 5, Molaparai Keel Echampet ,
+999 - OVERSEAS ELECTORS",ALL VOTERS
+20,48,20,"Panchayat Union Elementary School ,
+East Facing SSA Building 5th Std Melkuppam-635 754","1 - Eachampattu (R.V) Melkuppam (P), Ward 1, Melkuppam,999 - Overseas Elector",ALL VOTERS
+21,48,21,"Panchayat Union Elementary School , East Facing South Side Building
+Melkuppam-635 754","1 - Eachampattu (R.V) Melkuppam (P), Ward 2, Melkuppam erikarai Tharaikadu, 999 - Overseas Elector",ALL VOTERS
+22,48,22,"Panchayat Union Elementary School , South Facing Mopper Colony Echampattu-635 754","1 - Chinna pallikuppam (R.V) And (P), Ward 4, Echampet Adi dravidar Colony , 2 - Chinna pallikuppam (R.V) And (P), Ward 5, Echampet, Muppar Colony , 3 - Chinna pallikuppam (R.V) And (P), Ward 5, Keel
+Echampet,999 - OVERSEAS ELECTORS",ALL VOTERS
+23,48,23,"Panchayat Union Middle School , North Facing Chinnapallikuppam-635 754","1 - Chinnapallikuppam (R.V) And (P), Ward 1 Rajaveethi poyar colony,2 - Chinnapallikuppam (R.V) And (P), Ward 2 Athi dravidar colony,3 - Chinnapallikuppam (R.V) And (P), Ward 3 Panathoppu Colony",ALL VOTERS
+24,48,24,"Government Higher Secondary School , North Facing 9th Std Vadacheri-635 754","1 - Vadacheri (R.V) And (P), Ward 3 B.colony , 2 - Vadacheri (R.V) And (P)P), Ward 3 Chinna Vatachery , 3 - Vadacheri (R.V) And (P)P), Ward 3
+Vatachery A Colony,999 - OVERSEAS ELECTORS",ALL VOTERS
+25,48,25,"Government Higher Secondary School , North Facing 11th Std Main Building Vadacheri-635754","1 - Vadacheri (R.V) And (P)P), Ward 1, Mel street , 2 - Vadacheri (R.V) And (P)P), Ward 1, North Street , 3 - Vadacheri (R.V) And (P)P), Ward 1, South Street , 4 - Vadacheri (R.V) And (P)P), Ward 2, Nadu Street , 5 - Vadacheri (R.V) And (P)P), Ward 2, Mariyamman Koil Street , 6 - Vadacheri (R.V) And (P)P), Ward 2 Thattan pattarai Road , 7 - Vadacheri (R.V) And (P)P), Ward 3, Perumal Koil Street,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+26,48,26,"Panchayat Union Primary School , East facing Sammanthikuppam-635751","1 - Girisamudiram (R.V) Sammanthikuppam (P), Ward 1 Sammanthikuppam , 2 - Girisamudiram (R.V) SammanthiKuppam (P), Ward 2 SammanthiKuppam  Colony , 3 - Girisamudiram (R.V) SammanthiKuppam (P), Ward 3 SammanthiKuppam Colony,999 -
+OVERSEAS ELECTORS",ALL VOTERS
+27,48,27,"Panchayat Union Primary School , Additional Building North side South Facing Girisamuthiram-635751","1 - Girisamuthiram (R.V) And (P), Ward 3 Old Colony, 2 - Girisamuthiram (R.V) And (P), Ward 3 New Manai, 3 - Girisamuthiram (R.V) And (P), Ward 3 New Manai, 999 - Overseas Elector",ALL VOTERS
+28,48,28,"Panchayat Union Primary School , East facing North Side Girisamuthiram-635751","1 - Girisamuthiram (R.V) And (P), Ward 3 Bharatha Koil Vattam, 2 - Girisamuthiram (R.V) And (P), Ward 3 Gopal Gowndar Vattam, 3 - Girisamuthiram (R.V) And (P), Ward 3 Puthur Kollai Kottai, 4 - Girisamuthiram (R.V) And (P), Ward 3 Puthur, 5 - Girisamuthiram (R.V)
+And (P), Ward 3 Thotti vattam, 999 - Overseas Elector",ALL VOTERS
+29,48,29,"Panchayt Union Primary School, West Facing 4th std. Girisamuthiram-635751","1 - Nekkanamalai (R.V) And (P), Ward 1 Purusothamakuppam,2 - Nekkanamalai (R.V) And (P), Ward 2 Purushothama kuppam Colony, 999 -
+Overseas Elector",ALL VOTERS
+30,48,30,Anganwadi Center West Facing Girisamuthiram-635751,"1 - Nekkanamalai (R.V) And (P), Ward 2 Konery Vattam, 2 - Nekkanamalai (R.V) And (P), Ward 2 JilPaga gowndar Vattam, 3 - Nekkanamalai (R.V) And (P), Ward 2 Vinayakar Koil Vattam, 4 - Nekkanamalai (R.V) And (P), Ward 2 Kulam Vattam, 5 - Nekkanamalai (R.V) And (P), Ward 2 Girisamuthiram National Highway, 6 - Nekkanamalai (R.V) And (P), Ward 2 Nekkanamalaiadivaram, 999 - Overseas Elector",ALL VOTERS
+31,48,31,"Panchayt Union Primary School, East facing 2nd Std. Girisamuthiram-635751","1 - Girisamuthiram (R.V) And (P), Ward 1, Girisamuthiram keel street, 2 - Girisamuthiram (R.V) And (P), Ward 2 Kalar Vattam, 999 - Overseas
+Elector",ALL VOTERS
+32,48,32,"Panchayt Union Primary School, West facing 3rd Std. Girisamuthiram-635751","1 - Girisamuthiram (R.V) And (P), Ward 3 Girisamuthiram, 2 - Girisamuthiram (R.V) And (P), Ward 3 Raja Street, 3 - Girisamuthiram (R.V) And (P), Ward 3 Raja Street, 4 - Girisamuthiram (R.V) And (P), Ward 2 New Colony, 999 - Overseas Elector",ALL VOTERS
+33,48,33,"Panchayat Union Primary School , North Facing Marapattu-635754","1 - Sengilikuppam (R.V) And (P), Ward 1, Marappet , 2 - Sengilikuppam (R.V) And (P), Ward 4 Anna Nagar , 3 - Sengilikuppam (R.V) And (P), Ward 4, Jothiveeraragava puram , 4 - Sengilikuppam (R.V) And (P), Ward 4, KattuKollai , 5 - Sengilikuppam (R.V) And (P), Ward 4, Marappet , 6 - Sengilikuppam (R.V) And (P), Ward 4, Kalputhur , 7 - Sengilikuppam (R.V) And (P), Ward 4, Senkilikuppam , 8 - Sengilikuppam (R.V) And (P), Ward 4, Railway Colony,999 - OVERSEAS ELECTORS",ALL VOTERS
+34,48,34,"Panchayat Union Primary School , East Facing West side Building
+Sengalikuppam-635814","1 - Sengilikuppam (R.V) And (P), Ward 2 Old manai, 999 - Overseas Elector",ALL VOTERS
+35,48,35,"VPSC Building, North Facing Railway
+Pudumanai Sengilikuppam-635814","1 - Sengilikuppam (R.V) And (P), Ward 3, New Manai, 999 - Overseas
+Elector",ALL VOTERS
+36,48,36,"Panchayat Union Elementary School , North Facing Pappanapalli-635 811","1 - Pappanapalli (R.V) And (P), Ward 1  Pappanapalli , 2 - Pappanapalli (R.V) And (P), Ward 2 Adi dravidar Colony , 3 - Pappanapalli (R.V) And (P), Ward 3 Erular Colony,999 - OVERSEAS ELECTORS",ALL VOTERS
+37,48,37,"Panchayat Union Primary School , South Facing Melsanangkuppam-635811","1 - Melsanankuppam (R.V) And (P), Ward 1 Melsanangkuppam, 2 - Melsanankuppam (R.V) And (P), Ward 1, Murugar Koil Street, 3 - Melsanankuppam (R.V) And (P), Ward 1, Anna nagar, 999 - Overseas
+Elector",ALL VOTERS
+38,48,38,"Panchayat Union Primary School , West Facing Melsanangkuppam-635811","1 - Melsanankuppam (R.V) And (P), Ward 1, Arunthathiyar Colony, 2 - Melsanankuppam (R.V) And (P), Ward 1, Melsanangkuppam Colony, 999 -
+Overseas Elector",ALL VOTERS
+39,48,39,"Panchayat Union Elementary School ,
+South FacingVadakarai-635 807","1 - Vadakarai (R.V) And (P), Ward 1 Vadakarai , 2 - Vatakarai (R.V) And
+(P), Ward 2, Adi dravidar Colony,999 - OVERSEAS ELECTORS",ALL VOTERS
+40,48,40,Government High School East Facing South Side Building Minnur 635 807,"1 - Minnur (R.V) AnD (P), Ward 3 Kisthi medu , 2 - Minnur (R.V) And (P), Ward 3 Kollai Kollai , 3 - Minnur (R.V) And (P), Ward 3 M.C.Road,999 -
+OVERSEAS ELECTORS",ALL VOTERS
+41,48,41,Government High School East Facing North Side Building Minnur 635 807,"1 - Minnur (R.V) And (P), Ward 3 A.S.Road , 2 - Minnur (R.V) And (P), Ward 3 Nethaji Nagar , 3 - Minnur (R.V) And (P), Ward 3 Ambethkar Nagar
+, 4 - Minnur (R.V) And (P), Ward 3 Kalikhapuram,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+42,48,42,"Panchayat Union Elementary School , East Facing RCC Building Minnur-635807","1 - Minnur (R.V) And (P), Ward 1 Pramanar street , 2 - Minnur (R.V) And (P), Ward 1 Echasiyamman Koil Street , 3 - Minnur (R.V) And (P), Ward 1 Raja Street , 4 - Minnur (R.V) And (P), Ward 1 Mel Street , 5 - Minnur (R.V) And (P), Ward 1 Itaiyar Street , 6 - Minnur (R.V) And (P), Ward 1 Mandi Street , 7 - Minnur (R.V) And (P), Ward 2 Thoppachiyamman Koil
+Street,999 - OVERSEAS ELECTORS",ALL VOTERS
+43,48,43,"Panchayat Union Elementary School , South side RCC Building Minnur-635807","1 - Minnur (R.V) And (P), Ward 2 Kalaigar Nagar , 2 - Minnur (R.V) And (P), Ward 2 New Colony Mariyamman Koil Street,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+44,48,44,"Panchayat Union Primary School , North Facing Maniyarakuppam-635811","1 - Melsanankuppam (R.V) And (P), Ward 2, Maniyar Kuppam Kutroad , 2 - Melsanankuppam (R.V) And (P), Ward 2, Maniyar kuppam naidu Street , 3
+- Maniyarkuppam (R.V) And (P), Ward 2, Maniyar Kuppam Colony , 4 - Maniyarkuppam  (R.V) And (P), Ward 2, Errikollai Vattam,999 -
+OVERSEAS ELECTORS",ALL VOTERS
+45,48,45,"Aided Middle School, South Side,East
+Facing,  Veerangkuppam-635811","1 - Veerangkuppam (R.V) And (P), Ward 1 Veerangkuppam,999 -
+OVERSEAS ELECTORS",ALL VOTERS
+46,48,46,"Aided Middle School, North Facing
+Veerangkuppam-635811","1 - Veerangkuppam (R.V) And (P), Ward 2 Veerangkuppam Colony,999 -
+OVERSEAS ELECTORS",ALL VOTERS
+47,48,47,"Panchayat Union Elementary School, West Facing Mottur Thennampattu-635 811","1 - Thennambattu (R.V) And (P), Ward 1 Thennambattu , 2 - Thennampet (R.V) And (P), Ward 2 Mottur , 3 - Malaiyampet (R.V) And (P), Ward 3 Chinna Malaiyampet,999 - OVERSEAS ELECTORS",ALL VOTERS
+48,48,48,"Panchayat Union Middle School , West Facing AGAMT Building North side
+Malayampattu-635 811","1 - Malayampattu (R.V) And (P), Ward 2, Malaiyampet Colony, 2 - Malayampattu (R.V) And (P), Ward 2, Puthur, 999 - Overseas Elector",ALL VOTERS
+49,48,49,"Panchayat Union Middle School , East Facing South side Malayampattu-635 811","1 - Malayambattu  (R.V) And (P), Ward 2, Malaiyambattu, 2 - Malayampattu (R.V) And (P), Ward 3 Kellery Vattam, 3 - Malayampattu (R.V) And (P), Ward 3 Pandithar Vattam, 4 - Malayampattu (R.V) And (P), Ward 3 Malaiyampet Kollaikottai, 999 - Overseas Elector",ALL VOTERS
+50,48,50,"Panchayat Union Elementary School
+,West Facing RCC Building ChinnaMalayampattu-635807","1 - Malayampattu (R.V) And (P), Ward 3, Chinnamalaiyampet , 2 - Malayampattu (R.V) And (P), Ward 3, Anumanthapuram ,  ,999 -
+OVERSEAS ELECTORS",ALL VOTERS
+51,48,51,"Panchayat Union Middle School , North facing West side Kathavalam-635 811","1 - Kathavalam (R.V) And (P), Ward 1, Mariyamman koil street , 2 - Kathavalam (R.V) And (P), Ward 1, 1st Lane Street , 3 - Kathavalam (R.V) And (P), Ward 1, 2nd Lane Street , 4 - Kathavalam (R.V) And (P), Ward 1, Nadu Street , 5 - Kathavalam (R.V) And (P), Ward 1, Main Road , 6 - Kathavalam (R.V) And (P), Ward 1, Gowramman Koil Street , 7 - Kathavalam (R.V) And (P), Ward 1, Bharathi Nagar , 8 - Kathavalam (R.V) And (P), Ward 1, Indira Nagar,999 - OVERSEAS ELECTORS",ALL VOTERS
+52,48,52,"Panchayat Union Middle School, North Facing Middle Room Kathavalam-635 811","1 - Kathavalam (R.V) And (P), Ward 2, Kengaiyamman koil Street , 2 - Kathavalam (R.V) And (P), Ward 2, Main Road , 3 - Kathavalam (R.V) And (P), Ward 2, Ambethkar Street , 4 - Kathavalam (R.V) And (P), Ward 2, Sivaraj Street , 5 - Kathavalam (R.V) And (P), Ward 2, Puthumanai , 6 - Kathavalam (R.V) And (P), Ward 3, Raman Koil Street , 7 - Kathavalam (R.V) And (P), Ward 3, Kengayamman Koil Street , 8 - Kathavalam (R.V) And (P), Ward 3, Main Road , 9 - Kathavalam (R.V) And (P), Ward 3, Achary Street , 10 - Kathavalam (R.V) And (P), Ward 3, Mavery , 11 - Kathavalam (R.V) And (P), Ward 3 Veppamara Street,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+53,48,53,"Panchayat Union Elementary School, East Facing Mothagapalli-635 811","1 - Kumaramangalam (R.V) Mothagapalli (P), Ward 1, Mothagapalli , 2 - Kumaramangalam (R.V) Mothagapalli (P), Ward 2 Ramapuram,999 -
+OVERSEAS ELECTORS",ALL VOTERS
+54,48,54,"Panchayat Union Middle School, North Facing Kumaramangalam-635 811","1 - Kumaramangalan (R.V) And (P), Ward 1, Kumaramangalam , 2 - Kumaramangalan (R.V) And (P), Ward 2 Kumaramangalam , 3 - Kumaramangalan (R.V) And (P), Ward 3 Kumaramangalam,999 -
+OVERSEAS ELECTORS",ALL VOTERS
+55,48,55,"Hindu Higher Secondary School , North Facing Building Room.No. 13 Karumbur-635 811","1 - Karumbur (R.V) And (P), Ward 1, Puthumani 1st street , 2 - Karumbur (R.V) And (P), Ward 1, Puthumani 2nd Street ,3 - Karumbur (R.V) And (P), Ward 1, Puthumanai 3rd Street ,  4 - Karumbur (R.V) And (P), Ward 1 Edikar 4th street , 5 - Karumbur (R.V) And (P), Ward 1 Edikar 5th Street , 6
+- Karumbur (R.V) And (P), Ward 1, Old Colony 6th Street , 7 - Karumbur (R.V) And (P), Ward 1, Old colony 7th Street , 8 - Karumbur (R.V) And (P), Ward 1, Rajiv Gandhi Nagar,999 - OVERSEAS ELECTORS",ALL VOTERS
+56,48,56,"Hindu Higher Secondary School, Facing East Room No.20 Karumbur-635 811","1 - Karumbur (R.V) And (P), Ward 1 Indira nagar , 2 - Karumbur (R.V) And (P), Ward 2, Indu Higher Secondary Scholl , 3 - Karumbur (R.V) And (P), Ward 2, State Bank Street , 4 - Karumbur (R.V) And (P), Ward 2, Vinayagar Koil street , 5 - Karumbur (R.V) And (P), Ward 2, Mariyamma Koil Street,999 - OVERSEAS ELECTORS",ALL VOTERS
+57,48,57,"Panchayat Union Middle School, North Facing West Portion Parsanapalli-635811","1 - Parsanapalli (R.V) And (P), Ward 1, Ramar koil street , 2 - Parsanapalli (R.V) And (P), Ward 1 Ramar Koil 1st Street , 3 - Parsanapalli (R.V) And (P), Ward 1 Ramar Koil 2nd Street , 4 - Parsanapalli (R.V) And (P), Ward1 Ramar Koil 3nd Street , 5 - Parsanapalli (R.V) And (P), Ward 1 Raman Koil 4th Street , 6 - Parsanapalli (R.V) And (P), Ward1 Ramar Koil 5th Street , 7
+- Parsanapalli (R.V) And (P), Ward1, Mettu Street , 8 - Parsanapalli (R.V) And (P), Ward 1, Kollakottai , 9 - Parsanapalli (R.V) And (P), Ward 2 Mariyamman Koil Street , 10 - Parsanapalli (R.V) And (P), Ward 2 Angiyapalli , 11 - Parsanapalli (R.V) And (P), Ward 2 Eltharaparai , 12 - Parsanapalli (R.V) And (P), Ward 2 Siva villagar , 13 - Parsanapalli (R.V) And (P), Ward 2, Kuppurajapalayam,999 - OVERSEAS ELECTORS",ALL VOTERS
+58,48,58,"Panchayat Union Elementary School , Main Terraced Building North side facing south Periya Venkadasamuthiram-635811","1 - Vengatasamuthiram (R.V) And (P), Ward 2, Arasamara street , 2 - Vengatasamuthiram (R.V) And (P), Ward 2, Work shop Street , 3 - Vengatasamuthiram (R.V) And (P), Ward 2, Post Office Street,999 -
+OVERSEAS ELECTORS",ALL VOTERS
+59,48,59,"Panchayat Union Elementary School , East side facing south Terraced Building PeriyaVenkadasamuthiram-635811","1 - Vengatasamuthiram (R.V) And (P), Ward 2, Vinayaga puram , 2 - Vengatasamuthiram (R.V) And (P), Ward 2, Kamarajar Street , 3 - Vengatasamuthiram (R.V) And (P), Ward 2, Amman Koil Street , 4 - Vengatasamuthiram (R.V) And (P), Ward 2, Pattabi Street , 5 - Vengatasamuthiram (R.V) And (P), Ward 2, Rajiv Gandhi Street,999 -
+OVERSEAS ELECTORS",ALL VOTERS
+60,48,60,"Panchayat Union Primary School , South Side Govindapuram-635811","1 - Vengatasamuthiram (R.V) And (P), Ward 5 Arasamara street , 2 - Vengatasamuthiram (R.V) And (P), Ward 5, Nadu Street , 3 - Vengatasamuthiram (R.V) And (P), Ward 5, Pajanai Koil Street , 4 - Vengatasamuthiram (R.V) And (P), Ward 5, Patasalai Street , 5 - Vengatasamuthiram (R.V) And (P), Ward 5, Ellaiyamman Koil Street , 6 - Vengatasamuthiram (R.V) And (P), Ward 5, Murugar Koil Street,999 -
+OVERSEAS ELECTORS",ALL VOTERS
+61,48,61,"Panchayat Union Middle School , South Facing Aththimagulapalli-635 811","1 - Vengatasamuthiram (R.V) And (P), Ward 4, Sanmuga achary street , 2 - Vengatasamuthiram (R.V) And (P), Ward 4, Murugesa Reddy street , 3 - Vengatasamuthiram (R.V) And (P), Ward 4, Nagalingam Reddy Street , 4 - Vengatasamuthiram (R.V) And (P), Ward 4, Ramar Koil street , 5 - Vengatasamuthiram (R.V) And (P), Ward 4, Nagaraj Reddy Street , 6 - Vengatasamuthiram (R.V) And (P), Ward 4 Poyar Street , 7 - Vengatasamuthiram (R.V) And (P), Ward 4, 1st Street , 8 - Vengatasamuthiram (R.V) And (P), Ward 4, 2nd Street , 9 - Vengatasamuthiram (R.V) And (P), Ward 4, 3nd Street , 10 - Vengatasamuthiram (R.V) And (P), Ward 4, 4th Street , 11 - Vengatasamuthiram (R.V) And (P), Ward 4, Amman Koil Street , 12 - Vengatasamuthiram (R.V) And (P), Ward 4, Vinayakar koil street,999 - OVERSEAS ELECTORS",ALL VOTERS
+62,48,62,"Govt. Adi-Dravidar Welfare Middle School , West facing New Building 4th Std. Venkadasamuthiram Colony-635811","1 - Vengatasamuthiram (R.V) And (P), Ward1, Matha koil street , 2 - Vengatasamuthiram (R.V) And (P), Ward 1, Patasalai Frant Street,999 - OVERSEAS ELECTORS",ALL VOTERS
+63,48,63,"Govt. Adi-Dravidar Welfare Middle School , West facing New Building 4th Std. Venkadasamuthiram Colony-635811","1 - Vengatasamuthiram (R.V) And (P), Ward 1, Patasalai Back street , 2 - Vengatasamuthiram (R.V) And (P), Ward 1, Vinayakar koil Street , 3 - Vengatasamuthiram (R.V) And (P), Ward 1, Puthumanai 1st Street , 4 - Vengatasamuthiram (R.V) And (P), Ward 1, Puthumanai 2nd Street,999 -
+OVERSEAS ELECTORS",ALL VOTERS
+64,48,64,"Panchayat Union Elementary School, North Facing Rangapuram-635811","1 - Vengatasamuthiram (R.V) And (P), Ward 3, Mel street , 2 - Vengatasamuthiram (R.V) And (P), Ward 3, Nadu Street , 3 - Vengatasamuthiram (R.V) And (P), Ward 3, Keel Street , 4 - Vengatasamuthiram (R.V) And (P), Ward 3, Mariyamman Koil Street , 5 - Vengatasamuthiram (R.V) And (P), Ward 3, North Street , 6 - Vengatasamuthiram (R.V) And (P), Ward 3, South Street , 7 - Vengatasamuthiram (R.V) And (P), Ward 3, Manthaiveli , 8 - Vengatasamuthiram (R.V) And (P), Ward 3  Well Street , 9 - Vengatasamuthiram (R.V) And (P), Ward 3, Mariyamman Koil Street , 10 - Vengatasamuthiram (R.V) And (P), Ward 3, Thaar Salai , 11 - Vengatasamuthiram (R.V) And (P), Ward 3, Kuttai,999 - OVERSEAS ELECTORS",ALL VOTERS
+65,48,65,"Panchayat Union Middle School , Main
+Building South Facing West side Kuttakindhur-635 811","1 - Mittalam (R.V) And (P), Ward 3 Kuttakanthur , 2 - Mittalam (R.V) And (P), Ward 3, Mel Mittalam Naidu Street,999 - OVERSEAS ELECTORS",ALL VOTERS
+66,48,66,"Panchayat Union Middle School , Main Building South Facing East side
+Kuttakindhur-635 811","1 - Mittalam (R.V) And (P), Ward 3, Mel Mittalam colony, 999 - Overseas Elector",ALL VOTERS
+67,48,67,"Government High School East Facing South side Building Melur Mittalam 635
+811","1 - Mittalam (R.V) And (P), Ward 2 Keelmittalam palaiyamanai , 999 - OVERSEAS ELECTORS",ALL VOTERS
+68,48,68,"Government High School East Facing 7th
+Std Melur Mittalam 635 811","1 - Mittalam (R.V) And (P), Ward 2 Vanniyanathapuram,,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+69,48,69,"Government High School East Facing North side Building 10th STD Melur
+Mittalam 635 811","1 - Mittalam (R.V) And (P), Ward 1 Mittalam nataar street, 2 - Mittalam (R.V) And (P), Ward 1, Rallakothur, 999 - Overseas Elector",ALL VOTERS
+70,48,70,Government High School East Facing North side Building 9th STD Melur Mittalam 635 811,"1 - Mittalam (R.V) And (P), Ward 3, Pantheripalli Colony, 2 - Mittalam (R.V) And (P), Ward 3, Pantheripalli Naidu Street, 3 - Mittalam (R.V) And (P), Ward 1, Pantheripalli, 4 - Mittalam (R.V) And (P), Ward 1,
+Melkurmapalayam, 999 - Overseas Elector",ALL VOTERS
+71,48,71,"Panchayat Union Elementary School ,
+East Facing West side Kammakrishna palli-635811","1 - Kammakrishnapalli (R.V) And  (P), Ward 5 Kammkrishnapalli , 2 -
+Kammakrishnapalli (R.V) And  (P), Ward 5 Labai Mankuppam adi dravidar Colony,999 - OVERSEAS ELECTORS",ALL VOTERS
+72,48,72,"Panchayat Union Middle School , North Facing middle room Solur-635814","1 - Solur (R,V) And (P), Ward 3 Solur village,999 - OVERSEAS ELECTORS",ALL VOTERS
+73,48,73,"Panchayat Union Middle School , North Facing West side Solur-635814","1 - Solur (R.V) And (P), Ward 3 M.C.Road , 2 - Solur (R.V) And (P), Ward
+4 RajivGandhi Nagar , 3 - Solur (R.V) And (P), Ward 4 AkbarBasha Street,999 - OVERSEAS ELECTORS",ALL VOTERS
+74,48,74,"Panchayat Union Middle School , West Building South Facing Solur-635814","1 - Solur (R.V) And (P), Ward 2 Old Solur Pothumanai Last Street,2 - Solur (R.V) And (P), WArd 2 Arunthathiyar Colony,3 - Solur (R.V) And (P), Ward
+1, Old Solur,999 - Overseas Elector",ALL VOTERS
+75,48,75,"Library Building West Facing Rajagopal
+Nagar Solur -635814","1 - Solur (R.V) And (P), Ward 2 Rajagopal nagar,2 - Solur (R.V) And (P),
+Ward 2 Kalludaipor Colony,999 - Overseas Elector",ALL VOTERS
+76,48,76,"Panchayat Union Middle School , road side Building South Facing Solur-635814","1 - Solur (R.V) And (P), Ward 1, New solur,2 - Solur (R.V) And (P), Ward 2 Mohamad Nagar,999 - Overseas Elector",ALL VOTERS
+77,48,77,"Panchayat Union Middle School , Additional Building West Facing
+Alankuppam-635814","1 - Alaguppam (R.V) And (P), Ward 4, Mariyamman Koil Street, 2 - Alaguppam (R.V) And (P), Ward 5, Thouppur, 999 - Overseas Elector",ALL VOTERS
+78,48,78,Community Hall North Facing Alankuppam-635814,"1 - Alaguppam (R.V) And (P), Ward 3, Ponniyamman koil street, 2 - Alaguppam (R.V) And (P), Ward 3, Senkuthar Street, 3 - Alaguppam (R.V) And (P), Ward 3, Nadu Street, 4 - Alaguppam (R.V) And (P), Ward 5, Kanar Street, 5 - Alaguppam (R.V) And (P), Ward 5, Thattal Street, 6 - Alaguppam (R.V) And (P), Ward 1, Achari street, 999 - Overseas Elector",ALL VOTERS
+79,48,79,"Panchayat Union Middle School , Additional Building South Facing Alankuppam-635814","1 - Alaguppam (R.V) And (P), Ward 1, Mariyamman Koil Street, 2 - Alaguppam (R.V) And (P), Ward 1, Nehru Silai Street, 3 - Alaguppam (R.V) And (P), Ward 2, Murukar Koil Street, 4 - Alaguppam (R.V) And (P), Ward 2, School Street, 999 - Overseas Elector",ALL VOTERS
+80,48,80,Hindu Aided Middle School East Facing South Side Vinnamangalam 635 807,"1 - Vinnamangalam (R.V) And (P), Ward 2 Ayyanur,999 - OVERSEAS ELECTORS",ALL VOTERS
+81,48,81,Hindu Aided Middle School East Facing North Side Vinnamangalam 635 807,"1 - Vinnamangalam (R.V) And (P), Ward 2 Ayyanur , 2 - Vinnamangalam (R.V) And (P), Ward 2 Ayyanur,999 - OVERSEAS ELECTORS",ALL VOTERS
+82,48,82,Hindu Aided Middle School West Facing North side Vinnamangalam 635 807,"1 - Vinnamangalam (R.V) And (P), Ward 4 Ayyanur,999 - OVERSEAS ELECTORS",ALL VOTERS
+83,48,83,"Hindu Aided Middle School , 4th STD,
+West Facing Vinnamangalam-635807","1 - Vinnamangalam (R.V) And (P), Ward 1 Vinnamangalam savadi,999 -
+OVERSEAS ELECTORS",ALL VOTERS
+84,48,84,"Hindu Aided Middle School , 6th STD,
+West Facing Vinnamangalam-635807","1 - Vinnamangalam (R.V) And (P), Ward 1 Vinnamangalam savadi,999 -
+OVERSEAS ELECTORS",ALL VOTERS
+85,48,85,"Panchayat Union Middle School , South
+Facing Kattukollai-635807","1 - Vinnamangalam (R.V) And (P), Ward 2 Kattukollai old manai.,999 -
+OVERSEAS ELECTORS",ALL VOTERS
+86,48,86,"Panchayat Union Elementary School ,
+South Facing Vellakkal-635752","1 - Vinnamangalam (R.V) And (P), Ward 4 Vellakal,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+87,48,87,"Panchayat Union Elementary School, East Facing North Building Middle Room Kammiyampattu Natcharkuppam-635807","1 - Kammiyampattu (R.V) And (P), Ward 4, Kammiyampet, Puthur (House No.1 to 171)( S.No.1-668), 999 - Overseas Elector",ALL VOTERS
+88,48,88,"Panchayat Union Elementary School, East Facing North Building Last Room Kammiyampattu Natcharkuppam-635807","1 - Kammiyampattu (R.V) And (P), Ward 4, Kammiyampet, Puthur-1 (House No.171 to end)( S.No.669 to end), 999 - Overseas Elector",ALL VOTERS
+89,48,89,"Panchayat Union Elementary School , South side Building North Facing Kammiyampattu Natcharkuppam-635807","1 - Nacharkuppam (R.V) And (P), Ward 1 Nacharkuppar village , 2 - Nacharkuppar (R.V) And (P), Ward 3 Athidiravidar Colony,999 - OVERSEAS ELECTORS",ALL VOTERS
+90,48,90,"Panchayat Union Elementary School, East Facing Kannadikuppam-635807","1 - Kannadikuppam (R.V) And (P), Ward 1, Kannadikuppam , 2 - Kannadikuppam (R.V) And (P), Ward 2, New Colony,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+91,48,91,"Panchayat Union Elemantary School , West Facing Kannadikuppam-635807","1 - Kannadikuppam (R.V) And (P), Ward 2, Old Colony,999 - OVERSEAS ELECTORS",ALL VOTERS
+92,48,92,"Panchayat Union Primary School , RCC Building Right side west Facing 3rd std. Periyankuppam-635814","1 - Periyakuppam (R.V) And (P), Ward 1 Poovarasamara street , 2 - Periyakuppam (R.V) And (P), Ward 1 Gandhi Road , 3 - Periyakuppam (R.V) And (P), Ward 1 Nagoji Street , 4 - Periyakuppam (R.V) And (P), Ward 1 Raja Street , 5 - Periyakuppam (R.V) And (P), Ward 1 Mariyamman Koil  STreet , 6 - Periyakuppam (R.V) And (P), Ward 1 Pajanai Koil Street,999 - OVERSEAS ELECTORS",ALL VOTERS
+93,48,93,"Panchayat Union Primary School , East Facing 2nd Std Rcc Building Periyankuppam-635814","1 - Periyakuppam (R.V) And (P), Ward 1 Kulalar Street , 2 - Periyakuppam (R.V) And (P), Ward 1 Pramanar Street , 3 - Periyakuppam (R.V) And (P), Ward 1 Arasamaram Street , 4 - Periyakuppam (R.V) And (P), Ward 1 Otta Street , 5 - Periyakuppam (R.V) And (P), Ward 1 Arunthiyar Colony , 6 - Periyakuppam (R.V) And (P), Ward 1 Vaniyar Street,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+94,48,94,"Panchayat Union Primary School , North Facing South Building East side 5th std. Periyankuppam-635814","1 - Periyakuppam (R.V) And (P), Ward 2 Melalar street , 2 - Periyakuppam (R.V) And (P), Ward 2 Lasti Street , 3 - Periyakuppam (R.V) And (P), Ward 2 First Street , 4 - Periyakuppam (R.V) And (P), Ward 2 Kottai Street , 5 - Periyakuppam (R.V) And (P), Ward 2 Thoulath Street , 6 - Periyakuppam (R.V) And (P), Ward 2  Janda Street , 7 - Periyakuppam (R.V) And (P), Ward 2 Nethaji Street,999 - OVERSEAS ELECTORS",ALL VOTERS
+95,48,95,"Panchayat Union Primary School , North Facing South Building West side Periyankuppam-635814","1- Periyakuppam (R.V) And (P), Ward 2 Mariyamman Koil Street , 2 - Periyakuppam (R.V) And (P), Ward 2 Janda Street ,
+3- Periyakuppam (R.V) And (P), Ward 2 Mosque Street ,
+4 - Periyakuppam (R.V) And (P), Ward 2 Tanck Street ,
+5 - Periyakuppam (R.V) And (P), Ward 2 Last Street ,
+6 - Periyakuppam (R.V) And (P), Ward 2, 3rd Tanck Street,999 - OVERSEAS ELECTORS",ALL VOTERS
+96,48,96,"Panchayat Union Primary School , East Facing 4th std. Periyankuppam-635814","1 - Periyakuppam (R.V) And (P), Ward 3, Subethar street , 2 - Periyakuppam (R.V) And (P), Ward 3, Pajanai Koil Street , 3 - Periyakuppam (R.V) And (P), Ward 3, Methar Street , 4 - Periyakuppam (R.V) And (P), Ward 3, Gandhi Road , 5 - Periyakuppam (R.V) And (P), Ward 3, Raja Street , 6 - Periyakuppam (R.V) And (P), Ward 3, Karaka Koil Street,999 - OVERSEAS ELECTORS",ALL VOTERS
+97,48,97,"Hindu Primary School , North side RCC Building Periyankuppam-635814","1 - Periyakuppam (R.V) And (P), Ward 4, Keel colony
+2 - Periyakuppam (R.V) And (P), Ward 4, Mel Colony, 999 - Overseas Elector",ALL VOTERS
+98,48,98,"Hindu Aided Primary School , West Facing West side Building Periyankuppam-635814","1 - Periyakuppam (R.V) And (P), Ward 4, Kasath thoppu 2- Periyakuppam (R.V) And (P), Ward 4, Mel Conoly-1 3 - Periyakuppam (R.V) And (P), Ward 3, Pramanar Street , 4 - Periyakuppam (R.V) And (P), Ward 3, Kollak Kottai,  999 - Overseas Elector",ALL VOTERS
+99,48,99,Govt. Hr Sec. School South Side Building North Facing MC Road Periyankuppam-635814,"1 - Periyakuppam (R.V) And (P), Ward 4, Ambethkar street 2 - Periyakuppam (R.V) And (P), Ward 4, Kambar Street 3 - Periyakuppam (R.V) And (P), Ward4, Thiruvalluvar Street 4 - Periyakuppam (R.V) And (P), Ward 4, Bharathiyar Street, 999 - Overseas Elector",ALL VOTERS
+100,48,100,Govt. Hr Sec. School South Side Building North Facing West Room MC Road Periyankuppam-635814,"1 - Periyakuppam (R.V) And (P), Ward 3, thiruvalluvar street , 2 - Peruyagkuppam (R,V) And (P), Ward 3, Kambar Street , 3 - Periyakuppam (R.V) And (P), Ward 3, Periyar Street , 4 - Periyakuppam (R.V) And (P), Ward 2 Gandhi nagar 1st street ,5- Periyakuppam (R.V) And (P), Ward 2
+Ganthi Nagar 2nd Streeti,9",ALL VOTERS
+101,48,101,"I.E.L.C.Aided Primary School , Middle Room North Facing M.C.Road
+Sanankuppam-635802","1 - Ambur (M), Ward-33 n. sivaraj street ,999 - OVERSEAS ELECTORS",ALL VOTERS
+102,48,102,"I.E.L.C.Aided Primary School , East Side,
+North Facing M.C.Road Sanankuppam-635802","1 - Ambur (M), Ward-33 Annai mery Street,999 - OVERSEAS ELECTORS",ALL VOTERS
+103,48,103,"I.E.L.C.Aided Primary School , West Side, North Facing M.C.Road
+Sanankuppam-635802","1 - Ambur (M), Ward-33 dr.ambethkar street (House No.0 to 274)( S.No.1 to 723), 999 - Overseas Elector",ALL VOTERS
+104,48,104,"I E.L.C.Aided Primary School , West Side, North Facing 4th Std M.C.Road
+Sanankuppam-635802","1 - Ambur (M), Ward-33 Sanankuppam Trang Road, 2 - Ambur (M), Ward-33 dr.ambethkar street (House No.275 to End)( S.No.724 to End), 999 -
+Overseas Elector",ALL VOTERS
+105,48,105,"Municipal Middle School ,V STD South
+Facing Sanankuppam-635802","1 - Ambur (M), Ward32 Sanankuppam Trang Road, 999 - Overseas Elector",ALL VOTERS
+106,48,106,"Municipal Middle School ,West Facing
+Sanankuppam-635802","1 - Ambur (M), Ward-32 mangala pura, 2 - Ambur (M), Ward-32
+Manthakarai Street Sanankuppam, 999 - Overseas Elector",ALL VOTERS
+107,48,107,"Municipal Middle School ,III STD South
+Facing Sanankuppam-635802","1 - Ambur (M), ward-32 Mathakadupu (House No.0 to 17B)( S.No.1 to
+622), 999 - Overseas Elector",ALL VOTERS
+108,48,108,"Municipal Middle School ,North Facing South Building Sanankuppam-635802","1 - Ambur (M), ward-32 Mathakadupu -1(House No.17C to end)( S.No.623 to end), 999 - Overseas Elector",ALL VOTERS
+109,48,109,"Municipal Middle School , South Facing SSA Building Sanankuppam-635802","1 - Ambur (M), Ward-32 Sanankuppam Pillaiyar Koil Street , 2 - Ambur (M), Ward- 32 Periyar Street , 3 - Ambur (M), Ward-32 Manivasagam Street , 4 - Ambur (M), Ward-32 Thiruvalluvar Street,999 - OVERSEAS ELECTORS",ALL VOTERS
+110,48,110,"Municipal Middle School , West Facing Sanankuppam-635802","1 - Ambur (M), Ward-34 sanankuppam road  , 2 - Ambur (M), Ward-34 Palla Street , 3 - Ambur (M), ward-34 New Street , 4 - Ambur (M), Ward-34 Chinna Vengatasamy Street , 5 - Ambur (M), Ward-34 Uthandi
+Pachaiyappa Street,999 - OVERSEAS ELECTORS",ALL VOTERS
+111,48,111,"Municipal Middle School , West Facing Room No.6 Sanankuppam-635802","1 - Ambur (M), Ward-34 Amaravathi Street , 2 - Ambur (M), Ward-34 Mariyamman Koil Street , 3 - Ambur (M), Ward-34 Muthappa Street , 4 - Ambur (M), Ward-34 Ramalingam Street , 5 - Ambur (M), WArd-34 Charman Natesan Street , 6 - Ambur (M), Ward-34 Sundara Vinayakar Koil STreet , 7 - Ambur (M), Ward-34 Ammaiyappa Street,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+112,48,112,"Hindu Higher Secondary School , Poongavanammal Main Building Room No.10 South Facing M.C.Road Ambur-
+635802","1 - Ambur (M), Ward-36 samiyar madam 2nd street (indira nagar),999 - OVERSEAS ELECTORS",ALL VOTERS
+113,48,113,"Hindu Higher Secondary School , Poongavanammal Main Building South Facing M.C.Road Ambur-635802","1 - Ambur (M), Ward-36 samiyar madam 2nd street (indira nagar) (House No.0 to 27)( S.No.1 to 788), 999 - Overseas Elector",ALL VOTERS
+114,48,114,"Hindu Higher Secondary School , Poongavanammal Building North Facing 12th Std M.C.Road Ambur-635802","1 - Ambur (M), Ward-36 samiyar madam 2nd street (indira nagar)-1 (House No.28 to end)( S.No.789 to end), 999 - Overseas Elector",ALL VOTERS
+115,48,115,"Hindu Higher Secondary School , Poongavanammal Building Room No.11 South Facing M.C.Road Ambur-635802","1 - Ambur (M), Ward-36 mel krishnapuram kollai,999 - OVERSEAS ELECTORS",ALL VOTERS
+116,48,116,"Hindu Higher Secondary School , Poongavanammal Building Room No.6 South Facing M.C.Road Ambur-635802","1 - Ambur (M), Ward-17 Samyar Madam 1 st Street,2 - Ambur (M), Ward-27 m.c.road 3 railway compound, 999 - Overseas Elector",ALL VOTERS
+117,48,117,"Hindu Higher Secondary School , Poongavammal Building North Facing 11th Std M.C.Road Ambur-6358022","1 - Ambur (M), Ward-27 Sriramapuram 2nd Cross,2 - Ambur (M), Ward-27 Sriramapuram 3rd Cross,3 - Ambur (M), Ward-27 Sriramapuram 4th Cross,4 - Ambur (M), Ward-27 Kattai medu 1st Street,5 - Ambur (M), Ward-27 Kattai medu 2nd Street,6 - Ambur (M), Ward-27 Kattaimedu 4th Street, 999 - Overseas Elector",ALL VOTERS
+118,48,118,"Hindu Higher Secondary School , Poongavammal Building South Facing M.C.Road Ambur-635802","1 - Ambur (M), Ward-36 Kamarajar Salai 5th Street,2 - Ambur (M), Ward-36 Kamarajar Salai 4th Street,3 - Ambur (M), Ward-27 M.C. Road Cross,4 - Ambur (M), Ward-27 Sriramapuram 1st Street 1st Cross,5 - Ambur (M), Ward-27 Asanampet Road Police Line, 999 - Overseas Elector",ALL VOTERS
+119,48,119,"Hindu Higher Secondary School , Room No.12 East Facing M.C.Road Ambur-
+635802","1 - Ambur (M), Ward-27 m.c.road , 2 - Ambur (M), Ward-27 Sanankuppam Trang Road Pethasthar , 3 - Ambur (M), Ward-27 M.C.Road New Mandil
+,999 - OVERSEAS ELECTORS",ALL VOTERS
+120,48,120,"Hindu Higher Secondary School , Room No.12 Main Building East Facing M.C.Road Ambur-635802","1 - Ambur (M), Ward-26 Ummar Road @ Asanampet Road , 2 - Ambur (M), Ward-26 Santhmiyan Kollai 1st Street , 3 - Ambur (M), Ward-26 Santhamiyan Kollai 2nd Street , 4 - Ambur (M), Ward-26 Ummar Road !st Cross , 5 - Ambur (M), Ward-26 Ummar Raod 2nd Cross,999 - OVERSEAS ELECTORS",ALL VOTERS
+121,48,121,"Hindu Higher Secondary School , Room No.5 Main Building South Facing M.C.Road Ambur-635802","1 - Ambur (M), Ward-26 Ummar Road 4th Cross , 2 - Ambur (M), Ward-26 Ummar Road 5th Cross , 3 - Ambur (M), Ward-26 Mohammed Pura 2nd Street , 4 - Ambur (M), Ward-26 Mohamad Pura Mosque 3rd Street , 5 - Ambur (M), Ward-26 Kulanthai Vettu Abdul Kareem Street,999 -
+OVERSEAS ELECTORS",ALL VOTERS
+122,48,122,"Municipal Elementary School , North Facing Building Room No.1 Umar Road Ambur-635802","1 - Ambur (M), Ward-35 Alangapuri Koil Street,2 - Ambur (M), Ward-35 Alagapuri Koil 1st Street,3 - Ambur (M), Ward-35 Alagapuri Koil 2nd Street,4 - Ambur (M), Ward-35 Alagapuri Koil 3rd Street,5 - Ambur (M), Ward-35 Alagapuri Koil  4th Street,6 - Ambur (M), Ward-35 Alagapuri Koil
+5th Street,999 - Overseas Elector",ALL VOTERS
+123,48,123,"Municipal Elementary School , West Building East Facing Umar Road Ambur-635802","1 - Ambur (M), Ward-35 sanankuppam street,2 - Ambur (M), Ward 35 Sanankuppam road 1st Street,3 - Ambur (M), Ward 35 Sanankuppam road 1st Street 1st Lane,4 - Ambur (M), Ward35 Sanankuppam road 1st Street
+2nd Lane,999 - Overseas Elector",ALL VOTERS
+124,48,124,"Municipal Elementary School , West Facing Room No.5 Umar Road Ambur-635802","1 - Ambur (M), Ward-35 balamaneri mohidin kollai street,2 - Ambur (M), Ward-35 Balamaneri Mohidin Kollai 1st Street,3 - Ambur (M), Ward-35 Balamanery Mohidin Kollai 2th Street,4 - Ambur (M), Ward-35 Balamanery Mohidin Kollai 3rd Street,5 - Ambur (M), Ward-35 Balamanery Mohidin Kollai 4th Street,6 - Ambur (M), Ward-35 Sathu Street, 999 - Overseas
+Elector",ALL VOTERS
+125,48,125,"Sudha Nursery School, North Facing West side Building, LKG Class Room. Umar Road, Ambur-635802","1 - Ambur (M), Ward-35 Sathu Street Lane,2 - Ambur (M), Ward-35 Pangarusamy Nagar,3 - Ambur (M), Ward-35 Kuntalamman Koil Street,4 - Ambur (M), Ward-35 Rajiv Gandhi Street,5 - Ambur (M), Ward 35 Indira Street,6 - Ambur (M), Ward-35 Thirisulam Street, 999 - Overseas Elector",ALL VOTERS
+126,48,126,"Sudha Nursery School, North Facing 2nd Std ‘A’ Class Room. Umar Road, Ambur-635802","1 - Ambur (M), Ward-19 Kamarajar Salai 1st Street,2 - Ambur (M), Ward-19 Kamarajar Salai 2nd STreet,3 - Ambur (M), Ward-19 Kamarajar Salai 3nd Street,4 - Ambur (M), Ward-19 Kamarajar Salai 6th Street, 999 -
+Overseas Elector",ALL VOTERS
+127,48,127,"Sudha Nursery School, West Facing, East Side Building, UKG ‘A’ Section, Umar Road,Ambur-635 802","1 - Ambur (M), Ward-19 Kaliyamman Koil Street,2 - Ambur (M), Ward-19 Kaliyamman Koil Street Cross,3 - Ambur (M), Ward-19 Gandhi Road,4 - Ambur (M), Ward-19 Gandhi Road 1st Cross,5 - Ambur (M), WArd-19 Gandhi Road 2nd Cross,6 - Ambur (M), Ward-19 Gandhi Road 3rd Cross,7
+- Ambur (M), Ward-19 Gandhi Road 4th Cross,999 - Overseas Elector",ALL VOTERS
+128,48,128,"Sudha Nursery School, West Facing East side Building, Umar Road, Ambur-635802","1 - Ambur (M), Ward-35 Bai-pass Road,2 - Ambur (M), Ward-19 sanankuppam road,3 - Ambur (M), Ward-19 Sanankuppam Road Cross,4 - Ambur (M), Ward-19 Charman Rajagopal Street,5 - Ambur (M), Ward-19 CHarman Rajagopal Street Cross,6 - Ambur (M), Ward-19 Krishnapuram
+New Street, 999 - Overseas Elector",ALL VOTERS
+129,48,129,"Municipal Elementary School , West Facing South side Pavadithoppu Ambur-635802","1 - Ambur (M), Ward-18 kenkaiyamman koil street , 2 - Ambur (M), Ward-18 Perumal Koil Street , 3 - Ambur (M), Ward-18 Perumal Koil  Street Cross , 4 - Ambur (M), Ward-18 Krishnapuram Arasamara School
+Street,999 - OVERSEAS ELECTORS",ALL VOTERS
+130,48,130,"Municipal Elementary School , West Facing Narth side Pavadithoppu Ambur-635802","1 - Ambur (M), Ward-18 Pavadi Thoupu Street 1 Cross , 2 - Ambur (M), Ward-18 Poonthottam Street , 3 - Ambur (M), Ward-18 Krishnapuram Vinayakar Koil Street , 4 - Ambur (M), Ward-18 Masi Street , 5 - Ambur (M), Ward-18 Masi Street Cross,999 - OVERSEAS ELECTORS",ALL VOTERS
+131,48,131,"Madaresa Deeniyath aided Primary School , North Facing Small mosque street Ambur-635802","1 - Ambur (M), Ward-15 nattamakar ajeemuthin street,2 - Ambur (M), Ward-15 Labbai Mohidin Street,3 - Ambur (M), Ward 15 Huskath shek hameeth Steer,4 - Ambur (M), Ward-15 Big Mosque Street,5 - Ambur (M), Ward-15 Nattamkar Saimansa Street,6 - Ambur (M), Ward-15 Big Moque Street,7 - Ambur (M), Ward15 Abdul Vahab Street,999 - Overseas Elector",ALL VOTERS
+132,48,132,"Madaresa Deeniyath aided Primary School , West Facing 2nd STD B Section Small Mosque street Ambur-635802","1 - Ambur (M), Ward-15 Appapillai Khathar Street,2 - Ambur (M), Ward -15 Appapillai Khathar 1st Street,3 - Ambur (M), Ward-15 Maligai Shek Meeran Street,4 - Ambur (M), Ward15 Maligai Kulam Mohithin Street,5 - Ambur (M), Ward-15 Attrangarai 2nd Street,999 - Overseas Elector",ALL VOTERS
+133,48,133,"Madaresa Deeniyath aided Primary School , South Facing Small Mosque
+street Ambur-635802","1 - Ambur (M), Ward-15 attrankarai 1st street, 999 - Overseas Elector",ALL VOTERS
+134,48,134,"Madaresa Deeniyath aided Primary School , East Facing Small Mosque street Ambur-635802","1 - Ambur (M), Ward-16Thuthippet Road @ Jalal Road,2 - Ambur (M), Ward-16 Varoor Mathar Street,3 - Ambur (M), Ward-16 Pangikhan Street,4
+- Ambur (M), Ward-16Pangikhan Streer 1 Cross,5 - Ambur (M), Ward-16Pangikhan Street 2nd Cross,6 - Ambur (M), Ward-16 Pangikhatharbasha Street,7 - Ambur (M), Ward-16 Pangi Khartherbasha Cross,8 - Ambur (M), Ward-16 Mangattan Shek Mohamad STreet,9 - Ambur (M), Ward Mangattan Shek Mohamad Street Cross,10 - Ambur (M), Ward-16 Nageshvaran Koil North Street,11 - Ambur (M), Ward-16 Mothi Ibrahim street, 999 - Overseas Elector",ALL VOTERS
+135,48,135,"Madarase Deeniyath Aided Primary School , North Facing Small Mosque
+street Ambur-635802","1 - Ambur (M), Ward-16 ethga road sunnambukalai, 999 - Overseas Elector",ALL VOTERS
+136,48,136,"Madarase Deeniyath Aided Primary School , East Facing 5th B Sec Small Mosque street Ambur-635802","1 - Ambur (M), Ward 16 Labbai Babamayan Street,2 - Ambur (M), Ward-16 Therkathi mohamad Street,3 - Ambur (M), Ward-16 Chinna Mosque Street
+¸,4 - Ambur (M), Ward-16 Chinna Mosque Street 1 Cross,5 - Ambur (M), Ward-16Chinna Mosque Street 2 Cross,6 - Ambur (M), Ward-16 Ethkha Road,7 - Ambur (M), Ward-16 Kanthpodi Ushman Street,8 - Ambur (M), WArd-16 D.Rahaman Street,9 - Ambur (M), Ward-16 Kottai Abdul Rahaman Street,10 - Ambur (M), Ward-16 Methaikara Abdul Kapoor Street, 999 - Overseas Elector",ALL VOTERS
+137,48,137,"Hindu Primary School , South Facing East Side Nageswaran Koil Veethi Ambur-635802","1 - Ambur (M), Ward 17 Kadi Abdul kabur Street,2 - Ambur (M), Ward-17Sarangal Abdul Khani Street,3 - Ambur (M), Ward-17 Nageshvaran Koil West Street,4 - Ambur (M), Ward-17 Nageshvaran Koil East Street,5 - Ambur (M), Ward-17 Palaiya Vaniyampadi Road,6 - Ambur (M), Ward-17ÈPalaiya VaniyamPadi Road 1 Cross,7 - Ambur (M), Ward-17 Palaiya Vaniyampadi Road 2nd Cross,999 - Overseas Elector",ALL VOTERS
+138,48,138,"Hindu Primary School , South Facing West Side Nageswaran Koil Veethi
+Ambur-635802","1 - Ambur (M), Ward-17 Kangarthakiya Street 1 Cross,2 - Ambur (M), Ward-17 Kangarthakiya Street 1 Cross,999 - Overseas Elector",ALL VOTERS
+139,48,139,"Hindu Primary School , South Facing East Side 3rd Std Nageswaran Koil Veethi Ambur-635802","1 - Ambur (M), Ward-17 kavankarai street,2 - Ambur (M), Ward-17 Orchala Alauthin Street,3 - Ambur (M), Ward-17§Ettikar Street,4 - Ambur (M),
+Ward-17 Ettikar Street Cross,5 - Ambur (M), Ward-17 Old Hospital Street,6
+- Ambur (M), WARd-17ÈOld Hospital Street Cross,7 - Ambur (M), Ward-17 Thoulala Street, 999 - Overseas Elector",ALL VOTERS
+140,48,140,"Concordia Higher Secondary School, South Facing East Side Middle Room Nethaji Road Ambur-635802","1 - Ambur (M), Ward 20nethaji road (prat bajar junction),2 - Ambur (M), Ward 20 Pattani Musayan STreet,3 - Ambur (M), Ward 20 Jinna Street,4 - Ambur (M), Ward 20 Old Postoffice Street,5 - Ambur (M), Ward 20 Mohamad Navas Street,6 - Ambur (M), Ward 20 KakaSanthamiyan
+Street,999 - Overseas Elector",ALL VOTERS
+141,48,141,"Concordia Higher Secondary School, West Facing East Side Room No 4 Nethaji Road Ambur-635802","1 - Ambur (M), Ward 20 Santhaipet Mosque Street,2 - Ambur (M), Ward 20 Sunnammukara Street,3 - Ambur (M), Ward 20 Sunnammbukara Street  1st Cross,4 - Ambur (M), Ward 20 Sunnambukara Street 2nd Cross,5 - Ambur(M), Ward 20 Sunambukara Street 3 rd sandu,6 - Ambur(M), Ward 20 Sunambukara Street 4th Sandu, 999 - Overseas Elector",ALL VOTERS
+142,48,142,"Concordia Higher Secondary School , West Facing 6th std. Room No.1 Nethaji Road Ambur-635802","1 - Ambur (M), Ward-24 nethaji road jinna street,2 - Ambur (M), Ward-24 Neelikkollai Mosque Street,3 - Ambur (M), Ward-24 Neelikolai Mosque Street Cross,4 - Ambur (M), Ward-24 Neelikollai Othavadai 1st Street,5 - Ambur (M), Ward-24 Neelikollai Othavadai 2nd Street, 999 - Overseas Elector",ALL VOTERS
+143,48,143,"Concordia Higher Secondary School , Right Block, South Side Room, East
+Facing Nethaji Road Ambur-635802","1 - Ambur (M), Ward 24 Pangipapan Kollai Street,2 - Ambur (M), Ward-24 Mohamad pura Mosque Apposite Street,999 - Overseas Elector",ALL VOTERS
+144,48,144,"Concordia Higher Secondary School , West Facing Room 2, Nethaji Road
+Ambur-635802","1 - Ambur (M), Ward-25 mohamad pura 1st street,2 - Ambur (M), Ward-25 Mohamad Pura 1st Street 1st Cross, 999 - Overseas Elector",ALL VOTERS
+145,48,145,"Concordia Higher Secondary School
+,Right Block, Near by Office Room, East Facing Nethaji Road Ambur-635802","1 - Ambur (M), Ward-25Mohamad Pura 1st Street 2nd Cross , 2 - Ambur (M), Ward-25 Mohamath Pura 1st Street 3rd Cross , 3 - Ambur (M), Ward 25 Mohamad pura mosque 1st STreet 4th Cross,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+146,48,146,"Mazharul Uloom College, AMES Building West Side Multipurpose Hall, North Facing Asanampet Road Reddithoppu,
+Ambur-635802","1 - Ambur (M), Ward-28 natarajapuram valluvar street , 2 - Ambur (M), Ward-28 Natarajapuram 2nd Street , 3 - Ambur (M), Ward-28 Natarajapuram Mariyamman Koil Street , 4 - Ambur (M), Ward-28
+Natarajapuram  Pillaiyar Koil Street,999 - OVERSEAS ELECTORS",ALL VOTERS
+147,48,147,"Mazharul Uloom College ,AMES Building Phy.EDN Room, North Facing Asanampet Road, Reddithoppu, Ambur-
+635802","1 - Ambur (M), Ward-28 Asanampet road kambi  kollai Damplace,999 - OVERSEAS ELECTORS",ALL VOTERS
+148,48,148,"Mazharul Uloom College ,AMES Building Language Hall, North Facing, Asanampet Road, Reddithoppu, Ambur-635802","1 - Ambur (M), Ward-28 Asanampet road kambi  kollai North,999 - OVERSEAS ELECTORS",ALL VOTERS
+149,48,149,"Mazharul Uloom College ,Smart Room No.G3-III BSc(CS)/III BCA West Facing Asanampet Road, Reddithoppu, Ambur-
+635802","1 - Ambur (M), Ward-29 asanampet pethlahem road,999 - OVERSEAS ELECTORS",ALL VOTERS
+150,48,150,"Mazharul Uloom College, North Facing, Room No.G2-III B.Com /III BBA, East Side, Asanampet Road, Reddithoppu,
+Ambur-635802","1 - Ambur (M), Ward-29 Asanampet Road  Pethlahem Jalal Road, 999 - Overseas Elector",ALL VOTERS
+151,48,151,"Mazharul Uloom B.Ed College North Facing South Building Asanampet Road,
+Reddithoppu, Ambur-635802","1 - Ambur (M), Ward-29 Asanampet Pethlahem 1 Street, 999 - Overseas Elector",ALL VOTERS
+152,48,152,"Mazharul Uloom College ,South Facing Ground Side Addl Building West Room Asanampet Road, Reddithoppu, Ambur-
+635802","1 - Ambur (M), Ward-29 asanampet road north street , 2 - Ambur (M), Ward-29 Asanampet Road North Street-2 , 3 - Ambur (M), Ward-29 Asanampet Road North Street-3,999 - OVERSEAS ELECTORS",ALL VOTERS
+153,48,153,"Mazhrul Uloom College, South Facing Ground Side Add Building Middile Room, Asanampet Road, Reddithoppu, Ambur-
+635 802","1 - Ambur (M), Ward-29 Asanampet Road North  Street-4 (House No. 1 to 17), 999 - OVERSEAS ELECTORS",ALL VOTERS
+154,48,154,"Mazhrul Uloom College, South Facing Ground Side Add Building East side Room, Asanampet Road, Reddithoppu,
+Ambur-635802","1 - Ambur (M), Ward-29 Asanampet Road North Street-4(House No. 18 to End), 999 - OVERSEAS ELECTORS",ALL VOTERS
+155,48,155,"Municipal Middle School, East Facing, West Building Northen Side,Asanambut Road, Reddithoppu, Bethalegum, Ambur-
+635 802","1 - Ambur (M), Ward-30 asanampet bethlahem 7th street,999 - Overseas Elector",ALL VOTERS
+156,48,156,"Municipal Middle School, New Building East Facing,Asanambut Road, Reddithoppu, Bethalegum, Ambur-635
+802","1 - Ambur (M), Ward-30 Asanampet Bethlahem 3rd Street,999 - Overseas Elector",ALL VOTERS
+157,48,157,"Municipal Middle School,South Facing Norh Building Asanampet Road Bethlegam, Reddithoppu, Ambur-635802","1 - Ambur (M), Ward-30 asanampet bethlahem 4th street",ALL VOTERS
+158,48,158,"Municipal Middle School,West Facing East Building Asanampet Road Bethlegam, Reddithoppu, Ambur-635802","1 - Ambur (M), Ward-30 Asanampet Bethlahem 6th Street,2 - Ambur (M), Ward-30 Asanampet Bethlahem 5th Street, 999 - Overseas Elector",ALL VOTERS
+159,48,159,"Mazharul Uloom College ,Main Building Officer road West Facing Research Center, Asanampet Road, Reddithoppu,
+Ambur-635802","1 - Ambur (M), Ward-31 asanampet bethlahem 8th street , 2 - Ambur (M), Ward-31 Asanampet Bethlahem 9th Street, 3 - Ambur (M), Ward-31 Asanampet Bethlahem 10th Street , 4 - Ambur (M), Ward-31 Michine
+Compound , ,999 - OVERSEAS ELECTORS",ALL VOTERS
+160,48,160,"Mazharul Uloom College ,G1-IIIrd B.Com North Facing Building Asanampet Road, Reddithoppu, Ambur-635802","1 - Ambur (M), Ward-31 Indira Nagar (kuttakarai AsanamPet) , 2 - Ambur (M), Ward-31 M.V.Samy Nagar (New),999 - OVERSEAS ELECTORS",ALL VOTERS
+161,48,161,"Jalaliya Govt Aided Primary School , South Facing IDE Building M.C.Road ,
+Ambur-635802","1 - Ambur (M), Ward-23 V.A.Kareem Road, 999 - Overseas Elector",ALL VOTERS
+162,48,162,"Jalaliya Govt Aided Primary School, North Facing M.C.Road Ambur-635802","1 - Ambur (M), Ward-23 Vanakara Kollai 1st Street,2 - Ambur (M), Ward-23 Vanakara Kollai 2nd Street, 999 - Overseas Elector",ALL VOTERS
+163,48,163,"Jalaliya Govt Aided Primary School , South Facing 4th STD A and B Section Middle Room IDE Building M C Road
+Ambur-635802","1 - Ambur (M), Ward-20 m.c road nethaji junction 1 784 232,2 - Ambur (M), Ward-23 Vanakara Kollai 3rd Street,3 - Ambur (M), Ward-23 Vanakkara Kollai 4th Street,4 - Ambur (M), Ward-23 Newmen Street, 999 - Overseas
+Elector",ALL VOTERS
+164,48,164,"Mazharul Uloom Higher Secondary School , Additional Building West Side, North Facing MC road Ambur-635802","1 - Ambur (M), Ward-11 m.c.road 4th (tamilnadu veedu vasathi),999 - OVERSEAS ELECTORS",ALL VOTERS
+165,48,165,"Mazharul Uloom Higher Secondary School , Additional Building East Side
+North Facing MC road Ambur-635802","1 - Ambur (M), Ward-11 m.c.road 4th (tamilnadu veedu vasathi),999 - OVERSEAS ELECTORS",ALL VOTERS
+166,48,166,"Mazharul Uloom Higher Secondary School , Main Building West Facing MC
+Road Ambur-635802","1 - Ambur (M), Ward-10 m.c.road 2nd street,2 - Ambur (M), Ward-10 M.C.Road 2nd (Annanagar), 999 - Overseas Elector",ALL VOTERS
+167,48,167,"Mazharul Uloom Higher Secondary School , Main Building North Facing First
+Room MC Road Ambur-635802","1 - Ambur (M), Ward-9 k.m.nagar 4th street anees nagar, 999 - Overseas Elector",ALL VOTERS
+168,48,168,"Mazharul Uloom Higher Secondary School , South Facing MC Road Ambur-635802","1 - Ambur (M), Ward-10 M.C.Road 2nd Salauthin nagar,2 - Ambur (M), Ward-10 m.c road samy nagar,3 - Ambur (M), Ward-10 M.C.Road (Ambethkar nagar),4 - Ambur (M), Ward-10 M.C.Road (Ambethkar nagar),
+999 - Overseas Elector",ALL VOTERS
+169,48,169,"Mazharul Uloom Higher Secondary School , Main Building West Facing MC
+Road Ambur-635802","1 - Ambur (M), Ward-9 K.M.Nagar 5th and 6th Street,999 - OVERSEAS ELECTORS",ALL VOTERS
+170,48,170,"Mazharul Uloom Higher Secondary School , Additional Building West Facing Room No.42 M.C.RoadAmbur-635802","1 - Ambur (M), Ward-9 Nathiseelapuram (House No.1 to 33A ,999 - OVERSEAS ELECTORS",ALL VOTERS
+171,48,171,"Mazharul Uloom Higher Secondary School , Additional Building West Facing Room No., 43, M.C.RoadAmbur-635802","1 - Ambur (M), Ward-9 Nathiseelapuram,(House No.34 to End), 999 - OVERSEAS ELECTORS",ALL VOTERS
+172,48,172,"Mazharul Uloom Higher Secondary School , Main Building IInd Room North Facing M.C.Road Ambur-635802","1 - Ambur (M), Ward 9 k.m.nagar 1st street (a) anees nagar Hosue No 0 to 46/51(S.No 1 to 798),999 - Overseas Elector",ALL VOTERS
+173,48,173,"Mazharul Uloom Higher Secondary
+School, Main Building, West Facing 10th-E, M.C.Road Ambur-635802","1 - Ambur (M), Ward 9 2st and 3st Street,2 - Ambur (M), Ward-9 K.M. Nagar 1st Street 1st Cross,999 - Overseas Elector",ALL VOTERS
+174,48,174,"Mazharul Uloom Higher Secondary
+School , West Facing Library Room M.C.Road Ambur-635802","1 - Ambur (M), Ward 9 k.m.nagar 1st street (a) anees nagar Hosue No 47
+to End(S.No 799 to End),2 - Ambur (M), Ward-9 K.M.Nagar 2st Street 2st Cross, 999 - Overseas Elector",ALL VOTERS
+175,48,175,"Municipal Middle School North Facing
+West Portion Pannerselvam Nagar Ambur -635802","1 - Ambur (M), Ward-8tharvali 1st street,2 - Ambur (M), Ward-8 Tharvali 2st Street,999 - Overseas Elector",ALL VOTERS
+176,48,176,"Municipal Middle School North Facing East Portion Pannerselvam Nagar Ambur
+-635802","1 - Ambur (M), Ward-8 Tharvali 3rd Street Hosue No 0 to 65C (S.No 1 to 816),999 - Overseas Elector",ALL VOTERS
+177,48,177,"Municipal Middle School North Facing East Portion Pannerselvam Nagar Ambur
+-635802","1 - Ambur (M), Ward-8 Tholshop Street,2 - Ambur (M), Ward-8 Tharvali  3rd Street Hosue No 817 to End (S.No 819 to End), 999 - Overseas Elector",ALL VOTERS
+178,48,178,"Municipal Middle School West Facing North Portion Pannerselvam Nagar
+Ambur -635802","1 - Ambur (M), Ward-8 Paneerselvam Nagar (House No.0 to 20-A)( S.No.1 to 662), 999 - Overseas Elector",ALL VOTERS
+179,48,179,"Municipal Middle School West Facing
+North Portion North side Pannerselvam Nagar Ambur -635802","1 - Ambur (M), Ward-8 Paneerselvam Nagar-1 (House No.21 to end)( S.No.663 to end), 999 - Overseas Elector",ALL VOTERS
+180,48,180,"Mazharul Uloom aided primary School , East Facing, 3rd B Sec, Kuchchikar Fakateer sahib Street Ambur-635802","1 - Ambur (M), Ward-3 Kunniyakup Street ,
+2 - Ambur (M), Ward-3 Vathimanai 1st Street ,
+3 - Ambur (M), Ward-3 Vathimanai 2st Street ,
+4 - Ambur (M), Ward-3 Vathimanai 3th Street ,
+5 - Ambur (M), Ward -3 Vathimanai 4th Street ,
+6 - Ambur (M), Ward-3 Vathimanai 5th Street ,
+7 - Ambur (M), Ward-3 Vathimanai 6th Street ,
+8 - Ambur (M), Ward-3 Vathimanai 7th Street ,
+9 - Ambur (M), Ward-3 Vathimanai 8th Street,
+10 - Ambur (M), Ward-3 Vathimanai 9th Street , 999 - OVERSEAS ELECTORS",ALL VOTERS
+181,48,181,"Mazharul Uloom aided primary School , East Facin, IV th - B Sec, Kuchchikar Fakateer sahib Street Ambur-635802","1 - Ambur (M), Ward-3 Vathimanai 10th Street , 2 - Ambur (M), Ward -3 Thasthakeer Street ,
+3 - Ambur (M), Ward 3 Kollathur Street , 4 - Ambur (M), Ward-3 Sanankuppam Meerthin Street , 5 - Ambur (M), Ward-3 Noorullapet Sahebkhan Street , 6 - Ambur (M), Ward-3 thouplan streer999 -
+OVERSEAS ELECTORS",ALL VOTERS
+182,48,182,"Mazharul Uloom aided primary School , East Facing, Vth- B Sec, Kuchchikar Fakateer sahib Street Ambur-635802","1 - Ambur (M), Ward-3 Konavattam Mohidin Street , 2 - Ambur (M), Ward 3 Pathira,palli Poorathin Street , 3 - Ambur (M), Ward-3 Ayyapillai Yakup Street , 4 - Ambur (M), Ward-3 Noorullapet Mosque Street , 999 -
+OVERSEAS ELECTORS",ALL VOTERS
+183,48,183,"Asnath-E-Jariya Girls Higher Secondary School , Audiotoriyam Building VI-E, South Side Room, Ground Floor East Facing Jalal Road Ambur-635802","1 - Ambur (M), Ward 2 Sikkanthar Thippu Nagar , 2 - Ambur (M), Ward 1 Babulla Makkan Street, 3 - Ambur (M), War 2 Jalalpet 2nd Street, (House No.1 to 8 999 - OVERSEAS ELECTORS",ALL VOTERS
+184,48,184,"Asnath-E-Jariya Girls Higher Secondary School , 10-F Class Room Audiotoriyam Buildding Middle Left Room B-Block East Facing Jalal Road Ambur-635802","1 - Ambur (M), War 2 Jalalpet 2nd Street (House no.9 to End), 999 - OVERSEAS ELECTORS",ALL VOTERS
+185,48,185,"Asnath-E-Jariya Girls Higher Secondary School , 10-D ClassRoom Audiotoriyam Buildding Middle Righ Room B -Block East Facing Jalal Road Ambur-635802","1 - Ambur (M), War 2 Judgemanai (House No.0 to 25/6)( S.No.1 to 708),999 - Overseas Elector",ALL VOTERS
+186,48,186,"Asnath E ariya Girls Higher Secondary School Old Building East FacingJalal
+Road Ambur-635802","1 - Ambur (M), War 2 Judgemanai -1 (House No.26 to end)( S.No.709 to end), 999 - Overseas Elector",ALL VOTERS
+187,48,187,"Asnath-E-Jariya Girls Higher Secondary School , Audiotoriyam Buildding North sie Room East Fasing VIII-F Jalal Road Ambur-635802","1 - Ambur m, Ward 2 Thuthipet Road  Jalal Road,2 - Ambur (M), Ward 2 Jalal Road 9th Street,3 - Ambur (M), Ward 2 Jalal Road 4th Street,4 - Ambur (M), Ward 2 Jalal Road 5th Street,5 - Ambur (M), Ward 2 Akamathiya Nagar 1st Street, 999 - Overseas Elector",ALL VOTERS
+188,48,188,"Asnath E Jariya Girls Higher Secondary School, East Fasing Old Building North Room Jalal Road Ambur-635802","1 - Ambur (M), Ward 2 Akamathiya Nagar 2nd Street,2 - Ambur (M), Ward
+2 Akamathiya Nagar 3rd Street,3 - Ambur (M), Ward 2 Jalal Road 1,2nd Street, 999 - Overseas Elector",ALL VOTERS
+189,48,189,"Asnath-E-Jariya Girls Higher Secondary School , Old Building South Side West facing Jalal Road Ambur-635802","1 - Ambur (M), Ward 2 Jalalpet 3 Street Akamathiya Nagar (House No.1 to 29-5)( S.No.1 to 757), 999 - Overseas Elector",ALL VOTERS
+190,48,190,"Asnath E-Jariya Girls Higher Secondary School, West facing Lab Building Jalal
+Road Ambur-635802","1 - Ambur (M), Ward 2 Jalalpet 3 Street Akamathiya Nagar-1 (House No.30 to end)( S.No.758 to end),2 - Ambur (M), Ward 2 Jalalpet 1st Street,
+999 - Overseas Elector",ALL VOTERS
+191,48,191,"Asnath-E-Jariya Girls Higher Secondary School , Old Building Middle Room, West Facing Jalal Road Ambur-635802","1 - Ambur (M), Ward 1 Jalal Road 2st Street , 2 - Ambur (M), Ward 1 Rathna Nagar,999 - OVERSEAS ELECTORS",ALL VOTERS
+192,48,192,"Asnath-E-Jariya Girls Higher Secondary School, Old Building North Side Room, West Facing Jalal Road, Ambur-635 802","1 - Ambur (M), Ward 1 Maligai Thoppu,999 - OVERSEAS ELECTORS",ALL VOTERS
+193,48,193,"Asnath-E-Jariya Girls Higher Secondary School, Facing West NMZ Block Jalal
+Road, Ambur-635 802","1 - Ambur (M), Ward 1 Maligai Thoppu,999 - OVERSEAS ELECTORS",ALL VOTERS
+194,48,194,"Asnath-E-Jariya Girls Higher Secondary School, Old Building East Facing Staff room Jalal Road Ambur-635802","1 - Ambur (M), Ward 1 Jalal Road 1st Street (a) Immam Nagar,999 - OVERSEAS ELECTORS",ALL VOTERS
+195,48,195,"Asnath-E-Jariya Girls Higher Secondary School , NMZ Safiyama Block South Facing Jalal Road Ambur-635802","1 - Ambur (M), Ward 2 Ajath Nagar,999 - Overseas Elector",ALL VOTERS
+196,48,196,"Asnath-E-Jariya Girls Higher Secondary School , MZBS Block, South Side Room East Facing Jalal road Ambur-635802","1 - Ambur (M), Ward 1Mottukollai West street,2 - Ambur (M), Ward 1 Mottukollai East street,3 - Ambur (M), Ward 1 Kuchikara Yakupkollai 1st Street,4 - Ambur (M), Ward 1 Kuchikara Yakup Kollai 2st Street,999 -
+Overseas Elector",ALL VOTERS
+197,48,197,"Asnath E-Jariya Girls Higher Secondary School, East Facing New Building Higher Secondary Block Jalal Road Ambur-
+635802","1 - Ambur (M), Ward 3 Jalal Road 3th Street,2 - Ambur (M), Ward 4 Jalal Road 6th Street,3 - Ambur (M), Ward 1, Thuthipattu Road (a) Jalal Road,4 - Ambur (M), Ward 1 Jalal Road 8th Rtreet,5 - Ambur (M), Ward 1Jalal
+Road 10th Street, 999 - Overseas Elector",ALL VOTERS
+198,48,198,"Adi Dravidar Welfare Girls Hostel, West Facing, Northern side, B-Kaspa, Ambur-
+635 802","1 - Ambur (M), Ward-12 kasba b (mainroad store street),999 - Overseas Elector",ALL VOTERS
+199,48,199,"Adi Dravidar Welfare Girls Hostel, South Side West Facing, B-Kaspa, Ambur-635
+802.","1 - Ambur (M), Ward-13 Annai Ramabai Street,2 - Ambur (M), Ward-12 Annai Vasugi Street,3 - Ambur (M), Ward-22 m.c.road poonthottam, 999 -
+Overseas Elector",ALL VOTERS
+200,48,200,"Adi Dravidar Welfare Girls Hostel, North Facing South Side, B-Kaspa, Ambur-635
+802.","1 - Ambur (M), Ward-12 Store Street,2 - Ambur (M), Ward-12 Pajanai Koil Street,3 - Ambur (M), Ward-12 Kumaresan Street, 999 - Overseas Elector",ALL VOTERS
+201,48,201,"Municipal Elementary School, West Side South Facing B-Kaspa, Ambur-635 802","1 - Ambur (M), Ward-22 Parnakara Street 4th Cross , 999 - OVERSEAS ELECTORS",ALL VOTERS
+202,48,202,"Municipal Elementary School, New Building, East Facing, North Side, B-
+Kaspa, Ambur-635 802","1 - Ambur (M), Ward22 Parnakara Street 5th 6th Cross,999 - OVERSEAS ELECTORS",ALL VOTERS
+203,48,203,"Municipal Elementary School ,South Facing West Side B-Kaspa Ambur-
+635802","1 - Ambur (M), Ward-22 Nattamkaa Saibansa Kollai 1st Street, 999 - Overseas Elector",ALL VOTERS
+204,48,204,"Municipal Elementary School , East Facing New Building B-Kaspa Ambur-
+635802","1 - Ambur (M), Ward-22 Nattamkara Saibansa Kollai 2nd Street, 999 - Overseas Elector",ALL VOTERS
+205,48,205,"Municipal Elementary School , New Building, East Facing, South Side, B-Kaspa Ambur-635802","1 - Ambur (M), Ward-22 Kasba B Mainroad Khatharpet Mosque , 2 - Ambur (M), Ward-22 Khatharpet Mosque Street , 3 - Ambur (M), Ward-22 Khatharpet Mosque 1 Cross,999 - OVERSEAS ELECTORS",ALL VOTERS
+206,48,206,"Municipal Elementary School , South facing B-Kaspa Ambur-635802","1 - Ambur (M), Ward-22 Khatharpet Mosque 2nd Cross,2 - Ambur (M), Ward-22 Khatharpet mosque Street 1st Cross,999 - Overseas Elector",ALL VOTERS
+207,48,207,"Municipal Elementary School , East facing New Building North Room B-
+Kaspa Ambur-635802","1 - Ambur (M), Ward-22 Khatharpet Mosque Street New 2nd Cross, 999 - Overseas Elector",ALL VOTERS
+208,48,208,"I.E.L.C. Primary School, East Facing
+Middle Room B-Kaspa Ambur-635802","1 - Ambur (M), Ward-13 kasba b mainroad (House No.0 to 25/9A)( S.No.1
+to 762 , 999 - OVERSEAS ELECTORS",ALL VOTERS
+209,48,209,"I E L C Primary School, East Facing Southside Room B Kaspa Ambur-635802","1 - Ambur (M), Ward-13 Periya Koil Street
+2 - Ambur (M), Ward-13 kasba b mainroad (House No.26 to end)( S.No.763 to end) ,999 - OVERSEAS ELECTORS",ALL VOTERS
+210,48,210,"I.E.L.C. Primary School, East Facing
+North side B-Kaspa Ambur-635802","1 - Ambur (M), Ward-13 Mukiyamman Koil Street,2 - Ambur (M), Ward-13
+Mukiyamman Koil Street, 999 - Overseas Elector",ALL VOTERS
+211,48,211,"I E.L.C. Primary School, West Facing B-Kaspa Ambur-635802","1 - Ambur (M), Ward13 NattamkaraPurathinkollai 1st Street,2 - Ambur (M),
+Ward 13Nattamkara Purathinkollai 2nd Street,3 - Ambur (M), Ward13 Nattamkara Purathin 3rd Street, 999 - Overseas Elector",ALL VOTERS
+212,48,212,"Government High School , New Building West Facing, North Side, A-Kaspa
+Ambur-635802","1 - Ambur (M), Ward-21 Parnakara 3nd Street,2 - Ambur (M), Ward21 Nattamkarar Mungil Mandi Street,999 - Overseas Elector",ALL VOTERS
+213,48,213,"Government High School, Old Building West Facing, A-Kaspa Ambur-635802","1 - Ambur (M), Ward-21 barnakara 1st street,2 - Ambur (M), Ward-21 Parnakara 2nd Street, 999 - Overseas Elector",ALL VOTERS
+214,48,214,"Government High School , Nabard Scheme Building,West Side, North
+Facing A-Kaspa Ambur-635802","1 - Ambur (M), Ward-21 Nasuruthin Kollai Street,2 - Ambur (M), Ward-21 Puliyankara Streeet, 999 - Overseas Elector",ALL VOTERS
+215,48,215,"Government High School , Nabard Scheme Building,Middle Room, North Facing A-Kaspa Ambur-635802","1 - Ambur (M), Ward-21 kanthapodi kanakkar street,2 - Ambur (M), Ward-21 Sarayakara Street,3 - Ambur (M), Ward-21Valaiyalkara Street,4 -  Ambur (M), Ward-21 Valaiyalkara Streer 1st Cross,5 - Ambur (M), Ward-21 Valaiyalkara Street 2nd Street,6 - Ambur (M), Ward-21 Sivan Pata Street,7
+- Ambur (M), Ward-21 Sivan Para Street Cross,999 - Overseas Elector",ALL VOTERS
+216,48,216,"Government High School , Nabard Scheme Building, East Side, North Facing A-Kaspa Ambur-635802","1 - Ambur (M), Ward-14 Thuthipattu road @ Jalal Road , 2 - Ambur (M), Ward-14 Savuk Mosque street , 3 - Ambur (M), Ward-14 Kuchikara pakkir Street , 4 - Ambur (M), Ward-14 Karumbur Street , 5 - Ambur (M), Ward-14 Jarap Pajar Street , 6 - Ambur (M), Ward-14 Malikai Kanthappa Street , 7 - Ambur (M), Ward-14 Sharap Velayutham Street , 8 - Ambur (M), Ward-14 Nallakama Street , 9 - Ambur (M), ward-14 Dev Street , 10 - Ambur (M), Ward-14¤Arasamara Street , 11 - Ambur (M), Ward-14 Durgam Mathar Streeet , 12 - Ambur (M), Ward-14 Virinchipuram Street , 13 - Ambur (M), Ward14 Krishnaiya Street,999 - OVERSEAS ELECTORS",ALL VOTERS
+217,48,217,"Government High School , 7th STD Additional Building South Facing A-Kaspa Ambur-635802","1 - Ambur (M), Ward-14 Krishnayya street  ,
+2 - Ambur (M), Ward-14 Kasi Street,
+3 - Ambur (M), Ward14 Eswaran Street ,
+4 - Ambur (M), Ward 14 Ganthapodi Kanakkar Street , 5 - Ambur (M), Ward-14 Kanthapodi Kanakkar Street Kadar Pet Lane , 6 - Ambur (M), Ward-14 Jangarachary Street , 999 - OVERSEAS ELECTORS",ALL VOTERS
+218,48,218,"Government High School , South Facing, West Side Room, A-Kaspa Ambur-
+635802","1 - Ambur (M), Ward 6 nesauokara street , 2 - Ambur (M), Ward-6 Nesauokara 2st Street,999 - OVERSEAS ELECTORS",ALL VOTERS
+219,48,219,"Government High School , New Building
+West Facing, South Side, A-Kaspa Ambur-635802","1 - Ambur (M), Ward-6 Nesauokara 3rd Street , 2 - Ambur (M), Ward 6
+Nesauokara Street , 3 - Ambur (M), Ward-6 Ambur Kollai,999 - OVERSEAS ELECTORS",ALL VOTERS
+220,48,220,"Municipal Primary School , East Facing Room No.3 A-Kaspa Ambur-635802","1 - Ambur (M), Ward-4 kaspa a main road,2 - Ambur (M), Ward-4 Kasba Appukhan Street,3 - Ambur (M), Ward-4 Kasba NewStreet,4 - Ambur (M), Ward-4 Kasba Pillayar Koil Street, 999 - Overseas Elector",ALL VOTERS
+221,48,221,"Municipal Primary School , Computer Lab, North Facing, West side Room, A-Kaspa Ambur-635802","1 - Ambur (M), Ward 4 Kaspa Ramu Street,2 - Ambur, Ward 4 Aytham Senniya Street,3 - Ambur(M), Ward 4 Karumariyamman Koil Street Kaspa A,4 - Ambur (M), Ward 4 Sudukadu Road ,5 - Ambur (M), Ward 4 Sivarajapuram (West Side, 999 - Overseas Elector",ALL VOTERS
+222,48,222,"Municipal Primary School , East Facing, New Building, A-Kaspa Ambur-635802","1 - Ambur (M), Ward-4 Angalaparameshwari amman Koil Street,2 - Ambur (M), Ward-4 Angalaparameshwari Amman Koil 1st Street,3 - Ambur (M), Ward-4 Angalaparameshwari Koil 2st Street,4 - Ambur, Ward 4 kaspa manthakari,5 - Ambur (M), Ward 4 Kaspa Maniyakara Street,6 - Ambur (M), Ward 4 Kaspa Maniyakara Street Sandu,7 - Ambur (M), Ward 4 Periya Kammavara Street,8 - Ambur(M), Ward 4 Periya Kammavara Street 1st Sandu,9 - Ambur (M), Ward 4 Periya Kammavara Street 2nd Sandu,10
+- Ambur (M), Ward 4 Periya Kammavara Street 3rd Street,11 - Ambur(M), WArd 4 Periya Kammavara Street 4th Sandu,12 - Ambur (M), Ward 4 Periya KAmmavara Street 5th Sandu,13 - Ambur(M), Ward 4 Periya KAmmavara Street 6th Sandu,14 - Ambur(M), Ward 4 Periya KAmmavara Street 7th Sandu, 999 - Overseas Elector",ALL VOTERS
+223,48,223,"Municipal Primary School , West Facing Building Room No.2 A-Kaspa Ambur-
+635802","1 - Ambur (M), Ward-5 pasvesvarappa koil street , 2 - Ambur (M), Ward-5 Chinnakammara Street,999 - OVERSEAS ELECTORS",ALL VOTERS
+224,48,224,"Municipal Primary School , West Facing Building Room No.2 A-Kaspa Ambur-635802","1 - Ambur (M), Ward-5 Kasba Street , 2 - Ambur (M), Ward-5 Duraisamy raja 1st Street , 3 - Ambur (M), Ward-5 Duraisamy raja 2st Street , 4 - Ambur (M), Ward-5 Kasba Kavarai Street , 5 - Ambur (M), War-5 Ellaiyamman Koil 1st Street,999 - OVERSEAS ELECTORS",ALL VOTERS
+225,48,225,"Municipal Middle School, New Building East Facing North Side Room
+Govindapuram Ambur-635802","1 - Ambur (M), Ward-7 m.c. road (anaikar oliyaltal) , 2 - Ambur (M), Ward-7 Govindapuram , 3 - Ambur (M), Ward-7 Kengapuram,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+226,48,226,"Municipal Middle School, New Building East Facing East side Room
+Govindapuram Ambur-635802","1 - Ambur (M), Ward-7 m.c. road (anaikar oliyaltal) , 2 - Ambur (M), Ward-7 Govindapuram , 3 - Ambur (M), Ward-7 Kengapuram,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+227,48,227,"Municipal Middle School , East Facing Building Govindapuram M.C Road Ambur-
+635802","1 - Ambur (M), Ward-7 kanniga puram , 2 - Ambur (M), Ward 7 Ambur Kollai (Chinnakammara st, backsaide),999 - OVERSEAS ELECTORS",ALL VOTERS
+228,48,228,"Panchayat Union Middle School , East Facing VadaPudupattu-635 812","1 - Vadapudupattu (R.V) And (P), Ward 1, First street , 2 - Vadapudupattu (R.V) And (P), Ward 1, Pillaiyar Kovil Street, 3 - Vadapudupattu (R.V) And (P), Ward 1, Kannatru Street , 4 - Vadapudupattu (R.V) And (P), Ward 2, Puthiya Street , 5 - Vadapudupattu (R.V) And (P), Ward 2, Pazhaya Adidravidar Colony , 6 - Vadapudupattu (R.V) And (P), Ward 2, Oni Street , 999 - OVERSEAS ELECTORS",ALL VOTERS
+229,48,229,"Panchayat Union Elementary School , South Facing west wing Pachakuppam-635 812","1 - Vadapudupattu (R.V) And (P), Ward 2, Aramba Pada Salai Street , 2 - Vadapudupattu (R.V) And (P), Ward 2, Pajanai Kovil Street , 3 - Vadapudupattu (R.V) And (P), Ward 2, Mariamman Kovil Street , 4 - Vadapudupattu (R.V) And (P), Ward 2, M.C. Road,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+230,48,230,"Panchayat Union Elementary School, South Facing East wing Pachakuppam-635 812","1 - Vadapudupattu (R.V) And (P), Ward 2 Mayiladummalai Adivaram , 2 - Vadapudupattu (R.V) And (P), Ward 2, Pachakuppam Colony , 3 - Vadapudupattu (R.V) And (P), Ward 2, Thayapuram,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+231,48,231,"Panchayat Union Middle School , North Facing Vadapudhupattu-635 812","1 - Vadapudupattu (R.V) And (P), Ward 2 M.C. Road , 2 - Vadapudupattu (R.V) And (P), Ward 2, Raja Nagar , 3 - Vadapudupattu (R.V) And (P), Ward 2, Chinnathai Nagar , 4 - Vadapudupattu (R.V) And (P), Ward 2, Kakkanasi Kollai , 5 - Vadapudupattu (R.V) And (P), Ward 3, Kolla Kottai , 6 - Vadapudupattu (R.V) And (P), Ward 3, New Colony , 7 - Vadapudupattu (R.V) And (P), Ward 3, Barmaline , 8 - Vadapudupattu (R.V) And (P), Ward 3, Sugar Mill Quarters,999 - OVERSEAS ELECTORS",ALL VOTERS
+232,48,232,"Panchayat Union Middle School , East Facing Kilmurungai-635 812","1 - Kilmurungai (R.V) And (P), Ward 1, Yadhavar Street , 2 - Kilmurungai (R.V) And (P), Ward 1, Arasamara Street , 3 - Kilmurungai (R.V) And (P), Ward 4, Pillaiyar koil street , 4 - Kilmurungai (R.V) And (P), Ward 4, Kamarajapuram,999 - OVERSEAS ELECTORS",ALL VOTERS
+233,48,233,"Panchayat Union Middle School , North Facing Kilmurungai-635 812","1 - Kilmurungai (R.V) And (P), Ward 5, Kakanasikollai , 2 - Kilmurungai (R.V) And (P), Ward 5, Gnanamalai adivaram , 3 - Kilmurungai (R.V) And (P), Ward 5, Sugar mill quarters , 4 - Kilmurungai (R.V) And (P), M.C Road Kollai kottai,999 - OVERSEAS ELECTORS",ALL VOTERS
+234,48,234,"Panchayat Union Middle School , West Facing North side Kilmurungai-635 812","1 - Kilmurungai (R.V) And (P), Ward 2, New Street , 2 - Kilmurungai (R.V) And (P), Ward 2, Nadar Street , 3 - Kilmurungai (R.V) And (P), Ward 2, Veppamara  Street , 4 - Kilmurungai (R.V) And (P), Ward 3 Old Colony,999
+- OVERSEAS ELECTORS",ALL VOTERS
+235,48,235,"Panchayat Union Middle School , West Facing South Side Kilmurungai-635 812","1 - Kilmurungai (R.V) And (P), Ward 3 Old Colony , 2 - Kilmurungai (R.V) And (P), Ward 3, Arundhathiyar Colony , 3 - Kilmurungai (R.V) And (P), Ward 3, Ambedkar  Colony , 4 - Kilmurungai (R.V) And (P), Ward 3, Senthamarai Nagar , 5 - Kilmurungai (R.V) And (P), Ward 3, Lakshmi Nagar , 6 - Kilmurungai (R.V) And (P), Ward 3, Railway Gate Onni Street , 7 - Kilmurungai (R.V) And (P), Ward 2, Veppamara  Street,999 -
+OVERSEAS ELECTORS",ALL VOTERS
+236,48,236,"Panchayat Union Middle School , West Facing North Side Vengili-635 812","1 - Vengili (R.V) And (P), Ward 1 Bhiraminar Street , 2 - Vengili (R.V) And (P), Ward 1, Pajanaikovil Street , 3 - Vengili (R.V) And (P), Ward 1, Mupper Street , 4 - Vengili (R.V) And (P), Ward 2, Pillaiyar Kovil Street , 5 - Vengili (R.V) And (P), Ward 2, Kamaraj Nagar,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+237,48,237,"Panchayat Union Middle School , West Facing South Side Vengili-635 812","1 - Vengili (R.V) And (P), Ward 2, Thipsa Nagar , 2 - Vengili (R.V) And (P), Ward 2, Kil Colony , 3 - Vengili (R.V) And (P), Ward 2, Mel Colony,999 -
+OVERSEAS ELECTORS",ALL VOTERS
+238,48,238,"Panchayat Union Elementary School , North Faceing Building Jameen-635 812","1 - Kulithigai (R.V) And (P), Ward 1, Jamine , 2 - Kulithigai (R.V) And (P), Ward 2, Kil Colony , 3 - Kulithigai (R.V) And (P), Ward 2, Mel Colony , 4 - Kulithigai (R.V) And (P), Ward  3, Kulithigai,999 - OVERSEAS ELECTORS",ALL VOTERS
+239,48,239,"Panchayat Union Praimary School, South Facing West Building Thottalam-635 812","1 - Thottalam (R.V) And (P), Ward 1, Udaiapalayam (House No.0 to 553)( S.No.378 to 1092), 999 - Overseas Elector",ALL VOTERS
+240,48,240,"Panchayat Union Praimary School, West Facing New Building Thottalam-635 812","1 - Thottalam (R.V) And (P), Ward 1, Thottalam, 2 - Thottalam (R.V) And (P), Ward 1, Udaiapalayam (House No.554 to End)( S.No.1093 to End),
+999 - Overseas Elector",ALL VOTERS
+241,48,241,"Panchayat Union Primary School, South Facing East Building Thottalam-635 812","1 - Thottalam (R.V) And (P), Ward 2, Kolla Puram , 2 - Thottalam (R.V) And (P), Ward 2, Periya Thottalam,999 - OVERSEAS ELECTORS",ALL VOTERS
+242,48,242,"Panchayat Union Primary School , East Faceing Building Devigapuram-635 812","1 - Thottalam (R.V) And (P), Ward 3, Pennagar , 2 - Thottalam (R.V) And (P), Ward 4, Devigapuram,999 - OVERSEAS ELECTORS",ALL VOTERS
+243,48,243,"Government Higher Secondary School ,
+West Facing East Building Madhanur-635 812","1 - Madanur (R.V) And (P), Ward 1, Madhanur , 2 - Madanur (R.V) And (P), Ward 1, Kaligapuram,999 - OVERSEAS ELECTORS",ALL VOTERS
+244,48,244,"Government Higher Secondary School , North Facing South Building Madhanur-
+635 812","1 - Madanur (R.V) And (P), Ward 1, Athoracolony,2 - Madanur (R.V) And (P), Ward 2, M.C. Colony,3 - Madanur (R.V) And (P), Ward 3, Mel
+Nondikuppam, 999 - Overseas Elector",ALL VOTERS
+245,48,245,"Government Higher Secondary School , South Facing 7A Class Madhanur-635
+812","1 - Madanur (R.V) And (P), Ward 4, Bharathi Nagar,2 - Madanur (R.V) And (P), Ward 4, Subha Nagar,3 - Madanur (R.V) And (P), Ward 5, M.C. Road,
+999 - Overseas Elector",ALL VOTERS
+246,48,246,"Government Higher Secondary School , East Facing 10-C Class Madhanur-635
+812","1 - Madanur (R.V) And (P), Ward 4, Madhanur,2 - Madanur (R.V) And (P), Ward 5, Muthumariamman Kovil Street, 999 - Overseas Elector",ALL VOTERS
+247,48,247,"Panchayat Union Middle School , South Facing West Building Vadakathipatti-635 804","1 - Kuthampakkam (R.V) And (P), Ward 1, Kuthampakkam , 2 - Kuthampakkam (R.V) And (P), Ward 2, North Kathipet , 3 - Kuthampakkam (R.V) And (P), Ward 3, Sithapuram,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+248,48,248,"Panchayat Union Middle School , East Facing West Building Vadakathipatti-635
+804","1 - Kuthampakkam (R.V) And (P), Ward 4, Adidravidar Colony , 2 - Kuthampakkam (R.V) And (P), Ward 5, Palandipatti,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+249,48,249,"Panchayat Union Elementary School , South Facing , North Building 2nd std. Agaramcheri-635 804","1 - Agaramcheri (R.V) And (P), Ward 1, Muslim street,2 - Agaramcheri (R.V) And (P), Ward 1, Nayakkar Street,3 - Agaramcheri (R.V) And (P), Ward 1, Kadai Street,4 - Agaramcheri (R.V) And (P), Ward 2, Pillaiyar Kovil Street,5 - Agaramcheri (R.V) And (P), Ward 2, Vanniyar Street,6 - Agaramcheri (R.V) And (P), Ward 2, Perumal Kovil Street,7 - Agaramcheri (R.V) And (P), Ward 2, Savadi Street",ALL VOTERS
+250,48,250,"Panchayat Union Elementary School , North Facing Add Building Chinnacheri-635 804","1 - Agaramcheri (R.V) Chinnachari (P), Ward 1, Pajanai kovil street,2 - Agramcheri (R.V) Chinnacheri (P), Ward 1, Vannar Street,3 - Agramcheri (R.V) Chinnacheri (P), Ward 1 Vathiyar Street, 999 - Overseas Elector",ALL VOTERS
+251,48,251,"Panchayat Union Elementary School , North Facing East Room Chinnacheri-635 804","1 - Agramcheri (R.V) Chinnacheri (P), Ward 2 Pilliyar Koil Street,2 - Agramcheri (R.V) Chinnacheri (P), Ward 2 Sanar Street,3 - Agramcheri (R.V) Chinnacheri (P), Ward 3 Arundadiyar Street,4 - Agramcheri (R.V) Chinnacheri (P), Ward 3, Kovilkara Street,5 - Agramcheri (R.V) Chinnacheri (P), Ward 3 Athuora colony, 999 - Overseas Elector",ALL VOTERS
+252,48,252,"Government High School , North Facing Room No.2 Agaramcheri-635 804","1 - Agaramcheri (R.V) And (P), Ward 4, Vinayaga puram , 2 - Agaramcheri (R.V) And (P), Ward 4, Paikara Street , 3 - Agaramcheri (R.V) And (P), Ward 4, S.N. Palayam , 4 - Agaramcheri (R.V) And (P), Ward 4, Kalapudhur , 5 - Agaramcheri (R.V) And (P), Ward 4, Gandhi Nagar , 6 - Agaramcheri (R.V) And (P), Ward 4, Anna Nagar,999 - OVERSEAS ELECTORS",ALL VOTERS
+253,48,253,"Government High School , North Facing West Wing Room No.3 Agaramcheri-635
+804","1 - Agaramcheri (R.V) And (P), Ward 3, East Street,2 - Agaramcheri (R.V) And (P), Ward 3, West Colony, 999 - Overseas Elector",ALL VOTERS
+254,48,254,"Government High School , East Facing Room No.9 Agaramcheri-635 804","1 - Agaramcheri (R.V) And (P), Ward 3, Church street,2 - Agaramcheri (R.V) And (P), Ward 3, Thenpura Colony, 999 - Overseas Elector",ALL VOTERS
+255,48,255,"Government High School , South Facing East Side 9th STD Gollamangalam-635 809","1 - Gola mangalam (R.V) And (P), Ward 1, Kollamangalam , 2 - Gola mangalam (R.V) And (P), Ward 1 Mandhiri Street , 3 - Gola mangalam (R.V) And (P), Ward 1, Poyar Street , 4 - Gola mangalam (R.V) And (P),
+Ward 1, Dharmapuri,999 - OVERSEAS ELECTORS",ALL VOTERS
+256,48,256,"Government High School South Facing West side 10 STD, Gollamangalam 635
+809","1 - Gola mangalam (R.V) And (P), Ward 1, Ayagowndarpet , 2 - Gola mangalam (R.V) And (P), Ward 3, Adidravidar Colony,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+257,48,257,"Panchayat Union Elementary School , South Facing Middle Room SSA Building Pallikuppam-635 809","1 - Pallikuppam (R.V) And (P), Ward 2, Varadha palayam , 2 - Pallikuppam (R.V) And (P), Ward 2, Mullipalayam , 3 - Pallikuppam (R.V) And (P), Ward 2, Pumalaipuram,999 - OVERSEAS ELECTORS",ALL VOTERS
+258,48,258,"Panchayat Union Praimary School , West Facing Pallikuppam-635 809","1 - Pallikuppam (R.V) And (P), Ward 1, Kil street , 2 - Pallikuppam (R.V) And (P), Ward 1, Mel Street , 3 - Pallikuppam (R.V) And (P), Ward 3, Sellakuttipet , 4 - Pallikuppam (R.V) And (P), Ward 3, Buddar Nagar,999 -
+OVERSEAS ELECTORS",ALL VOTERS
+259,48,259,"Panchayat Union Praimary School ,
+North Facing Palur-635 804","1 - Pallur (R.V) And (P), Ward 2, Pallur,2 - Pallur (R.V) And (P), Ward 2,
+Rajapalayam, 999 - Overseas Elector",ALL VOTERS
+260,48,260,"Panchayat Union Praimary School , North Facing 3rd Std Palur-635 804","1 - Pallur (R.V) And (P), Ward 2, Rangapuram,2 - Pallur (R.V) And (P), Ward 2, R.patti,3 - Pallur (R.V) And (P), Ward 2, Pattuvampatti,4 - Pallur (R.V) And (P), Ward 3, Konamalai, 999 - Overseas Elector",ALL VOTERS
+261,48,261,"Madras Diosease Aided Elementary
+School , East Facing Palur-635 804","1 - Pallur (R.V) And (P), Ward 1, Pallur,999 - OVERSEAS ELECTORS",ALL VOTERS
+262,48,262,"Panchayat Union Elementary School , West Facing Pudur Palur-635 804","1 - Pallur (p), Ward-4, kilpudhur , 2 - Pallur (P), Ward-4, Pudhur , 3 - Pallur (P), Ward-4, Saminathapuram , 4 - Pallur (P), ward-4, Kuravar Colony,999 -
+OVERSEAS ELECTORS",ALL VOTERS
+263,48,263,"Panchayat Union Middle School , South Facing Thirumalaikuppam-635 804","1 - Thirumalai kuppam (R.V) And (P), Ward 1, Thirumalaikuppam , 2 - Thirumalai Kuppam (R.V) And (P), Ward 2, Adi dravidar Colony , 3 - Thirumalai Kuppam (R.V) And (P), Ward 2, Gowripuram,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+264,48,264,"Panchayat Union Elementry School , South Facing, West Side Room, Agraharam-635804","1 - Agraharam (R.V) And (P), Ward 1, Agraharam , 2 - Agraharam (R.V) And (P), Ward 1,Thammal Mandiri Thoppu , 3 - Agraharam (R.V) And (P), Ward 2, Valayal Karapatti , 4 - Agraharam (R.V) And (P), Ward 2, Jaibeem Nagar , 5 - Agraharam (R.V) And (P), Ward 2,Ambethkar Nagar , 6 - Agraharam (R.V) And (P), Ward 3, alayalkarapatti,7 - Agraharam (R.V) And (P), Ward 3,Pethappanpatti , 8 - Agraharam (R.V) And (P), Ward 3,Duraisamy Naidu Patti , 999 - OVERSEAS ELECTORS",ALL VOTERS
+265,48,265,"Panchayat Union Elementry School ,
+West Facing Tholapalli-635804","1 - Thollappalli (R.V) And (P), Ward 1, Thollappalli,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+266,48,266,"Panchayat Union Elementry School , West Facing North side Tholapalli-635804","1 - Thollappalli (R.V) And (P), Ward 2, Kadalaikulam , 2 - Thollappalli (R.V) And (P), Ward 2, Kamarajapuram,999 - OVERSEAS ELECTORS",ALL VOTERS
+267,48,267,"Government High School , New Building West Facing North Side Room Agaram-
+635804","1 - Agaram (R.V) And (P), Ward 4, Marattipalayam,999 - OVERSEAS ELECTORS",ALL VOTERS
+268,48,268,"Government High School , New Building
+West Facing Middle Room Agaram-635804","1 - Agaram (R.V) And (P), Ward 4, Ellappanpatti,2 - Agaram (R.V) And (P), Ward 4, A Pudhur, 999 - Overseas Elector",ALL VOTERS
+269,48,269,"Government High School , Norh Facing ,
+Agaram-635804","1 - Agaram (R.V) And (P), Ward 3,Agaram Eda Street,2 - Agaram (R.V)
+And (P), Ward 3, ChinnaThollappalli, 999 - Overseas Elector",ALL VOTERS
+270,48,270,"Government High School, New Building West Facing South side Room Agaram-635804","1 - Agaram (R.V) And (P), Ward 4, Subetharpettai,2 - Agaram (R.V) And (P), Ward 4, Subbunaidupalayam,3 - Agaram (R.V) And (P), Ward 3, Bodipettai,4 - Agaram (R.V) And (P), Ward 3, Akararajapalayam, 999 -
+Overseas Elector",ALL VOTERS
+271,48,271,"Panchayat Union Elementry School ,
+South Facing West Building Agaram-635804","1 - Agaram (R.V) And (P), Ward 1, Agaram, 999 - Overseas Elector",ALL VOTERS
+272,48,272,"Panchayat Union Elementry School , North Facing East side Agaram-635804","1 - Agaram (R.V) And (P), Ward 1, Agaram Colony-1 (House No.0 to71-4)( S.No.1 to 757),999 - Overseas Elector",ALL VOTERS
+273,48,273,"Panchayat Union Elementry School , South Facing West side Building Agaram-
+635804","1 - Agaram (R.V) And (P), Ward 1, Agaram Colony-2 (House No.72 to
+end)( S.No.758 to end),2 - Agaram (R.V) And (P), Ward 1, Agaram Colony, 999 - Overseas Elector",ALL VOTERS
+274,48,274,"Panchayat Union Elementary School , West Facing Middle Room.
+Guruvarajapalayam-632107","1 - Guruvarajapalayam (R.V) And (P), Ward 1, Guvarajapalam Raja Street.
+, 2 - Guruvarajapalayam (R.V) And (P), Ward 1, Guruvaraja Palayam, School Street ,3 - Guruvarajapalayam (R.V) And (P), Ward 1 Vellore Main Road , 4 - Guruvarrajapalayam (R.V) And (P), Ward 2, AArJathi colony , 5 - Guruvarrajapalayam (R.V) And (P), Ward 3, AArJathi Village,999 - OVERSEAS ELECTORS",ALL VOTERS
+275,48,275,"Panchayat Union Elementary School , West Facing East Building South Side Room Guruvarajapalayam-632107","1 - Guruvarajapalayam (R.V) And (P), Ward 3, AArJathi West Street , 2 - Guruvarajapalayam (R.V) And (P), Ward 3, AArjathi Krishna Street , 3 - Guruvarajapalayam (R.V) And (P), Ward 3, AArJathi NorthKollaimedu , 4 - Guruvarajapalayam (R.V) And (P), Ward 4, Balapadi Village , 5 - Guruvarajapalayam (R.V) And (P), Ward 4, Balappadi Village Adithiravedar Colony , 6 - Guruvarajapalayam (R.V) And (P), Ward 4, Balappadi Village South Kolaimedu , 7 - Guruvarajapalayam (R.V) And (P), Ward 4, Balappadi Kattu Kolai Road , 8 - Guruvarajapalayam (R.V) And (P), Ward 4, Balappadi West  Kolaimedu,999 - OVERSEAS ELECTORS",ALL VOTERS
+276,48,276,"Panchayat Union Elementary School, North Facing South Building Guruvarajapalayam-632107","1 - Guruvarajapalayam (R.V) Aarjathi, Palapadi (P), Ward 2, latchiganpalayam , 2 - Guruvarajapalayam (R.V) Aarjathi, Palapadi (P), Ward 2, Adidhiravidar Colony , 3 - Guruvarajapalayam (R.V) Aarjathi, Palapadi (P), Ward 2, Arundhadiyar Colony,999 - OVERSEAS ELECTORS",ALL VOTERS
+277,48,277,"Adidravidar Welfare Middle School , North Facing Veppankuppam-632107","1 - Veppankuppam (R.V) And (P), Ward 1, Naidu Street , 2 - Veppankuppam (R.V) And (P), Ward 1, Iyyar Street , 3 - Veppankuppam (R.V) And (P), Ward 1,Gengaiyamman Street , 4 - Veppankuppam (R.V) And (P), Ward 1,Tharka Street , 5 - Veppankuppam (R.V) And (P), Ward 1, Boyar Street,999 - OVERSEAS ELECTORS",ALL VOTERS
+278,48,278,"Adidravidar Welfare Middle School, South Facing East Building Veppankuppam-632107","1 - Veppankuppam (R.V) And (P), Ward 1, Bus Road , 2 - Veppankuppam (R.V) And (P), Ward 1,Rangappan Kottai , 3 - Veppankuppam (R.V) And (P), Ward 1, Anandapuram , 4 - Veppankuppam (R.V) And (P), Ward 3, Old Colony , 5 - Veppankuppam (R.V) And (P), Ward 3, Vinayagapuram,999 - OVERSEAS ELECTORS",ALL VOTERS
+279,48,279,"Panchayat Union Elementary School , North Facing South side Building Kuppampattu (North)-632107","1 - Kuppampattu (R.V) And (P), Ward 1, Kuppampattu , 2 - Kuppampattu (R.V) And (P), Ward 1, Mandhaveli Street , 3 - Kuppampattu (R.V) And (P), Ward 1, RiceMill Street. , 4 - Kuppampattu (R.V) And (P), Ward 1, School Street. , 5 - Kuppampattu (R.V) And (P), Ward 1, Iyyar Street, , 6 - Kuppampattu (P), Ward 1, PajanaiKovil Street,,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+280,48,280,"Panchayat Union Elementary School , South side West Building North Facing Kuppampattu (South)-632107","1 - Kuppampattu (R.V) And (P), Ward 2  Pillaiyar Kovil Street. , 2 - Kuppampattu (R.V) And (P), Ward 2, Adidhiravidar Colony , 3 - Kuppampattu (R.V) And (P), Ward 2, Arundhadiyar Colony, , 4 - Kuppampattu (R.V) And (P), Ward 2, Nethaji Nagar. , 5 - Kuppampattu (R.V) And (P), Ward 2, Indhiranagar,999 - OVERSEAS ELECTORS",ALL VOTERS
+281,48,281,"Panchayat Union Elementary School , West Facing East Building Nedumipalayam-632107","1 - Ramanayeni Kuppam (R.V)  Nedumipalayam (P), Ward 1, Ramanayeni Kuppam , 2 - Ramanayeni Kuppam (R.V)  Nedumipalayam (P), Ward 1, Kolaimedu , 3 - Ramanayeni Kuppam (R.V)  Nedumipalayam (P), Ward 2 Adhidiravedar Colony , 4 - Ramanayeni Kuppam (R.V)  Nedumipalayam (P), Ward 3, Arundhadiyar Colony , 5 - Ramanayeni Kuppam (R.V) Nedumipalayam (P), Ward 4, Nedumi Palayam , 6 - Ramanayeni Kuppam (R.V)  Nedumipalayam (P), Ward 4, Nagaraj Kottai,999 - OVERSEAS ELECTORS",ALL VOTERS
+282,48,282,"Government Higher Secondary School , South Facing West Building Chinnapallikuppam 632 107","1 - Kuppam palayam (R.V) And (P), Ward 1, Silur Kottai , 2 - Kuppam palayam (R.V) And (P), Ward 1, Dhatchan Kottai , 3 - Kuppam palayam (R.V) And (P), Ward 1, Kuppaiyan Kottai , 4 - Kuppampalayam  (R.V) And (P), Ward 1, Arundhadhiyar Colony , 5 - Kuppampalayam  (R.V) And (P), Ward 1, Kuppam Palayam , 6 - Kuppampalayam  (R.V) And (P), Ward 1, Maya Bazzar , 7 - Kuppampalayam  (R.V) And (P), Ward 1, Thirumalai Nagar,999 - OVERSEAS ELECTORS",ALL VOTERS
+283,48,283,"Government Higher Secondary School , North Facing Chinnapallikuppam-632107","1 - Arimalai (R.V) And (P), Ward 1, Arimalai , 2 - Arimalai (R.V) And (P), Ward 1, Arundhadhiyar Colony,999 - OVERSEAS ELECTORS",ALL VOTERS
+284,48,284,"Government Higher Secondary School , South Facing North Building
+Chinnapallikuppam-632107","1 - Arimalai (R.V) And (P), Ward 3, Kolla Kottai 3 , 2 - Arimalai (R.V) And (P), Ward 3, Siluvar Kottai 4,999 - OVERSEAS ELECTORS",ALL VOTERS
+285,48,285,"Panchayat Union Elementary School , South Facing Building Chinnapallikuppam-632107","1 - Chinnapallikuppam  (R.V) And (P), Ward 1, Raja Street,2 - Chinnapallikuppam  (R.V) And (P), Ward 1, Karnam Street,3 - Chinnapallikuppam  (R.V) And (P), Ward 1, Por Street,4 - ChinnapalliKuppam (R.V) And (P), Ward 1, Nadu Street,5 - ChinnapalliKuppam (R.V) And (P), Ward 1, Navidhar Street,6 - ChinnapalliKuppam (R.V) And (P), Ward 1, Naidu Street,7 - ChinnapalliKuppam (R.V) And (P), Ward 1 Nadu Street, 999 - Overseas
+Elector",ALL VOTERS
+286,48,286,"Panchayat Union Elementary School , New Building West Facing Chinnapallikuppam-632107","1 - ChinnapalliKuppam (R.V) And (P), Ward 1, Bus Road,2 - ChinnapalliKuppam (R.V) And (P), Ward 1, Bus Road,3 - ChinnapalliKuppam (R.V) And (P), Ward 2, Adithiravidar  Colony,4 - ChinnapalliKuppam (R.V) And (P), Ward 3, Road Street,5 - ChinnapalliKuppam (R.V) And (P), Ward 3, Mel Colony,6 - ChinnapalliKuppam (R.V) And (P), Ward 3, Road Street,7 - ChinnapalliKuppam (R.V) And (P), Ward 3, Kovil  Street, 999 - Overseas Elector",ALL VOTERS
+287,48,287,"Government High School, West Facing Building Room No.4 Naduvur
+Nayakkaneri-635802","1 - Nayakaneri (R.V) And (P), Ward 2, Nayakaney,2 - Nayakaneri (R.V) And (P), Ward 1 Nayakanery village-1 (House No.336 to end)( S.No.1001
+to end) 999 - Overseas Elector",ALL VOTERS
+288,48,288,"Panchayat Union Elementary School, West Facing Building Sikkajonai
+Nayakkaneri-635802","1 - Nayakaneri (R.V) And (P), Ward 2 Sikkajonai,999 - Overseas Elector",ALL VOTERS
+289,48,289,"Government High School , West Facing Room No.5 Naduvur Nayakkaneri-635802","1 - Nayakaneri (R.V) And (P), Ward 1 Nayakanery village (House No.0 to 335)( S.No.1 to 1000), 999 - Overseas Elector",ALL VOTERS
+290,48,290,"Panchayat Union Primary School , North
+Facing Panankateri-635802","1 - Nayakaneri (R.V) And (P), Ward 3 Panakkatery,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+291,48,291,"Panchayat Union Primary School , North
+Facing Kamanurthattu-635802","1 - Nayakaneri (R.V) And (P), Ward 4 Kamanur thattu,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+292,48,292,"Panchayat Union Elementary School, West Facing Pakkam-632107","1 - Pakkampalayam (R.V) Pakkam (P), Ward 1, Gurumpar Street , 2 - Pakkampalayam (R.V) Pakkam (P), Ward 1, Nadu Street , 3 - Pakkampalayam (R.V) Pakkam (P), Ward 1  Pajanaikovil Street , 4 - Pakkampalayam (R.V) Pakkam (P), Ward 1, Kollaii Medu , 5 - Pakkampalayam (R.V) Pakkam (P), Ward 2, Arundhadhiyar Mandaveli Street , 6 - Pakkampalayam (R.V) Pakkam (P), Ward 2, Pakkampalayam Bus Road , 7 - Pakkampalayam (R.V) Pakkam (P), Ward 2,
+Gangaiyamman Kovil Street,999 - OVERSEAS ELECTORS",ALL VOTERS
+293,48,293,"Panchayat Union Elementary School, West Facing South Side Pakkam-632107","1 - Pakkampalayam (R.V) Pakkam (P), Ward 2, Adidhiravedar Colony , 2 - Pakkampalayam (R.V) Pakkam (P), Ward 2, Otteri , 3 - Pakkampalayam (R.V) Pakkam (P), Ward 3, Pakkam Mel Street , 4 - Pakkampalayam (R.V) Pakkam (P), Ward 3, Pakkam Nadu Street , 5 - Pakkampalayam (R.V) Pakkam (P), Ward 3, Pakkam Bus Road , 6 - Pakkampalayam (R.V) Pakkam (P), Ward 3, Irullar Colony,999 - OVERSEAS ELECTORS",ALL VOTERS
+294,48,294,"Panchayat Union Elementary School , North facing Melpallipattu-632107","1 - Melpallipattu (R.V) Thenpudupattu (P), Ward 2, Kolaimedu,2 - Melpallipattu (R.V) Thenpudupattu (P), Ward 2 Alamaradhu Kottai,3 - Melpallipattu (R.V) Thenpudupattu (P), Ward 3, Then Pudupattu,4 - Melpallipattu (R.V) Thenpudupattu (P), Ward 3, Then Pudhur Bus Road North,5 - Melpallipattu (R.V) Thenpudupattu (P), Ward 3, Then Pudhur,6 - Melpallipattu (R.V) Thenpudupattu (P), WArd 3, Then Pudhur Bus Road South,7 - Melpallipattu (R.V) Thenpudupattu (P), WArd 3, Then Pudhur
+Bus Road South, 999 - Overseas Elector",ALL VOTERS
+295,48,295,"Panchayat Union Elementary School , North facing New Building Melpallipattu-632107","1 - Melpallipattu (R.V) And (P), Ward 1, Pandidhar Street,2 - Melpallipattu (R.V) And (P), Ward 1, Udayar Street,3 - Melpallipattu (R.V) And (P), Ward 1, Chinnapattai Street,4 - Melpallipattu (R.V) And (P), Ward 1, Raja  Street,5 - Melpallipattu (R.V) And (P), Ward 1, Ganghaiamman Koil  Street,6 - Melpallipattu (R.V) And (P), Ward 1 Kumar Street,7 -  Melpallipattu (R.V) And (P), Ward 1, Muslium Street,8 - Melpallipattu (R.V) And (P), Ward 1, Janda Street,9 - Melpallipattu (R.V) And (P), Ward 1, Bus Root Cross Street,10 - Melpallipattu (R.V) And (P), Ward 1, Vannar Street,11 - Melpallipattu (R.V) And (P), Ward 1, Bus Root 2nd Cross Street,12 - Melpallipattu (R.V) And (P), Ward 1, Ramappan Kovil Street,13 - Melpallipattu (R.V) And (P), Ward 1, Kollai Medu,14 - Melpallipattu (R.V) And (P), Ward 1, Vannar Street 2, 999 - Overseas Elector",ALL VOTERS
+296,48,296,"Panchayat Union Elementary School , South facing Melpallipattu-632107","1 - Melpallipattu (R.V) Thenpudupattu (P), Ward 2, Arundhadhiyar  Colony Mel Street,2 - Melpallipattu (R.V) Thenpudupattu (P), Ward 2, Arundhadhiyar Colony Lane 1,3 - Melpallipattu (R.V) Thenpudupattu (P), Ward 2, Arundhadhiyar Colony Santhu 2,4 - Melpallipattu (R.V) Thenpudupattu (P), Ward 2, Arundhadhiyar Colony Nadu Street,5 - Melpallipattu (R.V) Thenpudupattu (P), Ward 2, Arundhadhiyar Colony Sandu 3,6 - Melpallipattu (R.V) Thenpudupattu (P), Ward 2, Arundhadhiyar Colony Sandhu,7 - Melpallipattu (R.V) Thenpudupattu (P), Ward 2, Arundhadhiyar Colony Kil Street,8 - Melpallipattu (R.V) And (P), Ward 1, Mel Street,9 - Melpallipattu (R.V) And (P), Ward 1, Bus Road",ALL VOTERS
+297,48,297,"Government High School , East Facing Room No.20 Asanampattu-632107","1 - Aasanampattu (R.V) And (P), Ward 1, Raja street , 2 - Aasanampattu (R.V) And (P), Ward 1, Nadar Street , 3 - Aasanampattu (R.V) And (P), Ward 1, Guruman Colony , 4 - Aasanampattu (R.V) And (P), Ward 1, Main Road,999 - OVERSEAS ELECTORS",ALL VOTERS
+298,48,298,"Government High School , West Facing Kambarkoodam Room No.12.
+Asanampattu-632107","1 - Aasanampattu (R.V) And (P), Ward 1, Kuravar Street , 2 - Aasanampattu (R.V) And (P), Ward 2, Jang Kumar Street , 3 - Aasanampattu (R.V) And (P), Ward 3 ,Nadu Street,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+299,48,299,"Government High School , South Facing North Side Building Asanampattu 632107","1 - Aasanampattu (R.V) And (P), Ward 4, Adhidiravidar Colony , 2 - Aasanampattu (R.V) And (P), Ward 4, Arundhadhiyar Colony , 3 - Aasanampattu (R.V) And (P), Ward 4, Puthumani Colny,999 - OVERSEAS
+ELECTORS",ALL VOTERS
+300,48,300,"Government High School , North Facing Asanampattu 632107","1 - Asanampattu (R.V) Kalla Parai (P), Ward 5, Kalla Parai , 2 -
+Aasanampattu (R.V) Kallaparai (P), Ward 5, Kuravan Kottai,999 - OVERSEAS ELECTORS",ALL VOTERS

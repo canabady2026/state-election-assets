@@ -1,0 +1,720 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+1,186,1,"PANCHAYAT UNION PRIMARY SCHOOL KATTANIPATTI, NORTH SIDE TILED BUILDING","1.Kattanipatti (p) R V) Kattanipatti eastside , 2.Kattanipatti (p) (R V) Kattanipatti westside , 3.Kattanipatti (p) (R V) Kattanipatti south , 4.Kattanipatti (p) (R V) Kattanipatti North , 99.OVERSEAS ELECTORS",All Voters
+2,186,2,"GOVERNMENT HIGH SCHOOL, KATTANIPATTI, EAST   BUILDING","1.Kattanipatti (p) (R V) Periyakottaipatti , 2.Kattanipatti (p) (R V) Naduvipatti Keelapatti , 3.Kattanipatti (p) (R V) Pongundupatti , 99.OVERSEAS ELECTORS",All Voters
+3,186,3,"GOVERNMENT HIGHER SECONDARY SCHOOL ALAGAMANAGARI, WEST PORTION","1.Alagamanagari (p) (R V) Alagamanagari , 2.Alagamanagari (p) (R V) Alagunachiyarpuram , 99.OVERSEAS ELECTORS",All Voters
+4,186,4,"GOVERNMENT HIGHER SECONDARY SCHOOL ALAGAMANAGARI, EAST PORTION","1.Alagamanagari (p) (R V) Kadamuthanpatti ,
+2.Alagamanagari (p) (R V) Usilampattai , 99.OVERSEAS ELECTORS",All Voters
+5,186,5,"PANCHAYAT UNION PRIMARY SCHOOL, KALLARATHINIPATTI","1.Tirumalai Koneripatti (U) Kallarathinipatti (R V) Kallarathinipatti Northside ,
+2.Tirumalai Koneripatti (U) Kallarathinipatti (R V) Kallarathinipatti Southside ,
+3.Tirumalai Koneripatti (U) Kallarathinipatti (R V) Natthupatti , 99.OVERSEAS ELECTORS",All Voters
+6,186,6,"PANCHAYAT UNION MIDDLE SCHOOL, TIRUMALAI, EAST FACING","1.Thirumalai Konarippatti (u) (R V) Thirumalai Konarippatti ,
+99.OVERSEAS ELECTORS",All Voters
+7,186,7,"PANCHAYAT UNION PRIMARY SCHOOL, SETHU NAGAR, SOUTH FACING ROOM","1.Thirumalai konarippatti (u) (R V) Sethu Nagar Poikalipatti Puthuvalavu , 99.OVERSEAS ELECTORS",All Voters
+8,186,8,"PANCHAYAT UNION MIDDLE SCHOOL, NAMANOOR,  EAST BUILDING","1.Namanoor (P) (R V) Namanoor ,
+2.Namanoor (P) (R V) Karuthampatti ,
+3.Namanoor (P) (R V) Lakshipuram Perumalpatti , 99.OVERSEAS ELECTORS",All Voters
+9,186,9,"PANCHAYAT UNION MIDDLE SCHOOL,NAMANOOR, WEST BUILDING","1.Namanoor (P) (R V) Namanoor ,
+2.Namanoor (P) (R V) Karuthanpatti ,
+3.Namanoor (P) (R V) Lakshipuram Perumalpatti , 99.OVERSEAS ELECTORS",All Voters
+10,186,10,"NARAYANAN CHETTIAR PRIMARY SCHOOL, ALAVAKOTTAI, SOUTH WING","1.Alavaakottai (P) (R V) Alavakottai ,
+2.Alavaakottai (P) (R V) Muthupatti , 99.OVERSEAS ELECTORS",All Voters
+11,186,11,"GOVERNMENT HIGHER SECONDARY SCHOOL, ALAVAKOTTAI, TWO CLASS BUILDING, EAST WING","1.Alavaakottai (P) (R V) Melaammachipatti ,
+2.Alavaakottai (P) (R V) Naduammachipatti , 3.Alavaakottai (P) (R V) Kilaamachipatti , 99.OVERSEAS ELECTORS",All Voters
+12,186,12,"NARAYANAN CHETTIAR PRIMARY SCHOOL, ALAVAKOTTAI, NORTH WING","1.Alavaakottai (P) (R V) Alavakottai , 2.Alavaakottai (P) (R V) Mala Ammachipatti , 3.Alavaakottai (P) (R V) Nadu Ammachipatti , 4.Alavaakottai (P) (R V) Muthupatti , 5.Alavaakottai (P) (R V) Adaikala Annainagar , 99.OVERSEAS ELECTORS",All Voters
+13,186,13,"SRI KARPAGAMATHA MIDDLE SCHOOL, MATHAGUPATTI, SOUTH BUILDING EAST PORTION","1.Madagupatti (P) (R V) Chockalingapuram , 99.OVERSEAS ELECTORS",All Voters
+14,186,14,"SRI KARPAGAMATHA MIDDLE SCHOOL, MATHAGUPATTI, SOUTH BUILDING WEST PORTION","1.Madagupatti (P) (R V) Melatheru , 2.Madagupatti (P) (R V) Keelatheru , 3.Madagupatti (P) (R V) Periyarnagar , 99.OVERSEAS ELECTORS",All Voters
+15,186,15,"PANCHAYAT UNION PRIMARY SCHOOL, KEELAVALAVU, MADHAGUPATTI, SOUTH SIDE NORTH FACING MAIN BUILDING","1.Madagupatti (P) (R V) Melatheru 2.Madagupatti (P) (R V) Salugapuram , 99.OVERSEAS ELECTORS",All Voters
+16,186,16,"PANCHAYAT UNION PRIMARY SCHOOL, KEELAVALAVU, MADHAGUPATTI, EAST FACING WEST SIDE BUILDING","1.Madagupatti (P) (R V) Keelatheru , 99.OVERSEAS ELECTORS",All Voters
+17,186,17,"SRI KARPAGAMATHA MIDDLE SCHOOL, MATHAGUPATTI    ,SOUTH WING","1.Madagupatti (P) (R V) Uuthupatti , 2.Madagupatti (P) (R V) Utchampulipatti , 3.Madagupatti (P) (R V) Thachanpudhupatti , 99.OVERSEAS ELECTORS",All Voters
+18,186,18,"PANCHAYAT UNION PRIMARY SCHOOL, SINGINIPATTI    ,SOUTH WING","1.Perungudi (P) (R V) Singinipatti , 2.Perungudi (P) (R V) Perungudi , 99.OVERSEAS ELECTORS",All Voters
+19,186,19,"PANCHAYAT UNION PRIMARY SCHOOL, SINGINIPATTI, WEST FACING EAST BUILDING","1.Perungudi (P) (R V) Namasupatti , 2.Perungudi (P) (R V) Sakthi nagar , 3.Perungudi (P) (R V) Rajiv  nagar , 4.Perungudi (P) (R V) M.G.R.Nagar , 99.OVERSEAS ELECTORS",All Voters
+20,186,20,"SOMA SUNDARAM CHETTIAR HSC SCHOOL, OKKUR    ,WEST WING","1.O.Pudur (P) (R V) Kulakattaipatti , 99.OVERSEAS ELECTORS",All Voters
+21,186,21,"PANCHAYAT UNION  MIDDLE SCHOOL,  ANNANAGAR -  A,  WEST MIDDLE","1.O.Pudur (P) (R V) Annanagar - C, 2.O.Pudur (P) (R V) Annanagar - B, 99.OVERSEAS ELECTORS",All Voters
+22,186,22,"PANCHAYAT UNION  MIDDLE SCHOOL,  ANNANAGAR -  A,  EAST FACING WEST BUILDING","1.O.Pudur (P) (R.V) Annanagar - A, 99.OVERSEAS ELECTORS",All Voters
+23,186,23,"SOMA SUNDARAM CHETTIAR HSC SCHOOL, OKKUR      ,NORTH WING","1.Okkur (P) (R V) Okkur, Chettiar Street, Teacher colony   , 99.OVERSEAS ELECTORS",All Voters
+24,186,24,"PANCHAYAT UNION PRIMARY SCHOOL, O PUTHUR    ,NORTH WING","1.O.Pudur (P) (R V) O.Pudur, Teacher colony , 99.OVERSEAS ELECTORS",All Voters
+25,186,25,"SOMA SUNDARAM CHETTIYAR PRIMARY SCHOOL, OKKUR    ,EAST WING","1.Okkur (P) (R V) Okkur,SC Kudiyiruppu, Valaiyar Kudiyiruppu, Northeast Side ,
+99.OVERSEAS ELECTORS",All Voters
+26,186,26,"SOMA SUNDARAM CHETTIYAR PRIMARY SCHOOL, OKKUR    ,WEST WING","1.Okkur (P) (R V) Okkur,SC Kudiyiruppu, Valaiyar Kudiyiruppu, Southwest Side ,
+99.OVERSEAS ELECTORS",All Voters
+27,186,27,"SOMA SUNDARAM CHETYTIAR HSC SCHOOL, OKKUR      ,WEST WING SOUTH SIDE","1.O.Pudur (P) (R V) Karungapatti , 99.OVERSEAS ELECTORS",All Voters
+28,186,28,"PANCHAYAT UNION MIDDLE SCHOOL, PIRAVALOOR","1.Piravalur  (P) Okkur (R V) Piravalur , 99.OVERSEAS ELECTORS",All Voters
+29,186,29,"PANCHAYAT UNION PRIMARY SCHOOL, KEELAPONGUDI      ,MAIN BUILDING BLOCK 2 SOUTH SIDE","1.Keelapongudi (P) (R V) Tirumalai Road , 2.Keelapongudi (P) (R V) Mela theru (North) , 3.Keelapongudi (P) (R V) Nadaar theru , 4.Keelapongudi (P) (R V) Sivankoil Agragaram , 5.Keelapongudi (P) (R V) Nagarathar Street , 6.Keelapongudi (P) (R V) Yadavar theru , 7.Keelapongudi (P) (R V) Weekly market  Veethi , 99.OVERSEAS ELECTORS",All Voters
+30,186,30,"PANCHAYAT UNION PRIMARY SCHOOL, KEELAPONGUDI    ,NEW BUILDING","1.Keelapongudi (P) (R V) Keelatheru ,
+2.Keelapongudi (P) (R V) Milagaisamy Koil Street (East) , 3.Keelapongudi (P) (R V) Hosphital Road , 4.Keelapongudi (P) (R V) Indira Nagar ,
+5.Keelapongudi (P) (R V) Milagaisamy Koil street (North) , 6.Keelapongudi (P) (R V) Mariamman Koil Street , 7.Keelapongudi (P) (R V) Mela theru Middle part  , 8.Keelapongudi (P) (R V) Ambedkar Street , 99.OVERSEAS ELECTORS",All Voters
+31,186,31,"GOVERNMENT MODEL HIGHER SECONDARY SCHOOL, KEELAPOONGUDI, WEST FACING EAST BUILDING","1.Keelapongudi (P) (R V) Milagaisamy Koil Street (East) , 2.Keelapongudi (P) (R V) Hosphital Road , 3.Keelapongudi (P) (R V) Indira Nagar ,
+4.Keelapongudi (P) (R V) Milagaisamy Koil street (North) , 5.Keelapongudi (P) (R V) Mariamman Koil Street , 6.Keelapongudi (P) (R V) Mela theru Middle part  , 7.Keelapongudi (P) (R V) Ambedkar Street , 99.OVERSEAS ELECTORS",All Voters
+32,186,32,"GOVT HSC SCHOOL, KEELAPONGUDI  SOUTH BUILDING WEST WING    ,NEW EAST BUILDING, SOUTHSIDE,WEST ROOM NO.1","1.Keelapongudi (P) (R V) Nedutheru , 2.Keelapongudi (P) (R V) Melatheru(south) , 3.Keelapongudi (P) (R V) Anjaneyar koil street , 4.Keelapongudi (P) (R V) Kadaiveethi , 5.Keelapongudi (P) (R V) Veerapatti , 99.OVERSEAS ELECTORS",All Voters
+33,186,33,"GOVT HSC SCHOOL, KEELAPONGUDI  SOUTH BUILDING EAST WING    ,NEW EAST BUILDING, SOUTHSIDE,WEST ROOM NO.1","1.Keelapongudi (P) (R V) Paranipatti , 2.Keelapongudi (P) (R V) Kurunthampatti , 3.Keelapongudi (P) (R V) sembaliyanpattinam , 99.OVERSEAS ELECTORS",All Voters
+34,186,34,"PANCHAYAT UNION MIDDLE SCHOOL, MELAPONGUDI      ,NORTH BUILDING","1.Melapoongudi (P) (R V) Melapoongudi , 99.OVERSEAS ELECTORS",All Voters
+35,186,35,"PANCHAYAT UNION MIDDLE SCHOOL, MELAPONGUDI      ,SOUTH BUILDING","1.Melapoongudi (P) (R V) Valayarathinipatti , 99.OVERSEAS ELECTORS",All Voters
+36,186,36,"PANCHAYAT UNION MIDDLE SCHOOL, MELAPONGUDI    ,SOUTH BUILDING","1.Melapoongudi (P) (R V) Thirumunpatti , 2.Melapoongudi (P) (R V) Villipatti , 3.Melapoongudi (P) (R V) Alanganpatti , 99.OVERSEAS ELECTORS",All Voters
+37,186,37,"PANCHAYAT UNION PRIMARY SCHOOL, ALAGICHIPATTI
+,ADDITIONAL 2 ROOM BUILDING (EASTROOM)","1.Alagkitchipatti (P) (R V) Alagakitchipatti , 2.Alagkitchipatti (P) (R V) Mettupatti , 99.OVERSEAS ELECTORS",All Voters
+38,186,38,"PANCHAYAT UNION PRIMARY SCHOOL, ALAGICHIPATTI    ,EAST TILED BUILDING WEST FACING","1.Alagkitchipatti (P) R V) Sinaipatti , 2.Alagkitchipatti (P) (R V) Devankottai , 99.OVERSEAS ELECTORS",All Voters
+39,186,39,"PANCHAYAT UNION PRIMARY SCHOOL, MALAMPATTI    ,WEST BUILDING, WESTWING","1.Malampatti (P) (R V) Malampatti East  , 99.OVERSEAS ELECTORS",All Voters
+40,186,40,"PANCHAYAT UNION PRIMARY SCHOOL, MALAMPATTI    ,SOUTH FACING EAST BUILDING","1.Malampatti (P) (RV)   Malampatti West , 99.OVERSEAS ELECTORS",All Voters
+41,186,41,"PANCHAYAT UNION PRIMARY SCHOOL, KANNIMARPATTI,    , WEST BUILDING EASTWING","1.Malampatti (P) (R V) Kannimarpatti , 99.OVERSEAS ELECTORS",All Voters
+42,186,42,"PANCHAYAT UNION MIDDLE SCHOOL, OKKUPPATTI","1.Okkupatti (P) Malampatti (R V) Okkuppati , 2.Okkupatti (P) Malampatti (R V) Pirayanendalpatti , 99.OVERSEAS ELECTORS",All Voters
+43,186,43,"PANCHAYAT UNION MIDDLE SCHOOL, OKKUPPATTI(SSA)","1.Okkupatti (P) Malampatti (R V) Nallandipatti , 2.Okkupatti (P) Malampatti (R V) Manickampatti , 3.Okkupatti (P) Malampatti (R V) Valayar pudhupatti , 4.Okkupatti (P) Malampatti (R V) Devanperumalpatti , 99.OVERSEAS ELECTORS",All Voters
+44,186,44,"PANCHAYAT UNIONMIDDLE SCHOOL, THAMARAKKINORTH
+,MAIN BUILDING NORTH WING","1.Thamarakki North (P) (R V) Thamarakki North , 99.OVERSEAS ELECTORS",All Voters
+45,186,45,"PANCHAYAT UNIONMIDDLE SCHOOL, THAMARAKKINORTH
+,MAIN BUILDING SOUTH WING","1.Thamarakki North South (P) Thamarakki North , 99.OVERSEAS ELECTORS",All Voters
+46,186,46,"PANCHAYAT UNION PRIMARY SCHOOL, THAMARAKKI  SOUTH
+,ADDITIONAL 2 ROOM BUILDING NORTHWING","1.Thamarakki North (P) (R V) Thamarakki South ,  2.Thamarakki North (P) (R V) Thamarakki South Burma colony , 99.OVERSEAS ELECTORS",All Voters
+47,186,47,"PANCHAYAT UNION PRIMARY SCHOOL, THAMARAKKI  SOUTH
+,ADDITIONAL 2 ROOM BUILDING SOUTH WING","1.Thamarakki North South (P) Thamarakki South ,  2.Thamarakki North South (P) Thamarakki South Burma colony , 99.OVERSEAS ELECTORS",All Voters
+48,186,48,"PANCHAYAT UNION PRIMARY SCHOOL, KANDANKIPATTI    ,EAST BUILDING","1.Kandankipatti (P) (R V) Kandankipatti , 99.OVERSEAS ELECTORS",All Voters
+49,186,49,"PANCHAYAT UNION PRIMARY SCHOOL, KANDANKIPATTI    ,OLD TILED BUILDING,  NORTH FACING","1.Kandankipatti (P) (R V) vaagulathupatti , 2.Kandankipatti (P) Kootturavupatti (R.V) Usilampattai , 3.Kandankipatti (P) Kootturavupatti (R.V) Muniyandipatti , 99.OVERSEAS ELECTORS",All Voters
+50,186,50,"PANCHAYAT UNION MIDDLE SCHOOL, KUTTURAVUPATTI    ,WEST BUILDING","1.Kandankipatti (P) Kooturavupatti (R.V) Kooturavupatti , 99.OVERSEAS ELECTORS",All Voters
+51,186,51,"PANCHAYAT UNION MIDDLE SCHOOL, KUTTURAVUPATTI,
+,SOUTH BUILDING","1.Kandankipatti (P) Kootturavupatti (R.V) Usilampatti Muniyandipatti
+,
+99.OVERSEAS ELECTORS",All Voters
+52,186,52,"ANGANWADI  CENTER, SIVALPATTI","1.Kandankipatti (P) (R V) saanipatti , 2.Kandankipatti (P) (R V) sivalpatti , 3.Kandankipatti (P) (R V) sivalpatti , 99.OVERSEAS ELECTORS",All Voters
+53,186,53,PANCHAYAT UNION PRIMARY SCHOOL MELACHALUR EAST BUILDING WEST FACING,"1.Salur (P) (R V) Melasalur , 99.OVERSEAS ELECTORS",All Voters
+54,186,54,"PANCHAYAT UNION PRIMARY SCHOOL, MELACHALUR, SOUTH BUILDING NORTH FACING","1.Salur (P) (R V) Velani (North) south colony , 99.OVERSEAS ELECTORS",All Voters
+55,186,55,"PANCHAYAT UNION PRIMARY SCHOOL, MELACHALUR
+,ADDITIONAL TWO CLASS BUILDING EAST WING","1.Salur (P) (R V) Pappakudi , 99.OVERSEAS ELECTORS",All Voters
+56,186,56,"PANCHAYAT UNION PRIMARY SCHOOL KEELASALOOR    ,NEW BUILDING WEST WING","1.Salur (P) (R V) Keelasalur Colony , 99.OVERSEAS ELECTORS",All Voters
+57,186,57,"PANCHAYAT UNION PRIMARY SCHOOL KEELASALOOR    ,NEW BUILDING EAST WING","1.Salur (P) (R V) Siluvinipatti ,
+2.Salur (P) (R V) Kallikumpal , 99.OVERSEAS ELECTORS",All Voters
+58,186,58,"PANCHAYAT UNION MIDDLE SCHOOL, NALUKOTTAI","1.Nalukottai (P) (R V) Tirunarayanapuram , 2.Nalukottai (P) (R V) Indira nagar colony , 3.Nalukottai (P) (R V) Maravar theru , 4.Nalukottai (P) (R V) Keelatheru , 99.OVERSEAS ELECTORS",All Voters
+59,186,59,"PANCHAYAT UNION MIDDLE SCHOOL, NALUKOTTAI    ,NEW TWO CLASS BUILDING","1.Nalukottai (P) (R V) Naduvalavu , 2.Nalukottai (P) (R V) Melatheru , 3.Nalukottai (P) (R V) Athiputhan theru , 99.OVERSEAS ELECTORS",All Voters
+60,186,60,"PANCHAYAT UNION MIDDLE SCHOOL, CHOLAPURAM, NEW BUILDING","1.Solapuram (P) (R V) Solapuram Melatheru , 2.Solapuram (P) (R V) Solapuram Keelatheru , 99.OVERSEAS ELECTORS",All Voters
+61,186,61,"PANCHAYAT UNION MIDDLE SCHOOL, CHOLAPURAM, NORTH FACING SOUTH BUILDING","1.Solapuram (P) (R V) Solapuram Keelatheru , 99.OVERSEAS ELECTORS",All Voters
+62,186,62,"PANCHAYAT UNION MIDDLE SCHOOL, CHOLAPURAM, NEW BUILDING","1.Solapuram (P) (R V) Chinnaperumalpatti   , 2.Solapuram (P) (R V) Perumalpatti , 99.OVERSEAS ELECTORS",All Voters
+63,186,63,"GOVERNMENT WOMENS ARTS COLLEGE, KANJIRANGAL    ,EAST BUILDING, EAST WING","1.Kanjirankal (P) (R V) Kanjirankal East , 99.OVERSEAS ELECTORS",All Voters
+64,186,64,"GOVERNMENT WOMENS ARTS COLLEGE, KANJIRANGAL    ,EAST BUILDING, WEST WING","1.Kanjirankal (P) (RV) Kanjirankal Kanjirankal West , 99.OVERSEAS ELECTORS",All Voters
+65,186,65,"PANCHAYAT UNION MIDDLE SCHOOL, KANCHIRANKAL    , EAST BUILDING NORTH WING","1.Kanjirankal (P) (R V) Arasinipatti , 99.OVERSEAS ELECTORS",All Voters
+66,186,66,"PANCHAYAT UNION MIDDLE SCHOOL, KANCHIRANKAL    ,EAST BUILDING","1.Kanjirankal (P) (R V) Kanjirankal , 2.Kanjirankal (P) (R V) Kanjirankal M.G.R.Nagar , 99.OVERSEAS ELECTORS",All Voters
+67,186,67,"ANGANWADI CENTRE, ILANDANGUDIPATTI","1.Kanjirankal (P) (R V) Ilanthangudipatti ,
+2.Nattaran Kottai (SVP)i Iluppakudi , 99.OVERSEAS ELECTORS",All Voters
+68,186,68,"ST.FRANCIS MIDDLE SCHOOL, BISHAPS HOUSE KAMARAJNAGAR
+,EAST WING","1.Kanjirankal (P) (R V) kamaraj nagar, 99.OVERSEAS ELECTORS",All Voters
+69,186,69,"ST.FRANCIS MIDDLE SCHOOL, BISHAPS HOUSE KAMARAJNAGAR, WEST WING","1.Kanjirankal (P) (R V) kamaraj nagar   South , 2.Kanjirankal (P) (R V) Thennalivayal , 99.OVERSEAS ELECTORS",All Voters
+70,186,70,"ST.FRANCIS MIDDLE SCHOOL, BISHAPS HOUSE KAMARAJNAGAR WEST WING    ,EAST WING","1.Kanjirankal (P) (R V) ¸Sanjai Nagar,
+2.Kanjirankal (P) (R V)   Ajiis nagar , 3.Kanjirankal (P) (R V) Pudhuvazlvu nagar , 4.Kanjirankal (R V) Ajisnagar  , 99.OVERSEAS ELECTORS",All Voters
+71,186,71,"PANCHAYAT UNION ELEMENDARY SCHOOL, T.PUTHUR, NEW BUILDING WEST FACING","1.Kanjirankal (P) (R V) T.Pudur , 99.OVERSEAS ELECTORS",All Voters
+72,186,72,"PANCHAYAT UNION ELEMENDARY SCHOOL, T.PUTHUR,NORTH BUILDING NEW BUILDING","1.Kanjirankal (P) (R V) T.Pudur , 99.OVERSEAS ELECTORS",All Voters
+73,186,73,"LIBRARY BUILDING, T.PUTHUR","1.Kanjirankal (p) (r v) M.g.r.nagar ,
+2.Kanjirankal (P) Paiyour Pilliai Vayal (R V) T.Pudur , 99.OVERSEAS ELECTORS",All Voters
+74,186,74,"PANCHAYAT UNION MIDDLE SCHOOL, GANDHINAGAR COLONY,SOUTH WING","1.Idayamelur (P) (R V) Easani , 2.Idayamelur (P) (R V) Gandhinagar colony , 3.Idayamelur (P) (R V) Gandhinagar colony , 99.OVERSEAS ELECTORS",All Voters
+75,186,75,"PANCHAYAT UNION PRIMARY SCHOOL, EASANUR","1.Idayamelur (P) (R V) Easani , 99.OVERSEAS ELECTORS",All Voters
+76,186,76,"GOVT HSE SCHOOL, IDAYAMELUR
+,EAST FASHING WEST BUILDING MIDDLEWING","1.Idayamelur (P) (R V) Bharathinagar colony , 2.Idayamelur (P) (R V) Koovanipatti , 3.Idayamelur (P) (R V) Velangapatti , 99.OVERSEAS ELECTORS",All Voters
+77,186,77,"PANCHAYAT UNION PRIMARY SCHOOL,IDAYAMELUR","1.Idayamelur (P) (R V) Mangampatti , 99.OVERSEAS ELECTORS",All Voters
+78,186,78,"GOVT.HSE.SCHOOL,IDAYAMELUR
+,EAST ROOM SOUTH BUILDING MIDDLE ROOM","1.Idayamelur (P) (R V) Idaiyamelur North , 99.OVERSEAS ELECTORS",All Voters
+79,186,79,"GOVT HSE   SCHOOL, IDAYAMELUR
+,SOUTH BUILDING EAST ROOM","1.Idaiyamelur(P) (RV) Idaiyamelur South , 99.OVERSEAS ELECTORS",All Voters
+80,186,80,"PANCHAYAT UNION PRIMARY SCHOOL, MANAGUDI    ,SOUTH BUILDING EAST WING","1.Sakkanthi Managudi Pillathi , 99.OVERSEAS ELECTORS",All Voters
+81,186,81,"PANCHAYAT UNION MIDDLE SCHOOL, PASANKARAI, EAST BUILDING","1.Sakkanthi Pasankarai , 2.Sakkanthi Kalamekki ,
+3.Sakkanthi (P) Senthiudaiyanathapuram (R V) Pasankarai , 99.OVERSEAS ELECTORS",All Voters
+82,186,82,"PANCHAYAT UNION PRIMARY SCHOOL, SAKKANTHI    ,NORTH BUILDING","1.Sakkanthi (P) Pudhupatti (R V) Chakkandhi Keelatheru , 99.OVERSEAS ELECTORS",All Voters
+83,186,83,"PANCHAYAT UNION PRIMARY SCHOOL, SAKKANTHI    ,SOUTH BUILDING, EAST WING","1.Sakkanthi Pudhupatti (R V) Chakkandhi Melatheru , 2.Sakkanthi (p) Pudhupatti (R V) Chakkandhi Nethaji Nagar  , 3.Sakkanthi Ponnakulam (R V) Mattakulam ,
+99.OVERSEAS ELECTORS",All Voters
+84,186,84,"PANCHAYAT UNION MIDDLE SCHOOL, KOMALIPATTI    ,NEW BUILDING, EAST SIDE","1.Sakkanthi(U) Pudupatti (R V) Komalipatti , 2.Sakkanthi(U) Pudupatti (R V) Devanipatti, Thennampatti , 99.OVERSEAS ELECTORS",All Voters
+85,186,85,"PANCHAYAT UNION MIDDLE SCHOOL, KOMALIPATTI, NORTH FACING SOUTH BUILDING","1.Sakkanthi(U) Pudupatti (R V) Devanipatti, Thennampatti , 99.OVERSEAS ELECTORS",All Voters
+86,186,86,"PANCHAYAT UNION PRIMARY SCHOOL, PUDHUPATTI      ,EAST SIDENEW BUILDING, WEST SIDE","1.Sakkanthi(U) Pudhupatti (R V) Puthupatti Ulaganathapuram , 99.OVERSEAS ELECTORS",All Voters
+87,186,87,"PANCHAYAT UNION PRIMARY SCHOOL KUMARAPATTI
+,ADDITIONAL BUILDING WEST SIDE","1.Kumarapatti (P) (R V) Kumarapatti , 99.OVERSEAS ELECTORS",All Voters
+88,186,88,"PANCHAYAT UNION PRIMARY SCHOOL KUMARAPATTI  , EAST BUILDING","1.Kumarapatti (P) (R V) Karambodai,
+2.Kumarapatti (P) (R V) Kumarapatti, 99.OVERSEAS ELECTORS",All Voters
+89,186,89,"PANCHAYAT UNION ELEMENDARY SCHOOL, SENTHI UDAYANATHAPURAM    ,ADDITIONAL BUILDING SOUTH WING","1.Kumarapatti (P) Sendhi Udaiyanathapuram (R V) Sendhi Udaiyanathapuram ,
+99.OVERSEAS ELECTORS",All Voters
+90,186,90,"PANCHAYAT UNION MIDDLE SCHOOL, MUDIKANDAM
+,ADDITIONAL 2 ROOM BUILDING NORTH WING","1.Mudikandam (P) (R V) Mudikandam , 99.OVERSEAS ELECTORS",All Voters
+91,186,91,"PANCHAYAT UNION PRIMARY SCHOOL MEENAKSHIPURAM
+,ADDITIONAL 2 ROOM BUILDING NORTH WING","1.Mudikandam (P) Sendhi Udaiyanathapuram (R V) Meenakshipuram
+,
+99.OVERSEAS ELECTORS",All Voters
+92,186,92,"PANCHAYAT UNIONMIDDLE SCHOOL, ILLUPAAKUDI, EAST WING","1.Illuppakdu (p) (R V) Iluppakudi ,
+2.Illuppakdu (p) Marani Usilangulam (R V) Marani Usilangulam , 99.OVERSEAS ELECTORS",All Voters
+93,186,93,"PANCHAYAT UNION MIDDLE SCHOOL, KILADARI    ,WEST WING","1.Kilathiri (P) (R V) Thandavanpatti , 2.Kilathiri (P) (R V) Valaiyapatti , 3.Kilathari (p) (R V) Manappatti , 4.Kilathari (p) (R V) Kakkaniyanpatti , 5.Kilathari (p) (R V) Konarpatti , 6.Kilathari (p) (R V) Sangampatti , 7.Kilathari (p) (R V) Lakshmipuram , 99.OVERSEAS ELECTORS",All Voters
+94,186,94,"PANCHAYAT UNION MIDDLE SCHOOL, KILADARI    ,EAST WING","1.Kilathari (p) (R V) Kilathari , 2.Kilathari (p) (R V) Kilathari colony , 99.OVERSEAS ELECTORS",All Voters
+95,186,95,"PANCHAYAT UNION MIDDLE SCHOOL ,ARASANOOR
+,ADDITIONAL 3 ROOM BUILDING MIDDLE ROOM","1.Arasanoor (P) (R V) Arasanoor Main , 99.OVERSEAS ELECTORS",All Voters
+96,186,96,"PANCHAYAT UNION MIDDLE SCHOOL ,ARASANOOR
+,ADDITIONAL 3 ROOM BUILDING MIDDLE ROOM(SSA)","1.Arasanoor (P) (R V) Vadaku Theru , 2.Arasanoor (P) (R V) Melatheru , 3.Arasanoor (P) (R V) Keelatheru , 4.Arasanoor (P) (R V) Nedutheru , 5.Arasanoor (P) (R V) Therku Theru , 99.OVERSEAS ELECTORS",All Voters
+97,186,97,"PANCHAYAT UNION PRIMARY SCHOOL, THIRUMANCHOLAI
+,SOUTH BUILDING","1.Arasanoor (P) (R V) Thirumanjolai , 2.Arasanoor (P) (R V) Samathuvapuram , 99.OVERSEAS ELECTORS",All Voters
+98,186,98,"PANCHAYAT UNION MIDDLE SCHOOL, A.R.USILAMPATTI
+,ADDITIONAL 3 ROOM BUILDING MIDDLE ROOM","1.Arasanoor (P) (R V) Usilampattai , 2.Arasanoor (P) (R V) Usilampattai , 99.OVERSEAS ELECTORS",All Voters
+99,186,99,"GOVT GIRLS HSE SCHOOL, SIVAGANGA      ,WEST BUILDING NORTH WING","1.Sivaganga(Nagar) Melur Road Main , 2.Sivaganga(Nagar) Ward 1 Melur Road 1st street , 3.Sivaganga(Nagar) Ward-1 Melur Road 2nd street , 4.Sivaganga(Nagar) Ward-1 Melur road 3rd street , 5.Sivaganga(Nagar) Ward -1 Melur Road 4th Street , 6.Sivaganga(Nagar) Ward-1 Melur road 15th street , 7.Sivaganga(Nagar) Ward -1 Melur Road 6th street , 8.Sivaganga(Nagar) Ward-1 Muthusamynagar main , 9.Sivaganga(Nagar) Ward-1 Muthusamy nagar 1st  street ,
+10.Sivaganga(Nagar) ward-1 Muthusamy nagar 2nd street , 11.Sivaganga(Nagar) ward-1 muthusamynagar  3rd street , 99.OVERSEAS ELECTORS",All Voters
+100,186,100,"GOVT GIRLS HSE SCHOOL, SIVAGANGA      ,SOUTH BUILDING WEST WING","1.Sivaganga(Nagar) ward-1 Tiruppathur road main , 2.Sivaganga(Nagar) ward-1 Tiruppathur road 1st street , 3.Sivaganga(Nagar) ward-1 Tiruppathur road 2nd street , 4.Sivaganga(Nagar) ward-1 Tiruppathur road 3rd street , 5.Sivaganga(Nagar) ward-1 Tiruppathur road 4th street , 6.Sivaganga(Nagar) ward-1 Tiruppathur road 5th street , 7.Sivaganga(Nagar) ward-1 Cylon burma colony main , 8.Sivaganga(Nagar) ward-1 ceylone burma colony 1st street , 9.Sivaganga(Nagar) ward-1 ceylone burma colony 2nd street , 10.Sivaganga(Nagar) ward-1 ceylone burma colony 3rd street , 11.Sivaganga(Nagar) ward-1 ceylone burma colony 4th street , 12.Sivaganga(Nagar) ward -1 ceylone burma colony 5th street , 13.Sivaganga(Nagar) ward-1 ceylon burma colony 6th street , 99.OVERSEAS ELECTORS",All Voters
+101,186,101,"GOVT GIRLS HSE SCHOOL, SIVAGANGAI, NORTH SIDE EAST BUILDING SOUTHEAST CLASSROOM","1.Sivagangai(Nagar) ward-1 Tiruppathur road 5th street, 2.Sivagangai(Nagar) ward-1 Ceylon burma colony main, 3.Sivagangai(Nagar) ward-1 ceylon burma colony 1st street, 4.Sivagangai(Nagar) ward-1 ceylon burma colony 2nd street, 5.Sivagangai(Nagar) ward-1 ceylon burma colony 3rd street, 6.Sivagangai(Nagar) ward-1 ceylon burma colony 4th street, 7.Sivagangai(Nagar) ward -1 ceylon burma colony 5th street, 8.Sivagangai(Nagar) ward-1 ceylon burma colony 6th street, 99.OVERSEAS ELECTORS",All Voters
+102,186,102,"GOVT GIRLS HSC SCHOOL, SIVAGANGA    ,SOUTH BLOCK EAST WING","1.Sivaganga(Nagar) ward-5 Gandhiroad , 2.Sivaganga(Nagar) ward-6 Raniammaiyar street ,
+3.Sivaganga(Nagar) Ward-6 Sutthananthabharathiyar street , 4.Sivaganga(Nagar) Ward-6 Rajasekaranstreet  , 5.Sivaganga(Nagar) Ward-6 Gohalahall mani street , 6.Sivaganga(Nagar) Ward-6 Gohalahall 1st  street , 7.Sivaganga(Nagar) Ward-6 Gohalahall 2nd street  , 8.Sivaganga(Nagar) Ward-6 Gohalahall 3rd street , 9.Sivaganga(Nagar) Ward-6 Gohalahall 4th street , 99.OVERSEAS ELECTORS",All Voters
+103,186,103,"GOVT GIRLS HSC SCHOOL, SIVAGANGA, WEST FACING BUILDING, EAST WING.","1.Sivaganga(Nagar) Ward-6 ramnagar , 2.Sivaganga(Nagar) Ward-6 Laxmanan street , 3.Sivaganga(Nagar) Ward-7 Bahavathsing street , 4.Sivaganga(Nagar) Ward-7 Kasthuribai steet , 5.Sivaganga(Nagar) Ward-1 Owvai street , 99.OVERSEAS ELECTORS",All Voters
+104,186,104,"RAJA HSC SCHOOL, SIVAGANGA
+,EAST BUILDING NORTH WING MAIN BUILDING","1.Sivaganga(Nagar) Ward-5 oversear street ,
+2.Sivaganga(Nagar) Ward-5 neethipathi rajasekaran salai (part), 3.Sivaganga(Nagar) Ward-5 pakanerimadatthusandhu , 99.OVERSEAS ELECTORS",All Voters
+105,186,105,"RAJA HSC SCHOOL,SIVAGANGAI, SOUTH BUILDING WEST WING SECOND CLASSROOM","1.Sivagangai(Nagar) Ward-5 Pillaiyarkovil street, 2.Sivagangai(Nagar) Ward-7 Policestasion road, 3.Sivagangai(Nagar) Ward-8 Thiruvalluvar street, 4.Sivagangai(Nagar) Ward-8 Manickam lane, 5.Sivagangai(Nagar) Ward-5 Gandhiroad (part) Police qutr., 6.Sivagangai(Nagar) Ward-2 Marudhupandiyar Nagar a,b,block, 99.OVERSEAS ELECTORS",All Voters
+106,186,106,"SWAMI VIVEKANANDA HIGHER SECONDARY SCHOOL, SIVAGANGA","1.Sivaganga(Nagar) Ward-10 majeethroad main , 2.Sivaganga(Nagar) Ward-10 majeeth 12th street , 99.OVERSEAS ELECTORS",All Voters
+107,186,107,"SWAMI VIVEKANANDA HIGH SCHOOL, SIVAGANGAI, NORTH EAST BULDING","1.Sivagangai(Nagar) Ward-10 majeeth 13th street, 2.Sivagangai(Nagar) Ward-10 Majeethroad & Boseroad enaippusalai,
+3.Sivagangai(Nagar) Ward-9 sivankovil southstreet, 4.Sivagangai(Nagar) Ward-9 Neethipathirajasekaran street, 5.Sivagangai(Nagar) Ward-9 Neethipathi rajasekaran 1st street, 6.Sivagangai(Nagar) Ward-9 Sivankovil weststreet, 7.Sivagangai(Nagar) Ward-9 Sivankovil Northstreet, 8.Sivagangai(Nagar) Ward-5 Suntharar street, 99.OVERSEAS ELECTORS",All Voters
+108,186,108,"GOVERNMENT HIGHER SECONDARY SCHOOL, SIVAGANGA MASTER PLAN COMPLEX    ,NORTH BUILDING EAST BLOCK","1.Sivaganga(Nagar) Ward-2 Dist. collectrate   c block , 2.Sivaganga(Nagar) Ward-2 Dist. collectrate d cblock , 3.Sivaganga(Nagar) Ward-2 Dist. collectrate E block , 4.Sivaganga(Nagar) Ward-2 Dist. collectorate A block , 5.Sivaganga(Nagar) Ward-3 Maruthupandiyar complex road , 99.OVERSEAS ELECTORS",All Voters
+109,186,109,"GOVERNMENT HIGHER SECONDARY SCHOOL, SIVAGANGA MASTER PLAN COMPLEX    ,WEST BUILDING NORTH WING","1.Sivaganga(Nagar) Ward-11 Majeethroad , 2.Sivaganga(Nagar) Ward-11 Majeeth 1st  cross street , 3.Sivaganga(Nagar) Ward=11 Majeeth 2nd cross street , 4.Sivaganga(Nagar) Ward-11 Majeeth 3rd cross street , 99.OVERSEAS ELECTORS",All Voters
+110,186,110,"GOVERNMENT HIGHER SECONDARY SCHOOL, SIVAGANGA MASTER PLAN COMPLEX    ,WEST SIDE, MIDDLE WING","1.Sivaganga(Nagar) Ward-11 Majeeth 4th cross street , 2.Sivaganga(Nagar) Ward-11 Majeeth 5th cross street , 3.Sivaganga(Nagar) Ward-11 Majeeth 6th cross street , 4.Sivaganga(Nagar) Ward-11 Majeeth 7th cross street , 5.Sivaganga(Nagar) Ward-11 Majeeth 8th cross street , 6.Sivaganga(Nagar) Ward-11 Majeeth 9th cross street , 7.Sivaganga(Nagar) Ward-11 Majeeth 10th cross street , 8.Sivaganga(nagar) Ward-2 m.p.nagar east , 9.Sivaganga(Nagar) Ward-2 Dist. collectrate   c block , 99.OVERSEAS ELECTORS",All Voters
+111,186,111,"PANCHAYAT UNION PRIMARY SCHOOL, SIVAGANGA MASTER PLAN COMPLEX, NORTH EAST SIDE, EAST BUILDING","1.Sivaganga(Nagar) Ward-4 Krishnan laout main , 2.Sivaganga(Nagar) Krishnan laout 1st  cross street , 3.Sivaganga(Nagar) Krishnan Laout 2nd cross street , 4.Sivagangai Krishnan Laout 3rd cross street , 5.Sivaganga (M) Ward-3 Pudhurroad main , 6.Sivaganga(Nagar) Pudhur road 1st street , 7.Sivaganga(Nagar) Pudhur road 2nd street , 8.Sivaganga(Nagar) Pudur road 3rd street , 9.Sivaganga(Nagar) Pudhur road 4th street , 10.Sivaganga(Nagar) Pudhur road 5th street , 11.Sivaganga(Nagar) Pudhur road 8th street , 12.Sivaganga(Nagar) ward-11 Majeeth road 11th street , 13.Sivaganga(Nagar) Ward-11 Majeeth road 12th street , 99.OVERSEAS ELECTORS",All Voters
+112,186,112,"SAAI  BALAMDIR NURSERY & PRIMARY SCHOOL SIVAGANGA
+,SOUTH WING EAST WING","1.Sivaganga(Nagar) Ward-4 shibiyan laout main , 2.Sivaganga(Nagar) Shibiyan laout 1st cross street , 3.Sivaganga(Nagar) Shibiyan Laout 2nd cross street , 4.Sivaganga(Nagar) Shibiyan Laout 3rd cross street , 5.Sivaganga(Nagar) Shibiyan Laout 4th cross street , 6.Sivaganga(Nagar) Shibiyan Laout 5th cross street , 7.Sivaganga(Nagar) Ward-11 Majeeth 9th street , 99.OVERSEAS ELECTORS",All Voters
+113,186,113,"SAAI  BALAMANDIR NURSERY & PRIMARY SCHOOL SIVAGANGAI, WEST SIDE BUILDING","1.Sivagangai(Nagar) Ward4 shosaitty laout main ,  2.Sivagangai(Nagar) society layout 1st cross street , 3.Sivagangai(Nagar) society Layout 2nd cross street , 4.Sivagangai(Nagar) Society Layout 3rd cross street
+, 99.OVERSEAS ELECTORS",All Voters
+114,186,114,"ANGEL PRIMARY SCHOOL SIVAGANGAI ,  WEST WING ROOM","1.Sivaganga(Nagar) Ward-12 Thondi Road , 2.Sivaganga(Nagar) Ward-12 Thondi Road 3rd Street , 3.Sivaganga(Nagar) Ward-12 Thondi Road 4th Street , 4.Sivaganga(Nagar) Ward-12 Thondi Road 5th Street , 5.Sivaganga(Nagar) Ward-12 Thondi Road 6th Street , 6.Sivaganga(Nagar) Ward-14 Railway Station Street , 7.Sivaganga(Nagar) Ward-12 Housing Board 48colony , 99.OVERSEAS ELECTORS",All Voters
+115,186,115,"ANGEL PRIMARY SCHOOL SIVAGANGAI ,  WEST WING","1.Sivaganga (Nagar) Ward-12 Thondi Road 1st Street , 2.Sivaganga(Nagar) Ward-11 Ambethkar  Street , 3.Sivaganga(Nagar) Ward-12 Bose Road , 4.Sivaganga(Nagar) Ward-13 Manimekalai Street , 5.Sivaganga(Nagar) Ward-13 Kambar Street , 6.Sivaganga(Nagar) Ward-13 Muthuramalingam Street , 99.OVERSEAS ELECTORS",All Voters
+116,186,116,"RAJAKUMARAI RAJARAJESWARI KALA MIDDLE SCHOOL, SIVAGANGA
+,EAST WING NORTH BUILDING","1.Sivaganga(Nagar) Ward-10,13 boseroad main , 2.Sivaganga(Nagar) Ward-10 rani renganatchiyar street , 3.Sivaganga(Nagar) Ward-10 Ajeesh street ,
+4.Sivaganga(Nagar) Ward-10,13, Majeethroad, Boseroad Junction , 5.Sivaganga(Nagar) Ward-13 Bose road 1st street  , 6.Sivaganga(Nagar) Ward-13 Bose road 2nd street , 7.Sivaganga(Nagar) Ward-13 Bose road 3rd street , 8.Sivaganga(Nagar) Ward-13 Bose road 4th street , 9.Sivaganga(Nagar) Ward-13 Bose road 5th street , 10.Sivaganga(Nagar) Ward-13 Bose road 6th street  , 11.Sivaganga(Nagar) Ward-13 Bose road 7th street  , 12.Sivaganga(Nagar) Ward-13 Bose road 8th street  , 99.OVERSEAS ELECTORS",All Voters
+117,186,117,"RAJAKUMARAI RAJARAJESWARI KALA MIDDLE SCHOOL, SIVAGANGA
+,NORTH BUILDING WEST WING","1.Sivaganga(Nagar) Ward-14 Thondiroad west ,
+2.Sivaganga(Nagar) Ward-10 shagulhameedhu street , 3.Sivaganga(Nagar) Ward-10 Lajapathirai street , 4.Sivaganga(Nagar) Ward-13 Rajandhirapirashath street , 5.Sivaganga(Nagar) Ward-9 vadakkuraja veethi , 6.Sivaganga(Nagar) Ward-15 Southraja street , 7.Sivaganga(Nagar) Ward-9 Pudhutheru ,
+99.OVERSEAS ELECTORS",All Voters
+118,186,118,"RAJAKUMARAI RAJARAJESWARI KALA MIDDLE SCHOOL, SIVAGANGAI, NORTH BUILDING EAST WING","1.Sivagangai(Nagar) Ward-10 Rajachaththirath theru, 2.Sivagangai(Nagar) Ward-9 Neethipathirajasekaran street, 3.Sivagangai(Nagar) Ward-9 Gandhiroad part,    4.Sivagangai(Nagar) Ward-10 Kannaki street,                99.OVERSEAS ELECTORS",All Voters
+119,186,119,"MUNICIPAL MUSILIM PRIMARY SCHOOL, SIVAGANGA    ,WEST WING","1.Sivaganga(Nagar) Ward-14 Abdhulhamedhu street , 2.Sivaganga(Nagar) Ward-14 Mohamed ali street , 3.Sivaganga(Nagar) Ward-14 Noorjahan street , 4.Sivaganga(Nagar) Ward-14 Patthunonbu pallivasal street , 5.Sivaganga(Nagar) Ward-14 Azathstreet ,
+6.Sivaganga(Nagar) Ward-12 Pillaivayal Kaliyamman kovil street, 7.Sivaganga(Nagar) Ward-12 Pillaivayal Kaliyamman kovil street, 99.OVERSEAS ELECTORS",All Voters
+120,186,120,"MUNICIPAL MUSILIM PRIMARY SCHOOL, SIVAGANGA    ,EAST WING","1.Sivaganga(Nagar) Ward-12 Thondiroad 7th street , 2.Sivaganga(Nagar) Ward-12 Thondiroad 8th street , 3.Sivaganga(Nagar) Ward-12 Thondiroad 9th street , 4.Sivaganga(Nagar) Ward-12 Thondiroad 10th street , 5.Sivaganga(Nagar) Ward-12 Velunatchiyar street , 6.Sivaganga(Nagar) Ward-12 Manickavasakar street , 7.Sivaganga(Nagar) Ward-12 Vallabaipatel street , 8.Sivaganga(Nagar) Ward-12 kannan street , 9.Sivaganga(Nagar) Ward-12 Thondiroad main , 99.OVERSEAS ELECTORS",All Voters
+121,186,121,"RAMAKRISHNA PRIMARY SCHOOL SIVAGANGA, WEST WING    ,MAIN BUILDING WEST WING","1.Sivaganga(Nagar) Ward-17 Melarathaveethi North , 2.Sivaganga(Nagar) Ward-8 Sathyamoorthy street , 3.Sivaganga(Nagar) Ward-17 Thalaivar Chinnasamy street  , 4.Sivaganga(Nagar) Ward-17 Mohan kumaramangalam street , 5.Sivaganga(Nagar) Ward-17 Nowrojistreet ,
+99.OVERSEAS ELECTORS",All Voters
+122,186,122,"RAMAKRISHNA PRIMARY SCHOOL, SIVAGANGA EAST WING    ,MAIN BUILDING WEST WING","1.Sivaganga(Nagar) Ward-8 Sathappar Lane , 2.Sivaganga(Nagar) Ward08 Radhakrishnan street , 3.Sivaganga(Nagar) Ward08 Manirengapuram , 4.Sivaganga(Nagar) Ward08 Sarojini street , 5.Sivaganga(Nagar) Ward-7 Poundu street , 6.Sivaganga(Nagar) Ward-8 Manickam pillai lane , 7.Sivaganga(Nagar) Ward-7 Perumalkovil street , 99.OVERSEAS ELECTORS",All Voters
+123,186,123,"ROSELIN COLLEGE OF EDUCATION, MEENAKSHI  NAGAR, SIVAGANGA
+,EAST WING","1.Sivaganga(Nagar) Ward-18 Pattinathar Street , 2.Sivaganga(Nagar) Ward-18 Kalimuthan Street , 3.Sivaganga(Nagar) Ward-18 Pugalenthiyar Street , 4.Sivaganga(Nagar) Ward-18 Nalan Street , 5.Sivaganga(Nagar) Ward-19 Sasthiri Street Main , 6.Sivaganga(Nagar) Ward-19 Sasthiri 1st Street , 7.Sivaganga(Nagar) Ward-19 Sasthiri 2nd Street , 99.OVERSEAS ELECTORS",All Voters
+124,186,124,"ROSELIN COLLEGE OF EDUCATION, MEENAKSHI  NAGAR, SIVAGANGA
+,WEST WING","1.Sivaganga (Nagar) Ward-19 Sasthiri 3rd Street  , 2.Sivaganga (Nagar) Ward-19 Sasthiri 4th Street , 99.OVERSEAS ELECTORS",All Voters
+125,186,125,"ROSELIN COLLEGE OF EDUCATION, MEENAKSHI  NAGAR,SIVAGANGAI, NORTH SIDE MIDDLE PORTION","1.Sivagangai (Nagar) Ward-10 Sasthiri 5th Street ,          2.Sivagangai (Nagar) Ward-19 Sasthiri 6th Street,      99.OVERSEAS ELECTORS",All Voters
+126,186,126,"CHILD HEALTH NUTRITION CENTRE KOTTAKUDI      ,EAST BLOCK","1.Sivaganga(Nagar) Kottagudi 1st street , 2.Sivaganga(Nagar) Kottagudi 2nd street , 3.Sivaganga(Nagar) Kottagudi 3rd street , 4.Sivaganga(Nagar) Kottagudi 4th street , 99.OVERSEAS ELECTORS",All Voters
+127,186,127,"ST. JOSEPH PRIMARY SCHOOL, SIVAGANGA    ,EAST WING","1.Sivaganga(Nagar) Ward-18 Velayuthasamy Kovil Street , 2.Sivaganga(Nagar) Ward-18 Kamatchi Amman Kovil Street  , 3.Sivaganga(Nagar) Ward-17 Westcar Street , 4.Sivaganga(Nagar) Ward-17 V.O.C. Street , 5.Sivaganga(Nagar) Ward-17 Vasuki Street , 6.Sivaganga(Nagar) Ward-17 Appar Street ,
+99.OVERSEAS ELECTORS",All Voters
+128,186,128,"KOTTAI  MOOLAI PRIMARY SCHOOL, MEENAKSHI  NAGAR, SIVAGANGA","1.Sivaganga(Nagar) Ward-20 Madurai Road Main , 2.Sivaganga(Nagar) Ward-20 Madurai Road 7th Street  , 3.Sivaganga(Nagar) Ward-20 Madurai Road 8th Street  , 4.Sivaganga(Nagar) Ward-20 Madurai Road 9th Street  , 5.Sivaganga(Nagar) Ward-18 Rajaji Street , 6.Sivaganga(Nagar) Ward-18 Kumarasamy Raja Street , 99.OVERSEAS ELECTORS",All Voters
+129,186,129,"ST.JOSEPH PRIMARY SCHOOL, SIVAGANGA    ,WEST WING","1.Sivaganga(Nagar) Ward-18 Westcar street , 2.Sivaganga(Nagar) Ward-19 Tharmarkovil street  , 3.Sivaganga(Nagar) Ward-16 Kural street , 4.Sivaganga(Nagar) Ward-16 Kulootthunkan street , 5.Sivaganga(Nagar) Ward-16 Vinoba street , 6.Sivaganga(Nagar) Ward-19 Palli street , 7.Sivaganga(Nagar) Ward-19 Thakoor street , 99.OVERSEAS ELECTORS",All Voters
+130,186,130,"ST.JOSEPH PRIMARY SCHOOL, SIVAGANGAI, NORTH WING","1.Sivagangai(Nagar) Ward-19 Palli street,             2.Sivagangai(Nagar) Ward-19 Thakoor street,                99.OVERSEAS ELECTORS",All Voters
+131,186,131,"AR.NATESAN CHETTIAR MIDDLE SCHOOL, SIVAGANGA      ,NORTH BUILDING NORTH WINGSOUTH WING","1.Sivaganga(Nagar) Ward-21 Mooventhar street , 2.Sivaganga(Nagar) Ward-16 Sedhupathy street , 3.Sivaganga(Nagar) Ward-16 Rajendhiran street , 4.Sivaganga(Nagar) Ward-20 Westcar street , 5.Sivaganga(Nagar) Ward-19 Bangala street , 6.Sivaganga(Nagar) Ward-20 Barathan street  , 7.Sivaganga(Nagar) Ward-15 Sakla street , 8.Sivaganga(Nagar) Ward-15 Seethakkathi street , 9.Sivaganga(Nagar) Ward-14 Nerubajar , 10.Sivaganga(Nagar) Ward-15 Umarupulavar street , 11.Sivaganga(Nagar) Ward-15 Kalaivanar  street , 99.OVERSEAS ELECTORS",All Voters
+132,186,132,"JUSTIN METRICULATION HIGHER SECONDARY SCHOOL SIVAGANGA
+,WEST BUILDING SOUTH PORTION SOUTH WING","1.Sivaganga(Nagar) Ward-20,21, Madurairoad , 2.Sivaganga(Nagar) Ward-20 Madurairoad 1st street , 3.Sivaganga(Nagar) Ward-20 Madurai road 2nd street , 4.Sivaganga(Nagar) Ward-20 Madurairoad 3rd street , 5.Sivaganga(Nagar) Ward-20 Madurai road 4th street , 6.Sivaganga(Nagar) Ward-20 Madurai road 5th street , 7.Sivaganga(Nagar) Ward-20 Madurai road 6th street , 8.Sivaganga(Nagar) Ward-20 Madurai road 10th street , 9.Sivaganga(Nagar) Ward-20 Madurai road 11th street , 10.Sivaganga(Nagar) Ward-20 Madurai road 12th street , 11.Sivaganga(Nagar) Ward-21 Madurai road lane , 99.OVERSEAS ELECTORS",All Voters
+133,186,133,"AR.NATESAN CHETTIAR MIDDLE SCHOOL, SIVAGANGA      ,NORTH BUILDING SOTH WING NORTH WING","1.Sivaganga(Nagar) Ward-20 Shanmugaraja street , 2.Sivaganga(Nagar) Ward-22 Jaihaind street , 3.Sivaganga(Nagar) Ward-23 Sivaji street , 4.Sivaganga(Nagar) Ward-21 Periyar street ,
+5.Sivaganga(Nagar) Ward-21 Thiyagi sedhuramachandiran street , 99.OVERSEAS ELECTORS",All Voters
+134,186,134,"AR.NATESAN CHETTIAR MIDDLE SCHOOL, SIVAGANGA    , SOUTH BUILDING SOUTH WING","1.Sivaganga(Nagar) Ward-21 Modhilal street , 2.Sivaganga(Nagar) Ward-21 Gothamar street , 3.Sivaganga(Nagar) Ward-21 Aravinthar street , 4.Sivaganga(Nagar) Ward-21 Malaviya street , 5.Sivaganga(Nagar) Ward-15 Kennedy street , 6.Sivaganga(Nagar) Ward-15 Techers Somasundaram street , 7.Sivaganga(Nagar) Ward-15 Thaumanavar  street , 8.Sivaganga(Nagar) Ward-21 Gandhi road ,
+99.OVERSEAS ELECTORS",All Voters
+135,186,135,"R.C.MIDDLE SCHOOL, SIVAGANGA
+,SOUTH WING","1.Sivaganga(Nagar) Ward-25,26 Nehrubajar , 2.Sivaganga(Nagar) Ward-25 Battai street , 3.Sivaganga(Nagar) Ward-25 Battai Lane , 4.Sivaganga(Nagar) Ward-26 South Marget   Street , 5.Sivaganga(Nagar) Ward-14 Pazhakkadai Lane , 6.Sivaganga(Nagar) Ward-25 Ashokar street , 99.OVERSEAS ELECTORS",All Voters
+136,186,136,"R.C.MIDDLE SCHOOL, SIVAGANGAI, SOUTH WING, MIDDLE ROOM","1.Sivaganga(Nagar) Ward-25 Jaheerhusan street , 2.Sivaganga(Nagar) Ward-25 Akbar street , 3.Sivaganga(Nagar) Ward-25 Aashaf ali street , 4.Sivaganga(Nagar) Ward-25 Showkath ali street , 5.Sivaganga(Nagar) Ward-26 Akilandapuram , 6.Sivaganga(Nagar) Ward-26 Kackan backam west  , 99.OVERSEAS ELECTORS",All Voters
+137,186,137,"R.C.MIDDLE SCHOOL, SIVAGANGA
+,NORTH WING","1.Sivaganga(Nagar) Ward-24 Sundararajan street , 2.Sivaganga(Nagar) Ward-24 Porhaippandian street , 3.Sivaganga(Nagar) Ward-24 Annavivatthiyar street , 4.Sivaganga(Nagar) Ward-22 Sammanthar  street , 5.Sivaganga(Nagar) Ward-15.21 Nelmandi street , 6.Sivaganga(Nagar) Ward-22 Kabilar street , 7.Sivaganga(Nagar) Ward-22 Nakeerar street , 8.Sivaganga(Nagar) Ward-22 Somanadhasuwamy Kovil street , 9.Sivaganga(Nagar) Ward-22 Kalaimagal street , 10.Sivaganga(Nagar) Ward-24 Vethakovil street , 11.Sivaganga(Nagar) Ward-24 Mubarak street  ,
+99.OVERSEAS ELECTORS",All Voters
+138,186,138,"RAJA DURAISINGAM GOVT ARTS COLLEGE, SIVAGANGA    ,UGC HALL, WEST WING","1.Sivaganga(Nagar) Ward-23 Kamarajar Street , 2.Sivaganga(Nagar) Ward-23 Keelar Street , 3.Sivaganga(Nagar) Ward-23 Thirunavukkarasu Street , 4.Sivaganga(Nagar) Ward-23 Elango Street , 5.Sivaganga(Nagar) Ward-22 Kumaran Street  , 6.Sivaganga(Nagar) Ward-20 Bharathi 1st  Street , 7.Sivaganga(Nagar) Ward-20 Bharathi 2nd Street , 8.Sivaganga(Nagar) Ward-20 Bharathi 3rd Street , 9.Sivaganga(Nagar) Ward-20 Bharathi 4th Street , 99.OVERSEAS ELECTORS",All Voters
+139,186,139,"RAJA DURAISINGAM GOVT ARTS COLLEGE, SIVAGANGA    ,UGC HALL, SOUTH WING, EAST ROOM","1.Sivaganga(Nagar) Ward-22 Vengadachalam Street , 2.Sivaganga(Nagar) Ward-22 Thilagavathiyar Street , 3.Sivaganga(Nagar) Ward-23 Budhar 1st Street , 4.Sivaganga(Nagar) Ward-23 Budhar 2nd Street , 5.Sivaganga(Nagar) Ward-23 Budhar 3rd Street , 6.Sivaganga(Nagar) Ward-23 Indira 1st Street , 7.Sivaganga(Nagar) Ward - 23 Indira 2nd Street , 8.Sivaganga(Nagar) Ward-23 Indira 3rd Street  , 99.OVERSEAS ELECTORS",All Voters
+140,186,140,"RAJA DURAISINGAM GOVT ARTS COLLEGE, SIVAGANGA, COMMERCE HALL,   SOUTH WING","1.Sivaganga(Nagar) Ward-27 Ilayangudi Salai , 2.Sivaganga(Nagar) Ward-27 Ilayangudi Salai East , 3.Sivaganga(Nagar) Ward-27 Ilayangudi Salai East 1st Street , 99.OVERSEAS ELECTORS",All Voters
+141,186,141,"RAJA DURAISINGAM GOVT ARTS COLLEGE, SIVAGANGA    ,TAMIL DEPARTMENT","1.Sivaganga(Nagar) Ward-27 Ilayangudi Salai East 2nd Street , 2.Sivaganga(Nagar) Ward-27 Ilayangudi Salai East 3rd street , 3.Sivaganga(Nagar) Ward-27 Ilayangudi Salai East 4th Street , 4.Sivaganga(Nagar) Ward-27 Ilayangudisalai East 5th Street , 5.Sivaganga(Nagar) Ward-27 Ilayangudi salai East 6th Street , 6.Sivaganga(Nagar) Ward-27 Ilayangudi salai East 7th Street , 7.Sivaganga(Nagar) Ward-27 Ilayangudi Salai East 8th Street , 99.OVERSEAS ELECTORS",All Voters
+142,186,142,"RAJA DURAISINGAM GOVT ARTS COLLEGE, SIVAGANGA, COMMERCE HALL NORTH WING SOUTH FACING","1.Sivaganga(Nagar) Word-27 Ilayangudi salai East 9th street , 2.Sivaganga(Nagar) Ward-27 Ilayangudi Salai East 10th street , 3.Sivaganga(Nagar) Ward-27 Ilayangudi salai East 11th street , 4.Sivaganga(Nagar) Ward-27 Ilayangudi salai East 12th street , 5.Sivaganga(Nagar) Ward-27 Ilayangudi salai east 13th street , 6.Sivaganga(Nagar) Ward-27 Ilayangudi salai east 14th street , 7.Sivaganga(Nagar) Ward-27 Ilayangudi salai east 15th street , 99.OVERSEAS ELECTORS",All Voters
+143,186,143,"RAJA DURAISINGAM GOVT ARTS COLLEGE, SIVAGANGAI
+,COMMERCE HALL MIDDLE PORTION","1.Sivagangai(Nagar) Ward-27 Ilayangudi salai east 16th street 2.Sivagangai(Nagar) Ward-27 Ilayangudi salai east 17th street, 3.Sivagangai(Nagar) Ward-27 Ilayangudi salai east 18th street, 4.Sivagangai(Nagar) Ward-27 Ilayangudi salai west 1st street, 5.Sivagangai(Nagar) Ward-27 Ilayangudi salai west 2nd street, 6.Sivagangai(Nagar) Ward-27 Ilayangudi salai west 3rd street, 7.Sivagangai(Nagar) Ward-27 Ilayangudi salai West 4th street, 8.Sivagangai(Nagar) Ward-27 Ilayangudi salai west 5th street, 9.Sivagangai(Nagar) Ward-27 Ilayangudi salai west 6th street, 99.OVERSEAS ELECTORS",All Voters
+144,186,144,"RAJA DURAISINGAM GOVT ARTS COLLEGE, SIVAGANGA, COMMERCE HALL NORTH WING WEST FACING","1.Sivagangai Ward-26 Kattapomman street , 2.Sivaganga(Nagar) Ward-26,Duraisingam street , 3.Sivaganga(Nagar) Ward-26, Seikilar Street , 4.Sivaganga(Nagar) Ward-26, Kakkan bakkam East , 5.Sivaganga(Nagar) Ward-22, Marudhupandiyar street , 6.Sivaganga(Nagar) Ward-22, Kamalanehru Street , 7.Sivaganga(Nagar) Ward-23, Jeyapragash Street , 99.OVERSEAS ELECTORS",All Voters
+145,186,145,"RAJA DURAISINGAM GOVT ARTS COLLEGE, SIVAGANGA    ,COMPLEX NORTH BUILDING SOUTH WING","1.Sivaganga(Nagar) Ward-26 Vallal pari street , 2.Sivaganga(Nagar) Ward-26, College Road , 3.Sivaganga(Nagar) Ward-26, College Road 1st Street , 4.Sivaganga(Nagar) Ward-26, College road 2nd Street , 5.Sivaganga(Nagar) Ward-26,College Road 3rd Street , 6.Sivaganga(Nagar) Ward-26, College Road 4th Street , 7.Sivaganga(Nagar) Ward-27, Manamadurai Road , 99.OVERSEAS ELECTORS",All Voters
+146,186,146,"PANCHAYAT UNION MIDDLE SCHOOL, MUTHUPATTI    ,EAST BUILDING","1.Muthupatti (U) Arasani (R.V) Muthupatti ,
+99.OVERSEAS ELECTORS",All Voters
+147,186,147,"PANCHAYAT UNION MIDDLE SCHOOL, MUTHUPATTI    ,SOUTH BUILDING","1.Ponnakulam (U) Arasani (R V) Thukkal , 2.Muthupatti (U) Kottakudi (R V) Puthur , 3.Muthupatti (U) Ponnakulam (R V) Kollampatti   , 4.Muthupatti (U) Arasani (R V) Chinnakathalan   , 5.Muthupatti (U) Arasani (R V) Arasani   , 6.Ponnakulam (U) Arasani ( R V) Nainakulam   , 99.OVERSEAS ELECTORS",All Voters
+148,186,148,"PANCHAYAT UNION PRIMARY SCHOOL, VEERAVALASAI","1.Muthupatti (U) Arasani (R V) Nemmeni , 2.Muthupatti (U) Keelakandani (R V) Kalathur , 3.Ponnakulam (U) Arasani (R V) Veeravalasai   , 4.Muthupatti (U) Arasani (R.V) Keelakulam , 5.Muthupatti (U) Keelakandani (R V) Ottakulam   , 99.OVERSEAS ELECTORS",All Voters
+149,186,149,"PANCHAYAT UNION PRIMARY SCHOOL, PANIYOUR    ,NORTH BUILDING","1.Ponnakulam (U) Panaiyur (R V) Panaiyur , 2.Ponnakulam (U) (R V) Ponnakulam , 3.Ponnakulam (U) (R V) Athur , 99.OVERSEAS ELECTORS",All Voters
+150,186,150,"PANCHAYAT UNION MIDDLE SCHOOL, PILLOOR    ,ADDITIONAL BUILDING","1.Pilloor (U) (R V) Pillur ,
+2.Pilloor (U) (R V) Karubavur ,
+3.Pilloor (U) Panaiyur (R V) Azhupillaithangi , 99.OVERSEAS ELECTORS",All Voters
+151,186,151,"PANCHAYAT UNION PRIMARY SCHOOL, PADAMATHUR, ADDITIONAL BUILDING EASTERN SIDE","1.Mudikandam (P) Padamathur (R V) Nallakulam , 2.Arasanoor (P) Padamathur (R V) Sithalankudi , 99.OVERSEAS ELECTORS",All Voters
+152,186,152,"GOVERNMENT HIGH SCHOOL, PADAMATHUR, NORTH BUILDING X CLASSROOM","1.Padamathur (U) (R.V) Padamathur,                                  99.OVERSEAS ELECTORS",All Voters
+153,186,153,"PANCHAYAT UNION MIDDLE SCHOOL, KANNARIRUPPU","1.Kannariruppu (U) (R.V) Sakthisugars , 2.Kannariruppu (U) (R.V) Kannariruppu   , 99.OVERSEAS ELECTORS",All Voters
+154,186,154,"PANCHAYAT UNION ELEMENDARY SCHOOL, P.VELENGULAM","1.Mathur (U) Padamathur (R V) Nattagudi   ,
+2.Mathur (U) Padamathur (R V) Velankulam , 99.OVERSEAS ELECTORS",All Voters
+155,186,155,"PANCHAYAT UNION MIDDLE SCHOOL, MATHUR    ,WEST WING","1.Mathur (U) (R V) Ilanthangudi   ,
+2.Mathur (U) (R V) Mathur ,
+3.Mathur (U) Padamathur (R V) Pottakulam   , 99.OVERSEAS ELECTORS",All Voters
+156,186,156,"PANCHAYAT UNION PRAIMARY SCHOOL, KALLOORANI    ,SOUTH BUILDING NORTH WING","1.Kallurani (p) (R V) Kallurani , 99.OVERSEAS ELECTORS",All Voters
+157,186,157,PANCHAYAT UNION PRIMARY SCHOOL KAVUL ALAGAPURI,"1.Kallurani (p) (R V) Kavul alagapuri , 99.OVERSEAS ELECTORS",All Voters
+158,186,158,"PANCHAYAT UNION PRIMARY SCHOOL, PACHERI    ,NORTH BUILDING","1.Patcheri (p) Vembattur (R V) Patcheri ,
+2.Patcheri (p) Vembattur (R V) Patcheri ,
+3.Patcheri (p) Vembattur (R V) Meenatchipuram ,
+4.Patcheri (p) Vembattur (R V) Gandhi nagar  colony , 99.OVERSEAS ELECTORS",All Voters
+159,186,159,"RC PRIMARY SCHOOL ,PACHERI .
+,TERRACE BUILDING WEST FACING","1.Patcheri (p) Vembattur (R V) Patcheri ,
+2.Patcheri (p) Vembattur (R V) Patcheri ,
+3.Patcheri (p) Vembattur (R V) Meenatchipuram ,
+4.Patcheri (p) Vembattur (R V) Gandhi nagar  colony , 99.OVERSEAS ELECTORS",All Voters
+160,186,160,"GOVT HIGHER SEC. SCHOOL, VEMBATHUR    ,EAST   2 ROOM BUILDING NORTH WING","1.Vempathur (p) (R V)   (R V) Vempathur,indhira nagar,annanagar , 2.Vempathur (p)   (R V) South street,Middle street  ,
+3.Vempathur (p)   (R V) Agraharam north street , 4.Vempathur (p) (R V) Azhagapuri lakshmipuram , 99.OVERSEAS ELECTORS",All Voters
+161,186,161,"GOVT HIGHER SEC. SCHOOL,VEMBATHUR    ,WEST 4 ROOM BUILDING MIDDLE ROOM","1.Vempathur (p) (R V) Indhiranagar,annanagar , 2.Vempathur (p) (R V) Middle street,East street , 3.Vempathur (p) (R V) Agraharam,North street , 4.Vempathur (p) (R V) Azhagapuri,Lakshmipuram , 99.OVERSEAS ELECTORS",All Voters
+162,186,162,"R.C. MIDDLE SCHOOL, MICHELPATTINAM    ,NORTH BUILDING","1.Michaelpattinam (p) (R V) Michaelpattinam ,
+2.Mychael pattinam (p) (R V) Karpagavinayagapuram , 99.OVERSEAS ELECTORS",All Voters
+163,186,163,"PANCHAYAT UNION PRIMARY SCHOOL, IDAIKATTUR
+,ADDITIONAL BUILDING","1.Idaikkattur (p) (R V) Idaikkattur ward 1 , 2.Idaikkattur (p) (R V) Idaikkattur ward 2 , 3.Idaikkattur (p) (R V) Idaikkattur ward 3 , 99.OVERSEAS ELECTORS",All Voters
+164,186,164,"PANCHAYAT UNION PRIMARY SCHOOL, IDAIKATTUR    ,MAIN BUILDING","1.Idaikkattur (p) (R V) Idaikkattur ward 1 , 99.OVERSEAS ELECTORS",All Voters
+165,186,165,"PANCHAYAT UNION PRIMARY SCHOOL, IDAIKATTUR    ,SOUTH BUILDING MIDDLE ROOM","1.Idaikkattur (p) (R V) Idaikkattur ward 2 , 2.Idaikkattur (p) (R V) Idaikkattur ward 3 , 99.OVERSEAS ELECTORS",All Voters
+166,186,166,"R.C PRIMARY SCHOOL, ARULANANDHAPURAM    ,NEW BUILDING","1.Pathinettankottai (p) Idaikattur (R V) Pathinettankottai , 2.Arulandapuram (p) Idaikattur (R V) Arulanandhapuram , 99.OVERSEAS ELECTORS",All Voters
+167,186,167,"PANCHAYAT UNION MIDDLE SCHOOL, V.PUDHUKULAM","1.V. pudhukkulam (p) (R V) Puthu east ,
+2.V. pudhukkulam (p) (R V) Puthukulam west , 99.OVERSEAS ELECTORS",All Voters
+168,186,168,"PANCHAYAT UNION MIDDLE SCHOOL, PAPPANGULAM","1.Manamadurai V.Pudhukulam (R V) Pappankulam , 99.OVERSEAS ELECTORS",All Voters
+169,186,169,"GOVERNMENT HIGHER SECONDARY SCHOOL, PERIYAKOTTAI    ,EASTERN SIDE BUILDING NORTH PORTION","1.V. pudhukkulam (p) (R V) kottai Street , 99.OVERSEAS ELECTORS",All Voters
+170,186,170,"GOVT. HIGHER SECONDARY SCHOOL, PERIYAKOTTAI    ,SOUTH BUILDING WESTERN SIDE","1.V. pudhukkulam (p) (R V) SouthNorth Street  , 99.OVERSEAS ELECTORS",All Voters
+171,186,171,"PANCHAYAT UNION PRAIMARY SCHOOL, SRIRANGANATHAM","1.V. pudhukkulam (p) (R V) Solangulam ,
+2.V. pudhukkulam (p) (R V) Thekkur  ,
+3.V. pudhukkulam (p) (R V) Sri ranganatham ,
+4.V. pudhukkulam (p) (R V) Kalikadu ,
+5.Sirukudi (p) (R V) Kallarkulam , 99.OVERSEAS ELECTORS",All Voters
+172,186,172,"GANDHIJI PRIMARY SCHOOL, MULAKULAM","1.Mukkulam (U) Mathur(R.V) Saruganendhal   ,
+2.Mukkulam (U) Mathur(R.V) Munaikulam   , 99.OVERSEAS ELECTORS",All Voters
+173,186,173,"GOVT HIGH SCHOOL, SITHALOOR","1.Pilloor (U) Kovanoor(R.V) Muthaloor ,
+2.Pilloor (U) Kovanoor(R.V) Murasupatti   ,
+3.Kovanur (U)Kovanoor(R.V) Sithalur , 99.OVERSEAS ELECTORS",All Voters
+174,186,174,"PANCHAYAT UNION PRIMARY SCHOOL, KOVANOOR    ,NORTH BUILDING","1.Kovanur (U) Kovanoor(R.V) Keelakovanur  ,
+2.Kovanur (U) Kovanoor(R.V) Melakovanur , 3.Padamathur (U) Kovanoor(R.V) Manaseri ,
+4.Kovanur (U)   Kovanoor(R.V) Nainakulam   , 99.OVERSEAS ELECTORS",All Voters
+175,186,175,"PANCHAYAT UNION PRIMARY SCHOOL, KOOTHANDAN      ,WEST BUILDING","1.Vallaneri (P) Alangulam (R V) Koothandan Side   , 2.Vallaneri (P) Melavaniyangudi (R V) Annamalai Nagar , 99.OVERSEAS ELECTORS",All Voters
+176,186,176,"PANCHAYAT UNION PRIMARY SCHOOL, KOOTHANDAN,  SOUTH BUILDING EAST WING","1.Vallaneri (P) Melavaniyangudi (R V) Annamalai Nagar-North , 99.OVERSEAS ELECTORS",All Voters
+177,186,177,"PANCHAYAT UNION PRIMARY SCHOOL, KOOTHANDAN      ,SOUTH BUILDING","1.Vallaneri (P) Alangulam (R V) Vallaneri , 99.OVERSEAS ELECTORS",All Voters
+178,186,178,"PANCHAYAT UNION PRIMARY SCHOOL, KEELAVANIYANGUDI
+,EAST BUILDING","1.Vaniyankudi (P) Melavaniyankudi(R.V) Melavaniyankudi South , 99.OVERSEAS ELECTORS",All Voters
+179,186,179,"ANNAI SRI VEERAMAKALI AMMAN METRIC HIGHER SECONDARY SCHOOL, MELAVANIYANKUDI","1.Vaniyankudi (P) Melavaniyankudi(R.V) Melavaniyankudi North , 99.OVERSEAS ELECTORS",All Voters
+180,186,180,"PANCHAYAT UNION PRIMARY SCHOOL, SAMIYARPATTI","1.Vaniyankudi (P) Melavaniyangudi(R.V) Samiyarpatti , 99.OVERSEAS ELECTORS",All Voters
+181,186,181,"PANCHAYAT UNION PRIMARY SCHOOL, KEELAVANIYANGUDI
+,WEST BUILDING","1.Vaniyankudi (P) Melavaniyangudi(R.V) Keelavaniyankudi , 99.OVERSEAS ELECTORS",All Voters
+182,186,182,"PANCHAYAT UNION PRIMARY SCHOOL, PAIYOUR, WEST BUILDING","1.Vaniyankudi (P) Paiyurpillaivayal(R.V) Palamalainagar , 99.OVERSEAS ELECTORS",All Voters
+183,186,183,"PANCHAYAT UNION PRIMARY SCHOOL, PAIYOUR, EAST BUILDING","1.Vaniyankudi (P) Paiyurpillaivayal(R.V) Paiyur,            2.Vaniyankudi
+(P) Paiyurpillaivayal(R.V) Kattukudiyiruppu, 99.OVERSEAS ELECTORS",All Voters
+184,186,184,"PANCHAYAT UNION PRIMARY SCHOOL,VALLANI    ,  SOUTH SIDE EAST WING","1.Vaniyankudi (P) Paiyurpillaivayal(R.V) Vallani , 99.OVERSEAS ELECTORS",All Voters
+185,186,185,"District Government Music School, Alagumeiganapuram","1.Vaniyankudi (P) Paiyurpillaivayal(R.V) Alagumeignanapuram, 99.OVERSEAS ELECTORS",All Voters
+186,186,186,"PANCHAYAT UNION PRIMARY SCHOOL,VANDAVASI    ,WEST BUILDING","1.Vaniyankudi (P) Paiyurpillaivayal(R.V) Enapuram , 2.Vaniyankudi (P) Paiyurpillaivayal(R.V) Vandavasi , 99.OVERSEAS ELECTORS",All Voters
+187,186,187,"48 COLONY MUNICIPALITY MIDDLE SCHOOL SIVAGANGAI    ,EAST BUILDING WEST WING","1.Vaniyankudi (P) Payurpillaivayal(R.) Samathuvapuram , 99.OVERSEAS ELECTORS",All Voters
+188,186,188,"48 COLONY MUNICIPALITY MIDDLE SCHOOL SIVAGANGAI    ,WEST BUILDING EAST WING","1.Vaniyankudi (P) Payurpillaivayal(R.V) Annanagar   , 99.OVERSEAS ELECTORS",All Voters
+189,186,189,"48 COLONY MUNICIPALITY MIDDLE SCHOOL SIVAGANGAI    ,WEST BUILDING NORTH WING","1.Vaniyankudi (P) Payurpillaivayal(R.V) Seenivasanagar   , 99.OVERSEAS ELECTORS",All Voters
+190,186,190,"48 COLONY MUNICIPALITY MIDDLE SCHOOL SIVAGANGAI    ,WEST BUILDING WEST WING","1.Vaniyankudi (P) Payurpillaivayal(R.V) Army Force,
+99.OVERSEAS ELECTORS",All Voters
+191,186,191,"48 COLONY MUNICIPALITY MIDDLE SCHOOL SIVAGANGAI  ,EAST BUILDING EAST WING","1..Vaniyankudi (P) Paiyurpillaivayal(R.V) Kurunji Nagar, 99.OVERSEAS ELECTORS",All Voters
+192,186,192,"PANCHAYAT UNION PRIMARY SCHOOL, KEELAKANDANI
+,NORTHERN SIDE MIDDLE BUILDING","1.Vallaneri (P) Keelakandani (R V) Melavellanji , 2.Alangulam (P) Keelakandani (R V) Uchappuli , 3.Alangulam (P) Mangudi (R V) Kuttithinni , 99.OVERSEAS ELECTORS",All Voters
+193,186,193,"PANCHAYAT UNION PRIMARY SCHOOL, KEELAKANDANI    ,NORTH BUILDING","1.Vallaneri (P) Keelakandani(R.V) Keelakandani , 2.Vallaneri (P) Keelakkandani(R.V) Melakandani , 99.OVERSEAS ELECTORS",All Voters
+194,186,194,"GOVERNMENT HIGHER SECONDARY SCHOOL MANGUDI    ,NORTHERN SIDE WEST BLOCK,  MIDDLE ROOM NO.10","1.Mangudi Therguvadi (P) Mangudi(R.V) Mangudi Mangudi Colony ,
+99.OVERSEAS ELECTORS",All Voters
+195,186,195,"GOVERNMENT HIGHER SECONDARY SCHOOL MANGUDI    ,SOUTH WING","1.Mangudi Therguvadi (P) Mangudi(R.V) Nadumangudi Theruguvadi , 99.OVERSEAS ELECTORS",All Voters
+196,186,196,"PANCHAYAT UNION PRIMARY SCHOOL, VAIRAVANPATTI      ,WEST BUILDING","1.Mangudi Therguvadi (P) Valuthani (R V) Kallupatti   ,
+2.Mangudi Therguvadi (P) Valuthani (R V) Vairavanpatti ,
+3.Mangudi Therguvadi (P) Valuthani (R V) Koneri   ,
+4.Mangudi Therguvadi (P) Valuthani (R V) Erumpugudi kalani   ,
+5.Mangudi Therguvadi (P) Valuthani (R V) Vanakaruppu   ,
+6.Mangudi Therguvadi (P) Kayangulam (R V) Kidappuri , 99.OVERSEAS ELECTORS",All Voters
+197,186,197,"PANCHAYAT UNION MIDDLE SCHOOL URULI    ,SOUTH BUILDING","1.Kudanjadi (U) Kayangulam(R.V) Uruli kayangulam   , 99.OVERSEAS ELECTORS",All Voters
+198,186,198,"PANCHAYAT UNION PRIMARY SCHOOL,   MUTHARASAN","1.Kudanjadi (U) Kayangulam(R.V) Mangudi (R V) Kudanjadi (R V) Mutharasan Kudanjadi   ,
+99.OVERSEAS ELECTORS",All Voters
+199,186,199,"PANCHAYAT UNION MIDDLE SCHOOL, SUNDARANADAPPU","1.K.Nedunkulam (U) Suntharanadapu (r.v) K.Nedungulam , 2.K.Nedunkulam (U) Suntharanatappu(R.V) M. Manakarai   , 99.OVERSEAS ELECTORS",All Voters
+200,186,200,"PANCHAYAT UNION MIDDLE SCHOOL, SUNDARANADAPPU
+,WEST WING BUILDING","1.K.Nedungulam (U) Suntharanadappu(R.V) Sundharanadappu , 2.K.Nedungulam (U) Suntharanappu(R.V) Thuvangal   , 99.OVERSEAS ELECTORS",All Voters
+201,186,201,"VILLAGE PANCHAYAT SERIVICES CENTRE, VEMBANKUDI","1.Kottakudi Keelapatthi (U) Vembangudi (R V) Vembangudi   , 2.Kottakudi Keelapatthi (U) Alangualam (R V) Alangulam   , 99.OVERSEAS ELECTORS",All Voters
+202,186,202,"PANCHAYAT UNION PRIMARY SCHOOL, MADAKKOTTAI","1.Kottakudi Keelapatthi (U) Alangulam (R V) Udaiyanathapuram   , 2.Kottakudi Keelapatthi (U) Alangualam (R V) Usilangulam , 3.Kottakudi Keelapatthi (U) Alangualam (R V) Kadukkapallam   , 4.Nadamangalam (P) Vembankudi (R V) Madakkottai , 99.OVERSEAS ELECTORS",All Voters
+203,186,203,"PANCHAYAT UNION PRIMARY SCHOOL, MAHASIVANENDAL    ,3 ROOM BUILDING MIDDLE ROOM","1.Alangulam (P) Poovali (R V) Puthupatti , 2.Alangulam (P) (R V) Magasivanendhal   , 3.Alangulam (P) (R V) Oothikulam   , 4.Alangulam (P) (R V) Kattadikulam   ,
+5.Kottakudi Keelapatthi (U) Alangulam (R V) Kalgulam   , 99.OVERSEAS ELECTORS",All Voters
+204,186,204,"PANCHAYAT UNION MIDDLE SCHOOL, PERIYAOLIGUDIPATTI","1.South mavali (U) Nariyangudi (R V) Periavalaikudi   ,
+2.South mavali (U) Nariyangudi (R V) Chinnavalaikudi   ,
+3.South mavali (U) Silanthangudi (R V) Ilanthangudi   , 99.OVERSEAS ELECTORS",All Voters
+205,186,205,"PANCHAYAT UNION PRIMARY SCHOOL,   KOTTUTHURAIPATTI
+,WEST WING","1.Nariyangudi (p) R.V Nariyangudi , 2.Nariyangudi (p) R.V Kottuthduraipatti , 3.Nariyangudi (p) R.V Kattuganpatti , 4.Nariyangudi (p) R.V Thavasiyendalpatti , 99.OVERSEAS ELECTORS",All Voters
+206,186,206,"PANCHAYAT UNION PRIMARY SCHOOL,   CHOCKNATHAPURAM
+,NORTH   BUILDING EAST WING","1.Sokkanathapuram (U) Kathappattu (R.V) Kathapattu, 99.OVERSEAS ELECTORS",All Voters
+207,186,207,"PANCHAYAT UNION PRIMARY SCHOOL, CHOCKNATHAPURAM
+,EAST FACING WEST BUILDING","1.Sokkanathapuram (U) Kathappattu (R.V) Sokkanathapuram, 2.Sokkanathapuram (U) Kathappattu (R.V) Kottamadapalli, 99.OVERSEAS ELECTORS",All Voters
+208,186,208,"GOVT HIGH SCHOOL, CHOCKNATHAPURAM      ,WEST BUILDING WEST WING","1.Sokkanathapuram (U) Katthappattu (R V) Puthadipatti   , 2.Sokkanathapuram (U) Katthappattu (R V) Kovilpatti   , 3.Sokkanathapuram (U) Katthappattu (R V) Alangulathanpatti   , 99.OVERSEAS ELECTORS",All Voters
+209,186,209,"GOVT HIGH SCHOOL, CHOCKNATHAPURAM      ,WEST BUILDING","1.Sokkanathapuram (U) Katthappattu (R V) Paikudipatti   , 2.Sokkanathapuram (U) Kottapatti (R V) Gowripattinam, Kottapatti   , 3.Sokkanathapuram (U) Katthappattu (R V) Vellanjampatti   , 99.OVERSEAS ELECTORS",All Voters
+210,186,210,"PANCHAYAT UNION MIDDLE SCHOOL,KEELAKOTTAI    ,EAST BUIKLDING","1.Kottagudi(U) Keezhakottai (R V) Kottakudi , 2.Kottagudi(U) Keezhakottai (R V) Keelakottai   , 99.OVERSEAS ELECTORS",All Voters
+211,186,211,"PANCHAYAT UNION MIDDLE SCHOOL,KEELAKOTTAI      ,WEST
+BUILDING","1.Kottagudi(U) Keezhathurumbu (R V) Alavilampatti,  Kalavayal , 99.OVERSEAS ELECTORS",All Voters
+212,186,212,"PANCHAYAT UNION MIDDLE SCHOOL,KEELAKOTTAI    ,WEST WING","1.Kottagudi(U) Alavilampatti (A) Keezhathurumbu (R V) Sadaiyanpatti
+,
+2.Kottagudi(U) Keezhakottai (R V) Poiyamanipatti , 3.Kottagudi(U) Keezhakottai (R V) Kollampatti   , 4.Kottagudi(U) Alavilampatti (A) Keezhathurumbu (R V) Thurumpupatti   ,
+99.OVERSEAS ELECTORS",All Voters
+213,186,213,"MEYAMMAL KASI GOVT HSC SCHOOL SEMBANOOR    , EAST BUILDING MIDDLE PORTION","1.Sembanoor  (p)R.V W 1-sivankovil street , 2.Sembanoor  (p)R.V Ward-1 chettiyar street , 3.Sembanoor  (p)R.V W-2,3,Mathakovil street , 99.OVERSEAS ELECTORS",All Voters
+214,186,214,"MEYAMMAI KASI  GOVT HSC SCHOOL, SEMBANOOR    , SOUTH EAST BUILDING SOUTH PORTION","1.Sembanoor  (p)R.V W-3 main road , 2.Sembanoor  (p)R.V W-2,3,Neththaji road , 3.Sembanoor  (p)R.V W-4 thiruvalluvar street ,
+4.Sembanoor  (p)R.V Ward-4 govt.hospital kudiyiruppu , 99.OVERSEAS ELECTORS",All Voters
+215,186,215,"MEYAMMAI KASI  GOVT HSC SCHOOL, SEMBANOOR    ,MAIN BUILDING ADDITIONAL BUILDING EAST WING RIGHT SIDE","1.Sembanoor  (p)R.V W-1 puthukkudi , 2.Sembanoor  (p)R.V W-1 meenatchipuram , 3.Sembanoor  (p)R.V W-1 venkatramapuram , 99.OVERSEAS ELECTORS",All Voters
+216,186,216,"PANCHAYAT UNION PRIMARY SCHOOL, KALLAL    ,UNDER THE LIMIT OF DEVAPATTU","1.Devappattu (p)R.V Ward-1 devappattu , 2.Devappattu (p) R.V Ward-2 p. kovil patti , 3.Devappattu (p) R.V Ward-2 mangan punjai , 99.OVERSEAS ELECTORS",All Voters
+217,186,217,"BRITTO HIGHER SECONDARY SCHOOL, KALLAL, XIl-A1, STANDARD","1.Kallal (p) R.V Ward-1 mahernonbhu ,
+2.Kallal (p) R.V Ward-1 pudhuvalavu nadar street ,
+3.Kallal (p)R.V Ward-1 vadakku chettiyar street , 99.OVERSEAS ELECTORS",All Voters
+218,186,218,"BRITTO HIGHER SECONDARY SCHOOL, KALLAL ,EAST FACING BUILDING XIl-B,TH STANDARD","1.Kallal (p) R.V Ward-1 tamizhar street ,
+2.Kallal (p) R.V Ward-1 somasundharam street ,
+3.Kallal (p)R.V Ward-1 marunkippatti ,
+4.Kallal (p)R.V Ward-1 chinnaurani vadakarai ,
+5.Kallal (p)R.V Ward-1 chinna urani keelkarai , 99.OVERSEAS ELECTORS",All Voters
+219,186,219,"BRITTO HIGHER SECONDARY SCHOOL, KALLAL    ,EAST   FACING BUILDING   XI TH STANDARD","1.Kallal (p)R.V Ward-3   pramanar street ,
+2.Kallal (p)R.V Ward-2 chettiyar street ,
+3.Kallal (p)R.V Ward-2 periya kadai veethi ,
+4.Kallal (p)R.V Ward-2 pazhiya kadai veethi , 99.OVERSEAS ELECTORS",All Voters
+220,186,220,"PANCHAYAT UNION PRIMARY SCHOOL INDRA NAGAR KALLAL
+,SOUTH PORTION","1.Kallal (p)R.V Ward-2 indhira nagar ,
+2.Kallal (p)R.V Ward-2 south 5th street ,
+3.Kallal (p)R.V Ward-2 sambanur salai ,
+4.Kallal (p)R.V Ward-2 karaikkudi salai ,
+5.Kallal (p)R.V Ward-2 south 6th street ,
+6.Kallal (p)R.V Ward-2 r.c. s. veethi ,
+7.Kallal (p)R.V Ward-2 mela theru ,
+8.Kallal (p)R.V Ward-2 police line ,
+9.Kallal (p)R.V Ward-2 nethaji street ,
+10.Kallal (p)R.V Ward-2 south 4th street , 99.OVERSEAS ELECTORS",All Voters
+221,186,221,"BRITTO PRIMARY SCHOOL, KALLAL
+,NORTH WING EAST SIDE","1.Kallal (p)R.V W-3 pazhaya valavu nadar street gudiyanavar street ,
+2.Kallal R.V Ward-3 gudiyanaver street ,
+3.Kallal R.V Ward-3 pazhiya vellar  street ,
+4.Kallal R.V Ward-3 sembanur road , 99.OVERSEAS ELECTORS",All Voters
+222,186,222,"BRITTO PRIMARY SCHOOL, KALLAL
+,NORTH WING MIDDLE PORTION","1.Kallal R.V Ward-3   seeni nagar ,
+2.Kallal R.V Ward-3 indhira nagar , 99.OVERSEAS ELECTORS",All Voters
+223,186,223,"BRITTO PRIMARY SCHOOL, KALLAL, WEST SIDE","1.Kallal R.V Ward-3 indhira nagar-SOUTH,                        99.OVERSEAS ELECTORS",All Voters
+224,186,224,"BRITTO PRAIMARY SCHOOL, KALLAL
+,NORTH WING WEST SIDE","1.Kallal (p)R.V Ward-3 pazhaya valavu nadar street ,
+2.Kallal (p)R.V Ward-3 bharathi veethi nerkani ,
+3.Kallal (p)R.V Ward-3 bharathi street ,
+4.Kallal (p)R.V Ward-3 purandi veethi , 99.OVERSEAS ELECTORS",All Voters
+225,186,225,"ST. SEBATHIYAR PRAIMARY SCHOOL
+, KUTHALOOR, ADDITIONAL BUILDING WEST WING OLD BUILDING","1.Kutthalur (p) R.V. Ward-1 kutthalur ammankovil theru , 2.Kutthalur (p) R.V Ward-1 mainroad iadayar st. , 3.Kutthalur (p)R.V Ward-1 santhiamman kovil street , 4.Kutthalur (p)R.V Ward-1 veera vinayagar  street , 5.Kutthalur (p)R.V Ward-2 sebesthyar street , 99.OVERSEAS ELECTORS",All Voters
+226,186,226,"ST. SEBATHIYAR PRAIMARY SCHOOL
+, KUTHALOOR, ADDITIONAL BUILDING WEST WING ADDITIONAL BUILDING","1.Kutthalur (p)R.V Ward-2 ambethkar   nagar  , 2.Kutthalur (p)R.V Ward-2 indhira nagar , 3.Thalakkavur (p) KoothallurR.V Ward-3 keeranippatti , 99.OVERSEAS ELECTORS",All Voters
+227,186,227,GOVERNMENT   PRIMARY SCHOOL POYYALOOR.,"1.Poiyalur (p)Vaarivayal R.V Ward-1 poiyalur ,
+2.Poiyalur (p) Vaarivayal R.V Ward-1 nethaji puram ,
+3.Poiyalur (p) Vaarivayal R.V Ward-1 alavanthan patti ,
+4.Poiyalur (p) Vaarivayal R.V Ward-1 varivayal , 99.OVERSEAS ELECTORS",All Voters
+228,186,228,"PANCHAYAT UNION MIDDLE SCHOOL PADATHANPATTI      ,SOUTH WING","1.Poiyalur (p) Vaarivayal R.V Ward-1 mandaiyappatti ,
+2.Poiyalur (p) Vaarivayal R.V Ward-1,2,Idaiyanvayal ,
+3.Poiyalur (p) Vaarivayal R.V Ward-2 padatthanpatti ,
+4.Poiyalur (p) Vaarivayal R.V Ward-2 narunjikkudipatti ,
+5.Poiyalur (p) Vaarivayal R.V.  Ward-2 surakkudiyan patti ,
+6.Poiyalur (p)Vaarivayal R.V Ward-1,2,Varivayal kattukudiruppu, 99.OVERSEAS ELECTORS",All Voters
+229,186,229,"PANCHAYAT UNION MIDDLE SCHOOL, PILAR","1.Kutthalur (p)R.V Ward-3 pilar ,
+2.Kutthalur (p) Pilar   R.V Ward-3 pottappunjai , 3.Kutthalur (p) Pilar   R.V Ward-3 keezhakkudiyiruppu , 4.Kutthalur (p) Pilar   R.V Ward-3 anaiththidal , 5.Kutthalur (p) Pilar   R.V. Ward-3 veeran nagar , 99.OVERSEAS ELECTORS",All Voters
+230,186,230,"PANCHAYAT UNION MIDDLE SCHOOL, SETHURAGUNATHAPATTINAM
+,ADDITIONAL BUILDING","1.Sethuragunathapattinam (p) R.V W-3,4,Sethuragunathapattinam , 99.OVERSEAS ELECTORS",All Voters
+231,186,231,"PANCHAYAT UNION MIDDLE SCHOOL, SETHURAGUNATHAPATTINAM
+,SOUTH FACING ROOM","1.Sethuragunathapattinam (p) R.V W-1,2,Annanagar , 2.Sethuragunathapattinam (p)R.V W-1 parungulam , 99.OVERSEAS ELECTORS",All Voters
+232,186,232,"ANGANWADI CENTRE, NAGAVAYAL,NORTH SIDE BUILDING, SOUTH FACE","1.Sethuragunathapattinam (p) R.V W-1 nagavayal(a)arockiyapuram , 99.OVERSEAS ELECTORS",All Voters
+233,186,233,"GOVERNMENT HIGHER SECONDARY SCHOOL, VISALAYANKOTTAI ,6-TH STANDARD","1.Vesalayankottai (p) R.V W-1 VAIYAPURI  , 2.Vesalayankottai (p) R.V W-1 thiruvalluvar street , 3.Vesalayankottai (p) R.V W-1 muththaraiyar street , 4.Vesalayankottai (p) R.V W-1 mathakovilstreet , 5.Vesalayankottai (p) R.V W-1 muthuramalinga dever street  , 99.OVERSEAS ELECTORS",All Voters
+234,186,234,"GOVERNMENT HIGHER SECONDARY SCHOOL , VISALAYANKOTTAI, 7TH STANDRAD","1.Vesalayankottai (p) R.V W-3 pallapatchari , 2.Vesalayankottai (p) R.V W-3 sannavanam ,
+3.Vesalayankottai (p) R.V W-3 rama nayakkanendal navithanthidal , 4.Vesalayankottai (p)R.V W-3 vethamuthu nagar ,
+5.Vesalayankottai (p)R.V W-3 bakadi , 99.OVERSEAS ELECTORS",All Voters
+235,186,235,"PANCHAYAT UNION MIDDLE SCHOOL, VEPANGULAM    ,TILED BUILDING SOUTH WING WEST PORTION","1.Veppangulam (p)R.V W-1 pazhaya veppangulam , 2.Veppangulam (p)R.V Ward-2 pervalasai , 3.Veppangulam (p)R.V W-3 kalkulam atchani , 99.OVERSEAS ELECTORS",All Voters
+236,186,236,"PANCHAYAT UNION MIDDLE SCHOOL, VEPANGULAM    ,WEST WING WEST PORTION","1.Veppangulam (p)R.V W-4 puthuveppangulam , 99.OVERSEAS ELECTORS",All Voters
+237,186,237,"PANCHAYAT UNION MIDDLE SCHOOL, VEPANGULAM, TILED BUILDING EAST WING WEST PORTION","1.Veppangulam (p)R.V W-5 colony,                                         2.Veppangulam (p)R.V W-6 themmavayal   (a) santhanavayal, 99.OVERSEAS ELECTORS",All Voters
+238,186,238,"PANCHAYAT UNION PRIMARY SCHOOL, KEELEPOONGUDI
+,NORTH BUILDING","1.Keezhapoongudi (p)R.V Melappungudi keelavalavu , 2.Keezhapoongudi (p)R.V Melappungudi melavalavu , 3.Keezhapoongudi (p) R.V Meelapoongudi north valavu , 4.Keezhapoongudi (p)R.V Melappoongudi colony , 5.Keezhapoongudi (p) R.V Keezhaputhuvetti , 6.Keezhapoongudi (p) R.V Melaputhuvetti , 99.OVERSEAS ELECTORS",All Voters
+239,186,239,"PANCHAYAT UNION PRIMARY SCHOOL, KEELEPOONGUDI    ,EAST BUILDING","1.Keezhapoongudi (p)R.V Keezhapoongudi mevalavu , 2.Keezhapoongudi (p) R.V Keezhapoongudi keezhavalavu , 99.OVERSEAS ELECTORS",All Voters
+240,186,240,"PANCHAYAT UNION PRIMARY SCHOOL, ALAMPATTU      ,SOUTH BUILDING","1.Alampattu (p) R.V W-1 alampattu , 2.Alampattu (p) R.V W-2 puthuvalavu , 3.Alampattu (p) R.V Ward-3 vilarippatti , 99.OVERSEAS ELECTORS",All Voters
+241,186,241,"PANCHAYAT UNION PRIMARY SCHOOL, ALAMPATTU      ,NORTH BUILDING","1.Alampattu (p) R.V W-4 colony , 2.Alampattu (p) R.V Ward-5 karaikudippatti , 3.Alampattu (p) R.V W-6 arikurunji ,
+4.Alampattu (p) R.V W-7 kodungulam (a) vilavadiyendal , 99.OVERSEAS ELECTORS",All Voters
+242,186,242,"PANCHAYAT UNION MIDDLE SCHOOL, KURUNTHAMPATTU
+,WEST WING","1.Kurunthampattu (p)R.V W-1 avidanthidal , 2.Kurunthampattu (p)R.V W-1 ugampattu , 3.Kurunthampattu (p)R.V W-1 kurunthampattu east , 99.OVERSEAS ELECTORS",All Voters
+243,186,243,"PANCHAYAT UNION MIDDLE SCHOOL KURUNTHAMPATTU. NORTH BUILDING   SOUTH FACING, 8th STANDARD ROOM.","1.Kurunthampattu (p) R.V W-2 kurunthampattu west , 99.OVERSEAS ELECTORS",All Voters
+244,186,244,PANCHAYAT UNION MIDDLE SCHOOL KURUNTHAMPATTU. NORTH BUILDING   SOUTH FACING 5th STANDARD ROOM.,"1.Kurunthampattu (p) R.V W-2 thaittam pathu , 2.Kurunthampattu (p) R.V W-2 somanathapuram , 3.Kurunthampattu (p) R.V W-2 siriya somanathapuram , 4.Kurunthampattu (p) R.V W-2 kavil patti pongal thalai , 5.Kurunthampattu (p) R.V W-2 somanathapuram aadhithiravider colony ,
+6.Kurunthampattu (p) R.V W-2 somanathapuram colony , 99.OVERSEAS ELECTORS",All Voters
+245,186,245,"PANCHAYAT UNION PRIMARY SCHOOL, SATHAMPATTI
+,ADDITIONAL BUILDING","1.Vesalayankottai (p) R.V W-2 sathithampaththi south kudiyiurppu , 2.Vesalayankottai (p) R.V W-2 sathithampaththi north kudiyiurppu , 99.OVERSEAS ELECTORS",All Voters
+246,186,246,"DHAGOOR MIDDLE SCHOOL, A.SIRUVAYAL    ,SOUTH WING","1.Aranmanai chiruvayal (p)R.V Ward-2 mathavaraianpatti , 2.Aranmanai chiruvayal (p)R.V W-2 muthuramalinganagar , 3.Aranmanai chiruvayal (p)R.V W-2 railway colony , 99.OVERSEAS ELECTORS",All Voters
+247,186,247,"DHAGOOR MIDDLE SCHOOL, A.SIRUVAYAL, MIDDLE PORTION","1.Aranmanai chiruvayal (p) W-1 a. siruvayal,                   99.OVERSEAS ELECTORS OVERSEAS ELECTORS",All Voters
+248,186,248,"DHAGOOR MIDDLE SCHOOL, A. SIRUVAYAL    ,NORTH WING","1.Aranmanai chiruvayal (p)R.V W-3 udumban patti , 2.Aranmanai chiruvayal (p)R.V W-1 veerapandikarai , 3.Aranmanai chiruvayal (p)R.V W-1 d-chiruvayal , 99.OVERSEAS ELECTORS",All Voters
+249,186,249,"R.C.PRIMARY SCHOOL, MUTHUPATTI","1.Aranmanai chiruvayal (p)R.V Ward-5 muthuppatti , 99.OVERSEAS ELECTORS",All Voters
+250,186,250,"R.C MIDDLE SCHOOL, SATHARASANPATTI      ,NORTH BUILDING WEST WING","1.A.  chiruvayal (p)R.V W-3 gurungkalippatti ,
+2.A.  chiruvayal (p)R.V W-3 thanneer panthal ,
+3.A.  chiruvayal (p)R.V W-3 annanagar ,
+4.A.  chiruvayal R.V W-3 saththarasanpatti north , 99.OVERSEAS ELECTORS",All Voters
+251,186,251,"R.C MIDDLE SCHOOL, SATHARASANPATTI    ,EAST BUILDING","1.A.  chiruvayal (p)R.V W-3 saththarasanpatti south ,
+2.A.  chiruvayal (p)R.V W-2 puliyagkudippatti , 99.OVERSEAS ELECTORS",All Voters
+252,186,252,"PANCHAYAT UNION PRIMARY SCHOOL, P.NERPUGAPPATTI","1.Nerpugappatti (p)R.V W-1 kumatchippatti , 2.Nerpugappatti (p) R.V W-2 nerpugappatti-eachampatti , 3.Nerpugappatti (p)R.V W-2 kalatthivayal , 99.OVERSEAS ELECTORS",All Voters
+253,186,253,"ROMAN CATHLIC MIDDLE SCHOOL, PANANGUDI, EAST PORTION Room
+No 1","1.Panagudi (p)R.V Puthuvalavu w-1 ,
+2.Panagudi (p)R.V Therkkuvalavu w-1 ,
+3.Panagudi (p)R.V Naduvalavu w-1 ,
+4.Panagudi (p)R.V Merkkuvalavu west street w-2 ,
+5.Panagudi (p)R.V South Street   (West part) w-2, 99.OVERSEAS ELECTORS",All Voters
+254,186,254,"ROMAN CATHLIC MIDDLE SCHOOL, PANANGUDI, EAST WING ROOM No 2","1.Panagudi (p)R.V South Street (East part) w-2,
+2.Panagudi (p)R.V Valaiyar street (west part) w-1 ,
+3.Panagudi (p)R.V Valaiyar street (east part) w-1 ,
+4.Panagudi (p)R.V Surampatti ward 3 ,
+5.Panagudi (p)R.V Thiruthippatti w - 3 ,
+6.Panagudi (p)R.V Palavanpatti w-3 , 99.OVERSEAS ELECTORS",All Voters
+255,186,255,"RAMASAMY CHETTIAR MEMORIAL HIGH SCHOOL, NATARAJAPURAM
+,NORTH WING","1.Nadarajapuram (p) MUMUDICHANPATTI  R.V W-1 kovinipatti,pila.patti,n.mummudipatti , 99.OVERSEAS ELECTORS",All Voters
+256,186,256,"RAMASAMY CHETTIAR MEMORIAL HIGH SCHOOL, NATARAJAPURAM
+,SOUTH WING","1.Nadarajapuram (p)MUMUDICHANPATTI R.V Ward - 2,Nadarajapuram ,
+2.Nadarajapuram (p) MUMUDICHAANPATTI R.V Ward-2 veeranathalpatti,Sakaravarthipatti w&e ,
+3.Panagudi (p) MUMUDICHAANPATTI R.V Ward-3,Gandhinagar colony & b.natarajapuram ,
+99.OVERSEAS ELECTORS",All Voters
+257,186,257,"GOVT GIRLS HIGH SCHOOL, PAGANERI    ,  NEW BUILDING","1.Paganeri (U) (R.V) Paganeri   ,
+2.Paganeri (U) (R.V) Paganeri   , 99.OVERSEAS ELECTORS",All Voters
+258,186,258,"PANCHAYAT UNION PRIMARY SCHOOL PAGANERI    ,NEW BUILDING","1.Paganeri (U) (R.V) Paganeri Palaiyavalavu ,
+2.Paganeri (U) (R.V) Paganeri Puthuvalavu , 99.OVERSEAS ELECTORS",All Voters
+259,186,259,"PANCHAYAT UNION PRAIMARY SCHOOL, PAGANERI    ,NORTH BUILDILNG SOUTH WING","1.Paganeri (U) (R.V) Paganeri Palaiyavalavu ,
+2.Paganeri (U) (R.V) Paganeri Puthuvalavu , 99.OVERSEAS ELECTORS",All Voters
+260,186,260,"PANCHAYAT UNION PRAIMARY SCHOOL, PAGANERI, WEST FACING EAST BUILDING","1.  Paganeri (U) (R.V) Paganeri Palaiyavalavu-WEST,       2.Paganeri (U) (R.V) Paganeri Puthuvalavu, 99.OVERSEAS ELECTORS",All Voters
+261,186,261,"PANCHAYAT UNION PRIMARY SCHOOL, KADANERI","1.Kadaneri (U) (R V) Kadaneri , 99.OVERSEAS ELECTORS",All Voters
+262,186,262,"PANCHAYAT UNION MIDDLE SCHOOL, ILANTHAMANGALAM","1.Kadaneri (U) Ilanthamangalam (R V) Ilanthamangalam, 2.Kadaneri
+(U) Mangatendhal (R V) Mangattupatti , 99.OVERSEAS ELECTORS",All Voters
+263,186,263,"PANCHAYAT UNION MIDDLE SCHOOL, NAGARAMPATTI    ,WEST WING","1.Nagaram patti, Amman Patti (U) Nagarampatti (R.V) Nagarampatti ,
+2.Nagaram patti, Amman Patti (U) Nagarampatti (R.V) Veelaneri, 99.OVERSEAS ELECTORS",All Voters
+264,186,264,"PANCHAYAT UNION MIDDLE SCHOOL, NAGARAMPATTI    ,EAST WING","1.Nagaram patti, Amman Patti (U) Ammanpatti (R V) Amman patti   ,
+2.Nagaram patti, Amman Patti (U) Ammanpatti (R V) Azhagapuri,
+3.Nagaram patti, Amman Patti (U) Nagarampatti (R V) Ramalingapuram,
+99.OVERSEAS ELECTORS",All Voters
+265,186,265,"PANCHAYAT UNION MIDDLE SCHOOL, KALAYARMANGALAM","1.Kalaiyar Mangalam (U) Keelamangalam (R.V) Kalaiyarmangalam   ,
+2.Kalaiyar Mangalam (U) Keelamangalam (R.V) Sanangulam   , 99.OVERSEAS ELECTORS",All Voters
+266,186,266,"PANCHAYAT UNION MIDDLE SCHOOL, MELAMANGALAM    ,NORTH WING","1.Melamangalam (U) O.Pudur (R V) Melamangalam, 2.Melamangalam (U) Keezhamangalam (R V) Chinnudaiyanpatti, 3.Melamangalam (U) Keezhamangalam (R V) Iyyampatti, 4.Melamangalam (U) Keezhamangalam (R V) Lakshmipuram, 99.OVERSEAS ELECTORS",All Voters
+267,186,267,"PANCHAYAT UNION MIDDLE SCHOOL, MELAMANGALAM    , NORTH FACING SOUTH BUILDING","1.Melamangalam (U) Keezhamangalam (R V)Chinnudaiyanpatti, 2.Melamangalam (U) Keezhamangalam (R V) Iyyampatti, 3.Melamangalam (U) Keezhamangalam (R V) Lakshmipuram, 99.OVERSEAS ELECTORS",All Voters
+268,186,268,"PANCHAYAT UNION MIDDLE SCHOOL, KARUNKALAKKUDI
+,NORTH BUILDING","1.Melamangalam (U) Karungalakudi (R.V) Karungalakudi   , 99.OVERSEAS ELECTORS",All Voters
+269,186,269,"PANCHAYAT UNION PRIMARY SCHOOL, SURAKULAM    ,WEST BUILDING","1.Surakkulam Puthukottai (U) Surakkulam (R V) Surakkulam   , 2.Surakkulam Puthukottai (U) Surakkulam (R V) Vasthapatti   , 3.Surakkulam Puthukottai (U) Surakkulam (R V) Ponnampatti   , 99.OVERSEAS ELECTORS",All Voters
+270,186,270,"PANCHAYAT UNION PRIMARY SCHOOL, SURAKULAM, SOUTH BUILDING","1.Surakkulam Puthukottai (U) Gowripatti (R V) Anamavali , 2.Surakkulam Puthukottai (U) Surakkulam (R V) Puthukottai   , 3.Surakkulam Puthukottai (U) Paiyur Pillai Vayal (R V) Peekulathupatti   ,
+99.OVERSEAS ELECTORS",All Voters
+271,186,271,"PANCHAYAT UNION PRIMARY SCHOOL RAHINIPATTI, NORTH BUILDING","1.Surakkulam Puthukottai (U) Surakkulam (R V) Rahinipatti, 99.OVERSEAS ELECTORS",All Voters
+272,186,272,"PANCHAYAT UNION MIDDLE SCHOOL, GOWRIPATTI","1.Gowripatti   (P) Sennalakkudi (R V) Konappatti   , 2.Gowripatti   (P) Sennalakkudi (R V) Palliseripatti   , 3.Gowripatti (P) Nattarasankottai (R V) Sakkur , 4.Gowripatti (P) (R V) Thiruvelangudi   , 5.Gowripatti (P) (R V) karampatti   ,
+6.Gowripatti (P) (R V) Gowripatti   ,
+7.Gowripatti   (P) Sennalakkudi (R V) Karuthupatti , 99.OVERSEAS ELECTORS",All Voters
+273,186,273,CHINNAAR MANDAR MIDDLE SCHOOL SENKULIPATTI.   WEST PORTION,"1.Muthur Vaniyangudi (U) Vaniyangudi (R.V) Oothikulam   ,
+2.Muthur Vaniyangudi (U) Vaniyangudi (R.V) Melakadu ,
+3.Muthur Vaniyangudi (U) Vaniyangudi (R.V) Kandipatti   , 99.OVERSEAS ELECTORS",All Voters
+274,186,274,"CHINNAAR MANDAR MIDDLE SCHOOL, SENKULIPATTI.    EAST PORTION","1.Muthur Vaniyangudi (U) Vaniyangudi (R.V) Sengulipatti   ,
+2.Muthur Vaniyangudi (U) Vaniyangudi (R V) Sirusengulipatti   , 99.OVERSEAS ELECTORS",All Voters
+275,186,275,"PANCHAYAT UNION MIDDLE SCHOOL, MUTHUR    ,EAST   WING","1.Muthur Vaniyangudi (U) Muthur (R V) Guruvadipatti   ,
+2.Muthur Vaniyangudi (U) Sennalakkudi (R V) Valangadupatti   ,
+3.Muthur Vaniyangudi (U) Vaniyangudi (R V) Vaniyangudi   ,
+4.Muthur Vaniyangudi (U) Muthur (R V) Veerapathiranendhal   ,
+5.Muthur Vaniyangudi (U) Muthur (R V) Thuvaripatti   , 99.OVERSEAS ELECTORS",All Voters
+276,186,276,"PANCHAYAT UNION MIDDLE SCHOOL, MUTHUR, NORTH BUILDING, SOUTH FACING","1.Muthur Vaniyangudi (U)   Muthur (R.V) Muthur ,
+2.Muthur Vaniyangudi (U) Muthur (R.V) Moorkuzhi,
+3.Muthur Vaniyangudi (U) Muthur (R.V) Ariyanachi Kudiyiruppu,
+4.Muthur Vaniyangudi (U) Muthur (R V) Ayyanarkulam   , 99.OVERSEAS ELECTORS",All Voters
+277,186,277,"PANCHAYAT UNION PRIMARY SCHOOL, KALAKANMAI","1.Kalankanmoi (U) A.Siruvayal (R V) Kalankanmoi North Kudiyiruppu
+,
+2.Kalankanmoi (U) A.  Siruvayal (R V) Kalankanmoi , 3.Kalankanmoi (U) Mathukkanmoi (R V) Noothan Kanmoi   , 4.Kalankanmoi (U) Vetriyur (R V) Kalankanmoi , 99.OVERSEAS ELECTORS",All Voters
+278,186,278,"PANCHAYAT UNION MIDDLE SCHOOL   SEVAL PUNJAI    ,3 ROOM BUILDING MIDDLE ROOM","1.Kalankanmoi (U) Sevaoorani (R V) Sevalpunjai   , 99.OVERSEAS ELECTORS",All Voters
+279,186,279,"GOVERNMENT HIGHER SECONDARY SCHOOL VETTRIYOUR    ,SOUTH WING EAST SIDE BUILDING","1.Malaikandan (p)R.V Ward-1 keezhakkudiyiruppu , 2.Malaikandan (p)R.V W-2 melakkudiyeruppu , 99.OVERSEAS ELECTORS",All Voters
+280,186,280,"GOVERNMENT HIGHER SECONDARY SCHOOL VETTRIYOOR    ,WEST WING EAST SIDE BUILDING","1.Vettriyur (p)R.V Ward-1 keezhakkudiyiruppu , 2.Vettriyur (p)R.V Ward-2 south kudiyiruppu , 99.OVERSEAS ELECTORS",All Voters
+281,186,281,"GOVERNMENT HIGHER SECONDARY SCHOOL VETTRIYOUR    ,NORTH WING MIDDLE BUILDING WESTERN SIDE","1.Vettriyur R.V W-3 melakkudiyeruppu ,
+2.Vettriyur (p) R.V Ward-4 iyyanar veethi , 99.OVERSEAS ELECTORS",All Voters
+282,186,282,"PANCHAYAT UNION PRIMARY SCHOOL, A.KARUNKULAM    ,NEW BUILDING WEST WING","1.A.  karunkulam (p) Periyakarungulam ,
+2.A.  karunkulam (p) Usilangulam ,
+3.A.  karunkulam (p) Therguppatti ,
+4.A.  karunkulam (p) Vilavampatti ,
+5.A.  karunkulam (p) Navalkaniyanmadam , 99.OVERSEAS ELECTORS",All Voters
+283,186,283,"PANCHAYAT UNION PRIMARY SCHOOL, A.KARUNKULAM ,NEW BUILDING EAST WING","1.A.  karunkulam (p) Vavari,                                                                           2.A.
+karunkulam (p) Chinnakarungulam,                                                  3.A.
+karunkulam (p) Avarangudi,                                                                  4.A.
+karunkulam (p) Thaniveeranenthal,                                               5.A. karunkulam (p) Thiruvalangai,                                         99.OVERSEAS ELECTORS",All Voters
+284,186,284,"R.C. MIDDLE SCHOOL, OTTANAM","1.Kalankanmoi (U) Sevaoorani (R V) Ottanam   , 2.Kalankanmoi (U) Mathukkanmai (R V) Mathurakanmoi , 99.OVERSEAS ELECTORS",All Voters
+285,186,285,"PANCHAYAT UNION ELEMENDARY SCHOOL , SILAYAVURANI","1.Kalankanmoi (U) Sevaoorani (R V) Silaiyavurani   , 99.OVERSEAS ELECTORS",All Voters
+286,186,286,"PANCHAYAT UNION PRIMARY SCHOOL, MATHUKKANMOI","1.Kalankanmoi (U) Mathukkanmoi (R V) Mathukanmoi , 2.Kalankanmoi (U) Mathukkanmoi (R V) Oothupatti , 3.Kalankanmoi (U) Kodikkadu kadampoorani (R V) Mudukurani, 4.Kalankanmoi (U) Sevaoorani (R V) Sevalpunjai   , 99.OVERSEAS ELECTORS",All Voters
+287,186,287,RC ELEMENTARY SCHOOL KALLUVALI,"1.Kalankanmoi (U) Nedungulam (R V) Kadambangulam   ,
+2.Kalankanmoi (U) Mungankanmai (R V) Kalveli , 99.OVERSEAS ELECTORS",All Voters
+288,186,288,"R.C.MIDDLE SCHOOL, PULIYADITHAMBAM, SOUTH NEW BUILDING, I CLASSROOM","1.Uruthikottai (U) Monkankanmai (R.V) Puliyadithammam, 99.OVERSEAS ELECTORS",All Voters
+289,186,289,"R.C.MIDDLE SCHOOL, PULIYADITHAMBAM, SOUTH NEW BUILDING, II CLASSROOM","1.Uruthikottai (U) Monkankanmai (R.V) Silampatthan, 2.Uruthikottai
+(U) Monkankanmai (R.V) Nedodai,                     99.OVERSEAS ELECTORS",All Voters
+290,186,290,"R.C. MIDDLE SCHOOL, PULIYADITHAMBAM    ,SOUTH NEW BUILDING","1.Uruthikottai (U) Monkankanmai (R.V) Puliyadithambam , 2.Puliyadithambam (U) Monkankanmai (R.V) Madathanpunjai , 99.OVERSEAS ELECTORS",All Voters
+291,186,291,"PANCHAYAT UNION PRIMARY SCHOOL, AMMAPATTINAM    ,SOUTH WING","1.Puliyadithambam (U) Moovarkanmai (R.V) Veladithambam , 2.Puliyadithambam (U) Moovarkanmai (R.V) Ammapattanam , 99.OVERSEAS ELECTORS",All Voters
+292,186,292,"PANCHAYAT UNION PRIMARY SCHOOL,   KARUVIKANMAI, NEW BUILDING, NORTH FACING.","1.Puliyadithambam (U) Moovarkanmai (R.V) karuvikanmoi Newcolony
+,
+2.Puliyadithambam (U) Moovarkanmai (R.V) Karuvikanmoi , 3.Puliyadithambam (U) Moovarkanmai (R.V) Gobalapattinam , 4.Puliyadithambam (U) Moovarkanmai (R.V) Azhagapuri   , 5.Puliyadithambam (U) Moovarkanmai (R.V) Sivagnanapuram   , 99.OVERSEAS ELECTORS",All Voters
+293,186,293,"R.C. MIDDLE SCHOOL, PALLITHAMMAM    ,NEW BUILDING","1.Pallithammam (U) Pallivayal (R V) Pallithammam , 2.Pallithammam (U) Nedungulam (R V) Nadesapuram   , 99.OVERSEAS ELECTORS",All Voters
+294,186,294,"PANCHAYAT UNION PRIMARY, VEMBANI","1.Pallithammam (U) Moovarkanmai (R V) Vembani , 99.OVERSEAS ELECTORS",All Voters
+295,186,295,"SAGAYARANI  GIRLS HIGHER SECONDARY SCHOOL. SOOSAIYAPPARPATTINAM    ,WEST WING","1.Kattendhal (U) Pallivayal (R V) Susaiyapparpattinam   , 99.OVERSEAS ELECTORS",All Voters
+296,186,296,"PANCHAYAT UNION PRIMARY SCHOOL, NARPUTHAM","1.Kattendhal (U) Kurunthanivariyendal (R V) Kurunthani   , 2.Kattendhal (U) Kurunthanivariyendal (R V) Narputham   , 3.Kattendhal (U) Kurunthanivariyendal (R V) Porpalaiyendhal   , 99.OVERSEAS ELECTORS",All Voters
+297,186,297,"SAGAYARANI  GRILS HSC SCHOOL, SOOSAIYAPPARPATTINAM    ,NORTH PART","1.Kattendhal (U) Pallivayal (R.V) Susaiyappar pattinam   , 2.Kattendhal (U) Pallivayal (R.V) kattathi   , 99.OVERSEAS ELECTORS",All Voters
+298,186,298,"R.C. MIDDLE SCHOOL, AANDICHIOORANI    ,EAST WING","1.Kattendhal (U) Nedungulam (R.V) Andichiyurani   , 99.OVERSEAS ELECTORS",All Voters
+299,186,299,"R.C. PRAIMARY SCHOOL, NUDUNGULAM","1.Kattendhal (U) Nedungulam (R.V) Nedungulam   , 2.Kattendhal (U) Nedungulam (R.V) Uzhaurani , 99.OVERSEAS ELECTORS",All Voters
+300,186,300,"HOLY SPRIT HIGHER SECONDARY SCHOOL, KALLAL ROAD, KALAIYAR KOVIL    ,NORTH BUILDING, MIDDLE ROOM","1.Kalaiyarkovil (U) Somanathamangalam (R.V) Seekurani, 99.OVERSEAS ELECTORS",All Voters
+301,186,301,"HOLY SPIRIT HIGHER SECONDARY SCHOOL, KALLAL ROAD, KALAIYAR KOVIL, NORTH BUILDING, XI-C CLASSROOM","1.Kalaiyarkovil (U) Somanathamangalam (R.V) Mettupatti, 99.OVERSEAS ELECTORS",All Voters
+302,186,302,"PANCHAYAT UNION PRIMARY SCHOOL KALAYARKOIL. (EAST), NORTH BUILDING   WEST FACING.","1.Kalaiyarkovil (U) Somanathamangalam (R.V) Uuthupatti , 2.Kalaiyarkovil (U) Somanathamangalam (R.V) Senthamil nagar , 99.OVERSEAS ELECTORS",All Voters
+303,186,303,"PANCHAYAT UNION PRIMARY SCHOOL, KALAYARKOIL (EAST), SOUTH BUILDING WEST FACING.","1.Kalaiyarkovil (U) Somanathamangalam (R.V) Oyyavanthan Asari street ,
+99.OVERSEAS ELECTORS",All Voters
+304,186,304,"PANCHAYAT UNION PRIMARY SCHOOL, KALAYARKOIL (EAST), WEST BUILDING   NORTH FACING.","1.Kalaiyarkovil ,  Somanathamangalam (R.V) Sannathi V.O.C, A.L.R street ,                                                                                  99.OVERSEAS ELECTORS",All Voters
+305,186,305,"PANCHAYAT UNION PRIMARY SCHOOL, KALAYARKOIL (EAST), WEST BUILDING SOUTH FACING.","1.Kalaiyarkovil (U) Somanathamangalam (R.V) Kasthuribai street , 99.OVERSEAS ELECTORS",All Voters
+306,186,306,"HOLY SPRIT HIGHER SECONDARY SCHOOL, KALLAL ROAD, KALAIYAR KOVIL    ,SOUTH BUILDING, MIDDLE
+ROOM","1.Kalaiyarkovil (U) Somanathamangalam (R.V) Moorthi Nagar , 99.OVERSEAS ELECTORS",All Voters
+307,186,307,"HOLY SPIRIT HIGHER SECONDARY SCHOOL, KALLAL ROAD, KALAIYARKOVIL    ,SOUTH BUILDING, X-A CLASSROOM","1.Kalaiyarkovil (U) Somanathamangalam (R.V) Moorthi Nagar-EAST, 99.OVERSEAS ELECTORS",All Voters
+308,186,308,"GOVERNMENT HIGHER SECONDARY SCHOOL, KALAIYARKOVIL      ,SOUTH EAST BUILDING","1.Kalaiyarkovil (U) Somanathamangalam (R.V) Kasthuribai Street North ,
+99.OVERSEAS ELECTORS",All Voters
+309,186,309,"GOVERNMENT HIGHER SECONDARY SCHOOL, KALAIYARKOVIL
+,SOUTHWEST BUILDING","1.Kalaiyarkovil (P) Somanathamangalam (RV)   Kasthuribai Street South ,
+99.OVERSEAS ELECTORS",All Voters
+310,186,310,GOVERMENT HIGHER SECONDARY SCHOOL KALAIYARKOVIL NORTH WEST BUILDING   ROOM NO.18.,"1.Kalaiyarkovil (U) Somanathamangalam (R.V) Manthali , 99.OVERSEAS ELECTORS",All Voters
+311,186,311,"PANCHAYAT UNION PRIMARY SCHOOL, KALAIYARKOVIL    ,WEST NORTH BUILDING","1.Kalaiyarkovil (U) Somanathamangalam (R.V) Somasundharam
+Nagar   Sri Muthumariamman Kovil-North Street 99.OVERSEAS ELECTORS",All Voters
+312,186,312,PANCHAYAT UNION PRIMARY SCHOOL   KALAYARKOIL. (WEST) SOUTH FACING ROOM.,"1.Kalaiyarkovil (U) Somanathamangalam (R.V) Somasundharam Nagar   Sri Muthumariamman Kovil-South Street, 99.OVERSEAS ELECTORS",All Voters
+313,186,313,Integrated Anganwadi Center Somasundaram Nagar West,"1.Kalaiyarkovil (U) Somanathamangalam (R.V) Anna Nagar , 2.Kalaiyarkovil (U) Somanathamangalam (R.V) Thuthi Nagar , 3.Kalaiyarkovil (U) Somanathamangalam (R.V) Senthamil Nagar, 99.OVERSEAS ELECTORS",All Voters
+314,186,314,"PANCHAYAT UNION PRIMARY SCHOOL, KALAYARAKOIL,WEST SOUTH BUILDING","1.Kalaiyarkovil (U) Somanathamangalam (R.V) Thirunagar , 99.OVERSEAS ELECTORS",All Voters
+315,186,315,"PANCHAYAT UNION PRIMARY SCHOOL, KALAYARAKOIL- WEST, EAST BUILDING","1.Kalaiyarkovil (U) Somanathamangalam (R.V) ThirunagarEast, 99.OVERSEAS ELECTORS",All Voters
+316,186,316,"PANCHAYAT UNION PRIMARY SCHOOL, MEPPAL","1.Kollangudi (U) Kollangudi (R V) Meppal    , 2.Kollangudi (U) (R V) Naduvali   , 3.Kollangudi (U) (R V) Periya Narikottai   , 4.Kollangudi (U) (R V) Kallanai   , 99.OVERSEAS ELECTORS",All Voters
+317,186,317,"GOVT HIGH   SECONTRAY SCHOOL, KOLLANKIDI.    , WEST FACING BUILDING IX-A CLASS ROOM","1.Kollangudi (U) Vettaneri (R V) Ariyakkurichi   , 2.Kollangudi (U) (R V) Sathapuli   ,
+3.Kollangudi (U) (R.V) Kamarajar Nagar , 99.OVERSEAS ELECTORS",All Voters
+318,186,318,"GOVT HIGH   SECONTRAY SCHOOL, KOLLANKIDI.    , EAST FACING BUILDING XII-A CLASS ROOM","1.Kollangudi (U) (R.V) Kollangudi   , 99.OVERSEAS ELECTORS",All Voters
+319,186,319,"GOVT HIGH   SECONTRAY SCHOOL, KOLLANKIDI.    , WEST FACING BUILDING X-A CLASS ROOM","1.Kollangudi (U) (R V) Kandanipatti , 2.Kollangudi (U) Usilanendal (R V) Usilanendal , 3.Kollangudi (U) (R V) Pinnangulam , 4.Kollangudi (U) (R V) Keeranur,
+99.OVERSEAS ELECTORS",All Voters
+320,186,320,"GOVT HIGH   SECONTRAY SCHOOL, KOLLANKUDI, SOUTH BUILDING VI CLASSROOM","1.Kollangudi (U) (R V) Azhagapuri, 2.Kollangudi (U) (R V) Kollangudi, 99.OVERSEAS ELECTORS",All Voters
+321,186,321,"S.R.M. HSC SCHOOL, NATTARASANKOTTAI    ,MAIN BUILDING WEST WING","1.Nattaran Kottai (U) Radhakrishnan Street ,
+2.Nattaran Kottai (U) Captain Lakshmi Street ,
+3.Nattaran Kottai (U) Moovendar street ,
+4.Nattaran Kottai (U) Pavendar street ,
+5.Nattaran Kottai (U) Seran street ,
+6.Nattaran Kottai (U) Pandyan street ,
+7.Nattaran Kottai (U) Railway road ,
+8.Nattaran Kottai (U) Manickavalli street ,
+9.Nattaran Kottai (U) Ilango street , 99.OVERSEAS ELECTORS",All Voters
+322,186,322,"S.R. M.HSC SCHOOL, NATTARASANKOTTAI    ,MAIN BUILDING NORTH WING","1.Nattaran Kottai (U) Aathisankar street ,
+2.Nattaran Kottai (U) Tiruvalluvar Street ,
+3.Nattaran Kottai (U) Periyar Street ,
+4.Nattaran Kottai (U) Sengamalathal street , 99.OVERSEAS ELECTORS",All Voters
+323,186,323,"S.R. M.HSC SCHOOL, NATTARASANKOTTAI,MAIN BUILDING, VI  CLASSROOM","1.Nattaran Kottai (U) Kaliamman street,
+2.Nattaran Kottai (U) Nackirar street,
+3.Nattaran Kottai (U) Keerangulam street,                               4.Nattaran Kottai (U) Anna street,                                                      99.OVERSEAS ELECTORS",All Voters
+324,186,324,"S.V.V.SALA PRIMARY SCHOOL, NATTARASANKOTTAI","1.Nattaran Kottai (U) Bharathiyar street ,
+2.Nattaran Kottai (U) Nehru street ,
+3.Nattaran Kottai (U) Thirunavukarasar street ,
+4.Nattaran Kottai (U) Lalpagathur sasthiri street ,
+5.Nattaran Kottai (U) Pattinathar street ,
+6.Nattaran Kottai (U) Gurunathan kovil street ,
+7.Nattaran Kottai (U) Nayanmargal street ,
+8.Nattaran Kottai (U) Aladiyar street ,
+9.Nattaran Kottai (U) Veerakandan street , 10.Nattaran Kottai (U) V.O.Chithambaram street , 11.Nattaran Kottai (U) Vallalar Street , 12.Nattaran Kottai (U) Thiru.V.K.  Street , 13.Nattaran Kottai (U) Moovendar street , 14.Nattaran Kottai (U) Marudhupandiyar street , 15.Nattaran Kottai (U) Rajaji Street ,
+16.Nattaran Kottai (U) Manickavasagar Street , 99.OVERSEAS ELECTORS",All Voters
+325,186,325,"K.M.S. C.GIRLS HIGH SCHOOL, NATTARASANKOTTAI    ,NORTH WEST PORTION","1.Nattaran Kottai (U) Gandhiji street ,
+2.Nattaran Kottai (U) Thanpanasaitha street ,
+3.Nattaran Kottai (U) Vengadasalapathi perumal street ,
+4.Nattaran Kottai (U) Gobalakrishnan street ,
+5.Nattaran Kottai (U) Kaliyattakannatthal street ,
+6.Nattaran Kottai (U) Vallal seethakathi street , 99.OVERSEAS ELECTORS",All Voters
+326,186,326,"K.M.S. C.GIRLS HIGH SCHOOL, NATTARASANKOTTAI    ,NORTHEAST PORTION","1.Nattaran Kottai (U) Kavisakkaravarthi kambar street ,
+2.Nattaran Kottai (U) Vaitheeswaran Street ,
+3.Nattaran Kottai (U) Kamarajar street , 99.OVERSEAS ELECTORS",All Voters
+327,186,327,"K.M.S.C. GIRLS HIGH SCHOOL, NATTARASANKOTTAI    ,SOUTH WING","1.Nattaran Kottai (U) Amman sannathi Street  ,
+2.Nattaran Kottai (U) East car street ,
+3.Nattaran Kottai (U) south car street ,
+4.Nattaran Kottai (U) West Car Street ,
+5.Nattaran Kottai (U) V.O.C. street ,
+6.Nattaran Kottai (U) Kannappar street ,
+7.Nattaran Kottai (U) Nehru street ,
+8.Nattaran Kottai (U) Vallapaipadel street ,
+9.Nattaran Kottai (U) Lalpagathur sasthiri Street  , 10.Nattaran Kottai (U) Sudhanthira Road , 11.Nattaran Kottai (U) Nethaji Street , 12.Nattaran Kottai (U) Kambar Kovil Street , 99.OVERSEAS ELECTORS",All Voters
+328,186,328,"PANCHAYAT UNION MIDDLE SCHOOL, PANANKADI","1.Alloor (U) Panangudi (R.V) Raniyur ,
+2.Alloor (U) Panangudi (R.V) Suravathi ,
+3.Alloor (U) Panangudi (R.V) Vijayamanickam ,
+4.Alloor (U) Panangudi (R.V) Pangadi ,
+5.Alloor (U) Panangudi (R.V) Iluppakottai , 99.OVERSEAS ELECTORS",All Voters
+329,186,329,"PANCHAYAT UNION PRIMARY SCHOOL, ALLUR","1.Alloor (U) (R V) Allur   ,
+2.Alloor (U) (R V) Muthupattinam   ,
+3.Allur (U) (R V) Kusavanadappu   ,
+4.Allur (U) (R V) Veerani   ,
+5.Allur (U) Paiyur Pillai Vayal (R V) Kodikkadendhal , 99.OVERSEAS ELECTORS",All Voters
+330,186,330,"PANCHAYAT UNION PRIMARY SCHOOL, VETTANERI","1.Vittaneri (U) (R.V) Vittaneri , 2.Vittaneri (R.V) Kurukathi , 99.OVERSEAS ELECTORS",All Voters
+331,186,331,"PANCHAYAT UNION PRIMARY SCHOOL, UDAVAYAL","1.Vittaneri (R.V) Udavayal   , 2.Vittaneri   (R.V) Sathani   , 99.OVERSEAS ELECTORS",All Voters
+332,186,332,"PANCHAYAT UNION PRIMARY SCHOOL, PARUTHIKANMOI    ,OLD BUILDING","1.Kollangudi (U) Paruthikkanmai (R V) Iyuruli   , 2.Paruthikanmoi (U) (R.V) Paruthikanmoi   , 3.Paruthikanmoi (U) (R.V) Sinthathur   , 99.OVERSEAS ELECTORS",All Voters
+333,186,333,"R.C MIDDLE SCHOOL, PULIKANMOI
+,SOUTH BUILDING WEST SIDE","1.Paruthikanmoi (U)   (R V) Pulikanmoi , 2.Paruthikanmoi (U) Purasadiudaippu (R V) Andurani   , 99.OVERSEAS ELECTORS",All Voters
+334,186,334,"PANCHAYAT UNION PRIMARY SCHOOL, KANCHIPATTI","1.Kanjippatti (P) (R V) Kanjippatti ,
+2.Kanjippatti (P) Purasadi Udaippu (R V) Thavasukudi , 99.OVERSEAS ELECTORS",All Voters
+335,186,335,"PANCHAYAT UNION PRAIMARY SCHOOL,   SEVALKANMOI, SOUTH NEW BUILDING ROOM NO 1","1.Velankulam (P)   Kurunthanivariendal (R.V) Arasakulam , 2.Velankulam (P) Kuruthanivariendal (R.V) Thandikanmai , 3.Velankulam (P) Kuruthanivariendal (R.V) Sevalkanmai , 99.OVERSEAS ELECTORS",All Voters
+336,186,336,"PANCHAYAT UNION PRAIMARY SCHOOL,   SEVALKANMOI, SOUTH BUILDING","1.Velankulam (P) Kuruthanivariendal (R.V) Keelavalayampatti, 2.Velankulam (P) Kuruthanivariendal (R.V) Iruppanpoochi (N), 3.Velankulam (P) Kuruthanivariendal (R.V) Valayampatti, 99.OVERSEAS ELECTORS",All Voters
+337,186,337,"R.C. MIDDLE SCHOOL, THUVARILANKANMOI    ,SOUTH WING","1.Velankulam (P) Kuruthanivariendal (R.V) Iruppanpoochi , 2.Velankulam (P) Kuruthanivariendal (R.V) Usilankanmai , 3.Velankulam (P) Kurunthanivariendal (R.V) Thuvarilankanmai , 4.Velankulam (P) Kuruthanivariendal (R.V) Kadambangulam   , 99.OVERSEAS ELECTORS",All Voters
+338,186,338,"PANCHAYAT UNION PRIMARY SCHOOL, VELANKULAM    ,NEW BUILDING EAST WING","1.A.  Velankulam (P) M.Vagaikulam (R V) Sana Oorani ,
+2.A.  Velankulam (P) M. Vagaikulam (R V) Velankulam ,
+3.A.  Velankulam (P) M. Vagaikulam (R V) M.Vahaikulam ,
+4.A.  Velankulam (P) Marakkathur (R V) Aniyavayal , 99.OVERSEAS ELECTORS",All Voters
+339,186,339,"PANCHAYAT UNION MIDDLE SCHOOL, MARAKATHUR      ,OLD BUILDING","1.Marakathur (P) (R V) Puliyurani , 2.Marakathur (P) (R V) Narkani , 3.Marakathur (P) (R V) Marakathur , 4.Marakathur (P) (R V) Antharendhal , 5.Marakathur (P) (R V) Sivantharendhal , 6.Marakathur (P) (R V) Gurumanendhal , 99.OVERSEAS ELECTORS",All Voters
+340,186,340,"PANCHAYAT UNION PRIMARY SCHOOL, MARATHUR","1.Marakkathur (P) Marathur (R.V) Maniyangudi , 2.Marakkathur (P) Marathur (R.V) Marathur , 99.OVERSEAS ELECTORS",All Voters
+341,186,341,"PANCHAYAT UNION MIDDLE SCHOOL,   ETTYAKUDI.    , WEST FACING BUILDING (VI,VII,VIII CLASS ROOM)","1.Gurunthangudi (p) Vannikudi (R V) Gurunthangudi , 2.Gurunthangudi (p) Vannikudi (R V) Ettiyakkudi , 3.Gurunthangudi (p) Vannikudi (R V) Kattiyakara siramam , 4.Gurunthangudi (p) Vannikudi (R V) Kalaikkulam , 5.Gurunthangudi (p) Vannikudi (R V) Mudithanai , 99.OVERSEAS ELECTORS",All Voters
+342,186,342,"GOVERNMENT HIGHER SECONDARY SCHOOL SILUKKAPATTI.       ,NORTH FACING BUILDING (XII- CLASS ROOM)","1.Silukkappatti (P) (R V) Sithikkudi , 2.Silukkappatti (P) (R V) Sirumal , 3.Silukkappatti (P) (R V) Thoramankkudi , 4.Silukkappatti (P) (R V) Kundakkudai , 99.OVERSEAS ELECTORS",All Voters
+343,186,343,"GOVERNMENT HIGHER SECONDARY SCHOOL SILUKKAPATTI.       ,NORTH FACING BUILDING   STAFF ROOM","1.Silukkappatti (P) (R V) Silukkappatti   , 2.Silukkappatti (P) Kakulam (R V) Thodukulam , 3.Silukkappatti (P) Vannikudi (R V) Vannakkudi , 4.Silukkappatti (P) Vannikudi (R V) Kodumuttikulam , 99.OVERSEAS ELECTORS",All Voters
+344,186,344,"PANCHAYAT UNION PRIMARY SCHOOL, SIRUVELANGUDI","1.Silukkappatti (P) Marathur (R.V) Vellakkudi , 2.Silukkappatti (P) Marathur (R.V) Peruvelankudi , 3.Silukkappatti (P) Marathur (R.V) Naavettiyendhal , 4.Silukkappatti (P) Marathur (R.V) Maruthankudi , 5.Silukkappatti (P) Marathur (R.V) Siruvelankudi , 6.Silukkappatti (P) Marathur (R.V) Sirusanavayal , 7.Silukkappatti (P) Marathur (R.V) Neduvathavu , 99.OVERSEAS ELECTORS",All Voters
+345,186,345,"PANCHAYAT UNION PRIMARY SCHOOL, MATHIKANMOI","1.Usilangulam (P) Nallendal (R.V) Manthikkanmai ,
+99.OVERSEAS ELECTORS",All Voters
+346,186,346,"PANCHAYAT UNION PRIMARY SCHOOL, NALLENDAL","1.Usilangulam (P) Nallendal (R.V) Nallendhal , 99.OVERSEAS ELECTORS",All Voters
+347,186,347,"PANCHAYAT UNION MIDDLE SCHOOL, USILANKULAM      ,NEW BUILDING","1.Usilangulam (P) Nallendal (R V) Usilangulam , 2.Usilangulam (P) Siriyur (R V) Siriyur , 3.Usilangulam (P) Siriyur (R V) Soorakudi , 4.Usilangulam (P) Siriyur (R V) Kunakkudai , 99.OVERSEAS ELECTORS",All Voters
+348,186,348,GOVERMENT HIGHER SECONDARY SCHOOL   MARAVAMANGALAM. EAST BLOCK   NORTH SIDE   WEST FACING ROOM No.1,"1.Maravamangalam(P) Palgulam (R.V) Maravamangalam(Melatheru) , 99.OVERSEAS ELECTORS",All Voters
+349,186,349,"GOVERMENT HIGHER SECONDARY SCHOOL   MARAVAVAMANGALAM, EAST BLOCK NORTH SIDE,    WEST FACING,   ROOM No.3","1.Maravamangalam(P) Palgulam (R.V) Maravamangalam(Keelatheru) , 99.OVERSEAS ELECTORS",All Voters
+350,186,350,"GOVERMENT HIGHER SECONDARY SCHOOL, MARAVAVAMANGALAM, EAST BLOCK   SOUTH SIDE WEST FACING   ROOM No.4","1.Maravamangalam(P) Nallendal (R V) Poothakudi , 2.Maravamangalam(P) Palkulam (R V) Narankani , 3.Maravamangalam(P) Palkulam (R V) palkulam , 4.Maravamangalam(P) Palkulam (R V) Paruvakkudai , 5.Maravamangalam(P) Palkulam (R V) Pappan Kanmai , 6.Maravamangalam(P) Palkulam (R V) Annanagar Colony , 99.OVERSEAS ELECTORS",All Voters
+351,186,351,"GOVERMENT HIGHER SECONDARY SCHOOL, MARAVAVAMANGALAM, EAST BLOCK SOUTH SIDE WEST FACING ROOM No.6","1.Maravamangalam(P) Palkulam (R V) Maravamangalam , 99.OVERSEAS ELECTORS",All Voters
+352,186,352,"K.S.V.  PATHIMA PRIMARY SCHOOL, PURASADIUDAIPPU","1.Mudikkarai (P) (R V) Pudukkulam ,
+2.Mudikkarai (P) Purasadi Udaippu (R V) Purasadi udaippu , 99.OVERSEAS ELECTORS",All Voters
+353,186,353,"PANCHAYAT UNION ELEMENDARY SCHOOL , KAYAOODAI","1.Mudikkarai (P) Kurunthanivariyendal (R V) Kaya Odai , 2.Mudikkarai (P) Kurunthanivariyendal (R V) Pudhukkudiyiruppu , 99.OVERSEAS ELECTORS",All Voters
+354,186,354,"PANCHAYAT UNION MIDDLE SCHOOL, NORTH NEW BUILDING, WEST SIDE NORTH FACING,MUDIKKARAI.","1.Mudikkarai (P) (R.V) Sirumudikkarai , 2.Mudikkarai (P) (R.V) Kallatthi , 99.OVERSEAS ELECTORS",All Voters
+355,186,355,"ANGANWADI CENTRE, POTHAKUDI,EAST BUILDING, WEST FACING","3.Sethambal (P) (R.V) Pothakkudi , 99.OVERSEAS ELECTORS",All Voters
+356,186,356,"PANCHAYAT UNION MIDDLE SCHOOL, NORTH NEW BUILDING, EAST SIDE, NORTH FACING. MUDIKKARAI.","1.Mudikkarai (P) (R.V) Mudikkarai , 99.OVERSEAS ELECTORS",All Voters
+357,186,357,"PANCHAYAT UNION PRIMARY SCHOOL, ORUPOKKI    ,NEW BUILDING","1.Kanjippatti (P) Puthukizhuvachi (R.V) Periya Kilavachi , 2.Kanjippatti (P) Puthukizhuvachi (R.V) Pudhu Kilavachi , 3.Kanjippatti (P) Puthukizhuvachi (R.V) Karunkali , 4.Kanjippatti (P) Puthukizhuvachi (R.V) Orupokki , 5.Kanjippatti (P) Puthukizhuvachi (R.V) Kalkulam , 6.Kanjippatti (P) Pudhukizhavachi (R.V) Ponnakulam , 7.Kanjippatti (P) Puthukizhavachi (R.V) Pranthanai , 99.OVERSEAS ELECTORS",All Voters
+358,186,358,"PANCHAYAT UNION PRIMARY SCHOOL, OYYAVANTHAN","1.Udakulam (P) Oiyavanthan (R V) Oiyavanthan ,
+2.Udakulam (P) Oiyavanthan (R V) Pechathakkudi ,
+3.Udakulam (P) Sozhavanthan (R V) Solavanthan ,
+4.Udakulam (P) Oiyavanthan (R V) Pranthan , 99.OVERSEAS ELECTORS",All Voters
+359,186,359,"PANCHAYAT UNION PRIMARY SCHOOL, KATTUSOORAI","1.Udakulam (P) Oiyavanthan (R V) Kattusurai ,
+2.Udakulam (P) Oiyavanthan (R V) Kattuppuli , 99.OVERSEAS ELECTORS",All Voters
+360,186,360,"VILLAGE PANCHAYAT SEVA CENTRE, UDAKULAM, SOUTH BUILDING, NORTH FACING","1.Udakulam (P) Poovali (R V) Udakulam , 99.OVERSEAS ELECTORS",All Voters
+361,186,361,"PANCHAYAT UNION MIDDLE SCHOOL SENGULAM    ,NEW BUILDING WEST SIDE","1.Sengulam (P) Poovali (R.V) Sengulam ,
+2.Sengulam (P) Poovali (R.V) Nariyanendhal ,
+3.Sengulam (P) Poovali (R.V) N.Nedunkulam ,
+4.Sengulam (P) Poovali (R.V) Poovali , 99.OVERSEAS ELECTORS",All Voters
+362,186,362,"PANCHAYAT UNION MIDDLE SCHOOL, NADAMANGALAM","1.Nadamangalam (P) (R V) Nadamangalam , 2.Nadamangalam (P) M. Velankulam (R V) Udharappuli , 3.Nadamangalam (P) P. Udaiyarendal (R V) Porusuppatti , 4.Nadamangalam (P) P. Udaiyarendal (R V) Udayarendhal , 99.OVERSEAS ELECTORS",All Voters
+363,186,363,"PANCHAYAT UNION PRIMARY SCHOOL, M.VELANGULAM","1.Nadamangalam (P) M. Velankulam (R V) Killukkudi , 2.Nadamangalam (P) M. Velankulam (R V) Vallakkulam , 3.Nadamangalam (P)   M.Velankulam (R V) M.Velankulam , 99.OVERSEAS ELECTORS",All Voters
+364,186,364,"PANCHAYAT UNION PRIMARY SCHOOL, ATHAPADAKI","1.Athappadakki (P) (R V) Athappadakki , 2.Athappadakki (P) (R V) Pottagavayal , 3.Athappadakki (P) (R V) Panankudi ,
+4.Athappadakki (P) Allpattividuthi (R V) Kandankurichi , 5.Athappadakki (P) Allpattividuthi (R V) Kulalavayal ,
+6.Mallal (P) Athappadakki (R V) Sollakulam , 99.OVERSEAS ELECTORS",All Voters
+365,186,365,"GOVERNMNT HIGH SCHOOL MAIN BUILDING,      Xstd CLASS ROOM SOUTH FACING KARUMANTHAKUDI.","1.Athappadakki (P) Vettikulam (R V) Vettikulam ,
+2.Athappadakki (P) Vettikulam (RV) Niranjan , 3.Athappadakki (P) Vettikulam (R V) Ettiyarendhal , 4.Athappadakki (P) (R V) Kadiyavayal , 5.Athappadakki (P) (R V) Madumarichan , 6.Athappadakki (P) (R V) Pappakudi , 99.OVERSEAS ELECTORS",All Voters
+366,186,366,GOVERNMENT HIGH SCHOOL   LAB BUILDING   WEST SIDE SOUTH FACING   KARUMANTHAKUDI.,"1.Athappadakki (P) (R V) Karumanthakudi , 2.Athappadakki (P) Mudikkarai (R V) Navathavu , 99.OVERSEAS ELECTORS",All Voters
+367,186,367,"PANCHAYAT UNION PRIMARY SCHOOL, NANTHANOOR, EAST WING ROOM NO 1","1.Siramam (P) Pulavanvayal (R V) Nanthanur ,
+2.Siramam (P) Pulavanvayal (R V) Kilavanur ,
+3.Siramam (P) (R V) Valaperumal Aliyathurumbu ,
+4.Siramam (P) Pulavanvayal (R V) Manakkudi ,
+5.Siramam (P) Pulavanvayal (R V) Nanthanur ,
+6.Siramam (P) Pulavanvayal (R V) Kallivayal, Singathai Vendran , 99.OVERSEAS ELECTORS",All Voters
+368,186,368,"PANCHAYAT UNION ELEMENDARY SCHOOL, SIRAMAM","1.Siramam (P) (R V) Kalapilan ,
+2.Siramam (P) (R V) Siramam ,
+3.Siramam (P) Pulavanvayal (R V) Utharapuli , 99.OVERSEAS ELECTORS",All Voters
+369,186,369,"PANCHAYAT UNION MIDDLE SCHOOL, SEMBAR    ,SOUTH WING","1.Siramam (P) Sembar (R V) Alankudi ,
+2.Siramam (P) Sembar (R V) Sembar ,
+3.Siramam (P) Sembar (R V) Pudukkulam ,
+4.Siramam (P) Sembar (R V) Kadampankudi ,
+5.Siramam (P) Sirukanaperi (R V) S.Maruthankudi , 99.OVERSEAS ELECTORS",All Voters
+370,186,370,"PANCHAYAT UNION PRIMARY SCHOOL, PULIKOTTAI","1.Sethambal (P) (R.V) Pullukkottai , 2.Sethambal (P) (R.V) Pokkani Siruvur , 3.Sethambal (P) (R.V) Sethambal , 99.OVERSEAS ELECTORS",All Voters
+371,186,371,R.C.PRAIMARY SCHOOL PAKAIYANJAN,"1.Karaikulam (p) Melathuraiyur (R V) Pukkuli ,
+2.Sethambal (P) (R V) Pahayanjan , 3.Sethambal (P) (R V) Solayur ,
+4.Sethambal (P) Sirukanaperi (R V) Mavilangai Sirukanaperi , 5.Sethambal (P) Vannikkudi (R V) Parakkulam, Kamukadi , 99.OVERSEAS ELECTORS",All Voters
+372,186,372,"PANCHAYAT UNION MIDDLE SCHOOL, MELAMARUNKOOR IV STD CLASS ROOM","1.Melamarunkur (P) Vannikudi (R.V) Melamarunkur , 2.Melamarunkur (P) Vannikudi (R.V) Surakudi Moovanur , 3.Melamarunkur (P) Vannikudi (R.V) Ottakkarai Maruthankudi , 4.Melamarunkur (P) Vannikudi (R.V) Anjampatti , 5.Melamarunkur (P) Vannikudi (R.V) Pidikkulam ,
+6.Melamarunkur (P) Vannikudi (R.V) Surakkuttam, Vannikkuttam , 7.Melamarunkur (P) Vannikudi (R.V) Kavanikkarai ,
+99.OVERSEAS ELECTORS",All Voters
+373,186,373,"ULAGAMATHA HIGH SCHOOL, SAKKOOR    ,OLD BUILDING","1.Erivayal (P) Sakkur (R V) Sakkur ,
+2.Erivayal (P) Sakkur (R V) Achankudi ,
+3.Erivayal (P) Sakkur (R V) Anjavayal ,
+4.Erivayal (P) Sakkur (R V) Kothamangalam , 99.OVERSEAS ELECTORS",All Voters
+374,186,374,"ULAGAMATHA HIGH SCHOOL, SAKKOOR    ,NEW BUILDING","1.Erivayal (P) Kanjaram (R V) Kanjaram Colony ,
+2.Erivayal (P) Kanjaram (R V) Kanjaram Pudur , 99.OVERSEAS ELECTORS",All Voters
+375,186,375,"ANGANWADI  CENTRE, ILANTHAKARAI","1.Ilanthankarai (P) Sakkoor  (R V) Ilanthankarai , 2.Ilanthankarai (P) Sakkoor  (R V) Thondiyur , 3.Ilanthankarai (P) Sakkoor  (R V) Pandiyarenthal , 4.Ilanthankarai (P) Sakkoor  (R V) Kodikarai , 5.Ilanthankarai (P) Sakkoor  (R V) K.Vayal , 6.Ilanthankarai (P) Kalkulam (R V) Palayendhal, 99.OVERSEAS ELECTORS",All Voters
+376,186,376,"HINDU AIDED PRIMARY SCHOOL, KIRAMPULI","1.Ilanthankarai (P) Kalkulam (R V) Maruthankudi , 2.Ilanthankarai (P) Kakulam (R V) Kakulam , 3.Ilanthankarai (P) Maranthai (R V) Solamudi , 4.Ilanthankarai (P) Silukkapatti (R V) Puthur , 99.OVERSEAS ELECTORS",All Voters
+377,186,377,"HINDU AIDED PRIMARY SCHOOL, KIRAMPULI, SOUTH BUILDING","1.Ilanthankarai (P) Kalkulam (RV) Kirampuli, 2.Ilanthankarai (P) Sakkoor  (R V) Ilanthankarai, 3.Ilanthankarai (P) Kalkulam (R V) Vilankattur, 99.OVERSEAS ELECTORS",All Voters
+378,186,378,PANCHAYAT UNION PRIMARY SCHOOL   SETHUR.   MIDDLE BUILDING,"1.Maranthai (P) (R V) West Maranthai , 2.Maranthai (P) (R V) South Maranthai , 3.Maranthai (P) (R V) Mettukudiyiruppu , 4.Maranthai (P) (R V) Koravalasai , 5.Maranthai (P) (R V) Thalirthalai , 6.Maranthai (P) Sethur (R V) Keelasethur , 7.Maranthai (P) Sethur (R V) Mullakarai , 99.OVERSEAS ELECTORS",All Voters
+379,186,379,PANCHAYAT UNION PRIMARY SCHOOL   SETHUR.   WEST BUILDING,"1.Maranthai (P) Sethur (R V) Melasethur , 2.Maranthai (P) Kolanthi (R V) Koothani , 3.Maranthai (P) Kolanthi (R V) Kolanthi , 99.OVERSEAS ELECTORS",All Voters
+380,186,380,"PANCHAYAT UNION MIDDLE SCHOOL, VELARENTHAL    ,WEST WING","1.Velarenthal (P) (R V) Velarenthal ,
+2.Velarenthal (P) Sethambal (R V) Kandanikkarai , 99.OVERSEAS ELECTORS",All Voters
+381,186,381,"PANCHAYAT UNION MIDDLE SCHOOL, VELARENTHAL    ,NORTH WING","1.Velarenthal Panchayat, Kalkulam (R.V), Sethambal (R.V) T.Mandapam, Koothakudi,  Velankulam ,
+2.Velarenthal Panchayat Sethambal (R V) Sathiseri, Maranthai, Viyalavanur ,
+99.OVERSEAS ELECTORS",All Voters
+382,186,382,"PANCHAYAT UNION PRIMARY SCHOOL, PERIYAKANNANOOR, NEW BUILDING ROOM NO 2","1.Periyakannanur (P) (R V) Periyakannanur , 2.Periyakannanur (P) (R V) Keelakudiyiruppu , 3.Periyakannanur (P) Thadiyamangalam (R V) Odaikulam , 4.Periyakannanur (P) (R V) Kannamuthankarai , 5.Periyakannanur (P) (R V) Pei Pagaiyanjan , 6.Periyakannanur (P) (R V) Veeramangalam , 99.OVERSEAS ELECTORS",All Voters
+383,186,383,"PANCHAYAT UNION PRIMARY SCHOOL, SEMBANOOR","1.Sembanur (P) (R V) Sembanur ,
+2.Sembanur (P) (R V) Keelasuravathi ,
+3.Sembanur (P) (R V) Melasuravathi ,
+4.Sembanur (P) Allpattaviduthi (R V) Nenmeni ,
+5.Sembanur (P) Allpattaviduthi (R V) Alpattaviduthi ,
+6.Sembanur (P) Allpattaviduthi (R V) Kalasankudi ,
+7.Sembanur (P) Allpattaviduthi (R V) Kallikudi , 99.OVERSEAS ELECTORS",All Voters
+384,186,384,"PANCHAYAT UNION PRIMARY SCHOOL, THACHANENTHAL","1.Periyakannanur (P) Thadiyamangalam (R V) Naranamangalam ,
+2.Sembanur (P) Thadiyamangalam (R V) Irumpur ,
+3.Sembanur (P) Thadiyamangalam (R V) Thachanendhal , 99.OVERSEAS ELECTORS",All Voters
+385,186,385,"PANCHAYAT UNION PRIMARY SCHOOL, THADIYAMANGALAM.","1.Thadiyamangalam (p) Uthamanur  (R V) Thadiyamangalam , 2.Thadiyamangalam (p) Uthamanur  (R V) Panagulam , 3.Thadiyamangalam (p) Uthamanur  (R V) Pottagavayal , 4.Thadiyamangalam (p) Uthamanur  (R V) Pananodai , 5.Kalaikkulam (p) (R V) Pach chitty ,
+6.Periyakannanur (P) (R V) Veeramangalam , 99.OVERSEAS ELECTORS",All Voters
+386,186,386,"PANCHAYAT UNION PRIMARY SCHOOL, K.PERUNKARAI    ,BLOCK-2","1.Sembanur (P) K. Perunkarai (R V) Perunkarai , 2.K.perunkarai,keelapidavur (p) K.Perunkarai (R V) K. perunkarai , 3.K.perunkarai,Keelapidavur (p) K.Perunkarai (R V) Keezhapidavur , 4.K.perunkarai,Keelapidavur (p) K. Perunkarai (R V) Puliyangulam , 5.K.perunkarai,Keelapidavur (p) K. Perunkarai (R V) West mayazhi , 6.K.perunkarai,Keelapidavur (p) K.Perunkarai (R V) East mayazhi , 7.K.perunkarai,Keelapidavur (p) K.Perunkarai (R V) Velani , 8.K.perunkarai,Keelapidavur (p) K.Perunkarai (R V) Sorandiyendhal , 99.OVERSEAS ELECTORS",All Voters
+387,186,387,"PANCHAYAT UNION MIDDLE SCHOOL, A.VILAKKULAM","1.Mallal (P) N.Puliyankulam (R V) Pillathi , 2.Melapidavur (p) Puliyankulam (R V) A. vilakulam , 99.OVERSEAS ELECTORS",All Voters
+388,186,388,"GOVERNMENT ADIDRAVIDA WELFFARE HIGHER SECONDARY SCHOOL ,MALLAL.
+,WEST WING","1.Mallal (P) (R V) Mallal ,
+2.Mallal (P) Sembanur  (R V) Marakkulam , 99.OVERSEAS ELECTORS",All Voters
+389,186,389,"GOVERNMENT ADIDRAVIDA WELFFARE HIGHER SECONDARY SCHOOL ,MALLAL,NORTH WING","1.Mallal (P) (R V) Sithalankudi ,
+2.Mallal (P) (R V) Satharasankottai , 99.OVERSEAS ELECTORS",All Voters
+390,186,390,"GOVERNMENT ADIDRAVIDA WELFFARE HIGHER SECONDARY SCHOOL ,MALLAL.,SOUTH 7-STANDARD","1.Mallal (P) (R V) Pavakudi , 2.Mallal (P) (R V) Maruthankudi , 99.OVERSEAS ELECTORS",All Voters

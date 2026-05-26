@@ -1,0 +1,460 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+1,220,2,,3,4
+1,220,1,,"Arunothaya Middle School, west New building, 1-st   Part from South, Viswanathaperi",1
+2,220,2,,"Arunothaya Middle School, west New building, 2-nd Part From South, Viswanathaperi",1
+3,220,3,,"Arunothaya Middle School, Middle Portion,
+3rd Part from South, Viswanathaperi",1
+4,220,4,,"Arunothaya Middle School, West New Building, North Portion, Viswanathaperi",1
+5,220,5,,"Panchayat Union
+primary school, South Building Vadakkusathiram",1
+6,220,6,,"School,West Building,South
+Portion, Devipattanam",4
+7,220,7,,"Bose Indhu Primary School,West Building,North Portion,
+Devipattanam",1
+8,220,8,,"R.C.Primary School, South West Building, West Part, Devipattanam",1
+9,220,9,,"R.C.Primary School, South west Building, East Part, Devipattanam",1
+10,220,10,,"T.D.T.A.Primary School, Main Building, Devipattanam",1
+11,220,11,,"T.D.T.A Primary School, East
+Side, South   Building, Devipattanam",1
+12,220,12,,"0.20.Co.operative society
+building,",1
+13,220,13,,"TDTA Primary School, Keelur Ramasamiyapuram, Devipattanam",1
+14,220,14,,"Jananayaka Primary school, Main building,   South portion, East Building, Inamkovilpatti",1
+15,220,15,,"JananayakaPrimary school, Main Building, South Portion, West Building 2nd Room, Inamkovilpatti",1
+16,220,16,,"Victoria Primary school,
+Middle building, Thenmalai",1
+17,220,17,,"Victoria Primary
+school,
+East New building, Thenmalai",2
+18,220,18,,"Victoria Primary school,
+New building, southern portion, North Side, Thenmalai",1
+19,220,19,,"Victoria Primary school,
+New building, South portion,
+South Side, Thenmalai",1
+20,220,20,,"Panchyat Union Primary school, New Building,
+East Portion A.subramaniapuram Thenmalai",1
+21,220,21,,"Eastern building (SSA),
+Middle Portion, Arugankulam, Thenmalai",3
+22,220,22,,"Govt.Middle School, west Building (SSA) Face to
+East,
+Middle Portion, Arugankulam, Thenmalai",1
+23,220,23,,"Ramasundara karunalaya
+pandian Panchayat Union Elementary   school, North New Building,
+west Portion,",1
+24,220,24,,"Pasumpon Thevar Elementary school,
+Northern Building, North Part, Kumarapuram, Sivagiri",1
+25,220,25,,"Pasumpon Thevar   Elementary school,
+Northern Building, South Part, Kumarapuram, Sivagiri",1
+26,220,26,,"Panchayat Union Jawahar Middle school, west Building,
+west Portion, Sivagiri",1
+27,220,27,,"Panchayat Union Jawahar Middle school, South west building, west Part, Sivagiri",3
+28,220,28,,"Panchayat Union Jawahar Middle school, Main Building, Northern Portion, Sivagiri",1
+29,220,29,,"Panchayat Union Jawahar Middle School, Main Building, Southern Portion,
+Sivagiri",1
+30,220,30,,"Valampuri Vinayakar sakkaraiyappa
+primary school, North building, west portion, Sivagiri",1
+31,220,31,,"Valampuri Vinayakar sakkarayappa
+primary school, North building, East portion, Sivagiri",1
+32,220,32,,"Bala vinayagar High school,
+North Building,",1
+33,220,33,,"Bala vinayagar High school, North Building,
+East Part, Sivagiri",1
+34,220,34,,"Panchayat Union
+primary school, North Building,west Portion",1
+35,220,35,,"Muthu Veerappa Devar Primary School, West Portion, Sivagiri",1
+36,220,36,,"Muthu Veerappa Devar Primary School, East   portion, Sivagiri",1
+37,220,37,,"Viveka Matriculation Higher Secondary school,
+Keela Mariamman Kovil street, West Building,
+South Portion, Sivagiri",1
+38,220,38,,"Viveka Matriculation Higher
+Secondary school, Keela Mariamman Kovil street,West Building,
+North Portion,Sivagiri",1
+39,220,39,,"Sidhi Vinayagar Primary School,South Building,   Sivagiri",1
+40,220,40,,"Sidhi Vinayagar Primary School, North Building, Sivagiri",1
+41,220,41,,"Hindu Singarayar Elementary School,West building, Sivagiri",1
+42,220,42,,"Hindu Singaraya Elementary School, East building, Sivagiri",1
+43,220,43,,"D.D. Hindu Primary School, East portion, Sivagiri",1
+44,220,44,,"D.D.Hindu   Primary School, West portion, Sivagiri",1
+45,220,45,,"T.D.T.A Primary School, West Portion
+Sivagiri",1
+46,220,46,,"T.D.T.A Primary School, East Portion Sivagiri",1
+47,220,47,,"Committee Nadar Elementary
+School, North Building, west Portion, Sivagiri.",5
+48,220,48,,"Sivaramalingapuram Middle School,
+North Building,   Sivagiri.",1
+49,220,49,,"Sivaramalingapuram Middle School,
+East Building, Sivagiri.",1
+50,220,50,,"S.R.Ramasamy Elementary School, West Portion,School street,   Rayagiri.",1
+51,220,51,,"C.B.Athithanar Primary School,
+North   Building, West Portion,",1
+52,220,52,,"C.B.Athithanar Primary School, South Building, East Portion, Rayagiri.",1
+53,220,53,,"C.B. Athithanar Primary School,
+South Building, west Portion, Rayagiri.",4
+54,220,54,,"M.S.Pothiyachi Primary School, West Portion, Rayagiri.",1
+55,220,55,,"M.S.Pothiyachi Elementary School,     Eastern Portion, Rayagiri.",1
+56,220,56,,"Arunachalam Primary School,West Building,Rayagiri",1
+57,220,57,,"Arunachalam Elementary school,     East Building,
+Rayagiri.",1
+58,220,58,,"T.D.T.A Primary School, western Wing , Rayagiri.",1
+59,220,59,,"Anganwadi Centre, South Portion,
+Therkkusathiram   H.o.Rayagiri",1
+60,220,60,,"Uyarkudi Ganesar Primary School, East Building, Vadugapatti, H.O.Rayagiri.",1
+61,220,61,,"School,   Melakarisalkulam H/o.
+Rayagiri.",3
+62,220,62,,"Periathai Mannadi Thevar Elementary School, Thalavaipuram, H/o.Rayagiri",1
+63,220,63,,,8
+64,220,64,,,3
+65,220,65,,,6
+66,220,66,,,7
+67,220,67,,,6
+68,220,68,,,6
+69,220,69,,,15
+70,220,70,,,4
+71,220,71,,,4
+72,220,72,,,8
+73,220,73,,,3
+74,220,74,,"East Building North Portion
+Sangupuram, H/o.Gudaloor.",3
+75,220,75,,"Nadar Committee Hr.
+Sec.School,   Main Hall, Eastern Side, Hallno.3,",1
+76,220,76,,,2
+77,220,77,,"Nadar Committee Hr.Sec.School, East Building, Hall No.2 Ramanathapuram.",1
+78,220,78,,"Nadar Committee
+Hr.Sec.School,   South Building, Hall No.21 Ramanathapuram.",1
+79,220,79,,,3
+80,220,80,,,4
+81,220,81,,"Panchayat   Union Primary School, Western Building, Thirumalapuram.",1
+82,220,82,,"Punchayat Union Primary School,     East Building,
+.Thirumalapuram.",1
+83,220,83,,"Appavu Primary School, South Building, East Portion, Thirumalapuram.",1
+84,220,84,,"Appavu Primary School, South Building, west Portion, Arulaachi,
+Thirumalapuram.",2
+85,220,85,,"Govt Aided   Elementary School, New Building,    western Portion, Athuvazhi.",1
+86,220,86,,"Govt Aided   Primary School, New Building ,    Eastern Portion, Atthuvazhi.",1
+87,220,87,,"R.C.Primary School,
+South Portion, Naranapuram.",3
+88,220,88,,"R.C.Primary School, Northern Portion, Naranapuram.",1
+89,220,89,,"R.C.Primary School, Middle Portion, Naranapuram.",1
+90,220,90,,"Anganwadi Centre, Naranapuram",1
+91,220,91,,"Sagayam Primary School,Sanganaperi.",1
+92,220,92,,"Maveeran Pulithevan Govt.Hr.
+Sec. School,     western Building,(SSA), Southern Portion, (Room No.11) Nelkattumseval.",1
+93,220,93,,"Maveeran Pulithevan Govt.Hr. Sec. School, North Building, Middle Portion, Face to South, (Room No.13), Nelkattumseval",1
+94,220,94,,"Maveeran Pulithevan Govt.Hr.Sec. School, Western Building, (SSA), Northern portion (room no.10) Nelkattumseval.",1
+95,220,95,,"A.M.C Primary School, Patcheri, H.O.Nelkattumseval.",1
+96,220,96,,"Kulandaivel Primary School, Paraipatti, H.O.Nelkattumseval.",1
+97,220,97,,"Panchayet Union Primary School,    Ramachadrapuram, H.O.Nelkattumseval.",1
+98,220,98,,"Pandian Primary School, West
+Building, Keelapudur H/o.",1
+99,220,99,,"Govt.Primary School, Southern   Building , Ariyoor.",1
+100,220,100,,"Swamy Primary School,Dharugapuram.",1
+101,220,101,,"Sudalaimuthu Memorial Middle
+School, Eastern Wing,",1
+102,220,102,,"Sudalaimuthu Memorial Middle School, New Building,
+western Wing, Subramaniapuram.",1
+103,220,103,,"Panchayat Union Primary
+School,North Portion",1
+104,220,104,,"Gurupackiam Primary School, western Wing Vellanaikottai.",1
+105,220,105,,"Gurupackiam Primary School, Eastern   Wing,   Vellanaikottai.",1
+106,220,106,,"Govt.Hr.Sec. School, Middle Building, Facing South,
+Room No.2 Vasudevanallur.",1
+107,220,107,,"Govt.Hr.Sec. School, Eastern side,
+North Facing   Building, Room no.5)   Vasudevanallur.",1
+108,220,108,,"Govt.Hr.Sec. School,   East Side, North Facing Building,
+Hall No.2    Vasudevanallur.",1
+109,220,109,,"Govt.Hr.Sec. School, West Building Vasudevanallur.",1
+110,220,110,,"Panchayat Union Jawahar
+Middle School, South Side, Middle",1
+111,220,111,,"Panchayat Union Jawahar Middle School,
+North building, west side, Vasudevanallur",1
+112,220,112,,"Nadar Uravanimurai Committee Primary School, Main Building, Middle   Portion, Vasudevanallur.",2
+113,220,113,,"Nadar Uravinmurai Committee Primary School, west Building, south Portion, Vasudevanallur.",1
+114,220,114,,"Nadar Uravinmurai Committee Primry School, South Part, East Building Vasudevanallur.",1
+115,220,115,,"Nadar Uravinmurai   Kamarajar Girls High School, West Building,
+Middle portion, Vasudevanallur.",1
+116,220,116,,"Nadar Uravinmurai Kamarajar Girls    High School, South Portion,
+West Building, Vasudevanallur.",1
+117,220,117,,"Ramasamy Memorial Middle School, Senai Vinayagar kovil",1
+118,220,118,,"T.D.T.A   Primary School, South
+Building,
+west Wing, Senbaga vinayagar",1
+119,220,119,,"T.D.T.A .Primary School, North Building,
+Middle Wing, Senbaga Vinayagar Kovil street, Vasudevnallur",1
+120,220,120,,"T.D.T.A Primary School, North Building, Eastern Wing,
+Senbaga vinayagar kovil street, Vasudevanallur",1
+121,220,121,,"Ramasamy Primary School, East Portion, Kalanjiam street, Kottiyoor, Vasudevanallur",1
+122,220,122,,"Ramasamy Primary School, West Wing, Kalanjiyam street, Kottaiyoor,     Vasudevanallur.",1
+123,220,123,,"V.Gandhi Primary School, west Building, North Portion, Main Road, Vasudevanallur.",1
+124,220,124,,"V.Gandhi Primary School, west Building, South Portion, Main Road, Vasudevanallur.",1
+125,220,125,,"V.Gandhi Primary school, Eastern side, south wing, Main Road, Vasudevanallur.",1
+126,220,126,,"R.C.Primary School, West Portion, R.C. Church street, Vasudevanallur.",1
+127,220,127,,"School,
+East Building, North Portion, Chinthamaniperiputhur,
+H/O.Naranapuram",2
+128,220,128,,"Panchayat Union Primary School, North Building, Chinthamaniperiputhur, H/O.Naranapuram",1
+129,220,129,,"Andiyappa Middle School, Lakshmi Sangar Gomathi Block, western Portion, Puliangudi",1
+130,220,130,,"Andiyappa Middle School, Chithamparath ammal Block, North Portion, Puliangudi",1
+131,220,131,,"Andiyappa Middle School, Lakshmi Sangar Gomathi Block, Eastern Portion, Puliangudi",1
+132,220,132,,"School,
+SSA Building, Northern Portion, Puliangudi.",3
+133,220,133,,"Thaikka Municipal Middle School, SSA Building, South Portion, Puliangudi.",1
+134,220,134,,"Thaikka Municipal Middle School,
+New Main Building, Puliangudi",1
+135,220,135,,"Thaikka Municipal Middle School,
+SSA Building, Middle Portion Puliangudi",1
+136,220,136,,"A.V.S   Primary School, West Building, Puliangudi",1
+137,220,137,,"Senaithalaivar Hr.Sec.School, west Building, South Portion, Puliangudi",1
+138,220,138,,"Senaithalaivar Hr.Sec.School,
+west Building, North Portion,",1
+139,220,139,,"Senaithalaivar Hr.Sec.School, west Building, Middle Portion, Puliangudi",1
+140,220,140,,"Ramalingam Middle school, Middle building, Eastern wing, Puliangudi",1
+141,220,141,,"Ramalingam Middle school, Main Building, Puliangudi",1
+142,220,142,,"Govt.Girls Hr.Sec.School, North west Building, Puliangudi",1
+143,220,143,,"Govt.Girls Hr.Sec.School, North Building, Middle Portion, (Room No.14), Puliangudi",2
+144,220,144,,"Govt.Girls Hr.Sec.School, South Building, west Portion,
+Puliangudi",1
+145,220,145,,"Govt.Girls Hr.Sec.School, west New Building, Southern Portion, (Room No.5) Puliangudi",1
+146,220,146,,"Govt.Girls Hr.Sec.School, west New Building, Northern Portion, (Room No.7) Puliangudi",1
+147,220,147,,"Government Girls Higher
+Secondary School, west New Building,",1
+148,220,148,,"Secondary School,
+North Building,",2
+149,220,149,,"Quaide Milleth Mohamed Ismayil Hr.Sec. School, South Building, west Portion, Puliangudi",1
+150,220,150,,"Quaide Milleth Mohamed Ismayil Hr.Sec. School, New west Building,
+North Portion, Puliangudi",1
+151,220,151,,"Quaide Milleth Mohamed Ismayil Hr.Sec. School, New west Building,
+South Portion, Puliangudi",1
+152,220,152,,"Quaide Milleth Mohamed Ismayil Hr.Sec. School, New South Building,
+Middle Portion, Puliangudi",1
+153,220,153,,"Quaide Milleth Mohamed Ismayil Hr.Sec. School, South
+Building, East Portion,",1
+154,220,154,,"Quaide Milleth Mohamed Ismayil
+Hr.Sec. School, East Building, North Portion, Puliangudi",1
+155,220,155,,"Municipal Primary School, Northern Portion, Vallurani street, Puliangudi",1
+156,220,156,,"Municipal Primary School, Southern Portion, Vallurani street, Puliangudi",1
+157,220,157,,"Suyambulingam Primary
+School, Kinatru street, South New Building,
+East Portion T.N.Puthugudi,
+Puliangudi",1
+158,220,158,,"Suyambulingam Primary School, Kinatru street, South New Building,
+west   Portion, T.N.Puthugudi, Puliangudi",1
+159,220,159,,"Suyambulingam Primary School, Kinatru street, Old Building,",1
+160,220,160,,"Quaide Millath Primary School, North Building, west Portion, T.N.Puthugudi
+Puliangudi",1
+161,220,161,,"Quaide Millath Primary School,
+West Building, South Portion,",1
+162,220,162,,"Quaide Millath Primary School,
+West Building, North   Portion,",1
+163,220,163,,"R.C. Primary School, East
+Building, Northern Portion,",1
+164,220,164,,"R.C. Primary School, Eastern
+Building,
+Middle Portion, T.N.Puthugudi,",1
+165,220,165,,"R.C. Primary School,
+Eastern Building, South",1
+166,220,166,,"R.C.Higher Secondary School, South Building, west Portion, T.N.Puthukudi,
+Puliangudi",1
+167,220,167,,"R.C.Higher Secondary School, South Building, Middle Portion, T.N.Puthukudi,
+Puliangudi",1
+168,220,168,,"R.C. Higher secondary   School, East New Building, Southern Portion,
+T.N.Puthugudi, Puliangudi",1
+169,220,169,,"R.C.Higher secondary   School, South New Building, Eastern Portion, T.N.Puthukudi, Puliangudi",1
+170,220,170,,"R.C.Higher secondary   School, East New Building, North Portion, T.N.Puthukudi, Puliangudi",1
+171,220,171,,"Municipal Primary School, Northern Portion, Chinthamani, Puliangudi.",1
+172,220,172,,"Municipal Primary School, Southern Portion, Chinthamani, Puliangudi.",1
+173,220,173,,"western Wing, Ground Floor, Chinthamani, Puliangudi.",2
+174,220,174,,"Seeniammal High School, North Building,  west Portion, Chinthamani, Puliangudi",1
+175,220,175,,"Seeniammal High School,
+East Building, North Portion, Chinthamani, Puliangudi",1
+176,220,176,,"Seeniammal High School, North Building,  East Portion, Chinthamani, Puliangudi",1
+177,220,177,,"Seeniammal High School, west old Building, Middle Portion, Chinthamani,
+Puliangudi",1
+178,220,178,,"Seeniammal High School, East Building, Middle Portion,
+Chinthamani,",1
+179,220,179,,"Kanna Girls Hr.Sec.School, west Building, Middle Portion, Chinthamani, Puliangudi.",1
+180,220,180,,"Kanna Girls Hr.Sec.School, East Building, Middle Portion, Chinthamani, Puliangudi.",1
+181,220,181,,"Anganwadi Centre, Muppudathiamman kovil street,Puliangudi.",1
+182,220,182,,"Municipal Primary School, Muppudathiamman kovil street,",1
+183,220,183,,"Thirugnana Sampanthar Middle School, North Building, western Portion, Kaladi North street, Puliangudi",1
+184,220,184,,"Thirugnana Sampanthar Middle School, North Building, Eastern Portion, Kaladi North street, Puliangudi",1
+185,220,185,,"T.D.T.A Middle School, Kaval Ramasamy street, East
+Portion, T.N.Pudukudi, Puliangudi.",1
+186,220,186,,"T.D.T.A Middle School, Kaval Ramasamy street, west
+Portion, T.N.Pudukudi, Puliangudi.",1
+187,220,187,,"Paramanantha Middle School, Southern Wing, Eastern Portion,     T.N.Pudukudi, Puliangudi.",1
+188,220,188,,"Paramanantha Middle School,
+North west Wing,",1
+189,220,189,,"Paramanantha Middle School, Southern Wing, western Portion,     T.N.Pudukudi, Puliangudi.",1
+190,220,190,,"Paramanantha Middle School, west Building,     T.N.Pudukudi, Puliangudi",1
+191,220,191,,"Paramanantha Middle School, Northern Side, western Portion, T.N.Pudukudi, Puliangudi",1
+192,220,192,,"Hindu Nadar Uravinmurai Committee Primary School, New South Building, East Side,T.N.Puthugudi, Puliangudi",1
+193,220,193,,"Hindu Nadar Uravinmurai Committee Primary School, South Building, west Portion,",1
+194,220,194,,"Hindu Nadar Uravinmurai Committee Primary School, East Building,   Southern Portion, T.N.Pudukudi, Puliangudi",1
+195,220,195,,"Hindu Nadar Uravinmurai
+Committee Primary School, East Building, North Portion, T.N.Pudukudi, Puliangudi",1
+196,220,196,,"Indira Primary School, North Portion
+Eswarn Kovil street,  Ayyapuram H/O, T.N.Pudukudi, Puliangudi.",1
+197,220,197,,"Indira Primary School,South Portion
+Eswarn Kovil street,  Ayyapuram H/O, T.N.Pudukudi, Puliangudi.",1
+198,220,198,,"Panchayat Union Middle School, Eastern Building, Northern Portion, Malaiyadikurichi",1
+199,220,199,,"Panchayat Union Middle School, Northern Building (SSA), Malaiyadikuruchi.",1
+200,220,200,,"S.Murugaiah devar Middle School, North Building,
+East Portion, Thalaivankottai",1
+201,220,201,,"S.Murugaiah devar Middle School, North Building,
+west Portion, Thalaivankottai",1
+202,220,202,,"S.Murugaiah devar Middle School, New Building, Southern Portion, Thalaivankottai",1
+203,220,203,,"T.D.T.A Primary School, Thalaivankottai",5
+204,220,204,,"Panchayat Union Jawahar Middle School, New Building, South Portion, Nagaram",1
+205,220,205,,"Panchayat Union Jawahar Middle School, New   Building, Northern Portion   Nagaram.",1
+206,220,206,,"Panchayat Union Jawahar Middle School,
+East Building, Nagaram.",2
+207,220,207,,"Committee Primary School, Eachampottalputhur, H/o.Nagaram.",1
+208,220,208,,"Pandia konar Govt Primary School,
+West Building,  North Portion, Mullikulam.",1
+209,220,209,,"School, East Building,
+North Portion, Mullikulam.",3
+210,220,210,,"R.C.Primary School, New Building,     Ramasamyapuram",1
+211,220,211,,"Vadamalapuram H/o,
+Ramasamyapuram",4
+212,220,212,,"Panchayat Union Primary School,
+North Portion, Aandarkulam.",1
+213,220,213,,"Yadhava Primary School, Muthusamyapuram,   H/o, Ramasamyapuram",1
+214,220,214,,"R.C.Primary School , New building, Vellagoundanpatti H/o.Ramasamyapuram.",1
+215,220,215,,"T.D.T.A Middle School, South Building, western
+Portion, Mangudi",2
+216,220,216,,"T.D.T.A Middle School, South Building, Eastern
+Portion, Mangudi",1
+217,220,217,,"T.D.T.A Middle School, North Building,   South Portion,
+Mangudi",1
+218,220,218,,"Panchayat Union Middle School, Eastern Building, Perumalpatti",1
+219,220,219,,"Panchayat Union Middle School,",1
+220,220,220,,"Hindu Primary School, Valavanthalpuram",1
+221,220,221,,"SundarPrimary School, Main Building, Varagunaramapuram",1
+222,220,222,,"Harijan Primary School, Senthatiyapuram",1
+223,220,223,,"Panchayat Office, Senthatiyapuram",1
+224,220,224,,"Kalyani Primary School, Panthapuli",1
+225,220,225,,"Panchayat Union Primary
+School, North Building, P.Rettiyapatti H/o, panthapuli",1
+226,220,226,,"Panchayat Union Primary
+School,",1
+227,220,227,,"Kammavar
+Savadi,",1
+228,220,228,,"Jothi Primary School,Solaseri",1
+229,220,229,,"Panchayat Union Primary School, Karisalkulam H/o, Panthapuli",1
+230,220,230,,"Mari Thangaiah Primary School, Paruvakkudi",1
+231,220,231,,"Panchayat Union Primary school,
+Kothainachiyarpuram,",1
+232,220,232,,"Panchayat Union Primary school,
+South Building, Palvannanathapuram, H/o.Paruvakkudi",1
+233,220,233,,"Hindu Sri Ganapathy Primary School, Rengasamuthiram",1
+234,220,234,,"T.D.T.A Primary School, Etticheri, H/o.Paruvakkudi",1
+235,220,235,,"Hindu Middle School,
+western Block, Middle Portion, Panaiyoor.",3
+236,220,236,,"Hindu Middle School, Eastern Block, Panaiyoor",1
+237,220,237,,"Panchayat Union Primary School, New Building (SSA), Meenachipuram, Panaiyoor",1
+238,220,238,,"Anganwadi   Center, Gomathimuthupuram",1
+239,220,239,,"Panchayat Union Primary School, Vayalimitta",1
+240,220,240,,"Panchayat Union Primary School, East Building, Rayagiri Road,
+Karivalamvanthanallur",1
+241,220,241,,"Panchayat Union Primary
+School,
+West Building, Rayagiri Road, Karivalamvanthanallur",3
+242,220,242,,"Mahathma gandhi primary school,western portion,
+Karivalamvantha nallur",1
+243,220,243,,"Mahathma gandhi primary school,Eastern portion, Karivalamvanthanallur",1
+244,220,244,,"Kastreethuribai Aided Primary School, Karivalamvanthanallur",1
+245,220,245,,"Panchayat Union Primary School,
+East Building, Sennikulam Road,   Karivalamvanthanallur",1
+246,220,246,,"Panchayat Union Primary School, Southern side,",1
+247,220,247,,"A.Maruthappan Chettiyar Government Higher Secondary School, North Portion (Hall No.4),
+Karivalamvanthanallur",1
+248,220,248,,"Hindu Harisan   Primary School, Oppanaiyalpuram",1
+249,220,249,,"Chief Ministreeter's Nutritious Meals Centre, Oppanaiyalpuram, H.O.Karivalamvathanallur",1
+250,220,250,,"Annamalai Middle School, Eastern Portion, Sennikulam",3
+251,220,251,,"Grama Seva Centre, Sennikulam",1
+252,220,252,,"Sarojini Primary School, Subramaniapuram, Sennikulam.",1
+253,220,253,,"Panchayat Union Primary School,
+west Building,
+west Side, Subbulapuram",1
+254,220,254,,"Panchayat Union Primary School, East Building, South Portion, Subbulapuram",1
+255,220,255,,"Panchayat Union Primary
+School, New East Building, North Portion, Subbulapuram",1
+256,220,256,,"Panchayat Union Primary
+School, North Building,
+Sankaralinga puram",3
+257,220,257,,"Panchayat Union Primary School, North Block, Vayali",1
+258,220,258,,"Panchayat Union Primary School, South Building, Melavayali",1
+259,220,259,,"Panchayat Union Primary School, Northern Side, Kuvalaikanni",1
+260,220,260,,"Panchayat Union Primary School, New Building, Southern Portion, Kuvalaikanni",1
+261,220,261,,"Panchayat Union Primary school, Periyoor.",2
+262,220,262,,"Panchayat Union Govt. Primary School, Shenpagapuram H/o, Periyoor.",1
+263,220,263,,"Vivekananda Vidayalaya Primary School, Northern Portion, Perumbathur",1
+264,220,264,,"Vivekananda Vidayalaya Primary School, Southern Portion, Perumbathur",3
+265,220,265,,"Manimuthu Middle School, Ramalingapuram H/o, Perumbathur",1
+266,220,266,,"Panchayat Union Primary School, Panchakulam H/o.
+Perumbathur",1
+267,220,267,,"Panchayat Union Primary School,Kandigaiperi, H/o.
+Perumbathur",1
+268,220,268,,"Panchayat Union Primary School, South Building, Middle Portion, Manalur",1
+269,220,269,,"Panchayat Union Primary school, North Building, Manalur",1
+270,220,270,,"Saraswathy Primary School, Vaadikottai",1
+271,220,271,,"Panchayat Union Primary school, Nainapuram H/o.
+Vaadikottai",1
+272,220,272,,"Panchayat Union Middle School, East Building, North Portion, Tiruvettanallur",1
+273,220,273,,"Panchayat Union Middle School,
+East Building, South Portion,",1
+274,220,274,,"Panchayat Union Middle School, west Building, Southern  Portion, Tiruvettanallur",1
+275,220,275,,"Panchayat Union Middle School, west Building, North Portion, Tiruvettanallur",1
+276,220,276,,"Vellaivinayagar primary school, Western Side, Vetrampatti",1
+277,220,277,,"Grama Seva Centre,   Keela Thiruvettanallur",1
+278,220,278,,"Govt   High School, New Building, South Side, South Room, Madathupatti",1
+279,220,279,,"Govt High School,
+New Building, South Side,",1
+280,220,280,,"Panchayat Union Primary School, SSA East Building, North Portion,
+Punnaivanam.",1
+281,220,281,,"Hindu Nadar Uravinmurai committee
+Primary school, New Building, Ariyanayagipuram",1
+282,220,282,,"Hindu Nadar Uravinmurai committee
+Primary school, South portion, Ariyanayagipuram",1
+283,220,283,,"T.D.T.A. Middle School,
+Southern Portion, Arunachalapuram",4
+284,220,284,,"T.D.T.A.Middle School,
+Middle Portion, Arunachalapuram",1
+285,220,285,,"T.D.T.A.Middle School, New Building, North Side, Arunachalapuram",1
+286,220,286,,"T.D.T.A.Middle School, Northern Portion, Arunachalapuram",1
+287,220,287,,"Hindu Middle School, Achampatti, H/o.Ariyanayakipuram",1
+288,220,288,,"Panchayat union
+Primary school, Eastern portion, Periyasamyapuram, H/o.Ariyanayakipuram",3
+289,220,289,,"Panchayat Union Primary School,
+New Building
+west Portion Veerasigamani",1
+290,220,290,,"Panchayat Union Primary
+School,New Building",1
+291,220,291,,"Panchayat Union Primary School, Middle Building, Veerasigamani",1
+292,220,292,,"Panchayat Union Primary School, South Portion, East Side, Veerasigamani",1
+293,220,293,,"Panchayat Union Primary School, Southern Portion, west Side, Veerasigamani",1
+294,220,294,,"west New Building,
+South Portion, Veerasigamani",4
+295,220,295,,"Hindu Primary School, west New Building, North Portion, Veerasigamani",1
+296,220,296,,"Panchyat Union Middle School, SSA Building, Southern Portion, Vadanathampatti",1
+297,220,297,,"Panchyat Union Middle School, North Buiding Vadanathampatti",1
+298,220,298,,"Grama   Seva Center, K.V.Alangulam
+H/o, Keela Veerasigamani",1
+299,220,299,,"Anganwadi center, K.V.Alangulam
+H/o, KeelaVeerasigamani",1
+300,220,300,,"Panchayat Office, Alangulam H/o, Keela Veerasigamani",1
+301,220,301,,"Panchayat Union Primary School, New Building, Poigai",1
+302,220,302,,"Panchayat Union Primary School, New Building, Alangulam H/o, Nochikulam",1
+303,220,303,,"Panchayat Union Middle School, west Building,
+South Portion, Veeriruppu.",1
+304,220,304,,"Panchayat Union Middle School, South Building, Veeriruppu",1
+305,220,305,,"Panchayat Union Middle School, East Side,South New Building, Irumankulam H/o, Vadakkuputhur",1
+306,220,306,,"Panchayat Union Middle School, East Side,South New Building, South Portion
+Irumankulam H/o, Vadakkuputhur",1
+307,220,307,,"Panchayat Union Primary
+School, Achampatti, H/o,",1
+308,220,308,,"Panchayat Union Primary
+School,   Therkkupudur, H/o, Vadakkuputhur",3
+309,220,309,,"Panchayat Union Primary School, North Building, Vadakkuputhur",1
+310,220,310,,"Panchayat Union Primary School,
+South Building, Vadakkuputhur",1

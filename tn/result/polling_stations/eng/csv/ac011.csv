@@ -1,0 +1,777 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+1,11,1,"ICDS Center No. 713, Vinoba Nagar 2nd Street, Tondiarpet, Chennai - 600081","1 - Tondiarpet Ward No 38 N S K Street Nedunchezhiyan Nagar
+2 - Tondiarpet Ward No 38 Valluvar Street Nedunchezhiyan Nagar
+3 - Tondiarpet Ward No 38 M G R Street Nedunchezhian Nagar
+4 - Tondiarpet Ward No 38 Chinnaswamy Street Nedunchezian Nagar
+5 - Tondiarpet Ward No 38 Azhagiri Street Nedunchezhian Nagar
+6 - Tondiarpet Ward No 38 K V K Samy Street Nedunchezian Nagar",All Voters
+2,11,2,"ICDS Centre No. 33603120708, No. 42, Karunanathi Nagar 1st Street, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 38 Karunanithi Nagar 3rd Street and Sasthri Nagar 3rd Street Door No 1 to 100
+2 - Tondiarpet Ward No 38 Karunanithi Nagar and Sasthri Nagar 5nd Street",All Voters
+3,11,3,"ICDS Centre No. 33603120708, No. 42, Karunanathi Nagar 1st Street, Tondiarpet, Chennai-600081",1 - Tondiarpet Ward No 38 Karunanithi Nagar 3rd Street and Sasthri Nagar 3rd Street Door No 101 to 200,All Voters
+4,11,4,"North Madras Social Service Middle School,
+No.42-99, Karunanithi Nagar 1st Street, Tondiarpet , Chennai- 600081",1 - Tondiarpet Ward No 38 Karunanithi Nagar 3rd Street and Sasthri Nagar 4th Street,All Voters
+5,11,5,"ICDS Center No. 706 No. 74, New Vinoba Nagar, Tondiarpet, Chennai - 600081.","1 - Tondiarpet Ward No.38 Annai Sandhiya Nagar 1st Street
+2 - Tondiarpet Ward No 38 Annai Sandhiya Nagar 2nd Street
+3 - Tondiarpet Ward No 38 Annai Sandhiya Nagar 3rd Street
+4 - Tondiarpet Ward No 38 Annai Sandhiya Nagar 4th Street",All Voters
+6,11,6,"Nadar Kalyana Mandapam No. 57, New Vinoba Nagar, Tondiarpet, Chennai - 600081","1 - Tondiarpet Ward No 38 Rajiv Gandhi Nagar 1st Street
+2 - Tondiarpet Ward No 38 Rajiv Gandhi Nagar 3rd Street
+3 - Tondiarpet Ward No 38 Rajiv Gandhi Nagar 4th Street
+4 - Tondiarpet Ward No 38 Rajiv Gandhi Nagar Main Road
+5 - Tondiarpet Ward No 38 Rajiv Gandhi Nagar 2nd Street",All Voters
+7,11,7,"North Madras Social Service Middle School, No. 42-99, Karunanithi Nagar 1st Street, Tondiarpet,",1 - Tondiarpet Ward No 38 Karunanithi Nagar and Sasthri Nagar 1st Street,All Voters
+8,11,8,"North Madras Social Service Middle School, No. 42-99, Karunanithi Nagar 1st Street, Tondiarpet, Chennai-600081",1 - Tondiarpet Ward No 38 Karunanithi Nagar and Sasthri Nagar 2nd Street,All Voters
+9,11,9,"ICDS Center No. 707 No. 98, Anna Street, Nedunchezhiyan Nagar, Tondiarpet, Chenani - 600081","1 - Tondiarpet Ward No 38 Periyar Street Nedunchezhiyan Nagar
+2 - Tondiarpet Ward No 38 Nedunchezhiyan Nagar Main Road
+3 - Tondiarpet Ward No 38 Anna Street Nedunchezhian Nagar
+4 - Tondiarpet Ward No 38 Velayutham Street Nedunchezhian Nagar
+5 - Tondiarpet Ward No 38 Govindaswamy Street Nedunchezhian Nagar
+6 - Tondiarpet Ward No 38 C.I.S.F. Quarters",All Voters
+10,11,10,"Chennai Primary School, No. 4, Patel Nagar 4th Street, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 38 Vinoba Nagar Main Road
+2 - Tondiarpet Ward No 38 Vinoba Nagar 1st Street
+3 - Tondiarpet Ward No 38 Vinoba Nagar 2nd Street
+4 - Tondiarpet Ward No 38 Vinoba Nagar 3rd Street
+5 - Tondiarpet Ward No 38 Vinoba Nagar 4th Street",All Voters
+11,11,11,"Chennai Primary School, No. 4, Patel Nagar 4th Street, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 38 Vinoba Nagar 5th Street
+2 - Tondiarpet Ward No 38 Vinoba Nagar 6th Street
+3 - Tondiarpet Ward No 38 Vinoba Nagar 7th Street
+4 - Tondiarpet Ward No 38 Vinoba Nagar 8th Street",All Voters
+12,11,12,"Chennai Primary School, No. 4, Patel Nagar 4th Street, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 38 Vinoba Nagar 9th Street
+2 - Tondiarpet Ward No 38 Vinoba Nagar 10th Street
+3 - Tondiarpet Ward No 38 Vinoba Nagar 11th Street
+4 - Tondiarpet Ward No 38 Vinoba Nagar 12th Street",All Voters
+13,11,13,"Aringnar Anna Middle School No. 7-9, Nethaji Nagar 1st Street, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 38 Indira Gandhi Nagar 4th Street
+2 - Tondiarpet Ward No 38 Indira Gandhi Nagar 1st Street",All Voters
+14,11,14,"Nethaji Middle School, No. 128-92, Nethaji Nagar 5th Street, Tondiarpet, Chennai-600081",1 - Tondiarpet Ward No 38 Nethaji Nagar 5th Street 1 to 100,All Voters
+15,11,15,"Nethaji Middle School, No. 128-92, Nethaji Nagar 5th Street, Tondiarpet, Chennai-600081",1 - Tondiarpet Ward No 38 Nethaji Nagar 5th Street Door No 101 to 600,All Voters
+16,11,16,"Vivekananda Hindu Vidyalaya Nursery & Primary School No. 39/17A, Nethaji Nagar Main Road, Tondiarpet, Chennai-600081",1 - Tondiarpet Ward No 38 Nethaji Nagar Main Road,All Voters
+17,11,17,"Nethaji Middle School, No. 128-92, Nethaji Nagar 5th Street, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 38 Nethaji Nagar A Street
+2 - Tondiarpet Ward No 38 Nethaji Nagar 6th Street",All Voters
+18,11,18,"ICDS Center No. 18-8 Nalavar Nagar, Tondiarpet, Chenani - 600081.",1 - Tondiarpet Ward No 38 Navalar Nagar,All Voters
+19,11,19,"Chennai Primary School, No. 4, Patel Nagar 4th Street, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 38 Patel Nagar 1st Street
+2 - Tondiarpet Ward No 38 Patel Nagar 4th Street",All Voters
+20,11,20,"Chennai Primary School No. 4, Patel Nagar 4th Street, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 38 Sanjay Gandhi Nagar 4th Street
+2 - Tondiarpet Ward No 38 sanjay Gandhi Nagar 5th Street
+3 - Tondiarpet Ward No 38 Sanjay Gandhi Nagar 6th Street
+4 - Tondiarpet Ward No 38 Sanjay Gandhi Nagar 1st Street
+5 - Tondiarpet Ward No 38 Sanjay Gandhi Nagar 2nd Street
+6 - Tondiarpet Ward No 38 Sanjay Gandhi Nagar 3rd Street",All Voters
+21,11,21,"Chennai Primary School, No. 4, Patel Nagar 4th Street, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 38 Patel Nagar 2nd Street
+2 - Tondiarpet Ward No 38 Patel Nagar Main Road
+3 - Tondiarpet Ward No 38 patel Nagar 3rd Street",All Voters
+22,11,22,"Aringnar Anna Middle School, No. 7-9, Nethaji Nagar 1st Street, Tondiarpet, Chennai-600081",1 - Tondiarpet Ward No 38 Nethaji Nagar 1st Street No 101 to 200,All Voters
+23,11,23,"Seethakathi Matriculation Hr.Sec.School, No. 23, 24, Nethaji Nagar 3rd Street. Tondiarpet, Chennai-600081",1 - Tondiarpet Ward No 38 Nethaji Nagar 3rd Street 130 to 200,All Voters
+24,11,24,"Seethakathi Matriculation Hr.Sec.School, No. 23, 24, Nethaji Nagar 3rd Street. Tondiarpet, Chennai-600081",1 - Tondiarpet Ward No 38 Nethaji Nagar 3rd Street and Indira Gandhi Nagar 1st Street,All Voters
+25,11,25,"Seethakathi Matriculation Hr.Sec.School, No. 23, 24, Nethaji Nagar 3rd Street. Tondiarpet, Chennai-600081",1 - Tondiarpet Ward No 38 Nethaji Nagar 2nd Street and Indira Gandhi Nagar 3rd Street Door No 1 to 50,All Voters
+26,11,26,"Seethakathi Matriculation Hr.Sec.School No. 23, 24, Nethaji Nagar 3rd Street. Tondiarpet, Chennai-600081",1 - Tondiarpet Ward No 38 Nethaji Nagar 2nd Street and Indira Gandhi Nagar 3rd Street Door No 26 to 50,All Voters
+27,11,27,"Seethakathi Matriculation Hr.Sec.School, No. 23, 24, Nethaji Nagar 3rd Street. Tondiarpet, Chennai-600081",1 - Tondiarpet Ward No.38 Nethaji Nagar 3rd Street and Indira Gandhi Nagar 3rd Street,All Voters
+28,11,28,"Aringnar Anna Middle School, No. 7-9, Nethaji Nagar 1st Street, Tondiarpet, Chennai-600081",1 - Tondiarpet Ward No 38 Nethaji Nagar 4th Street 1 to 100,All Voters
+29,11,29,"Aringnar Anna Middle School No. 7-9, Nethaji Nagar 1st Street, Tondiarpet, Chennai-600081",1 - Tondiarpet Ward No 38 Nethaji Nagar 4th Street 1 to 100,All Voters
+30,11,30,"Aringnar Anna Middle School, No. 7-9, Nethaji Nagar 1st Street, Tondiarpet, Chennai-600081",1 - Tondiarpet Ward No 38 Nethaji Nagar 1st Street 1 to 100,All Voters
+31,11,31,"Aringnar Anna Middle School, No. 7-9, Nethaji Nagar 1st Street, Tondiarpet, Chennai-600081",1 - Tondiarpet Ward No 38 Nethaji Nagar 4th Street 101 to 200,All Voters
+32,11,32,"Chennai Middle School, No. 103, Ennore High Road, Cornation Nagar, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 41 Azeez Nagar 1st Street
+2 - Korukkupet Ward No 41 Azeez Nagar Amman Koil Street
+3 - Korrukupet Ward No 41 Azeez Nagar Amman koil Cross Street",All Voters
+33,11,33,"Chennai Middle School, No. 103, Ennore High Road, Cornation Nagar, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 41 Azeez Nagar 3rd Street
+2 - Korukkupet Ward No 41 Kumaran Nagar 1st Street
+3 - Korukkupet Ward No 41 Azeez Nagar 2nd Street",All Voters
+34,11,34,"Chennai Middle School, No. 103, Ennore High Road, Cornation Nagar, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 41 Kumaran Nagar 3rd Street
+2 - Korukkupet Ward No 41 Kumaran Nagar 4th Street
+3 - Korukkupet Ward No 41 Kumaran Nagar 2nd Street",All Voters
+35,11,35,"E.C.I. Matriculation Higher Secondary School, No. 163, Ennore High Road, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 38 Gandhi Nagar
+2 - Tondiarpet Ward No 38 Durgadevi Nagar 1st Street & 1st Cross Street",All Voters
+36,11,36,"E.C.I. Matriculation Higher Secondary School, No. 163, Ennore High Road, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 38 Durgadevi Nagar 2nd Street
+2 - Tondiarpet Ward No 38 Durgadevi Nagar 3rd Street
+3 - Tondiarpet Ward No 38 Durgadevi Nagar 4th Street
+4 - Tondiarpet Ward No 38 Durgadevi Nagar 5th Street and Cross Street
+5 - Tondiarpet Ward No 38 Salt Lane",All Voters
+37,11,37,"E.C.I. Matriculation Higher Secondary School, No. 163, Ennore High Road, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 41 Ennore high Road
+2 - Tondiarpet Ward No 41 Durgadevi Nagar Facing Ennore High Road
+3 - Tondiarpet Ward No 38 Durgadevi Nagar Main road
+4 - Tondiarpet Ward No 38 Durgadevi Nagar 6th Street and cross Street",All Voters
+38,11,38,"E.C.I. Matriculation Higher Secondary School, No. 163, Ennore High Road, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 38 Sundaram Pillai Nagar 1st Street
+2 - Tondiarpet Ward No 38 Sundaram Pillai Nagar 2nd Street
+3 - Tondiarpet Ward No.38 Sundaram Pillai Nagar 3rd Street",All Voters
+39,11,39,"E.C.I. Matriculation Higher Secondary School, No. 163, Ennore High Road, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 38 Sundaram Pillai Nagar 4th Street
+2 - Tondiarpet Ward No 38 Sundaram Pillai Nagar 5th Street
+3 - Tondiarpet Ward No 38 Sundaram Pillai Nagar 6th Street",All Voters
+40,11,40,"Angels Babyland Matriculation Hr.Sec. School, No. 23, Sundaram Pillai Nagar, Tondiarpet,
+Chennai-600081","1 - Tondiarpet Ward No 41 Nehru Nagar 1st Street
+2 - Tondiarpet Ward No 41 Nehru Nagar 2nd Street
+3 - Tondiarpet Ward No 41 Nehru Nagar 3rd Street
+4 - Tondiarpet Ward No 41 Nehru Nagar 4th Street
+5 - Tondiarpet Ward No 41 Nehru Nagar 5th Street
+6 - Tondiarpet Ward No 41 Nehru Nagar 6th Street",All Voters
+41,11,41,"Angels Babyland Matriculation Hr.Sec. School, No. 23, Sundaram Pillai Nagar, Tondiarpet,
+Chennai-600081","1 - Tondiarpet Ward No 41 Nehru Nagar 7th Street
+2 - Tondiarpet Ward No 41 Nehru Nagar 10th Street
+3 - Tondiarpet Ward No 41 Nehru Nagar Main Road",All Voters
+42,11,42,"Angels Babyland Matriculation Hr.Sec. School, No. 23, Sundaram Pillai Nagar, Tondiarpet,
+Chennai-600081","1 - Tondiarpet Ward No 41 Nehru Nagar 9th Street
+2 - Tondiarpet Ward No 41 Nehru Nagar 11th Street
+3 - Tondiarpet Ward No 41 Nehru Nagar 12th Street
+4 - Tondiarpet Ward No 41 Nehru Nagar 13th Street",All Voters
+43,11,43,"Sri Maheshwara Matriculation School, No. 26, Vinoba Nagar, 6th Street, Tondiarpet, Chennai - 600001.","1 - Tondiarpet Ward No 38 Rajasekaran Nagar 1st Street
+2 - Tondiarpet Ward No 38 Rajasekaran Nagar 2nd Street
+3 - Tondiarpet Ward No 38 Rajasekaran Nagar 3rd Street
+4 - Tondiarpet Ward No 38 Rajasekaran Nagar 4th Street
+5 - Tondiarpet Ward No.38 Rajasekaran Nagar 5th Street",All Voters
+44,11,44,"ICDS Center, No. 69, New Vinoba Nagar 1st Street, Tondiarpet, Chennai - 600021.","1 - Tondiarpet Ward No 38 Thamilar Nagar
+2 - Tondiarpet Ward No 38 New Vinoba Nagar 1st Street
+3 - Tondiarpet Ward No 38 New Vinoba Nagar 2nd Street
+4 - Tondiarpet Ward No 38 New Vinoba Nagar 3rd Street",All Voters
+45,11,45,"Angels Babyland Matriculation Hr.Sec. School, No. 23, Sundaram Pillai Nagar, Tondiarpet,
+Chennai-600081","1 - Tondiarpet Ward No 41 Nehru Nagar 8th Street
+2 - Tondiarpet Ward No 41 Nehru Nagar 14th Street",All Voters
+46,11,46,"ICDS Centre No. 21, Parameswaran Nagar, Tondiarpet, Chennai - 600081.",1 - Tondiarpet Ward No 38 Parameswaran Nagar,All Voters
+47,11,47,"Daniel Matriculation School, Parthasarathi Street, Korukkupet Chennai-600 021","1 - Korukkupet Ward No 41 Ramaswamy Street Cornation Nagar
+2 - Korukkupet Ward No 41 Marimuthu Street Cornation Nagar",All Voters
+48,11,48,"Daniel Matriculation School, Parthasarathi Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 41 Gandhi Street Cornation Nagar
+2 - Korukkupet Ward No 41 T.N.S.C.B Quarters Cornation Nagar",All Voters
+49,11,49,"Daniel Matriculation School, Parthasarathi Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 41 Sivaji Nagar 1st Street
+2 - Korukkupet Ward No 41 Sivaji Nagar 2nd Street
+3 - Korukkupet Ward No 41 Sivaji Nagar 3rd Street
+4 - Korukkupet Ward No 41 Sivaji Nagar 4th Street
+5 - Korukkupet Ward No 41 Sivaji Nagar 5th Street",All Voters
+50,11,50,"Daniel Matriculation School Parthasarathi Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 41 Kasthuribai Street Cornation Nagar
+2 - Korukkupet Ward No 41 Parthasarathy Street Cornation Nagar",All Voters
+51,11,51,"Daniel Matriculation School, Parthasarathi Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 41 Sivaji Nagar 6th Street
+2 - Korukkupet Ward No 41 Sivaji Nagar 7th Street
+3 - Korukkupet Ward No 41 Sivaji Nagar 8th Street
+4 - Korukkupet Ward No 41 Sivaji Nagar 9th Street
+5 - Korukkupet Ward No 41 Sivaji Nagar 10th Street
+6 - Korukkupet Ward No 41 Sivaji Nagar 11th Street
+7 - Korukkupet Ward No 41 Sivaji Nagar Pallam",All Voters
+52,11,52,"Prince Apartment Part - 1, No. 17-81, Ilaiya Street, Tondiarpet, Chennai - 600021","1 - Tondiarpet Ward No 40 Elaiya Mudali Street 1 to 100
+2 - Tondiarpet Ward No 40 Prince Appartment Part 1",All Voters
+53,11,53,"Prince Apartment Part - 2, No. 17-81, Ilaiya Street, Tondiarpet, Chennai - 600021","1 - Tondiarpet Ward No 40 Elaiya Mudali Street 101 to 200
+2 - Tondiarpet Ward No 40 Prince Apartment Part 2",All Voters
+54,11,54,"Sir Theagaraya College Higher Secondary School, No. 61-32, Mannappa Mudali Street, Old Washermenpet, Chennai-600021","1 - Tondairpet Ward No 40 Elaiya Mudali Street 201 to 350
+2 - Tondiarpet Ward No 40 Vaidyanathan Street 1 to 150
+3 - New Washermenpet Ward No 42 Kamarajar Avenue",All Voters
+55,11,55,"Sir Theagaraya College Higher Secondary School, No. 61-32, Mannappa Mudali Street, Old Washermenpet, Chennai-600021","1 - Old Washermenpet Ward No 47 Thyagappa Street 1 to 100
+2 - Old Washermenpet Ward No 42 Dr.Radhakrishnan Nagar 1st Street",All Voters
+56,11,56,"Sir Theagaraya College Higher Secondary School, No. 61-32, Mannappa Mudali Street, Old Washermenpet, Chennai-600021","1 - Old Washermenpet Ward No 42 Dr.Radhakrishnan Nagar 2nd Street
+2 - Old Washermenpet Ward No 42 Dr.Radhakrishnan Nagar 3rd Street
+3 - Old Washermenpet Ward No 42 Nagappa Naicken Street",All Voters
+57,11,57,"Sir Theagaraya College Higher Secondary School, No. 61-32, Mannappa Mudali Street, Old Washermenpet, Chennai-600021",1 - Old Washermenpet Ward No 42 Ekambaram Street,All Voters
+58,11,58,"ICDS Centre No. 33603090417 & 33603090418,
+Thoppai Vinayagar Salai, Ezhil Nagar B Block 2nd Street, Kodungaiyur, Chennai-600021","1 - KodungaiyurWard No 41 Ezhil Nagar B Block 1st Street
+2 - KodungaiyurWard No 41 Ezhil Nagar B Block 2nd Street
+3 - KodungaiyurWard No 41 Ezhil Nagar B Block 3rd Street",All Voters
+59,11,59,"Santhosh Nursery and Primary School. No. 43, Ezhil Nagar B Block 3rd Street, Kodungaiyur, Chennai - 600118","1 - KodungaiyurWard No 41 Ezhil Nagar B Block 4th Street
+2 - KodungaiyurWard No 41 Ezhil Nagar B Block 5th Street
+3 - KodungaiyurWard No 41 Ezhil Nagar B Block 6th Street",All Voters
+60,11,60,"Sacred Heart Matriculation School, No. 13, Gopal Nagar, Korukkupet, Chennai-600021","1 - KodungaiyurWard No 41 DeviKarumari Amman Nagar 1st Street
+2 - KodungaiyurWard No 41 Devikarumari Amman Nagar 2nd Street
+3 - KodungaiyurWard No 41 DeviKarumari Amman Nagar 3rd Street
+4 - KodungaiyurWard No 41 Kannagi Nagar 2nd Street
+5 - KodungaiyurWard No 41 Kannagi Nagar 3rd Street
+6 - KodungaiyurWard No 41 Kannagi Nagar 4th Street
+7 - KodungaiyurWard No 41 Kannagi Nagar 5th Street
+8 - KodungaiyurWard No 41 Karumariamman Nagar Manali Road
+9 - KodungaiyurWard No 41 Kannagi Nagar 1st Street",All Voters
+61,11,61,"Santhosh Nursery and Primary School. No. 43, Ezhil Nagar B Block 3rd Street, Kodungaiyur, Chennai - 600118.","1 - KodungaiyurWard No 41 Ezhil Nagar B Block Manali Road138 to198
+2 - KodungaiyurWard No 41 Ezhil Nagar B Block 7th Street
+3 - KodungaiyurWard No 41 Ezhil Nagar B Block 8th Street
+4 - KodungaiyurWard No 41 Ezhil Nagar B Block 9th Street
+5 - KodungaiyurWard No 41 Ezhil Nagar B Block 10th Street
+6 - KodungaiyurWard No 41 Ezhil Nagar B Block 11th Street
+7 - KodungaiyurWard No 41 Ezhil Nagar B Block 12th Street",All Voters
+62,11,62,"Sacred Heart Matriculation School, No. 13, Gopal Nagar, Korukkupet, Chennai-600021","1 - KodungaiyurWard No 41 Gopal Nagar 1st Street
+2 - KodungaiyurWard No 41 Gopal Nagar 2nd Street
+3 - KodungaiyurWard No 41 Gopal Nagar 3rd Street
+4 - KodungaiyurWard No 41 Gopal Nagar 4th Street
+5 - KodungaiyurWard No 41 Gopal Nagar 5th Street
+6 - KodungaiyurWard No 41 Gopal Nagar 6th Street
+7 - KodungaiyurWard No 41 Gopal Nagar Manali Road
+8 - KodungaiyurWard No 41 DeviKarumari Amman Nagar 4th Street
+9 - KodungaiyurWard No 41 Devikarumari Amman Nagar 5th Street
+10 - KodungaiyurWard No 41 Devikarumari Amman Nagar 6th Street",All Voters
+63,11,63,"Sacred Heart Matriculation School, No. 13, Gopal Nagar, Korukkupet, Chennai-600021","1 - KodungaiyurWard No 41 Ezhil Nagar A Block 1st Street
+2 - KodungaiyurWard No 41 Ezhil Nagar A Block 2nd Street
+3 - KodungaiyurWard No 41 Ezhil Nagar A Block 3rd Street
+4 - KodungaiyurWard No 41 Ezhil Nagar A Block 4th Street
+5 - KodungaiyurWard No 41 Ezhil Nagar A Block 5th Street
+6 - KodungaiyurWard No 41 Ezhil Nagar A Block 6th Street
+7 - KodungaiyurWard No 41 Ezhil Nagar A Block 7th Street
+8 - KodungaiyurWard No 41 Ezhil Nagar A Block 8th Street
+9 - KodungaiyurWard No 41 Ezhil Nagar A Block 9th Street
+10 - KodungaiyurWard No 41 Ezhil Nagar A Block 10th Street
+11 - KodungaiyurWard No 41 Ezhil Nagar A Block 11th Street",All Voters
+64,11,64,"Sacred Heart Matriculation School, No. 13, Gopal Nagar, Korukkupet, Chennai-600021","1 - KodungaiyurWard No 41 Ezhil Nagar A Block 12th Street
+2 - KodungaiyurWard No 41 Ezhil Nagar A Block 13th Street
+3 - KodungaiyurWard No 41 Ezhil Nagar A Block 14th Street
+4 - KodungaiyurWard No 41 Ezhil Nagar A Block 15th Street
+5 - KodungaiyurWard No 41 Ezhil Nagar A Block 16th Street
+6 - KodungaiyurWard No 41 Ezhil Nagar A Block 17th Street
+7 - KodungaiyurWard No 41 Ezhil Nagar A Block 18th Street
+8 - KodungaiyurWard No 41 Ezhil Nagar A Block Manali Road 200 to 250
+9 - KodungaiyurWard No 41 Ezhil Nagar Thoppai Vinayagar Road
+11 - KodungaiyurWard No 41 M G R Nagar Main Street ( East Side of Thoppai Vinayagar Salai)
+12 - KodungaiyurWard No 41 M.G.R Nagar 9th Street
+13 - KodungaiyurWard No 41 M.G.R Nagar 10th Street",All Voters
+65,11,65,"ICDS Center, No. 12, Annai Sathiya Nagar, Kodungaiyur, Chennai - 600118","1 - KodungaiyurWard No 41 Annai Sathya Nagar 1st Street
+2 - KodungaiyurWard No 41 Annai Sathya Nagar 2nd Street
+3 - KodungaiyurWard No 41 Annai Sathya Nagar 3rd Street
+4 - KodungaiyurWard No 41 Annai Sathya Nagar 4th Street
+5 - KodungaiyurWard No 41 Annai Sathya Nagar 5th Street
+6 - KodungaiyurWard No 41 Annai Sathya Nagar 6th Street
+7 - KodungaiyurWard No 41 Annai Sathya Nagar 7th Street
+8 - KodungaiyurWard No 41 Annai Sathya Nagar 8th Street
+9 - KodungaiyurWard No 41 Annai Sathya Nagar Periyar Street
+10 - KodungaiyurWard No 41 Annai Sathya Nagar Main Road",All Voters
+66,11,66,"Chennai Primary School, No. 62, M.G.R Nagar 3rd Street, Kodungaiyur, Chennai-600118","1 - KodungaiyurWard No 41 M G R Nagar 4th Street
+2 - KodungaiyurWard No 41 M G R Nagar 5th Street
+3 - KodungaiyurWard No 41 M G R Nagar 6th Street",All Voters
+67,11,67,"Chennai Primary School No. 62, M.G.R Nagar 3rd Street, Kodungaiyur, Chennai-600118","1 - KodungaiyurWard No 41 M G R Nagar 3rd Street
+2 - KodungaiyurWard No 41 M G R Nagar 1st Street
+3 - KodungaiyurWard No 41 M G R Nagar 2nd Street",All Voters
+68,11,68,"Ezhil Model Primary & Nursery School, Ezhil Nagar B Block 6th Street, Kodungaiyur, Chennai-600118","1 - KodungaiyurWard No 41 M G R Nagar 7th Street
+2 - KodungaiyurWard No 41 M G R Nagar 8th Street
+3 - KodungaiyurWard No 41 M G R Nagar Kaalvaai Salai
+4 - KodungaiyurWard No 41 M G R Nagar Riksha Colony Street
+5 - KodungaiyurWard No 41 M G R Nagar Anna Salai",All Voters
+69,11,69,"Chennai Port and Dock Educational Trust Higher Secondary School, MDLB Colony, New Washermenpet,Chennai-600 081.","1 - New Washermenpet Ward No 39 Bharathiyar Nagar
+2 - New Washermenpet Ward No 39 Valluvar Nagar
+3 - New Washermenpet Ward No 39 Arunachaleshwaran Koil Street 101 to 150",All Voters
+70,11,70,"Chennai Port and Dock Educational Trust Higher Secondary School, MDLB Colony, New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 39 Periyar Nagar
+2 - New Washermenpet Ward No 40 IndiraGandhi Nagar",All Voters
+71,11,71,"Chennai Primary School, Thiruvallur Nagar 2nd Street, Tondiarpet, Chennai-600081",1 - New Washermenpet Ward No 40 Thiruvalluvar Nagar T.N.S.H.B Quarters,All Voters
+72,11,72,"Chennai Primary School, Thiruvallur Nagar 2nd Street, Tondiarpet, Chennai-600081","1 - New Washermenpet WardNo 40 Thiruvalluvar TNHB Quartres
+2 - New Washermenpet Ward No 40 Thiruvalluvar Nagar T.N.S.H.B Quarters",All Voters
+73,11,73,"Government Arts and Science College, Kamarajar Salai, Tondiarpet, Chennai-600081","1 - New Washermenpet Ward No 39 L.I.G Colony 1st Street
+2 - New Washermenpet Ward No 39 L I G Colony 2nd Street
+3 - New Washermenpet Ward No 39 L I G Colony 3rd Street
+4 - New Washermenpet Ward No 39 Cross Road Huts
+5 - New Washermenpet Ward No 40 LIG Quarters",All Voters
+74,11,74,"Government Arts and Science College, Kamarajar Salai, Tondiarpet, Chennai-600081","1 - New Washermenpet Ward No 40 Cross Road
+2 - New Washermenpet Ward No 40 Police Quarters Cross Road",All Voters
+75,11,75,"Chennai Middle School, Government Press Employees Quarters, Kamarajar Nagar, Tondiarpet , Chennai-600081","1 - New Washermenpet Ward No 40 Jeeva Nagar 3rd Street
+2 - New Washermenpet Ward No 40 Jeeva Nagar 2nd Street
+3 - New Washermenpet Ward No 40 Jeeva Nagar Cross Street",All Voters
+76,11,76,"Chennai Middle School, Government Press Employees Quarters, Kamarajar Nagar, Tondiarpet , Chennai-600081","1 - New Washermenpet Ward No 40 Jeeva Nagar 4th Street
+2 - New Washermenpet Ward No 40 Jeeva Nagar Main Road
+3 - New Washermenpet Ward No 40 Jeeva Nagar 1st Street",All Voters
+77,11,77,"Chennai Middle School, Government Press Employees Quarters, Kamarajar Nagar, Tondiarpet , Chennai-600081",1 - New Washermenpet Ward No 40 V O C Nagar Nagar Fisherman Quarters 1 to 100,All Voters
+78,11,78,"ICDS Centre No. 411&412, VOC Nagar South Street, Tondiarpet, Chennai-600081","1 - New Washermenpet Ward No 40 V O C Nagar Fishermen Quarters 101 to 250
+2 - New Washermenpet Ward No 40 VOC Nagar Fishermen Quarters Main Road",All Voters
+79,11,79,"ICDS Centre No. 405&408, Ammani Amman Garden 2nd Street, Tondiarpet, Chennai-600081",1 - New Washermenpet Ward No 40 V O C Nagar Nagar Fishermen Quarters 251 to 500,All Voters
+80,11,80,"ICDS Centre No. 406&407, Ammani Amman Garden 2nd Street, Tondiarpet, Chennai-600081","1 - New Washermenpet Ward No 40 V O C Nagar Nagar Fishermen Quarters 501 to 650
+2 - New Washermenpet Ward No 40 Ellaiamman Koil Steet and Selliyamman Koil
+Huts",All Voters
+81,11,81,"Chennai Middle School, Government Press Employees Quarters, Kamarajar Nagar, Tondiarpet , Chennai-600081","1 - New Washermenpet Ward No 40 V O C Nagar Nagar Fishermen Quarters 651 to 800
+2 - New Washermenpet Ward No 40 V O C Nagar Market Street",All Voters
+82,11,82,"Chennai Middle School, Government Press Employees Quarters, Kamarajar Nagar, Tondiarpet , Chennai-600081","1 - New Washermenpet Ward No 40 V O C Nagar Nagar Fishermen Quarters 801 to 1000
+2 - New Washermenpet Ward No 40 V O C Nagar Nagar Huts",All Voters
+83,11,83,"Chennai Middle School, Government Press Employees Quarters, Kamarajar Nagar, Tondiarpet , Chennai-600081",1 - New Washermenpet Ward No 40 V O C Nagar Nagar Fishermen Quarters 1001 to 1150,All Voters
+84,11,84,"Chennai Middle School, Government Press Employees Quarters, Kamarajar Nagar, Tondiarpet , Chennai-600081",1 - New Washermenpet Ward No 40 V O C Nagar Nagar Fishermen Quarters 1151 to 1350,All Voters
+85,11,85,"Chennai High School, No. 1, AA Scheme Road, C P T Colony, New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 39 Mangammal Thottam 1st Street
+2 - New Washermenpet Ward No. 40 Mangammal Thottam 2nd Street
+3 - New Washermenpet Ward No 40 Mangammal Thottam 3rd Street",All Voters
+86,11,86,"Chennai High School, No. 1, AA Scheme Road, C P T Colony, New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 39 Mangammal Thottam 6th Street
+2 - New Washermenpet Ward No 40 Mangammal Thottam 4th Street
+3 - New Washermenpet Ward No 40 Mangammal Thottam 5th Street",All Voters
+87,11,87,"Chennai High School, No. 1, AA Scheme Road, C P T Colony, New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 40 V O C Nagar Nagar Fishermen Quarters 1351TO 1600
+2 - New Washermenpet Ward No 40 A E Koil West Mada Street
+3 - New Washermenpet Ward No 40 A E Koil South Mada Street",All Voters
+88,11,88,"Chennai High School, No. 1, AA Scheme Road, C P T Colony, New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 39 Sivan Nagar Main Road
+2 - New Washermenpet Ward No 40 A E Koil North Mada Street
+3 - New Washermenpet Ward No 39 Sivan Nagar 1st Street",All Voters
+89,11,89,"Chennai Middle School, Government Press Employees Quarters, Kamarajar Nagar, Tondiarpet , Chennai-600081","1 - New Washermenpet Ward No 40 Govt. Press Quarters A Block
+2 - New Washermenpet Ward No 40 Govt. Press Quarters B Block
+3 - New Washermenpet Ward No 40 Govt. Press Quarters C Block
+4 - New Washermenpet Ward No 40 Dr. Ambedkar Nagar Huts",All Voters
+90,11,90,"Government Arts and Science College, Kamarajar Salai, Tondiarpet, Chennai-600081",1 - New Washermenpet Ward No 39 Siva Thottam Door No 1 to 100,All Voters
+91,11,91,"Government Arts and Science College, Kamarajar Salai, Tondiarpet, Chennai-600081",1 - New Washermenpet Ward no 39 Sivagami Ammaiyar Nagar,All Voters
+92,11,92,"ICDS Centre No. 10103 & 10104, No. 731, T. H. Road,
+New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 39 Arunachala Eswaran Koil Street
+2 - New Washermenpet Ward No 40 Kannu Thottam",All Voters
+93,11,93,"Government Arts and Science College, Kamarajar Salai, Tondiarpet, Chennai-600081",1 - New Washermenpet Ward No 40 Kamaraj Nagar Burma Colony,All Voters
+94,11,94,"Chennai High School, No. 1, AA Scheme Road, C P T Colony, New Washermenpet, Chennai-600081","1 - New Washemenrpet Ward No 40 Othavadai Street
+2 - New Washermenpet Ward No 40 Karumariamman Nagar",All Voters
+95,11,95,"Chennai Higher Secondary School, No. 731, T.H. Road, New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 40 T H Road 300 to 400
+2 - New Washermenpet Ward No 40 Seniamman Koil 1st Lane
+3 - New Washermenpet4.Tondairpet Ward No 40 Seniamman Koil 3st Lane",All Voters
+96,11,96,"Chennai Higher Secondary School, No. 731, T.H. Road, New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 40 Seniamman Koil 2nd Lane
+2 - New Washermenpet Ward No 40 Seniamman Koil 4th Lane
+3 - New Washermenpet Ward No 40 Seniamman Koil 5th Lane",All Voters
+97,11,97,"Soundarapandi Subbammal Girls Hr.Sec. School, No. 93-681, T.H. Road, New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 40 Seniamman Koil Main Road H L L Nagar A & B Block
+2 - New Washermenpet Ward No 40 Seniamman Koil Main Road H L L Nagar C & D Block
+3 - New Washermenpet Ward No 40 Seniamman Koil Main Road H L L Nagar E & F Block
+4 - New Washermenpet Ward No 40 Seniamman Nagar G & H Block",All Voters
+98,11,98,"Soundarapandi Subbammal Girls Hr.Sec. School, No. 93-681, T.H. Road, New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 40 Seniamman Kovil Main Road H L L Nagar I & J Block
+2 - New Washermenpet Ward No 40 Seniamman Koil Main Road H L L Nagar K & L Block
+3 - New Washermenpet Ward No 40 Seniamman Koil Main Road H L L Nagar M & N
+Block",All Voters
+99,11,99,"Chennai Higher Secondary School, No. 731, T.H. Road, New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 40 Ammani Amman Garden 1st Street
+2 - New Washermenpet Ward No 40 Ammani Amman Garden 2nd Street
+3 - New Washermenpet Ward No 40 Ammani Amman Garden 3rd Street",All Voters
+100,11,100,"- Chennai Higher Secondary School, No. 731, T.H. Road, New Washermenpet, Chennai-600081","1 - New washermanpet Ward No 40 Ammani Ammal Garden 4th Street
+2 - New Washermenpet Ward No 40 Ammani Amman Garden 5th Street
+3 - New Washermenpet Ward No 40 Ammani Amman Garden 6th Street",All Voters
+101,11,101,"- Soundarapandi Subbammal Girls Hr.Sec. School, No. 93-681, T.H. Road, New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 40 Rama Arangannal 1st Street
+2 - New Washermenpet Ward No 40 Rama Arangannal 2nd Street
+3 - New Washermenpet Ward No 40 Rama Arangannal 3rd Street
+4 - New Washermenpet Ward No 40 Rama Arangannal Main Road
+5 - New Washermenpet Ward No 40 Gandhi Nagar",All Voters
+102,11,102,"- Soundarapandi Subbammal Girls Hr.Sec. School, No. 93-681, T.H. Road, New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 40 Keerai Thottam A to N Block
+2 - New Washermenpet Ward No 40 Annai Sathya Nagar",All Voters
+103,11,103,"- Chennai High School, No. 1, AA Scheme Road, C P T Colony, New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 39 Thiruvottiyur High Road Door No. 1 to 200
+2 - New Washermenpet Ward No 39 Veeraragavan Road
+3 - New Washermenpet Ward No 39 Govindaraj Street
+4 - New Washermenpet Ward No 39 North Terminus Road ( I Dream Manthra)",All Voters
+104,11,104,"- Chennai Port and Dock Educational Trust Higher Secondary School, MDLB Colony, New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 39 Port Trust Employees Quarters B Block 151 to 300
+2 - New Washermenpet Ward No 39 Port Trust Employees Quarters C Block 301 to 450
+3 - New Washermenpet Ward No 39 Port Trust Employees Quarters B Block 451 to 600
+4 - New Washermenpet Ward No 39 M D L B Colony A Block (1 to 600)
+5 - New Washermenpet Ward No 39 Dock Labour Colony A Block 601 to 900
+6 - New Washermenpet Ward No 39 M.P.T. Quarters 1 to 300
+7 - New Washermenpet Ward No 39 Port Trust Employees Quarters A Block 1 to 150",All Voters
+105,11,105,"- Chennai High School No. 12, Kannu Street, New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 39 Sudalaimuthu Street
+2 - New Washermenpet Ward No 39 Veeraraghavan Street
+3 - New Washermenpet Ward No 39 Dhanapal Nagar 1st Street
+4 - New Washermenpet Ward No 39 Dhanapal Nagar 2nd Street
+5 - New Washermenpet Ward No 39 Dhanapal Nagar 3rd Street",All Voters
+106,11,106,"- Chennai High School, No. 12, Kannu Street, New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 39 Anna Nagar 12th Street
+2 - New Washermenpet Ward No 39 Anna Nagar 13th Street
+3 - New Washermenpet Ward No 39 Anna Nagar 14th Street
+4 - New Washermenpet Ward No 39 Anna Nagar 15th Street
+5 - New Washermenpet Ward No 39 Anna Nagar 16th Street
+6 - New Washermenpet Ward No 39 Anna Nagar 17th Street
+7 - New Washermenpet Ward No 39 Anna Nagar 18th Street
+8 - New Washermenpet Ward No 39 Anna Nagar 19th Street
+9 - New Washermenpet Ward No 39 Anna Nagar 20th Street",All Voters
+107,11,107,"- Chennai High School, No. 12, Kannu Street, New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 39 Cherian Nagar 4th Street
+2 - New Washermenpet Ward No 39 Cherian Nagar 1st Street",All Voters
+108,11,108,"- Chennai High School No. 12, Kannu Street, New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 39 Kannu Street & Lane
+2 - New Washermenpet Ward No 39 Ponnuswami Street",All Voters
+109,11,109,"- Chennai High School, No. 12, Kannu Street, New Washermenpet, Chennai-600081",1 - New Washermenpet Ward No 39 Cherian Nagar 2nd Street,All Voters
+110,11,110,"- Chennai High School, No. 12, Kannu Street, New Washermenpet, Chennai-600081",1 - New Washermenpet Ward No 39 Cherian Nagar 3rd Street,All Voters
+111,11,111,"- ICDS Centre No.10109, No.10,Cheriyan Nagar Main Street,New Washermenpet, Chennai-600 081.",1 - New Washermenpet Ward No 39 Ashok Nagar 1st to 4th Street,All Voters
+112,11,112,"- Chennai Primary School, No. 731, T.H Road, New Washermenpet, Chennai-600081",1 - New Washermenpet Ward No 39 Washer Buchammal Street Door No 1 to 150,All Voters
+113,11,113,"- Chennai Higher Secondary School, No. 731, T.H. Road, New Washermenpet, Chennai-600081",1 - New Washermenpet Ward No 39 Washer Buchammal Street Door No 151 to 300,All Voters
+114,11,114,"- Chennai High School No. 12, Kannu Street, New Washermenpet, Chennai-600081",1 - New Washermenpet Ward No 39 Irusappa Maistry Street 1st lane,All Voters
+115,11,115,"- Chennai High School No. 12, Kannu Street, New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 39 Irusappa Maistry Main Street
+2 - New Washermenpet Ward No 39 Irusappa Maistry Street 2nd Lane",All Voters
+116,11,116,"- Chennai Urdu Girl's Primary School, No. 10, Ponnusamy Street, Cheriyan Nagar, New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 39 Desiya Nagar 1st Street
+2 - New Washermenpet Ward No 39 Desiya Nagar 2nd Street
+3 - New Washermenpet Ward No 39 Desiya Nagar 3rd Street",All Voters
+117,11,117,"- Chennai Urdu Girl's Primary School, No. 10, Ponnusamy Street, Cheriyan Nagar, New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 39 Desiya Nagar 4th Street
+2 - New Washermenpet ward No 39 Desiya Nagar 5th Street
+3 - New Washermenpet Ward No 39 Desiya Nagar 6th Street",All Voters
+118,11,118,"- T. S. S Nadar High School No. 21-2, Poondi Thangammal Main Road, New Washermentpet, Chennai - 600081.",1 - New Washermenpet Ward No 39 Poondi Thangammal Street & Dhobikhana 1 to 50,All Voters
+119,11,119,"- T. S. S Nadar High School No. 21-2, Poondi Thangammal Main Road, New Washermentpet, Chennai - 600081.","1 - New Washermenpet Ward No 39 Poondi Thangammal Street T N H B Quarters 1 to 250 (A to J Block)
+2 - New Washermenpet Ward No 39 Huts Near A to J Blocks
+3 - New Washermenpet Ward No 39 Poondi Thangammal Lane",All Voters
+120,11,120,"- T. S. S Nadar High School No. 21-2, Poondi Thangammal Main Road, New Washermentpet, Chennai - 600081.",1 - New Washermenpet Ward No 39 Poondi Thangammal Street T N H B Quarters,All Voters
+121,11,121,"- T. S. S Nadar High School No. 21-2, Poondi Thangammal Main Road, New Washermentpet, Chennai - 600081.","1 - New Washermenpet Ward No 39 Annai Sathya Nagar
+2 - New Washermenpet Ward No 39 Poondi Thangammal Street T N H B Quarters 251 to 406
+3 - New Washermenpet Ward No 39 Poondi Thangammal Street & Dhobikhana 1 to
+50",All Voters
+122,11,122,"- Chennai Higher Secondary School, No. 731, T.H. Road, New Washermenpet, Chennai-600081",1 - New Washermenpet Ward No 39 Washer Varadappa Street,All Voters
+123,11,123,"- Chennai Primary School, No. 731, T.H Road, New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 39 T H Road 189 to 363 & 176 to 358
+2 - New Washermenpet Ward No 39 Vanniyar Street",All Voters
+124,11,124,"- Chennai High School, No. 12, Kannu Street, New Washermenpet, Chennai-600081",1 - New Washermenpet Ward No 39 Venkatesan Ali Street,All Voters
+125,11,125,"- ICDS Centre No 10112, No. 1, Irusappa Maistry Street, Cheriyan Nagar, New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 39 Marketfarm 2nd Street
+2 - New Washermenpet Ward No 39 Marketfarm 3rd Street
+3 - New Washermenpet Ward No 39 Marketfarm 4th Street
+4 - New Washermenpet Ward No 39 Marketfarm 5th Street
+5 - New Washermenpet Ward No 39 Marketfarm 6th Street
+6 - New Washermenpet Ward No 39 Marketfarm 8th Street
+7 - New Washermenpet Ward No 39 Marketfarm 7th Street
+8 - New Washermenpet Ward No 39 Marketfarm 1st Street",All Voters
+126,11,126,"- Chennai Higher Secondary School, No. 731, T.H. Road, New Washermenpet, Chennai-600081",1 - New Washermenpet Ward No 39 Nammaiya Maistry Street,All Voters
+127,11,127,"- Chennai Higher Secondary School, No. 731, T.H. Road, New Washermenpet, Chennai-600081",1 - New Washermenpet Ward No 39 Avoor Muthiah Maistry Street,All Voters
+128,11,128,"- Government Industerial Training Institute, No. 1, Irusappa Maistry Street, Cheriyan Nagar, New Washermenpet, Chennai- 600081","1 - New Washermenpet Ward No 43 Naaguraan Thottam 1 to 300
+2 - New Washermenpet Ward No 43 Huts Area",All Voters
+129,11,129,"- Government Industerial Training Institute, No. 1, Irusappa Maistry Street, Cheriyan Nagar, New Washermenpet, Chennai- 600081","1 - New Washermenpet Ward No 43 Naaguraan Thottam T N S C B Quarters 301 to 500
+2 - New Washermenpet Ward No 43 Naaguraan Thottam Huts Area",All Voters
+130,11,130,"- ICDS Centre No. 10111, No. 1, Irusappa Maistry Street, Cheriyan Nagar, New Washermenpet, Chennai-600081","1 - New Washermenpet Ward No 43 Naaguraan Thottam T N S C B Quarters 501 to 700
+2 - New Washermenpet Ward No 43 Naaguraan Thottam Huts Area",All Voters
+131,11,131,"- Chennai Middle School No. 49, Vinayagapuram Main Street, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 43 Adhi Dravidar Road
+2 - Tondiarpet Ward No 43 Tondaiar Nagar 1st Street
+3 - Tondiarpet Ward No 43 Vinayagapuram (Otha Vadai)",All Voters
+132,11,132,"- Chennai Middle School No. 49, Vinayagapuram Main Street, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 43 Tondiar Nagar 3rd Street
+2 - Tondiarpet Ward No 43 Tondiar Nagar 4th Street
+3 - Tondiarpet Ward No 43 Tondiar Nagar 5th Street
+4 - Tondiarpet Ward No 43 Tondiar Nagar 6th Street
+5 - Tondiarpet Ward No 43 Tondiarr Nagar 7th Street
+6 - Tondiarpet Ward No 43 Tondiar Nagar 2nd Street",All Voters
+133,11,133,"- Chennai Middle School, No. 49, Vinayagapuram Main Street, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 43 Vinayagapuram 1st Street
+2 - Tondiarpet Ward No 43 Vinayagapuram 2nd Street
+3 - Tondiarpet Ward No 43 Vinayagapuram 3rd Street
+4 - Tondiarpet Ward No 43 Vinayakapuram 4th Street
+5 - Tondiarpet Ward No 43 Vinayagapuram 5th Street
+6 - Tondiarpet Ward No 43 Vinayagapuram 6th Street
+7 - Tondiarpet Ward No 43 Vinayagapuram 7th Street
+8 - Tondiarpet Ward No 43 Vinayagapuram 8th Street
+9 - Tondiarpet Ward No 43 Vinayagapuram 9th Street
+10 - Tondiarpet Ward No 43 Vinayakapuram 10th Street
+11 - Tondiarpet Ward No 43 Vinayagapuram 11th Street",All Voters
+134,11,134,"- Chennai Middle School, No. 49, Vinayagapuram Main Street, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 43 Vinayagapuram Main Road
+2 - Tondiarpet Ward No 43 Vinayagapuram 12th Street",All Voters
+135,11,135,"- Chennai Middle School, No. 49, Vinayagapuram Main Street, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 43 Periya Palaiyathuamman Koil Street
+2 - Tondiarpet Ward No 43 Tondiar Nagar Main Street",All Voters
+136,11,136,"T S T Raja Girls Matriculation Hr.Sec School (East Facing 4th STD Class Room) No. 87, Kummalamman Koil Street, Tondiarpet , Chennai-600081","1 - Tondiarpet Ward No 43 Jeevarathinam Salai (Kuppam Road)
+2 - Tondiarpet Ward No 43 New Amaranji Puram (Amaravathipuram North)
+3 - Tondiarpet Ward No 43 Kumalallamman Koil Street 2nd Lane",All Voters
+137,11,137,"T S T Raja Girls Matriculation Hr.Sec School (East Facing 4th STD Class Room) No. 87, Kummalamman Koil Street, Tondiarpet , Chennai-600081",1 - Tondiarpet Ward No 43 Kummallamman Koil Street (ESI Compound),All Voters
+138,11,138,"- T S T Raja Girls Matriculation Hr.Sec School, No. 87, Kummalamman Koil Street, Tondiarpet ,
+Chennai-600081","1 - Tondiarpet Ward No 43 Kasipuram B Block 1st Lane
+2 - Tondiarpet Ward No 43 Kasipuram B Block 1st Cross Street
+3 - Tondiarpet Ward No 43 Kasipuram B Block 1st Street
+4 - Tondiarpet Ward No 43 Kasipuram B Block 2nd Street
+5 - Tondiarpet Ward No 43 Kasipuram B Block 3rd Street
+6 - Tondiarpet Ward No 43 Kasipuram B Block 4th Street
+7 - Tondiarpet Ward No 43 Kasipuram B Block 5th Street",All Voters
+139,11,139,"- T S T Raja Girls Matriculation Hr.Sec School, No. 87, Kummalamman Koil Street, Tondiarpet ,
+Chennai-600081","1 - Tondiarpet Ward No 43 Kasipuram B Block 6th Street
+2 - Tondiarpet Ward No 43 Kasipuram B Block 7th Street
+3 - Tondiarpet Ward No 43 Kasipuram B Block 8th Street
+4 - Tondiarpet Ward No 43 Kasipuram B Block 9th Street
+5 - Tondiarpet Ward No 43 Kasipuram B Block 10th Street
+6 - Tondiarpet Ward No 43 Kasipuram B Block 11th Street",All Voters
+140,11,140,"- Chennai Middle School, No. 33, Suryanarayan Street, Royapuram, Chennai-600013","1 - Royapuram Ward No 43 Power Kuppam Block 1
+2 - Royapuram Ward No 43 Power Kuppam Block 2
+3 - Royapuram Ward No 43 Power Kuppam Block 3
+4 - Royapuram Ward No 43 Power Kuppam Block 4
+5 - Royapuram Ward No 43 Power Kuppam Block 5
+6 - Royapuram Ward No 43 Power Kuppam Block 6
+7 - Royapuram Ward No 43 Power Kuppam Block 7
+8 - Royapuram Ward No 43 Power Kuppam Block 8 (Kasipuram A Block)
+9 - Royapuram Ward No 43 Power Kuppam Block 9
+10 - Royapuram Ward No 43 Power Kuppam Block 10
+11 - Royapuram Ward No.43 Power Kuppam Huts Area",All Voters
+141,11,141,"KCS High School (West Facing B1 Class Room) No. 510 Kasimedu, Chennai - 600021","1 - Royapuram Ward No 43 Singara Velar Nagar Pallam
+2 - Royapuram Ward No 43 Thiruvalluvar Nagar (Hut Ments)
+3 - Royapuram Ward No 43 MGR Nagar (Huts Ments)",All Voters
+142,11,142,"- Chennai Middle School, No. 33, Suryanarayan Street, Royapuram, Chennai-600013","1 - Royapuram Ward No 43 Block 15 (Kasipuram A Block 5th Street)
+2 - Royapuram Ward No 43 Block 16 (Kasipuram A Block 1st Street)
+3 - Royapuram Ward No 43 Kasipuram A Block 6th Street
+4 - Royapuram Ward No 43 Kasipuram A Block 5th Street
+5 - Royapuram Ward No 43 Kasipuram A Block 4th Street
+6 - Royapuram Ward No 43 Kasipuram A Block 3rd Street
+7 - Royapuram Ward No 43 Kasipuram A Block 2nd Street
+8 - Royapuram Ward No 43 Kasipuram A Block 1st Street
+9 - Royapuram Ward No 43 Kasipuram A Block Huts Area
+10 - Royapuram Ward No 43 Block 11 (Kasipuram A Block 2nd Street)
+11 - Royapuram Ward No 43 Block 12 (Kasipuram A Block 2nd Street)
+12 - Royapuram Ward No 43 Block 13 (Kasipuram A Block 4th Street)
+13 - Royapuram Ward No 43 Block 14 (Kasipuram A Block 4th Street)",All Voters
+143,11,143,"- Chennai Middle School, No. 33, Suryanarayan Street, Royapuram, Chennai-600013","1 - Royapuram Ward No 43 Thidir Nagar 1st Street
+2 - Royapuram Ward No 43 Thidir Nagar 2nd Street
+3 - Royapuram Ward No 43 Thidir Nagar 3rd Street
+4 - Royapuram Ward No 43 Thidir Nagar 4th Street",All Voters
+144,11,144,"- Chennai Middle School, No. 33, Suryanarayan Street, Royapuram, Chennai-600013","1 - Royapuram Ward No 43 Pallavan Nagar 1st Street
+2 - Royapuram Ward No 43 Pallavan Nagar 2nd Street
+3 - Royapuram Ward No 43 Pallavan Nagar 3rd Street
+4 - Royapuram Ward No 43 Pallavan Nagar 4th Street
+5 - Royapuram Ward No 43 Pallavan Nagar 5th Street
+6 - Royapuram Ward No 43 Pallavan Nagar 6th Street
+7 - Royapuram Ward No 43 Pallavan Nagar Periya Palayathamman Koil Street",All Voters
+145,11,145,"- KCS High School No. 510 Kasimedu, Chennai - 600021","1 - Royapuram Ward No 43 Singara Velan Nagar 1st Street
+2 - Royapuram Ward No 43 Singara Velan Nagar 4th Street",All Voters
+146,11,146,"- KCS High School No. 510 Kasimedu, Chennai - 600021","1 - Royapuram Ward No 43 Singara Velan Nagar 2nd Street
+2 - Royapuram Ward No 43 Singara Velan Nagar 3rd Street",All Voters
+147,11,147,"- K C S High School No. 510 Kasimedu, Chennai - 600021","1 - Royapuram Ward No 43 Pudhumanai Kuppam 1st Street
+2 - Royapuram Ward No 43 Pudumanai Kuppam 2nd Street
+3 - Royapuram Ward No 43 Pudhumanai Kuppam 3rd Street
+4 - Royapuram Ward No 43 Pudhumanai Kuppam 4th Street
+5 - Royapuram Ward No 43 Pudhumanai Kuppam 5th Street
+6 - Royapuram Ward No 43 Pudhumanai Kuppam 6th Street
+7 - Royapuram Ward No 43 Pudhumanai Kuppam 7th Street
+8 - Royapuram Ward No 43 Pudhumanai Kuppam Main Salai",All Voters
+148,11,148,"- K C S High School No. 510 Kasimedu, Chennai - 600021","1 - Royapuram Ward No 43 Suryanarayana Street 1st Lane
+2 - Royapuram Ward No 43 Suryanarayana Street 2nd Lane
+3 - Royapuram Ward No 43 Suryanarayana Street 3rd Lane
+4 - Royapuram Ward No 43 Suryanarayana Street 4th Lane
+5 - Royapuram Ward No 43 Suryanarayana Street 5th Lane
+6 - Royapuram Ward No 43 Suriyanarayana Street 6th Lane
+7 - Royapuram Ward No 43 Suriyanarayana Street 7th Lane
+8 - Royapuram Ward No 43 Suriyanarayana Street 8th Lane",All Voters
+149,11,149,"- K C S High School No. 510 Kasimedu, Chennai - 600021",1 - Royapuram Ward No 43 Thiruvalluvar Nagar MGR Nagar (Apartments),All Voters
+150,11,150,"Chennai Middle School (North Facing C Class Room) No. 33, Suryanarayan Street, Royapuram,
+Chennai-600013","1 - Royapuram Ward No 43 Suriya Narayana Street
+2 - Royapuram Word No 43 Balakrishnan 1st Street
+3 - Royapuram Ward No 43 Balakrishnan 2nd Street
+4 - Royapuram Ward No 43 Balakrishnan 3rd Street",All Voters
+151,11,151,"- K C S High School No. 510 Kasimedu, Chennai - 600021","1 - Royapuram Ward No 43 Kasima Nagar 1st Street
+2 - Royapuram Ward No 43 Kasima Nagar 2nd Street
+3 - Royapuram Ward No 43 Kasima Nagar 3rd Street",All Voters
+152,11,152,"- T S T Raja Girls Matriculation Hr.Sec School, No. 43, Kummalamman Koil Street, Tondiarpet ,
+Chennai-600081","1 - Tondiarpet Ward No 43 Kasipuram YMCA Kuppam 1st Street
+2 - Tondiarpet Ward No 43 Kasipuram YMCA Kuppam 2nd Street
+3 - Tondiarpet Ward No 43 Kasipuram YMCA Kuppam 3rd Street
+4 - Tondiarpet Ward No 43 Kasipuram YMCA Kuppam 4th Street
+5 - Tondiarpet Ward No 43 Kasipuram YMCA Kuppam 5th Street",All Voters
+153,11,153,"- T S T Raja Girls Matriculation Hr.Sec School, No. 43, Kummalamman Koil Street, Tondiarpet ,
+Chennai-600081","1 - Royapuram Ward No 43 Chockalingam Colony 1st Street
+2 - Royapuram Ward No 43 Chockalingam Colony 2nd Street
+3 - Royapuram Ward No 43 Devaraj Thottam",All Voters
+154,11,154,"- T S T Raja Girls Matriculation Hr.Sec School, No. 87, Kummalamman Koil Street, Tondiarpet ,
+Chennai-600081","1 - Royapuram Ward No 43 Chockalingam Colony 3rd Street
+2 - Royapuram Ward No 43 Chockalingam Colony 4th Street
+3 - Royapuram Ward No 43 Chockalingam Colony Pallam Part
+4 - Royapuram Ward No 43 Chockalingam Colony Main Street",All Voters
+155,11,155,"- T S T Raja Girls Matriculation Hr.Sec School, No. 87, Kummalamman Koil Street, Tondiarpet ,
+Chennai-600081","1 - Royapuram Ward No 43 Chockalingam Colony 5th Street
+2 - Royapuram Ward No 43 Chockalingam Colony 6th Street
+3 - Royapuram Ward No 43 Chockalingam Colony 7th Street",All Voters
+156,11,156,"- Good Shepherd Nursery and Primary School, No. 8/2, Corporation Colony, Tondiarpet ,
+Chennai-600081",1 - Tondiarpet Ward No 40 Seniamman Koil Street (Sagar Tower) Door No 1 to 250,All Voters
+157,11,157,"- Good Shepherd Nursery and Primary School, No. 8/2, Corporation Colony, Tondiarpet ,
+Chennai-600081",1 - Tondairpet Ward No 40 Seniamman Koil Street (Sagar Tower) Door No. 251 to,All Voters
+158,11,158,"- Government Arts and Science College, Kamarajar Salai, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 40 Corporation Colony 1st Street
+2 - Tondiarpet Ward No 40 Corporation Colony 2nd Street
+3 - Tondiarpet Ward No 40 Corporation Colony 3rd Street
+4 - Tondiarpet Ward No 40 Corporation Colony 4th Street
+5 - Tondiarpet Ward No 40 Thiruvottiyur High Road 5th Lane",All Voters
+159,11,159,"- Government Arts and Science College, Kamarajar Salai, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 40 Seniamman Koil Street Madha Koil Lane
+2 - Tondiarpet Ward No 40 Vaithiyanathan Street Door No 1 to 150
+3 - Tondiarpet Ward No 40 E M R Apartment",All Voters
+160,11,160,"- Government Arts and Science College, Kamarajar Salai, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 40 Vaidyanathan Street Door No 151 to 300
+2 - Tondiarpet Ward No 40 Vaidyathan Lane",All Voters
+161,11,161,"- Government Arts and Science College Kamarajar Salai, Tondiarpet, Chennai-600081",1 - Tondiarpet Ward No 40 Vaidyanathan Street Door No 151 to 300,All Voters
+162,11,162,"- Little Flower Matriculation Hr.Sec.School, No. 74/6-64, Thandarayan Street, Tondiarpet, Chennai-600081","""1 - Tondaiarpet Ward No 42 Seniamman Koil T N S C B Quarters A, B, C, G, H ,I Blocks",All Voters
+163,11,163,"- Little Flower Matriculation Hr.Sec.School, No. 74/6-64, Thandarayan Street, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 42 Seniamman Koil Housing Board D, E, F, J ,Blocks
+2 - Tondiarpet Ward No 42 Elaiya 2nd Lane (Kailasam Street)",All Voters
+164,11,164,"- Chennai Primary School, No. 91, Seniamman Koil Street, Tondairpet, Chennai-600081","1 - Tondiarpet Ward No 42 Kesavan Street
+2 - Tondiarpet Ward No 42 Selva Vinayagar Koil Street
+3 - Tondiarpet Ward No 42 Kailasam Street Huts",All Voters
+165,11,165,"- ICDS Centre No. 422, Rettaikuzhi Street,Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 42 Rettai Kuzhi Street
+2 - Tondiarpet Ward No 42 PWD Officers Quarters A and B Block",All Voters
+166,11,166,"- Chennai Primary School, No. 91, Seniamman Koil Street, Tondairpet, Chennai-600081",1 - Tondiarpet Ward No 42 Rettai Kuzhi Lane,All Voters
+167,11,167,"- ICDS Centre No. 419, Rettaikuzhi Street, Tondiarpet, Chennai-600081","1 - Tondairpet Ward No 42 Thilagar Nagar A ,B ,C ,D Blocks Door No. 1 to 350",All Voters
+168,11,168,"- ICDS Centre No. 33603010417, Rettaikuzhi Street, Tondiarpet, Chennai-600081","1 - Tondairpet Ward No 42 Thilagar Nagar A ,B ,C ,D Blocks Door No. 351 to 800",All Voters
+169,11,169,"- ICDS Centre No. 33603010414, No. 47, Seniamman Koil Street, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 42 Appaswamy Garden Main Road
+2 - Tondiarpet Ward No 42 Appaswamy Garden 4th Street",All Voters
+170,11,170,"- ICDS Centre No. 33603010416, No. 47, Seniamman Koil Street, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 42 Rathina Sabapathy Street
+2 - Tondiarpet Ward No 42 Elaiya Lane Samiyar Thottam",All Voters
+171,11,171,"- ICDS Centre No. 421, Rettaikuzhi Street, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 42 Appaswamy Garden 1st Street
+2 - Tondiarpet Ward No 42 Appaswamy Garden 2nd Street
+3 - Tondiarpet Ward No 42 Appaswamy Garden 3rd Street",All Voters
+172,11,172,"- Chennai Primary School, No. 91, Seniamman Koil Street, Tondairpet, Chennai-600081","1 - Tondiarpet Ward No 42 Krishnappa Garden Main Street
+2 - Tondiarpet Ward No 42 Krishnappa Garden 1st Street
+3 - Tondiarpet Ward No 42 Krishnappa Garden 2nd Street
+4 - Tondiarpet Ward No 42 Krishnappa Garden 3rd Lane",All Voters
+173,11,173,"- ICDS Centre No. 420, Rettaikuzhi Street, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 42 T.H. Road 3rd Lane
+2 - Tondiarpet Ward No 42 T.H. Road 4th Lane
+3 - Tondiarpet Ward No 42 T.H. Road 2nd Lane",All Voters
+174,11,174,"Chennai Primary School (North Facing  1st STD Class Room) No. 91, Seniamman Koil Street, Tondairpet, Chennai-600081",1 - Tondiarpet Ward No 42 T H Road 503 to 769 & 398 to 590,All Voters
+175,11,175,"Chennai Primary School (North Facing  2nd STD Class Room) No. 91, Seniamman Koil Street, Tondairpet, Chennai-600081","1 - Tondiarpet Ward No 42 Arihanth Galaxy Apartments ( No 466 & 468 T.H.Road)
+2 - Tondiarpet Ward No 42 Grahalakshmi Flats (472 T.H.Road)
+3 - Tondiarpet Ward No 42 Thaai Foundation Flats (546 T.H. Road)",All Voters
+176,11,176,"- Muruga Dhanushkodi Girls Hr.Sec.School, No. 27-7, Kanakkar Street, Tondairpet, Chennai-600081","1 - Tondiarpet Ward No 43 Pillaiyar Kovil Street
+2 - Tondiarpet Ward No 43 Kanakkar Street",All Voters
+177,11,177,"- Muruga Dhanushkodi Girls Hr.Sec.School, No. 27-7, Kanakkar Street, Tondairpet, Chennai-600081","1 - Tondiarpet Ward No 43 Varadaraja Perumal Koil Lane
+2 - Tondiarpet Ward No 43 Murugesan Street
+3 - Tondiarpet Ward No 43 Kanniappan colony
+4 - Tondiarpet Ward No 43 Varadharaja Perumal Koil Street",All Voters
+178,11,178,"- Muruga Dhanushkodi Girls Hr.Sec.School, No. 27-7, Kanakkar Street, Tondairpet, Chennai-600081",1 - Tondiarpet Ward No 43 Thandavarayan Street,All Voters
+179,11,179,"- Thilagar Nagar Community Hall, No. 169, Thilagar Nagar, Tondiarpet, Chennai-600081","1 - Tondiarpet Ward No 42 Seniamman Nagar
+2 - Tondiarpet Ward No 42 Corporation Tenaments (V.O.C Nagar)
+3 - Tondiarpet Ward No 40 Jeeva Street
+4 - Tondiarpet Ward No 40 Anna Street
+5 - Tondiarpet Ward No 42 NPL Agasthiya (590 T.H. Road)",All Voters
+180,11,180,"- The Madras Society for the Protection of Children, No. 891/288, T.H. Road, Chennai-600021","1 - Old Washermenpet Ward No 42 Thiruvottiyur High Road
+2 - Old Washermenpet Ward No 42 Rubavathy Flats ( 873 T.H. Road )
+3 - Old Washermenpet Ward No 42 Chellapa Colony",All Voters
+181,11,181,"- Swamy Vidhyalaya School, No. 34, Rathinasabapathy Street, Old Washermenpet, Chennai-600021",1 - Old Washermenpet Ward No 42 Veerakutti Street,All Voters
+182,11,182,"- Swamy Vidhyalaya School, No. 34, Rathinasabapathy Street, Old Washermenpet, Chennai-600021","1 - Old Washermenpet Ward No 42 Veerakutti Huts
+2 - Old Washermenpet Ward No 42 Mayor Sivashanmugam Street
+3 - Old Washermenpet Ward No 42 West Veerakutty Street
+4 - Old Washermenpet Ward No 42 Manickavathiyaar Street",All Voters
+183,11,183,"- The Madras Society for the Protection of Children, No. 891/288, T.H. Road, Chennai-600021","1 - Old Washermenpet Ward No 42 M C M Thottam 3rd Lane
+2 - Old Washermenpet Ward No 42 M C M Garden 2nd Street",All Voters
+184,11,184,"- KCS Kasi Nadar College of Arts & Science, No. 96, Ellaya Street,Tondiarpet, Chennai-600081","1 - Old Washermenpet Ward No 42 West Krishnappa Gramani Garden Street
+2 - Old Washermenpet Ward No 42 Perumal Koil Street 1st Lane",All Voters
+185,11,185,"- KCS Kasi Nadar College of Arts & Science, No. 96, Ellaya Street,Tondiarpet, Chennai-600081","1 - Old Washermenpet Ward No 42 Perumal Koil Garden 2nd Lane
+2 - Old Washermenpet Ward No 42 Perumal Koil Garden Main Road
+3 - Old Washermenpet Ward No 42 Arani Rangan 1st Lane
+4 - Old Washermenpet Ward No 42 Arani Gangan Lane",All Voters
+186,11,186,"- KCS Kasi Nadar College of Arts & Science, No. 96, Ellaya Street,Tondiarpet, Chennai-600081",1 - Old Washermenpet Ward No 42 Arani Rangan Street,All Voters
+187,11,187,"- KCS Kasi Nadar College of Arts & Science, No. 96, Ellaya Street,Tondiarpet, Chennai-600081","1 - Old Washermenpet Ward No 42 Mayor Basudev 1st Lane
+2 - Old Washermenpet Ward No 42 Appai Thottam (Mayor Basudev 2nd Lane)
+3 - Old Washermenpet Ward No 42 Mayor Basudev 2nd Street
+4 - Old Washermenpet Ward No 42 Mayor Basudev 3rd Lane
+5 - Old Washermenpet Ward No 42 Aarani Rangan Lane",All Voters
+188,11,188,"- The Madras Society for the Protection of Children, No. 891/288, T.H. Road, Chennai-600021",1 - Old Washermenpet Ward No 42 West Krishnapa Gramani Main Road,All Voters
+189,11,189,"- Chennai Girls Hr.Sec.School, No. 540, T.H Road, Old Washermenpet, Chennai-600021","1 - Old Washermenpet Ward No 42 M C M Garden 1st Street
+2 - Old Washermenpet Ward No 42 Thirunavukkarasu Garden 1st Street",All Voters
+190,11,190,"- Chennai Girls Hr.Sec.School, No. 540, T.H Road, Old Washermenpet, Chennai-600021",1 - Old Washermenpet Ward No 42 Kothandaraman Street,All Voters
+191,11,191,"- Chennai Girls Hr.Sec.School, No. 540, T.H Road, Old Washermenpet, Chennai-600021",1 - Old Washermenpet Ward No 42 Mayor Basudev Street 151 to 300,All Voters
+192,11,192,"- Chennai Girls Hr.Sec.School, No. 540, T.H Road, Old Washermenpet, Chennai-600021",1 - Old Washermenpet Ward No 42 Mayor Basudev Street 1 to 150,All Voters
+193,11,193,"- KCS Kasi Nadar College of Arts & Science, No. 96, Ellaya Street,Tondiarpet, Chennai-600081","1 - Old Washermenpet Ward No 42 Thirunavukarasu Garden 5th Street
+2 - Old Washermenpet Ward No 42 Thirunavukarasu Garden 2nd Street",All Voters
+194,11,194,"- KCS Kasi Nadar College of Arts & Science, No. 96, Ellaya Street,Tondiarpet, Chennai-600081","1 - Old Washermenpet Ward No 42 Thirunavukarasu Garden 4th Street
+2 - Old Washermenpet Ward No 42 Thirunavukarasu Garden 3rd Street",All Voters
+195,11,195,"- Sir Theagaraya College Higher Secondary School, No. 61-32, Mannappa Mudali Street, Old Washermenpet, Chennai-600021","1 - Old Washermenpet Ward No 42 Pitti Munusamy Street
+2 - Old Washermenpet Ward No 42 Mannappan Street
+3 - Old Washermenpet Ward No 42 Mannappan Lane",All Voters
+196,11,196,"- Sir Theagaraya College Higher Secondary School, No. 61-32, Mannappa Mudali Street, Old Washermenpet, Chennai-600021","1 - Old Washermenpet Ward No 42 Thangavel Garden 1st Street
+2 - Old Washermenpet Ward No 42 Thangavel Garden 2nd Street
+3 - Old Washermenpet Ward No 42 Thangavel Garden 3rd Street",All Voters
+197,11,197,"- Chennai Middle School, No. 13, Buddha Street, Kannan Street, Korukkupet, Chennai- 600021",1 - Korukkupet Ward No 42 Ranganathapuram S.C.B Quarters 1 to 200,All Voters
+198,11,198,"- Chennai Middle School, No. 13, Buddha Street, Kannan Street, Korukkupet, Chennai- 600021","1 - Korukkupet Ward No 42 Ranganathapuram Housing Board Quarters 201 to 350
+2 - Korukkupet Ward No 42 Ranganathapuram Hutting Ground 1 to 100",All Voters
+199,11,199,"- Chennai Middle School, Ranganatha Puram, No. 8, Kannan Street, Korukkupet, Chennai-600021",1 - Korukkupet Ward No 42 Jawanmull Sowcar Street,All Voters
+200,11,200,"- Chennai Middle School, Ranganatha Puram, No. 8, Kannan Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 42 Madurai Muthu Street
+2 - Korukkupet Ward No 42 Egappan Street",All Voters
+201,11,201,"- Chennai Middle School, Ranganatha Puram, No. 8, Kannan Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 42 Muniyappan Street
+2 - Korukkupet Ward No 42 Kannan Street",All Voters
+202,11,202,"- A.E.M Matriculation Higher Secondary School, No. 1, JJ Nagar I Street, Korukkupet, Chennai-600021",1 - Korukkupet Ward No 47 Jayalalitha Nagar 1 to 170,All Voters
+203,11,203,"- Chennai Primary School J J Nagar B Street, Korukkupet, Chennai - 600 021","1 - Korukkupet Ward No 47 Jayalalitha Nagar 171 to 350
+2 - Korukkupet Ward No 47 Jayalalitha Nagar 416 to 650",All Voters
+204,11,204,"- Chennai Primary School J J Nagar B Street, Korukkupet, Chennai - 600 021","1 - Korukkupet Ward No 47 Jayalalitha Nagar 651 to 750
+2 - Korukkupet Ward No 47 Jayalalitha Nagar 351 to 415",All Voters
+205,11,205,"- A.E.M Primary School, No. 1148, J J Nagar I Street, Korukkupet, Chennai-600021",1 - Korukkupet Ward No 47 Jeyalalitha Nagar 1251 to 1550,All Voters
+206,11,206,"- A.E.M Primary School, No. 1148, J J Nagar I Street, Korukkupet, Chennai-600021",1 - Korukkupet Ward No 47 Jayalalitha Nagar 751 to 1100,All Voters
+207,11,207,"- ICDS Centre No. 90304 & 90305 & 90306, Anna Nagar, Periyar Salai, Korukkupet Chennai-600021","1 - Korukkupet Ward No 41 Ko Su Mani Street
+2 - Korukkupet Ward No 41 Karunanithi Street",All Voters
+208,11,208,"- Chennai Primary School, No. 16, Anna Nagar, Periyar Salai, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 41 N S K Street
+2 - Korukkupet Ward No 41 Govindhasamy Nagar",All Voters
+209,11,209,"- Chennai Primary School, No. 16, Anna Nagar, Periyar Salai, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 41 Tiruchichinna Samy Street
+2 - Korukkupet Ward No 41 K V K Samy Street",All Voters
+210,11,210,"- Chennai Primary School, No. 16, Anna Nagar, Periyar Salai, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 41 Anbazhagan Street
+2 - Korukkupet Ward No 41 Navalar Street
+3 - Korukkupet Ward No 41 C P Chitrarasu Street",All Voters
+211,11,211,"- A.E.M Primary School, No. 1148, J J Nagar I Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 41 Periyar Road
+2 - Korukkupet Ward No 41 Periyar Nagar Thiruvalluvar Road
+3 - Korukkupet Ward No 41 Periyar Nagar 1st Street
+4 - Korukkupet Ward No 41 Periyar Nagar 3rd Street
+5 - Korukkupet Ward No 41 Periyar Nagar Sunnanbu Kalvai Pumping Station Street
+6 - Korukkupet Ward No 41 Anna Street",All Voters
+212,11,212,"- A.E.M Primary School, No. 1148, J J Nagar I Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 41 Drivers Colony
+2 - Korukkupet Ward No 41 Thygappa Street ( Anandhanayaki Nagar)",All Voters
+213,11,213,"- A.E.M Primary School, No. 1148, J J Nagar I Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 41 Kamaraj Street
+2 - Korukkupet Ward No 41 Sanjay Gandhi Street
+3 - Korukkupet Ward No 41 Muneeswaran Nagar 1st Street
+4 - Korukkupet Ward No 41 Muneeswaran Nagar 2nd Street",All Voters
+214,11,214,"- A.E.M High School, No. 36, 37, Kamaraja Nagar 3rd Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 47 Sigirinthapalayam 1st Street
+2 - Korukkupet Ward No 47 Sigirinthapalayam 2nd Street
+3 - Korukkupet Ward No 47 Sigirinthapalayam 3rd Street",All Voters
+215,11,215,"- A.E.M High School, No. 36, 37, Kamaraja Nagar 3rd Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 47 Sigirinthapalayam 4th Street
+2 - Korukkupet Ward No 47 Sigirinthapalayam 5th Street
+3 - Korukkupet Ward No 47 Sigirinthapalayam 6th Street
+4 - Korukkupet Ward No 47 Sigirinthapalayam 7th Street",All Voters
+216,11,216,"- A.E.M High School, No. 36, 37, Kamaraja Nagar 3rd Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 47 Sigirinthapalayam 8th Street
+2 - Korukkupet Ward No 47 Sigirinthapalayam 9th Street
+3 - Korukkupet Ward No 47 Sigirinthapalayam 10th Street
+4 - Korukkupet Ward No 47 Sigirinthapalayam 11th Street
+5 - Korukkupet Ward No 47 Sigirinthapalayam 12th Street
+6 - Korukkupet Ward No 47 Sathiyamurthy Main Street",All Voters
+217,11,217,"ICDS Center (Main Entrance Room) Meenambal Nagar 3rd Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 47 Meenambal Nagar 2nd Street
+2 - Korukkupet Ward No 47 Meenambal Nagar Cross Street",All Voters
+218,11,218,"Greater Chennai Corporation GYM Building (Main Entrance Room) Meenambal Nagar 3rd Street, Korukkupet, Chennai-600021",1 - Korukkupet Ward No 47 Meenambal Nagar 1st Street,All Voters
+219,11,219,"- Chennai Primary School, No. 89, Kathivakkam High Road, Meenambal Nagar, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 47 Meenambal Nagar 3rd Street
+2 - Korukkupet Ward No 47 Meenambal Nagar 4th Street
+3 - Korukkupet Ward No 47 Meenambal Nagar 5th Street",All Voters
+220,11,220,"- Chennai Primary School, No. 89, Kathivakkam High Road, Meenambal Nagar, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 47 Jeeva Nagar 14th Street
+2 - Korukkupet Ward No 47 Jeeva Nagar 15th Street
+3 - Korukkupet Ward No 47 Jeeva Nagar 16st Street
+4 - Korukkupet Ward No 47 Jeeva Nagar 17nd Street
+5 - Korukkupet Ward No 47 Jeeva Nagar 18rd Street
+6 - Korukkupet Ward No 47 Jeeva Nagar 19th Street",All Voters
+221,11,221,"- ICDS Centre No. 414, Jeeva Nagar 16th Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 47 Jeeva Nagar 1st Street
+2 - Korukkupet Ward No 47 Jeeva Nagar 2nd Street
+3 - Korukkupet Ward No 47 Jeeva Nagar 3rd Street
+4 - Korukkupet Ward No 47 Jeeva Nagar 4th Street
+5 - Korukkupet Ward No 47 Jeeva Nagar 5th Street
+6 - Korukkupet Ward No 47 Jeeva Nagar 6th Street
+7 - Korukkupet Ward No 47 Jeeva Nagar 7th Street",All Voters
+222,11,222,"- Chennai Primary School, No. 89, Kathivakkam High Road, Meenambal Nagar, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 47 Jeeva Nagar 8th Street
+2 - Korukkupet Ward No 47 Jeeva Nagar 9th Street
+3 - Korukkupet Ward No 47 Jeeva Nagar 10th Street
+4 - Korukkupet Ward No 47 Jeeva Nagar 11th Street
+5 - Korukkupet Ward No 47 Jeeva Nagar 12th Street
+6 - Korukkupet Ward No 47 Jeeva Nagar 13th Street",All Voters
+223,11,223,"- Chennai Primary School, No. 89, Kathivakkam High Road, Meenambal Nagar, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 47 Motchapuram 1st Street
+2 - Korukkupet Ward No 47 Motchapuram 2nd Street
+3 - Korukkupet Ward No 47 Motchapuram 3rd Street
+4 - Korukkupet Ward No 47 Motchapuram 4th Street
+5 - Korukkupet Ward No 47 Motchapuram 6th Street
+6 - Korukkupet Ward No 47 Motchapuram 5th Street",All Voters
+224,11,224,"- ICDS Centre No. 410 & 411, Meenambal Nagar 3rd Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 42 Thiyagappa Chetty Street 50 to 150
+2 - Korukkupet Ward No 47 Jothi Huts
+3 - Korukkupet Ward No 47 Meenambal Nagar 6th Street",All Voters
+225,11,225,"- Chennai High School No.16, Harinaryanapuram, CB Road, Korukkupet Chennai 600021 F Class Room",1 - Korukkupet Ward No 47 C.B.Road Oswal Company (Block A TO M),All Voters
+225,11,225A,"- Chennai High School No.16, Harinaryanapuram, CB Road, Korukkupet Chennai 600021 F Class Room",1 - Korukkupet Ward No 47 C.B.Road Oswal Company (Block L TO X),All Voters
+226,11,226,"- Chennai High School No.16, Harinaryanapuram, CB Road, Korukkupet Chennai 600021","1 - Korukkupet Ward No 47 C.B.Road huts
+2 - Korukkupet Ward No 47 Harinarayanapuram 1st Street
+3 - Korukkupet Ward No 47 Harinarayanapuram 2nd Street
+4 - Korukkupet Ward No 47 Harinarayanapuram 3rd Street
+5 - Korukkupet Ward No 47 Harinarayanapuram 4th Street
+6 - Korukkupet Ward No 47 Harinarayanapuram 5th Street",All Voters
+227,11,227,"- A.E.M Primary School,No.1148, JJ Nagar I Street, Korukkupet, Chennai-600 021","1 - Korukkupet Ward No 47 Kamaraj Nagar 9th Street
+2 - Korukkupet Ward No 47 Kamaraj Nagar 12th Street
+3 - Korukkupet Ward No 47 Kathivakkam High Road and Huts",All Voters
+228,11,228,"- A.E.M High School, No. 36, 37, Kamaraja Nagar 3rd Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 47 Kamaraj Nagar 7th Street
+2 - Korukkupet Ward No 47 Kamaraj Nagar 2nd Street
+3 - Korukkupet Ward No 47 Kamaraj Nagar 3rd Street.
+4 - Korukkupet Ward No 47 Kamaraj Nagar 4th Street
+5 - Korukkupet Ward No 47 Kamaraj Nagar 5th Street
+6 - Korukkupet Ward No 47 Kamaraj Nagar 6th Street
+7 - Korukkupet Ward No 47 Kamaraj Nagar 1st Street",All Voters
+229,11,229,"- A.E.M High School, No. 36, 37, Kamaraja Nagar 3rd Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 47 Kamaraj Nagar 10th Street
+2 - Korukkupet Ward No 47 Kamaraj Nagar 11th Street
+3 - Korukkupet Ward No 47 Kamaraj Nagar 8th Street",All Voters
+230,11,230,"- Greater Chennai Corporation, Multi Purpose Building, Bharthi Nagar 6th Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 47 Bharathi Nagar and Kamarj Nagar (Part)
+2 - Korukkupet Ward No 41 Bharathi Street 10th Street",All Voters
+231,11,231,"- Greater Chennai Corporation, GYM Bharthi Nagar 4th Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 47 Bharathi Nagar 4th Street
+2 - Korukkupet Ward No 47 Bharathi Nagar 5th Street",All Voters
+232,11,232,"- Brindan Nursery & Primary School, No. 21, 22, Bharathi Nagar 1st Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 47 Bharathi Nagar 5th cross Street
+2 - Korukkupet Ward No 47 Bharathi Nagar Main Road
+3 - Korukkupet Ward No 47 Bharathi Nagar 8th Street",All Voters
+233,11,233,"- Bharathi Nagar Nadar Urin Murai Magimai Paripalana Sabai, No. 48, Bharathi Nagar 2nd Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 47 Bharathi Nagar 9th Street
+2 - Korukkupet Ward No 47 Bharathi Nagar 6th Street
+3 - Korukkupet Ward No 47 Bharathi Nagar 7th Street",All Voters
+234,11,234,"- ICDS Centre No. 33603090409, Bharthi Nagar 6th Street, Korukkupet, Chennai-600021","1 - Korrukupet Ward No 47 Bharathi Nagar Housing Board Quarters
+2 - Korukkupet Ward No 47 Bharathi Nagar 11th Street",All Voters
+235,11,235,"- Brindan Nursery & Primary School, No. 21, 22, Bharathi Nagar 1st Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 47 Bharathi Nagar 2nd Street
+2 - Korukkupet Ward No 47 Bharathi Nagar 1st Street
+3 - Korukkupet Ward No 47 Bharathi Nagar 3rd Street",All Voters
+236,11,236,"- Bharathi Nagar Nadar Urin Murai Magimai Paripalana Sabai, No. 48, Bharathi Nagar 2nd Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 47 New Lal Bhadur Sasthri Nagar 1st Street
+2 - Korukkupet Ward No 47 New Lal Bhadur Sasthri 2nd Street
+3 - Korukkupet Ward No 47 New Lal Bhadur Sasthi 3rd Street
+4 - Korukkupet Ward No 47 New Lal Bhadur Sasthri 4th Street
+5 - Korukkupet Ward No 47 New Lal Bhadur Sasthri 5th Street
+6 - Korukkupet Ward No 47 Sudanthirapuram 1st Street
+7 - Korukkupet Ward No 47 Sudanthirapuram 2nd Street",All Voters
+237,11,237,"- Chennai High School No.16, Harinarayanapuram, C B Road, Korukkupet Chennai - 600 021","1 - Korukkupet Ward No 47 Ananthanayagi Nagar 1st Street
+2 - Korukkupet Ward No 47 Ananthanayagi Nagar 2nd Street
+3 - Korukkupet Ward No 47 Ananthanayagi Nagar 2nd Cross Street",All Voters
+238,11,238,"- Chennai High School No.16, Harinarayanapuram, C B Road, Korukkupet Chennai - 600 021","1 - Korukkupet Ward No 47 Dr. Ambedkar Nagar 3rd Street
+2 - Korukkupet Ward No 47 Dr. Ambedkar Nagar 1st Street",All Voters
+239,11,239,"- Chennai High School No.16, Harinarayanapuram, C B Road, Korukkupet Chennai - 600 021.","1 - Korukkupet Ward No 47 Ananthanayagi Nagar 3rd Street
+2 - Korukkupet Ward No 47 Anandanayagi Nagar 4th Steet
+3 - Korukkupet Ward No 47 Anandanayagi Nagar 5th Street",All Voters
+240,11,240,"- Chennai High School No.16, Harinarayanapuram, C B Road, Korukkupet Chennai 600 021",1 - Korukkupet Ward No 47 Dr.Ambedkar Nagar 2nd Street,All Voters
+241,11,241,"- ICDS Center, No. 46, Ambedkar Nagar 3th Street, Korukkupet, Chennai - 600 021.","1 - Korukkupet Ward No 47 Dr.Ambedkar Nagar 4th Street
+2 - Korukkupet Ward No 47 Dr.Ambedkar Nagar 5th Street
+3 - Korukkupet Ward No 47 Dr.Ambedkar Nagar 6th Street",All Voters
+242,11,242,"- Chennai High School No.16, Harinarayanapuram, C B Road, Korukkupet Chennai - 600 021.","1 - Korukkupet Ward No 47 Rajiv Gandhi Nagar 1st Street
+2 - Korukkupet Ward No 47 Rajiv Gandhi Nagar 2nd Street
+3 - Korukkupet Ward No 47 Rajiv Gandhi Nagar Huts
+4 - Korukkupet Ward No 47 OId Glass Factory Road
+5 - Korukkupet Ward No 47 Muthumariamman Koil Street",All Voters
+243,11,243,"- A.E.M Primary School, No. 1148, J J Nagar I Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 41 Thiruvalluvar Nagar 1st Street
+2 - Korukkupet Ward No 41 Thiruvalluvar Nagar 2nd Street
+3 - Korukkupet Ward No 41 Thiruvalluvar Nagar Manali Road 51 to 100
+4 - Korukkupet Ward No 41 Manali Road Mooppanar Nagar 1 to 50",All Voters
+244,11,244,"- A.E.M Matriculation Higher Secondary School, No. 1, JJ Nagar I Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 41 Thiruvalluvar Nagar 5rd Street
+2 - Korukkupet Ward No 41 Thiruvalluvar Nagar 3rd Street
+3 - Korukkupet Ward No 41 Thiruvalluvar Nagar 4th Street",All Voters
+245,11,245,"- A.E.M Matriculation Higher Secondary School, No. 1, JJ Nagar I Street, Korukkupet, Chennai-600021","1 - Korukkupet Ward No 41 Gandhi Street
+2 - Korukkupet Ward No 41 Nehru Street
+3 - Korukkupet Ward No 41 Sasthiri Street",All Voters
+246,11,246,"- ICDS Centre No. 33603090426, Chandrasekaran Nagar 6th Street, Kodungaiyur, Chennai-600118","1 - Korukkupet Ward No 41 Chandrasekaran Nagar 1st Street
+2 - Korukkupet Ward No 41 Chandrasekaran Nagar 2nd Street
+3 - Korukkupet Ward No 41 Chandrasekaran Nagar 3rd Street
+4 - Korukkupet Ward No 41 Chandrasekaran Nagar 4th Street
+5 - Korukkupet Ward No 41 Chandrasekaran Nagar 5th Street
+6 - Korukkupet Ward No 41 Chandrasekaran Nagar 6th Street
+7 - Korukkupet Ward No 41 Chandrasekaran Nagar 7th Street
+8 - Korukkupet Ward No 41 Chandrasekaran Nagar 8th Street
+9 - Korukkupet Ward No 41 Chandrasekaran Nagar 9th Street
+10 - Korukkupet Ward No 41 Manali Road Chandrasekaran Nagar",All Voters

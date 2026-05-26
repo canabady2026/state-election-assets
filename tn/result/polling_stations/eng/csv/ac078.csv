@@ -1,0 +1,955 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+1,78,1,Pulliyankottai-606402,"Panchayat Union Elementary School, Pulliyankottai-606402","1.Lakkinayakkanpatti (R.V) & (P), PuliyanKottai New Street, 2.Lakkinayakkanpatti (R.V) & (P), Serapattu Main Road, 3.Lakkinayakkanpatti (R.V) & (P), Kodiyanur Salai, 4.Lakkinayakkanpatti (R.V) & (P), Ward 1 Pillaiyar Koil street, 5.Lakkinayakkanpatti (R.V) & (P), Mariyamman Koil street, 6.Lakkinayakkanpatti (R.V) & (P), Sanimoolai street"
+2,78,2,Pulliyankottai-606402,"Panchayat Union Elementary School, Pulliyankottai-606402","1.Lakkinayakkanpatti (R.V) & (P), Kodiyanur South street, 2.Lakkinayakkanpatti (R.V) & (P), Puliyankottai Main Road, 3.Lakkinayakkanpatti (R.V) & (P), Pillaiyar Koil Street, 4.Lakkinayakkanpatti (R.V) & (P), North Street Kodiyanur, 5.Lakkinayakkanpatti (R.V) & (P), Kattukottai"
+3,78,3,Lakkinayakanpatti-606402,"Panchayat Union Middle School, South Building West Wing, Lakkinayakanpatti-606402","1.Lakkinayakkanpatti (R.V) & (P), BusStand Street, 2.Lakkinayakkanpatti (R.V) & (P), Mariamman Koil street, 3.Lakkinayakkanpatti (R.V) & (P), Perumal Koil Street, 4.Lakkinayakkanpatti (R.V) & (P), Pillaiyar Koil Street"
+4,78,4,Lakkinayakanpatti-606402,"Panchayat Union Middle School, East Building South Wing, Lakkinayakanpatti-606402","1.Lakkinayakkanpatti (R.V) & (P), Pallivasal Street, 2.Lakkinayakkanpatti (R.V) & (P), Serapattu Main Road, 3.Lakkinayakkanpatti (R.V) & (P), Manthaiveli Street, 4.Lakkinayakkanpatti (R.V) & (P), Kattu Kottai"
+5,78,5,Lakkinayakanpatti-606402,"Panchayat Union Middle School, South Building East Wing, Lakkinayakanpatti-606402","1.Lakkinayakkanpatti (R.V) & (P) ), RiceMill Street, 2.Lakkinayakkanpatti (R.V) & (P), North Street, 3.Lakkinayakkanpatti (R.V) & (P), Old Colony,
+4.Lakkinayakkanpatti (R.V) & (P), New colony"
+6,78,6,Rangapanur-606402,"Panchayat Union Middle School, East Building South Wing, Rangapanur-606402","1.Rangappanur (R.V) & (P), Serapattu Main Road, 2.Rangappanur (R.V) & (P), New Tank, 3.Rangappanur (R.V) & (P), Old Tank,
+4.Rangappanur (R.V) & (P), North Street"
+7,78,7,Rangapanur-606402,"Panchayat Union Middle School, North Building
+East Wing, Rangapanur-606402","1.Rangappanur (R.V) & (P), Middle Street,
+2.Rangappanur (R.V) & (P), West street"
+8,78,8,Rangapanur-606402,"Panchayat Union Middle School, West Building North Wing, Rangapanur-606402","1.Rangappanur (R.V) & (p), School Street, 2.Rangappanur (R.V) & (p), West Street,
+3.Rangappanur (R.V) & (p), Kulathumettu Street"
+9,78,9,Rangapanur-606402,"Panchayat Union Middle School, East Building
+North Wing, Rangapanur-606402","1.Rangappanur (r.v) & (p), South Street,
+2.Rangappanur (R.V) & (p), Colany"
+10,78,10,Rangapanur-606402,"Panchayat Union Middle School, East Building South Wing, Rangapanur- 606402","1.Rangappanur (R.V) & (P), Colony,
+2.Rangappanur (R.V) & (P), Mallapuram Main Road, 3.Rangappanur (R.V) & (P), Mallapuram Kattukottai"
+11,78,11,Pavunjipattu-605702,"Panchayat Union Middle School, West Building North Wing, Pavunjipattu-605702","1.Pavunchipattu (R.V) & (P), North Street, 2.Pavunchipattu (R.V) & (P), School Street, 3.Pavunchipattu (R.V) & (P), Pillaiyar Koil Street, 4.Pavunchipattu (R.V) & (P), Pallivasal Street,
+5.Pavunchipattu (R.V) & (P), Birammakundam Salai"
+12,78,12,Pavunjipattu-605702,"Panchayat Union Middle School, North Building East Wing, Pavunjipattu-605702","1.Pavunchipattu (R.V) & (P), Manalur Salai, 2.Pavunchipattu (R.V) & (P), Colony Street, 3.Pavunchipattu (R.V) & (P), Colony, 4.Pavunchipattu (R.V) & (P), Kumaramangalam, 5.Pavunchipattu (R.V) & (P), Annanagar"
+13,78,13,Pudupattu-606402,"Government Higher Secondary School, West Building North Wing, Pudupattu-606402","1.Pudupattu (R.V) & (P), North Street,
+2.Pudupattu (R.V) & (P), Kaliyamman Koil Street, 3.Pudupattu (R.V) & (P), East Street"
+14,78,14,Pudupattu-606402,"Government Higher Secondary School, South Building West Wing Room No 12, Pudupattu-
+606402","1.Pudupattu (R.V) & (P), Vaniyar Street, 2.Pudupattu (R.V) & (P), West Street,
+3.Pudupattu (R.V) & (P), Bharathiyar Street"
+15,78,15,Pudupattu-606402,"Government Higher Secondary School, West Building North Wing, Pudupattu-606402","1.Pudupattu (R.V) & (P), Padasalai Street, 2.Pudupattu (R.V) & (P), Yadavar Street, 3.Pudupattu (R.V) & (P), Eswaran Koil Street, 4.Pudupattu (R.V) & (P), Anna Nagar"
+16,78,16,Pudupattu-606402,"Government Higher Secondary School, West Building South Wing Room No 8, Pudupattu-
+606402","1.Pudupattu (R.V) & (P), North colony, 2.Pudupattu (R.V) & (P), Indira Nagar"
+17,78,17,Pudupattu-606402,"Government Higher Secondary School, North South Building Room No 13, Pudupattu-606402","1.Pudupattu (R.V) & (P), East Colony, 2.Pudupattu (R.V) & (P), South colony"
+18,78,18,Ravuthanallur-606402,"Panchayat Union Middle School, South Building West Wing, Ravuthanallur-606402","1.Ravuthanallur (R.V) & (P), Mariamman Koil Street, 2.Ravuthanallur (R.V) & (P), Pillaiyar Koil Street,
+3.Ravuthanallur (R.V) & (P), Mettu Street"
+19,78,19,S.Pudupettai- 606402,"Panchayat Union Elementry School, South Building, North Facing, S.Pudupettai- 606402","1.Ravuthanallur (R.V) & (P), North Street,
+2.Ravuthanallur (R.V) & (P), North Street, 3.Ravuthanallur (R.V) & (P), Pudupettai Main Road"
+20,78,20,Ravuthanallur-606402,"Panchayat Union Middle School, Additional Building East Wing, Ravuthanallur-606402","1.Ravuthanallur (R.V) & (P), Serapattu Main Road, 2.Ravuthanallur (R.V) & (P), Pillaiyar Koil, 3.Ravuthanallur (R.V) & (P), Ottar Street, 4.Ravuthanallur (R.V) & (P), Sakthimalai Street, 5.Ravuthanallur (R.V) & (P), New Colony Street, 6.Ravuthanallur (R.V) & (P), Bangalaw Street,
+7.Ravuthanallur (R.V) & (P), Pallivasal Street"
+21,78,21,S.Pudupettai- 606402,"Panchayat Union Elementry School, S.Pudupettai- 606402","1.Rawvathanallur (R.V) & (P), New Street, 2.Rawvathanallur (R.V) & (P), Middle Street, 3.Rawvathanallur (R.V) & (P), Pillaiyar Koil Street,
+4.Rawvathanallur (R.V) & (P), Pudhupettai Main Road"
+22,78,22,Pakkam-605801,"Panchayat Union Middle School, New Building North Facing West Wing, Pakkam-605801","1.Bagam (R.V) & (P), SivanKoil Street,
+2.Bagam (R.V) & (P), BilliyarKoil street,
+3.Bagam (R.V) & (P), Newcolony West Street,
+4.Bagam (R.V) & (P), Oldcolony East part"
+23,78,23,Pakkam-605801,"Panchayat Union Middle School, New Building West Facing North Wing, Pakkam-605801","1.Bagam (R.V) & (P), North Street,
+2.Bagam (R.V) & (P), Middle Street,
+3.Bagam (R.V) & (P), South Street,
+4.Bagam (r.v) & (p), Oldcolony East part"
+24,78,24,Pakkampudur-605801,"Panchayat Union Elementary School, South Building West Wing, Pakkampudur-605801","1.Bagam (R.V) & (P), Poothur kooduroad,
+2.Bagam (R.V) & (P), South Street,
+3.Bagam (R.V) & (P), Mainroad,
+4.Bagam (R.V) & (P), Marriyaman Koil Street,
+5.Bagam (R.V) & (P), Pilliyar Koil Street,"
+25,78,25,Pakkampudur-605801,"Panchayat Union Elementary School, West Building, East facing, Pakkam Pudur-605801","1.Bagam (R.V) & (P), School Street,
+2.Bagam (R.V) & (P), Colony Street,
+3.Bagam (R.V) & (P), North Street,
+4.Bagam (R.V) & (P), Alamarathu Street,
+5.Bagam (R.V) & (P), Malpoothur marriyamanKoil Street,
+6..Bagam (R.V) & (P), Maelpoothur PilliyarKoil Street"
+26,78,26,Kaduvanur-605801,"Government Higher Secondary School, South Building North Facing, (Room No-8) Kaduvanur-605801","1.Kaduvanur (R.V) & (P), West Street, 2.Kaduvanoor (R.V) & (P), Raja Street, 3.Kaduvanoor (R.V) & (P), South Street"
+27,78,27,Kaduvanur-605801,"Government Higher Secondary School, New
+Building, South Building, North Facing, Kaduvanur-605801","1.Kaduvanoor (R.V) & (P), Mainroad"
+28,78,28,Kaduvanur-605801,"Government Higher Secondary School, New Building, South Building, North Facing, Kaduvanur-605801","1.Kaduvanoor (R.V) & (P), Kammankattu Street, 2.Kaduvanoor (R.V) & (P), Easwaran Koil Street, 3.Kaduvanoor (R.V) & (P), Mainroad,
+4.Kaduvanoor (R.V) & (P), East Street"
+29,78,29,Kaduvanur-605801,"Government Higher Secondary School, North Building South Facing (Room No - 15)
+Kaduvanur-605801","1.Kaduvanoor (R.V) & (P), Oldcolony,"
+30,78,30,Kaduvanur-605801,"Government Higher Secondary School, North Building South Facing (Room No - 17),
+Kaduvanur-605801","1.Kaduvanoor (R.V) & (P), Newcolony"
+31,78,31,Kanagadu-605801,"Roman Katholic Middle School, East Building West Facing South Side Room, Kanagadu-605801","1.Kannakatu (R.V) & (P), Madha Koil Street, 2.Kannakatu (R.V) & (P), Ottaistreet, 3.Kanangkadu (R.V) & (P), North Street,
+4.Kannakatu (R.V) & (P), Nayudu Street"
+32,78,32,Kanagadu-605801,"Roman Katholic Middle School, East Building West Facing Centre Room, Kanagadu- 605801","1.Kannakatu (R.V) & (P), West Street, 2.Kannakatu (R.V) & (P), Colony"
+33,78,33,Thozhuvanthangal-605801,"Government Elementary School, New North Building, Thozhuvanthangal-605801","1.Thouzvandhangal (R.V) & (P), Middle Street, 2.Thouzvandhangal (R.V) & (P), East Street, 3.Thouzvandhangal (R.V) & (P), South Street, 4.Thouzvandhangal (R.V) & (P), South Street,
+5.Thouzvandhangal (R.V) & (P), School Street"
+34,78,34,Thozhuvanthangal-605801,"Panchayat Union Primary School, Centre Building, Thozhuvanthangal-605801","1.Thouzvandhangal (R.V) & (P), Colony, 2.Thouzvandhangal (R.V) & (P), Mookanthangal,
+3.Thouzvandhangal (R.V) & (P), South Street"
+35,78,35,Vadaponparappi-605702,"Panchayat Union Urdu Middle School, East Facing North Wing, Vadaponparappi-605702","1.Vadaponparappi (R.V) & (P), North Street, 2.Vadaponparappi (R.V) & (P), Water Tank Street, 3.Vadaponparappi (R.V) & (P), Middle Street,
+4.Vadaponparappi (R.V) & (P), Pillaiyar Koil Street"
+36,78,36,Vadaponparappi-605702,"Panchayat Union Urdu Middle School, East Facing South Wing, Vadaponparappi-605702","1.Vadaponparappi (R.V) & (P), South Street, 2.Vadaponparappi (R.V) & (P), Pallivasal Street, 3.Vadaponparappi (R.V) & (P), Kulathu Mettu Street, 4.Vadaponparappi (R.V) & (P), Arunthathiyar Street, 5.Vadaponparappi (R.V) & (P), Murugan Koil Street,
+6.Vadaponparappi (R.V) & (P), Arunthathiyar Street"
+37,78,37,Vadaponparappi-605702,"Panchayat Union Urdu Middle School, South Building, Vadaponparappi-605702","1.Rayasamudiram (R.V) vadaponparappi (P ), Pirmakundam Street,
+2.Rayasamudiram (R.V) vadaponparappi (P), New Colony Street,
+3.Rayasamudiram (R.V) vadaponparappi (P), Old Colony"
+38,78,38,Vadaponparappi-605702,"Panchayat Union Urdu Middle School, North Building, Vadaponparappi-605702","1.Rayasamudiram (R.V) vadaponparappi (P), Kurath Street, 2.Rayasamudiram (R.V) vadaponparappi (P), Anthoniyar Nagar North Street,
+3.Rayasamudiram (R.V) vadaponparappi (P), Anthoniyar Nagar Arulambadi Main Road,
+4.Rayasamudiram (R.V) vadaponparappi (P), Anthoniyar Nagar South Street,
+5.Rayasamudiram (R.V) Vaponparappi (P), Tharga Street"
+39,78,39,Birammakundam-605702,"Panchayat Union Elementary School, West Building, East Facing, (Room No -1) Birammakundam-605702","1.Birammakundam (R.V) & (P), Erikarai Street, 2.Birammakundam (R.V) & (P), Kulathu Mettu Street, 3.Birammakundam (R.V) & (P), North Street"
+40,78,40,Birammakundam-605702,"Panchayat Union Elementary School, West
+Building, East Facing,(Room No-2) Birammakundam-605702","1.Birammakundam (R.V) & (P), Rice Mill Street,
+2.Birammakundam (R.V) & (P), Kamaraj nagar, 3.Birammakundam (R.V) & (P), Pallivasal Street"
+41,78,41,Birammakundam-605702,"Panchayat Union Elementary School, South Building, North Facing, Birammakundam-605702","1.Birammakundam (R.V) & (P), Old colony, 2.Birammakundam (R.V) & (P), Arnthathiyar Street,"
+42,78,42,Birammakundam-605702,"Panchayat Union Elementary School,West Building, East Facing, Birammakundam-605702","1.Birammakundam (R.V) & (P), New colony, 2.Birammakundam (R.V) & (P), Bus stand Street"
+43,78,43,Birammakundam-605702,"Panchayat Union Elementary School, West Building, East Facing,(Room No-3) Birammakundam-605702","1.Birammakundam (R.V) & (P), Middle Street, 2.Birammakundam (R.V) & (P), Ravuthanallur Road, 3.Birammakundam (R.V) & (P), Post office Street,
+4.Birammakundam (R.V) & (P), South Street"
+44,78,44,Manalur-605702,"Panchayat Union Middle School, West Building South Wing, Manalur-605702","1.Manalur (R.V) & (P), Mariamman Koil Street,
+2.Manalur (R.V) & (P), West Street,
+3.Manalur (R.V) & (P), East Street"
+45,78,45,Manalur-605702,"Panchayat Union Middle School, West Building North Wing, Manalur-605702","1.Manalur (R.V) & (P), Thanipadi Road,
+2.Manalur (R.V) & (P), Colony,
+3.Manalur (R.V) & (P), Natham"
+46,78,46,Vadakeeranur-605702,"Aided Middle School, South Building West Wing, Vadakeeranur-605702","1.Vadakeeranur (R.V) & (P), Pallivasal Street, 2.Vadakeeranur (R.V) & (P), Kallanguthur Street, 3.Vadakeeranur (R.V) & (P), South Street,
+4.Vadakeeranur (R.V) & (P), Tharka Street"
+47,78,47,Vadakeeranur-605702,"Aided Middle School, South Building East Wing, Vadakeeranur-605702","1.Vadakeeranur (R.V) & (P), Pudupattai Street, 2.Vadakeeranur (R.V) & (P), Main Road, 3.Vadakeeranur (R.V) & (P), New Street, 4.Vadakeeranur (R.V) & (P), Colony Street, 5.Vadakeeranur (R.V) & (P), Rice Mill Street, 6.Vadakeeranur (R.V) & (P), East Street,
+7.Vadakeeranur (R.V) & (P), Melsiruvalur X Road"
+48,78,48,Ulagalapadi-605702,"Panchayat Union Elementary School, Additional Building, Ulagalapadi-605702","1.Ulagalapadi (R.V) & (P), Ottar Street, 2.Ulagalapadi (R.V) & (P), North Street, 3.Ulagalapadi (R.V) & (P), Middle Street, 4.Ulagalapadi (R.V) & (P), Rajaveethi,"
+49,78,49,Ulagalapadi-605702,"Integrated Child Development Service Centre, East Building, West Facing, Ulagalapadi -
+605702","1.Ulagalapadi (R.V) & (P), South Street, 2.Ulagalapadi (R.V) & (P), Old colony,
+3.Ulagalapadi (R.V) & (P), New Colony"
+50,78,50,"Ulagapadi Panchayat, (Savariyarpalaiyam) - 605702","Anganwadi Center, Ulagapadi Panchayat, (Savariyarpalaiyam) - 605702","1.Ulagalapadi (R.V) & (P), South Street, 2.Ulagalapadi (R.V) & (P), Middle Street, 3.Ulagalapadi (R.V) & (P), Matha Koil Street,
+4.Ulagalapadi (R.V) & (P), North Street"
+51,78,51,"Ulagapadi Panchayat, (Thomas Nagar) - 605702","Anganwadi Center, Ulagapadi Panchayat (Thomas Nagar)- 605702","1.Ulagalapadi (R.V) & (P), Main Road, 2.Ulagalapadi (R.V) & (P), Kallarai Street, 3.Ulagalapadi (R.V) & (P), Thamas Nagar, 4.Ulagalapadi (R.V) & (P), Kalvaisalai,
+5.Ulagalapadi (R.V) & (P), Kattu Kottai"
+52,78,52,Melsiruvalur -605702,"Grama Sevai Maiyam, Melsiruvalur -605702","1.Melsiruvalur (R.V) & (P), Melsiruvalur X Road"
+53,78,53,Melsiruvalur -605702,"Integrated Child Development Service Centre, East Building, West Facing, Melsiruvallur -
+605702","1.Melsiruvalur (R.V) & (P), New colony, 2.Melsiruvalur (R.V) & (P), Old colony,"
+54,78,54,Melsiruvalur-605702,"Panchayat Union Elementary School, North Building, South Facing, Melsiruvallur-605702","1.Melsiruvalur (R.V) & (P), Thaniyabodi road, 2.Melsiruvalur (R.V) & (P), Kulathumettu Street, 3.Melsiruvalur (R.V) & (P), Middle Street,
+4.Melsiruvalur (R.V) & (P), South Street"
+55,78,55,Michelpuram-605702,"Saint Michel High School, North Building West Wing, Michelpuram-605702","1.Melsiruvalur & Michaelpuram (R.V) & Melsiruvalur (P), Selran Street,
+2.Melsiruvallur & Michaelpuram (R.V) & Melsiruvallur (P), Chekkumettu Street,
+3.Melsiruvallur & Michaelpuram (R.V) & Melsiruvallur (P), Tank Street,
+4.Melsiruvallur & Michaelpuram (R.V) & Melsiruvallur (P), MathaKoil West Street,
+5.Melsiruvallur & Michaelpuram (R.V) &Melsiruvallur (P), Library Street,
+6.Melsiruvallur & Michaelpuram (R.V) & Melsiruvallur (P), Fair price shop Street,
+7.Melsiruvallur & Michaelpuram (R.V) & Melsiruvallur (P),
+North Street"
+56,78,56,Michelpuram-605702,"Saint Michel High School, North Building East Wing, Michelpuram-605702","1.Melsiruvallur & Michaelpuram (R.V) & Melsiruvallur (P), Balwadi Street,
+2.Melsiruvallur & Michaelpuram (R.V) & Melsiruvallur (P), West Kottai,
+3.Melsiruvallur & Michaelpuram (R.V) & Melsiruvallur (P),
+Konathan Kottai"
+57,78,57,Michelpuram-605702,"Saint Michel High School, West Building North Wing, (Room-1), Michelpuram- 605702","1.Melsiruvallur & Michaelpuram (R.V) & Melsiruvallur (P), Sanimoolai Street,
+2.Melsiruvallur & Michaelpuram (R.V) & Melsiruvallur (P), Koil Street,
+3.Melsiruvallur & Michaelpuram (R.V) & Melsiruvallur (P),
+Kallarai Street,"
+58,78,58,Michelpuram-605702,"Saint Michel High School, West Building North Facing, (Room No-2) Michelpuram- 605702","1.Melsiruvallur & Michaelpuram (R.V) & Melsiruvallur (P), Vaikkal Street,
+2.Melsiruvallur & Michaelpuram (R.V) & Melsiruvallur (P),
+Colony"
+59,78,59,Moongilduraipattu-605702,"Panchayat Union Elementary School, East Building, Moongilduraipattu-605702","1.Moongilthuraipattu (R.V) & (P), Mariyamman Koil Street, 2.Moongilthuraipattu (R.V) & (P), Middle Street, 3.Moongilthuraipattu (R.V) & (P), Colony, 4.Moongilthuraipattu (R.V) & (P), AmbedkarNagar"
+60,78,60,Moongilduraipattu-605702,"Panchayat Union Elementary School, East Building South Wing, Moongilduraipattu-605702","1.Moongilthuraipattu (R.V) & (P), Kattukottai, 2.Moongilthuraipattu (R.V) & (P), Mettur, 3.Moongilthuraipattu (R.V) & (P), West Kattu kottai"
+61,78,61,Moongilthuraipattu-605702,"Government Higher Secondary School, East Building North Wing, Moongilthuraipattu-605702","1.Moongildurapattu (R.V) & (P), Alaikudiyiruppu,
+2.Moongildurapattu (R.V) & (P), Annanagar, 3.Moongildurapattu (R.V) & (P), Sugar Factory Colony"
+62,78,62,Moongilduraipattu-605702,"Government Higher Secondary School, East Building Center Wing, Moongilduraipattu-605702","1.Moongilthuraipattu (R.V) & (P), Kamarajar Nagar, 2.Moongilthuraipattu (R.V) & (P), Murugan Koil Street, 3.Moongilthuraipattu (R.V) & (P), Mariamman Koil Street, 4.Moongilthuraipattu (R.V) & (P), Vinayagar Koil Street, 5.Moongilthuraipattu (R.V) & (P), Kallai Main Road"
+63,78,63,Moongilduraipattu-605702,"Government Higher Secondary School, East Building, South Wing, Moongilduraipattu-605702","1.Moongildurapattu (R.V) & (P), Allabagavathi Street, 2.Moongilduraipattu (R.V) & (P), Muniyapillai Street, 3.Moongildurapattu (R.V) & (P), Meenavar Street, 4.Moongildurapattu (R.V) & (P), Ame.pallai side, 5.Moongildurapattu (R.V) & (P), Santhaimedu,
+6.Moongildurapattu (R.V) & (P), Kallaimainroad,"
+64,78,64,Moongilduraipattu-605702,"Government Higher Secondary School, East Building, West Facing, Moongilduraipattu-605702","1.Moongilduraipattu (R.V) & (P), Aravathimadapam, 2.Moongilduraipattu (R.V) & (P), Devinagar, 3.Moongilduraipattu (R.V) & (P), Poompum mattukara paguthi"
+65,78,65,Poruvalur-605702,"Panchayat Union Elementary School, New Building-West Wing, Poruvalur-605702","1.Poruvalur (R.V) & Porasapattu (P), North Street, 2.Poruvalur (R.V) & Porasapattu (P), East Street, 3.Poruvalur (R.V) & Porasappattu (V), Ration shop Street, 4.Poruvalur (R.V) Porasapattu (P), South Street, 5.Poruvalur (R.V) & Porasapattu (P), West Street, 6.Poruvalur (R.V) & Porasappattu (V), Narikuravar Side Street,
+7.Poruvalur (R.V) & Porasapattu (P), Porasappattu road, 8.Poruvalur (R.V) & Porasapattu (P), Porasappattu colony
+P.W.D office,
+9.Poruvalur (R.V) & Porasappattu (V), Porasappattu colony"
+66,78,66,Porasapattu-605702,"Panchayat Union Middle School, East Building, West Facing, Room No-1, Porasapattu- 605702","1.Porasapattu (R.V) Porasapattu (P), School Street, 2.Porasapattu (R.V) Porasapattu (P), Erudayampattu Salai,"
+67,78,67,Porasapattu-605702,"Panchayat Union Middle School, East Building, West Facing, Room No-2, Porasapattu- 605702","1.Porasapattu (R.V) Porasapattu (P), Mariamman Koil Street, 2.Porasapattu (R.V) Prasapattu (P), Tank Street, 3.Porasapattu (R.V) &Porasapattu (P), Colony"
+68,78,68,Porasapattu-605702,"Panchayat Union Middle School, West Building, East Facing, Room No-1, Porasapattu- 605702","1.Porasapattu (R.V) Porasapattu (P), Porasapattu Road, 2.Porasapattu (R.V) Porasapattu (P), School Street, 3.Porasapattu (R.V) Porasapattu (P), Gengaiamman Koil Street,"
+69,78,69,Porasapattu-605702,"Panchayat Union Middle School, West Building, East Facing, Room No-2, Porasapattu- 605702","1.Porasapattu (R.V) Porasapattu (P), Pillaiyar Koil Street, 2.Porasapattu (R.V) Porasapattu (P), Tank Street, 3.Porasapattu (R.V) Porasapattu (P), Kalvaikarai Colony"
+70,78,70,Erudayampattu-605702,"Thooya Winnarasi High School, East Building-South Wing, Erudayampattu-605702","1.Errudiyampattu (R.V) & (P), Pilliyar Koil Street, 2.Errudiyambattu, Madha Koil Steet, 3.Errudiyambattu (R.V) & (P), Putheran Street, 4.Errudiyambattu (R.V) & (P), Madha Koil Street, 5.Errudiyambattu (R.V) & (P), Putheeran Street"
+71,78,71,Erudayampattu-605702,"Thooya Winnarasi High School, East Building South Wing, Erudayampattu-605702","1.Errudiyambattu (R.V) & (P), Kulathu Street,
+2.Errudiyambattu (R.V) & (P), Vaniyamparrai, 3.Errudiyambattu (R.V) & (P), Mattukollai"
+72,78,72,Erudayampattu-605702,"Thooya Winnarasi High School, East Building North Wing, Erudayampattu-605702","1.Adhanur (R.V) & Erudayampattu (P), Pillaiyar Koil Street"
+73,78,73,Erudayampattu-605702,"Thooya Winnarasi High School, East Building Centre Wing, Erudayampattu-605702","1.Adhanur (R.V) & Erudayampattu (P), West Street,
+2.Adhanur (R.V) & Erudayampattu (P), Rajarathinam Street"
+74,78,74,Mangalam-605702,"Panchayat Union Elementary School,
+Mangalam-605702","1.Mangalam (R.V) & Errudiyambattu (P), Mangalam Colony
+Mariyamman Koil Street"
+75,78,75,Mangalam-605702,"Panchayat Union Elementary School, Mangalam-605702","1.Mangalam (R.V) & Erudaiyampattu (P), Mariyamman Koil Street,
+2.Mangalam (R.V) & Erudaiyampattu (P), South Street"
+76,78,76,Arulampadi-605702,"R.C.Middle School, North New Building, South Facing (Room No-1), Arulampadi-605702","1.Arulampadi (R.V) & (P), Naidu Street, 2.Arulampadi (R.V) & (P), North Street, 3.Arulampadi (R.V) & (P), South Street,
+4.Arulampadi (R.V) & (P), Pillaiyar Koil Street,"
+77,78,77,Arulampadi-605702,"R.C.Middle School, North New Building, South Facing (Room No-2), Arulampadi-605702","1.Arulampadi (R.V) & (P), West Street, 2.Arulampadi (R.V) & (P), Kallarai Street,
+3.Arulampadi (R.V) & (P), Matha Koil Street"
+78,78,78,Arulampadi-605702,"R.C.Middle School, North New Building East Wing, Arulampadi-605702","1.Arulampadi (R.V) & (P), South Street, 2.Arulampadi (R.V) & (P), Middle Street,
+3.Arulampadi (R.V) & i (P), North Street"
+79,78,79,Arulampadi-605702,"R.C.Middle School, North New Building East Wing, Arulampadi-605702","1.Arulampadi (R.V) & (P), Kattu Kottai, 2.Arulampadi (R.V) & (P), Old colony, 3.Arulampadi (R.V) & (P), New Colony"
+80,78,80,Sudhamalai-605802,"Panchayat Union Elementary School, West Building East Facing, Sudhamalai-605802","1.Suthamalai (R.V) & (P), West Street, 2.Suthamnalai (R.V) & (P), Middle Street, 3.Suthamalai (R.V) & (P), South Street, 4.Suthamalai (R.V) & (P), East Street colony, 5.Suthamalai (R.V) & (P), Colony,
+6.Suthamalai (R.V) & (P), Kattukottahai"
+81,78,81,Seerpadanallur-605802,"Panchayat Union Elementary School, East Building, Seerpadanallur-605802","1.Seerbathanallur (R.V) & (P), North Street, 2.Seerbathanallur (R.V) & (P), Middle Street, 3.Seerbathanallur (R.V) & (P), South Street"
+82,78,82,Seerpadanallur-605802,"Panchayat Union Elementary School, Seerpadanallur-605802","1.Seerbathanallur (R.V) & (P)., East Street, 2.Seerbathanallur (R.V) & (P), Main road, 3.Seerbathanallur (R.V) & (P), Manalmattu,
+4.Seerbathanallur (R.V) & (P), Vellaiparai"
+83,78,83,Arkkavadi-605802,"Panchayat Union Middle School, Arkkavadi-605802","1.Argawadi (R.V) & (P), Poothur North Street,
+2.Argawadi (R.V) & (P), Poothur Middle Street,
+3.Argawadi (R.V) & (P), Poothur West Street,
+4.Argawadi (R.V) & (P), East kattukottahai,
+5.Argawadi (R.V) & (P), Main Road,"
+84,78,84,Arkkavadi-605802,"Panchayat Union Middle School, South Building, East Wing, North Facing, Arkkavadi-605802","1.Argawadi (R.V) & (P), Pazhyavar North Street,
+2.Argawadi (R.V) & (P), Pazhyavar Middle Street,
+3.Argawadi (R.V) & (P), Pazhyavar South Street,
+4.Argawadi (R.V) & (P), Pazhyavar East Street,
+5.Argawadi (R.V) & (P), West kattukoddai,
+6.Argawadi (R.V) & (P), Colony"
+85,78,85,Vadamamananthur-605802,"Panchayat Union Elementary School, New Building West Wing, Vadamamananthur-605802","1.Vadamandhur (R.V) & (P), South Street, 2.Vadamandhur (R.V) & (P), Middle Street colony, 3.Vadamandhur (R.V) & (P), Marriyaman Koil colony, 4.Vadamandhur (R.V) & (P), North Street colony, 5.Vadamamandhur (R.V) & (P), Thakar ummar Street, 6.Vadamamandhur (R.V) & (P), Thakka pallivasal Street, 7.Vadamamandhur (R.V) & (P), Thakka South Street, 8.Vadamamandhur (R.V) & (P), Thakka Main Road, 9.Vadamamandur (R.V) & (P), Kattukottai"
+86,78,86,Vadamamananthur-605802,"Panchayat Union Elementary School, New Building East Wing, Vadamamananthur-605802","1.Vadamamandhur r.v) (p), North Sstreet, 2.Vadamamandhur (R.V) & (P), School Street, 3.Vadamamandhur (R.V) & (P), Middle Street, 4.Vadamamandhur (R.V) & (P), South Street"
+87,78,87,Arumparampattu-605802,"Panchayat Union Elementary School, Arumparampattu-605802","1.Arumbarambattu (R.V) & (P), North street, 2.Arumbarambattu (R.V) & (P), East Street, 3.Arumbarambattu (R.V) & (P), South Street, 4.Arumbarampattu (R.V) & (P), West Street, 5.Arumbarambattu (R.V) & (P), North Street colony, 6.Arumbarambattu (R.V) & (P), Middle Street Colony, 7.Arumbarampattu (R.V) & (P), East Street colony, 8.Arumbarambattu (R.V) & (P), West Street colony, 9.Arumbarambattu (R.V) & (P), Handpumb Street Colony, 10.Arumbarambattu (R.V) & (P), South Street colony, 11.Arumbarambattu (R.V) & (P), Kattukottyai"
+88,78,88,Jambadai-605802,"Panchayat Union Middle School, West Building North Wing, Jambadai-605802","1.Jambadai (R.V) & (P), North Street,
+2.Jambadai (R.V) & (P), Colony,
+3.Jambadai (R.V) & (P), Ranganathanpuram"
+89,78,89,Jambadai-605802,"Panchayat Union Middle School, West Building South Wing, Jambadai-605802","1.Jambadai (R.V) & (P), Sanniyasibattan,
+2.Jambadai (R.V) & (P), Well Street,
+3.Jambadai (R.V) & (P), West Street,
+4.Jambadai (R.V) & (P), Middle Street,
+5.Jambadai (R.V) & (P), East Street,
+6.Jambadai (R.V) & (P), South Street"
+90,78,90,Thiruvarangam-605802,"Panchayat Union Elementary School, East South Building, Thiruvarangam-605802","1.Thiruvarangam (R.V) & (P), East Street, 2.Thiruvarangam (R.V) & (P), West Street, 3.Thiruvarangam (R.V) & (P), Koil Street, 4.Thiruvarangam (R.V) & (P), Arasakkara Street,
+5.Thiruvarangam (R.V) & (P), Ganagabillai Street"
+91,78,91,Thiruvarangam-605802,"Panchayat Union Elementary School, North Building, Thiruvarangam-605802","1.Thiruvarangam (R.V) & (P), New Colony, 2.Thiruvarangam (R.V) & (P), Oldcolony"
+92,78,92,Kallipadi-605802,"Panchayat Union Middle School, North Building, East Wing, South Facing, Kallipadi-605802","1.Kallippadi (R.V) & (P), Eswaran Koil Street, 2.Kallippadi (R.V) & (P), Vinayagar Koil Street, 3.Kallippadi (R.V) & (P), Perumal Koil Street, 4.Kallippadi (R.V) & (P), Main Road, 5.Kallippadi (R.V) & (P), West Street,"
+93,78,93,Kallipadi-605802,"Panchayat Union Middle School, East Building, North Wing,West Facing,Kallipadi-605802","1.Kallippadi (R.V) & (P), South Street, 2.Kallippadi (R.V) & (P), Colony"
+94,78,94,Maniyanthal -605802,"Panchayat Union Middle School (East Wing),
+Maniyanthal - 605802","1.Maniyanthal (R.V) & (P), Marriyamman Koil Street,"
+95,78,95,Maniyanthal -605802,"Panchayat Union Middle School, East Bulding, South Wing, West Facing, Maniyanthal - 605802","1.Maniyanthal (R.V) & (P), Mainroad, 2.Maniyandhal (R.V) & (P), Chinnamaniyandhal"
+96,78,96,Eduthanur-605802,"Panchayat Union Middle School, Additional
+Building, North Building, South Facing,Eduthanur - 605802","1.Maniyanthal (R.V) & (P), Sivapuram"
+97,78,97,Sirupanaiur-605757,"Panchayat Union Middle School, West Building, Sirupanaiur-605757","1.Sirupanaiyanour (R.V) & (P), South Street, 2.Sirupanaiyanur (R.V) & (P), Mainroad 1,
+3.Sirupanaiyanur (R.V) & (P), Mainroad 2"
+98,78,98,Sirupanaiur-605757,"Panchayat Union Middle School, Sirupanaiur-605757","1.Sirupanaiyanur (R.V) & (P), Ballivasal Street, 2.Sirupanniyanour (R.V) & (P), Erigarai Street, 3.Sirupanaiyanur (R.V) & (P), Pillaiyar Koil Street, 4.Sirupanaiyanur (R.V) & (P), North Street, 5.Sirupanniyanur (R.V) & (P), Kullathu Mettu Street,
+6.Sirupanniyanour (R.V) & (P), Roadu Street"
+99,78,99,Karayampalayam-605802,"Panchayat Union Elementary School, East Building West Facing North Wing, Karayampalayam-605802","1.Serpanandal (R.V) & Karaiyampalayam (P), Marriyamman Koil Street,
+2.Serpanandal (R.V) & Karriyampaliyam (p), South Street"
+100,78,100,Karayampalayam-605802,"Panchayat Union Elementary School, East Building, Karayampalayam-605802","1.Seerpanandal (R.V) & Karaiyampalayam (P), Main Road, 2.Seerpanandal (R.V) &Karaiyampalayam (P), South Street, 3.Seerpanandal (R.V) &Karaiyampalayam (P), Middle Street, 4.Seerpanandal (R.V) Karaiyampalayam (P), IyyanarKoil street,
+5.Seerpanandal (R.V) Karaiyampalayam (P), West street"
+101,78,101,Eduthanur-605802,"Government Higher Secondary School, East Building, Eduthanur-605802","1.Eduthanoor (R.V) & (P), East Street, 2.Eduthanoor (R.V) & (P), North Street, 3.Eduthanoor (R.V) & (P), South Street
+4.Eduthanoor (R.V) & (P), Middle Street,"
+102,78,102,Eduthanur-605802,"Government Higher Secondary School, West
+Building Eduthanur-605802","1.Eduthanoor (R.V) & (P), Colony,"
+103,78,103,Seerpanandal-605802,"Panchayat Union Middle School, North West Building, West Wing, Seerpanandal-605802","1.Seerbananthal (R.V) & (P), East Street, 2.Seerbananthal ((R.V) & (P), Middle Street,"
+104,78,104,Seerpanandal-605802,"Panchayat Union Middle School, North Building, South Facing, Seerpanandal-605802","1.Seerbanathanal (R.V) & (P), ManmathanKoilstreet, 2.Seerbananthal ((R.V) & (P), North Street, 3.Seerpananthal (R.V) & (P), Mariamman Koil Street,
+4.Seerpananthal (R.V) & (P), West Street"
+105,78,105,Seerpanandal-605802,"Panchayat Union Middle School, North West Building, East Wing, Seerpanandal-605802","1.Seerpananthal (R.V) & (P), Colony,"
+106,78,106,Seerpanandal-605802,"Panchayat Union Middle School, North Building, East Facing, Seerpanandal-605802","1.Seerpananthal (R.V) & (P), New Colony"
+107,78,107,Elayanarkuppam-605802,"Panchayat Union Middle School, East Building, Elayanarkuppam-605802","1.Serpanandal (R.V) Eliyannarkuppam (P), Marriyamman Koil Street,
+2.Seerpanandal (R.V) Eliyanarkuppam (P), Poosari Street, 3.Seerpanandal (R.V) & Eliyanarkuppam (P), Chettiyar Street,"
+108,78,108,Elayanarkuppam-605802,"Panchayat Union Middle School, East Building, West Facing, Elayanarkuppam-605802","1.Serpanandal (R.V) Eliyanarkuppam (P), West Street, 2.Seerpanandal (R.V) & Eliyanarkuppam (P), Asari Street, 3.Seerpanandal (R.V) & Eliyanarkuppam (P), Jowli kadai Street,
+4.Seerpanandal (R.V) & Eliyanarkuppam (P), Main Road"
+109,78,109,Elayanarkuppam-605802,"Panchayat Union Middle School, West New Building Middle Wing, Elayanarkuppam-605802","1.Seerpanandal (R.V) & Eliyanarkuppam (P), Middle Street, 2.Seerpanandal (R.V) & Eliyanarkuppam (P), Pillaiyar Koil Street, 3.Seerpanandal (R.V) & Eliyanarkuppam (P), West
+Street"
+110,78,110,Elayanarkuppam-605802,"Panchayat Union Middle School, West New Building South Wing, Elayanarkuppam-605802","1.Seerpanandal (R.V) & Eliyanarkuppam (P), Postoffice Street,
+2.Seerpanandal (R.V) & Eliyanarkuppam (P), South Street, 3.Seerpanandal (R.V) &Eliyanarkuppam (P), Earikkarai Street"
+111,78,111,Periyakolliyur-605802,"Government High School, Room No-1 East Side, Periyakolliyur-605802","1.Perriyakollieyour (R.V) & (P), Postoffice Street, 2.Periyakolliur (R.V) & (P), School Street, 3.Periyakolliyour (R.V) & (P), Mariyamman Koil Street, 4.Periyakolliyour (R.V) & (P), West pattai Street, 5.Periyakolliyour (R.V) & (P), Naidu Street, 6.Periyakolliyour (R.V) & (P), Udayar Street,
+7.Periyakolliyour (R.V) & (P), Tank Street"
+112,78,112,Periyakolliyur-605801,"Government High School, Room No-2 East Side, Periyakolliyur-605801","1.Perriya kollieyour (R.V) & (P), Mainroad, 2.Periyakolliyour (R.V) & (P), New Colony, 3.Periyakolliyour (R.V) & (P), Colony East Street, 4.Periyakolliyour (R.V) & (P), Colony Tank Street"
+113,78,113,Periyakolliur-605801,"Government High School, Room No-4 East Side, Periyakolliur-605801","1.Perriyakollieyour (R.V) & (P), Perriyakolliyour, 2.Perriyakolliyour (R.V) & (P), Thakka,
+3.Perriyakolliyour (R.V) & (P), Kattukodai"
+114,78,114,Periyakolliur-605801,"Government High School, Room No-4 East
+Side, Periyakolliur-605801","1.Perriyakollieyour (R.V) & (P), Pushpagri,
+2.Perriyakolliyour (R.V) & (P), Colony (Pushpagri)"
+115,78,115,Chinnakolliyur-605801,"Panchayat Union Primary School, North Building, South Facing, Chinnakolliyur- 605801","1.Chinnakolliyour (R.V) & (P), West Street, 2.Chinnakolliyour (R.V) & (P), North Street, 3.Chinnakolliyour (R.V) & (P), Marriyamman Koil Street, 4.Perriyakollieyour (R.V) & (P), South Street colony, 5.Chinnakollieyour (R.V) & (P), North Street colony,
+6.Chinnakolliyour (R.V) & (P), MarriyammanKoil Street colony, 7.Chinnakollieyour (R.V) & (P), South Street"
+116,78,116,Atthiyur-605801,"Panchayat Union Middle School, West Building West Wing, Atthiyur-605801","1.Adhiyour (R.V) & (P), Marriyamman Koil Street,
+2.Adhiyour (R.V) & (P), Middle Street,
+3.Adhiyour (R.V) & (P), Karnam Street,
+4.Adhiyour (R.V) & (P), East Street, 5.Adhiyour (R.V) & (P), South Street"
+117,78,117,Atthiyur-605801,"Panchayat Union Middle School, West Building East Face South Wing, Atthiyur-605801","1.Adhiyour (R.V) & (P), Road street,
+2.Adhiyour (R.V) & (P), North kattu,
+3.Adhiyour (R.V) & (P), New colony"
+118,78,118,Atthiyur-605801,"Panchayat Union Middle School, East Building
+South Wing, Atthiyur-605801","1.Atthiyoor (R.V) & (P), Oldcolony,
+2.Atthiyoor (R.V) & (P), Newcolony"
+119,78,119,Atthiyur-605801,"Panchayat Union Middle School, East Building North Wing, Atthiyur-605801","1.Atthiyoor (R.V) & (P), Annanager, 2.Atthiyoor (R.V) & (p), Annanager colony,
+3.Atthiyoor (R.V) & (P), Thangal"
+120,78,120,Ariyalur-605801,"Government Higher Secondary School, Additional Building, Ariyalur-605801","1.Ariyaloor (R.V) & (P), Mainroad, 2.Ariyaloor (R.V) & (P), Kamarajar Street,
+3.Ariyaloor (R.V) & (P), Marriyamman Koil Street"
+121,78,121,Ariyalur-605801,"Government Higher Secondary School, South Building East Wing, Ariyalur-605801","1.Ariyaloor (R.V) & (P), Sattiyar street, 2.Ariyaloor (R.V) & (P), Gulathumettu street,
+3.Ariyaloor (R.V) & (P), Kattukottai"
+122,78,122,Ariyalur-605801,"Government Higher Secondary School, South Building West Wing, Ariyalur-605801","1.Ariyaloor (R.V) & (P), Colony"
+123,78,123,Vanapuram-605801,"Panchayat Union Elementary School, West Building South Wing, Vanapuram-605801","1.Vanapuram (R.V) & (P), Rajaveethi, 2.Vanapuram (R.V) & (P), Colony, 3.Vanapuram (R.V) & (P), Mainroad,
+4.Vanapuram (R.V) & (P), Madhura Puthur"
+124,78,124,Pagandai x Road - 605801,"Panchayat Union Elementary School, West
+Building, East Facing, Anna Nagar, Pagandai x Road - 605801","1.Vanapuram (R.V) & (P), Bagandaiy kooduroad,"
+125,78,125,Pagandai x Road - 605801,"Panchayat Union Elementary School, West
+Building, East Facing, Anna Nagar, Pagandai x Road - 605801","1.Vanapuram (r.v) & (p), Reddiyarpalliyam,
+2.Vannaburram (R.V) & (P), Rajaramkoddai 3.Vanapuram (R.V) & (P), Iyyanarpalliyam"
+126,78,126,Nagalkudi-605801,"Panchayat Union Elementary School, Nagalkudi-
+605801","1.Nagalkudi (R.V) &Vanapuram (P), Nagalkudi,
+2.Nagalkudi (R.V) & Vanapuram (p), Nagalkudi colony"
+127,78,127,Odiyandal-605802,"Panchayat Union Elementary School, East Wing, Odiyandal-605802","1.Odiyanthal (R.V) & (P), North Street, 2.Odiyanthal (R.V) & (P), Bajanai Koil Street,
+3.Oodiyanthal (R.V) & (P), Mettu Street"
+128,78,128,Odiyandal-605802,"Panchayat Union Elementary School, East
+Wing, Odiyandal-605802","1.Odiyanthal (R.V) & (P), West colony,
+2.Odiyanthal (R.V) & (P), East Colony"
+129,78,129,Kadambur-605802,"Panchayat Union Elementry School, Additional Building East Wing, Kadambur-605802","1.Kadampoor (R.V) & (P), Mettu Street, 2.Kadampoor (R.V) & (P), Middle Street, 3.Kadampoor (R.V) & (P), West Street,
+4.Kadampoor (R.V) & (P), South Street"
+130,78,130,Kadambur-605802,"Panchayat Union Elementary School, Additional Building West Wing, Kadambur-605802","1.Kadampoor (R.V) & (P), Middle Street Colony, 2.Kadampoor (R.V) & (P), South Street, 3.Kadampoor (R.V) & (P), Valluvar Street, 4.Kadampoor (R.V) & (P), Roadu Street, 5.Kadampoor (R.V) & (P), Kattukottai"
+131,78,131,Marur-605802,"Panchayat Union Elementary School, West Building East Wing, Marur-605802","1.Maroor (R.V) & (P), North Street,
+2.Maroor R.V) & (p), Middle Street,
+3.Maroor (R.V) & (P), West Street,
+4.Maroor (R.V) & (P), South Street,
+5.Maroor (R.V) & (P), East Street,
+6.Maroor (R.V) & (P), Colony kattukottai"
+132,78,132,Marur-605802,"Panchayat Union Elementary School, East
+Building West Wing, Marur-605802","1.Maroor (R.V) & (P), Maroor colony"
+133,78,133,Murur Pudur-605802,"Panchayat Union Elementary School, Murur Pudur-605802","1.Maroor (R.V) & (P), South Street,
+2.Maroor (R.V) & (P), North Street,
+3.Maroor (R.V) & (P), Colony,
+4.Maroor (R.V) & (P), Kattukottai,
+5.Maroor (R.V) & (P), Mettur"
+134,78,134,Periyapagandai-605801,"Panchayat Union Elementary School, South East Building, Periyapagandai-605801","1.Perriyabagandai (R.V) & (P), Mainroad, 2.Perriyabagandiyai (R.V) & (P), Marriyamman Koil Street, 3.Perriyabagandiyai (R.V) & (P), Santhu street, 4.Perriyabagandiyai (R.V) & (P), Street 2, 5.Perriyabagandai (R.V) & (P), Kattukotta"
+135,78,135,Periyapagandai-605801,"Panchayat Union Elementary School, South East Building, Periyapagandai-605801","1.Perriyabagandai (R.V) & (P), Colony Marriyamman Koil Street,
+2.Perriyabagandai (R.V) & (P), Colony pilliyar Koil Street"
+136,78,136,Eandal-605801,"Panchayat Union Elementary School, Eandal-605801","1.Enthal (R.V) & (P), North Street,
+2.Enthal (R.V) & (P), Middle Street,
+3.Enthal (R.V) & (P), South Street,
+4.Enthal (R.V) & (P), Mettu Street,
+5.Enthal (R.V) & (P), Thatambalayam Street,"
+137,78,137,Eandal-605801,"Government Adi Dravidar Welfare Middle School, South Building, North Facing, Endhal - 605801","1.Enthal (R.V) & (P), Colony Erikkarai Street,
+2.Enthal (R.V) & (P), Colony North Street,
+3.Enthal (R.V) & (P), Colony middle Street,
+4.Enthal (R.V) & (P), Colony Koil Street,
+5.Enthal (R.V) & (P), South Street,
+6.Enthal (R.V) & (P), Colony School Street"
+138,78,138,La Gudalur-606205,"Panchayat Union Middle School, South Building West Wing, La Gudalur-606205","1.La .koodaloor (R.V) & (P), South Street,
+2.La. koodaloor (R.V) & (P), Mettu Street,
+3.La. koodaloor (R.V) & (P), East Street,
+4.La .koodaloor (R.V) & (P), Colony South Street"
+139,78,139,La Gudalur-606205,"Panchayat Union Middle School, South Building West Wing, La Gudalur-606205","1.La. koodaloor (R.V) & (P), Colony North Street,
+2.La .koodaloor (R.V) & (P), Colony East Street, 3.La.kudalour (R.V) & (P), Lala pettai"
+140,78,140,La Gudalur-606205,"Panchayat Union Middle School, East Building, La Gudalur-606205","1.La .koodaloor (R.V) & (P), Mettu Street,
+2.La. koodaloor (R.V) & (P), East Street,
+3.La. koodaloor (R.V) & (P), North Street,
+4.La. koodaloor (R.V) & (P), South Street,
+5.La. koodaloor (R.V) & (P), West Street,
+6.La. koodaloor (R.V) & (P), Lalapattai"
+141,78,141,Keelathenur-606206,"Panchayat Union Middle School, North Building, South Facing, East wing, Keelathenur-606206","1.La.koodaloor (R.V) & (P), North Street,"
+142,78,142,Keelathenur-606206,"Panchayat Union Middle School, North Building South Face West Wing, Keelathenur-606206","1.La.koodaloor (R.V) & (P), South Street,
+2.La. koodaloor (R.V) & (P), South Street"
+143,78,143,Melathenur-606206,"Panchayat Union Elementray School, West Building, East facing, Melathenur - 606206","1.La.koodaloor (R.V) & (P), North Street,
+2.La .koodaloor (R.V) & (P), Saranthagal"
+144,78,144,Aviriyur-605801,"Panchayat Union Middle School, West Building, East Facing (Room No-6), Aviriyur-605801","1.Aviriyour (R.V) & (P), Mainroad,
+2.Aviriyour (R.V) & (P), South Street, 3.Aviriyour (R.V) & (P), North Street,"
+145,78,145,Aviriyur-605801,"Panchayat Union Middle School, West Building, East Facing (Room No-8), Aviriyur-605801","1.Aviriyour (R.V) & (P), Kattukottai, 2.Aviriyour (R.V) & (P), Colony North Street,
+3.Aviriyour (R.V) & (P), Marriyamman Koil Street, 4.Aviriyour (R.V) & (P), East Street,
+5.Aviriyour (R.V) & (P), Murugan Koil Street"
+146,78,146,Porpalaampattu-605801,"Kuzhandai Therasa Elementary School, Porpalaampattu-605801","1.Porbalabattu (r.v) & (p), MarriyammanKoilstreet, 2.Porpalampattu (R.V) & (P), Pilliyar Koil Street, 3.Porpalampattu (R.V) & (P), Mettu Street, 4.Porpalampattu (R.V)& (P), North Street, 5.Porpalampattu (R.V) & (P), Mainroad, 6.Porpalampattu (R.V) & (P), Old colony, 7.Porpalampattu (R.V) & (P), Kullathumettu Street, 8.Porpalampattu (R.V) & (P), New colony,
+9.Porpalampattu (R.V) & (P), Kattukottai"
+147,78,147,Yal-605801,"Panchayat Union Elementary School, East West Building, Yal-605801","1.Yal (R.V) & (P), Raja veedhi,
+2.Yal (R.V) & (P), East Santhu Street,
+3.Yal (R.V) & (P), Yakalar Street,
+4.Yal (R.V) & (P), West Street,
+5.Yal (R.V) & (P), Chettiyar Street,
+6.Yal (R.V) & (P), Mainroad,
+7.Yal (R.V) & (P), Kattukottai"
+148,78,148,Yal-605801,"Panchayat Union Elementary School, West Building South Wing, Yal-605801","1.Yall (R.V) & (P), Main road,
+2.Yal (R.V) & (P), Moopannar Koil Street,
+3.Yall (R.V) & (P), Middle Street,
+4.Yall (R.V) & (P), Ambathkar Street,
+5.Yal (R.V) & (P), South Street"
+149,78,149,Mayanur-605801,"Infant Jeesus High School, North Wing Room No-1, Mayanur-605801","1.Mayanoor (R.V) & (P), West Street,
+2.Mayanoor (R.V) & (P), Savadi Street,
+3.Mayanoor (R.V) & (P), Gyavour Street,
+4.Mayanoor (R.V) & (P), Middle Street,
+5.Mayanoor (R.V) & (P), East Street"
+150,78,150,Mayanur-605801,"Infant Jeesus High School, North Wing Room No-2, Mayanur-605801","1.Mayanoor (R.V) & (P), South Street,
+2.Mayanoor (R.V) & (P), Pulliyamarathukottai,
+3.Mayanoor (R.V) & (P), Yalariyeekottai"
+151,78,151,Mayanur-605801,"Infant Jeesus High School, West Building South Wing Room No-1, Mayanur-605801","1.Mayanoor (R.V) & (P), Mainroad,
+2.Mayanoor (R.V) & (P), Mettu Street,
+3.Mayanoor (R.V) & (P), Newmettu Street"
+152,78,152,Mayanur-605801,"Infant Jeesus High School, West Building South Wing Room No-2, Mayanur-605801","1.Mayanoor (R.V) & (P), Mayanoor colony,
+2.Mayanoor (R.V) & (P), Northkottai,
+3.Mayanoor (R.V) & (P), Singarathoppu"
+153,78,153,Melapazhangur-606205,"R.C.Middle School, New Building West Wing, Melapazhangur-606205","1.Malabazhgukoor (R.V) & (P), North Street, 2.Malabazhgukoor (R.V) & (P), West Street, 3.Malabazhgukoor (R.V) & (P), Middle Street, 4.Malabazhgukoor (R.V) & (P), East Street, 5.Malabazhgukoor (R.V) & (P), South Street, 6.Malabazhgukoor (R.V) & (P), New Colony West Street, 7.Malabazhgukoor (R.V) & (P), New colony Middle Street, 8.Malabazhgukoor (R.V) & (P), Murugan Koil Street"
+154,78,154,Melapazhangur-606205,"R.C.Middle School, New Building West East Wing, Melapazhangur-606205","1.Malabazhgukoor (R.V) & (P), Old colony Middle Street, 2.Malabazhgukoor (R.V) & (P), Old colony North Street, 3.Malabazhgukoor (R.V) & (P), Old Colony West Street, 4.Malabazhgukoor (R.V) & (P), New Colony East, 5.Malabazhgukoor (R.V) & (P), Kattukottai"
+155,78,155,Noorolai-606205,"Panchayat Union Middle School, Additional South Building, West Wing, Noorolai-606205","1.Nooralai (R.V) & (P), North Street,
+2.Nooralai (R.V) & (P), West Street,
+3.Nooralai R.V) & (P), Middle Street,
+4.Nooralai (R.V) & (P), East Street,
+5.Nooralai (R.V) & (P), South Street"
+156,78,156,Noorolai-606205,"Panchayat Union Middle School, Additional South Building West Wing, Noorolai-606205","1.Nooralai (R.V) & (P), Newcolony West Street,
+2.Nooralai (R.V) & (P), Newcolony Middle Street,
+3.Nooralai (R.V) & (P), Colony Murugan Koil Street,
+4.Noorolai (R.V) & (P), Old colony Middle Street,
+5.Nooralai (R.V) & (P), Colony North Street,
+6.Nooralai (R.V) & (P), Colony West Street,
+7.Nooralai (R.V) & (P), New colony East Street,
+8.Nooralai (R.V) & (P), Kattukodai"
+157,78,157,Keelpadi-606205,"Panchayat Union Elementary School, Centre Building, Keelpadi-606205","1.Keelpadi (R.V) & (P), East Street,
+2.Keelpadi (R.V) & (P), South Street,"
+158,78,158,Keelpadi-606205,"Panchayat Union Elementary School, Center Building, East facing, Keelpadi-606205","1.Keelpadi (R.V) & (P), Chithariyan Street,
+2.Keelpadi (R.V) & (P), West Street,
+3.Keelpadi (R.V) & (P), Roadu Street,
+4.Keelpadi (R.V) & (P), Middle Street,
+5.Keelpadi (R.V) & (P), Keelpadi colony"
+159,78,159,Keelpadi-606205,"Panchayat Union Elementary School, East Building West Wing, Keelpadi-606205","1.Keelpadi (R.V) & (P), East Street,
+2.Keelpadi (R.V) & (P), Roadu Street,
+3.Keelpadi (R.V) & (P), Middle Street"
+160,78,160,Keelpadi-606205,"Panchayat Union Elementary School, East Building, North Wing, West Facing, Keelpadi-606205","1.Keelpadi (R.V) & (P), West Street,
+2.Keelpadi (R.V) & (P), Theerovatheeamman Koil Street,
+3.Keelpadi (R.V) & (P), Ediyandhangal Erikarai street,
+4.Keelpadi (R.V) & (P), kongan Erikarai Street,
+5.Keelpadi (R.V) & (P), Keelpadi colony"
+161,78,161,Pasar-606205,"Panchayat Union Middle School, South
+Building, North Wing, Pasar-606205","1.Pasaar (R.V) & (P), East Street,"
+162,78,162,Pasar-606205,"Panchayat Union Middle School, South
+Building, North Facing, Pasar-606205","1.Pasaar (R.V) & (P), North Street"
+163,78,163,Pasar-606205,"Panchayat Union Middle School, South Building South Wing, Pasar-606205","1.Pasaar (R.V) & (P), Vinayagar Koil Street,
+2.Pasaar (R.V) & (P), Murugan kovil Street,
+3.Pasaar (R.V) & (P), South Street,
+4.Pasaar (R.V) & (P), Mainroad,
+5.Pasaar (R.V) & (P), Kulathumettu Street"
+164,78,164,Pasar-606205,"Adidravidar Middle School, Pasar-606205","1.Pasaar (R.V) & (P), pasaroor west Street,
+2.Pasaar (R.V) & (P), Pasar oour south Street,
+3.Pasaar (R.V) & (P), Pasar oour main road,
+4.Pasaar (R.V) & (P), Basar colony main Road,
+5.Pasaar (R.V) & (P), Pasar colony west Street,
+6.Pasaar (R.V) & (P), Pasar colony East Street,
+7.Pasaar (R.V) & (P), Basarcolony north Street,"
+165,78,165,Moongilanthangal - 606205,"Panchayat Union Elementary School, Moongilanthangal - 606205","1.Pasaar (R.V) & (P), M.Thangal north Street,
+2.Pasaar (R.V) & (P), M.Thangal ballivasal Street"
+166,78,166,Pasar-606205,"Adidravidar Middle School, North Building West Wing, Pasar-606205","1.Pasaar (R.V) & (P), Colony Main Road,
+2.Pasaar (R.V) & (P), Colony West Street,
+3.Pasaar (R.V) & (P), Colony North Street,
+4.Pasaar (R.V) & (P), Colony East Street"
+167,78,167,Pasar-606205,"Panchayath Uinion Middle School, South Building North Wing, Pasar-606205","1.Pasaar (R.V) & (P), Basar oour Middle Street,
+2.Pasaar (R.V) & (P), Basar oour west Street,
+3.Pasaar (R.V) & (P), Basar oour south Street,
+4.Pasaar (R.V) & (P), Basar oour Main Road"
+168,78,168,Sathaputur-606205,"Panchayat Union Elementary School, Sathaputur-606205","1.Sathaputhur (R.V) & (P), North Street, 2.Sathaputhur (R.V) & (P), Kottamithi Street, 3.Sathaputhur (R.V) & (P), Mariamman Koil Street, 4.Sathaputhur (R.V) & (P), East Street, 5.Sathaputhur (R.V) & (P), Kanakkar Street, 6.Sathaputhur (R.V) & (P), Ayyar Street,
+7.Sathaputhur (R.V) & (P), West Street"
+169,78,169,Sathaputur-606205,"Panchayat Union Elementary School, Sathaputur-606205","1.Sathaputhur (R.V) & (P), School Street, 2.Sathaputhur (R.V) & (p), Ward 2 south Street, 3.Sathaputhur (R.V) & (P), Udayar Street, 4.Sathaputhur (R.V) & (P), Colony Group house, 5.Sathaputhur (R.V) & (P), Colony, 6.Sathaputhur (R.V) & (P), Arunthathiyar colony"
+170,78,170,Pavandur-606205,"Panchayat Union Middle School, Pavandur-606205","1.Pavandur (R.V) & (P), Main Road,
+2.Pavandur (R.V) & (P), Rajaveethi,
+3.Pavandur (R.V) & (P), Sathaputhur Road,"
+171,78,171,Pavandur-606205,"Panchayat Union Middle School, South Building, North Facing, Pavandur-606205","1.Pavandur (R.V) & (P), Old Colony,
+2.Pavandur (R.V) & (P), New Colony,
+3.Pavandur (R.V) & (P), Pa.Thakka,
+4.Pavandur (R.V) & (P), Kattu Kottai"
+172,78,172,Peral-606205,"Panchayat Union Elementary School, Peral-606205","1.Peral (R.V) & (P), North Street,
+2.Peral (R.V) & (P), Manmathan Koil Street,
+3.Peral (R.V) & (P), West Street,
+4.Peral (R.V) & (P), Middle Street,
+5.Peral (R.V) & (P), Pllaiyar Koil Street,
+6.Peral (R.V) & (P), South Street,
+7.Peral (R.V) & (P), Peral colony"
+173,78,173,Chittal-606205,"Panchayat Union Elementary School, South Building, Chittal-606205","1.Sithal (R.V) & (P), North street,
+2.Sithal (R.V) & (P), West street,
+3.Sithal (R.V) & (P), South Street"
+174,78,174,Chittal-606205,"Panchayat Union Elementary School, South Building, Chittal-606205","1.Sithal (R.V) & (P), East Street,
+2.Sithal (R.V) & (P), Main road,
+3.Sithal (R.V) & (P), Sithal colony"
+175,78,175,Palayasiruvangur-606206,"Panchayat Union Middle School, North Building East Wing, Palayasiruvangur-606206","1.Pazhayasiruvangur (R.V) & (P), North Street, 2.Pazhayasiruvangur (R.V) & (P), Mettu Street, 3.Pazhayasiruvangur (R.V) & (P), SivanKoil Street, 4.Pazhayasiruvangur (R.V) & (P), Middle Street, 5.Pazhayasiruvangur (r.v) & (p), South Street, 6.Pazhayasiruvangur (R.V) & (P), M.G.R.Nagar, 7.Pazhayasiruvangur (R.V) & (P), Mnthagapalayam Kattukottai"
+176,78,176,Palayasiruvangur-606206,"Panchayat Union Middle School, North South Wing, Palayasiruvangur-606206","1.Pazhayasiruvangur (R.V) & (P), Colony North Street, 2.Pazhayasiruvangur (R.V) & (P), Ward 2 Colony Middle Street,
+3.Pazhayasiruvangur (R.V) & (P), Colony Mariamman Koil
+Street"
+177,78,177,Palayasiruvangur-606206,"Panchayat Union Middle School, North South
+Wing, Palayasiruvangur-606206","1.Pazhayasiruvangur (R.V) & (P), Colony south Street,
+2.Pazhayasiruvangur (R.V) & (P), New colony"
+178,78,178,Thondananthal-606206,"Panchayat Union Middle School, South Building, Thondananthal-606206","1.Pazhayasiruvangur (R.V)& (P) Thondananthal, North Street, 2.Pazhayasiruvangur (R.V) & (P) Thondananthal, School Street,
+3.Pazhayasiruvangur (R.V) & (P) Thondananthal, Matha Koil Street,
+4.Pazhayasiruvangur (R.V) & (P) Thondananthal, South Street,
+5.Pazhayasiruvangur (P) Thondananthal, Ward 5 Colony Street,
+6.Pazhayasiruvangur (R.V) & (P) Thondananthal, Kulathu Mettu Street,
+7.Pazhayasiruvangur (R.V) & (P) Thondananthal, Kattukottai"
+179,78,179,Chitheripattu-606206,"Government Higher Sec School, Chitheripattu-606206","1.Sitheripattu (R.V)& Pazhayasiruvangour (P), Sitheripattu South Street,
+2.Sittaripattu (R.V)& pazhayasiruvangur (p), Sitheripattu thiyagadurgam mainroad,
+3.Sittaripattu (R.V) &Pazhayasiruvangur (P), Sitheripattu North Street,
+4.Sittaripattu (R.V)& Pazhayasiruvangur (P), Singarapettai south Street,
+5.Sittaripattu (R.V)& pazhayasiruvangur (p), Sithal main Road, 6.Sittaripattu (R.V) & Pazhayasiruvangour (P), Singarapettai north Street,
+7.Sitheripattu (R.V)& Pazhayasiruvangour (P), Singarapettai Kattukottai,
+8.Sitheripattu (R.V) &Pazhayasiruvangour (P), Gandhi Nagar"
+180,78,180,Soolangurichi-606206,"Panchayat Union Middle School, West Building North Wing, Soolangurichi-606206","1.Soolankurichi (R.V) & (P), Sankarapuram Road, 2.Soolankurichi (R.V) & (P), Vaikkal Street, 3.Soolankurichi (R.V) & (P), PerumalKoil Street, 4.Soolankurichi (R.V) & (P), Pillaiyar Koil Street, 5.Soolankurichi (R.V) & (P), Masoothi Street"
+181,78,181,Soolangurichi-606206,"Panchayat Union Middle School, West Building South Wing, Soolangurichi-606206","1.Soolankurichi (R.V) & (P), East Street,
+2.Soolankurichi (R.V) & (P), West Street, 3.Soolankurichi (R.V) & (P), Barathi Nagar"
+182,78,182,Soolangurichi-606206,"Panchayat Union Middle School, Soolangurichi-
+606206","1.Soolangurichi (R.V) & (P), Colony Mariamman Koil Street"
+183,78,183,Soolangurichi-606206,"Panchayat Union Middle School, Soolangurichi-
+606206","1.Soolangurichi (R.V) & (P), Colony Middle Street,
+2.Soolangurichi (R.V) & (P), New Colony"
+184,78,184,So.Palapattu-606206,"Panchayat Union Elementary School,
+So.Palapattu-606206","1.Sulangurichi (R.V) & (P), Su.Palapattu"
+185,78,185,Su.Rayapuram-606206,"Panchayat Union Elementary School, Su.Rayapuram-606206","1.Sulangurichi (R.V) & (P), Kattu Kottai, 2.Sulangurichi (R.V) & (P), Su.Rayapuram, 3.Sulangurichi (R.V) & (P), Dam Kudiyiruppu,
+4.Sulangurichi (R.V) & (P), Lurthu Nagar"
+186,78,186,Pallipattu-606206,"Panchayat Union Middle School, New Building West Wing, Pallipattu-606206","1.Pallipattu (R.V) & (P), North Street, 2.Pallipattu (R.V) & (P), South Street"
+187,78,187,Pallipattu-606206,"Panchayat Union Middle School, New Building West Wing, Pallipattu-606206","1.Pallipattu (R.V) & (P), Colany,
+2.Pallipattu (R.V) & (P), Arunthathiyar colony, 3.Pallipattu (R.V) & (P), Indhiranagar Kattukottai"
+188,78,188,Velanandal-606206,"Panchayat Union Middle School, East Building West Facing, Velanandal-606206","1.Velananthal (R.V) & (P), North Street, 2.Velananthal (R.V) & (P), South Street, 3.Velananthal (R.V) & (P), Main Road,
+4.Velananthal (R.V) & (P), Kattukottai Street,"
+189,78,189,Velanandal-606206,"Panchayat Union Middle School, Additional Building, South Building, East facing, Velanandal-606206","1.Velananthal (R.V) & (P), Old colony, 2.Velananthal (R.V) & (P), Ambedkar Road, 3.Velananthal (R.V) & (P), New Colony"
+190,78,190,Palagacherry-606206,"Panchayat Union Primary School, West Building North Wing, Palagacherry- 606206","1.Pallagacheri (R.V) & (P), Pallagacheri Colony East Side, 2.Pallagacheri (R.V) & (P), Main Road,
+3.Pallagacheri (R.V) & (P), East Street"
+191,78,191,Palagacherry-606206,"Panchayat Union Primary School, East Building South Wing, Palagacherry- 606206","1.Pallagacheri (R.V) & (P), North Street, 2.Pallagacheri (R.V) & (P), Mettu Street, 3.Pallagacheri (R.V) & (P), Perumal Koil Street, 4.Pallagacheri (R.V) & (P), Pramanar Otrai Street, 5.Pallagacheri (R.V) & (P), South Street, 6.Pallagacheri (R.V) & (P), Kattu kottagai"
+192,78,192,Palagacherry-606206,"Panchayat Union Primary School, East Building North Wing, Palagacherry- 606206","1.Pallagacheri (R.V) & (P), Pallagacheri Colony West Side, 2.Pallagacheri (R.V) & (P), Middle Street"
+193,78,193,Palagacherry-606206,"Panchayat Union Primary School, North Building, South Facing, Palagacherry- 606206","1.Pallagacheri (R.V) & (P), Moola Sandu, 2.Pallagacheri (R.V) & (P), South Street, 3.Pallagacheri (R.V) & (P), North Street,
+4.Pallagacheri (R.V) & (P), Mariyamman Koil Street"
+194,78,194,Pudhupallagacheri-606206,"Panchayat Union Elementary School, Pudhupallagacheri-606206","1.Pallagacheri (R.V) & (P), New Pallagacheri Pillaiyar Koil Street,
+2.Pallagacheri (R.V) & (P), New Pallagacheri North Street, 3.Pallagacheri (R.V) & (P), New Pallagacheri Main Road"
+195,78,195,Kalayanallur-606206,"Panchayat Union Elementary School, North Buliding West Wing, Kalayanallur- 606206","1.Peelamedu (R.V) & (P), Kattukottai,
+2.Peelamedu (R.V) & (P), Kanayanallur Main Road, 3.Peelamedu (R.V) & (P), Manthaiveli,
+4.Peelamedu (R.V) & (P), Mettukuppam North Street, 5.Peelamedu (R.V) & (P), Mettu kuppam South Street,
+6.Peelamedu (R.V) & (P), Main Road"
+196,78,196,Kalayanallur-606206,"Panchayat Union Elementary School, South Building, Kalayanallur-606206","1.Peelamedu (R.V) & (P), Kalayanallur East Street, 2.Peelamedu (R.V) & (P), Kalayanallur North Street, 3.Peelamedu (R.V) & (P), Mariyamman Koil Street, 4.Peelamedu (R.V) & (P), Pillaiyar Koil Street, 5.Peelamedu (R.V) & (P), Middle Street, 6.Peelamedu (R.V) & (P), South Street, 7.Peelamedu (R.V) & (P), Colony East Street,
+8.Peelamedu (R.V) & (P), Colony West Street"
+197,78,197,Peelamedu -606206,"Panchayat Union Primary School, East Building West Facing Room No.1, Peelamedu - 606206","1.Peelamedu (R.V) & (P), Konar Street, 2.Peelamedu (R.V) & (P), Mariyamman Koil Street, 3.Peelamedu (R.V) & (P), North Street, 4.Peelamedu (R.V) & (P), East Street, 5.Peelamedu (R.V) & (P), Kattukottai, 6.Peelamedu (R.V) & (P), Asari Street, 7.Peelamedu (R.V) & (P), Kamarajar Street, 8.Peelamedu (R.V) & (P), Anna Nagar Street,
+9.Peelamedu (R.V) & (P), Thiruvalluvar Street"
+198,78,198,Peelamedu -606206,"Panchayat Union Primary School, East Building West Facing Room No.2, Peelamedu - 606206","1.Peelamedu (R.V) & (P), Muslim Street,
+2.Peelamedu (R.V) & (P), Colony Mariyamman Koil Street, 3.Peelamedu (R.V) & (P), Colony Periyar Street, 4.Peelamedu (R.V) & (P), Ambethkar Street,
+5.Peelamedu (R.V) & (P), West Street, 6.Peelamedu (R.V) & (P), Thangal South Street,
+7.Peelamedu (R.V) & (P), Thangal Pillaiyar Koil Street"
+199,78,199,Munivazhai-606205,"Panchayat Union Elementary School, South Building, Munivazhai-606205","1.Munivazhai (R.V) & (P), Colony East Street, 2.Munivazhai (R.V)& (P), Colony South Street, 3.Munivazhai (R.V) & (P), Colony West Colony, 4.Munivazhai (R.V) & (P), Colony North Street,
+5.Munivazhai (R.V) & (P), New Colony"
+200,78,200,Munivazhai-606205,"Panchayat Union Elementary School, North Building, South Facing, Munivazhai-606205","1.Munivazhai (R.V) & (P), East Street, 2.Munivazhai (R.V) & (P), South Street,
+3.Munivazhai (R.V) & (P), West Street,"
+201,78,201,Munivazhai-606205,"Panchayat Union Elementary School, North Building, South Facing, Munivazhai-606205","1.Munivazhai (R.V) & (P), North Street, 2.Munivazhai (R.V) & (P), Nadu Street, 3.Munivazhai (R.V) & (P), Subramaniyar Street"
+202,78,202,Perividayampattu-606205,"Panchayat Union Middle School, East Building, Perividayampattu-606205","1.Pirividayampattu (R.V) & (P), Mariamman Koil Street, 2.Pirividayampattu (R.V) & (P), Colonny Middle Street, 3.Pirividayampattu (R.V) & (P), New Colony,
+4.Pirividayampattu (R.V) & (P), Colony East Street"
+203,78,203,Perividayampattu-606205,"Panchayat Union Middle School, East Building, Perividayampattu-606205","1.Pirividayampattu (R.V) & (P), North Street, 2.Pirividayampattu (P) & (R.V), Middle Street, 3.Pirividayampattu (R.V) & (P), East Street,
+4.Allipath (R.V) Pirividayampattu (P), Aliyapath East Street, 5.Alliyapath (R.V) Pirividayampattu (P), Aliyapath Middle Street"
+204,78,204,Mandagapadi-606205,"Panchayat Union Middle School, New Building, Mandagapadi-606205","1.Mandagapadi (R.V) & (P), North Street, 2.Mandagapadi (R.V) & (P), Middle Street, 3.Mandagapadi (R.V) & (P), West Street, 4.Mandagapadi (R.V) & (P), South Street,
+5.Mandagapadi (R.V) & (P), Ottar Street"
+205,78,205,Mandagapadi-606205,"Panchayat Union Middle School, New Building,
+Mandagapadi-606205","1.Mandagapadi (R.V) & (P), East Street,
+2.Mandagapadi (R.V) & (P), Colony Karunanithi Street"
+206,78,206,Vengalam-606205,"Panchayat Union Elementary School, Vengalam-606205","1.Vengalam (R.V) & (P), East Street,
+2.Vengalam (R.V) & (P), Mariamman Koil Street,
+3.Vengalam (R.V) & (P), Middle Street,
+4.Vengalam (R.V) & (P), South Street,
+5.Vengalam (R.V) & (P), West Street,"
+207,78,207,Vengalam-606205,"Panchayat Union Elementary School, South Building, North Facing, Vengalam-606205","1.Vengalam (R.V) & (P), Old Colony,
+2.Vengalam (R.V) & (P), New Colony"
+208,78,208,Muttiyam-606205,"Panchayat Union Elementary School, Muttiyam-606205","1.Muttiyam (R.V) & (P), East Street,
+2.Muttiyam (R.V) & (P), North Street,
+3.Muttiyam (r.v) & (P), North Street,
+4.Muttiyam (R.V) & (P), Middle Street,
+5.Muttiyam (R.V) & (P), South Street,
+6.Muttiyam (R.V) & (P), Main Road,
+7.Muttiyam (R.V) & (P), Colony"
+209,78,209,Rishivandiyam-606205,"Government Higher Secondary School, North Building West Wing, Rishivandiyam-606205","1.Rishivandiyam (R.V) & (P), North Street, 2.Rishivandiyam (R.V) & (P), Munivazhai Road, 3.Rishivandiyam (R.V) & (P), Samundeeswari Street"
+210,78,210,Rishivandiyam-606205,"Government Higher Secondary School, North Building East Wing, Rishivandiyam-606205","1.Rishivandiyam (R.V) & (P), East Street, 2.Rishivandiyam (R.V) & (P), Kamarajar Street, 3.Rishivandiyam (R.V) & (P), Karunithi Street, 4.Rishivandiyam (R.V) & (P), Market Street, 5.Rishivandiyam (R.V) & (P), Nehru Street,
+6.Rishivandiyam (R.V) & (P), M.G.Road West Street"
+211,78,211,Rishivandiyam-606205,"Panchayat Union Elementary School, East New Building North Wing, Rishivandiyam-606205","1.Rishivandiyam (R.V) & (P), Karunanithi Street, 2.Rishivandiyam (R.V) & (P), Kamarajar Street, 3.Rishivandiyam (R.V) & (P), Nehru Street, 4.Rishivandiyam (R.V) & (P), Market Street, 5.Rishivandiyam (R.V) & (P), Pallivasal Street, 6.Rishivandiyam (R.V) & (P), IndiraGandhi Street, 7.Rishivandiyam (R.V) & (P), Barathi Street"
+212,78,212,Rishivandiyam-606205,"Panchayat Union Elementary School, East New Building South Wing, Rishivandiyam-606205","1.Rishivandiyam (R.V) & (P), Durugam Road, 2.Rishivandiyam (R.V) & (P), Ariyanthakka salai, 3.Rishivandiyam (R.V) & (P), Kulathu Mettu Street,
+4.Rishivandiyam (R.V) & (P), Passar street"
+213,78,213,Rishivandiyam-606205,"Panchayat Union Elementary School, South Building East Wing North Facing, Rishivandiyam-606205","1.Rishivandiyam (R.V) & (P), Colony, 2.Rishivandiyam (R.V) & (P), Anna Street, 3.Rishivandiyam (R.V) & (P), West Street,
+4.Rishivandiyam (R.V) & (P), Kamarajar Street"
+214,78,214,Ariyanthakka-606205,"Panchayat Union Elementary School, Ariyanthakka-606205","1.Rishivandiyam (R.V) & (P), Ariyanthakka North Street, 2.Rishivandiyam (R.V) & (P), Ariyanthakka Mariyamman Koil Street,
+3.Rishivandiyam (R.V) & (P), Ariyanthakka South Street"
+215,78,215,Rishivandiyam-606205,"Panchayat Union Elementary School, New Building West Wing, Rishivandiyam-606205","1.Rishivandiyam (R.V) & (P), New Colony, 2.Rishivandiyam (R.V) & (P), Vedanatham"
+216,78,216,Rishivandiyam-606205,"Panchayat Union Elementary School, East New Building South Wing, Rishivandiyam-606205","1.Rishivandiyam (r.v) & (p), Annadurai Street, 2.Rishivandiyam (R.V) & (P), West Street"
+217,78,217,Melanthal-605754,"Panchayat Union Middle School, Melanthal-605754","1.Melandal (R.V) & (P), Colony Main Road,
+2.Melandal (R.V) & (P), Mannar Street,
+3.Melandal (R.V) & (P), Thiruvannamalai Main Road,
+4.Melandal (R.V) & (P), Kesavan Street,
+5.Melandal (R.V) & (P), Vazhavachanur salai,
+6.Melandal (R.V) & (P), North Street"
+218,78,218,Melanthal-605754,"Panchayat Union Middle School, Melanthal-605754","1.Melandal (R.V) & (P), Rice Mill street,
+2.Melandal (R.V) & (P), North Kattukotta,
+3.Melandal (R.V) & (P), Murugan Koil street,
+4.Melandal (R.V) & (P), Ambethkar Street,
+5.Melandal (R.V) & (P), Pillaiyar Koil Street,
+6.Melandal (R.V) & (P), Mariyamman Koil Street,
+7.Melandal (R.V) & (P), Muppanar Koil Street"
+219,78,219,Melanthal-605754,"Panchayat Union Middle School, Melanthal-605754","1.Melandal (R.V) & (P), ThiruKoilur Main Road,
+2.Melandal (r.v) & (p), Middle street,
+3.Melandal (R.V) & (P), East Street,
+4.Melandal (R.V) & (P), South Street"
+220,78,220,Kangiyanur-605754,"Panchayat Union Middle School, Kangiyanur-605754","1.Kangiyanur (R.V) & (P), Raja Veethi, 2.Kangiyanur (R.V) & (P), Gandhi Street, 3.Kangiyanur (R.V) & (P), North Street, 4.Kangiyanur (R.V) & (P), Neerady Street, 5.Kangiyanur (R.V) & (P), Sivan Koil Street, 6.Kangiyanur (R.V) & (P), Perumal Koil Street, 7.Kangiyanur (R.V) & (P), School Street, 8.Kangiyanur (R.V) & (P), South Veethi, 9.Kangiyanur (R.V) & (P), Kalathumetu Street,
+10.Kangiyanur (R.V) & (P), Kalathumettu North street"
+221,78,221,Kangaiyanur-605754,"Panchayat Union Elementary School, South Building North Facing Colony, Kangaiyanur-605754","1.Kangiyanur (R.V) & (P), Alamaram Street, 2.Kangiyanur (P), Mariyamman Koil Street, 3.Kangiyanur (R.V) & (P), Vinayagar Koil Street, 4.Kangiyanur (R.V) & (P), Thaneerthotti Street, 5.Kangiyanur (R.V) & (P), Middle Street, 6.Kangiyanur (R.V) & (P), North Street,
+7.Kangiyanur (R.V) & (P), Kandiyakuppam Road Street,
+8.Kangiyanur (R.V) & (P), Muniyappan Koil Street (W),"
+222,78,222,Kangaiyanur-605754,"Panchayat Union Elementary School, South Building, North facing, Colony, Kangaiyanur-605754","1.Kangiyanur (R.V) & (P), Palla Collony Middle Street, 2.Kangiyanur (R.V) & (P), Kathansammy street, 3.Kangiyanur (R.V) & (P), Road Street,
+4.Kangiyanur (R.V) & (P), Muniyappan Koil Street, 5.Kangiyanur (R.V) & (P), West Street, 6.Kangiyanur (R.V) & (P), East Street, 7.Kangiyanur (R.V) & (P), South Street,
+8.Kangiyanur (R.V) & (P), Pallichandal Road"
+223,78,223,Pallichandal-605757,"Panchayat Union Elementary School, Pallichandal-605757","1.Pallichandal (R.V) & Jambai (P), North Street, 2.Pallichandal (R.V) & Jambai (P), Annasilai veethi, 3.Pallichandal (R.V) & Jambai (P), Pillaiyar Koil Veethi, 4.Pallichandal (R.V) & Jambai (P), East Veethi, 5.Pallichandal (R.V) & Jambai (P), South Street, 6.Pallichandal (R.V) & Jambai (P), Kattu Kotta,
+7.Pallichandal (R.V) & Jambai (P), Pazhaya oor"
+224,78,224,Atthiyanthal-605754,"Government High School, New Building South Facing West Wing First Room, Atthiyanthal-605754","1.Athiyandal (R.V) & (P), North Street, 2.Athiyandal (R.V) & (P), School Street, 3.Athiyandal (R.V) & (P), Bajanai Koil Street, 4.Athiyandal (R.V) & (P), South Street,
+5.Athiyandal (R.V) & (P), Madhurai Veeran Koil street, 6.Athiyandal (R.V) & (P), Pallak colony,
+7.Athiyandal (R.V) & (P), Gandhi street colony, 8.Athiyandal (R.V) & (P), Arunthathiyar colony Mettustreet, 9.Athiyandal (R.V) & (P), Mariyamman Koil Street, 10.Athiyandal (R.V) & (P), Mettu Street No 2, 11.Athiyandal (R.V) & (P), Mettu Street No.3, 12.Athiyandal (R.V) & (P), Main Road"
+225,78,225,Murugampadi -605754,"Government High School, South Building, Murugampadi -605754","1.Murukampady (R.V) & (P), Main Road,
+2.Murukampady (R.V) & (P), Pillaiyar Koil Street, 3.Murukampadi (R.V) & (P), North Street,"
+226,78,226,Murugampadi -605754,"Panchayat Union Elementary School, West Building, North Wing, East Facing, Murukampadi - 605754","1.Murukampadi (R.V) & (P), Annanagar,  2.Murukampadi (R.V) & (P), Iyyasammy Gonar kotta, 3.Murukampadi (R.V) & (P), Oom Rajarajeswary alayam"
+227,78,227,Murugampadi -605754,"Panchayat Union Elementary School, West Building, South Bilding, Murugampadi - 605754","1.Konganamoor (R.V) & Murukkampadi (P), Mariyamman kovil south street,
+2.Konganamoor (R.V) & Murukkampadi (P), MathaKoil street, 3.Konganamoor (R.V) & Murukkampadi (P), Mariyamman Koil street,
+4.Konganamoor (R.V) & Murukkampadi (P), Pillaiyar Koil street,
+5.Konganamoor (R.V) & Murukkampadi (P), Metu theru, 6.Kaganamoor (R.V) & Murukkampadi (P), Mettu theru"
+228,78,228,Konganamoor - 605754,"Panchayat Union Elementary School, West Building, North Wing, East Facing, Konganamoor - 605754","1.Konganamoor (R.V) & Murukkampadi (P), North street, 2.Konganamoor (R.V) & Murukkampadi (P), Main road, 3.Konganamoor (R.V) & Murukkampadi (P), Mariyamman Koil street,
+4.Kaganoor (R.V) & Murukkampadi (P), Old colony north street,
+5.Konganamoor (R.V) & Murukkampadi (P), Mariyamman Koil street,
+6.Konganamoor (R.V) & Murukkampadi (P), South street, 7.Konganamoor (R.V) & Murukkampadi (P), Water tank street, 8.Konganamoor (R.V) & Murukkampadi (P), Mintank street, 9.Konganamoor (R.V) & Murukkampadi (P), M.G.R nagar 1st street,
+10.Kanganamoor (R.V) & Murukkampadi (P), M.G.R.Nagar 1st Street"
+229,78,229,Devaradiyarakuppam-605754,"Panchayat Union Middle School, South Building East Wing, Devaradiyarakuppam-605754","1.Devaradiyar Kuppam (R.V) & (P), Periyar Street, 2.Devaradiyar Kuppam (R.V) & (P), Gengaiyamman Koil Street,
+3.Devaradiyar Kuppam (R.V) & (P), Bharathiyar Street, 4.Devaradiyar Kuppam (R.V) & (P), V.O.C Street, 5.Devaradiyar Kuppam (R.V) & (P), Rajaji Street, 6.Devaradiyar Kuppam (R.V) & (P), Thiruvalluvar Street, 7.Devaradiyar Kuppam (R.V) & (P), Kambar Street"
+230,78,230,Devaradiyarakuppam-605754,"Panchayat Union Middle School, West Building South Wing, Devaradiyarakuppam-605754","1.Devaradiyar Kuppam (R.V) & (P), Kamaraj Street, 2.Devaradiyar Kuppam (R.V) & (P), Colony Main Road, 3.Devaradiyar Kuppam (R.V )& (P), North Street Santhu (colony),
+4.Devaradiyar Kuppam (R.V) & (P), North Street Colony, 5.Devaradiyar Kuppam (R.V) & (P), Middle Street colony, 6.Devaradiyar Kuppam (R.V) & (P), South Street Colony, 7.Devaradiyar Kuppam (R.V) & (P), Group House part colony, 8.Devaradiyar Kuppam (R.V) & (P), Anna Street"
+231,78,231,Jambai-605757,"Panchayat Union Middle School, North Building, East Wing, Jambai-605754","1.Jambai (R.V) & (P), East Street,
+2.Jambai (R.V) & (P), Eswaran Koil Street,
+3.Jambai (R.V) & (P), Melnattham New Street,
+4.Jambai (R.V) & (P), Murugan Koil Street,"
+232,78,232,Jambai-605757,"Panchayat Union Middle School, North Building, East Wing, South Facing, Jambai-605754","1.Jambai (R.V) & (P), North Street,
+2.Jambai (r.v) & (p), Mettu street,
+3.Jambai (R.V) & (P), Savaan Koil street,
+4.Jambai (R.V) & (P), Pillaiyar Koil Street"
+233,78,233,Jambai (Karunasettithangal) - 605754,"Panchayat Union Elementary School, North Building, East Wing, South Facing, Jambai (Karunasettithangal) -605754","1.Jambai (R.V) & (P), Pillaiyar Koil Street,
+2.Jambai (R.V) & (P), West Street,
+3.Jambai (R.V) & (P), Middle Street,
+4.Jambai (R.V) & (P), North Street"
+234,78,234,Jambai -605754,"Panchayat Union Middle School, North Building, East Wing, South Facing, Jambai-605754","1.Jambai (R.V) & (P), Jambai Colony 1st Street,
+2.Jambai (R.V) & (P), Jambai colony 2nd Street,
+3.Jambai (R.V) & (P), Jambai Colony 3rd Street,
+4.Jambai (R.V) & (P), Jambai colony 4th Street,
+5.Jambai (R.V) & (P), Jambai colony 5th Street,
+6.Jambai (R.V) & (P), Jambai colony 6th street,
+7.Jambai (R.V) & (P), Jambai Colony 7th Street"
+235,78,235,Sellankuppam-605754,"Panchayat Union Elementary School, Sellankuppam-605754","1.Chellan kuppam (R.V) & Devaradiyar Kuppam (P), Main Road,
+2.Chellan kuppam (R.V) & Devaradiyar Kuppam (P), New Street,
+3.Chellan Kuppam (R.V) & Devaradiyar Kuppam (P), Middle Street,
+4.Chellean Kuppam (R.V) & Devaradiyar Kuppam (P), Kullathu Mettu Street,
+5.Chellan Kuppam (R.V) & Devaradiyar Kuppam (P), Reshan shope street,
+6.Chellan Kuppam (R.V) & Devaradiyar Kuppam (P), Mariyamman Koil Street,
+7.Chellan Kuppam (R.V) & Devaradiyar Kuppam (P), Indra
+Nagar"
+236,78,236,Manalurpettai -605754,"Panchayat Union Elementary School, (Urudu ), Manalurpettai - 605754","1.Manalurpet (T.P), Ward 1 Bazzar street,
+2.Manalurpettai (Town Panchayat), Ward 1 Muniyappan Koil Street,
+3.Manalurpettai (Town Panchayat), Ward 1 New street santhu, 4.Manalurpet (Town Panchayat), Ward 1 New Street, 5.Manalurpet (TP), Ward 1 Santhu Street,
+6.Manalurpet (TP), Ward 1 Serkan Chetty Street, 7.Manalurpettai (TP), Ward 3 Colony Mariyamman Koil Street, 8.Manalurpet (TP), Ward 1 Kory Street,
+,"
+237,78,237,M.Vadakkuthangal - 605754,"Panchayat Union Elementary School, M.Vadakkuthangal - 605754","1.Manalurpet (TP), Ward 2 Pillaiyar Koil Street,
+2.Manalurpet (TP), Ward 2 Mariyamman Koil Street 3.Manalurpet (TP), Ward 1 Periya Koil Street"
+238,78,238,Manalurpettai-605754,"Panchayat Union Elementary School, West Building, Manalurpettai-605754","1.Manalurpet (TP), Ward 6 Sennai thalaivar Veethy, 2.Manalurpet (TP), Ward 5 Ammachar Koil Street, 3.Manalurpet (TP), Ward 5 Haneef Sayabu Street, 4.Manalurpet (TP), Ward 6 Nattar Veethy, 5.Manalurpet (TP), Ward 6 Nattar Veethy Santhu, 6.Manalurpet (TP), Ward 5 Koodu Chettypalaiyam,
+7.Manalurpet (TP), Ward 6 Kakka Mandapam Veethy,"
+239,78,239,Manalurpettai-605754,"Panchayat Union Elementary School, West Building, East facing, Manalurpettai-605754","1.Manalurpet (TP), Ward 4 New Colony North Street, 2.Manalurpet (TP), Ward 4 Newcolony South Street, 3.Manalurpet (TP), Ward 4 Matha Koil Santhu, 4.Manalurpet (TP), Ward 4 New Colony Northwest Street, 5.Manalurpet (TP), Ward 4 Muppanar Koil East Santhu, 6.Manalurpet (TP), Ward 4 Muppanar Koil Street, 7.Manalurpet (TP), Ward 4 Avuri Thottam"
+240,78,240,Manalurpettai-605754,"Panchayat Union Elementary School, Manalurpettai-605754","1.Manalurpettai (TP), Ward 7 Mariyamman Koil Street, 2.Manalurpettai (TP), Ward 8 Sosaitti Street, 3.Manalurpettai (TP), Ward 8 Perumal Koil North Street Agrakaram,
+4.Manalurpettai (TP), Ward 9 Road Santhu Street, 5.Manalurpettai (TP), Ward 8 Perumal Koil Street, 6.Manalurpettai (TP), Ward 8 Perumal Koil Keezhpura Veethi, 7.Manalurpettai (TP), Ward 9 Keezh Agragaram"
+241,78,241,Manalurpettai-605754,"Panchayat Union Elementary School, Manalurpettai-605754","1.Manalurpettai (TP), Ward 9 Main Road Street, 2.Manalurpettai (TP), Ward 9 Road Street, 3.Manalurpettai (TP), Ward 8 Bharathi Street, 4.Manalurpettai (TP), Ward 10 Santhaimedu, 5.Manalurpettai (TP), Ward 10 New Street Santhaimedu, 6.Manalurpettai (TP), Ward 10 EswaranKoil Street Santhuveethi,
+7.Manalurpettai (TP), Ward 10 Eswaran Koil Street, 8.Manalurpettai (TP), Ward 8 Satharathu Veethi"
+242,78,242,Manalurpettai-605754,"Danish Mission Elementary School, North Building, West Wing, Manalurpettai -605754","1.Manalurpet (T.P), Ward 8 Sathirathu Veethi North, 2.Manalurpet (T.P), Ward 12 Main Road Tiruvannamalai Road,
+3.Manalurpet (T.P), Ward 13 Saliyar Street (North), 4.Manalurpet (T.P), Ward 12 Muniyappar Koil street santhu, 5.Manalurpet (T.P), Ward 12 Muniyappar Koil sempadavar lane,
+6.Manalurpet (T.P), Ward 14 Saniyar Street East, 7.Manalurpet (T.P), Ward 15 Sanayar Street west, 8.Manalurpet (T.P), Ward 12 M.G.R Nagar, 9.Manalurpet (T.P), Ward 11 Saliar street lane, 10.Manalurpet (T.P), Ward 11 Salier Street West, 11.Manalurpet (T.P), Ward 11 South street, 12.Manalurpet (T.P), Ward 10 Eswaran Koil street"
+243,78,243,Manalurpettai -605754,"Danish Mission Elementary School, Manalurpettai -605754","1.Manalurpet (S.P), ward-13 Madathu Street, 2.Manalurpet (T.P), Ward 13 Settiyar Street, 3.Manalurpet (T.P), Ward 13 Iyyanar Koil Street, 4.Manalurpet (T.P), Ward 13 Kammalar veethi, 5.Manalurpet (T.P), Ward 14 Suluku Vinayagar street, 6.Manalurpet (T.P), Ward 14 Seniyar veethi santhu, 7.Manalurpet (S.P), Ward 15 Main Road, 8.Manalurpet (T.P), Ward 15 Theatre veethi, 9.Manalurpettai (T.P), Ward 15 Sellakuppam Street,
+10.Manalurpet (T.P), Ward 15 Gnanappathan thangal North, 11.Manalurpet (T.P), Ward 15 Gnanapathan thangal South street"
+244,78,244,Chitapatinam-605754,"Government Girls Higher Secondary School, North Building, South Facing,Chitapatinam - 605754","1.Sithapattinam (R.V) & (P), S.Vadakuthangal Mariyamman Koil Street,
+2.Sithapattinam (R.V) & (P), S. Vadakuthankal Mariyamman Koil North,
+3.Sithapattinam (R.V) & (P), Mariyamman Koil Street"
+245,78,245,Chitapatinam-605754,"Panchayat Union Elementary School, Chitapatinam-605754","1.Sithapattinam (R.V) & (P), Ramasamy Street, 2.Sithapattinam (R.V) & (P), Eswaran Koil Street, 3.Sithapattinam (R.V) & (P), Thiralapathi amman Koil Street, 4.Sithapattinam (R.V) & (P), Perumal Koil North Street, 5.Sithapattinam (R.V) & (P), Middle Street,
+6.Sithapattinam (R.V) & (P), Perumal Koil Street (South), 7.Sithapattinam (R.V) & (P), Periyayee Koil Street, 8.Sithapattinam (R.V) & (P), Sellankuppam Street"
+246,78,246,Chitapatinam-605754,"Government Girls Higher Secondary School, North Building, South Facing,Chitapatinam - 605754","1.Sithapattinam (R.V) & (P), Mariyamman Koil Street, 2.Sithapattinam (R.V) & (P), Group house Street, 3.Sithapattinam (R.V) & (P), Korith Street, 4.Sithapattinam (R.V) & (P), Angalamman Koil Street, 5.Sithapattinam (R.V) & (P), Kuttai karai Street"
+247,78,247,Pillaiyarpalayam -605754,"Panchayat Union Middle School, VII Standard Center Room, Pillaiyarpalayam - 605754","1.Ja.Sithamur (R.V) & (P), Pillaiyarpalayam Pillaiyar Koil Street,
+2.Ja. Sithamur (R.V) & (P), Pillaiyarpalayam Mariamman Koil Street,
+3.Ja.Sithamur (R.V) & (P), Pillaiyar palayam West Street, 4.Ja.Sithamur (R.V) & (P), Pillaiyar palayam Main Road"
+248,78,248,Ja.Sithamur-605757,"Panchayat Union Elementary School, Additional Building South Facing West Wing, Ja.Sithamur-605757","1.Ja.Sithamur (R.V) & (P), Ja.Sithamur Colony North, 2.Ja.Sithamur (R.V) & (P), Ja.Sithamur Colony Middle Street, 3.Ja.Sithamur (R.V) & (P), Ja.Sithamur Colony south Street, 4.Ja.Sithamur (R.V) & (P), Ja.Sithamur Colony Mariamman Street,
+5.Ja.Sithamur (R.V) & (P), Ja.Sithamur North Street, 6.Ja.Sithamur (R.V) & (P), Ja.Sithamur South Street, 7.J.Sithamur (R.V) & (P), West Street,
+8.Ja.Sithamur (R.V) & (P), Ja.Sithamur East Street, 9.Ja.Sithamur (R.V) & (P), Ja.Sithamur Middle Street"
+249,78,249,Sangiyam-605754,"Panchayat Union Middle School, Sangiyam-605754","1.Sangiyam (R.V) & (P), East Street,
+2.Sangiyam (R.V) & (P), South Street,
+3.Sangiyam (R.V) & (P), West Street,
+4.Sangiyam (R.V) & (P), West Street Lane,
+5.Sangiyam (R.V) & (P), Pillaiyar Koil Street,
+6.Sangiyam (R.V) & (P), Sosaity Street,
+7.Sangiyam (R.V) & (P), Kallankuthu Street,
+8.Sangiyam (R.V) & (P), Kulathu Mettu Street"
+250,78,250,Sangiyam-605754,"Panchayat Union Middle School, Sangiyam-605754","1.Sangiyam (R.V) & (P), Sangiyam Colony East Street,
+2.Sangiyam (R.V) & (P), Sangiyam Colony Mariyamman Street,
+3.Sangiyam (R.V) & (P), Sangiyam Colony West Colony,
+4.Sangiyam (R.V) & (P), Sangiyam Colony South Street,
+5.Sangiyam (R.V) & (P), Middle street,
+6.Sangiyam (R.V) & (P), Sangiyam Colony Grouphouse Street,
+7.Sangiyam (R.V) & (P), Sangiyam Mathura Gandhi Nagar Mariyamman,
+8.Sangiyam (R.V) & (P), Sangiyam Gandhi Nagar North Street"
+251,78,251,Koovanur-605757,"Panchayat Union Elementary School, Koovanur-605757","1.Koovanur (R.V) & (P), North Street,
+2.Koovanur (R.V) & (P), Sivan Koil Street,
+3.Koovanur (R.V) & (P), West Street"
+252,78,252,Koovanur-605757,"Panchayat Union Elementary School, Koovanur-605757","1.Koovanur (R.V) & (P), Middle Street,
+2.Koovanur (R.V) & (P), South Street,
+3.Koovanur (R.V) & (P), East Street,
+4.Koovanur (R.V) & (P), Chetti Street"
+253,78,253,Koovanur-605757,"Government High School, Koovanur-605757","1.Koovanur & Milaripattu (R.V) & Milaripattu (P), Mariyamman Koil Street,
+2.Koovanur & Milaripattu (R.V) & Koovanur (P), Moopanar Koil Street,
+3.Koovanur & Milaripattu (R.V) & Koovanur (P), West Street,
+4.Koovanur & Milaripattu (R.V) & Koovanur (P), New Colony West"
+254,78,254,Koovanur-605757,"Government High School, Koovanur-605757","1.Koovanur & Milaripattu (R.V) & Koovanur (P), New Colony South,
+2.Koovanur & Milaripattu (R.V) & Koovanur (P), Milaripattu North,
+3.Koovanur & Milaripattu (R.V) & Koovanur (P), Millaripattu West,
+4.Koovanur & Millaripattu (R.V) & Koovanur (P), Ward 4 Pillayar Koil Street,
+5.Koovanur & Milaripattu (R.V) & Koovanur (P), Mariyamman Koil Street,
+6.Koovanur & Milaripattu (R.V) & Koovanur (P), Colony West Street,
+7.Koovanur & Milaripattu (R.V) & Koovanur (P), Colony East Street,
+8.Koovanur & Milaripattu (R.V) & Koovanur (P), New Lake"
+255,78,255,Aruthangudi-605757,"Panchayat Union Middle School, Aruthangudi-605757","1.Aruthangudi (R.V) & (P), Aruthangudi Village, Mariyammam Koil Street,
+2.Aruthangudi (R.V) & (P), Aruthangudi Village, Middle Street, 3.Aruthangudi (R.V) & (P), Aruthangudi Village AnnaNagar"
+256,78,256,Aruthangudi-605757,"Panchayat Union Middle School, Aruthangudi-605757","1.Aruthangudi (R.V) & (P), Aruthangudi Village, East Street, 2.Aruthangudi (R.V) & (P), Aruthangudi Village, Pillaiyar Koil Street,
+3.Aruthangudi (R.V) & (P), Aruthangudi South Street, 4.Aruthangudi (R.V) & (P), Aruthangudi Pudur, 5.Aruthangudi (R.V) & (P), Aruthangdi Colony.North Street, 6.Aruthangudi (R.V) & (P), Aruthangudi colony south Street, 7.Aruthangudi (R.V) & (P), Noopanar Koil Street, 8.Aruthangudi (R.V) & (P), East Street,
+9.Aruthangudi (R.V) & (P), Colony, Middle Street, 10.Arunthalagudi (R.V) & (P), Colony Mariyamman Koil Street, 11.Arunthalagudi (R.V) & (P), Colony West Street"
+257,78,257,Maadampoondi-605757,"Panchayat Union Middle School, Maadampoondi-605757","1.Madampoondi (R.V) & (P), Madampoondi Colony, Main Road Street,
+2.Madampoondi (R.V) & (P), Madampoondi Colony Middle Street,
+3.Madampoondi (R.V) & (P), Madampoondi Colony, Panchabi Koil Street,
+4.Madampoondi (R.V) & (P), Noopanar Koil Street, 5.Madampoondi (R.V) & (P), West st Colony, 6.Madampoondi (R.V) & (P), Mariamman Koil Street, 7.Madampoondi (R.V) & (P), Colony South Street, 8.Madampoondi (R.V) & (P), Village, Pillaiyar Koil Street, 9.Madampoondi (R.V) & (P), South Street, 10.Madampoondi (R.V) & (P), Po.Moyyur Salai Street, 11.Madampoondi (R.V) & (P), Sangakarapuram Main Road"
+258,78,258,Maadampoondi-605757,"Panchayat Union Middle School, North Building West Wing South Facing, Maadampoondi-605757","1.Madampoondi (R.V) & (P), Irumbalakurichi Colony, Noopanar Koil,
+2.Madampoondi (R.V) & (P), Colony Kinathu Street, 3.Madampoondi (R.V) & (P), Murugan Koil Street, 4.Madampoondi (R.V) & (P), Po.Meyyur Salai, 5.Madampoondi (R.V) & (P), Pillaiyar Koil Street, 6.Madampoondi (R.V) & (P), Village, East Street, 7.Madampoondi (R.V) & (P), Village, South Street, 8.Madampoondi (R.V) & (P), Village, West Street,
+9.Madampoondi (R.V) & (P), Madampoondi X Road"
+259,78,259,Edaiyur-605757,"Panchayat Union Middle School, South Building, Edaiyur-605757","1.Edaiyur (R.V) & (P), Thotti Street,
+2.Edaiyur (R.V) & (P), Main Road,
+3.Edaiyur (R.V) & (P), Lane Street,
+4.Edaiyur (R.V) & (P), Mariamman Koil Street"
+260,78,260,Edaiyur-605757,"Panchayat Union Middle School, Edaiyur-605757","1.Edaiyur (R.V) & (P), Old Colony Mariyaman Koil Street,
+2.Edaiyur (R.V) & (P), Old Colony 2nd Street,
+3.Edaiyur (R.V) & (P), New Street,
+4.Edaiyur (R.V) & (P), Balwadi Street,
+5.Edaiyur (R.V) & (P), Middle Street,
+6.Edaiyur (R.V) & (P), Vinayagar Koil Street,
+7.Edaiyur (R.V) & (P), South Street,
+8.Edaiyur (R.V) & (P), New Colony Last"
+261,78,261,Nariyandal-605757,"Panchayat Union Elementary School, Nariyandal-605757","1.Deviyandal (R.V) & (P), Deviyandal Road Street, 2.Deviyandal (R.V) & (P), Deviyandal Mariamman Koil Street, 3.Nariyandal (R.V) & (P), Nariyandal colony,
+4.Nariyandal (R.V) & (P), Nariyandal Pillayar Koil Street"
+262,78,262,Thagadi-605757,"Panchayat Union Elementary School, Thagadi-
+605757","1.Thagadi (R.V) & (P), Mettu Street,
+2.Thagadi (R.V) & (P), North Street"
+263,78,263,Thagadi-605757,"Panchayat Union Elementary School, Thagadi-
+605757","1.Thagadi (R.V) & (P), South Street,
+2.Thagadi (r.v) & (p), Pillaiyar Koil Street"
+264,78,264,Thagadi-605757,"Panchayat Union Elementary School, Thagadi-
+605757","1.Thagadi (R.V) & (P), Main Road,
+2.Thagadi (R.V) & (P), Bank Street"
+265,78,265,Thagadi-605757,"Panchayat Union Elementary School, Thagadi-605757","1.Thagadi (R.V) & (P), Thagadi colony,
+2.Thagadi (R.V) & (P), New colony"
+266,78,266,Mudiyanur-605757,"Panchayat Union Elementary School, Mudiyanur-605757","1.Mudiyanur (R.V) & Rajapallayam (P), East Street, 2.Mudiyanur (R.V) & Rajapallayam (P), Manmathan Koil Street,
+3.T.Mudiyanur (R.V) & Rajapallayam (P), Middle Street, 4.Mudiyanur (R.V) & Rajapallayam (P), Ayyar Street, 5.T.Mudiyanur (R.V) & Rajapallayam (P), Main Road, 6.T.Mudiyanur (R.V) & Rajapallayam (P), Mudiyanur Colony,"
+267,78,267,Rajampalayam -605757,"Integrated Child Development Service Centre, South Building, South Facing, Rajampalayam - 605757","1.T.Mudiyanur (R.V) & Rajapallayam (P), Rajapallayam Main Road,
+2.T.Mudiyanur (R.V) & Rajapallayam (P), Rajambalayam Pillaiyar Koil Street,
+3.T.Mudiyanur (R.V) & Rajapallayam (P), Rajamapalayam colony,
+4.T.Mudiyanur (R.V) & Rajapallayam (P), Rajamapalayam
+Annachi Street"
+268,78,268,Poomari-605766,"Panchayat Union Middle School, South Building North Facing, Poomari-605766","1.Poomari (R.V) & (P), Mettu st Colony,
+2.Poomari (R.V) & (P), Colony South Street,
+3.Poomari (R.V) & (P), Arunthathiyar Colony,
+4.Poomari (R.V) & (P), Poomari North Street,
+5.Poomari (R.V) & (P), Poomari South Street"
+269,78,269,Thurinjipattu-605757,"Panchayat Union Middle School, North Building South Facing East Wing, Thurinjipattu-605757","1.Thurinjipattu (R.V) & (P), Middle Street, 2.Thurinjipattu (R.V) & (P), Mandapathidu Street, 3.Thurinjipattu (R.V) & (P), West Street, 4.Thurinjipattu (R.V) & (P), Kulathumettu Street, 5.Thurinjipattu (R.V) & (P), Middle Street Lane, 6.Thurinjipattu (R.V) & (P), Subburayar Koil street,
+7.Thurinjipattu (R.V) & (P), Old colony pillaiyar Koil Street"
+270,78,270,Thurinjipattu-605757,"Panchayat Union Middle School, Thurinjipattu-605757","1.Thurinjipattu (R.V) & (P), South Street, 2.Thurinjipattu (R.V) & (P), New colony,
+3.Thurinjipattu (R.V) & (P), Arunthathiyar Colony"
+271,78,271,Thirupalapandal-605757,"Panchayat Union Elementary School, North Building East Side 1St Room South Face,
+Thirupalapandal-605757","1.Thirupalapandal (R.V) & (P), Main Road, 2.Thirupalapandal (R.V) & (P), Yadavar Street,
+3.Thirupalapandal (R.V) & (P), SivanKoil st."
+272,78,272,Thirupalapandal-605757,"Panchayat Union Elementary School, North Building West 1St Room South Facing, Thirupalapandal-605757","1.Thirupalapandal (R.V) & (P), Post Office Street, 2.Thirupalapandal (R.V) & (P), High School Street, 3.Thirupalapandal (R.V) & (P), Ragavendirar Street, 4.Thirupalapandal (R.V) & (P), Perumal Koil Street, 5.Paradapattu (R.V) & thirupalapandal (P), Paradapattu salai, 6.Padarapattu (R.V) & Thirupalapandal (P), Paradapattu Perumal Koil Street,
+7.Padarapattu (R.V) & Thirupalapandal (P), Paradapattu Pillaiyar Koil Street,
+8.Padarapattu (R.V) & Thirupalapandal (P), Paradapattu Mariyamman Koil Street"
+273,78,273,Thirupalapandal-605757,"Panchayat Union Elementary School, North Building West Side 2Nd Room South Facing, Thirupalapandal-605757","1.Thirupalapandal (R.V) & (P), New colony Mettu Street, 2.Thirupalapandal (R.V) & (P), Old colony Mariamman Koil Street,
+3.Thirupalapandal (R.V) & (P), Arunthathiyar colony Madurai VeeranKoil"
+274,78,274,Thoppucheri-605757,"Panchayat Union Middle School, North Building, Thoppucheri-605757","1.Thirupalapandal (R.V) & (P), Arunthathiyar Colony North Street,
+2.Thirupalapandal (R.V) & (P), Thoppucheri Newcolony East Street,
+3.Thirupalapandal (R.V) & (P), Thoppucheri New colony Middle Street,
+4.Thirupalapandal (R.V) & (P), Thoppucheri Oldcolony PillaiyarKoil Street,
+5.Thirupalapandal (R.V) & (P), Thoppucheri Newcolony West Street,
+6.Thirupalapandal (R.V) & (P), Thoppucheri Oldcolony East Street,
+7.Thirupalapandal (R.V) & (P), Thoppucheri Main Road"
+275,78,275,Karadi-605766,"Panchayat Union Elementary School, New Building, Karadi-605766","1.Karadi (R.V) & (P), Mariyamman Koil Street,
+2.Karadi (R.V) & (P), North Street,
+3.Karadi (R.V) & (P), Kulathu Street,
+4.Karadi (R.V) & (P), Muslim Street,
+5.Karadi (R.V) & (P), Kuyavar Street,
+6.Karadi (R.V) & (P), Middle Street,
+7.Karadi (R.V) & (P), Main Road Village,"
+276,78,276,Karadi-605766,"Panchayat Seva Centre, Karadi-605757","1.Karadi (R.V) & (P), Colony West Street,
+2.Karadi (R.V) & (P), Colony Middle Street,
+3.Karadi (R.V) & (P), Colony East Street,
+4.Karadi (R.V) & (P), Colony Gengaiyamman Koil Street,
+5.Karadi (R.V) & (P), Colony Main Road"
+277,78,277,T.Keeranur-605766,"Panchayat Union Elementary School, North Building, North Facing,(Room-1) T.Keeranur-
+605757","1.T.Keeranur (R.V) & (P), T.Keeranur Village, 2.T.Keeranur (R.V) & (P), PudhuMandapam,"
+278,78,278,T.Keeranur-605766,"Panchayat Union Elementary School, North Building ,(Room No-2) T.Keeranur-605757","1.T.Keeranur (R.V) & (P), Kulathumettu Street, 2.T.Keeranur (R.V) & (P), T.Keeranur Colony, 3.T.Keeranur (R.V) & (P), Narikuravar colony,
+4.T.Keeranur (R.V) & (P), Keelthotti"
+279,78,279,T.Keeranur-605766,"Panchayat Union Elementary School, Ulkattamaippu West Building North Wing, T.Keeranur-605766","1.T.Keeranur (R.V) & (P), Mandapam West Street, 2.T.Keeranur (R.V) & (P), Mandapam Middle Street, 3.T.Keeranur (R.V) & (P), Mandapam East Street, 4.T.Keeranur (R.V) & (P), Lake Street,
+5.T.Keeranur (R.V) & (P), Mel Thotti Street"
+280,78,280,Veeratagaram-605757,"R.C Aided Elementary School, Veeratagaram-605757","1.Deviyagaram (R.V) & (P), Kachikuvichan, 2.Veeratagaram (R.V) & (P), Indira Nagar, 3.Veeratagaram (R.V) & (P), Middle Street,
+4.Veeratagaram (R.V) & (P), Matha Koil Street,"
+281,78,281,Veeratagaram-605757,"R.C Aided Elementary School, South Building, North facing, Veeratagaram-605757","1.Veeratarkaram (R.V) & (P), East Street, 2.Veeratarkaram (R.V) & (P), North Street, 3.Veeratarkaram (R.V) & (P), Main Road,
+4.Veeratarkaram (R.V) & (P), Mariyamman Koil Street"
+282,78,282,Veeratagaram-605757,"Panchayat Union Building, Veeratagaram-605757","1.Deviagaram (R.V) & Veeratagaram (P), Main Road, 2.Deviagaram (R.V) & Veeratagaram (P), Manmathan Koil
+Street,"
+283,78,283,Veeratagaram-605757,"Panchayat Library Building, Veeratagaram-605757","1.Deviagaram (R.V) & Veeratagaram (P), South Street, 2.Deviagaram (R.V) & Veeratagaram (P), West Street, 3.Deviagram (R.V) & Veeratrakaram (P), Kulathu Street, 4.Deviagaram (R.V) & Veeratagaram (P), Ayyanar puram"
+284,78,284,Arumbakkam -605766,"Panchayat seva centre, West Facing, Arumbakkam - 605766","1.Arumbakkam (R.V) & (P), Mariamman Koil Street, 2.Arumbakkam (R.V) & (P), Arumbakkam Village and colony, 3.Arumbakkam (R.V) & (P), Ayyanar Koil Street, 4.Arumbakkam (R.V) & (P), Arumbakkam colony"
+285,78,285,Keelathazhanur-605766,"Government High School, East Building West Facing Room No.2, Keelathazhanur-605766","1.Keelathazhanur (R.V) & (P), Mariamman Koil Street, 2.Keelathazhanur (R.V) & (P), Lane Street"
+286,78,286,Keelathazhanur-605766,"Government High School, East Building West Facing South Side Room No.3, Keelathazhanur-605766","1.Keelathazhanur (R.V) & (P), Keelathazhanur Colony Mariamman Koil Street,
+2.Keelathazhanur (R.V) & (P), Periyayi Koil st Pajanai Koil Street,
+3.Keelathazhanur (R.V) & (P), Venmar Village and colony"
+287,78,287,Melathazhanur-605757,"Panchayat Union Middle School, Melathazhanur-605757","1.Melathazhanur (R.V) & (P), Main Road, 2.Melathazhanur (R.V) & (P), Middle Street, 3.Melathazhanur (R.V) & (P), South Street, 4.Melathazhanur (R.V) & (P), Pachaiamman Koil Street, 5.Melathazhanur (R.V) & (P), West Street"
+288,78,288,Melathazhanur-605757,"Panchayat Union Middle School, Melathazhanur-605757","1.Melathazhanur (R.V) & (P), Mariamman Koil Street, 2.Melathazhanur (R.V) & (P), Burial Ground, 3.Melathazhanur (R.V) & (P), Old colony, 4.Melathazhanur (R.V) & (P), New Colony,
+5.Melathazhanur (R.V) & (P), Chinnachettipalayam"
+289,78,289,Thanagananthal-605757,"Panchayat Union Elementary School, West Building North Wing, Thanagananthal-605757","1.Thanagananthal (R.V) & (P), North Street, 2.Thanagananthal (R.V) & (P), Middle Street, 3.Thanagananthal (R.V) & (P), Mariamman Koil Street, 4.Thanagananthal (R.V) & (P), Kulathu Street, 5.Thanagananthal (R.V) & (P), Perumal Koil Street, 6.Thanagananthal (R.V) & (P), West Street,
+7.Thanagananthal (R.V) & (P), Colony"
+290,78,290,Sivanarthangal-605757,"Panchayat Union Middle School, North Building, West Facing, Sivanarthangal-605757","1.Thanagananthal (R.V) & (P), Sivanarthangal East Street, 2.Thanagananthal (R.V) & (P), Sivanarthangal South Street, 3.Thanakanthal (R.V) & (P), West Street,
+4.Thanagananthal (R.V) & (P), Sivanarthangal Middle Street, 5.Thanagananthal (R.V) & (P), Sivanarthangal North Street, 6.Thanagananthal (R.V) & (P), Sivanarthangal Main Road, 7.Thanagananthal (R.V) & (P), Sivanarthangal Colony"
+291,78,291,Kanagananthal-605766,"Panchayat Union Middle School, Kanagananthal-605766","1.Kanaganandal (R.V) & (P), East Street, 2.Kanaganandal (R.V) & (P), Middle Street, 3.Kanaganandal (R.V) & (P), Mariamman Koil Street,
+4.Kanaganandal (R.V) & (P), Chinnachettipalayam"
+292,78,292,Kanagananthal-605766,"Panchayat Union Middle School, Kanagananthal-605766","1.Kanaganandal (R.V) & (P), South Street, 2.Kanaganandal (R.V) & (P), Irular Colony, 3.Kanaganandal (R.V) & (P), Main Road, 4.Kanaganandal (R.V) & (P), M.G.R.Nagar,
+5.Kanaganandal (R.V) & (P), J.J.Nagar"
+293,78,293,Nedumudaiyan-605751,"Panchayat Union Middle School, Nedumudaiyan-605751","1.Nedumudaiyan (R.V) & (P), South Street, 2.Nedumudaiyan (R.V) & (P), North Street,
+3.Nedumudaiyan (R.V) & (P), Pillaiyar Koil Street,"
+294,78,294,Nedumudaiyan-605751,"Panchayat Union Middle School, East Building, Nedumudaiyan-605757","1.Nedumudaiyan (R.V) & (P), Main Road, 2.Nedumudaiyan (R.V) & (P), East Street,
+3.Nedumudaiyan (R.V) & (P), Colony"
+295,78,295,Kolaparai-605751,"Panchayat Union Elementary School, Kolaparai-
+605751","1.Kolaparai (R.V) & (P), Colony North Street,
+2.Kolaparai (R.V) & (P), South Street"
+296,78,296,Kolaparai-605751,"Panchayat Union Middle School, Additional Building North Building South Facing, Kolaparai-605751","1.Kolaparai (R.V) & (P), Kolaparai North Street, 2.Kolaparai (R.V) & (P), Kolaparai East Street, 3.Kolaparai (R.V) & (P), Ottar street,
+4.Kolaparai (R.V) & (P), Mariyamman Koil Street, 5.Kolaparai (R.V) & (P), Middle street,
+6.Kolaparai (R.V) & (P), South street"
+297,78,297,Thimmachur-605751,"Panchayat Union Elementary School, East Building North Wing, Thimmachur- 605751","1.Thimmachur (R.V) & (P), North Street, 2.Thimmachur (R.V) & (P), Ottar Street, 3.Thimmachur (R.V) & (P), Mariamman Koil Street,
+4.Thimmachur (R.V) & (P), Pillaiyar Koil Street"
+298,78,298,Thimmachur-605751,"Panchayat Union Elementary School, West Building, South Wing, Thimmachur- 605751","1.Thimmachur (R.V) & (P), Colony Mariamman Koil Street, 2.Thimmachur (R.V) & (P), Colony South Street, 3.Thimmachur (R.V) & (P), New Colony"
+299,78,299,Thimmachur-605751,"Government High School, East Building South Wing, Thimmachur-605751","1.Thimmachur (R.V) & (P), Thimmachur Main Road, 2.Thimmachur (R.V) & (P), Thimmachur Madhra Chitheri"
+300,78,300,Padiyandal-605751,"Panchayat Union Elementary School, Additional Building, Padiyandal-605751","1.Padiyandal (R.V) & (P), Kulathu Mettu Street, 2.Padiyandal (R.V) & (P), North Street,
+3.Padiyandal (R.V) & (P), Pillaiyar Koil Street"
+301,78,301,Padiyandal-605751,"Panchayat Union Elementary School, Additional Building, Padiyandal-605751","1.Padiyandal (R.V) & (P), Middle Street, 2.Padiyandal (R.V) & (P), South Street, 3.Padiyandal (R.V) & (P), Colony"
+302,78,302,Po.Meyyur-605751,"Panchayat Union Elementary School, South Building, Po.Meyyur-605751","1.Po.Meyyur (R.V) & (P), Arasamara Street, 2.Po.Meyyur (R.V) & (P), Kulathu Mettu Street, 3.Po.Meyyur (R.V) & (P), East Street, 4.Po.Meyyur (R.V) & (P), Middle Street, 5.Po.Meyyur (R.V) & (P), South Street,
+6.Po.Meyyur (R.V) & (P), West Street"
+303,78,303,Po.Meyyur-605751,"Panchayat Union Elementary School, South Building North Facing East Wing, Po.Meyyur-605751","1.Po.Meyyur (R.V) & (P), Colony Po.Meyyur"
+304,78,304,Ponniyandal -605751,"Government High School, West Building East Facing South Wing, Ponniyandal - 605751","1.Ponniyandal (R.V) & (P), East Street,
+2.Ponniyandal (R.V) & (P), Middle Street, 3.Ponniyandal (R.V) & (P), South Street"
+305,78,305,Ponniyandal -605751,"Government High School, West Building East Facing South Wing Room No.2, Ponniyandal -
+605751","1.Ponniyandal (R.V) & (P), Ponniyandal"
+306,78,306,Komalur-606205,"Panchayat Union Elementary School, Komalur-606205","1.Komalur (R.V) & (P), Komalur North Street,
+2.Komalur (R.V) & (P), Ward 1 Komalur West Street,
+3.Komalur (R.V) & (P), Ward 1 komalur Village Perumal Koil Street,
+4.Komalur (R.V) & (P), Komalur Village South Street,
+5.Komalur (R.V) & (P), Komalur Village Irular Street,
+6.Komalur (R.V) & (P), Komalur Village Patti Lane,
+7.Komalur (R.V) & (P), Komalur Village East Street,
+8.Komalur (R.V) & (P), Komalur Village East Street,
+9.Komalur (R.V) & (P), Komalur Colony Main Road Street"
+307,78,307,Komalur-606205,"Panchayat Union Elementary School, Komalur-606205","1.Komalur (R.V) & (P), Komalur Colony East Street,
+2.Komalur (R.V) & (P), Komalur Colony North Street,
+3.Komalur (R.V) & (P), Komalur Colony South Street,
+4.Komalur (R.V) & (P), Komalur Colony Mariyamman Koil Street,
+5.Komalur (R.V) & (P), Komalur Colony East Street,
+6.Komalur (R.V) & (P), Komalur Colony West Street,
+7.Komalur (R.V) & (P), Komalur Colony Middle Street"
+308,78,308,Konakkalavadi-606205,"Panchayat Seva Centre, South Building North Facing, Konakkalavadi-606205","1.Konakkalavadi (R.V) & (P), Konakkalavadi Colony, 2.Konakkalavadi (R.V) & (P), Konakkalavadi North Street, 3.Konakkalavadi (R.V) & (P), Konakkalavadi East Street, 4.Konakkalavadi (P), Ward No.1 &2 Main Road, 5.Konakkalavadi (R.V) & (P), President land Street"
+309,78,309,Konakkalavadi-606205,"Panchayat Seva Centre, South Building East Wing West Facing, Konakkalavadi-606205","1.Konakkalavadi (R.V) & (P), Middle Street, 2.Konakkalavadi (R.V) & (P), Konakkalavadi South Street, 3.Konakkalavadi (R.V) & (P), Konakkalavadi Thathanur Colony,
+4.Konakkalavadi (R.V) & (P), Thathanur Village"
+310,78,310,Panapadi-605751,"Panchayat Union Elementary School, Panapadi-605751","1.Panapadi (R.V) & (P), West Street,
+2.Panapadi (R.V) & (P), North Street,
+3.Panapadi (R.V) & (P), Main Road,
+4.Panapadi (R.V) & (P), Mariamman Koil Street colony,
+5.Panapadi (R.V) & (P), Middle Street,
+6.Panapadi (R.V) & (P), North Street Colony"
+311,78,311,Panapadi-605751,"Panchayat Union Elementary School, Panapadi-605751","1.Panapadi (R.V) & (P), South Street Colony,
+2.Panapadi (R.V) & (P), Main Road Colony,
+3.Panapadi (R.V) & (P), West Street Colony,
+4.Panapadi (R.V) & (P), New Colony"
+312,78,312,Sozhavandipuram-605751,"Panchayat Union Elementary School, South Building, West Facing, Sozhavandipuram - 605751","1.Sozhavandipuram (R.V) & (P), Sozhavandipuram kandhasamy Nagar,
+2.Sozhavandipuram (R.V) & (P), Sozhavandipuram Thimmachur Salai,
+3.Sozhavandipuram (R.V) & (P), Sozhavandipuram Essvaran Koil Street,
+4.Sozhavandipuram (R.V) & (P), Sozhavandipuram Padiyanthal Salai,
+5.Sozhavandipuram (R.V) & (P), Sozhavandipuram Mariyamman Koil Street,
+6.Sozhavandipuram (R.V)& (P), Sozhavandipuram puthur"
+313,78,313,Sozhavandipuram-605751,"Panchayat Union Elementary School, South Building, West Facing, Sozhavandipuram-605751","1.Sozhavandipuram (R.V) & (P), Sozhavandipuram Main Road,
+2.Sozhavandipuram (R.)& (P), Sozhavandipuram East Street, 3.Sozhavandipuram (R.V) & (P), Sozhavandipuram, West Street"
+314,78,314,Sozhavandipuram-605751,"Panchayat Union Elementary School, East Building West Facing North Wing,
+Sozhavandipuram-605751","1.Solavandipuram (R.V) & (P), Solavandipuram Ottar Street, 2.Solavandipuram (R.V) & (P), Solavandipuram Colony"
+315,78,315,Sozhavandipuram-605751,"Panchayat Union Elementary School, East Building West Facing, Sozhavandipuram-605751","1.Solavandipuram (R.V) & (P), Solavandipuram New Colony"
+316,78,316,Senganankollai-605751,"Panchayat Union Elementary School,
+Senganankollai-605751","1.Senganangollai (R.V) & (P), South Street,
+2.Senganangollai (R.V) & (P), Middle Street,"
+317,78,317,Senganankollai-605751,"Panchayat Union Elementary School, East Building, West Facing, Senganangollai-605757","1.Senganangollai (R.V) & (P), North Side (Colony)"
+318,78,318,Senganankollai-605751,"Panchayat Union Elementary School, Senganankollai-605751","1.Senganangollai (R.V) & (P), North Street, 2.Senganangollai (R.V) & (P), South Side (Colony),
+3.Senganangollai (R.V) & (P), West Side (Colony)"
+319,78,319,G.Ariyur-605751,"Government Higher secondary School, North Building West Wing, G.Ariyur-605751","1.Ariyur (R.V) & (P), North Street,
+2.Ariyur (R.V) & (P), Mariamman Koil Street,
+3.Ariyur (R.V) & (P), Indira Nagar,
+4.Ariyur (R.V) & (P), South Street"
+320,78,320,G.Ariyur-605751,"Government Higher secondary School, North Building East Wing, G.Ariyur-605751","1.Ariyur (R.V) & (P), Road Street,
+2.Ariyur (R.V) & (P), Mettu Street,
+3.Ariyur (R.V) & (P), Arisana Colony"
+321,78,321,G.Ariyur-605751,"Panchayat Union Elementary School, Additional
+Building, G.Ariyur-605751","1.Ariyur (R.V) & (P), East Street,"
+322,78,322,G.Ariyur-605751,"Panchayat Union Elementary School, Additional
+Building, North Building, South Facing, G.Ariyur-605751","1.Ariyur (R.V) & (P), Middle Street,
+2.Ariyur (R.V) & (P), South Street"
+323,78,323,Ammankollaimedu-605751,"Panchayat Union Elementary School, South Building, West Wing, Ammankollaimedu-605751","1.Ariyur (R.V) Ammankollai medu (P), Amman Kollai medu North Street,"
+324,78,324,Ammankollaimedu-605751,"Panchayat Union Middle School, South Building, North facing, Ammankollaimedu-605751","1.Ariyur (R.V) Amman kollai medu (P), Pudur Street"
+325,78,325,Ammankollaimedu-605751,"Panchayat Union Elementary School, Ammankollaimedu-605751","1.Ariyur (R.V) & (P), Vadiyankuppam East Street,
+2.Ariyur (R.V) & (P), Vadiyankuppam Middle Street,
+3.Ariyur (R.V) & (P), Vadiyankuppam West Street,
+4.Ariyur (R.V) & (P), Vadiyanguppam South Street"
+326,78,326,"Ammankollaimedu-
+605751","Panchayat Union Elementary School,
+Ammankollaimedu-605751","1.Ariyur (R.V) & (P), Ammankollaimedu East Street,
+2.Ariyur (R.V) & (P), Ammankollaimedu South Street"
+327,78,327,Vengur-605751,"Panchayat Union Elementary School, Vengur-605751","1.Vengur (R.V) & (P), Pudhu Vengur Mariamman Koil Street,
+2.Vengur (R.V) & (P), West Street,
+3.Vengur (R.V) & (P), Manmathan Koil Street,
+4.Vengur (R.V) & (P), Vengur Colony South Street"
+328,78,328,Vengur-605751,"Panchayat Union Elementary School, Vengur-605751","1.Vengur (R.V) & (P), New Street,
+2.Vengur (R.V) & (P), MainRoad,
+3.Vengur (R.V) & (P), Colony,
+4.Vengur (R.V) & (P), North Street,
+5.Vengur (R.V) & (P), Middle Street"
+329,78,329,Vengur-605751,"Panchayat Union Elementary School, Vengur-605751","1.Vengur (R.V) & (P), Kottamedu Metthu Street,
+2.Vengur (R.V) & (P), Kottamedu East Street,
+3.Vengur (R.V) & (P), Kottamedu Palla Street,
+4.Vengur (R.V) & (P), Kottamedu Main Road"
+330,78,330,Vengur-605751,"Panchayat Union Elementary School, Vengur-605751","1.Vengur (R.V) & (P), North Street,
+2.Vengur (R.V) & (P), Middle Street,
+3.Vengur (R.V) & (P), South Street,
+4.Vengur (R.V) & (P), Bungalow Street,
+5.Vengur (R.V) & (P), Main Road"
+331,78,331,Cheetithangal-605751,"Panchayat Union Elementary School,
+Cheetithangal-605751","1.Venghur &Chettithangal (R.V) & Venghur (P), Chettithangal
+South Street,"
+332,78,332,Cheetithangal-605751,"Panchayat Union Elementary School, North Building, South Facing, Cheetithangal-605751","1.Vengur & Chettithangal (R.V) & Vengur (P), Chettithangal North Street,
+2.Vengur & Chettithangal (R.V) & Vengur (P), Chettithangal Main Road,
+3.Vengur & Chettithangal (R.V) & Vengur (P), Chettithangal
+Thanaganandal"
+333,78,333,Eravalam-605766,"Panchayat Union Elementary School, Eravalam-605766","1.Eravalam (R.V) & (P), Mariamman Koil Street,
+2.Eravalam (R.V) & (P), West Street,
+3.Eravalam (R.V) & (P), Colony"
+334,78,334,Eravalam Madura Kachikuppam-605766,"Panchayat Union Middle School, East Building, Eravalam Madura Kachikuppam-605766","1.Eravalam (R.V) & (P), Eravalam Madura Kachikuppam Mariamman Koil Street"
+335,78,335,Periyanur-605766,"Panchayat Union Elementary School, East Building North Wing, Periyanur-605766","1.Periyanur (R.V) & (P), South Street, 2.Periyanur (R.V) & (P), Colony,
+3.Periyanur (R.V) & (P), Periyanur (Village)"
+336,78,336,Pazhangur-605751,"Panchayat Union Middle School, East Building South Wing, Pazhangur-605751","1.Pazhangur (R.V) & (P), Middle Street,
+2.Pazhangur (R.V) & (P), MainRoad, 3.Pazhangur (R.V) & (P), Ulakadai Street,"
+337,78,337,Pazhangur-605751,"Panchayat Union Middle School, East Building South Wing, Pazhangur- 605751","1.Pazhangur (R.V) & (P), Mariamman Koil Street, 2.Pazhangur (R.V) & (P), Agrahara Street, 3.Pazhangur (R.V) & (P), Eswaran Koil Street,
+4.Pazhangur (R.V) & (P), Colony"
+338,78,338,Pazhangur-605751,"Panchayat Union Middle School, Pazhangur-605751","1.Pazhangur (R.V) & (P), Pazhangur Madura Kuppam, 2.Pazhangur (R.V) & (P), Pazhangur Colony, 3.Pazhangur (R.V) & (P), Eswaran Koil Street, 4.Pazhangur (R.V) & (P), Agrahara Street,
+5.Pazhangur (R.V) & (P), Anna Nagar"
+339,78,339,Kadiyaar-605751,"Panchayat Union Middle School, Kadiyaar-605751","1.Kadiyar (R.V) & (P), Kadiyar Panchayat North Street,
+2.Kadiyar (R.V) & (P), Kadiyar (P) South Street,
+3.Kadiyar (R.V) & (P), Kadiyar (P) Colony"
+340,78,340,Memalur-605751,"R C Middle School, Room No-1 From West Side, Memalur-605751","1.Memalur (R.V) & (P), Pillaiyar Koil Middle Street (West Side),
+2.Memalur (R.V) & (P), East Street,
+3.Memalur (R.V) & (P), South Street,
+4.Memalur (R.V) & (P), West Street Pilliayar Koil Side"
+341,78,341,Memalur-605751,"R C Middle School, Room No-2 From West Side, Memalur-605751","1.Memalur (R.V) & (P), Asari Street,
+2.Memalur (R.V) & (P), Memalur Salai,
+3.Memalur (R.V) & (P), Colony West Side,
+4.Memalur (R.V) & (P), Koil Street,
+5.Memalur (R.V) & (P), Colony East Street,
+6.Memalur (R.V) & (P), Colony New Street"
+342,78,342,Memalur-605751,"R C Middle School, Room No-3 From West Side, Memalur-605751","1.Memalur (R.V) & (P), Pillaiyar Koil Middle Street (East),
+2.Memalur (R.V) & (P), Pillaiyar Koil West Side,
+3.Memalur (R.V) & (P), South Street,
+4.Memalur (R.V) & (P), Matha Koil Street,
+5.Memalur (R.V) & (P), Memalur Road"
+343,78,343,Memalur-605751,"R C Middle School, Room No-4 From West Side, Memalur-605751","1.Memalur (R.V) & (P), Karmelpuram,
+2.Memalur (R.V) & (P), Colony West Side,
+3.Memalur (R.V) & (P), Colony East Side,
+4.Memalur (R.V) & (P), Colony South Side,
+5.Memalur (R.V) & (P), Colony New Street"
+344,78,344,Aalur-605751,"Panchayat Union Middle School, New Building East Wing Room No.1, Aalur-605751","1.Alur (R.V) & (P), North Street"
+345,78,345,Aalur-605751,"Panchayat Union Middle School, New Building
+East Wing, Aalur-605751","1.Alur (R.V) & (P), Middle Street,
+2.Alur (R.V) & (P), South Street"
+346,78,346,Aalur-605751,"Panchayat Union Middle School, New Building East Wing Room No.3, Aalur-605751","1.Alur (R.V) & (P), Mariamman Koil Street,
+2.Alur (R.V) & (P), East Street,
+3.Alur (R.V) & (P), New Colony,
+4.Alur (R.V) & (P), Kuravan Street,
+5.Alur (R.V) & (P), Chinna Colony,
+6.Alur (R.V) & (P), Big Colony"
+347,78,347,Thulampondi-605751,"Panchayat Union Middle School, Thulampondi-605751","1.Alur (R.V) & (P), Murugan Koil Street,
+2.Alur (R.V) & (P), Colony,
+3.Alur (R.V) & (P), Main Street,"
+348,78,348,Thulampondi-605751,"Panchayat Union Middle School, South Building, North facing, Tholampondi-605751","1.Alur (R.V) & (P), Mettu Street,
+2.Alur (R.V) & (P), Mariamman Koil Street,
+3.Alur (R.V) & (P), South Street,
+4.Alur (R.V) & (P), School Street,
+5.Alur (R.V) & (P), East Street"
+349,78,349,Mogalar-605803,"Panchayat Union Middle School, Mogalar-605803","1.Mohalar (R.V) & (P), West Street,
+2.Mohalar (R.V) & (P), Theedirkuppam,
+3.Mohalar (R.V ) & (P), School Street"
+350,78,350,Mogalar-605803,"Panchayat Union Middle School, Mogalar-
+605803","1.Mohalar (R.V) & (P), East Street,
+2.Mohalar (R.V) & (P), Old Colony"

@@ -1,0 +1,13 @@
+Extraction Error Log
+============================================================
+Total PDFs: 234  |  Success: 225  |  Fail: 9
+
+AC151: All extraction strategies failed.
+AC152: All extraction strategies failed.
+AC153: All extraction strategies failed.
+AC154: All extraction strategies failed.
+AC155: All extraction strategies failed.
+AC156: All extraction strategies failed.
+AC157: All extraction strategies failed.
+AC158: All extraction strategies failed.
+AC159: All extraction strategies failed.

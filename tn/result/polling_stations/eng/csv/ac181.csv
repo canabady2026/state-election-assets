@@ -1,0 +1,802 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+1,181,1,,"Panchayat Union Middle School Tiled
+Building, West Portion, Oliamangalam - 621308","1.Oliyamangalam  (R.V), Oliyamangalam  (P) Ward-1  oliyamangalam  ,
+2.Oliyamangalam  (R.V), Oliyamangalam  (P) Ward-2  Kayampatti"
+2,181,2,,"Panchayat Union Middle School Tiled Building, East Portion, Oliamangalam - 621308","1.Oliyamangalam  (R.V), Oliyamangalam  (P) Ward-2  Kurunthadipatti , 2.Oliyamangalam  (R.V), Oliyamangalam  (P) Ward-5  Servaikaranpatti , 3.Oliyamangalam  (R.V), Oliyamangalam  (P) Ward-5  Vengampatti , 4.Oliyamangalam  (R.V), Oliyamangalam  (P) Ward-5  Vettukadu 5.Oliyamangalam  (R.V),Oliyamangalam  (P) Ward-1  Eluvankurai , 6.Oliyamangalam  (R.V),Oliyamangalam  (P) Ward-3  Madathupatti ,"
+3,181,3,,"Panchayat Union Middle School West
+Portion Terraced  Building
+,Oliamangalam, 621308","1.Oliyamangalam  (R.V), Oliyamangalam  (P) Ward-3  Surakkaipatti ,
+2.Oliyamangalam  (R.V), Oliyamangalam  (P) Ward-3  Sundampatti , 3.Oliyamangalam  (R.V), Oliyamangalam  (P) Ward-4  Vellalapatti"
+4,181,4,,"Panchayat Union Elementary School, Terraced Building, , Avampatti 622002","1.Vellayakoundampatti (R.V)Usilampatti (P) Ward-4 Vellayakoundampatti , 2.Avampatti (R.V), Usilampatti (P) Ward-4  Avampatti"
+5,181,5,,"Panchayat Union Elementary School, Usilampatti 622002","1.Vadakpipatti (R.V), Usilampatti (P) Ward-1 Vadakpipatti , 2.Soorapatti (R.V), Usilampatti (P) Ward-2  Soorapatti , 3.Usilampatti (R.V), Usilampatti (P) Ward-3  Usilampatti"
+6,181,6,,"Panchayat Union Elementary School, west portion Additional Terraced Building, Melathaniam 622002","1.Melathaniam  (R.V), Melathaniam (P) Ward-1,3 Melathaniam"
+7,181,7,,"Panchayat Union Elementary School
+NorthBuilding  (East side) Tiled  Building
+, Melathaniam 622002","1.Melathaniam  (R.V), Melathanaim (P) Ward-2,3 Melathaniam  ,
+2.Melathaniam  (R.V), Melathanaim (P) Ward-4  Pillinivayal , 3.Melathaniam  (R.V), Melathanaim (P) Ward-4  M. Usilampatti , 4.Melathaniam  (R.V), Melathanaim (P) Ward-5  Ammapatti"
+8,181,8,,"Panchayat Union Middle School,New Terraced Building Middle Room  (south side), Mullipatti 622002","1.Mullipatti (R.V), Mullipatti (P) Ward-1  Mullipatti"
+9,181,9,,"Panchayat Union Middle School
+Western side, Terraced  Building, Keelathaniam 622002","1.Keelathaniam  (R.V), Keelathaniam (P) Ward-1  Keelathaniam  Melatheru ,
+2.Keelathaniam  (R.V), Keelathaniam (P) Ward-2  Keelathaniam  Nadu theru , 3.Keelathaniam  (R.V), Keelathaniam (P) Ward-2  Keelathaniam  Keelatheru , 4.Keelathaniam  (R.V), Keelathaniam (P) Ward-2  Puthia Colony  , 5.Keelathaniam  (R.V), Keelathaniam (P) Ward-3  Sambapatti , 6.Keelathaniam  (R.V), Keelathaniam (P) Ward-3  Edayapatti , 7.Keelathaniam  (R.V), Keelathaniam (P) Ward-3  Uppiliyakudi , 8.Keelathaniam  (R.V), Keelathaniam (P) Ward-3  Rengapuram  , 9.Keelathaniam  (R.V), Keelathaniam (P) Ward-3  Ammankovilpatti , 10.Keelathaniam (R.V), Keelathaniam (P) Ward-3  Ramalingapuram  , 11.Keelathaniam (R.V), Keelathaniam (P) Ward-3  Puthur"
+10,181,10,,"Panchayat Union Middle School West
+Building  (South Side) Terraced Building, Keelathaniam 622002","1.Keelathaniam  (R.V), Keelathaniam (P) Ward-1  Melatheru ,
+2.Keelathaniam  (R.V), Keelathaniam (P) Ward-2  Nadutheru , 3.Keelathaniam  (R.V), Keelathaniam (P) Ward-2  Keelatheru , 4.Keelathaniam  (R.V), Keelathaniam (P) Ward-2  Puthia Colony  , 5.Keelathaniam  (R.V), Keelathaniam (P) Ward-3  Sambapatti , 6.Keelathaniam  (R.V), Keelathaniam (P) Ward-3  Edayapatti , 7.Keelathaniam  (R.V), Keelathaniam(P) Ward-3  Ammankovilpatti , 8.Keelathaniam  (R.V), Keelathaniam(P) Ward-3  Ramalingapuram ,"
+11,181,11,,"Panchayat Union Middle School South
+Side, Terraced  Building  West Portion, North Facing  , ,Alampatti 622002","1.Karaiyur (R.V) , Alampatti (P) Ward-2  Murandanpatti ,
+2.Karaiyur (R.V), Alampatti (P) Ward-2  Alampatti ,
+3.Karaiyur (R.V) , Alampatti (P) Ward-2
+Kanniapatti ,
+4.Karaiyur (R.V), Alampatti (P) Ward-2  Athinipatti"
+12,181,12,,"Panchayat Union Elementary School West side Terraced  Building, Karanapatti 622002","1.Kalnivaipatti (R.V.) Seranur (P) Ward-1  Kalnivaipatti , 2.Kalnivaipatti (R.V.) Seranur (P) Ward-1  Achukattupatti , 3.Vellakudi 2 Bit (R.V.)   Seranur (P) Ward-3  Kaivelipatti , 4.Vellakudi 2 Bit (R.V.)   Seranur(P) Ward-3  Arinjinampatti , 5.Karnapatti (R.V.) Seranur  (P) Ward-3  Karanapatti , 6.Usilampatti (R.V.) Oonaiyur (P) Ward-2  Usilampatti , 7.Usilampatti (R.V.) Oonaiyur (P) Ward-2  Athirampatti"
+13,181,13,,"Panchayat Union Elementary SchoolNew Terraced  Building(West Facing), Vellakkudi 622002","1.Vellakudi 1 Bit (R.V.)   Nerinjikudi (P) Ward-2,3 Vellakudi"
+14,181,14,,"Panchayat Union Elementary School Terraced Building , Seranur 622002",1.Seranur (R.V.) Seranur (P) Ward-2  Seranur
+15,181,15,,"Panchayat Union Elementary School
+Terraced Building, East building( South facing), Nallur 622002",1.Nallur (R.V.) Nallur (P) Ward-3 Nallur
+16,181,16,,"Panchayat Union Elementary School Terraced West Building, South Facing, Nallur 622002","1.Nallur (R.V.) Nallur (P) Ward-3 Kulavaipatti ,
+2.Nallur (R.V.) Nallur (P) Ward-3 Sundaram  Nagar ,
+3.Nallur (R.V.) Nallur (P) Ward-3 Memanapatti ,
+4.Nallur (R.V.) Nallur (P) Ward-4 Illanipatti ,
+5.Nallur (R.V.) Nallur (P) Ward-4 Keerangudi"
+17,181,17,,"Panchayat Union Middle School, Terraced Building, East Portion, South facing, Nerinjikkudi 622002","1.Nerinjikudi (R.V.) Nerinjikudi (P) Ward-1 Kooduthanaipatti , 2.Nerinjikudi (R.V.) Nerinjikudi(P) Ward-1 Puthunerinjikudi , 3.Nerinjikudi (R.V.) Nerinjikudi(P) Ward-2 Palapatti , 4.Nerinjikudi (R.V.) Nerinjikudi(P) Ward-2 Palaya  nerinjikudi"
+18,181,18,,"Panchayat Union Elementary School New Terraced  Building  West portion , Chittoor 622002",1.Chithoor (R.V.) Gudalur (P) Ward-3  Chithoor
+19,181,19,,"Panchayat Union Elementary School
+Terraced Building ,Gudalur 622402","1.Gudalur (R.V.)   Gudalur (P) Ward-1  Gudalur Merku ,
+2.Gudalur (R.V.)   Gudalur (P) Ward-2  Gudalur Kilakku"
+20,181,20,,"Panchayat Union Middle School, New Terraced Building, (south facing),Valakkurichi 622402","1.Neiveli (R.V.) Valakurichi (P) Ward-2  Navinipatti , 2.Valakurichi (R.V.) Valakurichi (P) Ward-2  Valakurichi"
+21,181,21,,"Panchayat Union Elementary School
+New Terraced  Building,South Facing, Neiveli 622402","1.Neiveli (R.V.) Valakurichi (P) Ward-1  Neiveli ,
+2.Neiveli (R.V.) Valakurichi (P) Wrd-3 Thirunattanpatti ,"
+22,181,22,,"Panchayat Union Middle School Terraced Building (South facing) , Arasamalai 622402","1.Arasamalai(R.V), Arasamalai(P) Ward-1 Kothangaraivayal , 2.Arasamalai(R.V), Arasamalai(P) Ward-1 Ganesapuram , 3.Arasamalai(R.V), Arasamalai(P) Ward-1 Arasamalai , 4.Arasamalai(R.V), Arasamalai(P) Ward-1 Mongampatti , 5.Arasamalai(R.V), Arasamalai(P) Ward-3 Poovalakudi"
+23,181,23,,"Panchayat Union Elementary School, Terraced Building,South Side , Vaiyapuri 622402","1.Arasamalai(R.V), Arasamalai(P) Ward-2 Navakudi , 2.Arasamalai(R.V), Arasamalai(P) Ward-2 Vaiyapuri ,
+3.Sathanur (R.V), Arasamalai(P) Ward-6  Sathanur"
+24,181,24,,"Panchayat Union Elementary School,
+Terraced Building, Facing North, Kandeduthanpatti 622402","1.Arasamalai(R.V) , Arasamalai(P) Ward-4  Edayamparai ,
+2.Arasamalai(R.V) , Arasamalai(P) Ward-4  Kandeduthanpatti ,
+3.Mathiani (R.V), Arasamalai(P) Ward-5 Mathiani"
+25,181,25,,"Panchayat Union Elementary School, SSA Terraced Bld.,Middle Portion, Karaiyur 622002","1.Karaiyur (R.V), Karaiyur (P) Ward-1,2 Karaiyur"
+26,181,26,,"Panchayat Union Elementary School,
+Tiled Building, East Portion (South facing) , Karaiyur  622002","1.Karaiyur (R.V), Karaiyur (p) Ward-3  karaiyur-I"
+27,181,27,,"Panchayat Union Elementary School,
+Tiled North East Building, West Portion(South facing), Karaiyur 622002","1.Karaiyur (R.V), Karaiyur (p) Ward-3  karaiyur-II
+2.Karaiyur (R.V), Karaiyur (P) Ward-1  maravar kudiyiruppu ,"
+28,181,28,,"Panchayat Union Elementary School, Tiled Building, East Portion, (South Facing), Karaiyur 622002","1.Karaiyur (R.V), Karaiyur (P) Ward-4  Sankaranpatti ,
+2.Karaiyur (R.V), Karaiyur (P) Ward-4  Maruthanpatti ,
+3.Karaiyur (R.V), Karaiyur (P) Ward-4  Mangalipatti"
+29,181,29,,"Panchayat Union Middle School, SSA Bld., Middle Portion, Terraced  Building, Konaiyampatti 622002","1.Karaiyur (R.V), Konnayampatti(P) Ward-2  Paraikalam"
+30,181,30,,"Panchayat Union Middle School South Side, Terraced  Building, East Portion, North Facing, Alampatti 622002","1.Karaiyur (R.V), Alampatti (p) Ward-1  kadampatti ,
+2.Karaiyur (R.V), Alampatti (P) Ward-1  Karayampatti ,"
+31,181,31,,"Panchayat Union Middle School, SSA Building  South Portion, Facing West, Konaiyampatti 622002","1.Karaiyur (R.V), Konnayampatti(P) Ward-1  Konnayampatti ,
+2.Karaiyur (R.V), Konnayampatti(P) Ward-2  Mettupatti"
+32,181,32,,"Panchayat Union Elementary School, SSA Building  West Face South Room, Sadayampatti 622002","1.Maravamadurai(R.V), Maravamadurai(P) Ward-1 Paluthinipatti , 2.Maravamadurai(R.V), Maravamadurai(P) Ward-2 Sadayampatti Kilakku"
+33,181,33,,"Panchayat Union Elementary School New Terraced  Building, East Face North Side ,Sadayampatti 622002","1.Maravamadurai(R.V), Maravamadurai(P) Ward-2 Sadayampatti Kilakkui , 2.Maravamadurai(R.V), Maravamadurai(P) Ward-3 Sadayampatti Merku"
+34,181,34,,"Panchayat Union Elementary School,
+Tiled Building, Manganoor 622002","1.Maravamadurai(R.V), Maravamadurai(P) Ward-4 Manganur ,
+2.Maravamadurai(R.V), Maravamadurai(P) Ward-4 Udayampatti , 3.Maravamadurai(R.V), Maravamadurai(P) Ward-4 Soriyampatti"
+35,181,35,,"Panchayat Union Middle School, New
+Terraced Building,Middle portion,, Maravamadurai 622002","1.Maravamadurai(R.V), Maravamadurai(P) Ward-5,6  Maravamadurai ,
+2.Maravamadurai(R.V), Maravamadurai(P) Ward-7 Kanganipatti"
+36,181,36,,"Panchayat Union Middle School, New Terraced Building, South portion, Maravamaduai 622002","1.Maravamadurai(R.V), Maravamadurai(P) Ward-7 Kanganipatti , 2.Maravamadurai(R.V), Maravamadurai(P) Ward-8 Sangampatti ,"
+37,181,37,,"Panchayat Union Middle School, Terraced Building, Southfacing  west portion, Maravamaduai, 622002","1.Maravamadurai(R.V), Maravamadurai(P) Ward-8 Eachampatti"
+38,181,38,,"Government Higher Secondary School, West New Terraced Building, North Portion, Nagarapatti 622401","1.Nagarapatti(R.V), Nagarapatti (P) Ward-1  mampatti , 2.Nagarapatti(R.V), Nagarapatti(P) Ward-2  Nagarapatti , 3.Nagarapatti(R.V), Nagarapatti(P) Ward-2  Vadakkipatti"
+39,181,39,,"Government   Higher Secondary School ,
+west portion south faced science Lab, Nagarapatti -622401","1.Nagarapatti(R.V), Nagarapatti(p) Ward-3  vadakipatti ,
+2.Nagarapatti(R.V), Nagarapatti(P) Ward-2  Nagarapatti , 3.Nagarapatti(R.V), Nagarapatti(P) Ward-3  Ammapatti"
+40,181,40,,"Panchayat Union Middle School, North
+Facing  West Portion, Terraced Building, Kallampatti 622401","1.Kallampatti (R.V) , Kallampatti (P) Ward-1  panayamangalappatti ,
+2.Kallampatti (R.V) , Kallampatti (P) Ward-1melakkallampatti , 3.Kallampatti (R.V) , Kallampatti (P) Ward-1  Sengalapatti , 4.Kallampatti (R.V) , Kallampatti (P) Ward-1  Mookalaganpatti , 5.Kallampatti (R.V) , Kallampatti (P) Ward-1  Mettampatti"
+41,181,41,,"Panchayat Union Middle School, New Terraced Building, East Side North facing, Kallampatti 622401","1.Kallampatti (R.V) , Kallampatti (P) Ward-1  Kallampatti"
+42,181,42,,"Panchayat Union Elementary School West Side, Tiled  Building, Ammankurichi 622401","1.Ammankurichi (R.V), Ammankurichi (P) Ward-1 Avinkonpatti , 2.Ammankurichi (R.V), Ammankurichi (P) Ward-1 Chockanathapatti , 3.Ammankurichi (R.V), Ammankurichi (P) Ward-2 Ammankurichi"
+43,181,43,,"Panchayat Union Elementary School, East Portion, Terraced  Building Ammankurichi 622401","1.Ammankurichi (R.V),   Ammankurichi (P) Ward-3  Ammankurichi , 2.Ammankurichi (R.V), Ammankurichi (P) Ward-3 Karumankadu"
+44,181,44,,"Panchayat Union Middle School New
+Terraced Building, South Side, Edayathur 622002","1.Idayathur (R.V), Idayathur (p) Ward-1  ammapatti ,
+2.Idayathur (R.V), Idayathur (p) Ward-1  Ambalpuram , 3.Idayathur (R.V), Idayathur (p) Ward-1  m.g.r. nagar ,
+4.Idayathur (R.V), Idayathur (p) Ward-2  Idayathur Adidravidar colony , 5.Idayathur (R.V), Idayathur (p) Ward-2  Idayathur"
+45,181,45,,"Panchayat Union Middle School New Terraced Building North Side, Edayathur 622002","1.Idayathur (R.V), Idayathur (p) Ward-3  Idayappatti , 2.Idayathur (R.V), Idayathur (p) Ward-3  Indiranagar , 3.Idayathur (R.V), Idayathur (p) Ward-4  Pulavanarkudi , 4.Idayathur (R.V), Idayathur (p) Ward-4  Kulavaippatti"
+46,181,46,,"Panchayat Union Elementary School,
+West Terraced  Building West Portion, Alavayal 622401","1.Alavayal (R.V) , Alavayal (P) Ward-1 Alavayal ,
+2.Alavayal (R.V) , Alavayal (P) Ward-2 Vairampatti ,
+3.Alavayal (R.V) , Alavayal (P) Ward-3 Chinnapeechanpatti"
+47,181,47,,"Panchayat Union Elementary School, Centre Terraced, Building East portion , Alavayal 622401","1.Alavayal (R.V) ,   Alavayal (P) Ward-3 thulukkaurani ,
+2.Alavayal (R.V) , Alavayal (P) Ward-3 Thampattapparai ,
+3.Alavayal (R.V) , Alavayal (P) Ward-3 paramankoodam ,
+4.Alavayal (R.V) , Alavayal (P) Ward-3 pidarampatti ,
+5.Alavayal (R.V) , Alavayal (P) Ward-3 manathondi"
+48,181,48,,"Government Higher Secondary School. East Building, New Terraced  Building, South Facing West Portion, Alavayal 622401","1.Alavayal (R.V),Alavayal (P) Ward-4  Vadakkipatti ,
+2.Alavayal (R.V),Alavayal (P) Ward-4  Kulavaikkadu ,
+3.Alavayal (R.V),Alavayal (P) Ward-4  Pannaikalam  ,
+4.Alavayal (R.V),Alavayal (P) Ward-4  Saralaikadu ,
+5.Alavayal (R.V),Alavayal (P) Ward-4  Easykudam ,
+6.Alavayal (R.V),Alavayal (P) Ward-4  Therkikadu"
+49,181,49,,"Government Higher Secondary School. East Building, New Terraced  Building, South Facing East Portion, Alavayal 622401","1.Alavayal (R.V),Alavayal (P) Ward-4  Periyaurani , 2.Semmalapatti (R.V), Alavayal (P) Ward-5   Semmalapatti"
+50,181,50,,"Panchayat Union Elementary School, New Terraced  Building, North side , Thenur 622401","1.Konnaiyur (R.V.) Thenur (P) Ward-1 Thachanpatti ,
+2.Thenur (R.V.) Thenur (P) Ward-1  Thenur ,
+3.Thenur (R.V.) Thenur (P) Ward-1, Subburayapatti ,
+4.Thenur (R.V.) Thenur (P) Ward-1, Embapatti"
+51,181,51,,"Panchayat Union Elementary School, New Terraced  Building, South Side, Thenur 622401","1.Thenur (R.V.) Thenur (P) Ward-2, Mettupatti ,
+2.Thenur (R.V.) Thenur (P) Ward-2, Karugapoolampatti , 3.Nathupatti (R.V.) Thenur (P) Ward-3  Nathupatti"
+52,181,52,,"Panchayat Union Middle School, South
+Terraced Building North Facing, East Side, Semboothi 622401","1.Semboothi(R.V),Semboothi(P) Ward-1  Ambalakaranpatti, Pillayarpatti ,
+2.Semboothi(R.V),Semboothi(P) Wrd-1 Semboothi , 3.Semboothi(R.V),Semboothi(P) Ward-2,3  Semboothi"
+53,181,53,,"Panchayat Union Middle School, South Terraced Building, North Facing, West Side, Semboothi 622401","1.Semboothi(R.V), Semboothi(P) Ward-4,5  Semboothi , 2.Semboothi(R.V),Semboothi(P) Ward-6  Semboothi Annanagar , 3.Semboothi(R.V),Semboothi(P) Ward-6  Sivanthilingapuram"
+54,181,54,,"Panchayat Union Elementary School New Terraced  Building  North side, Kovanur 622402","1.Kovanur (R.V.) Kovanur (P) Ward-1, Paranthalaipatti ,
+2.Kovanur (R.V.) Kovanur (P) Ward-2  Kovanur ,
+3.Kovanur (R.V.) Kovanur (P) Ward-3  Kovanur Arijana  Colony , 4.Mekkinipatti (R.V.)    Kovanur (P) Ward-4  Mekkinipatti"
+55,181,55,,"Panchayat Union Elementary School New ,Terraced  Building  North Portion , Sundaram 622402","1.Sundaram  (R.V), Sundaram (P) Ward-1  Arunavayal ,
+2.Sundaram  (R.V), Sundaram (P) Ward-1  Sundaram ,
+3.Sundaram  (R.V), Sundaram (P) Ward-2  Idayappatti"
+56,181,56,,"Panchayat Union Elementary School New Terraced  Building  East facing  , Sevalur 622402","1.Sevalur(R.V), Sevalur (P) Ward-1  Sevalur - 1"
+57,181,57,,"Grama  Seva  Center East Faced
+Terraced Building, Sevalur 622402","1.Sevalur(R.V), Sevalur (P) Ward-1  Sevalur - 2"
+58,181,58,,Panchayat Union Elementary School New Terraced  Building  East Portion South Facing Malayadipatti 622402,"1.Sevalur (R.V), Sevalur (P) Ward-1  Malayadippatti ,
+2.Sevalur (R.V),   Sevalur (P) Ward-1 Karukampatti"
+59,181,59,,"Panchayat Union Elementary School
+New Terraced  Building, North facing, Melamelanilai 622401","1.Melamelanilai (R.V), Melamelanilai (P) Ward-1  Keezhapatti ,
+2.Melamelanilai (R.V), Melamelanilai (P) Ward-2  Melamelanilai"
+60,181,60,,"Panchayat Union Elementary School Tiled building  (North facing ) , Malampatti 622401","1.Melamelanilai (R.V), Melamelanilai (P) Ward-3  Malmpatti"
+61,181,61,,"Panchayat Union Elementary School,
+Tiled Building, South Facing, Konnaipatti 622401","1.Moolankudi (R.V), Konnaipatti (P) Thatchampatti ,
+2.Moolankudi (R.V), Konnaipatti (P) Ward-2  Konnaipatti"
+62,181,62,,"Panchayat Union Elementary School New Terraced  Building  North Facing, Moolangudy 622401","1.Moolankudi (R.V), Konnaipatti (P) Ward-3  Moolangudi"
+63,181,63,,"Panchayat Union Elementary School New Terraced  building West side,  North Portion, Koppanapatti 622401","1.Konnaiyur (R.V), Koppanappatti (P) Ward-2  Konnaiyur"
+64,181,64,,"Panchayat Union Elementary School
+East Side New Terraced Building North Facing, Koppanapatti 622401","1.Konnaiyur (R.V), Koppanappatti (P) Ward-3  Arisana  natham  ,
+2.Moolangudi (R.V), Koppanappatti (P) Ward-4  Rettiyappatti ,"
+65,181,65,,"Panchayat Union Elementary School, Terraced Middle Building North Facing, Koppanapatti 622401","1.Moolangudi (R.V), Koppanappatti (P) Ward-5 Koppanappatti ,
+2.Moolangudi (R.V), Koppanappatti (P) Ward-1 Koppanappatti Chettiyar Veethi"
+66,181,66,,"Panchayat Union Elementary School,
+New Terraced  Building  (west Portion), Thuthur, 622401","1.Thoothur (R.V), Thoothur (P) Ward-1  Thoothur ,
+2.Thoothur (R.V), Thoothur (P) Ward-1  Theethampatti ,
+3.Thoothur (R.V), Thoothur (P) Ward-1  Puthunallur"
+67,181,67,,"Panchayat Union Elementary School East Terraced  Building, Manappatti 622401","1.Thoothur (R.V), Thoothur (P) Ward-2  Manappatti"
+68,181,68,,"Panchayat Union Middle School New Terraced Building, South Portion East Facing, Kandianatham  622411","1.Kandiyanatham  (R.V), Kandiyanatham (P) Ward-2  Kandiyanatham  , 2.Kandiyanatham  (R.V), Kandiyanatham (P) Ward-2  Arisana  valavu , 3.Kandiyanatham  (R.V), Kandiyanatham (P) Ward-2  Ka.Poothanvalavu , 4.Kandiyanatham  (R.V), Kandiyanatham (P) Ward-2  Karumankadu"
+69,181,69,,"Panchayat Union Elementary School New Terraced  Building, South Side, Kesarapatti 622411","1.Kandiyanatham  (R.V), Kandiyanatham (P) Ward-1  Kesarappatti , 2.Kandiyanatham  (R.V), Kandiyanatham (P) Ward-1  Ka.Puthuppatti"
+70,181,70,,"Panchayat Union Middle School, South
+Terraced Building South Side, Mylapore 622411","1.Ponnamaravathi West (R.V), Mailappur (P) Ward-2 Pillayarpatti ,
+2.Ponnamaravathi West (R.V), Mailappur (P) Ward-2 Mailappur"
+71,181,71,,"Panchayat Union Elementary School Terraced Building, Anjupulipatti 622411","1.Ponnamaravathi West (R.V), Mailappur (P) Ward-2 Anjupullippatti"
+72,181,72,,"Valamburi Vaduganathan HSS, Side
+Portion Terraced  Main  Building, Ponnamaravathy  622407","1.Ponnamaravathi (R.V), Ponnamaravathy (SP) Ward-8  Pallikoodathuveethi ,
+2.Ponnamaravathi (R.V), Ponnamaravathy (SP) Ward-8  Ponnamaravathy  Main Road ,
+3.Ponnamaravathy (SP) Ward-8  Nattukalveethi ,
+4.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-8  Chinnambalamsanthu , 5.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-8  Ramadisanthu , 6.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-9  Perumal kovil 1st Veethi
+,
+7.Ponnamaravathy (R.V),Ponnamaravathy  (SP) Ward-9  Ponnamaravathy  Main Road 2
+8.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-8  Sengunthar Veethi , 9.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-8  Ponnamaravathy  Main Road
+10.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-14 Vaiyapuri Road"
+73,181,73,,"Valamburi Vaduganathan HSS, Front
+Portion Terraced  Building, Ponnamaravathy  622407","1.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-9  Ammankovilveethi ,
+2.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-14 Valumpuri 1st Number Road
+3.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-14 Valampuri Taakis Road 4.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-14 Vaduganathan Road 5.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-14 Kailasapathy Road 6.Ponnamaravathy  (R.V), Ponnamaravathy  (SP) Ward-2  Pudukkottai Main Road"
+74,181,74,,"Valamburi Vaduganathan Higher
+Secondary  School Front portion Main Building  , Ponnamaravathy  622407","1.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-1,2 Ponnamaravathy Main
+Road
+2.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-3  Valampuri 1st No Road 3.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-3  Valampuri Theatre Road 4.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-4  Palamedu Veethi 5.Ponnamaravathy (R.V), Ponnamaravathy  (SP) ward-5  Sivankoil   Vadakku Veethi ,
+6.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-6  Ariyar   Veethi , 7.Ponnamaravathy (R.V), Ponnamaravathy  (SP) ward-7  Auspathiri Road  , 8.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-8  Pookudi Veethi , 9.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-10 Amarakandan  Veethi , 10.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-11 Chekkadi Santhu , 11.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-12 Valampuri 2nd  Theru
+,
+12.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-13 Valmapuri 2nd number road  ,
+13.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-14 Ponnamaravathy Main Road  - 2
+14.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-15 Valampuri 1st number Road  ,
+15.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-16 Nandavanam Road"
+75,181,75,,"Palaniappa Elementary  School,
+Southeast Portion Valamburi 2nd St., Terraced Building, North Facing, Valayappatti , Ponnamaravathy  622401","1.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-12 Valampuri 5th Number
+road ,
+2.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-11 KasaOorani Kilakkutheru ,
+3.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-11 Senthamil Kalasalai Road ,
+4.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-11 Gandhiji Road , 5.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-11 Nehruji Road  , 6.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-11 Adaikalam  Kathar Koil Road
+7.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-11 Mangalam  Hospital Road ,
+8.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-11 Kolladi Parai , 9.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-12 Valayanvalavu veethi 10.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-12 Valampuri 5th Street, Nagappa  Chettiyar Lane ,
+11.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-12 Valampuri 4th number Road  ,
+12.Ponnamaravathy (R.V), Ponnamaravathy  (SP) ward-12 Sankarankundu North veethi ,"
+76,181,76,,"Palaniappa Elementary  School, West
+Building, South Portion, East Facing, Ponnamaravathy  622401","1.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-10 Valampuri 2nd
+number Road  ,
+2.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-13 Adaikkan Oorani Theru 3.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-12 Avudayan Chettiar Theru ,
+4.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-11 Senthamil Kalasalai Veethi ,
+5.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-13 Nachiyappan Chettiar Santhu ,
+6.Ponnamaravathy  (R.V), Ponnamaravathy  (SP) Ward-13 Palaniappa  Chettiar Veethi ,
+7.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-13 Valayan Valavu Veethi 8.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-12 Valampuri 4th veethi 9.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-11 Mangalam  Auspathiri Road ,
+10.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-13 Namagal Kalluri Road 11.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-15 Valampurinatha Swamy Therku veethi ,
+12.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-15 Valampurinatha Samy Vadakku veethi ,
+13.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-14 Vaiyapuripatti Road"
+77,181,77,,"Palaniappa Elementary  School,
+Terraced West Building  (North portion)east facing, Ponnamaravathy 622401","1.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-11,15   Adaikkalam
+Kathan Theru ,
+2.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-15 Mayiladumparai , 3.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-10 Nandavana  Road  , 4.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-11 Karuthan Chettiyar veethi ,
+5.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-15 Muthaiah Chettiar Veethi ,
+6.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-14 Amman Sannathi Road
+,
+7.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-14,7  Vaduganathan Road
+,
+8.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-15 Auspathiri Road 9..Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-11 KasaOorani Vadakku 10..Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-12 Meyappa chettiar Veethi."
+78,181,78,,"Panchayat Union Middle School South Terraced Building East Side North facing  , Pon-Pudupatti Ponnamaravathi 622408","1.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-9  Pudukkottai Main Road
+,
+2.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-9  Savankundu Merku santhu ,
+3.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-9  Kodikki Mundan Ambalam santhu ,
+4.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-9  Vadakku Puthu Valaivu"
+79,181,79,,"Panchayat Union Middle School South
+Terraced Building West portion North facing  Side ,  Pon-Pudupatti Ponnamaravathi 622408","1.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-9  Pagachi Asari Santhu  ,
+2.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-9  Koothaiyan Santhu , 3.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-9  Veettu Vasathi Variya Kudiyiruppu ,
+4.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-9  Pattar veethi"
+80,181,80,,"Panchayat Union Middle School Eastern side SSA Terraced  Building, North Portion West Facing  Pon-Pudupatti Ponnamaravathi 622408","1.Ponnamaravathy  (R.V), Ponnamaravathy  (SP) Ward-11 Pudukkottai Main  Veethi (Vadakku) ,
+2.Ponnamaravathy  (R.V), Ponnamaravathy  (SP) Ward-11 Vadakku Rada veethi , 3.Ponnamaravathy  (R.V), Ponnamaravathy  (SP) Ward-11 Merku Rada veethi theru 4.Ponnamaravathy  (R.V), Ponnamaravathy  (SP) Ward-11 Bazaar  main  Road (Merku) 5.Ponnamaravathy  (R.V), Ponnamaravathy  (SP) Ward-11 Subramanian  Chettiar  santhu theru ,  6.Ponnamaravathy  (R.V), Ponnamaravathy  (SP) Ward-11 Unnamaiyachi Santhu theru ,
+7.Ponnamaravathy  (R.V), Ponnamaravathy  (SP) Ward-11 Sathappa Chettiar  Santhu theru ,
+8.Ponnamaravathy  (R.V), Ponnamaravathy  (SP) Ward-11 Kilakku Rada veethi theru 9.Ponnamaravathy  (R.V), Ponnamaravathy  (SP) Ward-11 Mambalathan Oorani Merku veethi ,  10.Ponnamaravathy (R.V),  Ponnamaravathy (SP) Ward-11 Mambalathan Oorani Kilakku santhu
+11.Ponnamaravathy (R.V),  Ponnamaravathy (SP) Ward-11 Bazaar  Main Road   Kilakku , 12.Ponnamaravathy (R.V),  Ponnamaravathy (SP) Ward-12 Malaiyan  Oorani Kilakku theru
+,
+13.Ponnamaravathy (R.V),  Ponnamaravathy (SP) Ward-12 Raman  Chettiyar Santhu 14.Ponnamaravathy (R.V),  Ponnamaravathy (SP) Ward-12 Chidambaram  Chettiyar Santhu ,
+15.Ponnamaravathy (R.V),  Ponnamaravathy (SP) Ward-12 Meyyan  Chettiyar Santhu"
+81,181,81,,"Panchayat Union Middle School
+Eastern side SSA Terraced  Building South Portion West Facing Pon-Pudupatti Ponnamaravathi 622408","1..Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-12 Swamynathan
+Chettiyar Santhu ,
+2. Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-12 Muthalagu Asari santhu ,
+3. Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-12 Pandiyan Koil theru
+4. Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-12 Somasundara Chettiyar Santhu ,
+5. Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-12 Pudukkottai Main Road therku ,
+6. Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-12 Malayan  Oorani theru
+,
+7. Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-12 Easwaramoorthi theru"
+82,181,82,,"Government Girls Higher Secondary
+School Additional Class Room   West side Building  East faced  North Portion Pon Puduppatti Ponnamaravathy 622408","1.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-10 Pudukkottai Main
+veethi ,
+2.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-10 Sivan Koil Melaveethi , 3.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-10 Sivan Koil vadakku veethi ,
+4.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-10 Vadakku Rada veethi , 5.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-10 Radio Maithanam  , 6.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-13 Pudukkottai Main veethi ,
+7.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-11 Bazaar Main Road  , 8.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-13 Pesalathevar Ambalam santhu
+9.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-13 Chinnakaruppan Chettiyar santhu
+10.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-13 Muthaiah Chettiyar Santhu ,
+11.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-13 Santhai veethi , 12.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-13 Adi dravidar theru , 13.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-13 Santhai veethi"
+83,181,83,,Government Girls Higher Secondary School Additional Class Room   West side Building  East faced  South Portion Pon Puduppatti Ponnamaravathy 622408,"1.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-10 Pidari Koil theru , 2.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-10 Veeran Chetti Oorani theru
+3.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-10 Pidari Koil   vadakku theru
+4.Ponnamaravathy (R.V), Ponnamaravathy  (SP) Ward-10 Pidari Koil Road ,"
+84,181,84,,"Alamelu Primary  School (Panchayat
+Union Elementary School) South Terraced Building North facing ) , Ponnamaravathy  622407","1.Ponnamaravathy West (R.V), Thottiampatti(P) Ward-1 Anna Nagar ,
+2.Ponnamaravathy West (R.V), Thottiampatti(P) Ward-1 Periyar Nagar ,"
+85,181,85,,"Alamelu Primary  School (Panchayat Union Elementary School) North Facing, Terraced Building West Side, Ponnamaravathy  622407","1.Ponnamaravathy West (R.V), Thottiampatti(P) Ward-1 Indhra Nagar"
+86,181,86,,"Alamelu Primary  School (Panchayat Union Elementary School) North Terraced Building( South facing ), Ponnamaravathy  622407","1.Ponnamaravathy West (R.V), Thotiampatty  (P) Ward-2  Kamaraj Nagar ,"
+87,181,87,,"Alamelu Primary  School (Panchayat Union Elementary School)   Terraced Building( West facing  ), south portion Ponnamaravathy  622407","1.Ponnamaravathy West (R.V), Thotiampatty  (P) Ward-2  Thottiampattu"
+88,181,88,,"Panchayat Union Middle School North Terraced Building East Fortion, Kattaiyandippatti 622407","1.Ponnamaravathy West (R.V), Thotiampatty  (P) Ward  -2  J.J.nagar , 2.Ponnamaravathy West (R.V), Thotiampatty  (P) Ward-2  Kattiampatty"
+89,181,89,,"Sivakamisundari Senthamil Paadasalai (Primary  School) Terraced  New Building, Ground Floor, West Room, South Facing, Vegupatti 622408","1.Ponnamaravathy West (R.V), Vegupatti (p) Ward-1  Vegupatti (Block-1) Vadakku  Paguthi , 2.Ponnamaravathy West (R.V), vegupatti (p) ward-2  vegupatti (Block-2) Therku paguthu"
+90,181,90,,"Sivakamisundari Senthamil Paadasalai
+(Aided  Ele. School) Noon Meal Centre West Facing Terraced  Building, Vegupatti 622408","1.Ponnamaravathy West (R.V), vegupatti (p) Ward-3  Vegupatti (Block-3)
+Pandiyan Kovil theru"
+91,181,91,,"Panchayat Union Library Terraced Building, West Facing, Vegupatti 622408","1.Ponnamaravathy West (R.V), vegupatti (p) Ward-3  Vegupatti (Block-3) Pandiyan Kovil theru"
+92,181,92,,"Panchayat Union Elementary School NEW Terraced Building, South Facing, Kattupatti 622408","1.Ponnamaravathy East (R.V), kattupatti (p) Ward-1  velliyandipatti , 2.Ponnamaravathy East (R.V), kattupatti (p) ward-2  Sivaprakasam  Nagar"
+93,181,93,,"Grama  Seva  Centre Terraced Building South Facing, Kattuppatti 622408","1.Ponnamaravathy East (R.V), kattupatti (p) ward-2  kattupatti ,"
+94,181,94,,"Panchayat Union Elementary School,
+New Terraced  Building, South Facing,
+P. Usilampatti 622408","1.Ponnamaravathy East (R.V), Usilampatti (p) ward-1  p-Usilampatti ,
+2.Ponnamaravathy East (R.V), Usilampatti (p) ward-1  Enamedu , 3.Ponnamaravathy East (R.V), Usilampatti (p) ward-1  kelavegupatti"
+95,181,95,,"Panchayat Union Middle School, North Portion, Terraced  Building, East Face, Kattaiyandipatti 622408","1.Ponnamaravathy West (R.V), Usilampatti (p) Ward-1  Malaiyan Oorani Eswaramoorthi Theru
+2.Ponnamaravathy West (R.V), Usilampatti (p) Ward-1  Indira  Nagar Nadutheru , 3.Ponnamaravathy West (R.V), Usilampatti (p) Ward-2  kattaiyandipatti"
+96,181,96,,"Panchayat Union Elementary School
+Tiled Building North portion, West Facing, Bagavandipatti 622411","1.Ponnamaravathy West (R.V), Bagavandipatti (p) Ward-2  Ariyandipatti ,
+2.Ponnamaravathy West (R.V), Bagavandipatti (p) Ward-2  Bagavandipatti ,"
+97,181,97,,"Panchayat Union Elementary School Tiled Building South portion, West Facing, Bagavandipatti 622411","1.Ponnamaravathy West (R.V), Bagavandipatti (p) Ward-2  kayampunjai"
+98,181,98,,"Panchayat Union Elementary School , Terraced Building , Enathi 622403","1.Varpattu (R.V), Enathi (p) Ward-2  Enathi ,
+2.Varpattu (R.V), Enathi (p) Ward-2  Jeeva Nagar"
+99,181,99,,"Grama  Seva  Centre Terraced Building North Faced, Enathi 622403","1.Varpattu (R.V), Enathi (p) Ward-1  pitharampatti ,"
+100,181,100,,"Government Higher Secondary School middile portion East Terraced  Building, Melasivapuri 622403","1.Varpattu (R.V), Mela sivapuri (p) Ward-1  Mela  sivapuri   ,"
+101,181,101,,"Government Higher Secondary School,East Terraced Building, west faced  (South portion), Melasivapuri 622403","1.Varpattu (R.V), Mela sivapuri (p) Ward-2  Mela  sivapuri ,
+2.Varpattu (R.V), Mela  sivapuri (p) Ward-3  Mela sivapuri"
+102,181,102,,"Grama Seva  Center, North Facing, Terraced Building South Portion Venthanpatty 621308","1.Varpattu (R.V), venthanpatti (p) Ward-1,2,3  venthanpatti - 1"
+103,181,103,,"Grama Seva  Center East Facing,
+Terraced Building North Portion, Venthanpatty, 621308","1.Varpattu (R.V), venthanpatti (p) Ward-1,2,3  venthanpatti - 2"
+104,181,104,,"Panchayat Union Elementary School Western side Terraced  Building, Venthanpatti 622419","1.Varpattu (R.V), venthanpatti (p) Ward-4  Vijayapuram ,
+2.Varpattu (R.V), venthanpatti (p) Ward-4  Agamutayar puthur ,
+3.Varpattu (R.V), venthanpatti (p) Ward-4  Karuppar koil patti ,
+4.Varpattu (R.V), venthanpatti (p) Ward-4  Oiyan Puthur ,
+5.Varpattu (R.V), venthanpatti (p) Ward-4  Etaiyan puthur ,
+6.Varpattu (R.V), venthanpatti (p) Ward-4  Sooran kotangi valaivu"
+105,181,105,,"Panchayat Union Elementary School West Portion Tiled Building, Varpattu 622419","1.Varpattu (R.V), Varppattu (p) Ward-1  pitchakalan patti ,
+2.Varpattu (R.V), Varppattu (p) Ward-1  kollupatti"
+106,181,106,,"Panchayat Union Elementary School,
+Eastern portion, Tiled  Building, Varpattu 622419","1.Varpattu (R.V), Varppattu (p) Ward-2  Poiyamanipatti ,
+2.Varpattu (R.V), Varppattu (p) Ward-3,4,5  Varppattu"
+107,181,107,,"Panchayat Union Elementary School, Eastern Addidtional Terraced  Building North Portion West Facing  Varpet 622403","1.Varpattu (R.V), Varppattu (p) Ward-3  Varppattu   ,
+2.Varpattu (R.V), Varppattu (p) Ward-4  Varppattu"
+108,181,108,,"Government High School, Left Side, 1st
+Room,  Varpet 622403","1.Varpattu (R.V), Varppattu (p) Ward-5  Devanpatti ,
+2.Varpattu (R.V), Varppattu (p) Ward-6  mettampatti ,"
+109,181,109,,"Government High School, Right Side,
+1st Room, South faced  East Portion, Varpet 622403","1.Varpattu (R.V), Varppattu (p) Ward-6  Nallur ,
+2.Kelakurichi (R.V), Varppattu (p) Ward-6  Kelakurichipatti , 3.Varppattu (R.V), Varppattu (p) Ward-6  Kallkkadu"
+110,181,110,,"Panchayat Union Elementary School New Terraced  Building  East Side , Karuppukudipatti 622403","1.Thirukkalampur (R.V), Thirukkalampur (p) Ward-1  Ariyandipatti , 2.Thirukkalampur (R.V), Thirukkalampur (p) Ward-1  karuppukudipatti"
+111,181,111,,"Panchayat Union Elementary School New Terraced  Building  West Side, Karuppukudipatti 622403","1.Thirukkalampur (R.V), Thirukkalampur (p) Ward-1  karuppukudipatti Theru 2.Thirukkalampur (R.V), Thirukkalampur (p) Ward-1  kattampatti."
+112,181,112,,"Government High School, Terraced Building, New Building, South Room, West Facing, Karuppukudipatti 622403","1.Thirukkalampur (R.V), Thirukkalampur (p) Ward-1  Uthkuli 2.Thirukkalampur (R.V), Thirukkalampur (p) Ward-1
+karuthankotanpatti ,"
+113,181,113,,"Government High School, South Eastern side building  , Thirukkalambur 622403","1.Thirukkalampur (R.V), Thirukkalampur (p) Ward-1  Kumarappatti , 2.Thirukkalampur (R.V), Thirukkalampur (p) Ward-1  Thatchampatti , 3.Thirukkalampur (R.V), Thirukkalampur (p) Ward-1  Narangiyampatti"
+114,181,114,,"Government High School, Asbestos Building, Southern West Portion , Thirukkalambur 622403","1.Thirukkalampur (R.V), Thirukkalampur (p) Ward-2  Arisana  Colany  , 2.Thirukkalampur (R.V), Thirukkalampur (p) Ward-2  kovil Veethi , 3.Thirukkalampur (R.V), Thirukkalampur (p) Ward-3  Thirukalampur Therku theru"
+115,181,115,,"Government High School South Asbetos Building, West portion buildings , Thirukkalambur 622403","1.Thirukkalampur (R.V), Thirukkalampur (p) Ward-1Thirukkalampur Vadakku theru"
+116,181,116,,"Government High School, Western
+Terraced Building, East Facing, Thirukkalambur 622403","1.Thirukkalampur (R.V), Thirukkalampur (p) Ward-2  Thirukkalampur Melatheru"
+117,181,117,,"Panchayat Union Elementary School South New Building, Eastern Wing, Rarapuram  622404","1.Rarapuram (R.V.) Rarapuram (p) Ward-1  Thaminipatti , 2.Rarapuram (R.V.) Rarapuram (p) Word-1  Rarapuram  ,"
+118,181,118,,"WOMEN SELF HELP  GROUP, KUMMAKUDI  622404",1.Kummankudi (R.V.)   Rarapuram (p) Ward-2 kummankudi
+119,181,119,,"Panchayat Union   Elementary School, South Facing West Building Arasandhmpatti. 622404","1.Arasabdamoattu (R.V.) Peraiyur (p) Ward-3  Nadar theru ,
+2.Peraiyur (R.V.) Peraiyur (p) Ward-3  Athiravdar Colany  , 3.Arasabdamoattu (R.V.) Peraiyur (p) Ward-3  Mathakovil Paguthi , 4.Arasabdamoattu (R.V.) Peraiyur (p) Ward-3  Vakkusavadi Paguthi ,
+5.Peraiyur (R.V.) Peraiyur (p) Ward-3 Vellalar Paguthi , 6.Arasabdamoattu (R.V.) Peraiyur (p) Ward-3  Ambalakkarar Paguthi , 7.Arasabdamoattu (R.V.) Peraiyur (p) Ward -3  Kirushthuva  kudieruppu"
+120,181,120,,"Panchayat Union Middle School, SSA Building, Northern Middle Portion, Pilakkudipatti 622404","1.Peraiyur (R.V.) Peraiyur (p) Ward-2  Peraiyur Colony ,
+2.Peraiyur (R.V.) Peraiyur (p) Ward-2 Amabalakarar Paguthi ,
+3.Peraiyur (R.V.) Peraiyur (p) Ward-2  Kelakadu Paguthi ,
+4.Peraiyur (R.V.) Peraiyur (p) Ward-2  Esaivellar Paguthi ,
+5.Peraiyur (R.V.) Peraiyur (p) Ward-2  Nadar Theru ,
+6.Peraiyur (R.V.) Peraiyur (p) Ward-2 Vaniya  Chettiyar  Veethi ,
+7.Peraiyur (R.V.) Peraiyur (p) Ward-3  Kelatheru ,
+8.Peraiyur (R.V.) Peraiyur (p) Ward-3  Melatheru ,
+9.Peraiyur (R.V.) Peraiyur (p) Ward-3  Nadartheru , 10.Pilakudipatti (R.V.) Peraiyur (p) Ward-3  Pilakkudi patti"
+121,181,121,,"Panchayat Union Elementary School,
+South Facing West Building Mallangudi.   622404","1.Mallangudi (R.V.) Peraiyur (p) Ward-1  Ayyanar kudieruppu ,
+2.Peraiyur (R.V.) Peraiyur (p) Ward-1  vellar kudieruppu ,
+3.Peraiyur (R.V.) Peraiyur (p) ward-1  puthu kudieruppu , 4.Mallangudi (R.V.) Peraiyur (p) ward-1  Maravar Kudierppu , 5.Mallangudi (R.V.) Peraiyur (p) ward-1  Asari theru kudierppu , 6.Mallangudi (R.V.) Peraiyur (p) ward-1  paratheru"
+122,181,122,,"Panchayat Union Elementary School, Terraced Building, Therkkuthalampatti 622404","1.Kottur   (R.V.)   Kottur (p) Ward-1  Therku Thalampatti ,"
+123,181,123,,"Panchayat Union Elementary School, Terraced Building, East Side, Vadakkuthalampatti 622404","1.Kottur   (R.V.)   Kottur (p) Ward-1  Vadakku Thalampatti ,
+2.Kottur   (R.V.)   Kottur (p) Ward-1  Nallampatti
+3.Kottur   (R.V.)   Kottur (p) Ward-1  Kovilpatti 4.Katampavayal (R.V.)   Kottur (p) Ward-1  Katampavayal"
+124,181,124,,"Panchayat Union Elementary School, Terreced  West Building, Kottur 622404","1.Kottur (R.V), Kottur (p) Ward-2  Pallartheru ,
+2.Kottur (R.V), Kottur (p) Ward-2  Parayar theru ,
+3.Kottur (R.V), Kottur (p) Ward-2  Maravar  theru ,
+4.Kottur (R.V), Kottur (p) Ward-2  Vellar theru ,
+5.Kottur (R.V), Kottur (p) Ward-2  Ambalakarar theru"
+125,181,125,,"Panchayat Union Elementary School, Terraced South Building, East Wing, Kottur 622404","1.Kottur (R.V), Kottur (p) Ward-3  Ambal Nagar ,
+2.Kottur (R.V), Kottur (p) Ward-3  MalamPatti ,
+3.Kottur (R.V), Kottur (p) Ward-3  Mettupatti ,
+4.Kottur (R.V), Kottur (p) Ward-3  Paranikudipatti ,
+5.Kottur (R.V), Kottur (p) Ward-3  Malaiyakoil Mela Theru"
+126,181,126,,"Sri Shanmuga Vilas (Aided) School, Old
+Tiled Building, Nachandupatti 622404","1.Kottur (R.V), Natchanthupatti (p) Ward-1 Melnilaipatti Vadapuram ,
+2.Kottur (R.V), Natchanthupatti (p) Ward-1 Sivan Kovil Veethi ,
+3.Kottur (R.V), Natchanthupatti (p) Ward-1 Postoffice Veethi ,
+4.Kottur (R.V), Natchanthupatti (p) Ward-1 Kambar Veethi ,
+5.Kottur (R.V), Natchanthupatti (p) Ward-1 Sivakami Nagar ,
+6.Kottur (R.V), Natchanthupatti (p) Ward-1  Kokale Veethi   ,
+7.Kottur (R.V), Natchanthupatti (p) Ward-2 Rajaji Veethi ,
+8.Kottur (R.V), Natchanthupatti (p) Ward-1 Navavayal ,
+9.Kottur (R.V), Natchanthupatti (p) Ward-2 ponnamaravathi Main  Road"
+127,181,127,,"Sri, Shanmugha Vilas(Aided) School, (New Asbestos Building), Nachandupatti 622404","1.Kottur (R.V), Natchanthupatti (p) Ward-3 Subash Veethi ,
+2.Kottur (R.V), Natchanthupatti (p) Ward-3 Elango Veethi ,
+3.Kottur (R.V), Natchanthupatti (p) Ward-3 Virachilai Main Road  ,
+4.Kottur (R.V), Natchanthupatti (p) Ward-3 E.B Office Veethi ,
+5.Kottur (R.V), Natchanthupatti (p) Ward-4 Auspathiri veethi ,
+6.Kottur (R.V), Natchanthupatti (p) Ward-4 Puthur Colany  ,
+7.Kottur (R.V), Natchanthupatti (p) Ward-4 Thilakar theru ,
+8.Kottur (R.V), Natchanthupatti (p) Ward-4 Sathyamoorthi Theru ,
+9.Kottur (R.V), Natchanthupatti (p) Ward-4 Perumalkovil Theru ,
+10.Kottur (R.V), Natchanthupatti (p) Ward-4  Pattinathar Veethi ,
+11.Kottur (R.V), Natchanthupatti (p) Ward-4  Na.Puthur ,
+12.Kottur (R.V), Natchanthupatti (p) Ward-4  Main Road  ,
+13.Kottur (R.V), Natchanthupatti (p) Ward-4  Malayalingapuram ,
+14.Kottur (R.V), Natchanthupatti (p) Ward-4  Patel Theru"
+128,181,128,,"Sri Udayaparashakth Aided  Elementary
+School, West Building ,Kulamangalam 622404","1.Kulamangalam  (R.V),   kulamangalam  (P) Ward-2  Kulamangalam  ,
+2.Kulamangalam  (R.V),   kulamangalam  (P) Ward-2  Puthukurutchivayal   , 3.Kulamangalam  (R.V),   kulamangalam  (P) Ward-2  Ker Colony"
+129,181,129,,"Panchayat Union Elementary School,
+North Building, Malaiyalingapuram 622404","1.Kulamangalam  (R.V), kulamangalam  (p) Ward-1  Elampatti ,
+2.Kulamangalam  (R.V),   kulamangalam  (P) Ward-1  Malaiyakovil , 3.Kulamangalam  (R.V),   kulamangalam  (P) Ward-1  Mankuruchipatti , 4.Kulamangalam  (R.V),   kulamangalam  (P) Ward-1  Malayalingapuram , 5.Kulamangalam  (R.V),   kulamangalam  (P) Ward-1  Panavayal , 6.Kulamangalam  (R.V),   kulamangalam  (P) Ward-1  Pulampatti ,"
+130,181,130,,"Sri Udaya Parasakthi Aided  Elementary School, East Building, Kulamangalam 622404","1.kulamangalam (R.V),   kulamangalam  (P) Ward-3,4  Kulamangalam   , 2.Kulamangalam  (R.V),   Kulamangalam (p) Ward-4  kopparampatti , 3.Kulamangalam  (R.V),   Kulamangalam (p) Ward-4  Velavayal"
+131,181,131,,"Panchayat Union Elementary School Western side Tiled  Building, Melapanaiyur 622412","1.Melapanaiyur (R.V) , Melapanaiyur (p) Ward-1  Ponnanur , 2.Melapanaiyur (R.V) , Melapanaiyur (p) Ward-1  Pannanur Arisana Colany  , 3.Melapanaiyur (R.V) , Melapanaiyur (p) Ward-1  Nariyankadu , 4.Melapanaiyur (R.V) , Melapanaiyur (p) Ward-1  Avikkarai ,
+5.Melapanaiyur (R.V) , Melapanaiyur (p) Ward-2  Sivankovil Veethi , 6.Melapanaiyur (R.V) , Melapanaiyur (p) Ward-2  Naduveethi , 7.Melapanaiyur (R.V) , Melapanaiyur (p) Ward-3  Mela  pannaiyur , 8.Melapanaiyur (R.V) , Melapanaiyur (p) Ward-3  Vellar kudieruppu"
+132,181,132,,"Panchayat Union Elementary School
+Southern side New Building, Melapanaiyur 622412","1.Melapanaiyur (R.V) , Melappanaiyur (P) Ward-4  Kannerikalam  ,
+2.Melapanaiyur (R.V) , Melappanaiyur (P) Ward-4 Arisana  Colony , 3.Melapanaiyur (R.V) , Melappanaiyur (p) Ward-5  Vatakadu , 4.Melapanaiyur (R.V) , Melappanaiyur (p) Ward-5  paluvinipatti , 5.Melapanaiyur (R.V) , Melappanaiyur (p) Ward-5  Viralipatti , 6.Melapanaiyur (R.V) , Melappanaiyur (p) Ward-5  Nadar kudieruppu , 7.Melapanaiyur (R.V) , Melappanaiyur (p) Ward-6  Poovakonpatti , 8.Melapanaiyur (R.V) , Melappanaiyur (p) Ward-6  Puliyavayal , 9.Melapanaiyur (R.V) , Melappanaiyur (P) Ward-6  Purakaraipatti"
+133,181,133,,"SMMAR Alamelu Arunachalam Nagarathar HRS North Terraced Building, West Wing, Panayapatti 622406","1.Melapanaiyur (R.V) , Panaiyapatti (p) Ward-1  Poonsolai Nagar , 2.Melapanaiyur (R.V) , Panaiyapatti (p) Ward-1  Panaiyapatti"
+134,181,134,,"SMMAR Alamelu Arunachalam
+Nagarathar HS, North Terraced Building, East Wing, Panayapatti 622406","1.Melapanaiyur (R.V) , Panaiyapatti (p) Ward-1  Mathakovil theru ,
+2.Melapanaiyur (R.V) , Panaiyapatti (p) Ward-2  Rangiyam  Road  Merku  , 3.Melapanaiyur (R.V) , Panaiyapatti (p) Ward-2  Chetti Urani Theru , 4.Melapanaiyur (R.V) , Panaiyapatti (p) Ward-2  Ambalam Kudieruppu"
+135,181,135,,"SMMAR Alamelu Arunachalam Nagarathar HRS Northern Terraced Building, East Wing, Panayapatti 622406","1.Melapanaiyur (R.V) , Panaiyapatti (p) Ward-3  Palaiya Post Office Veethi , 2.Melapanaiyur (R.V) , Panaiyapatti (p) Ward-3  Udaya  Sooryapuram  , 3.Melapanaiyur (R.V) , Panaiyapatti (p) Ward-3  Agraharam , 4.Melapanaiyur (R.V) , Panaiyapatti (P) Ward-3  S.B.A Road  , 5.Melapanaiyur (R.V) , Panaiyapatti (p) Ward-4  Kolipannai Veethi , 6.Melapanaiyur (R.V) , Panaiyapatti (p) Ward-4  kariyakarar Veethi , 7.Melapanaiyur (R.V) , Panaiyapatti (p) Ward-5  Kollaikadu"
+136,181,136,,"Valluvar Middle School Tiled  Building
+Western wing, Kulipirai 622402","1.Kulipirai (R.V),   Kulipirai (p) Ward-1  Kulipirai palaiyur-1 ,
+2.Kulipirai (R.V),   Kulipirai (p) Ward-2  Kulipirai palaiyur-2 , 3.Kulipirai (R.V),   Kulipirai (p) Ward-3  Kulipirai palaiyur-3"
+137,181,137,,"Valluvar Middle School South Side,
+Tiled Building, Kulipirai 622402","1.Kulipirai (R.V),   Kulipirai (p) Ward-4  Kulipirai palaiyur ,
+2.Kulipirai (R.V),   Kulipirai (p) Ward-5  Kulipirai Palaiyur"
+138,181,138,,"MCTRM Ramanathan Chettiar HSS
+East Terraced  Building, Kulipirai 622402","1.Kulipirai (R.V),   Kulipirai (p) Ward-6  kulipirai palaiyur ,
+2.Kulipirai (R.V),   Kulipirai (p) Ward-7   Kulipirai palaiyur , 3.Kulipirai (R.V),   Kulipirai (p) Ward-8   Kulipirai palaiyur , 4.Kulipirai (R.V),   Kulipirai (p) Ward-9   Kulipirai palaiyur , 5.Kulipirai (R.V),   Kulipirai (p) Ward-10   Kulipirai patti"
+139,181,139,,"Panchayat Union Elementary School Tiled Building , Athur 622402","1.Aathur (R.V),   Aathur (p) Ward-1  Aathur -Vairampatti ,
+2.Aathur (R.V),   Aathur (p) Ward-2  Aathur - Puthupatti"
+140,181,140,,"Panchayat Union Elementary School Western Tiled Building, (North Wing), Veeranampatti 622412","1.Virachilai 1 Bit (R.V),   Virachilai (p) Ward-13 Rendivayal , 2.Virachilai 1 Bit (R.V),   Virachilai (p) Ward-14 Melavayal , 3.Virachilai 1 Bit (R.V),   Virachilai (p) Ward-16 Piravayal"
+141,181,141,,"Panchayat Union Elementary School Western Tiled Building, (South Wing), Veeranampatti 622412","1.Virachilai 1 Bit (R.V),   Virachilai (p) Ward-15 VeeranamPatti , 2.Virachilai 1 Bit (R.V),   Virachilai (p) Ward-17 Menampatti"
+142,181,142,,"P.R.M.Meyyappa  Chettiar Middle
+School, Old Building North wing, Virachilai 622412","1.Virachilai 1 Bit (R.V),   Virachilai (p) Ward-1 Virachilai Mettutheru ,
+2.Virachilai 1 Bit (R.V),   Virachilai (p) Ward-2 Virachilai Keelakattitam Kilakku , 3.Virachilai 1 Bit (R.V),   Virachilai (p) Ward-5 Virachilai Theradi veethi ,   ,"
+143,181,143,,"P.R.M.Meyyappa  Chettiar Middle School, New Building  West wing, Virachilai 622412","1.Virachilai 1 Bit (R.V),   Virachilai (p) ward-3  Virachilai Keelakkattitam  Merku 2.Virachilai 1 Bit (R.V),   Virachilai (p) Ward-4 Virachilai Agraharam , 3.Virachilai 1 Bit (R.V),   Virachilai (p) Ward-6 Virachilai Arasamarathu Veethi 4.Virachilai 1 Bit (R.V),   Virachilai (p) Ward-7 Virachilai Matha  kovil theru"
+144,181,144,,"P.R.M. Meyyappa  Chettiar Middle School, Old Building, South Wing, Virachilai 622412","1.Virachilai 1 Bit (R.V),   Virachilai (p) Ward-8 Virachilai   , 2.Virachilai 1 Bit (R.V),   Virachilai (p) Ward-9 Melakattidam ,"
+145,181,145,,"P.R.M. Meyyappa  Chettiar Middle School, New Terraced Building, Middle Portion, Virachilai 622412","1.Virachilai 1 Bit (R.V),   Virachilai (p) Ward-10 Virachilai Velar veethi , 2.Virachilai 1 Bit (R.V),   Virachilai (p) Ward- 11 Virachilai Adi diravidar Veethi - 1 ,
+3.Virachilai 1 Bit (R.V),   Virachilai (p) Ward-12 Virachilai   Adi diravidar veethi - 2"
+146,181,146,,"Panchayat Union Elementary School, North Terraced Building, East Side, Nagarathupatti 622412","1.Lembalakudi (R.V), Lembalakudi (p) Ward-1  Morattampatti , 2.Lembalakudi (R.V), Lembalakudi (p) Ward-1  Chettipatti , 3.Lembalakudi (R.V), Lembalakudi (p) Ward-2  Mary  Nagar , 4.Lembalakudi (R.V), Lembalakudi (p) Ward-2  Valaiyan Vayal , 5.Lembalakudi (R.V), Lembalakudi (p) Ward-2  Koththamuthupatti , 6.Lembalakudi (R.V), Lembalakudi (p) Ward-2  Nagarathupatti"
+147,181,147,,"Panchayat Union Elementary School,
+North Terraced Building, West Side, Nagarathupatti 622412","1.Lembalakudi (R.V), Lembalakudi (p) Ward-2  Kappaththanpatti ,
+2.Lembalakudi (R.V), Lembalakudi (p) Ward-2  Ponnan  Vayal , 3.Lembalakudi (R.V), Lembalakudi (p) Ward-3  Pillaipatti , 4.Lembalakudi (R.V), Lembalakudi (p) Ward-3  Lembalakudi Colony  , 5.Lembalakudi (R.V), Lembalakudi (p) Ward-4  Devar Kudieruppu"
+148,181,148,,"Panchayat Union Elementary School, Terraced Building, East Side, Lembalakkudi 622404","1.Lembalakudi (R.V), Lembalakudi (p) Ward-4  Maravar Theru 2.Lembalakudi (R.V), Lembalakudi (p) ward-4  Velar theru 3.Lembalakudi (R.V), Lembalakudi (p) Ward-5  Ponkudipatti 4.Lembalakudi (R.V), Lembalakudi (p) Ward-5  Paraiyampatti"
+149,181,149,,"Panchayat Union Elementary School, Terraced South Building, East Side, Lembalakkudi 622404","1.Lembalakudi (R.V), Lembalakudi (p) Ward-5  Pappanpatti 2.Lembalakudi (R.V), Lembalakudi (p) Ward-6  Amminipatti 3.Lembalakudi (R.V), Lembalakudi (p) Ward-6  Vannarapatti 4.Lembalakudi (R.V), Lembalakudi (p) Ward-6  Mamarathupatti"
+150,181,150,,"Panchayat Union Elementary School, Terraced Eastern Building  , Panneer Pallam  622404","1.Lembalakudi (R.V.) Lembalakudi (p) Ward-6  Natchsandupatti Puthur , 2.Lembalakudi (R.V.) Lembalakudi (p) Ward-6  paneer pallam"
+151,181,151,,"Panchayat Union Middle School SSA Terraced Building, West Wing, Pilivalam 622507","1.Pilivalam (R.V.) Pilivalam  (P) Ward-1  Katambapatti , 2.Pilivalam (R.V.) Pilivalam  (P) Ward-1  Pilivalam ,
+3.Chokkanathapatti (R.V.) Pilivalam  (P) Ward-2 Chokkanathapatti , 4.Chokkanathapatti (R.V.) Pilivalam  (P) Ward-3 Chokkanathapatti Athidiravidar Colony"
+152,181,152,,"Panchayat Union Middle School SSA
+Terraced Building East Wing, Pulivalam 622507","1.Pilivalam (R.V.) Pilivalam  (P) Ward-2  Etaiyanatham  ,
+2.Pilivalam (R.V.) Pilivalam  (P) Ward-2  Kodipatti , 3.Enappatti (R.V.) Pilivalam (P) Ward-3 Enappatti ,
+4.Enappatti (R.V.) Pilivalam (P) Ward-3  Enappatti Mathakovil , 5.Pilivalam (R.V.) Pilivalam  (P) Ward-1  Sathiram ,
+6.Pilivalam (R.V.) Pilivalam  (P) Ward-1  Arasanayagipuram"
+153,181,153,,"Panchayat Union Middle School, Tield
+Building, North Wing, Kottaiyur 622506","1.Kottaiyur (R.V.) Kottaiyur (P) Ward-1  Kottaiyur   ,
+2.Kottaiyur (R.V.) Kottaiyur (P) Ward-1  Kothavayal , 3.Kottaiyur (R.V.) Kottaiyur (P) Ward-1  Kulalakottiyur , 4.Kottaiyur (R.V.) Kottaiyur (P) Ward-2  V.Kottaiur Puthumanai"
+154,181,154,,"Panchayat Union Middle School, Tiled Building, South Wing, Kottaiyur 622506","1.Kottaiyur (R.V.) Kottaiyur (P) Ward-2  Arputhapuram , 2.Kottaiyur (R.V.) Kottaiyur (P) Ward-2  Thatchampatti , 3.Kottaiyur (R.V.) Kottaiyur (P) Ward-2  Devapatti , 4.Kottaiyur (R.V.) Kottaiyur (P) Ward-3  Puthupatti , 5.Kottaiyur (R.V.) Kottaiyur (P) Ward-3  Andipatti"
+155,181,155,,"Avvaiyar Aided Elementary School, West Terraced  Building, North Portion, Arasampatti 622507","1.Thirumayam  (R.V.) Arasampatti (P) Ward-1 Meiyapatti , 2.Thirumayam  (R.V.) Arasampatti (p) Ward-1 Osuvam Patti , 3.Thirumayam  (R.V.) Arasampatti (p) Ward-1 Mullipatti , 4.Thirumayam  (R.V.) Arasampatti (p) Ward-2 Marunkur , 5.Thirumayam  (R.V.) Arasampatti (p) Ward-2 Devapatti , 6.Thirumayam  (R.V.) Arasampatti (p) Ward-2 Veppampatti , 7.Thirumayam  (R.V.) Arasampatti (p) Ward-2 Anaipatti , 8.Thirumayam  (R.V.) Arasampatti (p) Ward-3 Arasampatti   , 9.Thirumayam  (R.V.) Arasampatti (p) Ward-3 Papampatti"
+156,181,156,,"Avvaiyar Aided Elementary School West
+Terraced Building, South Portion, Arasampatti 622507","1.Thirumayam  (R.V.) Arasampatti (p) Ward-2 Osuvampatti ,
+2.Thirumayam  (R.V.) Arasampatti (p) Ward-2 Kurumbappatti , 3.Thirumayam  (R.V.) Arasampatti (p) Ward-2 Veerapatti , 4.Thirumayam  (R.V.) Arasampatti (p) Ward-2 Thiruvampatti , 5.Thirumayam  (R.V.) Arasampatti (p) Ward-2 Anaipatti , 6.Thirumayam  (R.V.) Arasampatti (p) Ward-2 Papampatti , 7.Thirumayam  (R.V.) Arasampatti (P) Ward-2 Osuvampatti , 8.Thirumayam  (R.V.) Arasampatti (P) Ward-2 Marunkur , 9.Thirumayam  (R.V.) Arasampatti (P) Ward-2 Devavayal , 10.Thirumayam (R.V.) Arasampatti (P) Ward-2  Veppampatti , 11.Thirumayam (R.V.) Arasampatti (P) Ward-2  Marungoor Therku"
+157,181,157,,"Panchayat Union Middle School South Building, Middle Portion , V.Lakshmipuram 622412","1.Virachilai 1 Bit (R.V.) Arankinampatti (P) Ward-1 Sarappatti , 2.Virachilai 1 Bit (R.V.) Arankinampatti (p) Ward-1 Murukandipatti , 3.Virachilai 1 Bit (R.V.) Arankinampatti (p) Ward-1 Ulakinipatti , 4.Virachilai 1 Bit (R.V.) Arankinampatti (P) Ward-2 Thathumuthupatti"
+158,181,158,,"Panchayat Union Middle School West Building, V.Lakshmipuram  622412","1.Virachilai 1 Bit (R.V.) Arankinampatti (p) Ward-3 Arankinampatti   , 2.Virachilai 1 Bit (R.V.)   Arankinampatti (p) Ward-1,2 V. lakshmipuram, Nallipatti,Othaveedu"
+159,181,159,,"Panchayat Union Elementary School Western wing, Tiled  Building  , Neikkonam 622412","1.Neikkonam  (R.V.) Neikkonam  (p) Ward-1Neikkonam   , 2.Neikkonam  (R.V.) Neikkonam  (p) Ward-2  Kottaiyapatti Neikkonam  , 3.Neikkonam  (R.V.) Neikkonam  (p) Ward-2  Maruthakudipatti , 4.Neikkonam  (R.V.) Neikkonam  (p) Ward-2  ArumanthaPatti"
+160,181,160,,"Panchayat Union Elementary School ,
+Southern Tiled Building, Perunthurai 622507","1.Melur (R.V.) Melur (P) Ward-5  Karaimanapati ,
+2.Melur (R.V.) Melur (P) Ward-5  Vayalmanapatti ,
+3.Melur (R.V.) Melur (P) Ward-5  Solampatti , 4.Perundurai (R.V.) Melur (P) Ward-6  Perundurai , 5.Perundurai (R.V.) Melur (P) Ward-6  Kollakkattupatti , 6.Perundurai (R.V.) Melur (P) Ward-6  Otaiyapatti"
+161,181,161,,"Panchayat Union Elementary School , West Side, South Facing, East Wing, Ammanpatti 622507","1.Melur (R.V.) Melur (P) Ward-1  Ammanpatti ,
+2.Melur (R.V.) Melur (P) ward-1  Osuvampatti ,
+3.Melur (R.V.) Melur (P) Ward-1  karaiyampatti ,
+4.Melur (R.V.) Melur (P) Ward-1  Vellukudipatti ,"
+162,181,162,,"Panchayat Union Middle School, South Building, Melur 622","1.Melur (R.V.) Melur (P) Ward-2  Melur   ,
+2.Melur (R.V.) Melur (P) Ward-3  melur"
+163,181,163,,"Panchayat Union Middle School Terraced North Building, East Portion , Melur 622507","1.Melur (R.V.) Melur (P) Ward-4  Elankudipatti ,
+2.Melur (R.V.) Melur (P) Ward-4  Seemannur ,
+3.Melur (R.V.) Melur (P) Ward-4  Variyappatti ,
+4.Alavayal (R.V.) Melur (P) Ward-7  MullaiNagar"
+164,181,164,,"Panchayat Union Middle School New Terraced Building ,Sethurappatti 622409","1.Virachilai 2 Bit (R.V.) Sethurapatti (p) ward-1 Nattiyathanpatti , 2.Virachilai 2 Bit (R.V.) Sethurapatti (p)   ward-2  Sethurapatti , 3.Virachilai 2 Bit (R.V.) Sethurapatti (p)   Ward-3  Thirunattampatti ,"
+165,181,165,,"Panchayat Union Elementary School, South Building, Vellippatti 622412","1.Virachilai 2 Bit (R.V.) Sethurapatti (p)   ward-1  Vellippatti , 2.Virachilai 2 Bit (R.V.) Sethurapatti (p)   Ward-1  Vellippatti Colony  , 3.Virachilai 2 Bit (R.V.) Sethurapatti (p)   Ward-1  Piranampatti , 4.Virachilai 2 Bit (R.V.) Sethurapatti (p)   Ward-3  Otchampatti"
+166,181,166,,"Panchayat Union Elementary School
+Terraced Building ,Kannanur 622409","1.Kannanur 1  BIT (R.V.) Kannanur (p)   Ward-1  Muttathanpatti ,
+2.Kannanur 1  BIT (R.V.) Kannanur (p)   Ward-2  Kannanur ,
+3.Kannanur 1  BIT (R.V.) Kannanur (p)   Ward-2  Savakaranpatti ,"
+167,181,167,,"Panchayat Union Middle School, Southern Building, South Puthuvayal 622409",1.Kannanur 1  BIT (R.V.) Kannanur (p)   Ward-3  Kananiputhuvayal
+168,181,168,,"Panchayat Union Elementary School Terraced Building, East Side, Duruvasapuram  622409","1.Kannanur 2  BIT (R.V.) Kannanur (p) Ward-4  Mullipatti ,
+2.Kannanur 2  BIT (R.V.) Kannanur (p) ward-4 Kollakkattupatti , 3.Thuruvasapuram (R.V.)   Kannanur (p) Ward-5  Keelathuruvasapuram"
+169,181,169,,"Panchayat Union Elementary School, Terraced Building, Wast Side, Duruvasapuram  622409","1.Thuruvasapuram (R.V.)   Kannanur (p) ward-5  Melathuruvasapuram ,"
+170,181,170,,"Panchayat Union Elementary School, East new Terraced Building, Sivayogapuram  622409","1.Rangiyam (R.V.) Rangiyam  (p) Ward-1  Sivayogapuram  ,
+2.Rangiyam (R.V.) Rangiyam  (p) Ward-2  Ulagaretchagar Puram ,
+3.Rangiyam (R.V.) Rangiyam  (p) Ward-3  mithilaippatti ,
+4.Rangiyam (R.V.) Rangiyam  (p) Ward-6  Valacheripatti ,"
+171,181,171,,"Panchayat Union Elementary School, New Building, North Portion, Sivayogapuram  622409","1.Rangiyam (R.V.) Rangiyam  (p) Ward-4  Sangampatti ,
+2.Rangiyam (R.V.) Rangiyam  (p) Ward-4  Karadiyankulam"
+172,181,172,,"Sri Sivakamiammal VidyaSalai Ele.
+School Old Asbestos Building  , East Wing, Rangiam  622409","1.Rangiyam (R.V.) Rangiyam  (p) Ward-3  Thirumayam  Road  ,
+2.Rangiyam (R.V.) Rangiyam  (p) Ward-3  Karuppar koil veethi ,
+3.Rangiyam (R.V.) Rangiyam  (p) Ward-3  Main veethi ,
+4.Rangiyam (R.V.) Rangiyam  (p) Ward-3  Poojakar  theru ,
+5.Rangiyam (R.V.) Rangiyam  (p) Ward-3  Sivankoil theru ,
+6.Rangiyam (R.V.) Rangiyam  (p) Ward-5  Jayanthi Colony  ,
+7.Rangiyam (R.V.) Rangiyam  (p) Ward-5  Akaliamman koil veethi"
+173,181,173,,"Sri Sivakamiammal VidyaSalai Ele. School New Terraced West Building, Eastern Wing, Rangiam 622409","1.Rangiyam (R.V.) Rangiyam  (p) Ward-4  Maravar Theru ,
+2.Rangiyam (R.V.) Rangiyam  (p) Ward-3  Rangiyam  kadai veethi ,
+3.Rangiyam (R.V.) Rangiyam  (p) Ward-3  Rangiyam  pallivasal veethi ,
+4.Rangiyam (R.V.) Rangiyam  (p) Ward-3  Keelasevalpatti Road ,
+5.Rangiyam (R.V.) Rangiyam  (p) Ward-3  Alavayal Maravar theru"
+174,181,174,,"Sri Chockalingam  Meenakshi MS Eastern Terraced  Building, Northern wing, Kuruvikkondanpatti 622409","1.Rangiyam (R.V.) Rangiyam  (p) Ward-6  Sethampatti ,
+2.Rangiyam (R.V.) Rangiyam  (p) Ward-6  Pantani ,
+3.Rangiyam (R.V.) Rangiyam  (p) Ward-6  Purankondan vayal ,
+4.Rangiyam (R.V.) Rangiyam  (p) Ward-6  Eranipatti Maravar theru ,
+5.Rangiyam (R.V.) Rangiyam  (p) Ward-6  Eranipatti Kavundar theru ,"
+175,181,175,,"Sri Chockalingam  Meenakshi Middle School, South Terraced  Building, West Wing, Kuruvikkondanpatti 622409","1.Rangiyam (R.V.) Rangiyam  (p) Ward-1  kuruvikkontanpatti Merku ,
+2.Rangiyam (R.V.) Rangiyam  (p) Ward-2  kuruvikkontanpatti Kilakku ,
+3.Rangiyam (R.V.) Rangiyam  (p) Ward-2  Kudamalai"
+176,181,176,,"Panchayat Union Elementary School
+New Terraced  Building, Adugapatti 622507",1.Adugappatti (R.V.) Kunnathupatti (R.V.) Thulaiyanur (p) Ward-6 Adugappatti
+177,181,177,,"Panchayat Union Elementary School,
+SSA Bld., New Building, East Portion, Thulaiyanur 622507","1.Thulaiyanur (R.V.) Thulaiyanur (P) Ward-6  Thulaiyanur ,
+2.Thulaiyanur (R.V.) Thulaiyanur (P) ward-1  Navitchipatti"
+178,181,178,,"Panchayat Union High School, New Building, North Side, Thulaiyanur 622507","1.Thulaiyanur (R.V.) Thulaiyanur (P) Ward-2  Valaiyavayal , 2.Thulaiyanur (R.V.) Thulaiyanur (P) Ward-2  periyakalluvayal , 3.Thulaiyanur (R.V.) Thulaiyanur (P) Ward-2  Chinnakalluvayal , 4.Thulaiyanur (R.V.) Thulaiyanur (P) Ward-2  Melaviduthi , 5.Thulaiyanur (R.V.) Thulaiyanur (P) Ward-1  panankontanviduthi"
+179,181,179,,"Panchayat Union Middle School Northen New Terraced Building (Eastern Wing), Malakkudipatti 622507","1.Thulaiyanur (R.V.) Thulaiyanur (P) Ward-4  parali , 2.Thulaiyanur (R.V.) Thulaiyanur (P) Ward-4  Ammapatti , 3.Thulaiyanur (R.V.) Thulaiyanur (P) Ward-4  Malaiyakudipatti ,"
+180,181,180,,"Panchayat Union Middle School Northen South Terraced  Building  East Wing, Malakkudipatti 622507","1.Thulaiyanur (R.V.) Thulaiyanur (P) Ward-5  Chettiyur , 2.Thulaiyanur (R.V.) Thulaiyanur (P) Ward-5  Mavur , 3.Thulaiyanur (R.V.) Thulaiyanur (P) Ward-5  Pattanam"
+181,181,181,,"Panchayat Union Elementary School Terraced Building, Santhanviduthi 622507","1.Thulaiyanur (R.V.) Thulaiyanur (P) Ward-3  Andakudipatti , 2.Thulaiyanur (R.V.) Thulaiyanur (P) Ward-3  Kollakattuppatti , 3.Thulaiyanur (R.V.) Thulaiyanur (P) Ward-7  Solathakoil , 4.Thulaiyanur (R.V.) Thulaiyanur (P) Ward-3  Santhanaveduthi , 5.Thulaiyanur (R.V.) Thulaiyanur (P) Ward-3  Mongithapatti , 6.Thulaiyanur (R.V.) Thulaiyanur (P) Ward-3  Samathuva Puram , 7.Thulaiyanur (R.V.) Thulaiyanur (P) Ward-3  Mongithapatti Colony"
+182,181,182,,"Government Boys Higher Secondary
+School, East Building, West Facing, South Side, Thirumayam  622507",1.Thirumayam  (R.V.) Thirumayam  (p) Ward-3 Agilkarai
+183,181,183,,"Government Boys Higher Secondary
+School, New Building, South Facing, West Side,Thirumayam  622507","1.Thirumayam  (R.V.) Thirumayam  (P) Ward-2 Kottaikul (Vadakku) ,
+2.Thirumayam  (R.V.) Thirumayam  (p) Ward-3 Papavayal"
+184,181,184,,"Government Boys Higher Secondary
+School, North Building, South Facing, West Side , Thirumayam  622507","1.Thirumayam  (R.V.) Thirumayam  (p) Ward-1,2  Kottaikkul therku  ,
+2.Thirumayam  (R.V.) Thirumayam  (p) Ward-9 Papavayal ,"
+185,181,185,,"Government Boys Higher Secondary School, New Building, West Facing, South Side, Thirumayam  622507","1.Thirumayam  (R.V.) Thirumayam  (p) Ward-9 Olaikudipatti , 2.Thirumayam  (R.V.) Thirumayam  (p) Ward-9 Seemanur ,"
+186,181,186,,"Punitha  Pathima  Elementary  School, North Terraced Building, West side, Santhaipet, Thirumayam  622507","1.Thirumayam  (R.V.) Thirumayam  (p) Ward-7 Mathakovil Street , 2.Thirumayam  (R.V.) Thirumayam  (p) Ward-7 Pallivasal Street , 3.Thirumayam(R.V) Thirumayam(P) Ward-7  mullapatti"
+187,181,187,,"Punitha  Pathima  Elementary  School, North Terraced Building, Middle Portion, Santhaipet,Thirumayam 622507","1.Thirumayam(R.V) Thirumayam(P) Ward-7  Hospital Street , 2.Thirumayam(R.V) Thirumayam(P) Ward-7  Anna Nagar , 3.Thirumayam(R.V) Thirumayam(P) Ward-7  Sunnambukara  Street , 4.Thirumayam(R.V) Thirumayam(P) Ward-7  Muhamathiyar Street"
+188,181,188,,"Panchayat Union Elementary School North Building, East Wing, Manavalankarai 622507","1.Thirumayam  (R.V.) Thirumayam  (p) Ward-8 Manavalakarak  ,"
+189,181,189,,"Panchayat Union Elementary School, West Building, South  Facing, East Wing, Manavalankarai 622507","1.Thirumayam  (R.V.) Thirumayam  (p) Ward-8 Magamayee Puram  , 2.Thirumayam  (R.V.) Thirumayam  (p) Ward-9 Sengaveduthi"
+190,181,190,,"Christuraja Middle School Western side
+Terraced Building, Irudayapuram 622507","1.Elanjavur (R.V.) Elanjavur (p) Ward-1  Elanjavur Vadakku ,
+2.Elanjavur (R.V.) Elanjavur (p) Ward-2  Elanjavur Therku ,"
+191,181,191,,"Christuraja Middle School Western side Terraced Building, East Facing, North Wing, Irudayapuram 622507","1.Elanjavur (R.V.) Elanjavur (p) Ward-2  Magamayee Puram  , 2.Elanjavur (R.V.) Elanjavur (p) Ward-2  Meiyaurani , 3.Panangudi (R.V.) Elanjavur (p) Ward-3  Sithalanpatti , 4.Elanjavur (R.V.) Elanjavur (p) Ward-3  Iruthaya  Puram , 5.Elanjavur (R.V.) Elanjavur (p) Ward-3  Pallampatti ,
+6.Oonaiyur (R.V.) Elanjavur (p) Ward-3 Kammankudi Patti"
+192,181,192,,"Sri Pichaiappa  Middle School East Portion, Oonaiyur 622507","1.Oonaiyur (R.V.) Oonaiyur (p) Ward-2  Oonaiyur ,
+2.Oonaiyur (R.V.) Oonaiyur (p) Ward-3  Mallupatti"
+193,181,193,,"Sri Pichaiappa  Middle School West Portion , Oonaiyur 622507","1.Oonaiyur (R.V.) Oonaiyur (p) Ward-1  Sathakudipatti ,
+2.Oonaiyur (R.V.) Oonaiyur (p) Ward-1  kamankudipatti ,
+3.Oonaiyur (R.V.) Oonaiyur (p) Ward-3  Karipatti ,
+4.Adanur (R.V.) Oonaiyur (p) Ward-3  Savariyar Puram  ,
+5.Oonaiyur (R.V.) Oonaiyur (p) Ward-3  Kosappatti , 6.Vaniyulanthanvayal (R.V.) Oonaiyur (p) Ward-5  Vaniyulanthanvayal , 7.Vaniyulanthanvayal (R.V.) Oonaiyur (p) Ward-5  Karunathampatti"
+194,181,194,,"Panchayat Union Middle School, SSA
+Building, Eastern Side, Kulathupatti 622505","1.Aathnur (R.V.) Aathnur (p) Ward-1  Kulathupatti ,
+2.Aathnur (R.V.) Aathnur (p) Ward-1  Kananipatti , 3.Kulathupatti (R.V.) Thunaiyanur (p) Ward-5  Kulathupatti ,"
+195,181,195,,"Panchayat Union Middle School, SSA
+Building, Eastern Side, North Facing, Kulathupatti 622505","1.Kulathupatti (R.V.) Thunaiyanur (p) ward-5  Mettupatti ,
+2.Kulathupatti (R.V.) Oonaiyur (p) Ward-4  Kulathupatti , 3.Kulathupatti (R.V.) Oonaiyur (p) Ward-4  Keelakulathupatti"
+196,181,196,,"Panchayat Union Elementary School Tilled  Building, Aranmanaipatti 630103","1.Aranmanaippatti (R.V.) Aathanur (p) Ward-3  Aranmanaipatti ,
+2.Aathanur (R.V.) Aathanur (p) Ward-3  Athidiravidar Colony  ,"
+197,181,197,,"Panchayat Union Elementary School, North Building, Aranmanaipatti 630103","1.Aathanur (R.V.) Aathanur (p) Ward-1  Vanthavasi ,
+2.Aathanur (R.V.) Aathanur (p) Ward-1  Kannanipatti ,
+3.Aathanur (R.V.) Aathanur (p) ward-1  Kunthamparai ,
+4.Aathanur (R.V.) Aathanur (p) Ward-1  Sashthavayal ,
+5.Aathanur (R.V.) Aathanur (p) Ward-1  Saveriyar Puram  ,
+6.Aathanur (R.V.) Aathanur (p) Ward-3  Kayampatti ,"
+198,181,198,,"Panchayat Union Middle School, SSA Bld., Western Side,  Athanur  622503","1.Aathanur (R.V.) Aathanur (p) ward-1  Mettupatti ,
+2.Aathanur (R.V.)   Aathanur (p) Ward-1  Vatakkulam ,
+3.Aathanur (R.V.) Aathanur (p) Ward-1  Nainappatti ,"
+199,181,199,,"Panchayat Union Middle School, SSA
+Bld., Eastern Side, Athanur 622503","1.Aathanur (R.V.)   Aathanur (p) Ward-2  Aathanur ,
+2.Aathanur (R.V.)   Aathanur (p) ward-2  Thethampatti ,
+3.Aathanur (R.V.)   Aathanur (p) Ward-2  kovilpatti"
+200,181,200,,"Sri Saraswathi Elementary  School, Main Building, Konapattu 622503","1.Konappattu (p) Ward-5  Pillaiyarkoil Street,South Street, padalkovil Street ,"
+201,181,201,,"Sri Saraswathi Elementary  School, South Building East Side, Konapattu 622503","1.Konappattu (p) Ward-6  Semani theru,  Keelasemani Theru , 2.Konappattu (p) Ward-7  Perumal puram, Arockiya Puram"
+202,181,202,,"Sri Saraswathi Higher Secondary
+School, New Building  Room No 3, West Side, Konapattu 622503","1.Konappattu (R.V.) Konappattu (p) Ward-1  Vadakkutheru ,
+2.Konappattu (R.V.) Konappattu (p) Ward-1  K.K Nagar, Kanakkar theru , 3.Konappattu (R.V.) Konappattu (p) Ward-1  V Raman Chettiyar veethi , 4.Konappattu (R.V.) Konappattu (p) Ward-2    S.P.K. Veethi , 5.Konappattu (R.V.) Konappattu (p) Ward-2  Mallupattiyar veethi ,"
+203,181,203,,"Sri Saraswathi Higher Secondary
+School New Building, Room No 4, West Side , Konapattu 622503","1.Konappattu (R.V.) Konappattu (p) Ward-2  Vishvanathan Chettiyar  Veethi ,
+2.Konappattu (R.V.) Konappattu (p) Ward-2  Kuravar Colony , 3.Konappattu (R.V.) Konappattu (p) Ward-3  Azhagar perumal Oorany, Kadaiveethi ,
+4.Konappattu (R.V.) Konappattu (p) Ward-3  Eluppakudiyar veethi , 5.Konappattu (R.V.) Konappattu (p) Ward-3  Pey. Su.   Veethi , 6.Konappattu (R.V.) Konappattu (p) Ward-4  Velar Theru"
+204,181,204,,"Panchayat Union Middle School, West Portion, West Side, Vengalur 622503","1.Vengalur (R.V.) Vengalur (P) Ward-3  Therkutheru ,
+2.Vengalur (R.V.) Vengalur (P) Ward-1  Vadakkutheru ,"
+205,181,205,,"Panchayat Union Middle School, West Portion, South Facing, West Side, Vengalur 622503","1.Vengalur (R.V.) Vengalur (P) Ward-2  Nadutheru ,
+2.Vengalur (R.V.) Vengalur (P) Ward-3  Muslimtheru ,
+3.Vengalur (R.V.) Vengalur (P) Ward-3  Harijana  theru"
+206,181,206,,"Panchayat Union Middle School, New
+Tiled Building, North Side, K.Pallivasal 622503","1.Meyyarpuram  (R.V.) K. Pallivasal (P) Ward-1   Palunthinapatti ,
+2.Meyyarpuram  (R.V.) K. Pallivasal (P) Ward-1  Meyyarpuram ,"
+207,181,207,,"Panchayat Union Middle School New Terraced Building, South Side, K.Pallivasal 622503",1.K. Pallivasal (R.V.) K. Pallivasal (P) Ward-2 K Pallivasal
+208,181,208,,"Government Girls Higher Secondary
+School, Eastern Terraced  Building  2nd Room,  P.Alagapuri. 622503","1.Pillamangalam (R.V.) K. Pallivasal (P) Ward-1 Pillamangalam Natham  ,
+2.Pillamangalam (R.V.) K. Pallivasal (P) Ward-2 Sathappa  Chettiyar  Veettukku Pinpuram"
+209,181,209,,"Government Girls Higher Secondary School, South Terraced  Building, P.Alagapuri. 622503",1.Pillamangalam (R.V.) P. Alagaopuri (P) Kamalaya  Uraniyilirunthu Pogum  3rd veethi kilakku
+210,181,210,,"Panchayat Union Middle School New Terraced Building, West Side, Pillamangalam 622503","1.Pillamangalam (R.V.) P. Alagapuri (P) Ward-4  Billamangalam  natham vadapuram  ,"
+211,181,211,,"Panchayat Union Middle School New
+Terraced Building, East Side, Pillamangalam 622503","1.Pillamangalam (R.V.) P. Alagapuri (P) Ward-5  Billamangalam  natham, horse
+ground"
+212,181,212,,"Panchayat Union Middle School New Terraced South Building, East Wing, Nallur 622503","1.Neivasal (R.V.) Neivasal (P) Ward-1  Ealakudi patti ,
+2.Neivasal (R.V.) Neivasal (P) Ward-1  Elanapatti ,
+3.Neivasal (R.V.) Neivasal (P) Ward-1  Thalampatti ,"
+213,181,213,,"Panchayat Union Middle School New Terraced Building, North Middle Portion, Nallur 622503","1.Neivasal (R.V.) Neivasal (P) Ward-2  Nallur ,
+2.Neivasal (R.V.) Neivasal (P) Ward-3  Seerathakudi"
+214,181,214,,"R.C. Middle School North New Terraced Building, East West 2nd  room, Neivasal 622503","1.Neivasal (R.V.)    Neivasal (P) Ward-4  Neyvasal   ,
+2.Neivasal (R.V.)    Neivasal (P) ward-5  N. Shanmuganathapuram"
+215,181,215,,"R.C. Middle School East New Terraced Building  , Neivasal 622503","1.Neivasal (R.V.)    Neivasal (P) Ward-3  Udaiyar theru , 2.Manjinipatti (R.V.)   Neivasal (P) Ward-5  Manjinipatti"
+216,181,216,,"Panchayat Union Elementary School
+West Building, Melathemuthupatti 622404","1.Theakkattur (R.V.) Theakkattur (P) Ward-1 Sivapuram ,
+2.Theakkattur (R.V.) Theakkattur (P) Ward-1 Malukkampatti , 3.Theakkattur (R.V.) Theakkattur (P) Ward-1 Kammanjetti sathiram  , 4.Theakkattur (R.V.) Theakkattur (P) Ward-1 Keelathe muthupatti"
+217,181,217,,"Panchayat Union Elementary School East Building, Melathemuthupatti 622404","1.Theakkattur (R.V.) Theakkattur (P) Ward-1 Melathe muthupatti , 2.Theakkattur (R.V.) Theakkattur (P) Ward-1 Elangudi patti"
+218,181,218,,"M.C.T.M High School Eastern Building, Namanasamuthram  622404","1.Theakkattur (R.V.) Theakkattur (P) Ward-2 Namanasamuthiram , 2.Theakkattur (R.V.) Theakkattur (P) Ward-2 Textile mills"
+219,181,219,,"M.C.T.M High School North Wing South Building  , Namanasamuthram 622404","1.Theakkattur (R.V.) Theakkattur (P) Ward-2 Police station Bingeyira  Colony , 2.Theakkattur (R.V.) Theakkattur (P) Ward-2 Sebasthiyar puram , 3.Theakkattur (R.V.) Theakkattur (P) Ward-2 Vadakki patti"
+220,181,220,,"M.C.T.M High School Western Building, Namanasamuthram  622404","1.Theakkattur (R.V.) Theakkattur (P) Ward-3 Namanasamuthiram , 2.Theakkattur (R.V.) Theakkattur (P) Ward-3 Kurichipatti , 3.Theakkattur (R.V.) Theakkattur (P) Ward-3 Koundar theru"
+221,181,221,,"Panchayat Union Middle School West
+Building, North Side Theakkattur 622507","1.Theakkattur (R.V.) Theakkattur (P) Ward-3 Thekkattur   ,
+2.Theakkattur (R.V.) Theakkattur (P) Ward-4 Koovampatti , 3.Theakkattur (R.V.) Theakkattur (P) Ward-4 Kayampatti"
+222,181,222,,"Panchayat Union Middle School West Building, South Side Theakkattur 622507","1.Theakkattur (R.V.) Theakkattur (P) Ward-4 Athigaripatti , 2.Theakkattur (R.V.) Theakkattur (P) Ward-4 Thiruvanaikavanpatti , 3.Theakkattur (R.V.) Theakkattur (P) Ward-4 Lenavilakku"
+223,181,223,,"Panchayat Union Middle School, SSA
+Bld., West Side, Kadayakudi 622506","1.Perungudi (R.V.) Kadayakudi (P) Ward-1  Kadaiyakudi ,
+2.Perungudi (R.V.) Kadayakudi (P) Ward-1  Kadaiyakudi Agraharam , 3.Perungudi (R.V.) Kadayakudi (P) Ward-1  Sebasthiyar puram , 4.Perungudi (R.V.) Kadayakudi (P) Ward-2  Nambapatti , 5.Perungudi (R.V.) Kadayakudi (P) Ward-2  Vadakku Nallipatti ,"
+224,181,224,,"Panchayat Union Middle School, SSA Bld., East Side, Kadayakudi 622506","1.Perungudi (R.V.) Kadayakudi (P) Ward-2  Kovinjapatti , 2.Perungudi (R.V.) Kadayakudi (P) Ward-3  Indira nagar , 3.Perungudi (R.V.) Kadayakudi (P) Ward-3  Setti pitchampatti"
+225,181,225,,"Panchayat Union Elementary School New Building, Valayampatti 622506","1.Valaiyampatti (R.V.) Kadayakudi (P) Ward-2  Valaiyampatti , 2.Valaiyampatti (R.V.) Kadayakudi (P) Ward-3  Valaiyampattin colony"
+226,181,226,,"Panchayat Union Elementary School, SSA Bld., East Side, Neivasalpatti 622506","1.Perungudi (R.V.)   Vanniyampatti (P) Ward-1  Vanniyampatti , 2.Perungudi (R.V.)   Vanniyampatti (P) Ward-1  Oottupalampatti , 3.Perungudi (R.V.)   Vanniyampatti (P) Ward-2  Neyvasalpatti , 4.Perungudi (R.V.)   Vanniyampatti (P) Ward-2  Indiranagar Colony ,"
+227,181,227,,"Panchayat Union Elementary School, SSA Bld., Wast Side, Neivasalpatti 622506","1.Perungudi (R.V.)   Vanniyampatti (P) Ward-2  Nithinathapuram  , 2.Perungudi (R.V.)   Vanniyampatti (P) Ward-2  Seppilanpatti , 3.Perungudi (R.V.)   Vanniyampatti (P) Ward-2  Northpatti , 4.Perungudi (R.V.)   Vanniyampatti (P) Ward-3  Koothampatti"
+228,181,228,,"Panchayat Union Elementary School
+Tiled Building, North side, Mirattunilai 622201","1.Mirattuninalai (R.V.) Mirattuninalai (P) Ward-1 Mariyamman kovil theru ,
+2.Mirattuninalai (R.V.) Mirattuninalai (P) Ward-1 Kurukkar theru , 3.Mirattuninalai (R.V.) Mirattuninalai (P) Ward-2 Muslim  theru , 4.Mirattuninalai (R.V.) Mirattuninalai (P) Ward-1 santhiveeran kovil theru , 5.Mirattuninalai (R.V.) Mirattuninalai (P) Ward-2 Pettai theru , 6.Mirattuninalai (R.V.) Mirattuninalai (P) Ward-2 Nadar theru ,"
+229,181,229,,"Panchayat Union Elementary School, Terraced Building, South Side, North Wing, Mirattunilai 622201","1.Mirattuninalai (R.V.) Mirattuninalai (P) Ward-2 Kurumbar Colony , 2.Mirattuninalai (R.V.) Mirattuninalai (P) Ward-2 Kakkanji nagar , 3.Mirattuninalai (R.V.) Mirattuninalai (P) Ward-1 Main Road  , 4.Mirattuninalai (R.V.) Mirattuninalai (P) Ward-2 Melatheru , 5.Mirattuninalai (R.V.) Mirattuninalai (P) Ward-2 Indira  nagar"
+230,181,230,,"Panchayat Union Elementary School South side Asbestos Building, Mirattunilai 622201","1.Mirattuninalai (R.V.) Mirattuninalai (P) Ward-3 Varikkapallam  , 2.Mirattuninalai (R.V.) Mirattuninalai (P) Ward-3 Therkuponnampatti , 3.Mirattuninalai (R.V.) Mirattuninalai (P) Ward-4 North ponnampatti , 4.Mirattuninalai (R.V.) Mirattuninalai (P) Ward-4 Aathangaraipatti"
+231,181,231,,"Government High School East South Building, Middle Portion, , Perungudi 622506",1.Perungudi (R.V.)    Perungudi (P) Ward-1  Perungudi
+232,181,232,,"Government High School East South Building, South Portion, , Perungudi 622506","1.Perungudi (R.V.)    Perungudi (P) Ward-3  Vilangattangudi , 2.Perungudi (R.V.)    Perungudi (P) Ward-1  Pappanpatti , 3.Perungudi (R.V.)    Perungudi (P) Ward-1  Kollakkudi ,  4.Perungudi (R.V.)    Perungudi (P) Ward-1  Kurunthamapalampatti , 5.Perungudi (R.V.)    Perungudi (P) Ward-1  Innasiar puram  , 6.Poovampatti (R.V.)    Perungudi (P) Ward-2  Poovampatti"
+233,181,233,,"Panchayat Union Middle School,
+Munasanthai 622506",1.Perungudi (R.V.)   Munasanthai (P) Ward-1  Munasanthai
+234,181,234,,"Panchayat Union Middle School South Building  Western Side, Munasanthai 622506","1.Perungudi (R.V.)   Munasanthai (P) Ward-2  Kamarajar Colony , 2.Perungudi (R.V.)   Munasanthai (P) Ward-3  Therku nallipatti , 3.Perungudi (R.V.)   Munasanthai (P) Ward-3  Ayyanarpuram , 4.Perungudi (R.V.)   Munasanthai (P) Ward-3  Maruthampatti , 5.Perungudi (R.V.)   Munasanthai (P) Ward-3  Aandipatti"
+235,181,235,,"Panchayat Union Elementary School New Building South Side , Sengeerai 622506",1.Sengeerai (R.V.) Sengeerai (P) Ward-2  Sengeerai
+236,181,236,,"Panchayat Union Elementary School New Building North Side , Sengeerai 622506","1.Sengeerai (R.V.) Sengeerai (P) Ward-1  Menampatti , 2.Sengeerai (R.V.) Sengeerai (P) Ward-1  Pathaikadu ,
+3.Rayaregunathasamuthiram  (R.V.) Sengeerai (P) Ward-1  Alangudi , 4.Rayaregunathasamuthiram  (R.V.) Sengeerai (P) Ward-2 Rayaregunathasamuthiram"
+237,181,237,,"S.K.T. Gandhi Aided  Elementary  School Terraced Building East Side, Rayavaram  622506","1.Sengeerai (R.V.) Rayavaram  (P) Ward-1  Sellayipuram , 2.Rayavaram  (R.V.)   Rayavaram (P) Ward-4  Settipatti"
+238,181,238,,"S.K.T. Gandhi Aided  Elementary  School Terraced Building West Side, Rayavaram  622506","1.Sengeerai (R.V.) Rayavaram  (P) Ward-2  Chokkalingapuram , 2.Rayavaram  (R.V.) Rayavaram (P) Ward-1  Puthur ,"
+239,181,239,,"Grama Seva  Shanka Primary  School
+East Side, Rayavaram  622506","1.Rayavaram  (R.V.)   Rayavaram (P) Ward-6  Kailasapuram  ,
+2.Rayavaram  (R.V.)   Rayavaram (P) Ward-6  Puthumanai 1st veethi , 3.Rayavaram  (R.V.)   Rayavaram (P) Ward-6  Puthumanai 2nd Veethi , 4.Rayavaram  (R.V.)   Rayavaram (P) Ward-6  Puthumanai 3rd  Veethi , 5.Rayavaram  (R.V.)   Rayavaram (P) Ward-6  Puthumanai 4th Veethi"
+240,181,240,,"Grama Seva  Shanka Primary  School
+West Side, Rayavaram 622506","1.Rayavaram  (R.V.)   Rayavaram (P) Ward-6  Vasugipuram ,
+2.Rayavaram  (R.V.)   Rayavaram (P) Ward-7  Palayur"
+241,181,241,,"Panchayat Union Elementary School
+New Building West Portion, Ayingudi 622506","1.Rayavaram  (R.V.)   Aayingudi (P) Ward-1  Kurunthangudi ,
+2.Rayavaram  (R.V.)   Aayingudi (P) Ward-2  Ayingudi Vadapuram"
+242,181,242,,"Panchayat Union Elementary School
+New Building, East Portion , Ayingudi 622506","1.Rayavaram  (R.V.)   Aayingudi (P) Ward-3  Ayingudi Thenpuram ,
+2.Rayavaram  (R.V.)   Aayingudi (P) Ward-3  Valayanvayal , 3.Rayavaram  (R.V.)   Aayingudi (P) Ward-3  Malaikolunthu kovil , 4.Rayavaram  (R.V.)   Aayingudi (P) Ward-3  Umaiyal puram"
+243,181,243,,"Panchayat Union Middle School South Building  ,Oonangudi 622201","1.Mirattunalai (R.V.) Oonangudi (P) Ward-1  Oonangudi , 2.Mirattunalai (R.V.) Oonangudi (P) Ward-1  Melatheru , 3.Mirattunalai (R.V.) Oonangudi (P) Ward-1  Post Office veethi , 4.Mirattunalai (R.V.) Oonangudi (P) Ward-1  Muslim theru , 5.Mirattunalai (R.V.) Oonangudi (P) Ward-1  Main Road  , 6.Mirattunalai (R.V.) Oonangudi (P) Ward-2  Aathithiravidar theru"
+244,181,244,,"Panchayat Union Middle School West
+Building  ,Onangudi 622201","1.Mirattunalai (R.V.) Oonangudi (P) Ward-2,3 Colony ,
+2.Mirattunalai (R.V.) Oonangudi (P) Ward-3  Seegampatti , 3.Mirattunalai (R.V.) Oonangudi (P) Ward-3  Annanagar Colony  , 4.Mirattunalai (R.V.) Oonangudi (P) Ward-3  Ayyar Colony , 5.Sirayampatti (R.V.) Oonangudi (P) Ward-3  Sathiram , 6.Sirayampatti (R.V.) Oonangudi (P) Ward-3  Aathithiravidar Colony  , 7.Sirayampatti (R.V.) Oonangudi (P) Ward-3  Maramadakki"
+245,181,245,,"Government Higher Secondary School, North Block, East Side, Arimalam 622201","1.Arimalam  (R.V.) Arimalam (P) Ward-14 Santhaipettai pandian theru ,
+2.Arimalam  (R.V.) Arimalam (P) Ward-15 Puthugai Eambal Road  ,
+3.Arimalam  (R.V.) Arimalam (P) Ward-12 Meenatchipuram Road ,
+4.Arimalam  (R.V.) Arimalam (P) Ward-13 Santhaipettai Nagappa  Road  ,
+5.Arimalam  (R.V.) Arimalam (P) Ward-13 Kayakkattar santhu ,"
+246,181,246,,"Government Higher Secondary School, Terraced South Building, South Side, Middle Section, Arimalam 622201","1.Arimalam  (R.V.) Arimalam (P) Ward-14 Muthu Annamalayar veethi ,
+2.Arimalam  (R.V.) Arimalam (P) Ward-14 Muthu kamatchi settiar santhu ,
+3.Arimalam  (R.V.) Arimalam (P) Ward-12 Kumarappasettiar veethi ,
+4.Arimalam  (R.V.) Arimalam (P) Ward-14 Oomayan Chettiyar veethi ,
+5.Arimalam  (R.V.) Arimalam (P) Ward-12 Pasumadathar veethi ,
+6.Arimalam  (R.V.) Arimalam (P) Ward-12 panayan settiar veethi ,
+7.Arimalam  (R.V.) Arimalam (P) Ward-13 santhaipettai nagappa Road ,
+8.Arimalam  (R.V.) Arimalam (P) Ward-13 Kasil palani vagaiyara  theru ,
+9.Arimalam  (R.V.) Arimalam (P) Ward-13 Tharmalinga  servai veethi , 10.Arimalam  (R.V.) Arimalam  (P) Ward-13  Narayanasettiar santhu"
+247,181,247,,"Government Higher Secondary School,
+South Block, East Side, Arimalam 622201","1.Arimalam  (R.V.) Arimalam (P) Ward-13 Puthugai Eambal Road  Therku ,
+2.Arimalam (R.V.) Arimalam  (P) Ward-1  Koothan theru ,
+3.Arimalam  (R.V.) Arimalam (P) Ward-1  Dhuraisami Servai theru ,
+4.Arimalam  (R.V.) Arimalam (P) Ward-1  Kaduvettiyar veethi ,
+5.Arimalam  (R.V.) Arimalam (P) Ward-1  Kumarasami Udaiar santhu ,
+6.Arimalam  (R.V.) Arimalam (P) Ward-1  Muthukrishnan Naidu veethi ,
+7.Arimalam  (R.V.) Arimalam (P) Ward-1  Sembian santhu ,
+8.Arimalam  (R.V.) Arimalam (P) Ward-15 Puthugai Eambal Road  ,
+9.Arimalam  (R.V.) Arimalam (P) Ward-15 santhaipettai Pandian theru"
+248,181,248,,"Panchayat Union Elementary School, SSA Bld., South Side, Arimalam 622201","1.Arimalam  (R.V.)   Arimalam  (P) Ward-12 Chetti Oorani veethi ,
+2.Arimalam  (R.V.)   Arimalam  (P) Ward-12 Meenatchi road  Nadupaguthi ,
+3.Arimalam  (R.V.)   Arimalam  (P) Ward-12 Santhaipettai Therku ,
+4.Arimalam  (R.V.)   Arimalam  (P) Ward-12 Melamatam  Santhu ,
+5.Arimalam  (R.V.)   Arimalam  (P) Ward-12 Ramalingam  Pillai Santhu ,
+6.Arimalam  (R.V.)   Arimalam  (P) Ward-12 Vangalathar theru ,
+7.Arimalam  (R.V.)   Arimalam  (P) ward-2  Pudugai Embal Road ,
+8.Arimalam  (R.V.)   Arimalam  (P) Ward-2  Aratai vayal ,
+9.Arimalam  (R.V.)   Arimalam  (P) Ward-12 Meenatchi Road  Vadakku , 10.Arimalam  (R.V.)   Arimalam  (P) Ward-13  Santhaipetti Vadakku , 11.Arimalam  (R.V.)   Arimalam  (P) Ward-2  Alangudi Road  Therku , 12.Arimalam  (R.V.)   Arimalam  (P) ward-4  Chandran pin veethi , 13.Arimalam  (R.V.)   Arimalam  (P) Ward-4  pudugai Embal Road  , 14.Arimalam  (R.V.)   Arimalam  (P) Ward-4  A.S.Rama  veethi , 15.Sirayampatti (R.V.)   Arimalam  (P) Ward-2  Sirayampatti , 16.Arimalam  (R.V.)   Arimalam  (P) Ward-3  KurumbarColony Vadakku ,"
+249,181,249,,"Panchayat Union Elementary School,
+SSA Bld., South Western Side, East Wing Building, Arimalam 622201","1.Arimalam  (R.V.)   Arimalam  (P) Ward-3  Adidiravidar Colony  ,
+2.Arimalam  (R.V.)   Arimalam  (P) Ward-4  Alangudi Road  Vadakku ,
+3.Arimalam  (R.V.)   Arimalam  (P) Ward-4  Pudugai Embal Road Therku ,
+4.Arimalam  (R.V.)   Arimalam  (P) Ward-12 Meenatchi Road  Therku ,
+5.Arimalam  (R.V.)   Arimalam  (P) Ward-4  Athidiravidar Colony  ,
+6.Arimalam  (R.V.)   Arimalam  (P) Ward-4  Subramaniyar Swami kovil Veethi ,
+7.Arimalam  (R.V.)   Arimalam  (P) Ward-4  Kuttaian Chettiyar veethi ,
+8.Arimalam  (R.V.)   Arimalam  (P) Ayyanar Koil Street ,
+9.Arimalam  (R.V.)   Arimalam  (P) Sivankoil Street , 10.Arimalam  (R.V.)   Arimalam  (P) Kurumbar colony therku"
+250,181,250,,"Panchayat Union Elementary School Middle Building  South Side , Meenachipuram  Arimalam  622201","1.Arimalam  (R.V.)      ARIMALAM (SP) Ward-5  Pudigai Embal Road   (Kilakku) ,
+2.Arimalam  (R.V.)      ARIMALAM (SP) Ward-5  Meenachi Puram  Road   (Kilakku) ,
+3.Arimalam  (R.V.)      ARIMALAM (SP) Ward-10  S.P.R.S  Veethi (Kilakku) ,
+4.Arimalam  (R.V.)      ARIMALAM (SP) Ward-11  Enbathan Veethi ,
+5.Arimalam  (R.V.)      ARIMALAM (SP) Ward-10  Thirumayam  Road  (Vadakku) ,
+6.Arimalam  (R.V.)      ARIMALAM (SP) Ward-10  Pethachikoil theru ,
+7.Arimalam  (R.V.)      ARIMALAM (SP) Ward-10  Sovarayankoil theru ,
+8.Arimalam  (R.V.)      ARIMALAM (SP) Ward-5  S.P.R.S Veethi ,
+9.Arimalam  (R.V.)      ARIMALAM (SP) Ward-11  Thirumayam  Road  (Therku) , 10.Arimalam  (R.V.)      ARIMALAM (SP) Ward-9  Mailladumpara"
+251,181,251,,"Panchayat Union Elementary School
+West Building  South  Side , Meenachipuram  Arimalam  622201","1.Arimalam  (R.V.)      ARIMALAM (SP) Ward-6  ARIMALAM   ,
+2.Arimalam  (R.V.)      ARIMALAM (SP) Ward-6  Pudugai embal road ,
+3.Arimalam  (R.V.)      ARIMALAM (SP) Ward-9  Meenachi Puram  Road  (Merku) ,
+4.Arimalam  (R.V.)      ARIMALAM (SP) Ward-6   Ka.Pey.Veethi ,
+5.Arimalam  (R.V.)      ARIMALAM (SP) Ward-9  Mailladuparai ,
+6.Arimalam  (R.V.)      ARIMALAM (SP) Ward-9  Arunasalam Asari Santhu ,
+7.Arimalam  (R.V.)      ARIMALAM (SP) Ward-6  Alagappa  Chettiyar Veethi ,
+8.Arimalam  (R.V.)      ARIMALAM (SP) Ward-6  Egappa  Chettiyar Santhu ,
+9.Arimalam  (R.V.)      ARIMALAM (SP) Ward-6  Puthur  Agrakaram  , 10.Arimalam  (R.V.)      ARIMALAM (SP) Ward-6  Vellalar theru"
+252,181,252,,"Panchayat Union Elementary School, SSA Building, West Side Meenachipuram  , Arimalam  622201","1.Arimalam  (R.V.)      Arimalam  (Sp) Ward-6   Ayyanar kovil Veethi ,
+2.Arimalam  (R.V.)      Arimalam  (Sp) Ward-11  Kathakurichiyan santhu ,
+3.Arimalam  (R.V.)      Arimalam  (Sp) Ward-11  Vaithikudiuiruppu ,
+4.Arimalam  (R.V.)      Arimalam  (Sp) Ward-5  Saminathan Servai Veethi ,
+5.Arimalam  (R.V.)      Arimalam  (Sp) Ward-5  Adaikkappa Chettiyar veethi ,
+6.Arimalam  (R.V.)      Arimalam  (Sp) Ward-5  Sivaraman Chettiyar Santhu ,
+7.Arimalam  (R.V.)      Arimalam  (Sp) Ward-5  Vannara theru ,
+8.Arimalam  (R.V.)      Arimalam  (Sp) Ward-12  Meenachi Puram  veethi ,
+9.Arimalam  (R.V.)      Arimalam  (Sp) Ward-8  Thirumayam  Road  Pullampatti , 10.Arimalam  (R.V.)      Arimalam  (Sp) Ward-7  Minarva  Club  Road  , 11.Arimalam  (R.V.)      Arimalam  (Sp) Ward-7  Samiar pillai Veethi. , 12.Arimalam  (R.V.)      Arimalam  (Sp) Ward-7  Arunasalam  Pillai veethi"
+253,181,253,,"Panchayat Union Elementary School,
+SSA Building, East Side, Meenachipuram,  Arimalam  622201","1.Arimalam  (R.V.)      Arimalam  (Sp) Ward-8  Sey.Su.Veethi, Krishnapillai veethi ,
+2.Arimalam  (R.V.)      Arimalam  (Sp) Ward-7  Alagappa  Chettiyar veethi, Konar theru ,
+3.Arimalam  (R.V.)      Arimalam  (Sp) Ward-8  Krishna  Pillai Veethi, Sunnampatti ,
+4.Arimalam  (R.V.)      Arimalam  (SP) Ward-8  Sey.Su.Veethi ,
+5.Arimalam  (R.V.)      Arimalam  (Sp) Ward-9  Meenatchi Puram Road  ,
+6.Arimalam  (R.V.)      Arimalam  (Sp) Ward-9  Poosari kudieruppu ,
+7.Arimalam  (R.V.)      Arimalam  (Sp) Ward-8  Varnakara  theru ,
+8.Arimalam  (R.V.)      Arimalam  (Sp) Ward-8  Meenatchi Puram. V.O.C. theru"
+254,181,254,,"Government High School Terraced Building  Southern side, Othapulikudiyiruppu 622201","1.Keelpanaiyur (R.V.) Keelpanaiyur (p) ward-1  Vadakku Kudieruppu , 2.Keelpanaiyur (R.V.) Keelpanaiyur (p) Ward-1  Kamatchi Puram  , 3.Keelpanaiyur (R.V.) Keelpanaiyur (p) ward-2  Keelpanaiyur Melpuram"
+255,181,255,,"Government High School Terraced Building  Northern Side, Othapulikudiyiruppu 622201","1.Keelpanaiyur (R.V.) Keelpanaiyur (p) Ward-3  Keelpanaiyur Keelpuram , 2.Keelpanaiyur (R.V.) Keelpanaiyur (p) Ward-4  Old  Vaiyapuripatti , 3.Keelpanaiyur (R.V.) Keelpanaiyur (p) Ward-5  Othapuli kudieruppu , 4.Keelpanaiyur (R.V.) Keelpanaiyur (p) Ward-5  Vettukadu , 5.Keelpanaiyur (R.V.) Keelpanaiyur (p) Ward-5  Therku Kudieruppu , 6.Keelpanaiyur (R.V.) Keelpanaiyur (p) Ward-4  Puthu Vaiyapuripatti"
+256,181,256,,"Panchayat Union Elementary School,
+North Terraced Building, East Portion, Thanjur (Samudram) 622505","1.Samuthiram (R.V.)   Samuthiram  (p) Ward-1  Thanjur Palaiya Adi diravidar
+colony ,
+2.Samuthiram (R.V.)   Samuthiram  (p) Ward-1  Thanjur Puthiya  Adi diravidar Colony  ,
+3.Samuthiram  (R.V.)   Samuthiram  (p) ward-1  Thanjur Theru, Nallapillai petran
+,
+4.Samuthiram (R.V.)   Samuthiram  (p) ward-1   Thanjur Manai"
+257,181,257,,"Panchayat Union Elementary School,
+North Terraced Building, West Portion, Thanjur (Samudram) 622505","1.Samuthiram (R.V.)   Samuthiram  (p) Ward-2  Thanjur Vadakku veethi ,
+2.Samuthiram (R.V.)   Samuthiram  (p) Ward-2  Matathu Patti ,
+3.Agavayal (R.V.)   Samuthiram  (p) Ward-2  Karaiyapatti ,
+4.Samandanvayal (R.V.)   Samuthiram (p) Ward-3 Samanthanpatti, Adi diravidar Colony  ,
+5.Melivayal (R.V.) Samuthiram (p) Ward-3  Manappatti"
+258,181,258,,"Ulagappar Higher Secondary School South Block  Middle Portion, Ramachandrapuram  622505","1.Panangudi (R.V.)    Katiyappatti (p) Ward-2  Rayavaram main Road  , 2.Panangudi (R.V.)    Katiyappatti (p) Ward-2  Idithankiyar Veethi , 3.Panangudi (R.V.)    Katiyappatti (p) Ward-2  Palaiya Tapal Office Veethi , 4.Panangudi (R.V.)    Katiyappatti (p) ward-2  Keelveethi ,
+5.Panangudi (R.V.)    Katiyappatti (p) Ward-2  Puthu Road  , 6.Panangudi (R.V.)    Katiyappatti (p) Ward-1  Ramachandra Puram ,
+7.Panangudi (R.V.)    Katiyappatti (p) Ward-2  Arockiya  Madha Kovil theru , 8.Panangudi (R.V.)    Katiyappatti (p) Ward-2  Thiruvluvar Nagar"
+259,181,259,,"Ulagappar Higher Secondary School
+South Block  West Portion, Ramachandrapuram  622505","1.Panangudi (R.V.)    Katiyappatti (p) Ward-2  Kuravar kudieruppu ,
+2.Panangudi (R.V.)    Katiyappatti (p) Ward-2  Harijana  Colony , 3.Panangudi (R.V.)    Katiyappatti (p) ward-2  Adi diravidar Colony  , 4.Panangudi (R.V.)    Katiyappatti (p) Ward-2  Othatheru ,
+5.Panangudi (R.V.)    Katiyappatti (p) Ward-2  Mukkandar Kudieruppu , 6.Panangudi (R.V.)    Katiyappatti (p) Ward-3  Katathanpatti Colony , 7.Panangudi (R.V.)    Katiyappatti (p) Ward-3  Kadathanpatti Vadakku theru , 8.Panangudi (R.V.)    Katiyappatti (p) Ward-3  Kadathanpatti keelatheru , 9.Panangudi (R.V.)    Katiyappatti (p) Ward-3  Kadathanpatti melatheru"
+260,181,260,,"Ulagappar Higher Secondary School
+North Block, West Side, Ramachandrapuram  622505","1.Panangudi (R.V.)    Katiyappatti (p) Ward-1  Sithalanjapatti ,
+2.Panangudi (R.V.)    Katiyappatti (p) Ward-1  Raman Chettiyar veethi , 3.Panangudi (R.V.)    Katiyappatti (p) Ward-1  Muthaiah Chettiyar veethi , 4.Panangudi (R.V.)    Katiyappatti (p) Ward-1  The.Sey.Pin Veethi , 5.Panangudi (R.V.)    Katiyappatti (p) ward-1  Melnilaipalli veethi , 6.Panangudi (R.V.)    Katiyappatti (p) Ward-8  Muthaiah Chettiyar veethi , 7.Panangudi (R.V.)    Katiyappatti (p) Ward-1  Variyapattiyar veethi , 8.Panangudi (R.V.)    Katiyappatti (p) Ward-1  Mamarathar Veethi , 9.Panangudi (R.V.)    Katiyappatti (p) Ward-1  Pethan Chettiyar  veethi , 10.Panangudi (R.V.)    Katiyappatti (p) Ward-1  Corporation veethi , 11.Panangudi (R.V.)    Katiyappatti (p) Ward-1  Chinna  Kadiyappatti ,"
+261,181,261,,"Ulagappar Higher Secondary School
+North Block, Middle Portion, Ramachandrapuram  622505","1.Panangudi (R.V.)    Katiyappatti (p) Ward-3  Palaiyur ,
+2.Panangudi (R.V.)    Katiyappatti (p) Ward-3  National Club  veethi , 3.Panangudi (R.V.)    Katiyappatti (p) Ward-3  Krishnappa  Chettiyar veethi , 4.Panangudi (R.V.)    Katiyappatti (p) Ward-3  Meiyaniyar Veethi , 5.Panangudi (R.V.)    Katiyappatti (p) Ward-3  Kadai veethi ,
+6.Panangudi (R.V.)    Katiyappatti (p) Ward-2  pasumatam , 7.Panangudi (R.V.)    Katiyappatti (p) Ward-4  vishwanatha  Puram  , 8.Panangudi (R.V.)    Katiyappatti (p) Ward-3  Vairavan Chettiyar veethi"
+262,181,262,,"Sri Ganesar  Middle School East Building, North Side Viswanathapuram 622505","1.Panangudi (R.V.)      Katiyappatti (p) Ward-4  Engine veethi , 2.Panangudi (R.V.)      Katiyappatti (p) Ward-4  Subiba nayakkar Veethi , 3.Panangudi (R.V.)      Katiyappatti (p) Ward-4  P.K. N. Veethi , 4.Panangudi (R.V.)      Katiyappatti (p) Ward-4  Dr. Vey.Vey. Veethi , 5.Panangudi (R.V.)      Katiyappatti (p) Ward-4  Kadai veethi , 6.Panangudi (R.V.)      Katiyappatti (p) Ward-4  vishwanathaPuram  , 7.Panangudi (R.V.)      Katiyappatti (p) Ward-4  BramavidyalPuram  , 8.Panangudi (R.V.)      Katiyappatti (p) Ward-4  Sivan koil Veethi , 9.Panangudi (R.V.)      Katiyappatti (p) Ward-4  Erataitheru , 10.Panangudi (R.V.)      Katiyappatti (p) Ward-4  Nathatheru , 11.Panangudi (R.V.)      Katiyappatti (p) Ward-4  karumaravar theru , 12.Panangudi (R.V.)      Katiyappatti (p) Ward-4  Panankudi Keelatheru , 13.Panangudi (R.V.)      Katiyappatti (p) Ward-4  Panangudi Melatheru"
+263,181,263,,"Sri Ganesar  Middle School East
+Building  Middle Portion Viswanathapuram  622505","1.Panangudi (R.V.) Katiyappatti (p) Ward-4   Nanthavam ,
+2.Panangudi (R.V.) Katiyappatti (p) Ward-4  Krishnan Koil veethi , 3.Panangudi (R.V.) Katiyappatti (p) Ward-4  Kannu thoppu , 4.Kannankarakkudi (R.V.)   Katiyappatti (p) Ward-4   Valaiyar Kudieruppu , 5.Panangudi (R.V.) Katiyappatti (p) Ward-4  Kallar Kudieruppu , 6.Kannankarakkudi (R.V.)   Kannankarakudi (p) ward-2  Ambethkar Nagar , 7.Kannankarakkudi (R.V.)   Kannankarakudi (p) Ward-2  Thamunapatti"
+264,181,264,,"Sri Ganesar  Middle School East
+Building  South Side Viswanathapuram 622505","1.Kannankarakkudi (R.V.)   Kannankarakudi (p) Ward-1  Kannankarakudi   ,
+2.Kannankarakkudi (R.V.)   Kannankarakudi (p) Ward-2  Kannankarakudi   ,"
+265,181,265,,"Panchayat Union Elementary School
+New Building Eastern Side, Chettipatti 622506","1.Panangudi (R.V.) Settippatti (p) Ward-1  Mudukkupatti ,
+2.Panangudi (R.V.) Settippatti (p) Ward-1  Kanapur , 3.Panangudi (R.V.) Settippatti (p) Ward-3  Anaivari"
+266,181,266,,"Panchayat Union Elementary School New Building Western Side, Chettipatti 622506",1.Panangudi (R.V.) Settippatti (p) Ward-2  K.Settippatti
+267,181,267,,"Panchayat Union Elementary School Terraced Building,Facing North, East Portion, ,Melnilaipatti 622202","1.Melnelaivayal (R.V.) Melnelaivayal (P) Ward-1  Melnelaipatti , 2.Melnelaivayal (R.V.) Melnelaivayal (P) Ward-2  Regunatha  puram  , 3.Melnelaivayal (R.V.) Melnelaivayal (P) Ward-2  Mavayalpatti"
+268,181,268,,"Panchayat Union Elementary School New Terraced  Building, Vadakattupatti 622202","1.Melnelaivayal   (R.V.)    Melnelaivayal (P) Ward-4  Vadakattupatti , 2.Melnelaivayal   (R.V.)    Melnelaivayal (P) Ward-4  Kokkankudieruppu"
+269,181,269,,"Panchayat Union Middle School SSA
+Middle Building, Poonaiyankudiyeruppu 622202","1.Melnelaivayal (R.V.)   Melnelaivayal (P) Ward-3  Usilampatti ,
+2.Melnelaivayal (R.V.)   Melnelaivayal (P) Ward-3  Punaiayan Kudieruppu"
+270,181,270,,"Government Elementary School, SSA Building  East Portion, Kummangudi 622202",1.Kummankudi (R.V.) Kummankudi (P) Ward-5  Kummankudi
+271,181,271,,"Government Elementary School South
+Side, Kummangudi 622202","1.Kummankudi (R.V.) Kummankudi (P) Ward-3  Matathupatti ,
+2.Kummankudi (R.V.) Kummankudi (P) Ward-3  Thethanpatti , 3.Kummankudi (R.V.) Kummankudi (P) Ward-3  Ayyanarpatti , 4.Kummankudi (R.V.) Kummankudi (P) Ward-4  Nattampatti"
+272,181,272,,"Panchayat Union Elementary School Tiled North Building, Kallukkudiyiruppu 622202","1.Kummankudi (R.V.) Kummankudi (P) Ward-1  Vadakku bonthupuli , 2.Kummankudi (R.V.) Kummankudi (P) Ward-2  Therku Bonthupuli"
+273,181,273,,"Panchayat Union Elementary School
+Terraced West Building, Kallukudiyiruppu 622202","1.Kummankudi (R.V.) Kummankudi (P) Ward-7  Meenikanda  ,
+2.Kummankudi (R.V.) Kummankudi (P) Ward-7  Oduthikadu , 3.Kummankudi (R.V.) Kummankudi (P) Ward-7  Kathadichanpatti ,"
+274,181,274,,"Panchayat Union Elementary School, South Terraced  Building, Kallukudiyiruppu 622202",1.Kummankudi (R.V.) Kummankudi (P) Ward-8  Kallukudieruppu
+275,181,275,,"Panchayat Union Elementary School New Terraced  Building  Facing  East
+,Thuraiyur 622202",1.Thuraiyur (R.V.) Thuraiyur (p) Ward-3 Thuraiyur
+276,181,276,,"Panchayat Union Elementary School,
+Terraced Building West Portion, South Facing, Keeranippatti 622202","1.Thuraiyur (R.V.) Thuraiyur (p) Ward-1 Madathupatti ,
+2.Thuraiyur (R.V.) Thuraiyur (p) Ward-1 Keeranipatti Colony , 3.Thuraiyur (R.V.) Thuraiyur (p) Ward-1 Keeranipatti Nadutheru , 4.Thuraiyur (R.V.) Thuraiyur (p) Ward-2 Ayyanar Patti , 5.Thuraiyur (R.V.) Thuraiyur (p) Ward-2 Keeranipatti ,"
+277,181,277,,"overnment Higher Secondary School West Terraced  Building Facing East North Portion, Kalanivasal 622202","1.Karamankalam  (R.V.)   Karamankalam  (p) Ward-1  kalanivasal , 2.Karamankalam  (R.V.)   Karamankalam  (p) Ward-3  papanpatti , 3.Karamankalam  (R.V.)   Karamankalam  (p) Ward-3  Thenipatti"
+278,181,278,,"Government Higher Secondary School West Terraced  Building Facing East South Portion, Kalanivasal 622202","1.Karamankalam  (R.V.)   Karamankalam  (p) Ward-3  Nallakurichi , 2.Karamankalam  (R.V.)   Karamankalam  (p) Ward-2  Kothavellaiyan  Kadu , 3.Karamankalam  (R.V.)   Karamankalam  (p) Ward-2  Kongan theru , 4.Karamankalam  (R.V.)   Karamankalam  (p) Ward-2  Kayampatti"
+279,181,279,,"Panchayat Union Elementary School Terraced Building Facing West, Thallampatti (Thalayathivayal) 622202","1.Thalaiyathivayal (R.V.) Kummangudi (p) Ward-9  Thalaiyathivayal , 2.Kummangudi   (R.V.) Kummangudi (p) Ward-10  Thallampatti"
+280,181,280,,"Panchayat Union Elementary School , Terraced Building Facing South Side , Keelanilaikkottai 622209","1.Puthunelaivayal (R.V.)   Puthunelaivayal (p) Ward-1  keelanelaikottai ,"
+281,181,281,,"Panchayat Union Elementary School , Terraced Building, East Portion, West Facing, North Side , Keelanilaikkottai 622209","1.Puthunelaivayal (R.V.)   Puthunelaivayal (p) Ward-1  keelanelaikottai , 2.Puthunelaivayal (R.V.)   Puthunelaivayal (p) Ward-2  Muthur"
+282,181,282,,"Panchayat Union Elementary School ,
+Terraced Building Facing North Side , Keelanilaikkottai 622209","1.Puthunelaivayal (R.V.)   Puthunelaivayal (p) Ward-3  Puthunelaipatti ,
+2.Puthunelaivayal (R.V.)   Puthunelaivayal (p) Ward-4  Muthupattanam"
+283,181,283,,"Panchayat Union Elementary School
+(Terraced  Building), Kailasapuram 622209","1.Nedungudi (R.V.) Nedungudi (p) Ward-1  Kailasapuram  ,
+2.Nedungudi (R.V.) Nedungudi (p) Ward-1  Nerunjithital , 3.Nedungudi (R.V.) Nedungudi (p) Ward-2  Athidiravidar Colony  , 4.Nedungudi (R.V.) Nedungudi (p) Ward-2  Ammbal Puram"
+284,181,284,,"Panchayat Union Middle School (South Tiled Building), Nedungudi 622209","1.Nedungudi (R.V.) Nedungudi (p) Ward-3  Nedungudi   , 2.Nedungudi (R.V.) Nedungudi (p) Ward-4  Rajavayal"
+285,181,285,,"Panchayat Union Elementary School, Tiled South Building  , K.Pudupatti 622202","1.Kaikulanvayal (R.V.) Kaikulanvayal (p) Ward-1,2  k.puthupatti   ,
+2.Agavayal (R.V.)   Kaikulanvayal (P) Ward-2  Karaiyapatti"
+286,181,286,,"Panchayat Union Elementary School, Tiled North Building , K.Pudupatti 622202","1.Velavayal (R.V.)   Kaikulanvayal (p) Ward-3  kapputan patti , 2.Velavayal (R.V.)   Kaikulanvayal (P) Ward-3  panaiyadipatti , 3.Velavayal (R.V.)   Kaikulanvayal (P) Ward-3  Serakkurichi , 4.Velavayal (R.V.)   Kaikulanvayal (P) Ward-3  Umaiyal Vayal , 5.Velavayal (R.V.)   Kaikulanvayal (P) Ward-3  Ammburani , 6.Velavayal (R.V.)   Kaikulanvayal (P) Ward-3  Velavayal , 7.Kaikulanvayal   (R.V.) Kaikulanvayal (P) Ward-3  K.Puthupatti , 8.Allanvayal (R.V.) Kaikulanvayal (P) Ward-4  Kusavapatti"
+287,181,287,,"Panchayat Union Middle School
+Terraced Building, North Side, Vamparampatti 622209","1.Piliyavayal (R.V.)   Piliyavayal (p) Ward-1  vambarampatti ,"
+288,181,288,,"Panchayat Union Middle School
+Terraced Building, South Portion, East Facing, South Side, Vamparampatti 622209","1.Piliyavayal (R.V.)   piliyavayal (p) Ward-2  Pillangudi ,
+2.Piliyavayal (R.V.)   piliyavayal (p) Ward-2  Athidiravidar Colony  , 3.Piliyavayal (R.V.)   piliyavayal (p) Ward-2  Ethanadu , 4.Piliyavayal (R.V.)   piliyavayal (p) Ward-2  Asaiyan Kudieruppu"
+289,181,289,,"Panchayat Union Middle School,
+Terraced Building, Nallambal Samudram 622209","1.Nallambalsamudram  (R.V.) Nallambalsamudram  (P) Ward-1 kovilpatti ,
+2.Nallambalsamudram  (R.V.) Nallambalsamudram  (P) Ward-3 Mavadipatti ,"
+290,181,290,,"Panchayat Union Middle School, Terraced Building, New S.S.A Building, West Portion, East Facing, South Side, Nallambal Samudram 622209",1.Nallambalsamudram  (R.V.) Nallambalsamudram  (P) Ward-2 Namburanipatti 2.Nallambalsamudram  (R.V.) Nallambalsamudram  (P) ward-4  Aathithiravidar Colony
+291,181,291,,"Panchayat Union Elementary School (Southern Asbestos Building) Facing North, Kallur 622209",1.K. Rayapuram  (R.V.)   Kallur (p) Ward-1  Kallur Malbagam
+292,181,292,,"Panchayat Union Elementary School Additional Building East Side, Kallur 622209",1.K. Rayapuram  (R.V.)   Kallur (P) Ward-2  Kallur keelpagam
+293,181,293,,"Panchayat Union Middle School North Building, Sudanthirapuram",1.K. Rayapuram  (R.V.)   Kallur (p) Ward-3  sudhanthirapuram
+294,181,294,,"Panchayat Union Elementary School,
+Thekkur 622209","1.K. Rayapuram  (R.V.)   Kallur (p) Ward-3  thekkur ,
+2.K. Rayapuram  (R.V.)   Kallur (P) Ward-3  Asaiyankudiyiruppu"
+295,181,295,,"Panchayat Union Elementary School
+(New Building), K.Rayapuram  622209","1.K. Rayapuram  (R.V.)   K. Rayapuram (P) Ward-1  K. Rayapuram Malpagam  ,"
+296,181,296,,"Punchayat Union Elementary School (New Building), North Portion, South Facing  K.Rayapuram  622209",1.K. Rayapuram  (R.V.)   K. Rayapuram (P) Ward-2  K. Rayapuram Keelpagam
+297,181,297,,"Panchayat Union Elementary School,
+Tiled Building ,Samuthirapatti 622202","1.Valaramanikkam   (R.V.) Valaramanikkam  (P) ward-3  Pambarampatti ,
+2.Valaramanikkam   (R.V.) Valaramanikkam  (P) ward-6  Samuthirapatti , 3.Idaiyanvayal (R.V.) Valaramanikkam  (P) Ward-6  Idaiyanvayal ,
+4.Kurichi (R.V.) Valaramanikkam (P)   Ward-6 Kurichi ,
+5.Kurichi (R.V.) Valaramanikkam (P)   Ward-6 Nemmeli ,
+6.Kurichi (R.V.) Valaramanikkam (P)   Ward-6 Ilangudi"
+298,181,298,,"Panchayat Union Elementary School, Tiled Building, South Facing, East Building, Posampatti 622202","1.Valaramanikkam   (R.V.) Valaramanikkam  (P) Ward-6  Posampatti ,"
+299,181,299,,"Panchayat Union Elementary School
+(New Terraced Building), Valaramanickam 622203","1.Valaramanikkam (R.V.) Valaramanikkam  (p) Ward-1  Ochann Kudiyiruppu ,
+2.Valaramanikkam (R.V.) Valaramanikkam  (P) ward-1  Pambarambatti , 3.Valaramanikkam (R.V.) Valaramanikkam  (P) Ward-1  Samuthirapatti , 4.Valaramanikkam (R.V.) Valaramanikkam  (P) Ward-1  Therku samuthirapatti ,"
+300,181,300,,"Panchayat Union Elementary School
+New Terraced  Building, Western Side, Valaramanickam 622203","1.Valaramanikkam (R.V.) Valaramanikkam  (P) Ward-2  Valaramanikkam  ,
+2.Anikini (R.V.) Valaramanikkam (P) Ward-4  Anikini , 3.Chittampatti (R.V.) Valaramanikkam  (P) Ward-4  Chittampatti , 4.Valaramanikkam (R.V.) Valaramanikkam  (P) Ward-4  Posampatti ,"

@@ -1,0 +1,365 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+1,200,1,"Panchayat Union Ele. School, Kottakudi","1.Kottakudi (R.V) And (P), Ward-1 Kottakudi",All Voters
+2,200,2,"Panchayat Union Middle School, Kurangani","1.Kottakudi (R.V) And (P), Ward-2 Kurngani",All Voters
+3,200,3,"ICDS Centre, Karippatti","1.Kottakudi (R.V) And (P), Rasimalai",All Voters
+4,200,4,"Panchayat Union Ele. School, Kozhukkumalai","1.Kottakudi (R.V) And (P), Ward-4 Kozhukkumalai",All Voters
+5,200,5,"Jesuva Memorial Ele. School, (Block -2) Central Station","1.Kottakudi (R.V) And (P), Ward-3 Central Station",All Voters
+6,200,6,"Panchayat Union Ele. School, Muthuvarkudi","1.Kottakudi (R.V) And (P), Ward-3 Muttam",All Voters
+7,200,7,"Veeravel Ele. School , (Block -3),Top Station","1.Kottakudi (R.V) And (P), Ward-4 Top Station",All Voters
+8,200,8,"Govt. Kallar High School,Old Building, Eastern side, X Std.Room, B.Anaikaraipatti","1.B.Meenakshipuram (R.V), Anaikaraipatti (P), Ward-2 South Street",All Voters
+9,200,9,"Govt.Kallar High School,West Side Building, B.Anaikaraipatti","1.B.Meenakshipuram (R.V), Anaikaraipatti (P), Ward-3 Main  Road",All Voters
+10,200,10,"Panchayat Union Middle School., South Side, Munthal","1.Bodinayakanur (R.V), Anaikaraipatti (P), Ward-1 Munthal Kurangani Main Road",All Voters
+11,200,11,"Panchayat Union Middle School., North Side, Munthal","1.Bodinayakanur (R.V), Anaikaraipatti (P), Ward-1 Munthal  A.T. Colony",All Voters
+12,200,12,"Panchayat Union Middle School, Western Side, Agamalai","1.Agamalai (R.V) And (P), Ward-1 Agamalai",All Voters
+13,200,13,"Govt. Adidravidar Residential School, North Block Upstairs, Kannakarai","1.Agamalai (R.V) And (P), Ward-2 Alangaram-1",All Voters
+14,200,14,"Panchayat Union Elementary School, Oothukadu","1.Agamalai (R.V) And (P), Ward-3 Uthukadu",All Voters
+15,200,15,"Govt. Hr.Sec. School,West Side,
+Boothipuram","1.Boothipuram (R.V) And (T.P), Ward-15 Kottai Mettu Street",All Voters
+16,200,16,"Govt. Hr.sec. School, South East Building, East Side, Boothipuram","1.Boothipuram (R.V) And (T.P), Ward-15 West Main Road",All Voters
+17,200,17,"Govt. Hr. Sec. School,  South East Building,West Side,  Boothipuram","1.Boothipuram (R.V) And (T.P), Ward-9 Kamatchi Nadar Street",All Voters
+18,200,18,"Panchayat Union Ele. School,North Side, West Block,  Boothipuram","1.Boothipuram (R.V) And (T.P), Ward-8 Ramakkaran Street",All Voters
+19,200,19,"Panchayat Union Ele. School, Eastern Side,East Block, Boothipuram","1.Boothipuram (R.V) And (T.P), Ward-8 Kamatchiyamman Kovil Street",All Voters
+20,200,20,"Govt. Hr. Sec. School, New Building, North Side South Room, Boothipuram","1.Boothipuram (R.V) And (T.P), Ward-10 Thelungu Chettiar Street",All Voters
+21,200,21,"Govt. Hr. Sec. School, Outer Side Building, North Side, South Facing, Center Room, Boothipuram","1.Boothipuram (R.V) And (T.P), Ward-12 Moottathevar Lane",All Voters
+22,200,22,"Govt. Kallar Ele. School , Additional Building, North Side, Valaiyathupatti","1.Boothipuram (R.V) And (T.P), Ward-5 Periya Bazar Street",All Voters
+23,200,23,"Govt. Kallar Ele. School , South Side, Valaiyathupatti","1.Boothipuram (R.V) And (T.P), Ward-3 Thelungu Chettiar Street",All Voters
+24,200,24,"Govt. Kallar Ele. School, Additional Building, South Side,  Valaiyathupatti","1.Boothipuram (R.V) And (T.P), Ward-1 Harijana Street",All Voters
+25,200,25,"Govt. Kallar Ele. School, Additional Building, North Side,  Valaiyathupatti","1.Boothipuram (R.V) And (T.P), Ward-5 Valaiyathuppatti Periya Street",All Voters
+26,200,26,"Panchayat Union Ele. School, New Building
+Western Side, Athipatti","1.Boothipuram (R.V) And (T.P), Ward-6 Athipatti",All Voters
+27,200,27,"Senthil Middle School,Additional Buliding, South Room, Keppurenganpatti, Manjinayakanpatti","1.Kodangipatti (R.V), Manjinayakanpatti (P), Ward-1 Kulalar Street",All Voters
+28,200,28,"Senthil Middle School,Additional Building,Middle Room, Keppurenganpatti, Manjinayakanpatti","1.Kodangipatti (R.V), Manjinayakanpatti (P), Ward-2 Keppurangan Patti Main Road",All Voters
+29,200,29,"Senthil Middle School,Additional Buliding, North Room, Keppurenganpatti, Manjinayakanpatti","1.Kodangipatti (R.V), Manjinayakanpatti (P), Ward-2 Vinayagar Kovil Back Street",All Voters
+30,200,30,"Panchayat Union Middle School, Old Building, North Side, South Facing Room, Valayapatti","2.Kodangipatti (R.V), Manjinayakanpatti (P), Ward-4 West Street",All Voters
+31,200,31,"Panchayat Union Middle School, New Building,  North Facing, Center Room, Valayapatti","1.Kodangipatti (R.V), Manjinayakanpatti (P), Ward-4 Middle Street",All Voters
+32,200,32,"Adidravidar Welfare Ele.School, North Block, B.Meenakchipuram","1.B.Meenakshipuram (R.V) And (T.P), Ward-8 Suruli Street",All Voters
+33,200,33,"Ramapalanivelsamy Middle School, Part Building, B.Meenachipuram","1.B.Meenakshipuram (R.V) And (T.P), Ward-9 Dr.Ambethkar Street",All Voters
+34,200,34,"Adidravidar Welfare Ele. School,South Block, B.Meenatchipuram","1.B.Meenakshipuram (R.V) And (T.P), Ward-3 Gandhi Main Street",All Voters
+35,200,35,"Panchayat Union Primary School, North
+Building, Pottalkalam","2.B.Meenakshipuram (R.V) And (T.P), Ward-7 Kaliamman Kovil Street",All Voters
+36,200,36,"Govt. Kallar Middle School, North Block, B.Meenakchipuram","1.B.Meenakshipuram (R.V) And (T.P), Ward-1 Keerakadai  Street",All Voters
+37,200,37,"Govt. Kallar Middle. School, Southern Side, B.meenakchipuram.","1.B.Meenakshipuram (R.V) And (T.P), Ward-15 Kandiamman Kovil Street",All Voters
+38,200,38,"M.K Hindu Aided Ele.School, East Side Building, B.meenakchipuram","1.B.Meenakshipuram (R.V) And (T.P), Ward-11 Vinayakar Kovil Street",All Voters
+39,200,39,"Govt. Adidravidar Welfare Middle School,Centre New Building,","1.B.Meenakshipuram (R.V) And (T.P), Ward-5&6 Durai Raja Puram Colony",All Voters
+40,200,40,"Govt. Adidravidar Welfare Middle School,West Side, New Building, Dhurairajapuram Colony","1.B.Meenakshipuram (R.V) And (T.P), Ward-6 Durai Raja Puram Colony",All Voters
+41,200,41,"Kadiria Primary School,    ,  North Building, Boyan Thurai Road, Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-1 Kurangani Road",All Voters
+42,200,42,"ICDCS-integrated child development schme Office, Puthur west street bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-1 Soundhravel Nagar",All Voters
+43,200,43,"Maravar Munnettra Sangam, Sowendravel Nagar, Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-1 Valasathurai Road Street-1",All Voters
+44,200,44,"ICDS Center, Sowendravel Nagar Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-1 Valasathurai Road Street-2",All Voters
+45,200,45,"Kadiria Primary School, South Building Boyan Thurai Road Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-1 Puthur West Street",All Voters
+46,200,46,"Anganwadi Centre No.22,North Side Building, West Room, TVKK Nagar, Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-31 T.V.K.K. Road-4",All Voters
+47,200,47,"Building, East Room,TVKK Nagar,
+Bodinayakanur","3.Bodinayakanur (R.V) And (M), Ward-29 Aranmanai Street",All Voters
+48,200,48,"Kongu Vellala Gounder Samuthaya Kudam,West Building,TVKK Nagar, Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-29 Kathirvel Lane",All Voters
+49,200,49,"Pitchandi Middle School , East Raja Street, Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-2 Zameen Sathiram Road-1",All Voters
+50,200,50,"Shanmugar Arulneri Primary School, North Veli Street Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-30 Ammakulam Street2",All Voters
+51,200,51,"Resource Room and Day Care for Children with Disabilities,East Building, South Room, Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-31 T.V.K.K.Nagar 1st Street",All Voters
+52,200,52,"Resource Room and Day Care for Children with Disabilities,East Building, North Room, Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-31 T.V.K.K.Nagar 2nd Street",All Voters
+53,200,53,"Shanmuga Arulneri Primary School, Gurukalaiyar Street, Bodinayakanur","4.Bodinayakanur (R.V) And (M), Ward-3 Sankarappan Lane",All Voters
+54,200,54,"Government Kallar middle school , south building, Periyakulam road bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-5 Subbu Street",All Voters
+55,200,55,"Shanmuga Arulneri Primary School, Western Building, Bodinayakanur.","1.Bodinayakanur (R.V) And (M), Ward-2 Mayanam Road",All Voters
+56,200,56,"North Side, East Part, Bodinayakanur.","3.Bodinayakanur (R.V) And (M), Ward-2 Chellayiamman Kovil Street",All Voters
+57,200,57,"Govt. Kallar Middle. School, New Building, North Room, Periyakulam Road, Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-2 Periyakulam Road",All Voters
+58,200,58,"Govt. Kallar Middle. School, New Building Center Room, Periyakulam Road, Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-6 Thiyagi Karubbaiah Lane",All Voters
+59,200,59,"Vaaniyar Uravinmurai Mandabam,
+Northern Building, North Side, Keela Raja Veethi, Bodinayakanur","4.Bodinayakanur (R.V) And (M), Ward-4 KattiyakaranKinartradi Lane",All Voters
+60,200,60,"Vaaniyar Uravinmurai Mandabam, Northern Building,South Side, Keela Raja Veethi, Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-4 Perumal Kovil South Street",All Voters
+61,200,61,"Municipal Ele. School   North Building Municipal  Travellers Bunglow Compound, ICDS Centre No.17, Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-29 Sagathevan Street",All Voters
+62,200,62,62,"Municipal Ele. School   North Building, ICDS Centre No.04, Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-29 Sundharapandian Street"
+63,200,63,"1st Ward Municipal Elementary School,
+North Side New Building , Municipal Travellers Bunglow Compound, Bodinayakanur.","5.Bodinayakanur (R.V) And (M), Ward-29 Perumal Kovil West Lane",All Voters
+64,200,64,"SCISM Play School, North Block Western Side, Subburaj Nagar ,Bodinayakanur.","1.Bodinayakanur (R.V) And (M), Ward-30 Mangaiarkarasi Street",All Voters
+65,200,65,"SCISM Play School, North Block Center Building , Subburaj Nagar, Bodinayakanur.","1.Bodinayakanur (R.V) And (M), Ward-33 New Colony Street-3",All Voters
+66,200,66,"SCISM Play School, North Block East Side, Subburaj Nagar, Bodinayakanur.","1.Bodinayakanur (R.V) And (M), Ward-33 New Colony Street-5",All Voters
+67,200,67,"Kamaraj Vidhyalayam Ele. South  West Side, Subburajnagar, Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-33 New Colony Street-1",All Voters
+68,200,68,"Kamaraj Vidhyalayam Ele. School, Western Side, 6th Std Class Room, Subburajnagar, Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-33 New Colony",All Voters
+69,200,69,"Kamaraj Vidhyalayam Ele. School , East Side Room, Subburaj Nagar, Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-32 Subburajnagar Street-11",All Voters
+70,200,70,"Kamaraj Vidhyalayam Ele. School,East Side,South Room, Subburaj Nagar, Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-32 Subburajnagar Street-9",All Voters
+71,200,71,"7th Municipal Higher Secondary School, North Side, Additional Building, Paramasivan Kovil Street, Bodinayakanur","2.Bodinayakanur (R.V) And (M), Ward-30 Zameen Manager Lane",All Voters
+72,200,72,"7th Municipal Higher Secondary School, Class Room 11th Std C Sec Western Side North Building  Paramasivan Kovil Street, Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-30 Kulasekarapandiyan South Street",All Voters
+73,200,73,"7th Municipal Higher Secondary School, East Side Building Paramasivan Kovil Street, Bodinayakanur.","1.Bodinayakanur (R.V) And (M), Ward-28 Thillai Ambalam Street",All Voters
+74,200,74,"7th Municipal Higher Secondary School, South Side, East Building Paramasivan Kovil Street, Bodinayakanur.","1.Bodinayakanur (R.V) And (M), Ward-28 Thangamuthamman Kovil Street",All Voters
+75,200,75,"Soudambikai Middle School, Main Block, North Side, Chinnasowdamman Kovil Street, Bodinayakanur.","1.Bodinayakanur (R.V) And (M), Ward-26 Appar Lane",All Voters
+76,200,76,"Soudambigai Middle School, South Side, Chinnasowdamman Kovil Street, Bodinayakanur.","1.Bodinayakanur (R.V) And (M), Ward-27 Nanthavanam Street-4",All Voters
+77,200,77,"Zameintharani Kamulammal Memorial Ele.
+School West Facing Room, Sundharapandian Street, Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-25 Murugan Eakali Lane",All Voters
+78,200,78,"Zameintharani Kamulammal Memorial Ele.
+School, North Facing Room, Sundharapandian  Street, Bodinayakanur","7.Bodinayakanur (R.V) And (M), Ward-25 Alagiri Lane",All Voters
+79,200,79,"Zaminthrani Kamulammal Memorial Hr.  Sec. School, Centre Block, East Side, 11Std E Sec, Bodinayakanur.","1.Melachokkanathapuram (R.V), Bodinayakanur (M), Ward-23 Bodimettupathai",All Voters
+80,200,80,"Zaminthrani Kamulammal Memorial Hr.Sec.
+School, Centre Block, 11th Std G Sec, Bodinayakanur.","1.Melachokkanathapuram (R.V), Bodinayakanur (M), Ward-23 Pillaiyar Kovil Street",All Voters
+81,200,81,"Zamintharani Kamulammal Memorial Hr.Sec. School, East Block, North Side, Staff Room (Gents), Bodinayakanur.","2.Melachokkanathapuram (R.V), Bodinayakanur (M), Ward-23- Periyandavar Kovil Street",All Voters
+82,200,82,"Zamintharani Kamulammal Memorial Hr.Sec. School, East Block, Southern Side, Staff Room (Ladies), Bodinayakanur.","1.Melachokkanathapuram (R.V), Bodinayakanur (M), Ward-23 Umaithurai Street",All Voters
+83,200,83,"Sowendeeswari Middle School, Periyanda varpuram Near Head Post Office, Bodinayakanur.","1.Bodinayakanur (R.V) And (M), Ward-12 Periyandavarpuram East Lane1",All Voters
+84,200,84,"ICDS Center, Santhai Pettai Street, Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-12 Kamaiyasami Street",All Voters
+85,200,85,"10th Ward Municipal High School, South Side, Bodinayakanur.","1.Bodinayakanur (R.V) And (M), Ward-8 Pookkarar Street",All Voters
+86,200,86,"10th Ward Municipal High School, East Side, Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-9 Mathuraiveeran Street",All Voters
+87,200,87,"10th Ward Municipal Elementary School, Eastern side, Bodinayakanur.","1.Bodinayakanur (R.V) And (M), Ward-8 Ethiraji Street",All Voters
+88,200,88,"10th Ward Municipal Elementary School, Western side, Bodinayakanur.","1.Bodinayakanur (R.V) And (M), Ward-8 South Raja Street",All Voters
+89,200,89,"Ayiravysia Sozhia Chettiyar Uravinmurai Building, Church Road, Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-8 Church Street Main Road",All Voters
+90,200,90,"ICDS Center No.107,  V.O.C Nagar North Street, Bodinayakanur","1.Bodinayakanur (R.V) And (M), Ward-7 Thiyaki Visvanathan Street",All Voters
+91,200,91,"Anna Memorial Municipal Middle School,Additional New Building, South Side Room, Jakkamanayakkanpatti Bodinayakanur","1.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-12 Vengadasalabathi Kovil Street",All Voters
+92,200,92,"Nadar Hr.Sec,School, West Block,North Side,Room No:13, Bodinayakanur","1.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-16 Ottagoothar Street",All Voters
+93,200,93,"Buthar Memorial Middle School, West Side, Kaliyamman Kovil Street, Thirumalapuram, Bodinayakanur.","1.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-10 V.O.C.Nagar East Street-1",All Voters
+94,200,94,"Buthar Memorial Middle School, East Side, Kaliyamman Kovil Street, Thirumalapuram, Bodinayakanur.","1.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-10 V.O.C. Nagar",All Voters
+95,200,95,"Anna Memorial Municipal Middle School,Additional New Building, North Side Room, Jakkamanayakkanpatti Bodinayakanur","1.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-10 Sanmugasundharapuram Lane",All Voters
+96,200,96,"Senaithalaivar Nursery and Primary School, Priyandavar High Road, West Portion, Bodinayakanur","1.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-12 Buthar School Street",All Voters
+97,200,97,"Anna Memorial   Municipal Middle School, ICDS Centre No.32, North Side West Part, Bodinayakanur","1.Melachokkanathapuram (R.V), Bodinayakanur (M), Ward-10 Sanmugasundrapuram Lane-3",All Voters
+98,200,98,"ICDS Center No.31, Gandhi Nagar, Karuppasamy Kovil Street, Bodinayakanur","1.Melachokkanathapuram (R.V), Bodinayakanur (M), Ward-11 Olukalpathai Lane-3",All Voters
+99,200,99,"Anna Memorial Municipal Middle School , ICDS Centre No 30, North Side East Part, Bodinayakanur.","1.Melachokkanathapuram (R.V), Bodinayakanur (M), Ward-12 Vengadasalabathi Kovil Street",All Voters
+100,200,100,"Nadar Hr. Sec. School, West Block, North Side, Thirumalapuram, Bodinayakanur","1.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-16 Pattalamman Kovil Street",All Voters
+101,200,101,"Nadar Hr. Sec. School, West Block, South Side, Thirumalapuram Bodinayakanur","1.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-18 Middle Street",All Voters
+102,200,102,"Nadar Hr. Sec. School ,West Block, West Side, Thirumalapuram, Bodinayakanur","2.Melachokkanathapuram (R.V), Bodinayakanur (M), Ward-15 Velappar Street",All Voters
+103,200,103,"Nadar Hr. Sec. School ,South Block, West Side, Thirumalapuram, Bodinayakanur","1.Melachokkanathapuram (R.V), Bodinayakanur (M), Ward-16 Pakthaseva Street",All Voters
+104,200,104,"Nadar Hr. Sec. School ,South Block, East Side, Thirumalapuram, Bodinayakanur","1.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-19 Muthalvar Colony",All Voters
+105,200,105,"Nadar Hr. Sec. School ,East Block, South Side,Thirumalapuram, Bodinayakanur","1.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-19 Colony Street-7",All Voters
+106,200,106,"Nadar Hr. Sec. School ,East Block, North
+Side,Thirumalapuram, Bodinayakanur","5.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-19 Kuppalakirithottam Street-3",All Voters
+107,200,107,"Nadar Ele. School, ,West Block, North Side, Thirumalapuram, Bodinayakanur","1.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-19 Karuppasamy Kovil East Street",All Voters
+108,200,108,"Nadar Ele. School ,West Block, South Side, Thirumalapuram, Bodinayakanur","1.Melachokkanathapuram (R.V), Bodinayakanur (M), Ward-18 Shavadi Lane",All Voters
+109,200,109,"Nadar Ele. School ,South Block, Middle Side, Thirumalapuram  Bodinayakanur","1.Melachokkanathapuram (R.V), Bodinayakanur (M), Ward-18 Veeralagamman Kovil Street",All Voters
+110,200,110,"ICDS Centre ,Thendral Nagar, Near RCH, North Building, Bodinayakanur","1.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-20 Jeevanagar East Street",All Voters
+111,200,111,"Moovendhar Middle School, Main Block, Eastern Side, Jakkamanayakkanpatti, Bodinayakanur","1.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-20 Jeevanagar South Street-2",All Voters
+112,200,112,"Moovendhar Middle School, Main Block, South Side, Jakkamanayakkanpatti, Bodinayakanur","1.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-20 Thendral Nagar Middle Street",All Voters
+113,200,113,"Soweendeeswari Middle School, South Building Santhaipettai  Bodinayakanur","1.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-13 Pangajam Press East Street",All Voters
+114,200,114,"Sri Ganesh Ele. School, Santhaipettai Bodinayakanur","1.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-13 Pangajam Press South Street-2",All Voters
+115,200,115,"Senaithalaivar Nursery and Primary School, Priyandavar High Road North Building East Portion  Bodinayakanur","1.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-13 Municipal Colony Street-1",All Voters
+116,200,116,"Telungu Chettiyar Mandabam, West Building, North Side, Bodinayakanur","2.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-14 Bharathinarayanasamy Street-1",All Voters
+117,200,117,"Telungu Chettiyar Mandabam, West Building, South Side, Bodinayakanur","1.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-15 Panthi Vinayakar Street",All Voters
+118,200,118,"Pangajam  Middle School, East Block, North Side, Kulalar Palayam, Bodinayakanur","1.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-22 Nattanmaikarar Street",All Voters
+119,200,119,"Pangajam  Middle School, West Block, North Side, Kulalar Palayam, Bodinayakanur","1.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-21 Bojaraja Street",All Voters
+120,200,120,"Pangajam Girls  Hr.sec.School ,, East Block.south building Near Cycle Stand , Kulalar Palayam,  Bodinayakanur","2.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-21 Viveganathar Street",All Voters
+121,200,121,"Pangajam  Middle School, East Block, Middle Side, Kulalar Palayam, Bodinayakanur","1.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-21 Rengasami Street",All Voters
+122,200,122,"Pangajam  Middle School, East Block South Side, Bodinayakanur","1.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-21 Karattupatty Pathai",All Voters
+123,200,123,"Pangajam  Middle School   , East Block South Side,(2nd Class Room) Bodinayakanur","1.Melechokkanathapuram (R.V), Bodinayakanur (M), Ward-21 Pangaru West Street",All Voters
+124,200,124,"Govt.Higher Sec. School, South Building East Room, Melachokkanathapuram","1.Melachokkanathapuram (R.V) And (T.P), Ward-6 South Raja Veethi",All Voters
+125,200,125,"Govt.Higher Sec. School, South Building West Side Room, Melachokkanathapuram","1.Melachokkanathapuram (R.V) And (T.P), Ward-3 Pattalamman Kovil Main Street",All Voters
+126,200,126,"Govt.Higher Sec. School, North East (RMSA) Building East  Portion, Melachokkanathapuram","1.Melachokkanathapuram (R.V) And (T.P), Ward-3 Aringar Anna Street",All Voters
+127,200,127,"SICSM Matric Higher Sec. School, Western Block Southern Side 2nd Room Melechokkanathapuram","1.Melachokkanathapuram (R.V) And (T.P), Ward-1 Vinobaji  Colony",All Voters
+128,200,128,"SICSM Matric Higher Sec. School ,Eastern Building North Side, 1st Room Melechokkanathapuram","1.Melachokkanathapuram (R.V), And (TP), Ward-2 Vinobaji Colony",All Voters
+129,200,129,"SICSM Matric Higher Sec. School ,Eastern Building, North Side 2nd Room Melechokkanathapuram","1.Melachokkanathapuram (R.V), And (TP), Ward-2 Vinobaji Colony Block 1",All Voters
+130,200,130,"Govt.Higher Sec. School, North East (RMSA) Building West Side, Melachokkanathapuram","1.Melachokkanathapuram (R.V) And (T.P), Ward-4 Indragandhi Street",All Voters
+131,200,131,"Thiru. Vengadasalam Middle School, Western Side, South Block, B.Renganathapuram","1.Melachokkanathapuram (R.V) And (T.P), Ward-13 V.O.C.Street",All Voters
+132,200,132,"Thiru. Vengadasalam Middle School, Eastern Side, South Block, B.Renganathapuram","2.Melachokkanathapuram (R.V) And (T.P), Ward-15 Vinayagar Kovil Street",All Voters
+133,200,133,"Thiru. Vengadasalam Middle School, Western Side North Block, B.Renganathapuram","1.Melachokkanathapuram (R.V) And (T.P), Ward-13 Gandhi Nagar",All Voters
+134,200,134,"ICDS Centre, B.Renganathapuram","1.Melachokkanathapuram (R.V) And (T.P), Ward-14 Dr.Ambethkar Street",All Voters
+135,200,135,"Panchayat Union Middle School,South Building,East Side, B.Dharmathupatti","1.Melachokkanathapuram (R.V) And (T.P), Ward-9 Kakkan Street",All Voters
+136,200,136,"Panchayat Union Middle School,Western Building, South Room, Karattupatti","1.Melachokkanathapuram (R.V) And (T.P), Ward-12 Karatupatti South Street",All Voters
+137,200,137,"Panchayat Union Middle School, North Side Building, B.Dharmathupatti","1.Melachokkanathapuram (R.V) And (T.P), Ward-9 Barathiyar Street",All Voters
+138,200,138,Building B.Dharmathupatti,999.OVERSEAS ELECTORS,All Voters
+139,200,139,"Panchayat Union Middle School  , North Block, Manapatti, Bodimettu","1.Melachokkanathapuram (R.V) And (T.P), Ward-11 Bodi Mettu Munar Road",All Voters
+140,200,140,"Anganwadi Centre, RI Office Back Side, Kodangipatti","1.Kodangipatti (R.V) And (P), Ward-2  Veerapandi Road",All Voters
+141,200,141,"C.S.I School, CSI School Street, Kodangipatti","1.Kodangipatti (R.V) And (P), Ward-1 C.S.I.School Street",All Voters
+142,200,142,"S.K.L. Middle School , New Building Western Side, Kodangipatti","1.KodangipattI (R.V) And (P), Ward-2 Maniyakarar Pillai Street",All Voters
+143,200,143,"S.K.L. Middle School , New Building Eastern Side, Kodangipatti","1.KodangipattI (R.V) And (P), Ward-3 Thoppu Street",All Voters
+144,200,144,"Panchayat Union Ele. School , North Block, Western Side, Kodangipatti","1.Kodangipatti (R.V) And (P), Ward-4 Main Bazar",All Voters
+145,200,145,"Panchayat Union Ele. School, South Side, Kodangipatti","1.Kodangipatti (R.V) And (P), Ward-4 Main Bazar",All Voters
+146,200,146,"Panchayat Union Ele. School , North Side, Sadaiyalpatti","1.Kodangipatti (R.V) And (P), Ward-1 Saralikalam",All Voters
+147,200,147,"Pachaiyappa High School,New Building, East Room, Uppukottai","12.Uppukottai (R.V) And (P), Ward-4 Nayaickar Savadi Street",All Voters
+148,200,148,"Panchayat Union Ele. School,Main Building, East Side, Uppukottai","1.Uppukottai (R.V) And (P), Ward-2 Magalingam Street",All Voters
+149,200,149,"Panchayat Union Ele. School, New Building, West Side, Uppukottai","1.Uppukottai (R.V) And (P), Ward-2 Harijana Cross Street",All Voters
+150,200,150,"Pachaiyappa High School,New Building, Middle Room Uppukottai","1.Uppukottai (R.V) And (P), Ward-4 Bodi Road",All Voters
+151,200,151,"Panchayat Union Middle School,East Side Building, Gundalnaickanpatti","1.Uppukottai (R.V) And (P), Ward-5 Gundal Nayaickan Patti",All Voters
+152,200,152,"Govt. Kallar Middle School,New Building,
+West Side, Palarpatti","10.Uppukottai (R.V) And (P), Ward-6 North Street  South Side",All Voters
+153,200,153,"Govt. Kallar Middle School,New Building, South Side, Palarpatti","1.Uppukottai (R.V) And (P), Ward-6 Kasimayan Street",All Voters
+154,200,154,"Hindu Ele. School ,  East Building, Bodendrapuram","1.Uppukottai (R.V) And (P), Ward-1 Duraisamy Teacher Street",All Voters
+155,200,155,"Anganwadi Centre, East Side Facing, Bodendrapuram.","1.Uppukottai (R.V) And (P), Ward-1 Chandraraj  Street",All Voters
+156,200,156,"Savari Nayagam Ele.School,South Building,
+Manicakapuram","4.Uppukottai (R.V), Kamarajapuram (P), Ward-5 Manikkapuram North Street",All Voters
+157,200,157,"Sriram Solai Middle School, North  Portion, Kamarajapuram.","1.Uppukottai (R.V), Kamarajapuram (P), Ward-1 Main Road",All Voters
+158,200,158,"Suruli Kathirveluchamy Middle School, East Side, Dombuchery","1.Dombuchery (R.V) And (P), Ward-1 Andavar Kovil Street",All Voters
+159,200,159,"Suruli Kathirveluchamy Middle School, South Side, Dombuchery","1.Dombuchery (R.V) And (P), Ward-2 S.K.S. School Street",All Voters
+160,200,160,"Thirupathi Chettiyar Middle School, North Side, Dombuchery","1.Dombuchery (R.V) And (P), Ward-4 Petchiamman Kovil Street",All Voters
+161,200,161,"Thirupathi Chettiyar Middle School, East Side, Dombuchery","1.Dombuchery (R.V) And (P), Ward-2 Pillaimar Savadi Street",All Voters
+162,200,162,"Kaligadevi High School, North Block, West Side, Pathrakalipuram","1.Dombuchery (R.V) And (P), Ward-5 Dombuchery Road East Street",All Voters
+163,200,163,"Kaligadevi High School , North Block, East Side,Pathrakalipuram","1.Dombuchery (R.V) And (P), Ward-5 Vinayagar Kovil Stret",All Voters
+164,200,164,"Kaligadevi Ele. School, Western Block,
+Western Portion, Pathirakalipuram","3.Dombuchery (R.V) And (P), Ward-5 School West - Amarnath Street",All Voters
+165,200,165,"Kaligadevi Ele. School, North Block, Western Side, Pathirakalipuram","1.Dombuchery (R.V) And (P), Ward-5 Main Bus Road",All Voters
+166,200,166,"Panchayat Union Middle School,Western Side, Centre Portion SSA Building, B.Ammapatti","1.B.Ammapatti (R.V) And (P), Ward-1 Adidravidar Colony",All Voters
+167,200,167,"Panchayat Union Middle School,       SSA Building West Side, B.Ammapatti","1.B.Ammapatti (R.V) And (P), Ward-1 West Street",All Voters
+168,200,168,"Hindu Ele. School  , South Building, Sundrarajapuram","1.B.Ammapatti (R.V) And (P), Ward-2 Main Street",All Voters
+169,200,169,"Hindu Ele. School  , East Building,Nort Side, Sundrarajapuram","1.B.Ammapatti (R.V) And (P), Ward-2 Pungamaram Street",All Voters
+170,200,170,"C.S.I Ele.School, Eastern Side, Visuvasapuram","2.B.Ammapatti (R.V) And (P), Ward-6 C.S.I School Street-1",All Voters
+171,200,171,"C.S.I Ele.School , Western Side, Visuvasapuram","1.B.Ammapatti (R.V) And (P), Ward-3 Main Street",All Voters
+172,200,172,"Govt. Kallar Ele. School, West Building, Perumal Gowndenpatti","1.B.Ammapatti (R.V) And (P), Ward-4 S.C.Colony",All Voters
+173,200,173,"Govt. Kallar Ele. School, North Building, Perumal Gowndenpatti","1.B.Ammapatti (R.V) And (P), Ward-4 Middle  Street",All Voters
+174,200,174,"Govt. Hr. Sec. School,North Side, South Facing Room, Sillamarathupatti","1.B.Ammapatti (R.V), Sillamarathupatti (P), Ward-1 Patel Street",All Voters
+175,200,175,"Govt. Hr. Sec. School , Additional Building, North Builidng Sillamarathupatti","1.B.Ammapatti (R.V), Sillamarathupatti (P), Ward-1 Soundravel Street Kasthuribay Road",All Voters
+176,200,176,"Govt. Hr. Sec. School , Additional Building,","1.B.Ammapatti (R.V), Sillamarathupatti (P), Ward-2 Gandhiji Street",All Voters
+177,200,177,"Panchayat Union Ele. School ,Western Block,North Building Sillamarathupatti","1.B.Ammapatti (R.V), Sillamarathupatti (P), Ward-4 Vivekananthar Street",All Voters
+178,200,178,"Panchayat Union Ele. School,West Block, Middle Building,Sillamarathupatti","1.B.Ammapatti (R.V), Sillamarathupatti (P), Ward-5 Bharathiar Street",All Voters
+179,200,179,"Panchayat Union Ele. School, Eastern Side, Middle Building, Sillamarathupatti","1.B.Ammapatti (R.V), Sillamarathupatti (P), Ward-4 Panchayat Union Street",All Voters
+180,200,180,"Panchayat Union Ele. School, Eastern Building, South Side, Sillamarathupatti","1.B.Ammapatti (R.V), Sillamarathupatti (P), Ward-4  Dr.Radhakrishnan Street",All Voters
+181,200,181,"New Building, East Room Sillamarathupatti","3.B.Ammapatti (R.V), Sillamarathupatti (P), Ward-5 Bodi-Thevaram Road  Keelatheru Kasthuribai",All Voters
+182,200,182,"Panchayat Union Ele. School, West Block, North Side, Silamalai","1.Silamalai (R.V) And (P), Ward-1 New Colony",All Voters
+183,200,183,"Panchayat Union Ele. School, West Block, South Side, Silamalai","1.Silamalai (R.V) And (P), Ward-1 Thevaram Road",All Voters
+184,200,184,"Panchayat Union Ele.School,South Building, North Facing, Silamalai","1.Silamalai (R.V) And (P), Ward-2 Sulapuram Road",All Voters
+185,200,185,"Panchayat Union Ele.School, East Side North Block, South Room, Silamalai","1.Silamalai (R.V) And (P), Ward-2 Korakkar South Street",All Voters
+186,200,186,"Panchayat Union Ele.School, West Block, Silamalai","1.Silamalai (R.V) And (P), Ward-5 Boyar Street",All Voters
+187,200,187,"Panchayat Union Middle School,West Block, Sulapuram","1.Silamalai (R.V) And (P), Ward-5 Sulapuram Urumikarar Street",All Voters
+188,200,188,"Panchayat Union Ele. School,West Face South Building, North Side, Silamalai","4.Silamalai (R.V) And (P), Ward-3 Arasamara Street-1",All Voters
+189,200,189,"Panchayat Union Ele. School,West Face South Building, South Side, Silamalai","1.Silamalai (R.V) And (P), Ward-3 Amman Kovil Street",All Voters
+190,200,190,"Panchayat Union Ele.School  , B.Mallingapuram","1.Silamalai (R.V) And (P), Ward-4 New Colony",All Voters
+191,200,191,"Panchayat Union Middle School , B.Maniyampatti","1.Rasingapuram (R.V), B.Maniyampatti (P), Ward-1 Ondiveerappasami Kovil Street",All Voters
+192,200,192,"Govt.High School, South Side,West Building, Rasingapuram","1.Rasingapuram (R.V) And (P), Ward-1 Mallingapuram Salai",All Voters
+193,200,193,"Govt.High, School,  East Building,West Facing, Center Room, Rasingapuram","1.Rasingapuram (R.V) And (P), Ward-1 Singaravel Street",All Voters
+194,200,194,"Panchayat Union Ele.School, Eastern Side, Rasingapuram","1.Rasingapuram (R.V) And (P), Ward-2 Raj  Teacher Street",All Voters
+195,200,195,"Panchayat Union Ele.School, Western Side, Rasingapuram","1.Rasingapuram (R.V) And (P), Ward-2 Bothal Raj Thottam",All Voters
+196,200,196,"Panchayat Union Middle School,North Building,West Room, Kariappagoundanpatti, Rasingapuram","1.Rasingapuram (R.V) And (P), Ward-3 Bodi Thevaram Salai",All Voters
+197,200,197,"Panchayat Union Middle School,West Side, Kariappagoundanpatti, Rasingapuram","1.Rasingapuram (R.V) And (P), Ward-3 Pandurangan Street",All Voters
+198,200,198,"Panchayat Union Middle School,South Building, West Room, Kariappagoundanpatti, Rasingapuram","1.Rasingapuram (R.V) And (P), Ward-4 P.Subbaian House Street",All Voters
+199,200,199,"Panchayat Union Middle School,South Building, East Room, Kariappagoundanpatti, Rasingapuram","1.Rasingapuram (R.V) And (P), Ward-4 Seerangu Street",All Voters
+200,200,200,"Panchayat Union Middle School,East Room,
+Koolaiyanur","12.Koolaiyanur (R.V) And (P), Ward-1 Chettiyar Street",All Voters
+201,200,201,"Govt.Kaller Primary School, East Side, South Facing Room, Koolaiyanur","1.Koolaiyanur (R.V) And (P), Ward-1 Ayyanathapuram",All Voters
+202,200,202,"Service Centre, East Side,  B. Nagalapuram","6.Rasingapuram (R.V ), Nagalapuram (P), Ward-2 Thiruppathi Street",All Voters
+203,200,203,"Service Centre, West Side, B. Nagalapuram","1.Rasingapuram (R.V) , Nagalapuram (P), Ward-1 Main Road",All Voters
+204,200,204,"Community Hall, B. Nagalapuram","1.Rasingapuram (R.V) , Nagalapuram (P), Ward-3 Pillaiyar Kovil Street",All Voters
+205,200,205,"Panchayat Union Middle School, New Building,  West Side, Thimminayakkanpatti","1.Pottipuram (R.V), Thimminayakanpatti (P), Ward-5 Thimminayakkanpatti Black1 South Street",All Voters
+206,200,206,"Panchayat Union Ele. School, New Building Kuppanasaripatti","1.Pottipuram (R.V), Thimminayakanpatti (P), Ward-4 Kuppanasaripatti Block 3 Main Road Street",All Voters
+207,200,207,"Panchayat Union Elementary School, New Building North Side. Ramakrishnapuram","1.Pottipuram (R.V) And (P), Ward-3 Pottipuram Block-5",All Voters
+208,200,208,"Panchayat Union Middle School, East
+Facing, North West Building, Chinnapottipuram","1.Pottipuram (R.V) And (P), Ward-3 Chinnapottipuram Block-4",All Voters
+209,200,209,"Building Western Portion,
+Ramakrishnapuram",999.OVERSEAS ELECTORS,All Voters
+210,200,210,"Panchayat Union Middle School, Northern Side, T.Puthukottai","1.Pottipuram (R.V) And (P), T.Puthukottai Block-7,  Ward-1 Main Road",All Voters
+211,200,211,"Gandhiji Vidyalaya Ele. School, East Facing, West Building, Erranampatti","1.Pottipuram (R.V) And (P), Ward-2 Main Road East Street",All Voters
+212,200,212,"Govt. Kallar Hr. Sec. School,East Facing South West Building, Muthayan chettipatti","1.Pottipuram (R.V) And (P), Ward -5 Muthayan Chetti Patti, Main Road South Street",All Voters
+213,200,213,"Panchayat Union Ele. School, East facing West Side building, Vadamalairajapuram","1.Pottipuram (R.V) And (P),  Ward-1 Konampatti @ Vadamalai Rajapuram Block-1",All Voters
+214,200,214,"Panchayat Union Ele. School, Kanthasamypuram","1.Pottipuram (R.V) And (P),  Ward-1 Kandasamipuram Block-1 Nagalapuram Main Road",All Voters
+215,200,215,"Govt. Ele. School, Eastern Side, North Side, Sangarapuram","1.Sangarapuram (R.V) And (P), Ward-1 North Street",All Voters
+216,200,216,"Govt. Ele. School, South Side, Sangarapuram","1.Sangarapuram (R.V) And (P), Ward-3 East School Street",All Voters
+217,200,217,"Panchayat Union Ele. School, North Side,","1.Sangarapuram (R.V) And (P), Ward-5 S.Dharmathupatti",All Voters
+218,200,218,"Palaniyappa Vidyalayam, North Side,West portion  Palanichettipatti","1.Veerapandi (R.V), Palanichettipatti (T.P), Ward-5 Big Street",All Voters
+219,200,219,"Palaniyappa Vidyalayam, South side, West Portion Palanichettipatti,","1.Veerapandi (R.V), Palanichettipatti (T.P), Ward-7 Mothilal Street",All Voters
+220,200,220,"Palaniyappa Vidyalayam, North Side, Eastern Block Eastern Way, Palanichettipatti.","1.Veerapandi (R.V), Palanichettipatti (T.P), Ward-1 Mariyamman kovil Street",All Voters
+221,200,221,"Palaniyappa Vidyalayam, South Side, South Block South Way, Palanichettipatti.","1.Veerapandi (R.V), Palanichettipatti (T.P), Ward-3 Thanthay Periyar Street",All Voters
+222,200,222,"Palaniyappa Vidyalayam, North Building, Room No. 3 Palanichettipatti.","1.Veerapandi (R.V), Palanichettipatti (T.P), Ward-3 Vasuki Colony",All Voters
+223,200,223,"Palaniyappa Vidyalayam,  South Block Middle Room, Palanichettipatti.","1.Veerapandi (R.V), Palanichettipatti (T.P), Ward-3 Lalbahadursastri Street",All Voters
+224,200,224,"Palaniyappa Memorial Higher Secondary School,East Side, South Building South Portion, B-Block,  Room No.6, Palanichettipatti","2.Veerapandi (R.V), Palanichettipatti (T.P), Ward-7 Thilagar Street",All Voters
+225,200,225,"Palaniyappa Memorial Higher Secondary School,South West Building, Room No.3, Palanichettipatti","1.Veerapandi (R.V), Palanichettipatti (T.P), Ward-8 Subramaniya Siva Street-1",All Voters
+226,200,226,"Palaniyappa Memorial Higher Secondary School,North Block 2nd Room, Palanichettipatti","1.Veerapandi (R.V), Palanichettipatti (T.P), Ward-8 Subramaniya Siva Street-2",All Voters
+227,200,227,"Palaniyappa Memorial Hr. Sec. School, North Block, Room No.14, Palanichettipatti","1.Veerapandi (R.V), Palanichettipatti (T.P), Ward-9 Kamatchiyamman Kovil Street",All Voters
+228,200,228,"Palaniyappa Memorial Hr. Sec. School, North Block, Room No.15, Palanichettipatti","1.Veerapandi (R.V), Palanichettipatti (T.P), Ward-9 Moodaringar Rajaji Street",All Voters
+229,200,229,"Palaniyappa Memorial Hr.Sec. School, North Block Eastern Side  Room 15, Gundappan Chettiar Memorial Room, Palanichettipatti","1.Veerapandi (R.V), Palanichettipatti (T.P), Ward-10 T.B.N Road",All Voters
+230,200,230,"Palaniyappa Memorial Hr.Sec. School, West Face Building, 1st Room from South, Palanichettipatti","1.Veerapandi (R.V), Palanichettipatti (T.P), Ward-10 Dr. Rajendiraprasath Street",All Voters
+231,200,231,"Palaniyappa Memorial Hr. Sec. School, South Side B.Block, Palanichettipatti.","1.Veerapandi (R.V), Palanichettipatti (T.P), Ward-12 Peraringar Anna Street",All Voters
+232,200,232,"Palaniyappa Memorial Hr. Sec. School, East Face Building, 1st Room From South Palanichettipatti.","1.Veerapandi (R.V), Palanichettipatti (T.P), Ward-12 Palaniyappan Street",All Voters
+233,200,233,"Palaniyappa Memorial Hr.Sec. School, Room No.10, Palanichettipatti.","1.Veerapandi (R.V), Palanichettipatti (T.P), Ward-13 Kumuli Periyakulam Road",All Voters
+234,200,234,"Palaniyappa Memorial Hr.Sec. School, Room No.11, Palanichettipatti.","1.Veerapandi (R.V), Palanichettipatti (T.P), Ward-14 V.O.Chithambaram Street",All Voters
+235,200,235,"Palaniyappa Memorial Hr. Sec. School, East Face Building, 2nd Room From South","1.Veerapandi (R.V), Palanichettipatti (T.P), Ward-15 Muthunagar",All Voters
+236,200,236,"Govt. Hr.Sec. School, Eastern Side South Building, Koduvilarpatti","1.Koduvilarpatti (R.V) And (P), Ward-1 Nayakkar Street",All Voters
+237,200,237,"Govt. Hr.Sec. School, Northern Side Eastern Block (Behind Lab), Koduvilarpatti","1.Koduvilarpatti (R.V) And (P), Ward-1 Theni Road",All Voters
+238,200,238,"Govt. Hr. Sec. School   , East Side North Building, Koduvilarpatti","1.Koduvilarpatti (R.V) And (P), Ward-3 A.D colony",All Voters
+239,200,239,"Govt. Hr. Sec. School, East Side South Building, Koduvilarpatti","1.Koduvilarpatti (R.V) And (P), Ward-3 Theni Road",All Voters
+240,200,240,"Govt. Hr. Sec. School   , Nabord Building, North Side, Koduvilarpatti","1.Koduvilarpatti (R.V) And Koduvilarpatti (P), Ward-4 Sathiyanathapuram",All Voters
+241,200,241,"Panchayat Union Elementary School, Western Side, Kottaipatti","1.Kuduvilarpatti (R.V), Aranmanaipudur (P), Ward-4 Aranmanaiputhur Iyanarpuram",All Voters
+242,200,242,"Panchayat Union Elementary School, Eastern Side Kottaipatti","1.Kuduvilarpatti (R.V), Aranmanaipudur (P), Ward-3 Kottaipatti",All Voters
+243,200,243,"Tamil Nadu State Rural Livelihoods Mission, Regional Office,Meeting Hall, North Side, Mullai Nagar, Aranmanaipudur","1.Kuduvilarpatti (R.V), Aranmanaipudur (P), Ward-5 C Block Houshing Board",All Voters
+244,200,244,"Tamil Nadu State Rural Livelihoods Mission, Regional Office,,Meeting Hall, South Side, Mullai Nagar, Aranmanaipudur","1.Kuduvilarpatti (R.V), Aranmanaipudur (P), Ward-5 D Block Houshing Board",All Voters
+245,200,245,"Village Panchayat Service Centre Building,South Side, Mullainagar, Aranmanaipudur","1.Kuduvilarpatti (R.V), Aranmanaipudur (P), Ward-5 M Block Houshig  Board Side-1",All Voters
+246,200,246,"Village Panchayat Service Centre Building,North  Side, Mullainagar, Aranmanaipudur","1.Kuduvilarpatti (R.V), Aranmanaipudur (P), Ward-5 M Block Houshig  Board Side-2",All Voters
+247,200,247,"Panchayat Union Middle School, West Side Southern Portion, Aranmanaipudur","1.Kuduvilarpatti (R.V), Aranmanaipudur (P), Ward-1 Kattabomman Street",All Voters
+248,200,248,"Panchayat Union Middle School, New Building,South Side Aranmanaipudur","1.Kuduvilarpatti (R.V), Aranmanaipudur (P), Ward -1 Kurumparsavadi Street",All Voters
+249,200,249,"Panchayat Union Middle School, Southern Building, West Portion, Aranmanaipudur","1.Kuduvilarpatti (R.V), Aranmanaipudur (P), Ward -1 Thiruvaluvar Street",All Voters
+250,200,250,"Samuthaya Koodam South Side, Aranmanaipudur","1.Kuduvilarpatti (R.V), Aranmanaipudur (P), Ward -1 Vasantha Nagar",All Voters
+251,200,251,"Panchayat Union Middle School,North Building, Eastern Portion, Aranmanaipudur","1.Kuduvilarpatti (R.V), Aranmanaipudur (P), Ward-2 Kakkanji Street",All Voters
+252,200,252,"Panchayat Union Middle School, North Building, Central Zone, Aranmanaipudur","1.Kuduvilarpatti (R.V), Aranmanaipudur (P), Middle Street",All Voters
+253,200,253,"Samuthaya Koodam North Side, Aranmanaipudur","1.Kuduvilarpatti (R.V), Aranmanaipudur (P), Ward-5 Vayalpatti Road",All Voters
+254,200,254,"Panchayat Union Middle School, Western Buliding, Nagalapuram","1.Koduvilarpatti (R.V), Nagalapuram (P), Ward-1 Sivalinkanayakkanpatti West Street",All Voters
+255,200,255,"Panchayat Union Middle School, South Buliding, East Side, Nagalapuram","1.Koduvilarpatti (R.V), Nagalapuram (P), Ward-3 Nagalapuram East Street",All Voters
+256,200,256,"Panchayat Union Middle School, North New Building, Balakrishnapuram","1.Kuduvilarpatti (R.V), Nagalapuram (P), Ward-2 Balakrishnapuram North Street",All Voters
+257,200,257,"N.R.Thiyagarajan Memorial Ele. School, North Side Eastern Block, Gopalapuram","1.Kuduvilarpatti (R.V), Nagalapuram (P), Gopalapuram North Street Harijana colony",All Voters
+258,200,258,"N.R.Thiyagarajan Memorial Ele. School, West Side Southern Part, Gopalapuram","1.Kuduvilarpatti (R.V), Nagalapuram (P), Ward-5 South Street",All Voters
+259,200,259,"Panchayat Union Ele. School, New Building South Side, Veerapandi","1.Veerapandi (R.V) And (T.P), Ward-14&15 Mela Street",All Voters
+260,200,260,"Panchayat Union Ele. School, New Building North Side, Veerapandi","1.Veerapandi (R.V) And (T.P), Ward-15 Kumuli Road",All Voters
+261,200,261,"Govt. Hr. Sec. School   , Western Building South Side , Veerapandi","1.Veerapandi (R.V) And (TP), Ward-13 Surulivel Pillai Street",All Voters
+262,200,262,"Govt. Hr. Sec. School   , Western Building North Part, Veerapandi","1.Veerapandi (R.V) And (TP), Ward-12 Harijana Colony Street",All Voters
+263,200,263,"Panchayat Union Ele. School, North Building, Veerapandi","2.Veerapandi (R.V) And (T.P), Ward-10 Sakkilier Street",All Voters
+264,200,264,"Panchayat Union Ele. School, South Building, Veerapandi","1.Veerapandi (R.V) And (T.P), Ward-10 Harijana Hamparent Tree  Line-2",All Voters
+265,200,265,"Gandhiji Govt. Middle School, North Side Western Block, Vayalpatti","1.Veerapandi (R.V) And (T.P), Ward-8&9 Vayalpatti North Street",All Voters
+266,200,266,"Gandhiji Govt. Middle School, Eastern Side, First Building, Vayalpatti","1.Veerapandi (R.V) And (T.P), Ward-8 Sakkiliyar Street",All Voters
+267,200,267,"Gandhiji Govt. Middle School, Eastern Block Central Building, Vayalpatti","1.Veerapandi (R.V) And (T.P), Ward-7 Vayalpatti Middle Street",All Voters
+268,200,268,"Panchayat Union Middle School, Western Buliding South Block, Muthuthevanpatti","1.Veerapandi (R.V), Muthuthevanpatti (P), Ward-5&6 Muthuthevanpatti main road",All Voters
+269,200,269,"Panchayat Union Middle School, South Building, Muthuthevanpatti","1.Veerapandi (R.V), Muthuthevanpatti (P), Ward-6 New Harijana Colony",All Voters
+270,200,270,"Panchayat Union Middle School, North New Building, Muthuthevanpatti","1.Veerapandi (R.V), Muthuthevanpatti (P), Ward-6 Periya Vaikkal Pathai Street",All Voters
+271,200,271,"Govt. Kallar Middle School,, Western Buliding, South Block, Mariamman Kovilpatti","1.Veerapandi (R.V), Muthuthevanpatti (P), Ward-3 Mariamman Kovilpatti Main Road",All Voters
+272,200,272,"Govt. Kallar Middle School, South Buliding, Mariamman Kovilpatti.","1.Veerapandi (R.V), Muthuthevanpatti (P), Ward-3 Mariamman Kovilpatti Panjayat Mayandi Street",All Voters
+273,200,273,"Anganwadi Centre No. 313, North Building, West Side, Mariamman Kovilpatti.","1.Veerapandi (R.V), Muthuthevanpatti (P), Ward-3 R.M.T.C Colony",All Voters
+274,200,274,"35.Community Hall, Thiruchenthur","3.Veerapandi (R.V), Muthuthevanpatti (P), Ward-1 Gunaseelan Street",All Voters
+275,200,275,"Amaravathi Middle School, North Building, Thiruchenthur","1.Veerapandi (R.V), Muthuthevanpatti (P), Ward-1 Thirunagar Colony",All Voters
+276,200,276,"Panchayat Union Middle School, South Side Second Building  From East, Upparpatti","1.Upparpatti (R.V) And (P), Ward-1 Main Road",All Voters
+277,200,277,"Panchayat Union Middle School, South Side 4th Building  From East, Upparpatti.","1.Upparpatti (R.V) And (P), Ward-1 South Street",All Voters
+278,200,278,"Panchayat Union Middle School, Eastern Building, Upparpatti.","1.Upparpatti (R.V) And (P), Ward-3 East Street",All Voters
+279,200,279,"Panchayat Union Middle School, Additional Building, Thadichery","1.Thadicheri (R.V) And (P), Ward-1 West Street",All Voters
+280,200,280,"Panchayat Union Middle School, Eastern
+Side, First Building, Thadichery","2.Thadicheri (R.V) And (P), Ward-2 East Street",All Voters
+281,200,281,"Sri Rengaraja Guruvappa Govt. High School, Western Buliding South Block, Srirengapuram","1.Thadichery (R.V), Shrirangapuram (P), Ward-1 Rice Mill Street",All Voters
+282,200,282,"Sri Rengaraja Guruvappa Govt. High School, Western Buliding North Block, Srirengapuram","1.Thadichery (R.V), Shrirangapuram (P), Ward-3 Aasari Street",All Voters
+283,200,283,"Sri Rengaraja Guruvappa Govt. High School
+, Main Building Eastern Block, Srirengapuram","1.Thadichery (R.V), Shrirangapuram (P), Ward-1 North Street",All Voters
+284,200,284,"Panchayat Union Middle School, South Building, Ambasamuthram","1.Govindanagaram (R.V), Ambasamuthram(P), Ward-1 Main Road",All Voters
+285,200,285,"Panchayat Union Middle School, West Building, Ambasamuthram","1.Govindanagaram (R.V), Ambasamuthram(P), Ward-2 Old Colony Street",All Voters
+286,200,286,"Kammavar Dharma Ele. School, New Building 1st Room From West, Govindanagaram","1.Govindanagaram (R.V) And (P), Ward-3 Govindanagaram Kasi Vishvanatha kovil Street",All Voters
+287,200,287,"Kammavar Dharma Ele. School, New Building 3rd Room From West, Govindanagaram","1.Govindanagaram (R.V) And (P), Ward-4 Primary Health Centre Street",All Voters
+288,200,288,"Kammavar Dharma Ele. School, Western Buliding South Block,   Govindanagaram","1.Govindanagaram (R.V) And (P), Ward-1 Govindanagaram East Street",All Voters
+289,200,289,"V.V. Hr.Sec. School   , South Building  2nd Room In Western Side,  Vengadasalapuam","1.Jangalpatti (R.V), Vengadasalapuram (P), Ward-2 East Street",All Voters
+290,200,290,"V.V. Hr.Sec. School, Room No.10, Golden Jubilee Building Hall , Vengadasalapuram","1.Jangalpatti (R.V), Vengadasalapuram (P), Ward-1 Main road",All Voters
+291,200,291,"V.V. Hr.Sec. School, Class VII A, Golden Jubilee Building Hall, Vengadasalapuram","1.Jangalpatti (R.V), Vengadasalapuram (P), Ward-1 Savalappatti",All Voters
+292,200,292,"Govt. Middle School, South Building, Thabbukkundu","1.Thappukkundu (R.V) And (P), Ward-2 South Street",All Voters
+293,200,293,"Govt. Middle School, West Building, Thabbukkundu","1.Thappukkundu (R.V) And (P), Ward-1 Dobi Labour Street",All Voters
+294,200,294,"Panchayat Union Middle School, South Building, Kattunayakkanpatti","1.Poomalaikundu (R.V), Kattunayakkanpatti (P), Ward-4 Mallaiyakoundanpatti Pillayar Kovil Street",All Voters
+295,200,295,"Panchayat Union Middle School, West Building,East Facing, Kattunayakkanpatti","1.Poomalaikundu (R.V), Kattunayakkanpatti (P), Ward-5 South Street",All Voters
+296,200,296,"Panchayat Union Middle School, Western Buliding, Kattunayakkanpatti","1.Poomalaikundu (R.V), Kattunayakanpatti (P), Ward-1 Kattunayakkanpatti West Street",All Voters
+297,200,297,"Govt.Higher Sec. School, Southern Side 2nd Room From West, Kottur","1.Kottur (R.V) And (P), Ward-1 Kaliyamman Kovil Street",All Voters
+298,200,298,"Govt.Higher Sec. School, Southern Side 6th Room From West Kottur","1.Kottur (R.V) And (P), Ward-1 Darmapuri Main Road",All Voters
+299,200,299,"Panchayat Union Ele. School,West Building,South Side, Kottur","1.Kottur (R.V) And (P), Ward-1 Ambedkar Street",All Voters
+300,200,300,"Panchayat Union Ele. School,West Building, North Side, Kottur","1.Kottur (R.V) And (P), Aasari Street",All Voters
+301,200,301,"Govt.Higher Sec. School,Main Gate Near, Center South Side, Building, Kottur","1.Kottur (R.V) And (P), R.C Street",All Voters
+302,200,302,"Govt.Higher Sec. School, Northern Side 2nd Room From West (Near Auditorium) Kottur","1.Kottur (R.V) And (P), Arunthathiyar Street",All Voters
+303,200,303,"Govt. Hr. Sec. School, Eastern Side,  1St Block From South Kottur","1.Kottur (R.V) And (P), Ward-5  Iyyanar Kovil Street",All Voters
+304,200,304,"Govt. Hr. Sec. School, Eastern Side,2nd Block From South Kottur","1.Kottur (R.V) And (P), Ward-5 Seelaikkari Kovil Street",All Voters
+305,200,305,"Kambar Middle School, Main Building South Side,  Seelaiyampatti","1.Seelaiyampatti (R.V) And (P), Ward-1 Seelayampatti North Street",All Voters
+306,200,306,"Kambar Middle School, Main Building North Side,  Seelaiyampatti","1.Seelaiyampatti (R.V) And (P), Ward-1 Arunthathiyar Street",All Voters
+307,200,307,"Kambar Middle School   , Main Building Central Side, Seelaiyampatti.","1.Seelaiyampatti (R.V) And (P), Ward-1 Seelaiyampatti Sappani Kovil Street",All Voters
+308,200,308,"Kambar Middle School   , South Building Central Side, Seelaiyampatti.","1.Seelaiyampatti (R.V) And (P), Ward-2 Pallivasal Street",All Voters
+309,200,309,"Bharathi Middle School, Main Building, Seelayaimpatti","1.Seelaiyampatti (R.V) And (P), Ward-3 Bagavathiyamman Kovil Street",All Voters
+310,200,310,"Bharathi Middle School, South Building, Seelayaimpatti","1.Seelaiyampatti (R.V) And (P), Ward-3 Seelayaimpatti Muthalamman Kovil Street",All Voters
+311,200,311,"Hindui Middle School, Eastern Side Near Office Room Seelayaimpatti","1.Seelaiyampatti (R.V) And (P), Ward-5 Seelayampatti Kanthasami Chetiyar Street",All Voters
+312,200,312,"Hindui Middle School, Western Side Near Water Tank Seelayaimpatti","1.Seelaiyampatti (R.V) And (P), Ward-5 South Vannar Street",All Voters
+313,200,313,"Govt. Hr.Sec. School, South Side Eastern Block Building, Dharmapuri","1.Poomalaikundu (R.V), Dharmapuri (P), Ward-1 Dharmapuri East Street",All Voters
+314,200,314,"Govt. Hr.Sec. School, South Side Western Block Building, Dharmapuri","1.Poomalaikundu (R.V), Dharmapuri (P), Ward-2 Ration Shop Street",All Voters
+315,200,315,"Govt.Higher Sec. School, Western Side Northern Block North Room Dharmapuri","1.Poomalaikundu (R.V), Dharmapuri (P), Ward-3 Dharmapuri North Street",All Voters
+316,200,316,"Govt.Higher Sec. School, Eastern Side Northern Block North Room Dharmapuri","1.Poomalaikundu (R.V), Dharmapuri (P), Harijana Colony",All Voters
+317,200,317,"Narasinga Perumal Vidhyalaya Middle School, South Building, Poomalaikundu","1.Poomalaikundu (R.V) And (P), Poomalaikkundu East Street",All Voters
+318,200,318,"Narasinga Perumal Vidhyalaya Middle School, North Building, Poomalaikundu","1.Poomalaikundu (R.V) And (P), Ward-3 Middle Street",All Voters
+319,200,319,"Panchayat Union Ele. School, South New Building Eastern Side, Jangalpatti","1.Jangalpatti (R.V) And (P), Ward-1 Jangalpatti North Street",All Voters
+320,200,320,"Panchayat Union Ele. School, Eastern Building, Jangalpatti","1.Jangalpatti (R.V) And (P), Ward-1 Jangalpatti South Street",All Voters
+321,200,321,"Govt.High School, Southern Side Western Block Middle Room Lakshmipuram","1.Jangalpatti (R.V) And (P), Ward-3 Lakshmipuram North Street",All Voters
+322,200,322,"Govt. High School, Western Side New Building North Side Room Lakshmipuram","1.Jangalpatti (R.V) And (P), Ward-3 Harijana Colony",All Voters
+323,200,323,"Sri Rama Krishna Vidhyalayam Govt Primary School, Govt High School Compound Southern Side East Block Middle Room Lakshmipuram","1.Jangalpatti (R.V) And (P), Ward-2 Solaithevanpatti Pathinetampadi Street",All Voters
+324,200,324,"S.V.Kalaimagal Middle School, Western Building, Kuppinayakkanpatti","1.Govindanagaram (R.V), Kuppinayakanpatti (P), Ward-1 School Street",All Voters
+325,200,325,"S.V.Kalaimagal Middle School, Southern Building, Western Side, Kuppinayakkanpatti","1.Govindanagaram (R.V), Kuppinayakanpatti (P), Ward-2 East Street",All Voters
+326,200,326,"Muthaiah Aided Ele. School, North Side, Dhuraichamipuram","1.Kutchanur (R.V) And (TP), Ward-1 Ammapatti Main Street",All Voters
+327,200,327,"Muthaiah Aided Ele. School, South Side, Dhuraichamipuram","1.Kutchanur (R.V) And (TP), Ward-1 Dhuraisamipuram Uppukotai Road 4",All Voters
+328,200,328,"Govt. Hr. Sec. School, North Facing South Side Building, Kutchanur","1.Kutchanur (R.V) And (TP), Ward-1 Kutchanur Society 1st Street",All Voters
+329,200,329,"Govt. Hr. Sec. School, East Facing South West Side Building, Kutchanur","1.Kutchanur (R.V) And (TP), Ward-5 Uthamappalayam Road",All Voters
+330,200,330,"Panchayat Union Ele. School,North Building South Facing East Side, Kutchanur","1.Kutchanur (R.V) And (TP), Ward-7 Kutchanur Uthamappalayam Road",All Voters
+331,200,331,"Panchayat Union Ele. School, North Building, South Facing, Middle Portion Class Room, Kutchanur","1.Kutchanur (R.V) And (TP), Ward-8 Gandhiji Main Street",All Voters
+332,200,332,"Panchayat Union Ele. School,North Building South Facing West Side, Kutchanur","1.Kutchanur (R.V) And (TP), Ward-9 Pattalamman Kovil Street",All Voters
+333,200,333,"Panchayat Union Ele. School,West Facing, East Side,New Building,  Kutchanur","1.Kutchanur (R.V) And (TP), Ward-12 Barathiyar Main Street",All Voters
+334,200,334,"Panchayat Union Ele School, South facing North Side Building, Eastern Portion, Pulikuthi","1.Pulikuthi (R.V) And (P), Ward-1 East Street",All Voters
+335,200,335,"Panchayat Union Ele School, South facing North Side Building, Western Portion, Pulikuthi","1.Pulikuthi (R.V) And (P), Ward-3 South Street",All Voters
+336,200,336,"Panchayat Union Ele School, South facing North Side Building, Pulikuthi","1.Pulikuthi (R.V) And (P), Ward-4 Middle Street",All Voters
+337,200,337,"Panchayat Union Middle School, Ayyampatti","1.Pulikuthi (R.V), Ayyampatti (P), Ward-1 Kutchanur Road",All Voters
+338,200,338,"Panchayat Union Middle School, North Side, Ayyampatti","1.Pulikuthi (R.V), Ayyampatti (P), Ward-2 South Street",All Voters
+339,200,339,"Govt. Kallar Ele. School, North facing  East Building, Markkaiyankottai","1.Markkaiyankottai (R.V) And (T.P), Ward-1 Niranikkan Street",All Voters
+340,200,340,"Govt. Kallar Ele. School, South facing, North Side Building, Eastern Side, Markkaiyankottai","1.Markkaiyankottai (R.V) And (T.P), Ward-5 Middle Street",All Voters
+341,200,341,"Govt. Kallar Ele. School, South facing North Building, Western Side, Markkaiyankottai","2.Markkaiyankottai (R.V) And (T.P), Ward-5 Nattanmai Veeranathevar Street",All Voters
+342,200,342,"Govt. Kallar Ele. School, East facing West Building, Southern Side,  Markkaiyankottai","1.Markkaiyankottai (R.V) And (T.P), Ward-7 Subramaniyapillai Line",All Voters
+343,200,343,"Govt. Kallar Ele. School, East facing West Building, Northern Side,  Markkaiyankottai","1.Markkaiyankottai (R.V) And (T.P), Ward-9 Uthamapalayam Road",All Voters
+344,200,344,"Panchayat Union Ele.School ,West Building, South Side, Ellappatti","1.Markkaiyankottai (R.V) And (T.P), Ward-10 Ellappatti North Street",All Voters
+345,200,345,"Panchayat Union Ele.School ,West Building, North Side, Ellappatti","3.Markkaiyankottai (R.V) And (T.P), Ward-12 Ellappatti Pillaiyar Kovil Street",All Voters
+346,200,346,"Panchayat Union Ele. School, Poolananthapuram","1.Poolananthapuram (R.V) And (P), Ward-1 Colony North Main Road",All Voters

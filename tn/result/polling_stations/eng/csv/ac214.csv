@@ -1,0 +1,940 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+1,214,1,"T.N.D.T.A. Primary School, Meelavitan","1.Thoothukudi Corporation Meelavittan Block 1 - Ward 3 , 2.Thoothukudi
+Corporation Kamaraj Nagar Block 4 - Ward 3 , 3.Thoothukudi Corporation Yadhavar Street Block 1 - Ward 3 , 4.Thoothukudi Corporation East Street - Ward 3 , 5.Thoothukudi Corporation West Street - Ward 3 , 6.Thoothukudi Corporation South Street - Ward 3 ,
+7.Thoothukudi Corporation North Street - Ward 3 , 8.Thoothukudi Corporation Middle Street - Ward 3 , 9.Thoothukudi Corporation Sterlite Quarters - Ward 3 -Thamira 1 , 10.Thoothukudi Corporation Kakkan Nagar - Ward 3 , 11.Thoothukudi Corporation Arunthadhiar Street - Ward
+3 , 999.OVERSEAS ELECTORS",General
+2,214,2,"T.N.D.T.A. Middle School, 1st room from South, Silverpuram","1.Thoothukudi Corporation Palaiahpuram - Ward 3
+2.Thoothukudi Corporation S.N.R. Nagar - Ward 3 , 999.OVERSEAS ELECTORS",General
+3,214,3,"T.N.D.T.A. Middle School, 1st room from North Silverpuram","1.Thoothukudi Corporation Silverpuram - Ward 3 ,
+2.Thoothukudi Corporation Loushia Side - Ward 3 , 999.OVERSEAS ELECTORS",General
+4,214,4,"I.C.E. King of Kings Matriculation Hr. Sec. School, Middle Block, South Portion, U.K.G. B, V.M.S. Nagar, Thoothukudi","1.Thoothukudi Corporation Bharathi Nagar(Chinnakannupuram) - Ward
+3 ,
+2.Thoothukudi Corporation Chinnakannupuram - Ward 3 ,
+3.Thoothukudi Corporation Bharathi Nagar West - Ward 3 ,
+4.Thoothukudi Corporation Bharathi Nagar East - Ward 3 , 999.OVERSEAS ELECTORS",General
+5,214,5,"I.C.E. King of Kings Matriculation Hr.
+Sec. School, Administrative Block, 1st room from south STD-I B, V.M.S. Nagar, Thoothukudi","1.Thoothukudi Corporation Silverpuram Slum Portion - Ward 3 ,
+2.Thoothukudi Corporation V.M.S Nagar (Chinnakannupuram West) - Ward 3 (Door No. from 1 to 1D-250) , 999.OVERSEAS ELECTORS",General
+6,214,6,"I.C.E. King of Kings Matriculation Hr.
+Sec. School, Administrative Block, 2nd room from South, STD-II, , V.M.S. Nagar, Thoothukudi","1.Thoothukudi Corporation V.M.S Nagar (Chinnakannupuram West) - Ward 3 (Door No. after 1D-250), 999.OVERSEAS ELECTORS",General
+7,214,7,"Kiddies World Play School, West
+Building, 1st room from South, Bharathi Nagar, Meelavittan Road (Near 4th Railway gate)","1.Thoothukudi Corporation Ettayapuram road - Ward 40 (Door No. From 1 to 73) , 999.OVERSEAS ELECTORS",General
+8,214,8,"Kiddies World Play School, West
+Building, 1st room from North, Bharathi Nagar, Meelavittan Road (Near 4th Railway gate)","1.Thoothukudi Corporation Ettayapuram road - Ward 40 (Door No. 74 to Last) , 999.OVERSEAS ELECTORS",General
+9,214,9,"Kiddies World Play School, North
+Building, 2nd room from West, Bharathi Nagar, Meelavittan Road (Near 4th Railway gate)","1.Thoothukudi Corporation Ettayapuram Road (K.V.K.) Nagar - Ward 39 (Door No. From 1 to
+55-2M-6) , 999.OVERSEAS ELECTORS",General
+10,214,10,"Kiddies World Play School, North
+Building, 3rd room from West, Bharathi Nagar, Meelavittan Road (Near 4th Railway gate)","1.Thoothukudi Corporation Ettayapuram Road (K.V.K.) Nagar - Ward 39 (Door No. From 55-2M-7 to Last) , 999.OVERSEAS ELECTORS",General
+11,214,11,"T.N.D.T.A Middle School, 1st room from south side, Madathur","1.Thoothukudi Corporation Madathur Yadhavar Street - Ward 34 ,
+2.Thoothukudi Corporation Madathur Arundhathiar Street - Ward 34 ,
+3.Thoothukudi Corporation Madathur Maravar Street - Ward 34 , 999.OVERSEAS ELECTORS",General
+12,214,12,"T.N.D.T.A Middle School, 2nd room from south side, Madathur","1.Thoothukudi Corporation Madathur - Ward 34 , 2.Thoothukudi
+Corporation Railway Quarters - Ward 3 , 3.Thoothukudi Corporation Diamond Colony - Ward 34 , 999.OVERSEAS ELECTORS",General
+13,214,13,ICDS centreMadathur,"1.Thoothukudi Corporation Yezhumalaiyan Nagar - Ward 34 ,
+2.Thoothukudi Corporation Kalloori Nagar - Ward 34 , 3.Thoothukudi Corporation Bypass Road - Ward 34 , 4.Thoothukudi Corporation Central Excise Staff Quarters - Ward 34 , 5.Thoothukudi Corporation Baby Merin Quarters - Ward 34 , 6.Thoothukudi Corporation Duraikani Nagar Madathur - Ward 34 , 7.Thoothukudi Corporation Min Nagar - Ward 34 ,
+8.Thoothukudi Corporation Sundaram Nagar - Ward 34 , 9. Thoothukudi Corporation Sterlite Quarters - Ward 3 -Thamira 2, 999.OVERSEAS
+ELECTORS",General
+14,214,14,"Bon Secours Nursery and Primary
+School, North building, 2nd room from East, Madathur, Thoothukudi","1.Thoothukudi Corporation Murugesa Nagar - Ward 34 ,
+2. Thoothukudi Corporation Thiraviaratna Nagar, 999.OVERSEAS ELECTORS",General
+15,214,15,"Eben Nursery and Primary School, South building, 1st room from west, Postal Telegraph Colony","1.Thoothukudi Corporation Telegram Employees colony - Ward 35 (Door No. from 1 to 2F-310) , 2.Thoothukudi Corporation Kokkur - Ward 34 ,
+3.Thoothukudi Corporation Mani Nagar - Ward 34 , 4.Thoothukudi Corporation Gandhi Nagar - Ward 34 , 999.OVERSEAS ELECTORS",General
+16,214,16,"Eben Nursery and Primary School,
+South building, Middle portion, Postal Telegraph Colony","1.Thoothukudi Corporation Telegram Employees colony - Ward 35 (Door No. after 2F-310) , 999.OVERSEAS ELECTORS",General
+17,214,17,"Eben Nursery and Primary School,
+South building, 1st room from East, Postal Telegraph Colony","1.Thoothukudi Corporation Telegram Employees colony - Ward 35 (Door
+No. After 2F-1810)
+, 999.OVERSEAS ELECTORS",General
+18,214,18,"Leo Primary and Nursery School, West
+Building, 1st room from North, Postal Telegraph Colony 1st, Street, Thoothukudi","1.Thoothukudi Corporation Telegram Employees Colony Block 2 - Ward 34 (Door No. 1 to 2F-310) , 999.OVERSEAS ELECTORS",General
+19,214,19,"Leo Primary and Nursery School, West
+Building, 2nd room from North, Postal Telegraph Colony 1st, Street, Thoothukudi","1.Thoothukudi Corporation Telegram Employees Colony Block 2 - Ward 34 (Door No. After 2F-310 to 2F-782) , 999.OVERSEAS ELECTORS",General
+20,214,20,"Leo Primary and Nursery School, West
+Building, 2nd room from South, Postal Telegraph Colony 1st, Street, Thoothukudi","1.Thoothukudi Corporation Telegram Employees Colony Block 2 - Ward 34 (Door No. After 2F-782 to 2F-1500) , 999.OVERSEAS ELECTORS",General
+21,214,21,"Leo Primary and Nursery School, West
+Building, 1st room from South, Postal Telegraph Colony 1st, Street, Thoothukudi","1.Thoothukudi Corporation Telegram Employees Colony Block 2 - Ward 34 (Door No. After 2F-1501) , 999.OVERSEAS ELECTORS",General
+22,214,22,"Corporation Community Hall, East
+Portion, Postal Telegraph Colony 9th Street","1.Thoothukudi Corporation Kathirvel Nagar - Ward 34 (Door No. 1 to 2H-581), , 999.OVERSEAS ELECTORS",General
+23,214,23,"Corporation Community Hall, West
+Portion, Postal Telegraph Colony 9th Street","1.Thoothukudi Corporation Kathirvel Nagar - Ward 34 (Door No. After 2H-581), , 999.OVERSEAS ELECTORS",General
+24,214,24,"B.M.C. Hr. Sec. School, North Building, 2nd room from East, TNHB Colony,
+Millerpuram","1.Thoothukudi Corporation Magilchipuram - Ward 3 , 999.OVERSEAS ELECTORS",General
+25,214,25,"B.M.C. Hr. Sec. School, North Building, 3rd room from East, TNHB Colony,
+Millerpuram","1. Thoothukudi Corporation Rajagopal Nagar - Ward 3 (Door No. 1 to 1G-245) , 999.OVERSEAS ELECTORS",General
+26,214,26,"B.M.C. Hr. Sec. School, North Building,
+4th room from East, TNHB Colony, Millerpuram","1. Thoothukudi Corporation Rajagopal Nagar - Ward 3 (Door No. After 1G-246 to 1G-450) , 999.OVERSEAS ELECTORS",General
+27,214,27,"B.M.C. Hr. Sec. School, North Building,
+5th room from East, TNHB Colony, Millerpuram","1.Thoothukudi Corporation Rajagopal Nagar - Ward 3 (Door No. 1G-451 to 1G-720) , 999.OVERSEAS ELECTORS",General
+28,214,28,"B.M.C. Hr. Sec. School, North Building, 6th room from East, (Next to Office
+room), TNHB Colony, Millerpuram","1.Thoothukudi Corporation Rajagopal Nagar - Ward 3 (Door No. After 1G-721) , 999.OVERSEAS ELECTORS",General
+29,214,29,"B.M.C. Hr. Sec. School, West Building, 2nd room from North, TNHB Colony,
+Millerpuram","1.Thoothukudi Corporation Millerpuram Housing Board - Ward 3 (Door No. 1001 to 1H-1400) , 999.OVERSEAS ELECTORS",General
+30,214,30,"B.M.C. Hr. Sec. School, West Building,
+4th room from North, TNHB Colony, Millerpuram","1.Thoothukudi Corporation Millerpuram Housing Board - Ward 3 (Door No. After 1H-1401) , 999.OVERSEAS ELECTORS",General
+31,214,31,"B.M.C. Hr. Sec. School, West Building,
+6th room from North, TNHB Colony, Millerpuram","1.Thoothukudi Corporation Millerpuram Housing Board - Ward 3 (Door No. After 1K-1) , 999.OVERSEAS ELECTORS",General
+32,214,32,"BMC Matriculation Hr. Sec. School, GB Block, Main Building, Room No.
+22,TNHB Colony, Millerpuram","1.Thoothukudi Corporation Annai Theresa Nagar - Ward 3 , 999.OVERSEAS ELECTORS",General
+33,214,33,"BMC Matriculation Hr. Sec. School, GB Block, Main Building, Room No.
+24,TNHB Colony, Millerpuram","1.Thoothukudi Corporation Annanagar 12th Street West Magilchipuram -
+Ward 37 , 2.Thoothukudi Corporation Annanagar West Mangalapuram - Ward 37 , 3.Thoothukudi Corporation Burma Colony - Ward 3 ,
+4.Thoothukudi Corporation Vishnupuri - Ward 34 , 999.OVERSEAS
+ELECTORS",General
+34,214,34,"BMC Matriculation Hr. Sec. School, GB
+Block, Main Building, Room No. 25,TNHB Colony, Millerpuram","1.Thoothukudi Corporation Millerpuram Housing Board - Ward 3 (Door No. 1 to 1H-350) , 999.OVERSEAS ELECTORS",General
+35,214,35,"BMC Matriculation Hr. Sec. School, GA Block, Main Building, Room No.
+12,TNHB Colony, Millerpuram","1.Thoothukudi Corporation Millerpuram Housing Board - Ward 3 (Door No. 1H-351 to 1H-550) , 999.OVERSEAS ELECTORS",General
+36,214,36,"B.M.C. Matriculation Hr. Sec. School,
+GA Block, Room No.13, TNHB Colony, Millerpuram","1.Thoothukudi Corporation Millerpuram Housing Board - Ward 3 (Door No. 1H-551 to 1H-850) , 999.OVERSEAS ELECTORS",General
+37,214,37,"B.M.C. Matriculation Hr. Sec. School,
+GA Block, Room No.18, TNHB Colony, Millerpuram","1.Thoothukudi Corporation Millerpuram Housing Board - Ward 3 (Door No. Above 1H-851 to 1H-1000) , 999.OVERSEAS ELECTORS",General
+38,214,38,"Sakthi Vidyalaya Matriculation School, Main Building West Portion, Kamaraj Nagar 2nd Street, 3rd Mile, Thoothukudi","1.Thoothukudi Corporation Indira Nagar - Ward 48 , 999.OVERSEAS ELECTORS",General
+39,214,39,"Sakthi Vidyalaya Matriculation School, Main Building East Portion, Kamaraj Nagar 2nd Street, 3rd Mile, Thoothukudi","1.Thoothukudi Corporation Thiru.V.K. Nagar - Ward 48 , 999.OVERSEAS ELECTORS",General
+40,214,40,"A.M.M. Chinnamani Nadar High School
+(Primary Block), South building, 2nd room from West, Millerpuram","1.Thoothukudi Corporation N.G.O. Colony - Ward 48 , 999.OVERSEAS ELECTORS",General
+41,214,41,"A.M.M. Chinnamani Nadar High School
+(Primary Block), South building, 3rd room from East, Millerpuram","1.Thoothukudi Corporation Housing Board Ganesa Nagar - Ward 48 , 999.OVERSEAS ELECTORS",General
+42,214,42,"V.O. Chidambaram College, Geology department block, Class GG2-I B.Sc., Geology, Millerpuram","1.Thoothukudi Corporation Palayamkottai Road West Main - Ward 35 ,
+2.Thoothukudi Corporation 3rd Mile Palayamkottai Road West Main - Ward 35 , 3.Thoothukudi Corporation 3rd Mile Pudukudi Street 1 - Ward 35 , , 4.Thoothukudi Corporation 3rd Mile Pudukudi Street 3 - Ward 35,
+999.OVERSEAS ELECTORS",General
+43,214,43,"V.O. Chidambaram College, Geology department block, Class: GG3-II B.Sc., Geology, Millerpuram","1.Thoothukudi Corporation 3rd Mile Pudukudi Street 2 - Ward 35 ,
+2.Thoothukudi Corporation Teacher Colony Main - Ward 35 ,
+3.Thoothukudi Corporation Teacher Colony West - Ward 35 , 999.OVERSEAS ELECTORS",General
+44,214,44,"V.O. Chidambaram College, Geology department block, Class: GG4-III B.Sc., Geology, Millerpuram,","1.Thoothukudi Corporation Palai Road West Main - Ward 35 ,
+2.Thoothukudi Corporation Palai road West Pathinathapuram - Ward 35 ,
+3.Thoothukudi Corporation Palai Road West 3rd Mile Polytechnic Compound - Ward 35 , 4.Thoothukudi Corporation V.O.C College Quarters - Ward 35 , 5.Thoothukudi Corporation Sankar Colony - Ward 35 , 6.Thoothukudi Corporation Kandan Colony - Ward 35 ,
+7.Thoothukudi Corporation Ganesh Nagar - Ward 48 , 8.Thoothukudi Corporation N.G.O.Colony Main - Ward 48 , 9.Thoothukudi Corporation N.G.O.Colony - Ward 48 , 10.Thoothukudi Corporation All India Radio Quaters - Ward 35 , 11.Thoothukudi Corporation T.M.B Colony - Ward 36",General
+45,214,45,"V.O. Chidambaram College, Physics department block, Class PG1-I BBA, Millerpuram",",1.9T9h9o.oOtVhEuRkuSdEiACSoErpLoErCatTiOonRSPalai Road West Main - Ward 35 ,
+2.Thoothukudi Corporation Kamarajar Nagar West - Ward 49 ,
+3.Thoothukudi Corporation Kamaraj Nagar Main - Ward 49 ,
+4.Thoothukudi Corporation Palai road West Jeylani Colony - Ward 35 ,
+5.Thoothukudi Corporation Palai Road West Sankar Colony - Ward 35 ,
+6.Thoothukudi Corporation Sankar Colony - Ward 35, 999.OVERSEAS ELECTORS",General
+46,214,46,"St. Marys Boys Hr.sec.school, Administrative Block, 3rd room from East STD XII A, Millerpuram","1.Thoothukudi Corporation 3rd Mile Pudukkudi - Ward 35 ,
+2.Thoothukudi Corporation Kandhan colony - Ward 35 , 3.Thoothukudi Corporation Teachers Colony West - Ward 35 , 4.Thoothukudi Corporation Fisheries College Quarters - Ward 35 , 5.Thoothukudi Corporation Teachers Colony East - Ward 35 , 6.Thoothukudi Corporation Kamarajar Nagar East - Ward 42 , 7.Thoothukudi Corporation Palai road 3rd Mile -Ward 35 , 8.Thoothukudi Corporation Pathinathapuram - Ward 42 , 9.Thoothukudi Corporation Ganesh Nagar Main - Ward 35 , 10.Thoothukudi Corporation Devaki Nagar Main - Ward 35 , 11.Thoothukudi Corporation P & T Colony East - Ward 35 , 12.Thoothukudi Corporation P & T Colony main - Ward 35 , 13.Thoothukudi Corporation Ashok Nagar - Ward 35 , 14.Thoothukudi Corporation All India Radio Housing Board - Ward 35 , 15.Thoothukudi Corporation Ashok Nagar - Ward 35 , 999.OVERSEAS ELECTORS",General
+47,214,47,"St. Marys Boys Hr.sec.school,
+Administrative Block, 1st room from East STD XII D, Millerpuram","1.Thoothukudi Corporation Chinnamani Nagar - Ward 35 ,
+2.Thoothukudi Corporation Annanagar 3rd Street West - Ward 36 , 999.OVERSEAS ELECTORS",General
+48,214,48,"St. Marys Boys Hr.sec.school, Centenary
+Block, 1st room from West STD XII E, Millerpuram","1.Thoothukudi Corporation Ceylon Colony - Ward 48 ,
+2.Thoothukudi Corporation Millerpuram - Ward 35, 999.OVERSEAS ELECTORS",General
+49,214,49,"St. Marys Boys Hr.sec.school, Centenary Block, 3rd room from West STD VII C, Millerpuram","1.Thoothukudi Corporation Palayamkottai Road (West) Main - Ward 35 ,
+2.Thoothukudi Corporation Sankar Colony (Palai Road Main) - Ward 35
+,
+3.Thoothukudi Corporation Kandan Colony - Ward 35 , 999.OVERSEAS ELECTORS",General
+50,214,50,"St. Marys Boys Hr.sec.school, East Building, 2nd room from North, STD XI 'E', Millerpuram","1.Thoothukudi Corporation Teachers Colony Main - Ward 35 ,
+2.Thoothukudi Corporation Teachers Colony West - Ward 35
+3.Thoothukudi Corporation T.M.B. colony 1st Street - Ward 36 ,
+4.Thoothukudi Corporation Palayamkottai Road - Ward 35 ,
+5.Thoothukudi Corporation Palayamkottai Road West - Ward 35 ,
+6.Thoothukudi Corporation All India Radio Quarters - Ward 35 , 999.OVERSEAS ELECTORS",General
+51,214,51,"St. Marys Boys Hr.sec.school, East Building, 3rd room from North, STD XI A, Millerpuram","1. Thoothukudi Corporation Ashok Nagar - Ward 35 ,
+2.Thoothukudi Corporation Kamaraj Nagar Main - Ward 42 ,
+3.Thoothukudi Corporation Kamaraj Nagar West - Ward 42 ,
+4.Thoothukudi Corporation 3rd Mile Pudukudi 1 - Ward 35
+5.Thoothukudi Corporation Doovipuram West Anna Nagar - Ward 37 , , 999.OVERSEAS ELECTORS",General
+52,214,52,"St. Marys Boys Hr.sec.school, East Building, 4th room from North, STD XI B, Millerpuram","1.Thoothukudi Corporation Kamaraj Nagar East - Ward 42 ,
+2.Thoothukudi Corporation 3rd Mile (Palai Road West) - Ward 35 ,
+3.Thoothukudi Corporation Rajeev Nagar - Ward 3, 999.OVERSEAS ELECTORS",General
+53,214,53,"St.Marys Primary School, South Building, 2nd room from west, Millerpuram","1.Thoothukudi Corporation Teacher Colony East - Ward 35 ,
+2.Thoothukudi Corporation P&T Colony West - Ward 35 , 3.Thoothukudi Corporation P&T Colony East - Ward 35 , 4.Thoothukudi Corporation Devaki Nagar - Ward 35 , 5.Thoothukudi Corporation Ashok Nagar - Ward 35 , 999.OVERSEAS ELECTORS",General
+54,214,54,"St.Marys Primary School, South Building, 3rd room from West, Millerpuram","1.Thoothukudi Corporation Anna Nagar - Ward 37 , 2.Thoothukudi
+Corporation T.M.B. Colony - Ward 36 (Door No. 1 to 107-50),
+3.Thoothukudi Corporation Rajeev Nagar Main - Ward 3 , 999.OVERSEAS ELECTORS",General
+55,214,55,"St.Marys Primary School, South
+Building, 4th room from West, Millerpuram","1.Thoothukudi Corporation T.M.B. Colony - Ward 36 (Door No. After 107-50), 999.OVERSEAS ELECTORS",General
+56,214,56,"St.Marys Primary School, North Building, 1st room from West, Millerpuram","1.Thoothukudi Corporation Rajeev Nagar North - Ward 3 , 2.Thoothukudi Corporation Rajeev Nagar South - Ward 3 , 3.Thoothukudi Corporation Chinnamani Nagar - Ward 35 , 4.Thoothukudi Corporation Millerpuram - Ward 35 , 999.OVERSEAS ELECTORS",General
+57,214,57,"St.Marys Primary School, North Building, 2nd room from West, Millerpuram","1.Thoothukudi Corporation Palai Road West Main - Ward 35 ,
+2.Thoothukudi Corporation T.M.B Colony Main - Ward 36 ,
+3.Thoothukudi Corporation Chinnamani Nagar - Ward 35 , 999.OVERSEAS ELECTORS",General
+58,214,58,"St.Marys Primary School, North Building, 2nd room from East,
+Millerpuram","1.Thoothukudi Corporation T.M.B Colony - Ward 36 , 2.Thoothukudi Corporation Anna Nagar - Ward 36 ,
+999.OVERSEAS ELECTORS",General
+59,214,59,"St.Marys Primary School, North Building, 1st room from East, Millerpuram","1.Thoothukudi Corporation Anna Nagar 11th Street - Ward 37 ,
+2.Thoothukudi Corporation Palayamkottai road West - Ward 35 ,
+3.Thoothukudi Corporation Millerpuram - Ward 35 , 999.OVERSEAS ELECTORS",General
+60,214,60,"The Vikasa School, North East Portion,
+Room No. 19, Millerpuram","1.Thoothukudi Corporation Rajeev Nagar - Ward 35 (Door No. 1 to 2G-
+500) , 999.OVERSEAS ELECTORS",General
+61,214,61,"The Vikasa School, North East Portion, Room No. 18, Millerpuram","1.Thoothukudi Corporation Rajeev Nagar - Ward 35 (Door No. After 2G-500), 2. Thoothukudi Corporation Rajeev Nagar Vadakku 6th Street -
+Ward 35 , 999.OVERSEAS ELECTORS",General
+62,214,62,"The Vikasa School, West Building, Room No. 11. Millerpuram","1.Thoothukudi Corporation Chinnamani Nagar Main - Ward 35 ,
+2.Thoothukudi Corporation Millerpuram - Ward 35 , 3.Thoothukudi Corporation Millerpuram Center - Ward 35 , 4.Thoothukudi Corporation Millerpuram South - Ward 35 , 999.OVERSEAS ELECTORS",General
+63,214,63,"The Vikasa School, West building, Room No. 10, Millerpuram","1.Thoothukudi Corporation Palai Road Millerpuram - Ward 35 ,
+2.Thoothukudi Corporation Ashok Nagar - Ward 35 , 3.Thoothukudi Corporation Teachers Colony West - Ward 35 , 4.Thoothukudi Corporation Teachers Colony East - Ward 35 , 5.Thoothukudi Corporation P & T Colony East - Ward 35 , 999.OVERSEAS ELECTORS",General
+64,214,64,"Thangam Middle School, North Building, 3rd room from East, (STD VIII),
+Annanagar 10th street","1.Thoothukudi Corporation Anna Nagar 4th Street - Ward 36 (Door No. 1 to 30P-Q) , 999.OVERSEAS ELECTORS",General
+65,214,65,"Thangam Middle School, North Building,
+4th room from East, (STD VII), Annanagar 10th street","1.Thoothukudi Corporation Anna Nagar 4th Street - Ward 36 (Door No. After 31) , 999.OVERSEAS ELECTORS",General
+66,214,66,"Thangam Middle School, North Building,
+4th room from West (STD VI), Annanagar 10th street","1.Thoothukudi Corporation Anna Nagar 2nd Street - Ward 36 , 999.OVERSEAS ELECTORS",General
+67,214,67,"Thangam Middle School, North Building, 3rd room from West (STD V), Annanagar
+10th street","1.Thoothukudi Corporation Anna Nagar 1st Street - Ward 36 , 999.OVERSEAS ELECTORS",General
+68,214,68,"Thangam Middle School, South Building, 1st room from East (STD I), Annanagar
+10th street","1.Thoothukudi Corporation Anna Nagar 3rd Street - Ward 36 , 999.OVERSEAS ELECTORS",General
+69,214,69,"ICDS Centre No. 33, Anna Nagar 12th
+Street","1.Thoothukudi Corporation Anna Nagar 12th Street - Ward 37 , ,
+999.OVERSEAS ELECTORS",General
+70,214,70,"ICDS Centre No. 89, Rajagopal Nagar,
+(Near Anna Nagar 5th Street)","1.Thoothukudi Corporation Anna Nagar 5th Street - Ward 36 ,
+999.OVERSEAS ELECTORS",General
+71,214,71,"ICDS Centre No. 37, Anna Nagar 12th
+Street Extension, Mangalapuram","1.Thoothukudi Corporation Mangalapuram - Ward 3 , 2.Thoothukudi
+Corporation Magilchipuram - Ward 3 , 999.OVERSEAS ELECTORS",General
+72,214,72,"Thangammal Memorial Hr. Sec.School, Main Building, 1st room from East,
+Polpettai","1.Thoothukudi Corporation Sakthivinayagarpuram - Ward 6 (Door No. 1 to 111-66-30) , 999.OVERSEAS ELECTORS",General
+73,214,73,"Thangammal Memorial Hr. Sec.School, Main Building, 2nd room from East,
+Polpettai","1.Thoothukudi Corporation Sakthivinayagarpuram - Ward 6 (Door No. After 111-66-30) , 999.OVERSEAS ELECTORS",General
+74,214,74,"Thangammal Memorial Hr. Sec.School,
+Main Building, 3rd room from East, Polpettai","1.Thoothukudi Corporation State Bank Colony - Ward 6 , 2.Thoothukudi Corporation Gandhi Street - Ward 6 , 999.OVERSEAS ELECTORS",General
+75,214,75,"Thangammal Memorial Hr. Sec.School,
+Main Building, 4th room from East, Polpettai","1.Thoothukudi Corporation Polpettai 1 st Street - Ward 4 , 999.OVERSEAS ELECTORS",General
+76,214,76,"Thangammal Memorial Hr. Sec. School, Main Building, 3rd room from West,
+(Near Staircase), Polpettai","1.Thoothukudi Corporation Polpettai 2nd Street - Ward 4 , 2.Thoothukudi Corporation Polpettai 3rd Street - Ward 4 ,
+999.OVERSEAS ELECTORS",General
+77,214,77,"Thangammal Memorial Hr. Sec. School, Main Building, 2nd room from West,
+Polpettai","1.Thoothukudi Corporation Polpettai East 4th Street - Ward 4 ,
+2.Thoothukudi Corporation State Bank Colony West - Ward 4 , 999.OVERSEAS ELECTORS",General
+78,214,78,"Thangammal Memorial Primary School,
+West Building, 1st room from North, Polpettai","1.Thoothukudi Corporation State Bank Colony East - Ward 6 ,
+2.Thoothukudi Corporation S.K.S.R Colony - Ward 6 , 999.OVERSEAS ELECTORS",General
+79,214,79,"Geetha Matric. Hr. Sec. School, East Building, 1st room from South, Polpettai","1.Thoothukudi Corporation Polpettai West - Ward 4 , 999.OVERSEAS ELECTORS",General
+80,214,80,"Geetha Matric. Hr. Sec. School, North Building, 1st room from East, STD II B
+Polpettai","1.Thoothukudi Corporation Kurinji Nagar - Ward 4 , 2.Thoothukudi Corporation Polpettai Main - Ward 4 , 999.OVERSEAS ELECTORS",General
+81,214,81,"Geetha Matric. Hr. Sec. School, North Building, 2nd room from East, STD II B, Polpettai","1.Thoothukudi Corporation Polpettai-Gomathibai Colony Street-1 - Ward
+6 , 2.Thoothukudi Corporation Polpettai-Gomathibai Colony Street-2 - Ward 6 , 3.Thoothukudi Corporation Polpettai-S.K.S.R. Colony - Ward 6 , 999.OVERSEAS ELECTORS",General
+82,214,82,"Geetha Matric. Hr. Sec. School, North Building, 3rd room from East, STD II A, Polpettai","1.Thoothukudi Corporation Polpettai west street-1 - Ward 4 ,
+2.Thoothukudi Corporation Polpettai West Street-2 - Ward 4 ,
+3.Thoothukudi Corporation State Bank Colony - Ward 4 , 4.Thoothukudi Corporation Ezhil Nagar - Ward 6 , 999.OVERSEAS ELECTORS",General
+83,214,83,"Geetha Matric. Hr. Sec. School, North Building, 4th room from East, STD I A, Polpettai","1.Thoothukudi Corporation Polpettai east 1 st street - Ward 4 ,
+2.Thoothukudi Corporation Polpettai East 2nd Street - Ward 4 ,
+3.Thoothukudi Corporation Polpettai East 3rd Street - Ward 4 ,
+4.Thoothukudi Corporation Polpettai West - Ward 4 , 5.Thoothukudi Corporation Kurinjinagar 1 st Street - Ward 4 , 6.Thoothukudi Corporation Kurinjinagar 2nd Street - Ward 4 , 7.Thoothukudi Corporation Kurinji Nagar 3rd Street - Ward 4 , 999.OVERSEAS ELECTORS",General
+84,214,84,"Geetha Matric. Hr. Sec. School, North Building, 2nd room from West, (Near Staircase), STD LKG B, Polpettai","1.Thoothukudi Corporation Kurinji Nagar 4th Street - Ward 4 ,
+2.Thoothukudi Corporation Kurinji Nagar 5th Street - Ward 4 ,
+3.Thoothukudi Corporation Kurinji Nagar 6th Street - Ward 4 ,
+4.Thoothukudi Corporation Kurinjinagar 7th Street - Ward 4 ,
+5.Thoothukudi Corporation Polpettai East Main - Ward 4 , 6.Thoothukudi Corporation Periyasamy Nagar - Ward 6 , 999.OVERSEAS ELECTORS",General
+85,214,85,"Geetha Matric. Hr. Sec. School, North Building, 1st room from West, STD LKG A, Polpettai","1.Thoothukudi Corporation Polpettai 1st Street - Ward 6 , 2.Thoothukudi Corporation Polpettai 2nd street - Ward 6 , 3.Thoothukudi Corporation Polpettai 3rd street - Ward 6 , 4.Thoothukudi Corporation Kasirajan Colony - Ward 6 , 999.OVERSEAS ELECTORS",General
+86,214,86,"R.C. Bethani Primary School, North
+Building, 1st room from East, Kanthasamypuram","1.Thoothukudi Corporation Nanthagopalapuram West - Ward 7 , 999.OVERSEAS ELECTORS",General
+87,214,87,"R.C. Bethani Primary School, North
+Building, 2nd room from East, Kanthasamypuram","1.Thoothukudi Corporation Kandhasamypuram - Ward 9 , 2.Thoothukudi
+Corporation Innasiyapuram Block 4 - Ward 9 , 999.OVERSEAS ELECTORS",General
+88,214,88,"R.C. Bethani Primary School, North Building, Middle Portion, Kanthasamypuram","1.Thoothukudi Corporation Selvanayagapuram Street 1 - Ward 7 ,
+2.Thoothukudi Corporation Selvanayagapuram Street 2 - Ward 7 ,
+3.Thoothukudi Corporation Selvanayagapuram Street 3 - Ward 7 , 999.OVERSEAS ELECTORS",General
+89,214,89,"R.C. Bethani Primary School, North
+Building, 3rd room from West, Kanthasamypuram","1.Thoothukudi Corporation Nandagopalapuram East Block 3 - Ward 8 ,
+2.Thoothukudi Corporation Selvanayagapuram T.M.C. Colony Block 2 - Ward 7 , 999.OVERSEAS ELECTORS",General
+90,214,90,"R.C. Bethani Primary School, West
+Building, 1st room from south, Kanthasamypuram","1.Thoothukudi Corporation Selvanayagapuram Street 1 - Ward 7 ,
+2.Thoothukudi Corporation Selvanayagapuram street 2 - Ward 7, 999.OVERSEAS ELECTORS",General
+91,214,91,"R.C. Bethani Primary School, West Building, 2nd room from South,
+Kanthasamypuram","1.Thoothukudi Corporation Selvanayagapuram Street 3 - Ward 7 ,
+2.Thoothukudi Corporation Selvanayagapuram T.M.C. Colony - Ward 7 , 999.OVERSEAS ELECTORS",General
+92,214,92,"Tagore Memorial middle School, Main Building, 1st room from North, Sundararamapuram","1.Thoothukudi Corporation Natrajapuram 1st street - Ward 8 ,
+2.Thoothukudi Corporation Sundaravelpuram - Ward 6 , 3.Thoothukudi Corporation Ambedhkar Nagar - Ward 6 , 4.Thoothukudi Corporation Sathya Nagar - Ward 6 , 5.Thoothukudi Corporation Natrajapuram 2nd Street - Ward 8 , 999.OVERSEAS ELECTORS",General
+93,214,93,"Tagore Memorial middle School, Main
+Building, 2nd room from North, Sundararamapuram","1.Thoothukudi Corporation Sundararamapuram-Block 3 - Ward 8 , 999.OVERSEAS ELECTORS",General
+94,214,94,"St. Thomas Matriculation Hr.Sec.School, Main Building, North portion, Room No. 5, Innasiarpuram","1.Thoothukudi Corporation Sundravelpuram 5th Street - Ward 10 ,
+2.Thoothukudi Corporation Sundravelpuram 6th Street - Ward 10 ,
+3.Thoothukudi Corporation Sundaravelpuram Street 7 - Ward 10 , 999.OVERSEAS ELECTORS",General
+95,214,95,"St. Thomas Matriculation Hr.Sec.School, Main Building, North portion, Room No. 4, Innasiarpuram","1.Thoothukudi Corporation Sundravelpuram 7 th Street Extension - Ward 10 , 2.Thoothukudi Corporation Sundravelpuram 8th Street - Ward 10 , 3.Thoothukudi Corporation Sundravelpuram 9th Street - Ward 10 ,
+4.Thoothukudi Corporation Sethupathai Road - Ward 10 , 5.Thoothukudi Corporation Eruthayammal Nagar - Ward 10 , 999.OVERSEAS ELECTORS",General
+96,214,96,"St. Thomas Matriculation Hr.Sec.School, Main Building, 1st room from South
+Room No 1 , Innasiarpuram","1.Thoothukudi Corporation Krishnarajapuram 2nd Street - Ward 10 , 999.OVERSEAS ELECTORS",General
+97,214,97,"St. Thomas Matricultion Hr Sec, School,
+B.P. Peters Block, 1st room from North, Room No. 1, Innasiarpuram","1.Thoothukudi Corporation Krishnarajapuram 6th Street - Ward 11 , 999.OVERSEAS ELECTORS",General
+98,214,98,"St. Thomas Matricultion Hr Sec, School,
+B.P. Peters Block, 2nd room from North, Room No. 2, Innasiarpuram","1.Thoothukudi Corporation krishnarajapuram 7th street - Ward 11 ,
+3.Thoothukudi Corporation krishnarajapuram 9th street - Ward 11 , 999.OVERSEAS ELECTORS",General
+99,214,99,"St. Thomas Matricultion Hr Sec, School,
+B.P. Peters Block, 3rd room from South, Room No. 5, Innasiarpuram","2.Thoothukudi Corporation Krishnarajapuram 8th street - Ward 11 , 999.OVERSEAS ELECTORS",General
+100,214,100,"St. Thomas Matricultion Hr Sec, School,
+B.P. Peters Block, 1st room from South, Room No. 7, Innasiarpuram","1.Thoothukudi Corporation Sundravelpuram 1st Street - Ward 10 ,
+2.Thoothukudi Corporation Sundravelpuram 2nd street - Ward 10 ,
+3.Thoothukudi Corporation Krishnarajapuram 6th Street - Ward 11 , 999.OVERSEAS ELECTORS",General
+101,214,101,"St. Thomas CBSC School, Main Building 1st room from west, Innasiarpuram","1.Thoothukudi Corporation Krishnarajapuram 7th Street - Ward 11 ,
+2.Thoothukudi Corporation Krishnarajapuram 8th street - Ward 11 ,
+3.Thoothukudi Corporation Krishsnarajapuram 9th Street - Ward 11 , 999.OVERSEAS ELECTORS",General
+102,214,102,"St. Thomas CBSC School, Main Building 2nd room from west, Innasiarpuram","1.Thoothukudi Corporation Krishnarajapuram 1st Street - Ward 10 , 999.OVERSEAS ELECTORS",General
+103,214,103,"St. Thomas CBSC School, Main Building 3rd room from west, Innasiarpuram","1.Thoothukudi Corporation Krishnarajapuram 5th Street - Ward 10 , 999.OVERSEAS ELECTORS",General
+104,214,104,"St. Thomas CBSC School, Main Building 4th room from west, Innasiarpuram","1.Thoothukudi Corporation Sundravelpuram 3rd Street - Ward 10 ,
+2.Thoothukudi Corporation Sundravelpuram 3rd Street West - Ward 10 ,
+3.Thoothukudi Corporation Sundravelpuram 4th Street - Ward 10 , 999.OVERSEAS ELECTORS",General
+105,214,105,"St. Ignatious Primary School, North
+Portion, Innasiarpuram","1.Thoothukudi Corporation Sundaravelpuram Block 5 - Ward 6 ,
+999.OVERSEAS ELECTORS",General
+106,214,106,"St. Ignatious Primary School, East
+Building, 2nd Room from south, Innasiarpuram","1.Thoothukudi Corporation Sathya Nagar - Ward 6 , 2.Thoothukudi
+Corporation Ambedhkar Nagar Street 1 - Ward 6 , 999.OVERSEAS ELECTORS",General
+107,214,107,"St. Ignatious Primary School, South Portion, Innasiarpuram","1.Thoothukudi Corporation Ambedhkar Nagar Street 2 - Ward 6 ,
+2.Thoothukudi Corporation Ambedhkar Nagar Street 3 - Ward 6 , 999.OVERSEAS ELECTORS",General
+108,214,108,"St. Ignatious Hr.Sec. School, St.Marys Hall (STD XII A), Innasiarpuram","1.Thoothukudi Corporation Muthukrishnapuram 3rd Lane - Ward 12 ,
+2.Thoothukudi Corporation Muthukrishnapuram 4th Lane - Ward 12 ,
+3.Thoothukudi Corporation MuthuKrishnapuram 5th Lane - Ward 12 ,
+4.Thoothukudi Corporation Krishnarajapuram 3rd Street - Ward 10 ,
+5.Thoothukudi Corporation Krishnarajapuram 4th Street - Ward 10 , 999.OVERSEAS ELECTORS",General
+109,214,109,"St. Ignatious Hr. Sec. School, St.Marys Hall (STD XII D), Innasiarpuram","1.Thoothukudi Corporation Muthukrishnapuram 2nd street - Ward 12 , 999.OVERSEAS ELECTORS",General
+110,214,110,"St. Ignatious Hr. Sec. School, Arch Bishop Peter Fernando Hall, 2nd room
+from North (STD XI C), Innasiarpuram","1.Thoothukudi Corporation Muthukrishnapuram 6th Street - Ward 11 ,
+, 999.OVERSEAS ELECTORS",General
+111,214,111,"St. Ignatious Hr. Sec. School, Arch Bishop Peter Fernando Hall, (STD X A), Innasiarpuram","1.Thoothukudi Corporation Muthukrishnapuram 6th Street - Ward 11 ,
+2.Thoothukudi Corporation Muthukrishnapuram 7th Street - Ward 12 ,
+3.Thoothukudi Corporation Muthukrishnapuram 8th street - Ward 12 ,
+4.Thoothukudi Corporation Muthukrishnapuram 9th Street - Ward 12 ,
+5.Thoothukudi Corporation Muthukrishnapuram 10th street - Ward 12 , 999.OVERSEAS ELECTORS",General
+112,214,112,"St. Ignatious Hr. Sec. School, South Building (Room next to Gents Staff Room), Innasiarpuram","1.Thoothukudi Corporation Innasiyarpuram-Ward 9
+2.Thoothukudi Corporation Innasiyarpuram 1 - Ward 9 ,
+3.Thoothukudi Corporation Innasiyarpuram 2 - Ward 9 ,
+4.Thoothukudi Corporation Innasiyarpuram 3 - Ward 9 ,
+5.Thoothukudi Corporation Muthukrishnapuram 2nd Sandhu - Ward 12
+6.Thoothukudi Corporation Muthukrishnapuram 7th Street - Ward 12 ,
+7.Thoothukudi Corporation Muthukrishnapuram 8th street - Ward 12 ,
+8.Thoothukudi Corporation Muthukrishnapuram 9th street - Ward 12 ,
+9.Thoothukudi Corporation Muthukrishnapuram 10th street - Ward 12 , 999.OVERSEAS ELECTORS",General
+113,214,113,"Malar Nursery and Primary School, Main
+Building, 1st room from West, Alagesapuram, Thoothukudi","1.Thoothukudi Corporation Ponnagaram (Door No. from 1 to 70B) - Ward 13 , 999.OVERSEAS ELECTORS",General
+114,214,114,"Malar Nursery and Primary School, Main
+Building, 2nd room from West, Alagesapuram, Thoothukudi","1.Thoothukudi Corporation Ponnagaram (Door No. after 70B) - Ward 13 , 999.OVERSEAS ELECTORS",General
+115,214,115,"T.N.D.T.A Middle School, South Building, 1st room from west,
+Thiraviapuram","1.Thoothukudi Corporation Muthukrishnapuram 2nd Sandhu - Ward 12
+, 999.OVERSEAS ELECTORS",General
+116,214,116,"T.N.D.T.A Middle School, East Building, 2nd room from North, Thiraviapuram","1.Thoothukudi Corporation Thiraviapuram 4th Sandhu - Ward 13 ,
+2.Thoothukudi Corporation Thiraviapuram 5th Sandhu - Ward 13 ,
+3.Thoothukudi Corporation Thiraviapuram 6th Sandhu - Ward 13 ,
+4.Thoothukudi Corporation Thiraviapuram 2nd Street - Ward 13 ,
+5.Thoothukudi Corporation Thiraviapuram 3rd Street - Ward 13 , 999.OVERSEAS ELECTORS",General
+117,214,117,"T.N.D.T.A Middle School, East Building, 1st room from North, Thiraviapuram","1.Thoothukudi Corporation Boobalarayarpuram 10th Street - Ward 12 ,
+2.Thoothukudi Corporation Boobalarayarpuram 9th Street - Ward 12 ,
+3.Thoothukudi Corporation Boobalarayarpuram 8th Street - Ward 12 ,
+4.Thoothukudi Corporation Boobalarayarpuram 7th Street - Ward 12 ,
+5.Thoothukudi Corporation Boobalarayarpuram 6th Street - Ward 12 ,
+6.Thoothukudi Corporation Boobalarayarpuram 5th Street - Ward 12 ,
+919.T9h.OooVtEhuRkSuEdAiSCEoLrpEoCrTatOioRnSBoobalarayarpuram 1st street - Ward 12 ,",General
+118,214,118,"T.N.D.T.A Middle School, North New Building, West Portion, Thiraviapuram","2.Thoothukudi Corporation Boobalarayarpuram 1st street Lane 1 - Ward 12 , 3.Thoothukudi Corporation Boopalarayarpuram 6th Street - Ward 12
+, 4.Thoothukudi Corporation Boobalarayerpuram 2nd Street - Ward 12 ,
+5.Thoothukudi Corporation Boobalarayarpuram 3rd Street - Ward 12 ,
+6.Thoothukudi Corporation Boobalarayarpuram 4th Street - Ward 12 ,
+7.Thoothukudi Corporation Boobalarayarpuram 5th Street - Ward 12 ,
+8.Thoothukudi Corporation Boobalarayarpuram 7th Street - Ward 12 ,
+9.Thoothukudi Corporation Boobalarayarpuram 8th Street - Ward 12 , 10.Thoothukudi Corporation Boobalarayarpuram 9th Street - Ward 12 ,
+919.T9h.OooVtEhuRkSuEdAiSCEoLrpEoCrTatOioRnSBoobalarayarpuram 1st street - Ward 12 ,",General
+119,214,119,"Sathya Nursery and Primary School, North building, East portion room, Muthukrishnapuram","2.Thoothukudi Corporation Boobalarayarpuram 1st Street Lane 1 - Ward 12 ,
+3.Thoothukudi Corporation Muthukrishnapuram 1st Sandhu - Ward 12
+,
+4.Thoothukudi Corporation Muthukrishnapuram 6th Street - Ward 11 , 999.OVERSEAS ELECTORS",General
+120,214,120,"Sathya Nursery and Primary School, North building, West portion 2nd room, Muthukrishnapuram","1.Thoothukudi Corporation Boobalarayarpuram 2nd Street - Ward 12 ,
+2.Thoothukudi Corporation Boobalarayarpuram 4th Street - Ward 12, 999.OVERSEAS ELECTORS",General
+121,214,121,"Sathya Nursery and Primary School, North building, West portion 1st room, Muthukrishnapuram","1.Thoothukudi Corporation Boobalarayerpuram 3rd Street - Ward 12 ,
+2.Thoothukudi Corporation Boobalarayarpuram 1st Street Lane 2 - Ward 12,
+3.Thoothukudi Corporation Muthukrishnapuram Main - Ward 12 , ,
+999.OVERSEAS ELECTORS",General
+122,214,122,"ICDS Centre, (R.C. Primary School
+Campus) Alangarathattu","1.Thoothukudi Corporation Koilpillaivilai Block 1 - Ward 17 ,
+999.OVERSEAS ELECTORS",General
+123,214,123,"R.C. Primary School, Main Building, 1st room from East, STD V, Alangarathattu","1.Thoothukudi Corporation Saint Marys Colony - Ward 17 , 999.OVERSEAS ELECTORS",General
+124,214,124,"R.C. Primary School, Main Building, 3rd room from East, STD III, Alangarathattu","1.Thoothukudi Corporation Mela Alangarathattu - Ward 17 , 999.OVERSEAS ELECTORS",General
+125,214,125,"R.C. Primary School, Main Building, 3rd room from West, STD II, Alangarathattu","1.Thoothukudi Corporation Keela Alangarathattu - Ward 17 , 999.OVERSEAS ELECTORS",General
+126,214,126,"R.C. Primary School, Main Building, 2nd room from West, STD I, Alangarathattu","1.Thoothukudi Corporation Thasnavis Nagar - Ward 17 , 2.Thoothukudi
+Corporation Bharathi Nagar (Saint Mary Colony) - Ward 17 ,
+3.Thoothukudi Corporation John Xavier Nagar - Ward 17 , 999.OVERSEAS ELECTORS",General
+127,214,127,"Infant Matric. Hr. Sec. School, South
+Building, 1st room from west, Krishnarajapuram","1.Thoothukudi Corporation Ayyar Villai Block 1 - Ward 17 , 999.OVERSEAS ELECTORS",General
+128,214,128,"Infant Matric. Hr. Sec. School, South
+Building, 2nd room from West, Krishnarajapuram","1.Thoothukudi Corporation Ponsubbaiah Nagar Block 2 - Ward 17 , 999.OVERSEAS ELECTORS",General
+129,214,129,"Infant Matric. Hr. Sec. School, South Building, 5th room from East,
+Krishnarajapuram","1.Thoothukudi Corporation Krishnarajapuram - Ward 18 (Door No. 1 to 7-30A) , 999.OVERSEAS ELECTORS",General
+130,214,130,"Infant Matric. Hr. Sec. School,South Building, 4th room from East,
+Krishnarajapuram","1.Thoothukudi Corporation Krishnarajapuram - Ward 18 (Door No. After 7-30A) , 999.OVERSEAS ELECTORS",General
+131,214,131,"R.C. Primary School, 1st room from east (STD I A) Thireshpuram","1.Thoothukudi Corporation Jeeva Nagar Block 4 - Ward 18 ,
+2.Thoothukudi Corporation Lourdhammalpuram Block 3 - Ward 18 ,
+3.Thoothukudi Corporation Kalaingar Nagar Block 3 - Ward 18 , 999.OVERSEAS ELECTORS",General
+132,214,132,"R.C. Primary School, 2nd room from West, (STD I C), Thireshpuram","1.Thoothukudi Corporation Lourdhammalpuram Block 4 - Ward 18 (Door
+No. 1 to 5-40) , 999.OVERSEAS ELECTORS",General
+133,214,133,"R.C. Primary School, 1st room from West, (STD II A), Thireshpuram","1.Thoothukudi Corporation Lourdhammalpuram Block 4 - Ward 18 (Door
+No. After 5-40) ,
+2. Thoothukudi Corporation Lourdhammalpuram Block 5 - Ward 18 , 999.OVERSEAS ELECTORS",General
+134,214,134,"Little Flower, R.C. High School, North
+Building, 1st room from East (STD VI A), Thireshpuram","1.Thoothukudi Corporation Packiyanathanvilai - Ward 17 ,
+2.Thoothukudi Corporation Sangukuli Colony - Ward 18 , 999.OVERSEAS ELECTORS",General
+135,214,135,"Little Flower, R.C. High School, North
+Building, 2nd room from East (STD IX A), Thireshpuram","1.Thoothukudi Corporation Kalavasal - Ward 18 , 2.Thoothukudi Corporation Thireshpuram - Ward 20 , 999.OVERSEAS ELECTORS",General
+136,214,136,"Little Flower, R.C. High School, North Building, 2nd room from West (Class X
+A), Thireshpuram","1.Thoothukudi Corporation Swami Vivekanandha Nagar - Ward 17 ,
+2.Thoothukudi Corporation Meenavar Colony - Ward 17 , 999.OVERSEAS ELECTORS",General
+137,214,137,"Little Flower, R.C. High School, North Building, 1st room from West (STD VIII),
+Thireshpuram","1.Thoothukudi Corporation Mettupatti, Therespuram - Ward 18 , 999.OVERSEAS ELECTORS",General
+138,214,138,"Auxilium Matriculation Hr. Sec. School,
+Main Building, 2nd room from North (STD XII A) Thirespuram","1.Thoothukudi Corporation Thireshpuram - Ward 20 (Door No. 1 to 21D)
+, 999.OVERSEAS ELECTORS",General
+139,214,139,"Auxilium Matriculation Hr. Sec. School,
+Main Building, 3rd room from North (STD XI B) Thirespuram","1.Thoothukudi Corporation Thireshpuram - Ward 20 (Door No. After 21D)
+, 999.OVERSEAS ELECTORS",General
+140,214,140,"Auxilium Matriculation Hr. Sec. School, Main Buiding 4th room from North (STD XII B), Thirespuram","1.Thoothukudi Corporation Rajeev Gandhi Nagar - Ward 18 ,
+2.Thoothukudi Corporation Thiruvalluvarpuram - Ward 17 ,
+3.Thoothukudi Corporation Sivarajapuram - Ward 18 , 999.OVERSEAS ELECTORS",General
+141,214,141,"Auxilium Matriculation Hr. Sec. School,
+Main Buiding 4th room from South (STD X), Thirespuram","1.Thoothukudi Corporation Thireshpuram - Ward 21 (Door No. 1 to 206) , 999.OVERSEAS ELECTORS",General
+142,214,142,"Auxilium Matriculation Hr. Sec. School,
+Main Buiding 3rd room from South (STD L.K.G), Thirespuram","1.Thoothukudi Corporation Thireshpuram - Ward 21 (Door No. 207 to 281-104) , 999.OVERSEAS ELECTORS",General
+143,214,143,"Auxilium Matriculation Hr. Sec. School, Main Buiding 2nd room from South (STD
+U.K.G), Thirespuram","1.Thoothukudi Corporation Thireshpuram - Ward 21 (Door No. After 281-104) , 999.OVERSEAS ELECTORS",General
+144,214,144,"Corporation Primary School, East Building 1st room from North (STD UKG
+B), Samuelpuram","1.Thoothukudi Corporation Boobalarayarpuram 1st Street - Ward 19 ,
+2.Thoothukudi Corporation Boobalarayarpuram 9th Street - Ward 19 , 999.OVERSEAS ELECTORS",General
+145,214,145,"Corporation Primary School, East Building North portion 2nd room (STD UKG A), Samuelpuram","1.Thoothukudi Corporation Boobalarayarpuram 2nd Street - Ward 19 ,
+2.Thoothukudi Corporation Boobalarayarpuram 3rd Street - Ward 19 ,
+3.Thoothukudi Corporation Boobalarayarpuram 8th Street - Ward 19 ,
+4.Thoothukudi Corporation Boobalarayarpuram 11th Street - Ward 19 , 999.OVERSEAS ELECTORS",General
+146,214,146,"Corporation Primary School, East Building South portion 2nd room (STD LKG B), Samuelpuram.","1.Thoothukudi Corporation Boobalarayarpuram 1st Street - Ward 19 ,
+2.Thoothukudi Corporation Boobalarayarpuram 2nd Street - Ward 19 ,
+3.Thoothukudi Corporation Boobalarayarpuram 3rd Street - Ward 19 , 999.OVERSEAS ELECTORS",General
+147,214,147,"Corporation Primary School, West
+Building, 1st room from South (STD I A), Samuelpuram","1.Thoothukudi Corporation Boobalarayarpuram 4th Street - Ward 19 ,
+2.Thoothukudi Corporation Boobalarayarpuram 5th Street - Ward 19 , 999.OVERSEAS ELECTORS",General
+148,214,148,"Corporation Primary School, West Building, 2nd room from South (STD 1 B), Samuelpuram","1.Thoothukudi Corporation Boobalarayarpuram 6th Street - Ward 20 ,
+2.Thoothukudi Corporation Boobalarayarpuram 7th Street - Ward 20 ,
+3.Thoothukudi Corporation Boobalarayarpuram 8th Street - Ward 20 ,
+4.Thoothukudi Corporation Boobalarayarpuram 9th Street - Ward 20 ,
+5.Thoothukudi Corporation Boobalarayarpuram 10th Street - Ward 20 ,
+6.Thoothukudi Corporation Boobalarayarpuram 11th Street - Ward 20 , 999.OVERSEAS ELECTORS",General
+149,214,149,"Johnson Nursery and primary School, East Building, 2nd room from North, Boopalrayerpuram (RV Puram)","1.Thoothukudi Corporation Boobalarayarpuram 4th Street - Ward 20 ,
+2.Thoothukudi Corporation Boobalarayarpuram 3rd Street - Ward 20 ,
+3.Thoothukudi Corporation Boobalarayarpuram 5th Street - Ward 20 ,
+4.Thoothukudi Corporation Boobalarayarpuram 6th Street - Ward 20 ,
+5.Thoothukudi Corporation Boobalarayarpuram 7th Street - Ward 20 , 999.OVERSEAS ELECTORS",General
+150,214,150,"Johnson Nursery and primary School, East Building, 1st room from South, Boopalrayerpuram (RV Puram)","1.Thoothukudi Corporation Boobalarayarpuram 8th Street - Ward 20 ,
+2.Thoothukudi Corporation Boobalarayarpuram 9th Street - Ward 20 ,
+3.Thoothukudi Corporation Boobalarayarpuram 10th Street - Ward 20 ,
+4.Thoothukudi Corporation Boobalarayarpuram 11th Street - Ward 20 , 999.OVERSEAS ELECTORS",General
+151,214,151,"St.Joseph Girls Hr.Sec. School, South
+Building, 1st room from East (STD VIII-B), Cruzpuram","1.Thoothukudi Corporation Thirespuram - Ward 21 (Door No. 1 to 198) , 999.OVERSEAS ELECTORS",General
+152,214,152,"St.Joseph Girls Hr.Sec. School, South
+Building, 2nd room from East, Cruzpuram","1.Thoothukudi Corporation Thirespuram - Ward 21 (Door No. After 198) , 999.OVERSEAS ELECTORS",General
+153,214,153,"St.Joseph Girls Hr.Sec. School, South Building, 3rd room from East, Cruzpuram","1.Thoothukudi Corporation Thirespuram 1st Street(Sanguli Colony) -
+Ward 18 , 2.Thoothukudi Corporation Thirespuram 2nd Street(Sanguli Colony) - Ward 18 , 3.Thoothukudi Corporation Thirespuram 3rd Street (Sanguli Colony) - Ward 18 , 4.Thoothukudi Corporation Thirespuram 4th Street (Sanguli Colony) - Ward 18 , 5.Thoothukudi Corporation Thirespuram Main - Ward 18 , 999.OVERSEAS ELECTORS",General
+154,214,154,"St.Joseph Girls Hr.Sec. School, West Building, 2nd room from South (STD IX A), Cruzpuram","1.Thoothukudi Corporation Thirespuram 4th Street - Ward 18 ,
+2.Thoothukudi Corporation Anna Colony Beach road Thirespuram - Ward 18 , 3.Thoothukudi Corporation Palli Vasal Front Street - Ward 18 ,
+4.Thoothukudi Corporation Thommaiar Kovil Street - Ward 18 ,
+5.Thoothukudi Corporation Thirespuram 5th Street - Ward 18 ,
+6.Thoothukudi Corporation Thirespuram 6th Street - Ward 18 ,
+919.T9h.OooVtEhuRkSuEdAiSCEoLrpEoCrTatOioRnSThirespuram 1st street - Ward 18 ,",General
+155,214,155,"St.Joseph Girls Hr.Sec. School, West Building, 4th room from North (STD X A), Cruzpuram","2.Thoothukudi Corporation Thirespuram 2nd Street Sangu kuli Colony - Ward 18 , 3.Thoothukudi Corporation Thirespuram 3rd Street Sangu kuli Colony - Ward 18 , 4.Thoothukudi Corporation Thirespuram Main - Ward 18 , 5.Thoothukudi Corporation Thirespuram 4th,5th,6th Street - Ward 18 , 6.Thoothukudi Corporation Thirespuram Main - Ward 18 ,
+7.Thoothukudi Corporation Thirespuram 7th Street - Ward 18 ,
+8.Thoothukudi Corporation Thirespuram 8th Street - Ward 18 ,
+9.Thoothukudi Corporation Thirespuram 9th Street - Ward 18 , 999.OVERSEAS ELECTORS",General
+156,214,156,"St.Joseph Girls Hr.Sec. School, West Building, 3rd room from North (STD X
+B), Cruzpuram","1.Thoothukudi Corporation Thirespuram - Ward 20 , 999.OVERSEAS ELECTORS",General
+157,214,157,"St.Joseph Girls Hr.Sec. School, West Building, 2nd room from North (STD X
+C), Cruzpuram","1.Thoothukudi Corporation Mathavanayar Colony - Ward 20 , 999.OVERSEAS ELECTORS",General
+158,214,158,"Caldwell Hr Sec School, East Building, North portion 3rd Room, Beach Road","1.Thoothukudi Corporation St.George sandhu - Ward 21 , 2.Thoothukudi
+Corporation St.George Street - Ward 21 , 3.Thoothukudi Corporation Tharuvai Sandhu - Ward 21 ,
+999.OVERSEAS ELECTORS",General
+159,214,159,"Caldwell Hr Sec School, East Building, 2nd room from South (STD XII A1 Bio
+and CS), Beach Road","1.Thoothukudi Corporation Narayanan Street - Ward 22 , 999.OVERSEAS ELECTORS",General
+160,214,160,"Caldwell Hr Sec School, East Building, 1st room from South (STD XII A2 Bio and CS), Beach Road","1.Thoothukudi Corporation Beach Road - Ward 21 , 2.Thoothukudi
+Corporation Anna Colony - Ward 21 , 3.Thoothukudi Corporation
+St.Soosaiapper Colony - Ward 21 , 4.Thoothukudi Corporation Karikalam colony - Ward 21 , 999.OVERSEAS ELECTORS",General
+161,214,161,"Caldwell Primary School New Building, 2nd room from North,Vadi Street","1.Thoothukudi Corporation Thattar street - Ward 21 , 2.Thoothukudi
+Corporation Thattar Sandhu - Ward 21, 3.Thoothukudi Corporation Kaliappapillai Sandhu - Ward 24 , 4.Thoothukudi Corporation St.Peter Koil Sannathi Street - Ward 24 , 999.OVERSEAS ELECTORS",General
+162,214,162,"Caldwell Primary School New Building, 1st room from North,Vadi Street","1.Thoothukudi Corporation Nattukottai Chetti Street - Ward 23,
+2.Thoothukudi Corporation Thattar Street Extension - Ward 24 , 999.OVERSEAS ELECTORS",General
+163,214,163,"Thatchar Street Middle School, Main Building, East Portion, North Gopalsamy
+Street","1.Thoothukudi Corporation North raja street - Ward 24 , 2.Thoothukudi Corporation Vadakku Raja Sandhu - Ward 24 , 999.OVERSEAS
+ELECTORS",General
+164,214,164,"Thatchar Street Middle School, Main
+Building, West Portion, North Gopalsamy Street","1.Thoothukudi Corporation Kaliappar Street - Ward 24 , 999.OVERSEAS ELECTORS",General
+165,214,165,"S.A.V.Primary School, West Building, North Portion, North Gopalsamy Street","1.Thoothukudi Corporation Ayyalu lane - Ward 23 , 2.Thoothukudi
+Corporation Ayyalu Street - Ward 23 , 3.Thoothukudi Corporation Tharuvai Street - Ward 23 , 999.OVERSEAS ELECTORS",General
+166,214,166,"S.A.V. Primary School, West Building Central Portion,North Gopalsamy Street","1.Thoothukudi Corporation Chinnakadai street - Ward 24 ,
+2.Thoothukudi Corporation Chinnakadai Sandhu - Ward 24 ,
+3.Thoothukudi Corporation Parthasarathi Street - Ward 24 , 999.OVERSEAS ELECTORS",General
+167,214,167,"S.A.V. Primary School, West Building, South Portion, North Gopalsamy Street","1.Thoothukudi Corporation Gopalsamy Street - Ward 24 , 2.Thoothukudi Corporation Vadi Street - Ward 24 , 999.OVERSEAS ELECTORS",General
+168,214,168,"R.C. Primary School, North Building,
+East Portion (STD I A), Cruzpuram","1.Thoothukudi Corporation Cruzpuram - Ward 22
+(Door No. From 1 to 152) , 999.OVERSEAS ELECTORS",General
+169,214,169,"R.C. Primary School, North Building,
+(STD-II C), Cruzpuram","1.Thoothukudi Corporation Cruzpuram -
+Ward 22 (Door No. From 153 to last) , 999.OVERSEAS ELECTORS",General
+170,214,170,"R.C. Primary School,West Building, 2nd room from South (STD V A), Cruzpuram","1.Thoothukudi Corporation Santhanamariamman koil street - Ward 22 , 999.OVERSEAS ELECTORS",General
+171,214,171,"R.C. Primary School, South Building, 2nd room from East, Cruzpuram","1.Thoothukudi Corporation Sathya Nadar Street - Ward 22 ,
+2.Thoothukudi Corporation Vadakku Pillaiar Koil Street - Ward 23 ,
+3.Thoothukudi Corporation Sethuraja Street - Ward 23 , 999.OVERSEAS ELECTORS",General
+172,214,172,"T.N.D.T.A. Middle School, South Building West Portion, Kovil Street, Thoothukudi","1.Thoothukudi Corporation Muthusamy street - Ward 23 , 2.Thoothukudi Corporation Utchimakaliamman Koil Street - Ward 23 , 3.Thoothukudi Corporation Carpenter Street - Ward 16 , 4.Thoothukudi Corporation Ratchanyapuram East - Ward 16 , 5.Thoothukudi Corporation Ratchanyapuram West - Ward 16 , 6.Thoothukudi Corporation Nadar Street Vadakku - Ward 16 , 7.Thoothukudi Corporation Nadar Street South - Ward 16 , 999.OVERSEAS ELECTORS",General
+173,214,173,"T.N.D.T.A Middle School South Building Middle Portion, Kovil Street, Thoothukudi","1.Thoothukudi Corporation Raman villai street - Ward 16 ,
+2.Thoothukudi Corporation Koil Street - Ward 16 , 3.Thoothukudi Corporation Simon Street - Ward 16 , 4.Thoothukudi Corporation Vathiyar Street - Ward 16 , 5.Thoothukudi Corporation Manakavalen Street - Ward 23 , 999.OVERSEAS ELECTORS",General
+174,214,174,"Corporation Middle School, North Building, 1st room from East, North Pathirakaliamman Kovil Street","1.Thoothukudi Corporation Davispuram Road - Ward 23 , 2.Thoothukudi Corporation Piramuthuvilai - Ward 23 , 3.Thoothukudi Corporation Pandarasivan vilai street - Ward 23 , 999.OVERSEAS ELECTORS",General
+175,214,175,"Corporation Middle School, East Building, 1st room from North, North Pathirakaliamman Kovil Street","1.Thoothukudi Corporation Mohammed Sadhalipuram - Ward 14 ,
+2.Thoothukudi Corporation Yadhavar Street - Ward 16 , 3.Thoothukudi Corporation Valaiyananthaswami Koil Street - Ward 16 , 4.Thoothukudi Corporation Nambikkai roach Vilai - Ward 16 , 999.OVERSEAS
+ELECTORS",General
+176,214,176,"Corporation Middle School, South
+Middle Building, North Pathirakaliamman Kovil Street","1.Thoothukudi Corporation Vadakku Patthirakaliamman Koil street -
+Ward 16 , 2.Thoothukudi Corporation Nainarvillai Vadakku - Ward 16 , 999.OVERSEAS ELECTORS",General
+177,214,177,"Corporation Middle School, South Building, 1st room from West, North Pathirakaliamman Kovil Street","1.Thoothukudi Corporation Nainarvillai West - Ward 16 , 2.Thoothukudi Corporation Nainarvillai South - Ward 16 , 3.Thoothukudi Corporation St.John Street - Ward 16 , 999.OVERSEAS ELECTORS",General
+178,214,178,"Corporation Middle School, West Building (Near Staircase), North Pathirakaliamman Kovil Street","1.Thoothukudi Corporation Vaniyanvillai South - Ward 16 ,
+2.Thoothukudi Corporation Vaniyanvilai Vadakku - Ward 16 ,
+3.Thoothukudi Corporation S.S.Pillai Street - Ward 16 , 4.Thoothukudi Corporation Subbah Naicker Street - Ward 16 , 999.OVERSEAS ELECTORS",General
+179,214,179,"R.C. Primary School, East New Building,
+North Portion, Rathnapuram","1.Thoothukudi Corporation Alagesapuram 1st street - Ward 9 ,
+999.OVERSEAS ELECTORS",General
+180,214,180,"R.C. Primary School, East New Building, South portion, Rathnapuram","1.Thoothukudi Corporation Rathinapuram street - Ward 14 ,
+2.Thoothukudi Corporation Yathavar Street - Ward 16 , 999.OVERSEAS ELECTORS",General
+181,214,181,"R.C. High School, North New Building, 3rd room from West, Rathnapuram","1.Thoothukudi Corporation Thiraviapuram 1st street - Ward 13 ,
+2.Thoothukudi Corporation Thiraviapuram 3rd Street - Ward 13 ,
+3.Thoothukudi Corporation Parvathiamman Koil Street - Ward 13 , 999.OVERSEAS ELECTORS",General
+182,214,182,"R.C. High School, North New Building, 4th room from West, Rathnapuram","1.Thoothukudi Corporation Muniasamy koil street - Ward 14 ,
+2.Thoothukudi Corporation Sudalaimadasamy Koil Street - Ward 14 , 999.OVERSEAS ELECTORS",General
+183,214,183,"Corporation Middle School, East building 1st room from North, Melur
+Pandurengan Street","1.Thoothukudi Corporation Alagesapuram main - Ward 8 ,
+2.Thoothukudi Corporation Alagesapuram 1st Sandhu - Ward 9 , 999.OVERSEAS ELECTORS",General
+184,214,184,"Corporation Middle School, North Building West Portion, Melur
+Pandurengan Street","1.Thoothukudi Corporation Alagesapuram 1st street - Ward 9 ,
+2.Thoothukudi Corporation Alagesapuram 2nd Sandhu - Ward 9 , 999.OVERSEAS ELECTORS",General
+185,214,185,"Corporation Middle School, East
+Building, 2nd room from North, (STD VI A), Melur, Chathram Street","1.Thoothukudi Corporation Vandimarichamman koil street - Ward 15 ,
+2.Thoothukudi Corporation Santhi Vinayagar Koil Street - Ward 15 , 999.OVERSEAS ELECTORS",General
+186,214,186,"Corporation Middle School, South Building, 5th room from West, (STD VIII B), Melur, Chathram Street","1.Thoothukudi Corporation Santh Vinayagar Koil Sandhu - Ward 15 ,
+2.Thoothukudi Corporation Kamatchiamman Koil Street - Ward 15 ,
+3.Thoothukudi Corporation Mohammed Sadhalipuram - Ward 14 ,
+4.Thoothukudi Corporation Muniasamy Kovil Street - Ward 14 , 999.OVERSEAS ELECTORS",General
+187,214,187,"S.A.V. Hr. Sec. School, Centenary Hall,
+1st room from West, Chatram Street","1.Thoothukudi Corporation Muthu street - Ward 15 ,
+999.OVERSEAS ELECTORS",General
+188,214,188,"S.A.V. Hr. Sec. School, Centenary Hall, 2nd room from West, Chatram Street","1.Thoothukudi Corporation Karuppasamy Koil Street - Ward 15 ,
+2.Thoothukudi Corporation Subbiah Street - Ward 15 , 999.OVERSEAS ELECTORS",General
+189,214,189,"S.A.V. Hr. Sec. School, Centenary Hall, 3rd room from West, Chatram Street","1.Thoothukudi Corporation Nammalwar street - Ward 15 , 2.Thoothukudi Corporation Chathram Street - Ward 15 , 999.OVERSEAS ELECTORS",General
+190,214,190,"S.A.V. Hr. Sec. School, West Building,
+3rd room from South (STD XI B), Chatram Street","1.Thoothukudi Corporation Pandurangan street - Ward 15 ,
+2.Thoothukudi Corporation Sarankapani Street - Ward 15 , 999.OVERSEAS ELECTORS",General
+191,214,191,"S.A.V. Hr. Sec. School, West Building, 4th room from South (STD XII C),
+Chatram Street","1.Thoothukudi Corporation Rajamannar street - Ward 15 ,
+2.Thoothukudi Corporation Keelarathaveethi Extension - Ward 15 , 999.OVERSEAS ELECTORS",General
+192,214,192,"S.A.V. Hr. Sec. School, West Building,
+5th room from South (STD XII D), Chatram Street","1.Thoothukudi Corporation Andal Street - Ward 15 , 2.Thoothukudi
+Corporation Kathiresan Koil Street - Ward 15 , 999.OVERSEAS ELECTORS",General
+193,214,193,"C.M. Hr. Sec. School, West Building, Renganathapuram","1.Thoothukudi Corporation Ragamathullapuram East - Ward 40 ,
+2.Thoothukudi Corporation Ragamathullapuram West - Ward 39 , 999.OVERSEAS ELECTORS",General
+194,214,194,"C.M. Hr Sec. School, South Building,
+East portion, Renganathapuram","1.Thoothukudi Corporation Pathirakaliamman Koil Street - Ward 25 , ,
+999.OVERSEAS ELECTORS",General
+195,214,195,"C.M. Primary School, North Building,
+West Portion, Renganathapuram","1.Thoothukudi Corporation Renganathapuram West - Ward 25 ,
+999.OVERSEAS ELECTORS",General
+196,214,196,"Victoria Girls Hr. Sec School, South building, 1st room from East, (STD VII
+D), Mela Ratha Veethi, Thoothukudi","1.Thoothukudi Corporation Vadakku Ratha Veethi - Ward 25 , 999.OVERSEAS ELECTORS",General
+197,214,197,"Victoria Girls Hr. Sec School, South building, 2nd room from East, (STD VIII B), Mela Ratha Veethi, Thoothukudi","1.Thoothukudi Corporation Vadakku Ratha veethi Extension - Ward 25 ,
+2.Thoothukudi Corporation Varadharajapuram - Ward 26 , 999.OVERSEAS ELECTORS",General
+198,214,198,"Victoria Girls Hr. Sec School, South building, 3rd room from East, (STD VIII C), Mela Ratha Veethi, Thoothukudi","1.Thoothukudi Corporation Keelaratha veethi - Ward 26 , 2.Thoothukudi
+Corporation Perumal Koil Street - Ward 26 , 3.Thoothukudi Corporation Vadakku Sambanthamoorthy Street - Ward 26 , 4.Thoothukudi Corporation Mela Peria Cotton Road - Ward 25 , 999.OVERSEAS ELECTORS",General
+199,214,199,"Victoria Girls Hr. Sec School, South
+building, 4th room from East, (STD VIII D), Mela Ratha Veethi, Thoothukudi","1.Thoothukudi Corporation Renganathapuram East - Ward 25 ,
+2.Thoothukudi Corporation Mela Rathaveethi - Ward 25 , 999.OVERSEAS ELECTORS",General
+200,214,200,"C.M. High School, Main Building 1st room from East (STD VII A), T.R. Naidu Street, Thoothukudi","1.Thoothukudi Corporation Vadakku cotton road - Ward 26 ,
+2.Thoothukudi Corporation Ramasamy Street - Ward 26 , 3.Thoothukudi Corporation Railway Station Road - Ward 26 , 999.OVERSEAS ELECTORS",General
+201,214,201,"C.M. High School, Main Building 3rd room from East (STD X B), T.R. Naidu Street, Thoothukudi","1.Thoothukudi Corporation Railway Colony - Ward 26 , 2.Thoothukudi
+Corporation Selvizer 1st Street - Ward 26 , 3.Thoothukudi Corporation Selvizer 2nd Street - Ward 26 , 4.Thoothukudi Corporation Selvizer 3rd Street - Ward 26 , 999.OVERSEAS ELECTORS",General
+202,214,202,"C.M. High School, Main Building 4th room from East (STD IX B), T.R. Naidu Street, Thoothukudi","1.Thoothukudi Corporation Ganagasabapathi Street - Ward 26 ,
+2.Thoothukudi Corporation Theppakulam Street - Ward 26 ,
+3.Thoothukudi Corporation Theppakulam 2nd Sandhu - Ward 26 ,
+4.Thoothukudi Corporation Sivan Koil Sandhu - Ward 26 , 999.OVERSEAS ELECTORS",General
+203,214,203,"C.M. High School, Main Building 5th room from East, T.R. Naidu Street,
+Thoothukudi","1.Thoothukudi Corporation Theppakulam 1st Sandhu - Ward 26 ,
+2.Thoothukudi Corporation Sivan Koil Street - Ward 26 , 999.OVERSEAS ELECTORS",General
+204,214,204,"Karapettai Nadar (South) Primary School, Main Building, 3rd room from North (3rd door), Periya Cotton Road, Thoothukudi","1.Thoothukudi Corporation Victoria Street - Ward 24 , 2.Thoothukudi
+Corporation St.Helina Sandhu - Ward 24 , 3.Thoothukudi Corporation Yuvan Pillai Sandhu - Ward 24 , 4.Thoothukudi Corporation Peria Kadai Street - Ward 24, 5.Thoothukudi Corporation Peraiyara Street - Ward 24,
+999.OVERSEAS ELECTORS",General
+205,214,205,"Karapettai Nadar Girls Higher Secondary
+School, East Building, 4th room form North (STD XI G), Periya Cotton Road, Thoothukudi","1.Thoothukudi Corporation South Cotton Road - Ward 24 (Door No. 1 to 150) ,
+999.OVERSEAS ELECTORS",General
+206,214,206,"Karapettai Nadar Girls Higher Secondary
+School, East Building, 5th room form North (STD XII G), Periya Cotton Road, Thoothukudi","1.Thoothukudi Corporation South Cotton Road - Ward 24 (Door No. After 151) ,
+999.OVERSEAS ELECTORS",General
+207,214,207,"Karapettai Nadar Girls Higher Secondary
+School, East Building, 6th room form North (STD X A), Periya Cotton Road, Thoothukudi","1.Thoothukudi Corporation South Cotton Road - Ward 24 (Door No. 1 to 300) , 999.OVERSEAS ELECTORS",General
+208,214,208,"Karapettai Nadar Girls Higher Secondary
+School, East Building, 7th room form North (STD X A1), Periya Cotton Road, Thoothukudi","1.Thoothukudi Corporation South Cotton Road - Ward 24 (Door No. After 301) , 999.OVERSEAS ELECTORS",General
+209,214,209,"Karapettai Nadar Girls Higher Secondary
+School, West Building, 2nd room form South (STD X C), Periya Cotton Road, Thoothukudi","1.Thoothukudi Corporation South Cotton Road - Ward 24 , 999.OVERSEAS ELECTORS",General
+210,214,210,"Karapettai Nadar Boys Hr. Sec. School,
+Golden Jubilee Year Block, 2nd room from West, Room No. 39 Lionstown","1.Thoothukudi Corporation Lions Town - Ward 31 (Door No. 1 to 367B), 999.OVERSEAS ELECTORS",General
+211,214,211,"Karapettai Nadar Boys Hr. Sec. School,
+Golden Jubilee Year Block, 3rd room from West, Room No. 40 Lionstown","1.Thoothukudi Corporation Lions Town - Ward 31 (Door No. After 367B), 999.OVERSEAS ELECTORS",General
+212,214,212,"Karapettai Nadar Boys Hr. Sec. School, North Building, 3rd room from East,
+Room No. 3, Lionstown","1.Thoothukudi Corporation Lions Town - Ward 31 , 2.Thoothukudi Corporation Annai Theresa Colony - Ward 31 , 999.OVERSEAS
+ELECTORS",General
+213,214,213,"Karapettai Nadar Boys Hr. Sec. School, North Building, 2nd room from East,
+Room No. 4, Lionstown","1.Thoothukudi Corporation George Road - Ward 24 , 999.OVERSEAS ELECTORS",General
+214,214,214,"P.M. Ornales Lasal Hr. Sec. School, Martin Building (STD X A), George Road","1.Thoothukudi Corporation Narayanan Sandhu - Ward 24 ,
+2.Thoothukudi Corporation Emperor Street - Ward 32 , 3.Thoothukudi Corporation South Emperor Street - Ward 32 , 4.Thoothukudi Corporation Vaikundam Street - Ward 24 , 5.Thoothukudi Corporation Peria kovil Street - Ward 24 , 999.OVERSEAS ELECTORS",General
+215,214,215,"P.M. Ornales Lasal Hr. Sec. School, Martin Building (STD IX A), George Road","1.Thoothukudi Corporation Marakudi Street - Ward 24 , 2.Thoothukudi Corporation Manuel Jacob lane - Ward 32 , 3.Thoothukudi Corporation St.Peter kovil Street - Ward 24 , 4.Thoothukudi Corporation St. Peter Kovil Lane - Ward 24 , 999.OVERSEAS ELECTORS",General
+216,214,216,"P.M. Ornales Lasal Hr. Sec. School, Lasalle Block, 2nd room from South, George Road","1.Thoothukudi Corporation Santhapper Lane - Ward 24 , 2.Thoothukudi Corporation Meiyappar Lane - Ward 24 , 3.Thoothukudi Corporation Thandal Lane - Ward 24 , 4.Thoothukudi Corporation Saveria Pitchai Lane - Ward 32 , 5.Thoothukudi Corporation South Raja Street - Ward 32
+, 6.Thoothukudi Corporation Gurusadi Lane - Ward 24 , 7.Thoothukudi Corporation Grahop Street - Ward 32 , 8.Thoothukudi Corporation Anthoniyar Sandhu - Ward 24 , 9.Thoothukudi Corporation Pachek Sandhu - Ward 24 , 10.Thoothukudi Corporation Japjak Sandhu - Ward 24 , 11.Thoothukudi Corporation Theerappar Sandhu - Ward 32 , 12.Thoothukudi Corporation Rosario Sandhu - Ward 32 , 13.Thoothukudi Corporation Keyithan Sorees Sandhu - Ward 24, 14.Thoothukudi Corporation St.Pavul Sandhu - Ward 32 , 15.Thoothukudi Corporation Beach Road - Ward 24 , 16.Thoothukudi Corporation Malaiappar Sandhu
+- Ward 24 , 999.OVERSEAS ELECTORS",General
+217,214,217,"P.M. Ornales Lasal Hr. Sec. School, Lasalle Block, 3rd room from South, George Road","1. Thoothukudi Corporation Manal Street - Ward 32, 2.Thoothukudi Corporation Fisheries Colony (Inigo Nagar) - Ward 24 , 3.Thoothukudi Corporation Piramuthu Sandhu - Ward 23 , 4.Thoothukudi Corporation St.Peter Kovil Gurusadi Sandhu - Ward 24 , 999.OVERSEAS ELECTORS",General
+218,214,218,"P.M. Ornales Lasal Hr. Sec. School,
+Lasalle Block, 4th room from South, George Road","1.Thoothukudi Corporation George road - Ward 31 , 999.OVERSEAS ELECTORS",General
+219,214,219,"P.M. Ornales Lasal Hr. Sec. School,
+Lasalle Block, 2nd room from North, George Road","1.Thoothukudi Corporation Gandhi Nagar - Ward 31 , 999.OVERSEAS ELECTORS",General
+220,214,220,"Dasnevis Matha Girls Hr. Sec. School,
+Main building, STD: XII A (Near to office room), George Road.","1. Thoothukudi Corporation Beach Road - Ward 24 , 2.Thoothukudi Corporation South Beach Road - Ward 24 , 999.OVERSEAS ELECTORS",General
+221,214,221,"Dasnevis Matha Girls Hr. Sec. School, Main building, STD: XII B (Near to office
+room), George Road.","1.Thoothukudi Corporation Roch Colony - Ward 24 , 2.Thoothukudi Corporation Rajeev Gandhi Nagar - ward 49 , 999.OVERSEAS ELECTORS",General
+222,214,222,"Gandhi Nagar Primary School, North room, George Road, Thoothukudi","1.Thoothukudi Corporation Fathima Nagar 1st Street - Ward 31 ,
+2.Thoothukudi Corporation Fathima Nagar 2nd Street - Ward 31 ,
+3.Thoothukudi Corporation Fathima Nagar 3rd Street - Ward 31 , 999.OVERSEAS ELECTORS",General
+223,214,223,"Gandhi Nagar Primary School, Middle Room, George Road, Thoothukudi","1.Thoothukudi Corporation George Road - Ward 33 , 2. Thoothukudi
+Corporation George Road Extension - Ward 33, 3.Thoothukudi Corporation Fathima Nagar street 4, 5, 6 - Ward 33 , 999.OVERSEAS ELECTORS",General
+224,214,224,"Gandhi Nagar Primary School, 2nd room from South, George Road, Thoothukudi","1.Thoothukudi Corporation George Road Street 4 - Ward 33 ,
+2.Thoothukudi Corporation George Road Street 5 - Ward 33 ,
+3.Thoothukudi Corporation George Road Street 6 - Ward 33 ,
+4.Thoothukudi Corporation Fisheries Colony George Road - Ward 33, 999.OVERSEAS ELECTORS",General
+225,214,225,"T.N.D.T.A Middle School, Centenary
+Building, 1st room from South, S.P.G. Kovil 1st Street, Thoothukudi","1.Thoothukudi Corporation Shanmugapuram street 1 - Ward 28 ,
+2.Thoothukudi Corporation Shanmugapuram Street 2 - Ward 28 , 999.OVERSEAS ELECTORS",General
+226,214,226,"T.N.D.T.A Middle School, New South Building, 1st room from East (1st Door),
+S.P.G. Kovil 1st Street, Thoothukudi","1.Thoothukudi Corporation S.P.G.Kovil Street 1 - Ward 28 ,
+2.Thoothukudi Corporation S.P.G Kovil Street 2 - Ward 28 ,
+3.Thoothukudi Corporation S.P.G. Kovil Street 3 - Ward 28 ,
+4.Thoothukudi Corporation S.P.G.Kovil Street 4 - Ward 28 , 999.OVERSEAS ELECTORS",General
+227,214,227,"T.N.D.T.A Middle School, New South Building, 3rd room from East (3rd Door),
+S.P.G. Kovil 1st Street, Thoothukudi","1.Thoothukudi Corporation Shanmugapuram pirapper street - Ward 28 (Door No. 1 to 195) , 999.OVERSEAS ELECTORS",General
+228,214,228,"T.N.D.T.A Middle School, New South Building, 5th room from East (5th Door),
+S.P.G. Kovil 1st Street, Thoothukudi","1.Thoothukudi Corporation Shanmugapuram pirapper street - Ward 28 (Door No. After 195) , 999.OVERSEAS ELECTORS",General
+229,214,229,"Holy Cross Girls Higher Secondary School, North building, 1st room from
+West, Room No.1 VE Road Thoothukudi","1.Thoothukudi Corporation Anthoniyar kovil street - Ward 27 ,
+2.Thoothukudi Corporation V.E. Road - Ward 27 , 999.OVERSEAS ELECTORS",General
+230,214,230,"Holy Cross Girls Higher Secondary School, St. Joseph Block, 2nd room from East, V.E. Road, Thoothukudi","1.Thoothukudi Corporation Telephone Colony - Ward 49 ,
+2.Thoothukudi Corporation P.V.R. Puram - Ward 49
+3. Thoothukudi Corporation Pul Thottam (Telephone Colony) - ward 49 , 999.OVERSEAS ELECTORS",General
+231,214,231,"Holy Cross Girls Higher Secondary School, St. Joseph Block, 2nd room from
+West, V.E. Road, Thoothukudi","1.Thoothukudi Corporation Convent road - Ward 27 , 2.Thoothukudi Corporation George Road - Ward 31 , 999.OVERSEAS ELECTORS",General
+232,214,232,"Holy Cross Girls Higher Secondary School, St. Joseph Block, 1st room from
+West, V.E. Road, Thoothukudi","1.Thoothukudi Corporation Market Road - Ward 28 , 999.OVERSEAS ELECTORS",General
+233,214,233,"Holy Cross Primary School, East
+Building, 2nd room from South, (STD I A), V.E. Road, Thoothukudi","1.Thoothukudi Corporation Kumarar street - Ward 25 , 999.OVERSEAS ELECTORS",General
+234,214,234,"Holy Cross Primary School, North
+Building, 2nd room from West, (STD III A), V.E. Road, Thoothukudi","1.Thoothukudi Corporation Sivanthakulam Road 1 - Ward 29 , 999.OVERSEAS ELECTORS",General
+235,214,235,"Holy Cross Primary School, West Building, 3rd room from North, (STD I C), V.E. Road, Thoothukudi","1.Thoothukudi Corporation Sivanthakulam Road 2 - Ward 29 ,
+2.Thoothukudi Corporation Sivanthakulam Road 3 - Ward 29 ,
+3.Thoothukudi Corporation Sivanthakulam 1st Street - Ward 30 , 999.OVERSEAS ELECTORS",General
+236,214,236,"Holy Cross Primary School, South Building, 1st room from West, (STD II),
+V.E. Road, Thoothukudi","1.Thoothukudi Corporation M.K. Street - Ward 27 , 999.OVERSEAS ELECTORS",General
+237,214,237,"Corporation Middle School, West
+Portion, (Near Office Room), South New Street, Thoothukudi","1.Thoothukudi Corporation Jeyalani Street - ward 27 (Door No. 1 to 79)
+, 999.OVERSEAS ELECTORS",General
+238,214,238,"Corporation Middle School, East Portion, South New Street, Thoothukudi","1.Thoothukudi Corporation Jeyalani Street - ward 27 (Door No. After 79)
+, 999.OVERSEAS ELECTORS",General
+239,214,239,"Corporation Middle School, West portion, South New Street, Thoothukudi","1.Thoothukudi Corporation Therku pudu Street - ward 26 , 999.OVERSEAS ELECTORS",General
+240,214,240,"Corporation Middle School, South Facing Room, (School Back Side), South New Street, Thoothukudi","1.Thoothukudi Corporation Telegram Office Road - ward 26 ,
+2.Thoothukudi Corporation Railway Station road - ward 26 ,
+3.Thoothukudi Corporation Peria Cotton Road - ward 27
+4.Thoothukudi Corporation South Sampanthamoorthy Street - ward 26 ,
+5.Thoothukudi Corporation Mela peria cotton Road - ward 26 , 999.OVERSEAS ELECTORS",General
+241,214,241,"Corporation Middle School, South building, 1st room from West, Gin Factory Road, Thoothukudi","1.Thoothukudi Corporation Melur Bangalow Street - ward 25 ,
+2.Thoothukudi Corporation Gin Factory road - ward 25 , 3.Thoothukudi Corporation Subramaniapuram - ward 40 , 999.OVERSEAS ELECTORS",General
+242,214,242,"Anganvadi Centre (Centre No. 56 - Corporation Middle School campus), Gin Factory Road, Thoothukudi","1.Thoothukudi Corporation Balavinayagar Koil Street - ward 40 ,
+2.Thoothukudi Corporation Avudaiarpuram - ward 40 , 3.Thoothukudi Corporation Gibsonpuram - ward 25 , 4.Thoothukudi Corporation Palayamkottai Road - ward 40 , 999.OVERSEAS ELECTORS",General
+243,214,243,"Corporation Middle School, Main
+Building, North Portion, (2nd Door), Vannar 3rd Street, Thoothukudi","1.Thoothukudi Corporation Vannar 3rd street - ward 30 (Door No. 1 to 39F) , 999.OVERSEAS ELECTORS",General
+244,214,244,"Corporation Middle School, Main Building, North Portion, (3rd Door),
+Vannar 3rd Street, Thoothukudi","1.Thoothukudi Corporation Vannar 3rd street - ward 30 (Door No. After 39F) , 999.OVERSEAS ELECTORS",General
+245,214,245,"Corporation Middle School, Main
+Building, North Portion, (4th Door), Vannar 3rd Street, Thoothukudi","1.Thoothukudi Corporation Perumal street - ward 29 , 999.OVERSEAS ELECTORS",General
+246,214,246,"Corporation Middle School, New Main
+Building, 2nd room from South, Vannar 3rd Street, Thoothukudi","1.Thoothukudi Corporation Vannar1st Street - ward 30 , 999.OVERSEAS ELECTORS",General
+247,214,247,"Corporation Middle School, New Main
+Building, 1st room from South, Vannar 3rd Street, Thoothukudi","1.Thoothukudi Corporation Vannar 2nd street - ward 30 , 999.OVERSEAS ELECTORS",General
+248,214,248,"Kamaraj College, Main Building, Hall
+No.3, Tiruchendur Road, Thoothukudi","1.Thoothukudi Corporation George road - ward 31 , 999.OVERSEAS
+ELECTORS",General
+249,214,249,"Kamaraj College,Main Building, Hall
+No.5,Tiruchendur Road,Thoothukudi","1.Thoothukudi Corporation George road - ward 31 , 999.OVERSEAS
+ELECTORS",General
+250,214,250,"Kamaraj College, Main Building, Hall
+No.7, Tiruchendur Road,Thoothukudi","1.Thoothukudi Corporation Indira Nagar - ward 31 , 999.OVERSEAS
+ELECTORS",General
+251,214,251,"Kamaraj College, Main Building Hall No.8, Tiruchendur Road,Thoothukudi","1.Thoothukudi Corporation Sivanthakulam Road - ward 29 ,
+2.Thoothukudi Corporation Ganesa Nagar - ward 48 ,
+3.Thoothukudi Corporation Karunanithi Nagar - ward 49 , , 999.OVERSEAS ELECTORS",General
+252,214,252,"Kamaraj College, Main Building, Hall No. 16, Tiruchendur Road Thoothukudi","1.Thoothukudi Corporation New Salt Colony Block 4 - ward 49 ,
+2.Thoothukudi Corporation Central Government Employees Colony Block 4 - ward 49 , 3.Thoothukudi Corporation Post Officers Quarters - ward 49
+, 999.OVERSEAS ELECTORS",General
+253,214,253,"Annammal College of Education for
+Women, D. Shenbagamurthi Hall, West Portion, Room No. GF-3, Tiruchendur Road, Thoothukudi","1.Thoothukudi Corporation Coats Nagar - ward 50 , 2.Thoothukudi Corporation Sakthi Nagar - ward 48 , 3.Thoothukudi Corporation S.N.R. Nagar - ward 49 , 999.OVERSEAS ELECTORS",General
+254,214,254,"Annammal College of Education for
+Women, D. Shenbagamurthi Hall, East Portion, Room No.GF-4, Tiruchendur Road Thoothukudi","1.Thoothukudi Corporation Selseeni Colony - ward 50 , 999.OVERSEAS ELECTORS",General
+255,214,255,"Annammal College of Education for
+Women, South building, Room No.GF-10,Tiruchendur Road, Thoothukudi","1.Thoothukudi Corporation Santhi Nagar - ward 48 , 999.OVERSEAS ELECTORS",General
+256,214,256,"Nirmal Rural Development Centre
+Project Office (SCAD), South Building, 2nd Room from East, Rajapandi Nagar","1.Thoothukudi Corporation Sathya Nagar - ward 50 , 2.Thoothukudi Corporation Mudukkukadu - ward 50 , 999.OVERSEAS ELECTORS",General
+257,214,257,"Nirmal Rural Development Centre
+Project Office (SCAD), South Building, 3rd Room from East, Rajapandi Nagar","1.Thoothukudi Corporation Rajapandi Nagar - ward 50 , 999.OVERSEAS ELECTORS",General
+258,214,258,"Nirmal Rural Development Center Project Office (SCAD), South Building,
+3rd Room from West, Rajapandi Nagar","1. Thoothukudi Corporation Periyasamy Nagar
+2. Thoothukudi Corporation MGR Nagar , 999.OVERSEAS ELECTORS",General
+259,214,259,"Infant Jesus Nursery and Primary
+School, 1st room from East, Caldwell Colony 4th Street","1.Thoothukudi Corporation Anthonyarpuram - ward 50 (Door No. 1 to 44-346) , 999.OVERSEAS ELECTORS",General
+260,214,260,"Infant Jesus Nursery and Primary
+School, 2nd Room from East, Caldwell Colony 4th Street","1.Thoothukudi Corporation Anthonyarpuram - ward 50 (Door No. Above 44-346) , 999.OVERSEAS ELECTORS",General
+261,214,261,"Infant Jesus Nursery and Primary
+School, 3rd Room from East, Caldwell Colony 4th Street","1.Thoothukudi Corporation Caldwell Colony - ward 49 (Door No. 1 to 5A-466) , 999.OVERSEAS ELECTORS",General
+262,214,262,"Infant Jesus Nursery and Primary School, 1st Room from West, Caldwell
+Colony 4th Street","1.Thoothukudi Corporation Caldwell Colony - ward 49 (Door No. Above 5A-466) , 999.OVERSEAS ELECTORS",General
+263,214,263,"Thiru Kudumbam Tamil Middle School, North Building, West to Auditorium,
+Caldwell Colony 4th Street","1.Thoothukudi Corporation Ganesan Colony - Ward 49 (Door No. 1 to 3B-220) , 999.OVERSEAS ELECTORS",General
+264,214,264,"Thiru Kudumbam Tamil Middle School,
+North Building, East to Auditorium, Caldwell Colony 4th Street","1.Thoothukudi Corporation Ganesan Colony - Ward 49 (Door No. After 3B-220) , 999.OVERSEAS ELECTORS",General
+265,214,265,"Thiru Kudumbam Tamil Middle School,
+East Building, 1st room from North, (STD III) Caldwell Colony 4th Street","1.Thoothukudi Corporation Vallinayagapuram Block 4 - ward 49 (Door No. 1 to 3C-150), 999.OVERSEAS ELECTORS",General
+266,214,266,"Thiru Kudumbam Tamil Middle School, East Building, 3rd room from North,
+(STD II) Caldwell Colony 4th Street","1.Thoothukudi Corporation Vallinayagapuram Block 4 - ward 49 (Door No. After 3C-150), 999.OVERSEAS ELECTORS",General
+267,214,267,"Thiru Kudumbam Tamil Middle School, East Building, 2nd room from South,
+(STD I E) Caldwell Colony 4th Street","1.Thoothukudi Corporation Amutha Nagar - ward 48 (Door No. 1 to 5D-250) , 999.OVERSEAS ELECTORS",General
+268,214,268,"Thiru Kudumbam Tamil Middle School,
+East Building, 1st room from South, (STD I) Caldwell Colony 4th Street","1.Thoothukudi Corporation Amutha Nagar - ward 48 (Door No. After 5D-
+250) , 2.Thoothukudi Corporation Kowsalyapuram - Ward 35 , 999.OVERSEAS ELECTORS",General
+269,214,269,"Bharat Ratna Kamarajar Matriculation
+Hr. Sec. School, Main Block, Room No. 105, Tiruchendur Road, Thoothukudi","1.Thoothukudi Corporation Muniasamypuram 2nd street - ward 46 ,
+2. Thoothukudi Corporation Muniasamypuram West - Ward 46 999.OVERSEAS ELECTORS",General
+270,214,270,"Bharat Ratna Kamarajar Matriculation Hr. Sec. School, Main Block, Room No.
+106, Tiruchendur Road, Thoothukudi","1.Thoothukudi Corporation Bangalow Street (Sivanthakulam) - ward 46 ,
+2.Thoothukudi Corporation Pakkilpuram - ward 46 , 999.OVERSEAS ELECTORS",General
+271,214,271,"Bharat Ratna Kamarajar Matriculation
+Hr. Sec. School, Main Block, 6th Room from East, Tiruchendur Road, Thoothukudi","1.Thoothukudi Corporation Levenchipuram - ward 47 , 2.Thoothukudi
+Corporation Levenchipuram Salt Bangalow Street - ward 46 ,
+3.Thoothukudi Corporation Levenchipuram 2nd Street - ward 47 , 999.OVERSEAS ELECTORS",General
+272,214,272,"Bharat Ratna Kamarajar Matriculation Hr. Sec. School, Main Block, Room No. 107, Tiruchendur Road, Thoothukudi","1.Thoothukudi Corporation Pakkilpuram - Ward 46 , 2.Thoothukudi
+Corporation Sivanthakulam First Street - Ward 47 , 3.Thoothukudi Corporation Sivanthakulam Middle Street - Ward 49 , 4.Thoothukudi Corporation Sivanthakulam Middle Street - Ward 49 , 999.OVERSEAS ELECTORS",General
+273,214,273,"Bharat Ratna Kamarajar Matriculation Hr. Sec. School, Main Block, Room No.
+108, Tiruchendur Road, Thoothukudi","1.Thoothukudi Corporation Levenchipuram 1st Street - Ward 47 (Door No. 1 to 26B) , 999.OVERSEAS ELECTORS",General
+274,214,274,"Bharat Ratna Kamarajar Matriculation
+Hr. Sec. School, Main Block, Room No. 110, Tiruchendur Road, Thoothukudi","1.Thoothukudi Corporation Levenchipuram 1st Street - Ward 47 (Door
+No. Above 26B) 999.OVERSEAS ELECTORS",General
+275,214,275,"DMNS. Dr. Sivanthi Adithanar
+Matriculation Hr.Sec. School, North Building, 3rd room from West, (STD U.K.G. B), V.E Road","1.Thoothukudi Corporation Mela Shanmugapuram 2nd Street - Ward 45 , 999.OVERSEAS ELECTORS",General
+276,214,276,"DMNS. Dr. Sivanthi Adithanar
+Matriculation Hr.Sec. School, North Building, 4th room from West, (STD U.K.G. A), V.E Road","1.Thoothukudi Corporation Melashanmugapuram 1st Street - Ward 45 , 999.OVERSEAS ELECTORS",General
+277,214,277,"Ceena Vana Govt Hr. Sec. School, Main
+Building, West portion, Room No. 3, Devarpuram Road, Thoothukkudi","1.Thoothukudi Corporation V.E.Road - Ward 27 , 999.OVERSEAS ELECTORS",General
+278,214,278,"Ceena Vana Govt Hr. Sec. School, Main Building, West portion, Room No. 2, Devarpuram Road, Thoothukkudi","1.Thoothukudi Corporation Vannar 6th Street - Ward 29 , 2.Thoothukudi Corporation Sivanthakulam Road - Ward 29 , 3.Thoothukudi Corporation Aavudaiyarpuram - Ward 40 , 999.OVERSEAS ELECTORS",General
+279,214,279,"Subbiah Vidhyalayam Girls Hr. Sec.
+School, Annammal Subbiah Nadar Building, North Facing Room, (STD VI D), Devarpuram Road","1.Thoothukudi Corporation Poldenpuram 2nd street - Ward 44 , 999.OVERSEAS ELECTORS",General
+280,214,280,"Subbiah Vidhyalayam Girls Hr. Sec.
+School, Annammal Subbiah Nadar Building, 3rd room from South, (STD VI F), Devarpuram Road","1.Thoothukudi Corporation Poldenpuram 3rd Street - Ward 44 , 999.OVERSEAS ELECTORS",General
+281,214,281,"Subbiah Vidhyalayam Girls Hr. Sec.
+School, Annammal Subbiah Nadar Building, 1st room from West, (STD IX G), Devarpuram Road","1.Thoothukudi Corporation Devarpuram road - Ward 40 , 2.Thoothukudi Corporation Brahmin colony - Ward 40 , 999.OVERSEAS ELECTORS",General
+282,214,282,"Subbiah Vidhyalayam Girls Hr. Sec.
+School, Annammal Subbiah Nadar Building, 2nd room from West, (STD IX H), Devarpuram Road","1.Thoothukudi Corporation Thamothara nagar - Ward 45 (Door No. After 66) , 2.Thoothukudi Corporation Bagampriyal Street - Ward 25 , 999.OVERSEAS ELECTORS",General
+283,214,283,"Subbiah Vidhyalayam Girls Hr. Sec.
+School, Annammal Subbiah Nadar Building, 3rd room from West, (STD VI E), Devarpuram Road","1.Thoothukudi Corporation Thamothara Nagar - Ward 45 (Door No. 1 to 66) , 999.OVERSEAS ELECTORS",General
+284,214,284,"Bharathiyar Vidhyalayam Hr. Sec. School, Main Building (STD X), Devarpuram","1.Thoothukudi Corporation Ramasamypuram - ward 44 , 2.Thoothukudi
+Corporation Ramasamypuram 1st Street - ward 44 , 3.Thoothukudi Corporation Ramasamypuram 2nd Street - ward 44 , 4.Thoothukudi Corporation Ramasamypuram 3rd Street - ward 44 , 999.OVERSEAS
+ELECTORS",General
+285,214,285,"Bharathiyar Vidhyalayam Hr. Sec.
+School, Main Building (STD XI A), Devarpuram","1.Thoothukudi Corporation Sankarapuram - ward 40 , 2.Thoothukudi
+Corporation Sankarapuram 1st Lane - ward 40 , 999.OVERSEAS ELECTORS",General
+286,214,286,"Bharathiyar Vidhyalayam Hr. Sec.
+School, North Building, East portion, 2nd room, Devarpuram","1.Thoothukudi Corporation Poldenpuram 1st Street - ward 44 , 999.OVERSEAS ELECTORS",General
+287,214,287,"Bharathiyar Vidhyalayam Hr. Sec.
+School, North Building, East portion, 1st room, Devarpuram","1.Thoothukudi Corporation Perumalpuram - ward 45 , 999.OVERSEAS ELECTORS",General
+288,214,288,"St. Charles Middle School, South Building, 1st room from West (1st door),
+Subbiahpuram 2nd Street","1.Thoothukudi Corporation Subbiahpuram 1st Street - Ward 44 ,
+2.Thoothukudi Corporation Subbaiahpuram 2nd Street - Ward 44 , 999.OVERSEAS ELECTORS",General
+289,214,289,"St. Charles Middle School, South Building, 2nd room from West (2nd door), Subbiahpuram 2nd Street","1.Thoothukudi Corporation Subbiahpuram 3rd street - ward 44 ,
+2.Thoothukudi Corporation Subbaiahpuram 4th Street - ward 44 ,
+3.Thoothukudi Corporation Subbaiahpuram 5th Street - ward 44 , 999.OVERSEAS ELECTORS",General
+290,214,290,"St. Charles Middle School, South Building, 3rd room from West (3rd door), Subbiahpuram 2nd Street","1.Thoothukudi Corporation Masilamanipuram 1st street - ward 44 ,
+2.Thoothukudi Corporation Masilamanipuram 2nd Street - ward 44 ,
+3.Thoothukudi Corporation Masilamanipuram 3rd Street - ward 44 ,
+4.Thoothukudi Corporation Masilamanipuram 4th Street - ward 44 , 999.OVERSEAS ELECTORS",General
+291,214,291,"Bell Matric. Hr. Sec. School, Eastern
+Building, Doovipuram 4th Street, Thoothukudi","1.Thoothukudi Corporation Doovipuram 5th street - ward 38 ,
+2.Thoothukudi Corporation Doovipuram 6th Street - ward 38 , 999.OVERSEAS ELECTORS",General
+292,214,292,"Bell Matric. Hr. Sec. School, South
+Building, Doovipuram 4th Street Thoothukudi","1.Thoothukudi Corporation Doovipuram 10th Street - Ward 38 ,
+2.Thoothukudi Corporation Doovipuram 11th Street - Ward 38 , 999.OVERSEAS ELECTORS",General
+293,214,293,"Bell Matric. Hr. Sec. School, North Building, 2nd room from West, Doovipuram 4th Street Thoothukudi","1.Thoothukudi Corporation Doovipuram Main Road - Ward 41
+2.Thoothukudi Corporation Mangalapuram-Ward 3
+3.Thoothukudi Corporation Mahilchipuram-Ward 3
+, 999.OVERSEAS ELECTORS",General
+294,214,294,"Corporation Primary School, North Building, West portion 1st room, Doovipuram 11th Street, Thoothukudi","1.Thoothukudi Corporation Ettayapuram Road - Ward 40 ,
+2.Thoothukudi Corporation Jeyaraj road - Ward 38
+3.Thoothukudi Corporation V.V.D.Road - Ward 41
+4.Thoothukudi Corporation Doovipuram 8th Street - Ward 37 , 999.OVERSEAS ELECTORS",General
+295,214,295,"Corporation Primary School, North
+Building, Middle portion room, Doovipuram 11th Street Thoothukudi","1.Thoothukudi Corporation Meenatchipuram East - Ward 40 ,
+2.Thoothukudi Corporation Meenatchipuram West - Ward 40 , 999.OVERSEAS ELECTORS",General
+296,214,296,"Corporation Primary School, South Building, 1st room (Near Staircase),
+Doovipuram 11th Street, Thoothukudi","1.Thoothukudi Corporation Ettayapuram Road - Ward 40 ,
+2.Thoothukudi Corporation Doovipuram 4th Street - Ward 38 , 999.OVERSEAS ELECTORS",General
+297,214,297,"ICDS centre, Sankaranarayanan Park
+Campus, Centre No. 34 (Near Ration
+Shop), Doovipuram 11th Street, Thoothukudi","1.Thoothukudi Corporation Anna Nagar 8 - Ward 37 (Door No. 1 to 40)
+2.Thoothukudi Corporation Housing Board Colony - Ward 41 ,
+3.Thoothukudi Corporation Doovipuram 7th Street - Ward 37 , , 999.OVERSEAS ELECTORS",General
+298,214,298,"ICDS centre, Sankaranarayanan Park
+Campus, Centre No. 35, Doovipuram 11th Street, Thoothukudi","1.Thoothukudi Corporation Anna Nagar 8 - Ward 37 (Door No. After 40) , 999.OVERSEAS ELECTORS",General
+299,214,299,"St. James English School (T.N.D.T.A. Middle School Campus), North portion,
+Doovipuram 2nd Street","1.Thoothukudi Corporation Doovipuram 3rd Street - Ward 41 , 999.OVERSEAS ELECTORS",General
+300,214,300,"St. James English School (T.N.D.T.A. Middle School Campus), South portion,
+Doovipuram 2nd Street","1.Thoothukudi Corporation Anna Nagar 6 - Ward 37 , 999.OVERSEAS ELECTORS",General
+301,214,301,"T.N.D.T.A Middle School, Main Building,
+1st room from North, Doovipuram 2nd Street, Thoothukkudi","1.Thoothukudi Corporation Anna nagar 7 - Ward 37 , 999.OVERSEAS ELECTORS",General
+302,214,302,"T.N.D.T.A Middle School, Main Building,
+Middle portion, Doovipuram 2nd Street, Thoothukkudi","1.Thoothukudi Corporation Doovipuram west 10th street - Ward 37
+2.Thoothukudi Corporation Anna Nagar 10th Street - Ward 37 , 999.OVERSEAS ELECTORS",General
+303,214,303,"T.N.D.T.A Middle School, Main Building, 1st room from South, Doovipuram 2nd Street, Thoothukkudi","1.Thoothukudi Corporation Mani Nagar - Ward 41 , 2.Thoothukudi
+Corporation Doovipuram 9th Street - Ward 38 , 3.Thoothukudi Corporation Annanagar 9th Street North - Ward 37 , 999.OVERSEAS
+ELECTORS",General
+304,214,304,"T.N.D.T.A Middle School, Sathya Daniel
+Hall, East facing room, Doovipuram 2nd Street, Thoothukkudi","1.Thoothukudi Corporation Doovipuram 2nd Street - Ward 41 , 999.OVERSEAS ELECTORS",General
+305,214,305,"T.N.D.T.A Middle School, Sathya Daniel
+Hall, North facing room, Doovipuram 2nd Street, Thoothukkudi","1.Thoothukudi Corporation Anna Nagar 9 - Ward 37 , 2.Thoothukudi
+Corporation Doovipuram West 9th Street - Ward 37 , 999.OVERSEAS ELECTORS",General
+306,214,306,"Crescent Matric. Hr. Sec. School, Main Building, Room No, 4, Chidambaranagar, Thoothukudi","1.Thoothukudi Corporation Chidambara nagar east - Ward 42 ,
+2.Thoothukudi Corporation Chidambara Nagar West - Ward 42 ,
+3.Thoothukudi Corporation Chidambara Nagar South - Ward 42 ,
+4.Thoothukudi Corporation Chidambara Nagar North - Ward 42 ,
+5.Thoothukudi Corporation Chidambara Nagar Main Road - Ward 42 ,
+6.Thoothukudi Corporation Chidambara Nagar 1st Street - Ward 42 , 999.OVERSEAS ELECTORS",General
+307,214,307,"Crescent Matric. Hr. Sec. School, Main Building, Room No 5, Chidambaranagar, Thoothukudi","1.Thoothukudi Corporation Chidambara Nagar Auto Colony - Ward 42 ,
+2.Thoothukudi Corporation Chidambara Nagar 2nd Street -Ward 42 ,
+3.Thoothukudi Corporation Chidambara Nagar 3rd Street - Ward 42 ,
+4.Thoothukudi Corporation Chidambara Nagar 4th Street - Ward 42 ,
+5.Thoothukudi Corporation Chidambara Nagar 5th Street - Ward 42 ,
+6.Thoothukudi Corporation Chidambara Nagar 6th Street - Ward 42 , 999.OVERSEAS ELECTORS",General
+308,214,308,"Crescent Matric. Hr. Sec. School, Main
+Building, Room No 9, Chidambaranagar, Thoothukudi","1.Thoothukudi Corporation Bryant nagar 1st street - Ward 73 ,
+2.Thoothukudi Corporation Bryant Nagar 2nd Street - Ward 43 , 999.OVERSEAS ELECTORS",General
+309,214,309,"Crescent Matric. Hr. Sec. School, Main
+Building, Room No 11, Chidambaranagar, Thoothukudi","1.Thoothukudi Corporation Bryant Nagar 3rd street - Ward 43 ,
+2.Thoothukudi Corporation Bryant Nagar 4th Street - Ward 43 , 999.OVERSEAS ELECTORS",General
+310,214,310,"Crescent Matric. Hr. Sec. School, Main
+Building, Room No 13, Chidambaranagar, Thoothukudi","1.Thoothukudi Corporation Bryant Nagar 5th street - Ward 43 , 999.OVERSEAS ELECTORS",General
+311,214,311,"T.N.D.T.A Primary School, East Building North Portion, Bryant Nagar 7th Street,
+Thoothukudi","1.Thoothukudi Corporation Bryant nagar 10th street middle - Ward 43 , 999.OVERSEAS ELECTORS",General
+312,214,312,"T.N.D.T.A Primary School, East Building, South Portion, Bryant Nagar 7th Street,
+Thoothukudi","1.Thoothukudi Corporation Bryant Nagar 11th Street - Ward 47 , 999.OVERSEAS ELECTORS",General
+313,214,313,"T.N.D.T.A Primary School, West
+Building, North portion, Bryant Nagar 7th Street, Thoothukudi","1.Thoothukudi Corporation Bryant Nagar 7th Street - Ward 43 (Door No. 1 to 30) , 999.OVERSEAS ELECTORS",General
+314,214,314,"T.N.D.T.A Primary School, West
+Building, Middle portion, Bryant Nagar 7th Street, Thoothukudi","1.Thoothukudi Corporation Bryant Nagar 7th Street - Ward 43 (Door No. After 30) , 999.OVERSEAS ELECTORS",General
+315,214,315,"T.N.D.T.A Primary School, West Building, South Portion, Bryant Nagar
+7th Street, Thoothukudi","1.Thoothukudi Corporation Bryant nagar 8th street - Ward 43 , 999.OVERSEAS ELECTORS",General
+316,214,316,"Good Shepherd Hr. Sec. School for
+Hearing Impaired, South Middle Building, East Portion, Bryant Nagar 3rd Street (East)","1.Thoothukudi Corporation Bryant Nagar 9th Street - Ward 43 , 999.OVERSEAS ELECTORS",General
+317,214,317,"Good Shepherd Hr. Sec. School for
+Hearing Impaired, South Middle Building, West Portion, Bryant Nagar 3rd Street (East)","1.Thoothukudi Corporation Bryant Nagar 6th Street - Ward 43 , 999.OVERSEAS ELECTORS",General
+318,214,318,"Good Shepherd Hr. Sec. School for Hearing Impaired, Good Shepherd Home Block, Bryant Nagar 3rd Street (East)","1.Thoothukudi Corporation Bryant Nagar Amman Koil Main - Ward 42 ,
+2.Thoothukudi Corporation Bryant Nagar Amman Kovil Lane - Ward 42 , 999.OVERSEAS ELECTORS",General
+319,214,319,"ICDS Centre No. 42, West portion (Corporation Primary School campus), Levengipuram, Thoothukudi","1.Thoothukudi Corporation Muniasamypuram Extension 1 - Ward 46 ,
+2.Thoothukudi Corporation Ambedhkar Colony - Ward 46 ,
+3.Thoothukudi Corporation Muniyasamypuram Extension 3 - Ward 46 ,
+4.Thoothukudi Corporation Kamarajar Road - Ward 46 , 999.OVERSEAS ELECTORS",General
+320,214,320,"ICDS Centre No. 44, East portion (Corporation Primary School campus),
+Levengipuram, Thoothukudi","1.Thoothukudi Corporation Sudalai Colony - Ward 46 , 2.Thoothukudi Corporation Muniyasamypuram 2 - Ward 46 , 999.OVERSEAS ELECTORS",General
+321,214,321,"Corporation Primary School, North Building, 2nd room from west, Levengipuram, Thoothukkudi","1.Thoothukudi Corporation Sivanthakualam 1st street - Ward 47 ,
+2.Thoothukudi Corporation Sivanthakulam 2nd Street - Ward 47 ,
+3.Thoothukudi Corporation Muniasamypuram 1st Street Extension - Ward 46 , 999.OVERSEAS ELECTORS",General
+322,214,322,"Corporation Primary School, North Building, 3rd room from west, Levengipuram, Thoothukkudi","1.Thoothukudi Corporation Muniasamypuram 2nd Street Extension-
+Ward -46 , 2.Thoothukudi Corporation Muniasamypuram 3rd Street Extension - Ward 46 , 3.Thoothukudi Corporation Muniasamypuram 1st Street -Ward-47 , 4.Thoothukudi Corporation Muniasamypuram 2nd Street - Ward-46 , 999.OVERSEAS ELECTORS",General
+323,214,323,"Corporation Primary School, East Building, North portion, Levenchipuram,
+Thoothukudi","1.Thoothukudi Corporation Bryant nagar 12th street - ward 47 (Door No. 1 to 78) , 999.OVERSEAS ELECTORS",General
+324,214,324,"Corporation Primary School, East Building, South portion, Levenchipuram,
+Thoothukudi","1.Thoothukudi Corporation Bryant nagar 12th street - ward 47 (Door No. Above 78) , 2.Thoothukudi Corporation SivanthaKulam - 1 - ward 47 ,
+999.OVERSEAS ELECTORS",General
+325,214,325,"Corporation Primary School, 2nd room
+from South, Veeranaickanthattu","1.Thoothukudi Corporation Veeranaickanthattu - ward 51 ,
+999.OVERSEAS ELECTORS",General
+326,214,326,"Special Training Centre for disabled
+children, J.S. Nagar, Muthiahpuram","1.Thoothukudi Corporation Sundar Nagar Block 4 - ward 54 (Door No.
+From 1 to 4-210-4) , 999.OVERSEAS ELECTORS",General
+327,214,327,"Corporation Primary School, New Building, 2nd Room from East,
+J.S.Nagar, Muthiahpuram","1.Thoothukudi Corporation Sundar Nagar Block 4 - ward 54 (Door No. From 4-210-5 to Last) , 999.OVERSEAS ELECTORS",General
+328,214,328,"Corporation Primary School, New Building, 1st Room from west,
+J.S.Nagar, Muthiahpuram","1.Thoothukudi Corporation Sundaram nagar - ward 54 (Door No. 1 to 4-210) , 999.OVERSEAS ELECTORS",General
+329,214,329,"Community Hall, West portion
+J.S.Nagar, Muthiahpuram","1.Thoothukudi Corporation Sundaram nagar - ward 54 (Door No. After 4-
+210) , 999.OVERSEAS ELECTORS",General
+330,214,330,"Govt. High School, North building, East Portion, Pottalkadu","1.Mullakkadu Part 2 (R.V) And (P) Pottalkadu North Street ,
+2.Mullakkadu Part 2 (R.V) And (P) Pottalkadu South Street ,
+3.Mullakkadu Part 2 (R.V) And (P) Pottalkadu Amman Kovil Street ,
+4.Mullakkadu Part 2 (R.V) And (P) Pottalkadu Nesamani Nagar ,
+5.Mullakkadu Part 2 (R.V) And (P) Mullakadu West Street , 999.OVERSEAS ELECTORS",General
+331,214,331,"T.N.D.T.A MIddle School, South BuildingMullakadu","1.Mullakkadu Part 2 (R.V) And (P) North street , 2.Mullakkadu Part 2 (R.V) And (P) West Street , 3.Mullakkadu Part 2 (R.V) ANd (P) Meenavar
+Colony , 999.OVERSEAS ELECTORS",General
+332,214,332,"Govt. Hr Sec. School, Arignar Anna
+Centenary Memorial Building, 1st room from East M.Thangammalpuram","1.Thoothukudi Corporation M. Thangammalpuram - ward 54 , 999.OVERSEAS ELECTORS",General
+333,214,333,"Govt Hr Sec School West Building, 1st room from South, M. Thangammalpuram","1.Thoothukudi Corporation Harbour Construction Road - ward 52 ,
+2.Thoothukudi Corporation Shunmugapuram - ward 54 , 3.Thoothukudi Corporation Soosai Nagar - ward 52 , 999.OVERSEAS ELECTORS",General
+334,214,334,"A.V.S.Primary School, West Building, 1st
+room from North, Muthiahpuram","1.Thoothukudi Corporation Ayyan kovil street - ward 52 (Door No. 1 to 4-
+84-50) , 999.OVERSEAS ELECTORS",General
+335,214,335,"A.V.S.Primary School, West Building,
+2nd room from North, Muthiahpuram","1.Thoothukudi Corporation Ayyan kovil street - ward 52 (Door No. 4-84-
+51 to 4-143) , 999.OVERSEAS ELECTORS",General
+336,214,336,"A.V.S. Primary School, Main building,
+1st room from North, Muthiahpuram","1.Thoothukudi Corporation Ayyan kovil street - ward 52 (Door No. After 4-
+144) , 999.OVERSEAS ELECTORS",General
+337,214,337,"A.V.S. Primary School, Main building, 2nd room from North, Muthiahpuram","1.Thoothukudi Corporation Ayyan kovil street - ward 52 (Door No. 1 to 4-
+75B) ,
+999.OVERSEAS ELECTORS",General
+338,214,338,"A.V.S. Primary School, Main building,
+1st room from South, Muthiahpuram","1.Thoothukudi Corporation Ayyan kovil street - ward 52 (Door No. After 4-
+75B) , 999.OVERSEAS ELECTORS",General
+339,214,339,"Chandy Matric Hr.Sec. School, East Building, Room No. 2 North Street,
+Muthiahpuram","1.Thoothukudi Corporation Thoppu Street - ward 52 , 2.Thoothukudi Corporation South Street - ward 52 , 999.OVERSEAS ELECTORS",General
+340,214,340,"Chandy Matric Hr.Sec. School, East Building, Room No. 4, North Street,
+Muthiahpuram","1.Thoothukudi Corporation North Street Block 2 - ward 53 , 999.OVERSEAS ELECTORS",General
+341,214,341,"K.T. Kosalram High School, P.V.
+Muthiah Memorial Block, 1st room from West, (1st door), Muthiahpuram","1.Thoothukudi Corporation East Street - ward 52 (Door No. 1 to 1-79-14)
+, 999.OVERSEAS ELECTORS",General
+342,214,342,"K.T. Kosalram High School, P.V.
+Muthiah Memorial Block, 3rd room from West, (3rd door), Muthiahpuram","1.Thoothukudi Corporation East Street - ward 52 (Door No. After 1-79-14)
+, 999.OVERSEAS ELECTORS",General
+343,214,343,"K.T. Kosalram High School, North East Building, 1st room from East,
+Muthiahpuram","1.Thoothukudi Corporation Muslim Street - ward 52 , 999.OVERSEAS ELECTORS",General
+344,214,344,"K.T. Kosalram High School, South Building West Portion Muthiahpuram","1.Thoothukudi Corporation Kaliamman Koil Street - ward 52 (Door No. 1 to 3-500) ,
+999.OVERSEAS ELECTORS",General
+345,214,345,"K.T. Kosalram High School, South Building East Portion Muthiahpuram","1.Thoothukudi Corporation Kaliamman Koil Street - ward 52 (Door No.
+After 3-500) , 999.OVERSEAS ELECTORS",General
+346,214,346,"Spic Nagar Hr. Sec. School, East building, Room No 3, Spic Nagar, Muthiahpuram","1.Thoothukudi Corporation Spic Nagar Sector O - ward 54 ,
+2.Thoothukudi Corporation Spic Nagar B Sector - ward 54 ,
+3.Thoothukudi Corporation Spic Nagar C Sector - ward 54 ,
+4.Thoothukudi Corporation Spic Nagar Sector A - ward 54 ,
+5.Thoothukudi Corporation Spic Nagar Sector D - ward 54 , 999.OVERSEAS ELECTORS",General
+347,214,347,"Spic Nagar Hr, Sec School, East building, Room No 5, Spic Nagar, Muthiahpuram","1.Thoothukudi Corporation Spic Nagar D Sector - ward 54 ,
+2.Thoothukudi Corporation Tac Nagar - ward 59
+3.Thoothukudi Corporation Spic Nagar G Sector - ward 54 , , 999.OVERSEAS ELECTORS",General
+348,214,348,"St.Thomas Nursery and Primary School,
+East portion, 1st room from West, Thermal Nagar","1.Thoothukudi Corporation Camp 2 Sector 1 - ward 53 , 999.OVERSEAS ELECTORS",General
+349,214,349,"St.Thomas Nursery and Primary School, 2nd room from West, Thermal Nagar","1.Thoothukudi Corporation Camp 2 Sector 2 - ward 53 , 2.Thoothukudi Corporation Pearl City - ward 51 , 999.OVERSEAS ELECTORS",General
+350,214,350,"St.Thomas Nursery and Primary School, 3rd room from West, Thermal Nagar","1.Thoothukudi Corporation Thermal Power Station Housing Board Type 2 Sector G - ward 53 , 2.Thoothukudi Corporation Thermal Power Station Housing Board Type 2 Sector 1 - ward 53 , 999.OVERSEAS ELECTORS",General
+351,214,351,"St.Thomas Nursery and Primary School, 2nd room from East, Thermal Nagar","1.Thoothukudi Corporation Thermal Power Station Housing Board Type 2 Sector 2 - ward 53 , 2.Thoothukudi Corporation Thermal Power Station Housing Board Type 2 Sector 3 - ward 53 , 3.Thoothukudi Corporation Thermal Power Station Housing Board Type 2 Sector 4 - ward 53 ,
+4.Thoothukudi Corporation Pandukarai West - ward 53 , 5.Thoothukudi Corporation Pandukarai East - ward 53 , 999.OVERSEAS ELECTORS",General
+352,214,352,"Thoothukudi Panchayat Union Middle School, South Building, 1st room from
+West, Thermal Nagar","1.Thoothukudi Corporation Kadher Meeran Nagar Block 1 - ward 51 , 999.OVERSEAS ELECTORS",General
+353,214,353,"Thoothukudi Panchayat Union Middle
+School, South Building, 2nd room from West, Thermal Nagar","1.Thoothukudi Corporation Koilpillai Nagar Block 2 - ward 51 , 999.OVERSEAS ELECTORS",General
+354,214,354,"A.V.S. Primary School, 2nd room from West, Thermal Nagar","1.Thoothukudi Corporation Camp 1 Type DG 43 - Ward 53 ,
+2.Thoothukudi Corporation Camp 1 Type 1 - Ward 53 , 3.Thoothukudi Corporation Camp 1 Type 2 - Ward 53 , 4.Thoothukudi Corporation Camp 1 Type 3 - Ward 53 , 5.Thoothukudi Corporation Camp 1 Type 4 - Ward 53 , 6.Thoothukudi Corporation Camp 1 Type 4F - ward 53 ,
+7.Thoothukudi Corporation Camp 1 MG Type - Ward 53 , 999.OVERSEAS
+ELECTORS",General
+355,214,355,"A.V.S. Primary School, 3rd room from
+West, Thermal Nagar","1.Thoothukudi Corporation Thermal Nagar Camp 1 - Ward 53 ,
+999.OVERSEAS ELECTORS",General
+356,214,356,"A.V.S.Primary School, East portion 2nd
+room, Thermal Nagar,","1.Thoothukudi Corporation Thermal Nagar Camp1 Type 1 - Ward 53 ,
+999.OVERSEAS ELECTORS",General
+357,214,357,"J.I.Coilpillai Memorial Hr. Sec. School, East portion, Room No 15, New Harbour","1.Thoothukudi Corporation Bharathi Nagar Shoping Complex, Post Office Complex - Ward 60 , 2.Thoothukudi Corporation New Harbour MVA Quarters, CIS Quarters - Ward 60 , 3.Thoothukudi Corporation Type 2 Harbour Housing Board -Ward 60 , 4.Thoothukudi Corporation Harbour Housing Board Customs Quarters - Ward 60 , 999.OVERSEAS ELECTORS",General
+358,214,358,"J.I.Coilpillai Memorial Hr. Sec. School,
+East portion, Room No 16, New Harbour","1.Thoothukudi Corporation Bharathi Nagar Type 1, 2, 3, 4 - Ward 60 ,
+999.OVERSEAS ELECTORS",General
+359,214,359,"J.I.Coilpillai Memorial Hr. Sec. School, West Portion, Room No. 19, New Harbour","1.Thoothukudi Corporation Temporary Fishermens Quarters - Ward 60 ,
+2.Thoothukudi Corporation New Harbour -Ward 60 , 3.Thoothukudi Corporation Railway colony - Ward 60 , 999.OVERSEAS ELECTORS",General
+360,214,360,"J.I.Coilpillai Memorial Hr. Sec. School, West Portion, Room No. 21, New Harbour","1.Thoothukudi Corporation New Harbour Quarters Block 1 - Ward 60 ,
+2.Thoothukudi Corporation New Harbour Side Temporary Quarters - Ward 60 , 3.Thoothukudi Corporation Bharathi Nagar Kovil Street - Ward 60 , 4.Thoothukudi Corporation Bharathi Nagar Pillaiyar Kovil - Ward 60
+, 999.OVERSEAS ELECTORS",General

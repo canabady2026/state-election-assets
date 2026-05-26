@@ -1,0 +1,840 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+1,87,1,,"Panchayat Union Middle School,Ponnampallayam-637107, Terraced Building Facing East North Portion,Room No 1","1.Konaripatty Agraharam (P), Koneripatty, Koneripattykattuvalauv,Thoppukkadu, Poochamarathukkadu, 2.Konaripatty Agraharam (P), Karuma street, kaveripurathan street, meyyastreet,
+3.Konaripatty Agraharam (P), Karadikaran street, Kullayan street ward 1"
+2,87,2,,"Panchayat Union Middle School,Ponnampallayam-637107, Terraced Building Facing East, South Portion,Room No 2","1.Konaripatty agraharam (p), Ponnampalayam kovundan street ward 2, 2.Konaripatty Agraharam (P), Kutayan street ward 2,
+3.Konaripatty Agraharam (P), Athimarathukadu ward 2, 4.Konaripatty Agraharam (P), Sengankathattiur ward 2, 5.Konaripatty Agraharam (P), Senganur ward 2"
+3,87,3,,"Panchayat Union Middle School,Ponnampallayam-637107, Terraced Building Facing South, East Portion,Room No 3","1.Konaripatty agraharam (p), Ponnampalayam kovundan street ward 2, 2.Konaripatty Agraharam (P), Kutayan street ward 2,
+3.Konaripatty Agraharam (P), Athimarathukadu ward 2, 4.Konaripatty Agraharam (P), Sengankathattiur ward 2, 5.Konaripatty Agraharam (P), Senganur ward 2"
+4,87,4,,"Panchayat Union Elementary School,Kalvadangam - 637107, Terraced Building Facing South,Room No 1","1.Konaripatty agraharam (p), Mettangadu ward 4, 2.Konaripatty Agraharam (P), Kalvadangam Ward-4"
+5,87,5,,"Panchayat Union Elementary School,Thannithasanur - 637107, Tiled Building Facing North East
+Portion,Room No 1","1.Kaveripatty (p), Thaneerthasanure kattuvallavu ward 1"
+6,87,6,,"Panchayat Union Elementary School,Thannithasanur - 637107, Tiled Building Facing North West Portion,Room No 2","1.Kaveripatty (P), Vathan kadu ward 1, 2.Kaveripatty (P), Senganure ward 1,
+3.Kaveripatty (P), Ponampalayam kattuvallavue ward,
+4.Kaveripatty (P), Mattur ward 1"
+7,87,7,,"Panchayat Union Elementary School,Mottur -637107, Terraced Building Facing North, west Portion,Room
+No 1","1.Kaveripatty (P), Arthanari kottai ward3, 2.Kaveripatty (P), Adithravidar street ward 3,
+3.Kaveripatty (P), Keel mattur ward 3"
+8,87,8,,"Panchayat Union Middle School,Okkilipatty -637107, Terraced Building East Facing, Middle Portion,Room
+No 2","1.Kaveripatty (P), Okkililpatty ward 2, 2.Kaveripatty (P), Okkililpatty kattuvalavu ward 2"
+9,87,9,,"Panchayat Union Middle School,Vatrampallayam - 637107, Terraced Building Facing West North
+portion,Room No 1","1.Kaveripatty (p), Nathakkakdu ward 4, 2.Kaveripatty (P), Senrayanur ward 4,
+3.Kaveripatty (P), Arunthathiar colony ward 4"
+10,87,10,,"Panchayat Union Middle School,Vatrampallayam - 637104, SSA,Terraced Building South Facing Room,
+East Portion.","1.Kaveripatti (p), Vatrampalayam ward 4"
+11,87,11,,"Panchayat Union Middle School,Vatrampallayam - 637104, SSA,Terraced Building South Facing West
+Portion.","1.Kaveripatti (p), Vatrampalayam ward 4"
+12,87,12,,"Panchayat Union Middle School,Kaveripatty -637104, Terraced Building Facing East Head Master
+room,Room No 7","1.Kaveripatty Agraharam (P), Kaverilpatty ward 1, 2.Kaveripatty Agraharam (P), Palayur ward 1,
+3.Kaveripatty Agraharam (P), Chakravalli karadu ward 1"
+13,87,13,,"Panchayat Union Middle School,Kaveripatty -637104, (SSA) Terraced Building Facing West 8Th std Class room,Room No 2","1.Kaveripatty Agraharam (P), Kaverilpatty kattu vallavu ward 1 and 2, 2.Kaveripatty Agraharam (P), Vattakattukottai ward 2,
+3.Kaveripatty Agraharam (P), Chettiyar thottam ward 2"
+14,87,14,,"Panchayat Union Elementary School,Mettupallayam - 637104, Terraced Building Facing North East
+Wing,Room No 1","1.Kaveripatty Agraharam (P), Kaveripatty Agraharam ward 2 and , 2.Kaveripatty Agraharam (P), K.Mattupalayam ward 3,
+3.Kaveripatty Agraharam (P), Veppamarathu kottai ward 3"
+15,87,15,,"Panchayat Union Elementary School,Mettupallayam -
+637104, Terraced Building Facing North West Wing,Room No 2","1.Kaveripatty Agraharam (P), Mattupalayam kattuvallavu ward 4,
+2.Kaveripatty Agraharam (P), Kundan street ward 4, 3.Kaveripatty Agraharam (P), Vellapilla kovil ward 4"
+16,87,16,,"Panchayat Union Middle School,Kaveripatty -637104, (SSA) Terraced Building Facing West North
+Portion,Room No 6","1.Koneripatty (P), Mettupalayam arunthathiar street ward1, 2.Koneripatty (P), Kaveripattyputhur ward 1"
+17,87,17,,"Panchayat Union Middle School,Kaveripatty -637104, (SSA) Terraced Building Facing West - 7th Standard Class Room,Room No 4","1.Kaveripatty (P), Kaveripatty puthur ward 8, 2.Kaveripatty (P), Nallaengiur ward 2, 3.Kaveripatty (P), Nallangiur, rettilpalayam ward 2,
+4.Kaveripatty (P), Kaveripatty sivampadastreet ward 8,
+5.Kaveripatty (P), Vatarampalayam ward 2"
+18,87,18,,"Panchayat Union Middle School,Kaikollapallayam - 637104, Terraced Building Facing West North
+Portion,Room No 1","1.Koneripatty (p), Kaikollapalayam ward 3"
+19,87,19,,"Panchayat Union Middle School,Kaikollapallayam - 637104, Terraced Building Facing West North
+Wing,Room No 2","1.Koneripatty (p), Kaikollapalayam ward 3, 2.Koneripatty (P), Solagoundenur ward 4"
+20,87,20,,"Panchayat Union Elementary School,Vellalapallayam Koneripatti -637104, J.V.V.T-Terraced Building Facing East , South Portion,Room No 1","1.Konaipatty (p), Pavirsam palayam arunthathiar street ward 5, 2.Konaipatty (P), Vellalapalayam ward 6,
+3.Konaipatty (P), Vellalapalayam kattuvalavu ward 6"
+21,87,21,,"Panchayat Union Elementary School,Vellalapallayam - 637104, Tiled Building Facing South East Portion,Room No 2","1.Konaipatty (P), Pavirusampalayam ward 7, 2.Koneripatty (P), Kaveripatty, ward 7,
+3.Konaipatty (P), Vellalayam palayam north ward 7,
+4.Konaipatty (P), Adithravidar street ward 7"
+22,87,22,,"Panchayat Union Elementary School, Thevur -637104, Steel Roof Building Facing North, East Portion.","1.Theavur (s.p), Perumachipalayam ward 1,
+2.Theavur (S.P), Konakalthanur ward 1,
+3.Theavur (S.P), Vatta perumal kadu ward 2,
+4.Theavur (S.P), Konaklathanur kattu valavu ward 2"
+23,87,23,,"Panchayat Union Elementary School, Thevur -637104, Steel Roof Building Facing North, West Portion.","1.Theavur (s.p), Kullar street, kothukara suburayakavundar street,
+2.Theavur (S.P), Kullarstreet ward 5"
+24,87,24,,"Government Higher Secondary School,Thevur - 637104, Terraced Building South Facing, West
+portion,Room No 4","1.Theavur (s.p), Myllampatty mettukadai ward 6,
+2.Theavur (S.P), Theavur mettukadai ward 7"
+25,87,25,,"Government Higher Secondary School,Thevur - 637104, Terraced Building Facing west, North portion.X11-A Class Room.,Room No 10","1.Theavur (S.P), Chinna maryamman kovil street ward 4,
+2.Theavur (S.P), Sengachi kovil street ward 4,
+3.Theavur (S.P), Veeramathi kovil street ward 4,
+4.Theavur (S.P), Ammapalayam arisanastreet ward 8,
+5.Theavur (S.P), Ammapalayam kovundar street ward 9,
+6.Theavur (S.P), Ammapalayam kattu vallavu ward .9,
+7.Theavur (S.P), Ammapalayam vaikal road ward 9"
+26,87,26,,"Government Higher Secondary School,Thevur - 637104, Terraced Building Facing North East portion,Room No 5","1.Theavur (S.P), Palluthukadu kavundar street ward 9,
+2.Theavur (S.P), Palluthukadu arisanastreet ward 9,
+3.Theavur (S.P), Palluthukadu kattu vallavu ward 9,
+4.Theavur (S.P), Theavur devarier ward 10,
+5.Theavur (S.P), Theavur kudistreet ward 10,
+6.Theavur (S.P), Theavur Bangalastreet ward 10,
+7.Theavur (S.P), Theavur Vinayagar kovil street ward 10,
+8.Theavur (S.P), Theavur Boyerstreet ward 10,"
+27,87,27,,"Government Higher Secondary School,Thevur - 637104, Terraced Building Facing North West portion,Room No 7","1.Theavur (S.P), Theavur pannadistreet ward 11,
+2.Theavur (S.P), Theavur Arijana street ward 11,
+3.Theavur (S.P), Theavur arunthathiar street ward 11,
+4.Theavur (S.P), Theavur Ayyarthottam ward 11,
+5.Theavur (S.P), Kallikyankadu ward 12"
+28,87,28,,"Panchayat Union Elementary School,Kaniyalampatty - 637104, Tiled Building Facing East North Portion,Room No 13","1.Theavur (S.P), Puthuppalayam Asaripattarai ward 12,
+2.Theavur (S.P), Puthulpalayam kudistreet ward 12,
+3.Theavur (S.P), Puthupalayam arunthathiar street ward 13,
+4.Theavur (S.P), Puthupallayam indranagar ward 13,
+5.Theavur (S.P), Puthupalayam Sanagadu vattaram ward 13,
+6.Theavur (S.P), Karichikadu ward 14,
+7.Theavur (S.P), Kuttakadu ward 14"
+29,87,29,,"Panchayat Union Elementary School,Kaniyalapatty - 637104, Tiled Building Facing East South Wing ,Room No 14","1.Theavur (S.P), Kallankattuvallasu ward 14,
+2.Theavur (S.P), Kaniyallampatty ward 14,
+3.Theavur (S.P), Ammakkadu ward 14,
+4.Theavur (S.P), Kaniyalampatty kudistreet ward 14,
+5.Theavur (S.P), Kaniyalampatty south vattaram ward 15,
+6.Theavur (S.P), Annammarkovil street ward 15"
+30,87,30,,"Panchayat Union Elementary School, Marigoundankadu -637101, Terraced Building Facing
+East North Portion","1.Arasiramani (s.p), Kunjampalayam ward 1, 2.Arasiramani (S.P), Savikavundan kadu ward 1,"
+31,87,31,,"Panchayat Union Elementary School-Marigoundankadu-637101, Terraced Building Facing East, South Portion","1.Arasiramani (S.P), Mariyamman kovil street ward 1, 2.Arasiramani (S.P), Mottayan kadu ward 1, 3.Arasiramani (S.P), Marikovundan kadu ward 2,
+4.Arasiramani (S.P), Mattukattu valavu ward 2"
+32,87,32,,"Government High School,Kullampatty -637101, South side Terraced Building Facing East, Middle
+Portion,Room No 12","1.Arasiramani kullampatti (s.p), Kannamuchian Kadu ward 2,"
+33,87,33,,"Government High School,Kullampatty -637101, South side Terraced Building Facing East, North Portion","1.Arasiramani Kullampatti(S.P), Palakkarankadu ward 3, 2.Arasiramani Kullampatti (S.P), Aathukadu ward 3, 3.Arasiramani Kullampatti (S.P), New Adidravidar Street ward 2,
+4.Arasiramani Kullampatti(S.P), Gandhi Nagar ward 3"
+34,87,34,,"Panchayat Union Elementary School,Kullampatty Arasiramani -637101, Terraced Building West Facing,
+South side.","1.Arasiramani kullampatti(s.p), A. mettupalayam ward 14, 2.Arasiramani Kullampatti (S.P), Aathukadu ward 3"
+35,87,35,,"Panchayat Union Elementary School,Kullampatty - 637101, Tiled Building Facing East South portion,Room No 5","1.Arasiramani (S.P), Pattakaranur ward 15, 2.Arsiramani (S.P), Kattagoundanur ward 15, 3.Arasiramani (S.P), Poolankaduward 15,
+4.Arasiramani (S.P), Kunjampalayam, Molagoundar Street"
+36,87,36,,"Panchayat Union Elementary School,Kullampatty - 637101, Tiled Building Facing East North Portion,Room No 4","1.Arasiramani (S.P), Kullampatty moopan kattuvalavu ward 12, 2.Arasiramani (S.P, Edappadiyan kadu ward 12,
+3.Arasiramani (S.P, Old adithravidar street ward 12, 4.Arasiramani (S.P, Kullampatty East street ward 12,
+5.Arasiramani (S.P, Kullampatty mariyamman kovil street ward 12, 6.Arasiramani (S.P, Kullampatty vellivasal street ward 12,
+7.Arasiramani (S.P, Kullampatty mellatheru ward 12"
+37,87,37,,"Panchayat Union Elementary School,Kullampatty Arasiramani -637101, Terraced Building Facing West South portion,Room No 2","1.Arasiramani (S.P, Thunndukadu ward 13, 2.Arasiramani (s.p, Iyyannan kadu ward 13,
+3.Arasiramani (S.P, Periyamariyamman kovil street ward 13, 4.Arasiramani (S.P, Kuthadi kuppanan kadu ward 13, 5.Arasiramani (S.P, Karuppannan kadu ward 13, 6.Arasiramani (S.P, Thasan kadu ward 14,
+7.Arasiramani (S.P, Edappadiyan kadu ward 12"
+38,87,38,,"Panchayat Union Elementary School,Malaimariyamman colony-637101, Terreced Building North Facing West Portion,Room No 2","1.Arasiramani (s.p, Nanjai kattu vallavu ward 1,3, 2.Arasiramani (S.P, Akkaraipatarai ward 3, 3.Arasiramani (S.P, Mallangadu ward 4"
+39,87,39,,"Panchayat Union Middle School,Olapalayam -637101, Terraced Building Facing West Middle Portion,Room No 2","1.Arasiramani (S.P, Ollapalayam kattuvalavu ward 4, 2.Arasiramani (S.P, West ollappalayam ward 5, 3.Arasiramani (S.P, East ollapalayam ward 5, 4.Arasiramani (S.P, Maniyankadu ward 3,
+5.Arasiramani (S.P, Pulliyampatty ward 5"
+40,87,40,,"Panchayat Union Elementary School,Kallapalayam - 637101, Terraced Building Facing West North Portion,Room No 1","1.Arasiramani (S.P, Selathan kadu ward 6,
+2.Arasiramani (S.P, Kallampalayam arunthathiar street wardk6, 3.Arasiramani (S.P, Kallampalayam ward 6,
+4.Arasiramani (S.P, Kallampalayam puthur ward 6, 5.Arasiramani (S.P, Kurukkuparaiur ward 8, 6.Arasiramani (S.P, Vairampalanikattu vallavu ward 8, 7.Arasiramani (S.P, Chinnampalayam kanjikadu ward 8,"
+41,87,41,,"Panchayat Union Elementary School,Ellapallayam - 637101, Asbestos Building Facing East South Portion,Room No 1","1.Arasiramani (S.P, Ellappalayam ward 7, 2.Arasiramani (S.P, Pachapalliur ward 7,
+3.Arasiramani (S.P, Keelkarattupalayam arunthathiar street ward 7, 4.Arasiramani (S.P, keelkarattupalayam ward 7,
+5.Arasiramani (S.P, Malakarattupalayam ward 7"
+42,87,42,,"Government Higher Secondary School,Chettipatty - 637101, Terraced Building Facing East Middle Portion
+Room No.3","1.Arasiramani (S.P, Odasal kuttai ward 8, 2.Arasiramani (S.P, Chettipatty south kadu ward 8,
+3.Arasiramani (S.P, Nachammal kattuvallavu ward 9"
+43,87,43,,"Government Higher Secondary School,Chettipatty - 637101, Terraced Building Facing East,North Portion,Room No 4","1.Arasiramani (S.P, Ponnusamuthiram Earikattu vallavu ward 9, 2.Arasiramani (S.P, Mangai kattu vallavu ward 9, 3.Arasiramani (S.P, Illupai kuttai kadu ward 9,
+4.Arasiramani (S.P, Odasal kuttai ward 9"
+44,87,44,,"Panchayat Union Primary School,Chettipatty -637101, Terraced Building East Facing , North Portion,Room No 6","1.Arasiramani (S.P, Karungal vayal ward 10, 2.Arasiramani (S.P, Kottaikadu ward 10, 3.Arasiramani (S.P, Thaillan kadu ward 10, 4.Arasiramani (S.P, Adaikan kadu ward 10, 5.Arasiramani (S.P, Karupana kovil kadu ward 10,
+6.Arasiramani (S.P, Vanniyar street ward 10"
+45,87,45,,"Panchayat Union Elementary School,Chettipatty - 637101, Terraced Building East Facing , North Portion,Room No 4","1.Arasiramani (S.P, Settipatty nadar street ward 11, 2.Arasiramani (S.P, Settipatyy north street ward 11, 3.Arasiramani (S.P, Akkarai kadu ward 11, 4.Arasiramani (S.P, Settipatty vanniyar street ward 10, 5.Arasiramani (S.P, Nadar street ward 11,
+6.Arasiramani (S.P, Settipatty ward 11"
+46,87,46,,"Panchayat Union Elementary School,Puttamanai Malangadu -637301, Tiled Building Facing North, East portion,Room No 2","1.Devana kavundanur (P), Puttamanaimalangadu ward 5,
+2.Devana kavundanur (P), Serapliyankadu malangadu ward 5,
+3.Devana kavundanur (P), Nandukaran vallavu malankattu ward 5,
+4.Devana kavundanur (P), Thottipallikatu malangadu ward 5"
+47,87,47,,"Panchayat Union Elementary School,Puttamanai Malangadu -637301, Tiled Building Facing North West Portion,Room No 3","1.Devana kavundanur (P), Manju pallam malankadu ward 5,
+2.Devana kavundanur (P), Sarilparaikadu malangadu ward 5,
+3.Devana kavundanur (P), Soriyankadu malangadu ward 5,
+4.Devana kavundanur (P), Vannamparaikadu malangadu ward 5"
+48,87,48,,"Panchayat Union Middle School,Chettikadu -637301, Terraced Building Facing West, Middle Portion.,Room No 5","1.Devana kavundanur (P), Chinnparappanpallam malangattu ward 5,
+2.Devana kavundanur (P), Neerpallikadu malangadu ward 5,
+3.Devana kavundanur (P), Koorapallikadu malangadu ward 5,
+4.Devana kavundanur (P), Settikadu malangadu ward 5,
+5.Devana kavundanur (P), Vellutruperumal kovil kadu ward 5,
+6.Devana kavundanur (P), Vavuthukadu malangadu ward 5"
+49,87,49,,"Panchayat Union Elementary School,Sunnambukuttai - 637301, Terraced Building Facing West North Portion,Room No 2","1.Devana kavundanur (P), Marimuthan kadu, nadarcolony, Sunnambukuttai ,
+2.Devana kavundanur (P), Jamakkalangadu(Kallikadai), Northkadu, mettukadu,
+3.Devana kavundanur (P), Kollangadu, Sivabalimadu ward 2"
+50,87,50,,"Panchayat Union Middle School,Manjakkalpatty - 637301, Tiled Building Facing East South
+Portion,Room No 1","1.Devanna Goundanur (P), Manjakkalpatti ward 1,
+2.Devana kavundanur (P), Vellamarathukadu, keelkalkadu ward 1"
+51,87,51,,"Panchayat Union Elementary School,Paraiyankattanur 637301, Terraced Building Facing South East portion
+,Room No 1","1.Devannagoundanur (P), Easikadu ward 1, 2.Devannagoundanur (P), Paraiyangattanur ward 1,
+3.Devana kavundanur (p), Kullangadu, pattakarankadu ward 1"
+52,87,52,,"Panchayat Union Middle School,Manjakkalpatty -
+637301, Terraced building Facing West Middle portion,Room No 2","1.Devana kavundanur (p), Aanaipallikadu, Saipukadu, Teacher Colony Ward-3,"
+53,87,53,,"Panchayat Union Middle School,Manjakkalpatty - 637301, Terraced building Facing West, North portion","1.Devana kavundanur (P), Thundukadu, kuppanur, Matheshwarthottam ward 3"
+54,87,54,,"Panchayat Union Elementary School,Paraiyankattanur 637301, Terraced Building South Facing West Portion,Room No 2","1.Devana kavundanur (p), Varathan kattanur ward 1,
+2.Devana kavundanur (P), Puthukadu ward 1,
+3.Devana kavundanur (P), Muthaliyarkadu, Mandabathukadu, Chettiyarkadu, Ward-3"
+55,87,55,,"Panchayat Union Middle School,Kedaiur -637301, Terraced Building East Facing, South Portion,Room
+No 4","1.Devana kavundanur (P), Thippampatty ward 3,
+2.Devana kavundanur (P), Mattampatty ward 3,
+3.Devana kavundanur (P), Pallakadu ward 4"
+56,87,56,,"Panchayat Union Middle School,Kidaiyur -637301, Terraced Building Facing East North Portion,Room No
+5","1.Devana kavundanur (P), M.G.R nagar ward 4,
+2.Devana kavundanur (P), Odakkadu ward 4,
+3.Devana kavundanur (P), Kidayur ward 4"
+57,87,57,,"Panchayat Union Middle School,Kidayur Devannagoundanur -637301, (SSA) Terraced Building
+Facing South,West Portion. ,Room No 2","1.Devana kavundanur (p), Devana kavundanur mattur ward 4"
+58,87,58,,"Panchayat Union Primary School,Velammavalasu - 637301, Tiled Building Facing East, South
+Portion,Room No 2","1.Devana kavundanur (p), Sitheshwaran kombai ward 3,
+2.Devana kavundanur (P), Vellama vallasu ward 3"
+59,87,59,,"Panchayat Union Middle School,Kidaiyur-637301, Terraced Building Facing South, East Portion,Room
+No 3","1.Devana kavundanur (P), Kidayur mattur ward 4"
+60,87,60,,"Panchayat Union Elementary School Ollakkachinnanur 637102, Terraced Building East Facing North Portion","1.Ollakachinnanur (p), Ollakachinnanur and kattuvalavu ward 1,2, 2.Ollakachinnanur (p), Kattu sakili street ward 1,
+3.Ollakachinnanur (P), Onnalkadu pattiyapaeranvallavau ward 2"
+61,87,61,,"Panchayat Union Elementary School,Mavelipalayam - 637301, Asbestos Building North Facing West Portion,Room No 1","1.Eyevelli (P), Kamical perevu road ward 1,
+2.Eyevelli (P), Metturanvallavu and vadugapatty road ward 2,
+3.Eyevelli (P), Thoppukadu ward 2,
+4.Eyevelli (P), Pachappatty kattuvallavu ward 2,
+5.Eyevelli (P), Kullakkavundanur ward 2"
+62,87,62,,"Panchayat Union Primary School,Ayyankattur - 637301, Terraced building Facing South East
+portion,Room No 1","1.Eyevelli (P), Iyyangattur and attaikaradu ward 1,
+2.Eyevelli (P), Salaiur and salaikadu ward 1,
+3.Eyevelli (P), Annanagar and nadar street ward 1"
+63,87,63,,"Panchayat Union Elementary School,Mavelipalayam - 637301, Terraced Building Facing South West
+Portion,Room No 2","1.Eyevelli (p), Akkamapettai-adithravidar street ward 3,
+2.Eyevelli (P), Akkamapettai arunthathiar street ward 3"
+64,87,64,,"Panchayat Union Elementary School,Mavelipalayam - 637301, Terraced Building Facing South East Portion,Room No 3","1.Eyevelli (P), Rottukadu ward 3,
+2.Eyevelli (P), Pachappatty ward 4,
+3.Eyevelli (P), Pachappatty arunthathiar street ward 4,
+4.Eyevelli (P), Maveliklpalayam ward 4"
+65,87,65,,"Panchayat Union Elementary School,Vallayachettipallayam -637301, Terraced
+Building Facing South East Portion,Room No 1","1.Kottavarathampatty (P), Sungudi varathampatty ward 1, 2.Kottavarathampatty (P), Kottavarathampatty ward 2,
+3.Kottavarathampatty (P), Valayachettilpalayam ward 3"
+66,87,66,,"Panchayat Union Elementary School,Aavarangampallayam -637301, Terraced Building South Facing East Portion,Room No 1","1.Kottavarathampatty (P), Aavarangampalayam ward 4, 2.Kottavarathampatty (P), Vettukattupatty ward 5, 3.Kottavarathampatty (P), Kodakkarankadu ward 5,
+4.Kottavarathampatty (P), Vettukadupatty kattuvalavu ward 5"
+67,87,67,,"Panchayat Union Elementary School,Kanjanputhurchenrayanpatty -637301, Tiled Building Facing East North Portion,Room No 1","1.Sungvarathampatty (P), Sungvarathampatty ward 1, 2.Vadugapatty (P), Kanjamputhursenrayanpatty ward 1"
+68,87,68,,"Panchayat Union Elementary School,Kanjanputhurchenrayanpatty -637301, Tiled Building Facing East South Portion,Room No 2","1.Sungvarathampatty (P), Poochampatty ward 1, 2.Sungvarathampatty (P), Uthupalayam ward 2"
+69,87,69,,"Panchayat Union Middle School,Irugalur -637103, Tiled Building Facing West, South Wing,Room No 1","1.Erukallur (P), Pannakinathur ward 1, 2.Erukallur (P), Ariyampalayam ward 2,
+3.Irugalur (P), Irugalur Erikadu"
+70,87,70,,"Panchayat Union Elementary School,Komaranallipalayam -637103, Tiled Building North Facing East Portion,Room No 1","1.Erukallur (p), Pnagadu arunthathiar ward 4,
+2.Erukallur (P), Komaranallipalayam adithravidar street ward 5, 3.Erukallur (P), Pallar street, Chettithottam ward 6,
+4.Erukallur (P), Chellappampatty ward 6,
+5.Erukallur (P), Erukallur ward 6"
+71,87,71,,"Panchayat Union Elementary School,Vadugapatty - 637301, Tiled Building Facing North West
+Portion,Room No 1","1.Vadugapatty (p), Vadugapatty ward 2,3"
+72,87,72,,"Panchayat Union Elementary School,Vadugapatty -
+637301, Tiled Building Facing North East Portion,Room No 2","1.Vadugapatty (P), Vadugapatty kattuvalavu ward 4"
+73,87,73,,"Panchayat Union Elementary School,Vadugapatty - 637301, Terraced Building North Facing ,East
+Wing,Room No 3","1.Vadugapatty (P), Pappanayakanur ward 5, 2.Vadugapatty (P), Veppampatty ward 6"
+74,87,74,,"Panchayat Union Elementary School,Unjanur -637301, Terraced Building Facing West North Portion,Room No 1","1.Anathanpatty (P), Unjannur ward 1,
+2.Anathanpatty (P, Unjanur arunthathiar street ward 1, 3.Anathanpatty (P, Unjanur kattu vallavu ward 1, 4.Anathanpatty (P, Unjanur ward 2,
+5.Anathanpatty (P, Unjanur kattuvallavu ward 1, 2."
+75,87,75,,"Panchayat Union Elementary School, Unjanur - 637301, Terraced Building Facing West, South Portion","1.Anathanpatty (P, Oluguparai arunthathiar street ward 1, 2.Anathanpatty (P, Uppupalayam ward 1,  3.Anathanpatty (P, Vaduvan kadu ward 1, 4.Anathanpatty (P, Poothalakuttai ward 1, 5.Anathanpatty (P, Thoppukadu ward 3,
+6.Anathanpatty (P, Ottallampatty kadu ward 3,
+7.Anathanpatty (P, Pallakattu vallavu ward 3."
+76,87,76,,"Panchayat Union Elementary School,AN Chettipatty - 637302, Tiled Building Facing East North Portion,Room No 1","1.Anathanpatty (P, Cettipatty kattuvallavu ward 2, 2.Anathanpatty (P, Panduthkaran kadu ward 2, 3.Anathanpatty (P, Periyakadu ward 2, 4.Anathanpatty (P, Lingankadu ward2,
+5.Anathanpatty (P, Cettipatty kattuvalavu ward 3."
+77,87,77,,"Panchayat Union Middle School,Nagichettipatty - 637303, Terraced Building Facing East Middle
+Portion,Room No 2","1.Sankagiri (M), Nattam palayam sakiliyar street ward 1, 2.Sankagiri (M), Uthukadu ward 1"
+78,87,78,,"Panchayat Union Middle School,Nagichettipatty - 637303, Terraced Building Facing East, North
+Portion,Room No 1","1.Morrur (p), Kollingipalayam ward 1,
+2.Morrur (P), Nagichettipatty ward 1, 3.Sankagiri(M), Nattampalayam ward 1"
+79,87,79,,"Government Girls Higher Secondary School,Sankari -
+637301, Terraced Building East Facing, North Middle Portion.,Room No 2","1.Sankagiri (M), New Edappadi Road Ward-8,
+2.Sankari (M), Vaniyar Colony Ward-7"
+80,87,80,,"Government Girls Higher Secondary School,Sankari - 637 301, Terraced Building East Facing , South Middle Portion,Room No 4","1.Sankagiri (M), Deputy collector quaters road ward 8, 2.Sankagiri (M), Telunkar street ward 6,
+3.Sankagiri (M), Agraharam ward 9,
+4.Sankagiri (M), Venkata nayakan palayam ward 12"
+81,87,81,,"Government Girls Higher Secondary School,Sankari - 637 301, Terraced Building Facing West North
+Portion,Room No 9","1.Sankagiri (M), S.E.E.T street ward 9,
+2.Sankagiri (M), Deputy collectore quaters road ward 9"
+82,87,82,,"Government Girls Higher Secondary School,Sankari - 637 301, Terraced Building Facing West South
+Portion,Room No 28","1.Sankagiri (M), Amaran kadu ward 9, 2.Sankagiri (M), Masthiri kadu street ward 9"
+83,87,83,,"Panchayat Union Primary School, Sankari 637301 , Terraced building Facing East, South Portion,Room
+No 1","1.Sankagiri (M), Nallapa nayakan street ward 11"
+84,87,84,,"Panchayat Union Primary School,Sankari -637301, Terraced building Facing East, North Portion,Room
+No 2","1.Sankagiri (M), Muslim street ward 11"
+85,87,85,,"Government Girls Higher Secondary School,Sankari - 637 301, Terraced Building Facing South East
+Portion,Room No 4","1.Sankagiri (M), Dispensary street ward 10, 2.Sankagiri (M), VN Palayam ward 10"
+86,87,86,,"Panchayat Union Primary School,sankari -637301, Terraced building Facing West, North Portion ,Room
+No 1","1.Sankagiri (M), Palvavith street ward 10, 2.Sankagiri (M), Kiramasavadi street ward 10"
+87,87,87,,"Panchayat Union Middle School,Oonjakkorai 637301, Terraced Building Facing West North Portion,Room
+No 6","1.Sankagiri (M), Kottapalaythankadu ward 3,"
+88,87,88,,"Panchayat Union Middle School,Oonjakkorai Mekkadu -637301, Terraced Building Facing West
+South Portion,","1.Sankagiri (M), Sub road portion 2 ward 3"
+89,87,89,,"Panchayat Union Middle School,Oonjakkorai Mekkadu -637301, Terraced Building West Facing
+Middle Portion,Room No 4","1.Sankagiri (M), Nattampalayam ward 2, 2.Sankagiri (M), Muniyappam palayam ward 2,
+3.Sankagiri (M), Sub road portion 1 ward 3"
+90,87,90,,"Panchayat Union Middle School,Oonjakkorai
+Mekkadu -637301, Terraced Building Facing West Middle Portion,Room No 2","1.Sankagiri (M), Pachakkadu ward 2,
+2.Sankagiri (M), Unjakkorai ward 2, 3.Sankagiri (M), Bavani main road ward 2"
+91,87,91,,"Government Boys Higher Secondary School,Sankari - 637301, Terraced Building Facing South, West Portion,Room No 24","1.Sankagiri (M), Agrahara street ward 4, 2.Sankagiri (M), Thear street ward 4, 3.Sankagiri (M), Kadai veethi ward 4, 4.Sankagiri (M), Yathavar street ward 4,
+5.Sankagiri (M), Muthaliyar street ward 4"
+92,87,92,,"Government Boys Higher Secondary School,Sankari - 637 301, Terraced Building Facing South, Middle
+Portion,Room No 25","1.Sankagiri (M), Adithravidar street ward 5, 2.Sankagiri (M), Musleem street, Agraharam ward 5,
+3.Sankagiri (M), Mettu street ward 5"
+93,87,93,,"Government Boys Higher Secondary School,Sankari - 637 301, Terraced Building Facing North Middle Portion,Room No 11","1.Sankagiri (M), Thear veethi ward 5,
+2.Sankagiri (M), Thear veethi,l Agraharam ward 5, 3.Sankagiri (M), Old Edapady road ward 5, 4.Sankagiri (M), Sankagiri ward 5"
+94,87,94,,"Government Boys Higher Secondary School,Sankari - 637301, Terraced Building Facing West, South Corner
+Building,Room No 32","1.Sankagiri (M), Panjayathu office road ward 6"
+95,87,95,,"Government Boys Higher Secondary School,Sankari - 637301, Teraced Building Facing North Middle
+Portion East wing,Room No 12","1.Sankagiri (M), Panjayathu office road ward 6"
+96,87,96,,"Government Boys Higher Secondary School,Sankari - 637 301, Terraced building East Facing West
+Portion,Room No 9","1.Sankagiri (M), Panjayathu office road ward 6"
+97,87,97,,"Government Boys Higher Secondary School,Sankari - 637301, Terraced building Facing North Middle Portion near upstairs,Room No 13","1.Sankagiri (M), Panjayat union office road ward 6"
+98,87,98,,"Panchayat Union Elementary School,Venkatanayakanpallayam -637301, Terraced
+Building Facing West , Room No 2","1.Sangagiri (M), Andavan koil street ward 12 , 2.Sangagiri (M), Kalugumedu"
+99,87,99,,"Panchayat Union Elementary School,Venkatanayakanpalayam -637301, Tiled
+Building Facing East,North Portion","1.Sangagiri (M), Akkamappettai Mariamman koil street, 2.Sangagiri (M), Masthirikadu,
+3.Sangagiri (M), Karumbaeiram samikoil street ward 12"
+100,87,100,,"Government High School,School Akkamapettai - 637301, Terraced Building West Facing North Portion
+,Room No 1","1.Sangagiri (M), Bharathi nagar ward 13, 2.Sangagiri (M), GED Road,
+3.Sangagiri (M), Kalugumedu Arunthathiar street ward 12"
+101,87,101,,"Panchayat Union Elementary School,Akkamapettai -
+637301, Terraced Building North Facing Middle portion,Room No 3","1.Sangagiri (M), Akkamapettai,
+2.Sangagiri (M), Akkamapettai Muthaliar street ward 13"
+102,87,102,,"Panchayat Union Elementary School,Kasthuripatty - 637302, Asbestos Building Facing South East
+Portion,Room No 1","1.Sangagiri (M), Chendrayakovandanur arikadu ward 14 , 2.Sangagiri (M), Moolakattanur ward 14 ,
+3.Sangagiri (M), Kasthuripatty ward 14"
+103,87,103,,"Panchayat Union Elementary School,Kasthuripatty - 637302, Asbestos Building Facing South West Portion,Room No 2","1.Sangagiri (M), Mettukadu ward 15 , 2.Sangagiri (M), Northkadu ward 15, 3.Sangagiri (M), Anaikalpalayam ward 15 , 4.Sangagiri (M), South kadu ward 15 ,
+5.Sangagiri (M), Karakadu ward 15"
+104,87,104,,"Government High School,Nattuvampallayam -637302, Terraced Building North Facing East portion,Room No 1","1.Sangagiri (M), Pudhuvalavu ward 15 , 2.Sangagiri (M), Puliyangayanoor ward 15 ,
+3.Sangagiri (M), Appachikadu Manuvakadu Roathinkarankadu Ward-15"
+105,87,105,,"Government High School,Nattuvampallayam -637302, Terraced Building Facing North Middle portion,Room
+No 2","1.Sangagiri (M), Modikadu ward 15 ,
+2.Sangagiri (M), Kattaiyanoor Vellakalkadu ward 16"
+106,87,106,,"Government Higher Secondary School,Nattuvampalayam -637302, Terraced Building North Facing west Portion.,Room No 3","1.Sangagiri (M), Packaliur arunthathiar street ward 17, 2.Sangagiri (M), Edaiyar street ward 17,
+3.Sangagiri (M), Vellalar street ward 17 ,
+4.Sangagiri (M), Postoffice Road Thalakadu ward 17"
+107,87,107,,"Panchayat Union Primary School,Nattuvampalayam - 637302, Terraced Building Facing North Middle
+Portion,Room No 4","1.Sangagiri (M), Komarapalayam road ward 17 , 2.Sangagiri (M), Housing Board ward 18"
+108,87,108,,"Government Higher Secondary School,Nattuvampalayam -637302, Terraced Building Facing East South Building North portion,Room No 5","1.Sangagiri (M), Murugapandaram street ward 18 , 2.Sangagiri (M), Mariammankoil street ward 18 , 3.Sangagiri (M), Chekkan kattu valavu karimedu ward 18"
+109,87,109,,"Government High School,ChinnaGoundanur -637303, Terraced Building Facing West Middle Portion,Room
+No 2","1.Chinnakavundanur (P), Saminathan Gardern ward 1 , 2.Chinnakavundanur (P), Olapattianur ward 2 ,
+3.Chinnakavundanur (P), Chinnakavundanur ward 3"
+110,87,110,,"Government High School,ChinnaGoundanur -637303, Terraced Building Facing West South Portion,Room
+No 3","1.Chinnakavundanur (P), Jayalalitha nagar ward 2 , 2.Chinnakavundanur (P), Rayallur ward 2"
+111,87,111,,"Panchayat Union Primary School,Chinnakavundanur - 637303, Tiled Building Facing South, East Wing ,Room No 3","1.Chinnakavundanur (p), Perumapalayam, kuppangadu ward 5 , 2.Chinnakavundanur (P), Varuthampatti Arunthathiar street ward 6 , 3.Chinnakavundanur (P), Varuthampatti ward 6"
+112,87,112,,"Government High School,Chinnakavundanur -637303, Teraced Building Facing West,Middle Portion North
+Wing,Room No 1","1.Chinnakavundanur (P), Chinnakavundanur ward 4 , 2.Chinnakavundanur (P), Ambedhkar colony ward 3 ,
+3.Chinnakavundanur (P), Arunthathiar street ward 3"
+113,87,113,,"Panchayat Union Primary School,Chinnakavundanur - 637303, Tiled Building Facing South, West Middle Portion,Room No 2","1.Chinnakavundanur (p), Varuthampatty shakkilar street, kaliyanur ward 7,
+2.Chinnakavundanur (P), Chinnakavundanur ward 4 , 3.Chinnakavundanur (P), Ambedhkar nagar chinnakavundanur ward 4 , 4.Chinnakavundanur (P), Varathampatty Harijana colony ward 6"
+114,87,114,,"Government High School,Chinnagoundanur -637303, Terraced Building west Facing South middle
+Portion,Room No 4","1.Gopalanoor (P), Vellanur Harijana colony ward 8 , 2.Gopalanoor (P), Gopalanoor ward 8 ,
+3.Gopalanoor (P), Harijana colony ward 8"
+115,87,115,,"Panchayat Union Middle School,Mothaiyanur - 637303, Terraced Building Facing North, Block No.3,Room No 1","1.Moothaiyanur (p), Koolakarai ward 2 , 2.Moothaiyanur (P), Karumapurathaianur ward 4 , 3.Moothaiyanur (P), Chenkattanur ward 4 , 4.Moothaiyanur (P), Thachankadu ward 4 ,
+5.Moothaiyanur (P), Nachikadu ward 2"
+116,87,116,,"Panchayat Union Middle School,Mothaiyanur - 637303, Old Tiled Building Facing South East
+Wing,Room No 2","1.Moothaiyanur (p), Harijanacolony pudhuvalavu ward 1"
+117,87,117,,"Panchayat Union Middle School,Mothaiyanur - 637303, ld Tiled Building Facing South West
+Wing,Room No 3","1.Moothaiyanur (P), Ollukamedu ward 3 , 2.Moothaiyanur (P), Mangadu ward 3 ,
+3.Katheri (P), Moothaianur ward 1"
+118,87,118,,"Panchayat Union Elementary School,Nallampallayam - 637303, Tiled Building Facing North West
+Portion,Room No 1","1.Allathur (p), Nallampalayam ward 1 ,
+2.Allathur (P), Annamalaipalayam ward 2,
+3.Allathur (P), Varanallampalayam ward 3"
+119,87,119,,"Panchayat Union Middle School,A Rettipalayam - 637303, Terraced Building North Facing East Portion,Room No 1","1.Allathur (p), Gounder street ward 4 ,
+2.Allathur (P), Rettipalayam ward 4 ,
+3.Allathur (P), Gounder street ward 4 ,
+4.Allathur (P), Adidravidar street ward 5 ,
+5.Allathur (P), Gudi street ward 4 ,
+6.Allathur (P), Kundaskadu ward 5 ,
+7.Allathur (P), Kuttaikadu ward 5"
+120,87,120,,"Panchayat Union Middle School,Pullakavundampatty - 637104, Additional Terraced Building Facing East South Wing,Room No 6","1.Pulla goundampatty (p), Kattu valavu Kadungallur ward 1 ,
+2.Pulla Goundampatty (P), Suria sakkilar street, Sreranga goundampalayam-Ward-1"
+121,87,121,,"Panchayat Union Middle School,Pullakavundampatty - 637104, Terrced Building Facing South West
+wing,Room No 4","1.Pulla Goundampatty (P), Asarikadu Arunthathiar street ward 4 ,
+2.Pulla Goundampatty (P), Seerangacoundamplayam ward 4"
+122,87,122,,"Panchayat Union Middle School,Pullagoundampatti-637104, Terraced Building Facing Noth, East
+Portion,Room No 2","1.Pulla goundampatty (p), Kattankallur ward 2 ,
+2.Pulla Goundampatty (P), Pudhugaikadu ward 3"
+123,87,123,,"Panchayat Union Primary School,Pulliyampatty - 637104, Terraced Building Facing West South Portion,Room No 1","1.Pullagoundanpatty agraharam (p), Govindhangadu, 2.Pullagoundanpatty Agraharam (P), Pulliampatti, 3.Pullagoundanpatty Agraharam (P), Parisalthurai,
+4.Pullagoundanpatty Agraharam (P), Asarivalavu"
+124,87,124,,"Panchayat Union Primary School,Puliyampatty - 637104, Terraced Building Facing West Middle Portion,Room No 2","1.Pullagoundanpatty Agraharam (P), Uppupallam,
+2.Pullagoundanpatty Agraharam (P), Mettuvalavu Arunthathiar ward 2 , 3.Pullagoundanpatty Agraharam (P), Vinopaji nagar,Kundankalkadu ward-2"
+125,87,125,,"Panchayat Union Primary School, Puliyampatty Pullagoundampatty Agraharam -637104, Terraced
+Anganvadi Building East Facing","1.Pullagoundanpatty agraharam (p), Govindhankadu, 2.Pullagoundanpatty Agraharam (P), Pulliampatti"
+126,87,126,,"Noon Meal Centre,Metuvalavu -637104, Terraced Building Facing South,Room No 1","1.Pullagoundanpatty Agraharam (P), Metuvalavu Arunthathiar street Uppupallam ward 2,
+2.Pullagoundanpatty Agraharam (P), Vinopaji nagar,Kundankalpatti"
+127,87,127,,"Panchayat Union Elementary School,Kallipalayam-638183, Terraced Building Facing West North portion,Room No 2","1.Katheri (p), Manchipalayam ward 1,
+2.Katheri (P), Kuttiakavundanpudur ward 1,
+3.Katheri (P), Kallipalayam ward 2 ,
+4.Katheri (P), Kallipalayam Arunthathiar ward 2"
+128,87,128,,"Panchayat Union Elementary School,Kallipallayam 638183, Terraced Building Facing West South portion,Room No 1","1.Katheri (P), Gandhinagar ward 3 ,
+2.Katheri (P), Thotakadu ward 3 ,
+3.Katheri (P), Karukkankadu ward 3 ,
+4.Katheri (P), Pallikadu ward 3"
+129,87,129,,"Panchayat Union Elementary School,Valaiyakaranur - 638183, Terraced Building Facing West North
+portion,Room No 1","1.Katheri (p), Vallayakaranur ward 3"
+130,87,130,,"Panchayat Union Elementary School,Valaiyakaranur - 638183, Terraced Building Facing West South
+portion,Room No 2","1.Katheri (P), Dhanalakshmi Natarajanagar ward 3 ,
+2.Katheri (P), Ganapathipalayam ward 3 ,
+3.Katheri (P), Vattamalai ward 3"
+131,87,131,,"Adidravidar Welfare Elementary School,Kodarpallayam 638183, Terraced Building Facing North East Portion,Room No 1","1.Katheri (p), Vaikunthampalayam ward 1 ,
+2.Katheri (P), Kodarpalayam ward 1 ,
+3.Katheri (P), Kodarpalayam Arunthathiar street ward 1,
+4.Katheri (P), Gandhi nagar ward 1"
+132,87,132,,"Panchayat Union Primary School,Thottipalayam Katheri 638183, Terraced Building Facing North, west
+portion,Room No 1","1.Katheri (P), Thotipalayam ward 1 ,
+2.Katheri (P), Pallampali Arunthathiar street ward 1"
+133,87,133,,"Panchayat Union Primary School,Samiyampallayam 638183, Terraced Building Facing East South Wing,Room No 6","1.Katheri (p), Katheri adhidravidhar street ward 2 ,
+2.Katheri (P), Katheri Nadar street ward 2 ,
+3.Katheri (P), Chillangadu ward 2 ,
+4.Katheri (P), Sowthayanur ward 2"
+134,87,134,,"Panchayat Union Primary School,Samiyampallayam 638183, Terraced Building Facing North Middle
+portion,Room No 4","1.Katheri (p), Samiamplayam ward 4 ,
+2.Katheri (P), Samiampalayam Arunthathiar street ward 2"
+135,87,135,,"Panchayat Union Primary School,Samiyampallayam 638183, Terraced Building Facing West South
+portion,Room No 1","1.Katheri (P), Chettiarkadu ward 4 ,
+2.Katheri (P), Pallikadu ward 4"
+136,87,136,,"Government High School,Sadaiyampalayam 638183, Terraced Building Facing North Middle Portion,Room
+No 1","1.Katheri (p), Sadaiyampalayam ward 4"
+137,87,137,,"Government High School,Sadaiyampalayam 638183, Terraced Building Facing North West Portion,Room
+No 2","1.Katheri (P), Bharathi nagar ward 4 ,
+2.Katheri (P), Samiayampalayam ward 4 ,
+3.Katheri (P), Olapalayam ward 4"
+138,87,138,,"Panchayat Union Elementary School,Veerachipallaym Agrakaram -637303, Tiled Building Facing South West wing,Room No 1","1.Veerachipalayam (P), Kundankadu,ArunthathiyarSt., A.D.St.,Ward1, 2.Veerachipalayam (P), Veerachipalayam, Veerachipalayampudur,kanavaikadu Ward1"
+139,87,139,,"Panchayat Union Elementary School,Veerachipallaym Agrakaram -637303, Tiled building Facing South, East Portion,Room No 2","1.Veerachipalayam (p), Mangarangampalayam thundukadu ward 1,
+2.Alathur (P), Periayampalayam, kattuvalavu ward 6, 3.Veerachipalayam (P), Ellapalayathankadu ward 6"
+140,87,140,,"Panchayat Union Elementary School,Saniyacypatty Agraharam -637303, Tield Building Facing West, North Portion.","1.Saniyasilpatty agraharam (p), Saniyasilpatty ward 3, 2.Saniyasilpatty Agraharam (P), Athikadu ward 3,
+3.Saniyasilpatty Agraharam (P), Thalakadu, (Poosarikadu) ward 3,
+4.Saniyasilpatty Agraharam (P), Arunthathiyar Street Ward 3"
+141,87,141,,"Panchayat Union Elementary School, Saniyacypatty Agraharam -637303, Tield Building Facing West, South Portion.","1.Saniyasilpatty agraharam (p), ICL Colony Ward 1, 2.Saniyasilpatty Agraharam (P), Malayandankadu ward 2, 3.Saniyasilpatty Agraharam (P), Pallikadu colony ward 2, 4.Saniyasilpatty Agraharam (P), Vandikaran kadu ward 2, 5.Saniyasilpatty Agraharam (P), Kulikadu ward 2,
+6.Saniyasilpatty Agraharam (P), Kaththeriyan kadu ward 2"
+142,87,142,,"Panchayat Union Elementary School,An.Chettipatti-637302, Terraced Building Facing South West Portion,Room No 1","1.Morur east (p), Anchettypatty,
+2.Morur east (p), Paraikadu,
+3.Morur east (P), Panaimarathur kadu,
+4.Morur east (P), Colorkinathukadu,
+5.Morur east (P), Arunthathiar street"
+143,87,143,,"Panchayat Union Elementary School,Thiruvandipatty - 637302, Terraced Building Facing West Noth Portion,Room No 1","1.Morur east (p), Thiruvandipatty ward 2,
+2.Morur east (P), Konchithan ward 2,
+3.Morur east (P), Perumal kovil medu street ward 2,
+4.Morur east (P), Kattuvalavu ward 2,
+5.Morur east (P), Narippallam ward 2."
+144,87,144,,"Panchayat Union Elementary School, Karukkampalayam - 637302, Terraced Building Facing
+South, East Portion","1.Morur east (P), Karukampalayiam ward 3,
+2.Morur east (P), Karukkampalaym arunthathiar street ward 3"
+145,87,145,,"Panchayat Union Elementary School,Pullipallayam - 637302, Tiled Building Facing East North
+Portion,Room No 3","1.Morur east (p), Pullipalayam -1 ward 4,
+2.Morur east (P), Pullipalayam-2, ward 5,
+3.Morur east (P), Pullipalayam arunthathiar street ward 5"
+146,87,146,,"Panchayat Union Elementary School,Thasanayakanpallayam -637302, Terraced Building East Facing South Portion,Room No 1","1.Moorur east (p), Dhasanaickenpalayam kudistreet ward 6,
+2.Moorur east (p), Dhasanaickenpalayam arunthathiar street ward 6,7,
+3.Moorur East (P), Narappanchavady ward 7,
+4.Moorur East (P), Murungaikadu ward 7"
+147,87,146A,,"Panchayat Union Elementary School,Thasanayakanpallayam -637302, Terraced Building East Facing, North Portion.","1.Moorur east (p), Dhasanaickenpalayam kudistreet ward 6,
+2.Moorur east (p), Dhasanaickenpalayam arunthathiar street ward 6,7,
+3.Moorur East (P), Narappanchavady ward 7,
+4.Moorur East (P), Murungaikadu ward 7"
+148,87,147,,"Panchayat Union Elementary School,Thasanayakanpallayam -637302, Tield Building South Facing West Portion,Room No 2","1.Moorur West (P), Chengalikadu gounder street ward 8 ,
+2.Moorur West (P), Chengalikadu Arunthathiar street ward 8 ,
+3.Moorur West (P), Asari pattarai Naranappan chavady ward 9,
+4.Moorur East (P), Karattankadu ward 9,
+5.Moorur East (P), Poochakattuvalavu ward 9,
+6.Moorur East (P), Erikadu ward 9,
+7.Moorur East (P), Veppangadu ward 9,
+8.Moorur West (P), Kollangadu ward 19,
+9.Moorur West (P), Manaliyangadu ward 19,
+10.Moorur West (P), Parupattykadu ward 19,
+11.Moorur West (P), Thattangadu ward 19,
+12.Moorur West (P), Chillankadu ward 19 ,
+13.Moorur West (P), Poosari kadu ward 19 ,"
+149,87,148,,"Panchayat Union Elementary School,Adithravidarkattuvalavu Morur-637302, Tiled Building Facing West,Room No 1","1.Morur west (p), Atharikadu pachapallikadu ward 10,
+2.Morur West (P), Adthravidar street ward 10,
+3.Morur west (p), Pallar street ward 11,
+4.Moorur west (P), Valluvar street Aathrurampalayam , paruppatty kadu,
+5.Moorur west (P), Chekkukaran kadu Andi kadu ward 12, 6.Sankagiri (S.P), Aandikaraottan korai ward 12"
+150,87,149,,"Panchayat Union Middle School,Vengipalayam - 637304, Tiled Building Facing North West
+Portion,Room No 1","1.Moorur west (P), Venkipalayam Nadar street ward 13,
+2.Moorur west (p), Mayilaripatty ward 15"
+151,87,150,,"Panchayat Union Middle School,Vengipalayam - 637304, Terraced Building Facing West Middle
+Portion,Room No 7","1.Moorur west (P), Venkipallayam arunthathiyar street ward 14,
+2.Moorur west (P), Annanagar ward 15"
+152,87,151,,"Panchayat Union Middle School,Vengipalayam - 637304, Additional Terraced Building Facing West
+South Portion,Room No 6","1.Moorur west (p), Pappangadi ward 16,
+2.Moorur west (P), Kallathukadu ward 16"
+153,87,152,,"Panchayat Union Elementary School,Poosarinayakanvalavu E.Pudhupalayam - 637301, Tiled Building Facing South East
+Portion,Room No 1","1.Erugallur puthupalayam (P), Poosari nayakkan vallavu ward 2,3"
+154,87,153,,"Anganwadi Centre,Pudhupalayam Valavu -637503, Terraced Building, Facing South,Room No 1","1.Erugallur puthupalayam (P), Erugallur puthupalayam ward 1,2"
+155,87,154,,"Panchayat Union Elementary School,Edayapatti - 637103, New Terraced building Facing North West Portion,Room No 1","1.Vaiguntham (R.V) And (P), Ward 5, Uppiliyar Street, 2.Vaiguntham (R.V) And (P), Ward 5, Keezhvazhakuttai, 3.Vaiguntham (R.V) And (P), Ward 5, Melvazhakuttai, 4.Vaiguntham (r.v) and (p), Ward 5, mosugoundanvalavu, 5.Vaiguntham (R.V) And (P), Ward 5, Naickan Valavu,
+6.Vaiguntham (R.V) And (P), Ward 5, Kozhinchikattur Arunthathiyar Street,
+7.Vaiguntham (R.V) And (P), Ward 5, Kozhinchikattur,
+8.Vaiguntham (R.V) And (P), Ward 5, M.G.R. Nagar Arunthathiyar Street"
+156,87,155,,"Panchayat Union Primary School,Edayapatti -637103, Terraced building Facing North East Wing,Room No 1","1.Vaiguntham (R.V) And (P), Ward 5, Idayapatty,
+2.Vaiguntham (R.V) And (P), Ward 5, Idayapatty Arunthathiyar Street, 3.Vaiguntham (R.V) And (P), Ward 5, Idayapatty Konar Street"
+157,87,156,,"Government Higher Secondary School, Agraharam Vaikuntham -637103, Terraced Building Facing East,South Portion,Room No 1","1.Vaiguntham (R.V) And (P), Ward 2, Chellappampatty, 2.Vaiguntham (R.V) And (P), Ward 4, Vaikundham Sadayagoundan Valavu,
+3.Vaiguntham (R.V) And (P), Ward 4, Agraharam, 4.Vaiguntham (R.V) And (P), Ward 4, Nallaagoundan Valavu, 5.Vaiguntham (R.V) And (P), Ward 4, Pattakkaran Valavu, 6.Vaiguntham (R.V) And (P), Ward 2, Agraharam,"
+158,87,157,,"Government Higher Secondary School, Agraharam Vaikuntham -637103, Terraced Building Facing East
+Middle Portion,Room No 2","1.Vaiguntham (R.V) And (P), Ward 2, Kasi Mariyur, 2.Vaiguntham (R.V) And (P), Ward 2, Aalampalayam"
+159,87,158,,"Panchayat Union Elementary School,Vaikuntham - 637103, Terraced Building Facing North, East
+portion,Room No 3","1.Vaiguntham (R.V) And (P), Ward 2, Gandhi Nagar, Kalipatty X Road, 2.Vaiguntham (R.V) And (P), Ward 1, Aalampalayam"
+160,87,159,,"Panchayat Union Elementary School,Vaikuntham - 637103, Terraced Building Facing East North wing","1.Kedikkaaval (R.V),Vaiguntham (P), Ward 1, Mettukadu,
+2.Kedikkaaval (R.V),Vaiguntham (P), Ward 5, Kalleri Arunthathiyar Street, 3.Kedikkaaval (R.V),Vaiguntham (P), Ward 5, Kedikkaaval"
+161,87,160,,"Panchayat Union Elementary School,Vaikuntham -637 103, Terraced Building Facing North, West Portion,Room No 5","1.Vaiguntham (R.V) And (P), Ward 1, Athithiravidar Street, 2.Vaiguntham (R.V) And (P), Ward 1, Sowthaya Kadu, 3.Vaiguntham (R.V) And (P), Ward 1, Sandhaipet,
+4.Vaiguntham (R.V) And (P), Ward 1, Nathakadu"
+162,87,161,,"Panchayat Union Elementary School,Vaikuntham -637 103, Terraced Building Facing East, South Wing,Room
+No 6","1.Vaiguntham (R.V) And (P), Ward 3, Perumagoundan Valavu, 2.Vaiguntham (R.V) And (P), Ward 3, Kanakkachi Palayam"
+163,87,162,,"Panchayat Union Middle School,Vellaiyampalayam - 637103, Terraced Building Facing North, West Portion.,Room No 1","1.Vaiguntham (R.V) And (P), Ward 4, Vellaiyampalayam, 2.Vaiguntham (R.V) And (P), Ward 4, Rangan Valavu, 3.Vaiguntham (R.V) And (P), Ward 4, Gundalpattyarunthathiyarstreet,Naickarstreet, 4.Vaiguntham (R.V) And (P), Ward 4, Arumaikaran Valavu,
+5.Vaiguntham (R.V) And (P), Ward 4, Keechan Valavu"
+164,87,163,,"Panchayat Union Elementary School,Karaiyanur - 637103, Tiled building Facing West North Wing,Room No 2","1.Kannantheri (R.V) Kannantheri,A.Thalaiyur (P), Ward 2, Paavattampalayam,
+2.Kannantheri (R.V) Kannantheri,A.Thalaiyur (P), Ward 2, Nallirusampalayam,
+3.Kannantheri (R.V) Kannantheri,A.Thalaiyur (P), Ward 2, Thandavanur, 4.Kannantheri (R.V) Kannantheri,A.Thalaiyur (P), Ward 2, Arunthathiyar Colony,
+5.Kannantheri (R.V) Kannantheri,A.Thalaiyur (P), Ward 3, Vellaiyampalayam"
+165,87,164,,"Panchayat Union Elementary School,Karaiyanur - 637103, Terraced building Facing South West Wing,Room No 3","1.Kannantheri (R.V) Kannantheri,A.Thalaiyur (P), Ward 1, Lakshmana goundanur,
+2.Kannantheri (R.V) Kannantheri,A.Thalaiyur (P), Ward 1, Poosarivalavu, 3.Kannantheri (R.V) Kannantheri,A.Thalaiyur (P), Ward 1, Manaiyaaran Valavu,"
+166,87,165,,"Panchayat Union Elementary School,Karaiyanur - 637103, Terraced Building Facing South East Portion","1.Kannantheri (R.V) Kannantheri,A.Thalaiyur (P), Ward 3, Nallirusampalayam Kattuvalavu, Karaiyanur,
+2.Kannantheri (R.V) Kannantheri,A.Thalaiyur (P), Ward 6, Karattukadu, 3.Kannantheri (R.V) Kannantheri,A.Thalaiyur (P), Ward 4, Vellaiyampalayam"
+167,87,166,,"Panchayat Union Elementary School, koothadipalayam -637103, Steel Roof Building Facing North, West Portion.","1.Kannantheri (R.V) Kannantheri,A.Thalaiyur (P), Ward 4, Manguttaipatty Kattuvalavu,
+2.Kannantheri (R.V) Kannantheri,A.Thalaiyur (P), Ward 4, Kuravan Kattur, 3.Kannantheri (R.V) Kannantheri,A.Thalaiyur (P), Ward 5, Manguttaipatty, 4.Kannantheri (R.V) Kannantheri,A.Thalaiyur (P), Ward 5, Keezhkoothadipalayam,
+5.Kannantheri (R.V) Kannantheri,A.Thalaiyur (P), Ward 5, Melkoothdi palayam,
+6.Kannantheri (R.V) Kannantheri,A.Thalaiyur (P), Ward 5, Karattukadu"
+168,87,167,,"Government High School,Kannantheri-637 102, Terreced Building South Facing West Portion,Room
+No 5","1.Kannantheri (R.V) And (P), Ward 1, Kannantheri Kaspa, 2.Kannantheri (R.V) And (P), Ward 3, Erikattu Valavu"
+169,87,168,,"Government High School,Kannantheri-637 102, New Terraced Building Facing South East Portion","1.Kannantheri (R.V) And (P), Ward 2, Panangkattur, 2.Kannantheri (R.V) And (P), Ward 2, Adi Dravidar Street, 3.Kannantheri (R.V) And (P), Ward 3, Poosari Kattu Valavu, 4.Kannantheri (R.V) And (P), Ward 3, Velamuthankadu,
+5.Kannantheri (R.V) And (P), Ward 3, Ramagoundan Valavu"
+170,87,169,,"Panchayat Union Elementary School,Kanandheri - 637102, Terraced Building Facing East, North
+Portion.,Room No 4","1.Kannantheri (R.V) And (P), Ward 4, Poovagoundanur Kattur,"
+171,87,170,,"Government High School, Kannantheri-637 102, New
+Terraced Building Facing North, East Portion","1.Kannantheri (R.V) And (P), Ward 5, Kattur Kattuvalavu"
+172,87,171,,"Panchayat Union Elementary School,Kannandheri - 637102, (SSA) Terraced New Building Facing North, East Portion.","1.Kannantheri (R.V) And (P), Ward 6, Poosariyur, 2.Kannantheri (R.V) And (P), Ward 6, Kosaaripatty, 3.Kannantheri (R.V) And (P), Ward 6, Kattur, 4.Kannantheri (R.V) And (P), Ward 6, Poovanur,
+5.Kannantheri (R.V) And (P), Ward 7, Kosaaripatty Kattuvalavu, 6.Kannantheri (R.V) And (P), Ward 9, Pazhayur Arunthathiyar Street"
+173,87,172,,"Panchayat Union Elementary School,Karaiyanur - 637103, Tiled Building Facing West, South Portion.,Room No 1","1.Kannantheri (R.V) Kannantheri,A.Thalaiyur (P), Ward 8, Karaiyanur, 2.Kannantheri (R.V) Kannantheri,A.Thalaiyur (P), Ward 8, Karaiyanur Kattuvalavu"
+174,87,173,,"Government Higher Secondary School,A.Pudur - 637102, Terraced Building Facing East Middle
+Portion,Room No 4","1.A.Pudur (R.V) And (P), Ward 1, Ravathanur, 2.A.Pudur (R.V) And (P), Ward 1, Mettukadu,
+3.A.Pudur (R.V) And (P), Ward 1. Kaachakaranur"
+175,87,174,,"Government Higher Secondary School,A.Pudhur - 637102, Terraced Building Facing West Middle Wing,Room No 2","1.A.Pudur (R.V) And (P), Ward 2, Aruvangkattur, 2.A.Pudur (R.V) And (P), Ward 2, Kongkarapalayam, 3.A.Pudur (R.V) And (P), Ward 2, Kiluvakattur,
+4.A.Pudur (R.V) And (P), Ward 2, Vannangkaattur Kattuvalavu"
+176,87,175,,"Government Higher Secondary School,A.Pudur - 637102, Terraced building Facing West, North portion,Room No 5","1.A.Pudur (R.V) And (P), Ward 6, Ondipanai, 2.A.Pudur (R.V) And (P), Ward 6, Pachavalavu,
+3.A.Pudur (R.V) And (P), Ward 6, Nandhipaattan Valavu, 4.A.Pudur (R.V) And (P), Ward 6, Kattur,
+5.A.Pudur (R.V) And (P), Ward 6, Chellakutti Valavu,
+6.A.Pudur (R.V) And (P), Ward 6, Pudur"
+177,87,176,,"Government Higher Secondary School,A.Pudur - 637102, Terraced Building Facing East, South Room in
+North Portion. ,Room No 3","1.A.Pudur (R.V) And (P), Ward 7, Kunjappanur, 2.A.Pudur (R.V) And (P), Ward 7, Punjaikattuvalavu,
+3.A.Pudur (R.V) And (P), Ward 7, Azhagappampalayam,"
+178,87,177,,"Government Higher Secondary School, A.Pudur - 637102, Terraced Building Facing West, Middle
+Portion","1.A.Pudur (R.V) And (P), Ward 8, Karayangkadu, 2.A.Pudur (R.V) And (P), Ward 8, Koothampalayam"
+179,87,178,,"Panchayat Union Elementary School,Sundamettur - 637 102, Asbetos Building Facing North,Room No 1","1.A.Pudur (R.V) And (P), Ward 3, Vannangkattur, 2.A.Pudur (R.V) And (P), Ward 3, Kallangkattur, 3.A.Pudur (R.V) And (P), Ward 3, Pattanaapatty,
+4.A.Pudur (R.V) And (P), Ward 3, Pattanaapatty Kattuvalavu, 5.A.Pudur (R.V) And (P), Ward 3, Gandhinagar,
+6.A.Pudur (R.V) And (P), Ward 3, Ayyaneri Kadu"
+180,87,179,,"Panchayat Union Elementary School,Sundamettur - 637102, Terraced Building Facing East, South Portion.,Room No 2","1.A.Pudur (R.V) And (P), Ward 4, Pudukattu Valavu, 2.A.Pudur (R.V) And (P), Ward 4, Sundamettur, 3.A.Pudur (R.V) And (P), Ward 5, Kalmettur, 4.A.Pudur (R.V) And (P), Ward 5, Kottayur,
+5.A.Pudur (R.V) And (P), Ward 5, Kandampalayam"
+181,87,180,,"Panchayat Union Elementary School,Thailampatti - 637502, Tiled Building Facing West,Room No 1","1.Egapuram (R.V) And (P), Ward 5, Mottur,
+2.Egapuram (R.V) And (P), Ward 5, Dhadikaran Valavu,
+3.Egapuram (R.V) And (P), Ward 5, Thailaampatty"
+182,87,181,,"Panchayat Union Elementary School,Thailampatti - 637502, Terraced Building Facing South, West Portion.
+,Room No 2","1.Egapuram (R.V) And (P), Ward 4, Reddiyur,"
+183,87,182,,"Panchayat Union Elementary School, Pandithakaranur 637502, Single Room Terraced Building Facing South.","1.Egapuram (R.V) And (P), Ward 6, Pandidhakaranur"
+184,87,183,,"Panchayat Union Elementary School,Egapuram -637
+502, Tiled Building Facing North,Room No 1","1.Egapuram (R.V) And (P), Ward 3, Okkilipatty Karattur,
+2.Egapuram (R.V) And (P), Ward 3, Kaliyagoundanur"
+185,87,184,,"Panchayat Union Elementary School,Egapuram - 637502, Terraced Building Facing East South
+Portion,Room No 2","1.Egapuram (R.V) And (P), Ward 1, Egapuram,
+2.Egapuram (R.V) And (P), Ward 1, Nallaaran Poosari Valavu"
+186,87,185,,"Panchayat Union Elementary School,Egapuram - 637502, (SSA) Terraced Building Facing East North
+wing,Room No 3","1.Egapuram (R.V) And (P), Ward 2, Egapuram Arisana Colony,
+2.Egapuram (R.V) And (P), Ward 2, Egapuram"
+187,87,186,,"Government Higher Secondary School, Chinnappampatti -636306. Terraced Building Facing
+South, West Portion.","1.Pappampady (R.V) And (P), Ward 1, Palanigoundarnur Kattuvalvu,"
+188,87,187,,"Government Higher Secondary School, Chinnappampatti -636306. Terraced Building Facing
+South, Middle Portion.","1.Pappampady (R.V) And (P), Ward 1, Nathiampatty Kattuvalavu, 2.Pappampady (R.V) And (P), Ward 1, Komaliyur"
+189,87,188,,"Panchayat Union Elementary School,Pappampadi - 636306, New Terraced Building Facing East South Portion Near Sandhai,Room No 3","1.Pappampady (R.V) And (P), Ward 4, Pappampady Kattuvalavu, 2.Pappampady (R.V) And (P), Ward 4, Valluvar Street, 3.Pappampady (R.V) And (P), Ward 4, Harijana Street,
+4.Pappampady (R.V) And (P), Ward 4, Erukkankattu Street"
+190,87,189,,"Panchayat Union Elementary School,Pappampadi - 636306, Terraced Building Facing East, Middle
+Portion,Room No 4","1.Pappampady (R.V) And (P), Ward 4, Nathiampatty Kattuvalavu, 2.Pappampady (R.V) And (P), Ward 1, Komaliyur,
+3.Pappampady (R.V) And (P), Ward 2, Jalakandapuram mainroad"
+191,87,190,,"Panchayat Union Elementary School,Sanatipet in Pappampadi -636306, Terraced Building Facing East
+Middle Wing,Room No 6","1.Pappampady (R.V) And (P), Ward 2, Dhachankattur, 2.Pappampady (R.V) And (P), Ward 2, Morappu Kattuvalavu,
+3.Pappampady (R.V) And (P), Ward 2, Sooranvalavu"
+192,87,191,,"Panchayat Union Elementary School,Sanathipet in Pappampadi -636306, Terraced Building Facing East
+North Portion,Room No 7","1.Pappampady (R.V) And (P), Ward 2,3 Senkuttaipatty, 2.Pappampady (R.V) And (P), Ward 2,3 Panangkattur kattuvalavu"
+193,87,192,,"Panchayat Union Elementary School,Chinnappampatty -636306, Terraced Building Facing East South Wing,Room No 1","1.Pappampady (R.V) And (P), Ward 3, Panankatture, 2.Pappampady (R.V) And (P), Ward 3,4 Karattur, 3.Pappampady (R.V) And (P), Ward 3, Sekkumedu,
+4.Pappampady (R.V) And (P), Ward 3, Solavandiyanvalavu"
+194,87,193,,"Panchayat Union Elementary School,Chinnappampatty -636306, Terraced Building Facing East North Wing,Room No 2","1.Pappampady (R.V) And (P), Ward 4, Pappampady Moolakadai, 2.Pappampady (R.V) And (P), Ward 4, Kilakkathiyanvalavu, 3.Pappampady (R.V) And (P), Ward 4, Moongathur, 4.Pappampady (R.V) And (P), Ward 4, Thatchankattur, 5.Pappampady (R.V) And (P), Ward 3,4 Mettupalayam,
+6.Pappampady (R.V) And (P), Ward 3,4 Pavadi Street"
+195,87,194,,"Panchayat Union Rural Antipoverty Association Building, Papampady-636306 , Terraced Building Facing South ,Room No 1","1.Pappampady (R.V) And (P), Ward 2,4,3 Mettupalayam, 2.Pappampady (R.V) And (P), Ward 2, Sekumedu, 3.Pappampady (R.V) And (P), Ward 1, Santhaipet,
+4.Pappampady (R.V) And (P), Ward 4, Pappampady Santhaipet,"
+196,87,195,,"Panchayat Union Middle School,Kondakaranoor - 636306, Terraced Building Facing North East Portion,Room No 6","1.Pappampady (R.V) And (P), Ward 2,4 Panangkattur,
+2.Pappampady (R.V) And (P), Ward 2, Kondaikkaranvalavu Kattuvalavu, 3.Pappampady (R.V) And (P), Ward 2, Pappampady Moolakadai"
+197,87,196,,"Panchayat Union Elementary School,Panickanur - 636501, (SSA) Terraced Building Facing South,Room
+No 1","1.Panikkanur (R.V) And (P), Ward 1, Poosarivalavu, 2.Panikkanur (R.V) And (P), Ward 2, KaveriGoundenvalavu"
+198,87,197,,"Panchayat Union Elementary School,Elevampatty - 636501, Old Terraced Building Facing North East
+Portion,Room No 1","1.Elavampatty (R.V) And (P), Ward 1, Elavampatty, Karungalur, Poosariyur,
+2.Elavampatty (R.V) And (P), Ward 2, Adidiravidar Street"
+199,87,198,,"Panchayat Union Middle School,Nachampatty
+Elavampatty -636501, Terraced Building Facing East, West Portion,Room No 5","1.Elavampatty (R.V) And (P), Ward 3, Vangaliyur, Nathakkattanur, Makkattaiyan Valavu"
+200,87,199,,"Panchayat Union Middle School,Nachampatty - 636501, New Terraced Building Facing North West
+Wing.,Room No 1","1.Elavampatty (R.V) And (P), Ward 3, Boyer Street, 2.Elavampatty (R.V) And (P), Ward 4, Nachampatty"
+201,87,200,,"Panchayat Union Middle School,Edaiyapatty 636501, Terraced Building Facing West South Portion,Room
+No 1","1.Edaiyapatty (R.V) And (P), Ward 1, Kalarpatty"
+202,87,201,,"Panchayat Union Middle School,Edaiyapatty -636501, Terraced Building Facing East North Portion","1.Edaiyapatty (R.V) And (P), Ward 2, Thoppalampatty"
+203,87,202,,"Sengunthar Mahajana Higher Secondary School,Tharamangalam -636502, Terraced Building Facing North West Wing Room No 16","1.Tharamangalam (M), Ward 18, Potthiyampatty Kattuvalavu, 2.Tharamangalam (M), Ward 18, Chinnanvalavu, 3.Tharamangalam (M), Ward 18, Thandanvalavu, 4.Tharamangalam (M), Ward 18, Sevanvalavu,
+5.Tharamangalam (M), Ward 18, Pothiyampatty Mooppan street,
+6.Tharamangalam (M), Ward 16, Yerkodi kattuvalavu"
+204,87,203,,"Sengunthar Mahajana Higher Secondary School,Tharamangalam -636502, Terraced Building Facing North West Wing Room No 17","1.Tharamangalam (M), Ward 16, Adidravidar street, 2.Tharamangalam (M), Ward 16, Nangiripatty, 3.Tharamangalam (M), Ward 16, Kuruvamparai, 4.Tharamangalam (M), Ward 16, Kuppamuthu Valavu, 5.Tharamangalam (M), Ward 16, Periyampatty, 6.Tharamangalam (M), Ward 16, Periyampattty Kattuvalavu,
+7.Tharamangalam (M), Ward 16, Kuruvamparai Adidravidar stree"
+205,87,204,,"Sengunthar Mahajana Higher Secondary School,Tharamangalam -636502, Terraced Building
+Facing North West Wing Room No 18","1.Tharamangalam (M), Ward 1, Omalur Road"
+206,87,205,,"Panchayat Union Middle School, Arunachalam Puthur, Tharamangalam-636502, Terraced Building Facing
+North, West Portion.","1.Tharamangalam (M), Ward 1, Pothanoor Road"
+207,87,206,,"Panchayat Union Middle School, Arunachalam Puthur, Tharamangalam-636502,Terraced Building Facing
+West Portion.","1.Tharamangalam (M), Ward 1, Pothanoor Road"
+208,87,207,,"Sengunthar Mahajana Higher Secondary School,Tharamangalam -636502, Terraced Building Facing South Middle Portion Room No 13","1.Tharamangalam (M), Ward 2, Pattappan koil street, 2.Tharamangalam (M), Ward 2, Sooramangalam Main Road, 3.Tharamangalam (M), Ward 2, Pugayilaikaran santhu, 4.Tharamangalam (M), Ward 2, Mathesa Muthali street, 5.Tharamangalam (M), Ward 2, Sangagiri Main Road, 6.Tharamangalam (M), Ward 2, Pullikkara Ramasamy Muthali street, 7.Tharamangalam (M), Ward 2, Murugesa Muthali street"
+209,87,208,,"Panchayat Union Middle School,MGR Colony Tharamangalam-636502, Terraced Building Facing
+North Portion","1.Tharamangalam (M), Ward 4, Mel Chinnagoundampatty"
+210,87,209,,"Panchayat Union Elementary School, Keela Chinnagoundampatty-636502, Terraced Building
+Facing South","1.Tharamangalam (M), Ward 4, Keela Chinnagoundampatty,"
+211,87,210,,"Panchayat Union Elementary School,East Pavadi Tharamangalam -636502, Terraced Building South Facing West Portion,Room No 1","1.Tharamangalam (M), Ward 4, Sangagiri Main Road, 2.Tharamangalam (M), Ward 4, Kattur Kattukottai, 3.Tharamangalam (M), Ward 4, South street, kattukottai, 4.Tharamangalam (M), Ward 4, Kattur,
+5.Tharamangalam (M), Ward 4, Yemarajanvalavu"
+212,87,211,,"Panchayat Union Middle School,MGR Colony Tharamangalam-636502, Terraced Building Facing
+East Central Wing.,Room No 3","1.Tharamangalam (M), Ward 5, M.G.R.Colony,
+2.Tharamangalam (M), Ward 5, Matha koil near, Nariampattiyanvalavu,"
+213,87,212,,"Panchayat Union Middle School,MGR Colony Tharamangalam-636502, Terraced Building Facing
+East South Wing.,Room No 4","1.Tharamangalam (M), Ward 5, M.G.R.Colony"
+214,87,213,,"Panchayat Union Middle School,M.G.R Colony Tharamangalam -636502, Terraced Building Facing East North Wing,Room No 5","1.Tharamangalam (M), Ward 3,5 Mettupatty, 2.Tharamangalam (M), Ward 5, Nariyampattiyan Valavu, 3.Tharamangalam (M), Ward 5, Aanai goundan Valavu, 4.Tharamangalam (M), Ward 5, Muthugoundan Valavu,
+5.Tharamangalam (M), Ward 4, Nariyampattiyanvalavu,"
+215,87,214,,"Panchayat Union Elementary School,East Pavadi Tharamangalam -636502, Terraced Building Facing North East Portion,Room No 5","1.Tharamangalam (M), Ward 2, Thottikkara Kailasa Santhu, 2.Tharamangalam (M), Ward 2, Singandisiddhan Santhu, 3.Tharamangalam (M), Ward 2, Thandumariyamman Koil street, 4.Tharamangalam (M), Ward 2, Uppukinaddru Santhu, 5.Tharamangalam (M), Ward 2, Muthukaruppu Muthali santhu, 6.Tharamangalam (M), Ward 2,3 East Pavadi street, 7.Tharamangalam (M), Ward 3,18,7 Sangagiri Mainroad, 8.Tharamangalam (M), Ward 3, Thaichidda Muthali santhu, 9.Tharamangalam (M), Ward 3,2 East Pavadi New street, 10.Tharamangalam (M), Ward 4, Chinnakavundanpatty,"
+216,87,215,,"Panchayat Union Elementary School,Pavadi Tharamangalam-636502, New Terraced Building Facing West South Wing.,Room No 4","1.Tharamangalam (M), Ward 3, Pulavan Santhu, 2.Tharamangalam (M), Ward 3, Sokkapattan Ambayiram street, 3.Tharamangalam (M), Ward 3, Pavadi Vengattamuthali Santhu, 4.Tharamangalam (M), Ward 3, Pavadi periyanna Muthali santhu,
+5.Tharamangalam (M), Ward 3,6 Singandi Lakshmana muthali street, 6.Tharamangalam (M), Ward 6, Konakkaliappan Santhu, 7.Tharamangalam (M), Ward 6, Andiyappamuthali street, 8.Tharamangalam (M), Ward 6, Kattumel Vannara santhu"
+217,87,216,,"Panchayat Union Elementary School,South Car Street Tharamangalam-636502, New Terraced Building South Facing West Portion.,Room No 1","1.Tharamangalam (M), Ward 6, Kattayamuthu Muthali street, 2.Tharamangalam (M), Ward 7, Kandasamy koil Santhu, 3.Tharamangalam (M), Ward 7, Jambulingam Muthali street, 4.Tharamangalam (M), Ward 7 , Meenatchiappa Muthali street, 5.Tharamangalam (M), Ward 7, Chinnarasu Perianna muthali street, 6.Tharamangalam (M), Ward 7, Kandavel muthu Muthali santhu, 7.Tharamangalam (M), Ward 7, Muthukumarasamy koil street, 8.Tharamangalam (M), Ward 7, AtthaniMarimuthu Muthali street, 9.Tharamangalam (M), Ward 7, North Santhu,
+10.Tharamangalam (M), Ward 7, Sakthi mariyamman koil near, 11.Tharamangalam (M), Ward 12, Madam Santhu"
+218,87,217,,"Panchayat Union Elementary School,Pavadi Tharamangalam-636502, Terraced Building North Facing East Wing.,Room No 6","1.Tharamangalam (M), Ward 3, Veerappa Chetty santhu, 2.Tharamangalam (M), Ward 3, Pandiraja Muthalisanthu, 3.Tharamangalam (M), Ward 3, Pappampady, Kandappa Muthalisanthu, 4.Tharamangalam (M), Ward 3, Santhappa Muthali Santhu, 5.Tharamangalam (M), Ward 3, Saravana Kuppusamy Muthalisanthu, 6.Tharamangalam (M), Ward 3, Vannara Santhu,
+7.Tharamangalam (M), Ward 6, Kuppanna Kailasamuthali Santhu, 8.Tharamangalam (M), Ward 6, Ammani Palaniappa Muthali Santhu, 9.Tharamangalam (M), Ward 6, Velayutha Muthali Kattusanthu, 10.Tharamangalam (M), Ward 6,3 K. S. Arumugamuthali Santhu, 11.Tharamangalam (M), Ward 6, Pavadi Arumugamuthali street, 12.Tharamangalam (M), Ward 6, Kanjaramalinga Muthali street, 13.Tharamangalam (M), Ward 6, Periasamy muthali Santhu"
+219,87,218,,"Panchayat Union Elementary School,South Car Street Tharamangalam-636502, Terraced Building Facing South East Wing,Room No 2","1.Tharamangalam (M), Ward 6, Kandasamy Vannan Santhu, 2.Tharamangalam (M), Ward 6, Adidravidar street,  3.Tharamangalam (M), Ward 6, Methaikadai Sanmugamuthali street, 4.Tharamangalam (M), Ward 6, Kothandamarimuthu Muthali street, 5.Tharamangalam (M), Ward 6, Ottakoothan Santhu, 6.Tharamangalam (M), Ward 9, West car street,
+7.Tharamangalam (M), Ward 9,12 Kadaiyampatty Appavu MuthaliSanthu,
+8.Tharamangalam (M), Ward 12, Bavani Kandappamuthali Santhu, 9.Tharamangalam (M), Ward 12, Keelakathi kuppanna Muthali Santhu, 10.Tharamangalam (M), Ward 12, South Car Street"
+220,87,219,,"Panchayat Union Middle School,Jalakandapuram Main Road Taramangalam -636502, Terraced Building Facing North Middle Wing.,Room No 1","1.Tharamangalam (M), Ward 7, Adidravidar Street, 2.Tharamangalam (M), Ward 10, Nallakinaru Street, 3.Tharamangalam (M), Ward 10, New Street No.1,
+4.Tharamangalam (M), Ward 10, New Street No.2"
+221,87,220,,"Panchayat Union Middle School,Jalakandapuram Main Road Tharamangalam -636502, Terraced Building Facing North West Wing,Room No 2","1.Tharamangalam (M), Ward 10, Pethan Nanchappan, 2.Tharamangalam (M), Ward 10, Athiappa Chinnathambi Street, 3.Tharamangalam (M), Ward 7, Ambedkar Nagar, 4.Tharamangalam (M), Ward 10, New Street No.9, 5.Tharamangalam (M), Ward 10,13 New Street No.10,
+6.Tharamangalam (M), Ward 13, Mannudaiyar Street"
+222,87,221,,"Panchayat Union Middle School,Jalakandapuram Main Road Tharamangalam -636502, Terraced
+Building Facing North East Wing.,Room No 3","1.Tharamangalam (M), New Street No.1, 2.Tharamangalam (M), New Street No.2"
+223,87,222,,"Panchayat Union Middle School,Jalakandapuram Main Road Tharamangalam -636502, Terraced Building Facing North West Wing.,Room No 4","1.Tharamangalam (M), New Street No.3, 2.Tharamangalam (M), New Street No.4, 3.Tharamangalam (M), New Street No.5, 4.Tharamangalam (M), New Street No.6, 5.Tharamangalam (M), New Street No.7,
+6.Tharamangalam (M), New Street No.8"
+224,87,223,,"Government Girls Higher Secondary School,Tharamangalam-636502,Terraced Building Facing South, West Portion","1.Tharamangalam (M), Ward 13,17,7 Karaikattu Mariamman Koil St, 2.Tharamangalam (M), Ward 17, Mattukaran Santhu, 3.Tharamangalam (M), Ward 13,17 North Karaikattu Vellalar street, 4.Tharamangalam (M), Ward 17, Pillaiyar Koil Street, 5.Tharamangalam (M), Ward 17,13,8 East Karaikattu Street, 6.Tharamangalam (M), Ward 13, Vellalar Street,
+7.Tharamangalam (M), Ward 13, East Kanakkar Street"
+225,87,224,,"Government Girls Higher Secondary
+School,Tharamangalam-636502,Terraced Building Facing West, North Portion.","1.Tharamangalam (M), Ward 8,17 Nangavalli Main Road,
+2.Tharamangalam (M), Ward 13, Jalakandapuram Mainroad, 3.Tharamangalam (M), Ward 13, Mannudaiyar Street"
+226,87,225,,"Panchayat Union Elementary School,Sannadhi Street Near Old PoliceStation Tharamangalam-636502, Tiled Building Facing East,North Portion.,Room No 4","1.Tharamangalam (M), Ward 17, Jalakandapuram Road, 2.Tharamangalam (M), Ward 17, Pathrakaliamman Koil Street, 3.Tharamangalam (M), Ward 17, Periamariamman Koil Street, 4.Tharamangalam (M), Ward 8,17 Arunachala kurukkal Street, 5.Tharamangalam (M), Ward 8,12 Semmoonchi Siddamuthaliyar Santhu, 6.Tharamangalam (M), Ward 8, Sidda Vaiyapurimuthali Street, 7.Tharamangalam (M), Ward 8,17,13,3 Perumal Koil Street"
+227,87,226,,"Panchayat Union Elementary School,Sannadhi Street Near Old PoliceStation Tharamangalam-636502, Tiled Building Facing South,East Portion. ,Room No 5","1.Tharamangalam (M), Ward 8,9 Kailasa nathar Koil Street, 2.Tharamangalam (M), Ward 8, Pattakkara Kandhappan Muthali santhu, 3.Tharamangalam (M), Ward 9, Muniappan Koil Street, 4.Tharamangalam (M), Ward 9, Pandara Edumbanmuthali Santhu, 5.Tharamangalam (M), Ward 9, Veerapandi Arumugam Muthali Santhu, 6.Tharamangalam (M), Ward 9,12 Sannathi Street,
+7.Tharamangalam (M), Ward 9, Athiaman Chinnathambi Santhu, 8.Tharamangalam (M), Ward 9, Kachuvalli Nagappamuthali Santhu, 9.Tharamangalam (M), Ward 9, Bajanai Madam Santhu"
+228,87,227,,"Panchayat Union Elementary School,Sannadhi Street Near Old PoliceStation Tharamangalam-636502, Tiled Building Facing North Middle Portion,Room No 6","1.Tharamangalam (M), Ward 9, Kadaikkara muthammal Street, 2.Tharamangalam (M), Ward 9, Velayutham Muthali Santhu, 3.Tharamangalam (M), Ward 2,9 Vadivel Muthali Santhu, 4.Tharamangalam (M), Ward 9, Natesamuthali Santhu, 5.Tharamangalam (M), Ward 7,17 Nangavalli MainRoad, 6.Tharamangalam (M), Ward 12, West Car Street, 7.Tharamangalam (M), Ward 12, Mottaiya Marimuthu Street, 8.Tharamangalam (M), Ward 12, Rattukkara Kumaramuthali Street,
+9.Tharamangalam (M), Ward 12, Kullamuthu Gurunathamuthali Street, 10.Tharamangalam (M), Ward 12, Atthiappa Ramasamy Muthali Street"
+229,87,228,,"Government Girls Higher Secondary School,Tharamangalam-636502, Terraced Building Facing West North Wing,Room No 1","1.Tharamangalam (M), Ward 14, Kolikkattaanoor, 2.Tharamangalam (M), Ward 14, MuniaGoundan valavu, 3.Tharamangalam (M), Ward 14, Kolikkaattaanoor,
+MuniaGoundenvalavu"
+230,87,229,,"Government Girls Higher Secondary School,Tharamangalam-636502, Terraced Building West Facing South Portion Room No 2","1.Tharamangalam (M), Ward 14, Kolikkattaanoor, Jalagandapuram Road, 2.Tharamangalam (M), Ward 14, Vetnikaradu,
+3.Tharamangalam (M), Ward 14, Tharamangalam, 4.Tharamangalam (M), Ward 14, Vetnikaradu East Area"
+231,87,230,,"Government Girls Higher Secondary School,Tharamangalam-636502, Terraced Building
+West Facing North Portion. Room No 2","1.Tharamangalam (M), Ward 15, Kolikkattaanoor Vetnikkaradu,"
+232,87,231,,"Panchayat Union Middle School,Parakkallur Taramangalam-636502, Terraced Building Facing West South Portion, Room No 1","1.Tharamangalam (M), Ward 14, Parakkallur,
+2.Tharamangalam (M), Ward 15, Kasuvareddipatty, Pallakkattu kottai, 3.Tharamangalam (M), Ward 15, Kasuvareddipatty, Kattukottaigal"
+233,87,232,,"Panchayat Union Middle School,ParakkallurTaramangalam-636502, Terraced Building Facing West South Wing,Room No 2","1.Tharamangalam (M), Ward 15, Kasuvareddipatty, Nangavalli Road, 2.Tharamangalam (M), Ward15, Kasuvareddipatty, Kattuppaguthi, 3.Tharamangalam (M), Ward 15, Kasuvareddipatty, Arunthiyar St, 4.Tharamangalam (M), Ward 14, Tholasampatty X Road, 5.Tharamangalam (M), Ward 15, Kasuvareddipatty, 6.Tharamangalam (M), Ward 14, Kolippannai Street"
+234,87,233,,"Panchayat Union Middle School,Pavalathanoor in Kurukkupatti -636502, Terraced Building Facing South West Wing.,Room No 5","1.Kurukkupatty (R.V) And (P), Ward 1, Tharamangalam Main Road, 2.Kurukkupatty (R.V) And (P), Ward 1,2 Colony Street, 3.Kurukkupatty (R.V) And (P), Ward 1, Kurukkupatty Road,
+4.Kurukkupatty (R.V) And (P), Ward 1, Mariamman Street"
+235,87,234,,"Panchayat Union Middle School,Pavalathanoor Kurukkupatti -636502, Terraced Building Facing South East Wing,Room No 7","1.Kurukkupatty (R.V) And (P), Ward 1, Kattapuliamara Road, 2.Kurukkupatty (R.V) And (P), Ward 1, Pothanur Road, 3.Kurukkupatty (R.V) And (P), Ward 1, Tharamangalam Border,
+4.Kurukkupatty (R.V) And (P), Ward 2, Tharamangalam to Junction Road, 5.Kurukkupatty (R.V) And (P), Ward 2,3 Murugan Koil Street,"
+236,87,235,,"Panchayat Union Middle School,Pavalathanoor in Kurukkupatti -636502, Terraced Building North Facing West Portion,Room No 2","1.Kurukkupatty (R.V) And (P), Ward 2,3 Raja Street, 2.Kurukkupatty (R.V) And (P), Ward 1,2,3 Vannaan Street,
+3.Kurukkupatty (R.V) And (P), Ward 2, Pavalathaanoor kattuvalavu West, 4.Kurukkupatty (R.V) And (P), Ward 2, Konery Valavu,
+5.Kurukkupatty (R.V) And (P), Ward 1,2 Pavalathaanoor kattuvalavu East, 6.Kurukkupatty (R.V) And (P), Ward 2, Lakshmayur x Road"
+237,87,236,,"Panchayat Union Middle School,Lashumaur -636306, Terraced Building North Facing East Portion,Room No
+1","1.Desavilakku South (R.V) And (P), Ward 1, Lakshmayur, Kattuvalavu, 2.Desavilakku South (R.V) And (P), Ward 1, Lakshmayur,"
+238,87,237,,"Panchayat Union Middle School,Lashumaur -636306, Terraced Building Facing East South Wing. Room No 2","1.Desavilakku South (R.V) And (P), Ward 2, Pallikondanparai, 2.Desavilakku South (R.V) And (P), Ward 2, Pallikondanparai, 3.Desavilakku South (R.V) And (P), Ward 2, Anaimedu,
+4.Desavilakku South (R.V) And (P), Ward 1, Anaimedu"
+239,87,238,,"Panchayat Union Middle School,Lashumaur -636306, Terraced Building Facing East South Wing Room No 3","1.Desavilakku South (R.V) And (P), Ward 2, Solaivalavu, 2.Desavilakku South (R.V) And (P), Ward 2, Periapatty,
+3.Desavilakku South (R.V) And (P), Ward 2, Veethan Kattuvalavu"
+240,87,239,,"Panchayat Union Middle School,Mattaiyampatty - 636306, New Terraced Building Facing North East
+Wing,Room No 1","1.Desavilakku South (R.V) And (P), Ward 3, Karattukadu, 2.Desavilakku South (R.V) And (P), Ward 3, Amman Koil Kadu,
+3.Desavilakku South (R.V) And (P), Ward 3, Poovanvalavu"
+241,87,240,,"Panchayat Union Middle School,Mattaiyampatty - 636306, New Terraced Building Facing North West Wing,Room No 2","1.Desavilakku South (R.V) And (P), Ward 3,4 Mattaiyampatty, 2.Desavilakku South (R.V) And (P), Ward 4, Savanvalavu,
+3.Desavilakku South (R.V) And (P), Ward 5, Savanvalavu, Arunthathiyar
+Street"
+242,87,241,,"Panchayat Union Elementary School,Chinnapillaiyur-636306, Terraced Building Facing North, East Portion.","1.Desavilakku South (R.V) And (P), Ward 6, Kasaperikodi, 2.Desavilakku South (R.V) And (P), Ward 6,Chinnapillaiyur,
+3.Desavilakku South (R.V) And (P), Ward 5, Kotthanvalavu"
+243,87,242,,"Panchayat Union Middle School,Mattaiyampatty - 636306, Terraced Building Facing North West
+Wing.,Room No 4","1.Desavilakku South (R.V) And (P), Ward 5, Thoppampatty, 2.Desavilakku South (R.V) And (P), Ward 5, Koodaramedu,
+3.Desavilakku South (R.V) And (P), Ward 4, Savanvalavu"
+244,87,243,,"Panchayat Union Middle School,Mattaiyampatty - 636306, Terraced Building Facing North East Portion","1.Desavilakku South (R.V) And (P), Ward 7, Elamagoundanur, 2.Desavilakku South (R.V) And (P), Ward 1, Karuthanur, 3.Desavilakku South (R.V) And (P), Ward 7, Kattuvalavu, 4.Desavilakku South (R.V) And (P), Ward 7, Kattaiyanvalavu,
+5.Desavilakku South (R.V) And (P), Ward 6,5 Kattaiyan Kattuvalavu"
+245,87,244,,"Panchayat Union Elementary School,Thuttampatty - 636306, Terraced Building Facing East Separate Building,Room No 3","1.Desavilakku North (R.V), Thuttampatty (P), Ward 1, Matheswaran koil, Arunthathiyar Street,
+2.Desavilakku North (R.V), Thuttampatty (P), Ward 1,Kalaiyappanvattam,
+Ellappanvattam"
+246,87,245,,"Panchayat Union Elementary School,Thuttampatty - 636306, Terraced Building Facing South Separate Building,Room No 4","1.Desavilakku North (R.V), Thuttampatty (P), Ward 1, Newmariammankoil, Ganeshkaranvattam,
+2.Desavilakku North (R.V), Thuttampatty (P), Ward 1, Ponnaiyarvattam,
+Ayamarathur, Kalivattam"
+247,87,246,,"Panchayat Union Middle School,Attayanpattianvattam Desavilakku (N)- 636306, Terraced Building East Facing North Portion,Room No 1","1.Desavilakku North (R.V), Thuttampatty (P), Ward 1, Aaranvalavu, Kandaivattam,perunthanaiyan Vattam"
+248,87,247,,"Panchayat Union Elementary School,Thudampatty - 636306, Terraced Building Facing North, Middle
+Wing,Room No 1","1.Desavalakku North (R.V), Thuttampatty (P), Ward 1, Attaiyampattyan vattam, Kodiyan vattam"
+249,87,248,,"Panchayat Union Middle School,Attayanpattian vattam Desavilakku(N) - 636306, Terraced Building
+East Facing South Portion ,Room No 3","1.Desavilakku North (R.V) Thuttampatty (P), Ward 1, Konadhasanvalavu, Pookkaravattam, Eastmedu, sanganvattam"
+250,87,249,,"Panchayat Union Middle School, Sengodanor Desavilakku (N)- 636306, Terraced Building Facing North, West portion.","1.Desavilakku north (R.V) Thuttampatty (P), Ward 2, Chinnakuttyvattam, sengodanur,
+2.Desavilakku North (R.V) Thuttampatty (P), Ward 2, Aruvankadu,
+Byepass, Pananchari"
+251,87,250,,"Panchayat Union Elementary School,Thuttampatty Desavilakku (N)-636306, Terraced Building North Facing west portion,Room No 2","1.Desavilakku North(R.V) Thuttampatty (P), Ward 2, Thuttampatty Kottai"
+252,87,251,,"Panchayat Union Middle School,Vanichampatty In Desavilakku- 636306, Terraced Building East Facing
+South Portion, Room No 4","1.Desavilakku North (R.V) Thuttampatty (P), Ward2, Vanichampatty Sottayankadu Moothanvalavu"
+253,87,252,,"Panchayat Union Middle School,Vanichampatty In Desavilakku- 636306, Terraced Building North Facing
+West Portion","1.Desavilakku North (R.V) Thuttampatty (P), Ward2, Vanichampatty Sottayankadu Moothanvalavu"
+254,87,253,,"Panchayat Union Middle School,Vanichampatty In Desavilakku- 636306, Terraced Building Facing North,
+East Portion.","1.Desavilakku North (R.V) Thuttampatty (P), Ward 2, Ponnappanvalavu, Vanichampatty, Malekattu Valavu"
+255,87,254,,"Panchayat Union Middle School,Thuttampatty Sengodanur - 636306, New Terraced Building Facing East South Wing,Room No 2","1.Desavalakku North (R.V), Thuttampatty (P), Ward 3, Panchari, ColourKadu, Pipas,
+2.Desavalakku North (R.V), Thuttampatty (P), Ward3,Pallakkadu,
+Sottaiyankadu,Vanichampatty,Melkattu Valavu"
+256,87,255,,"Panchayat Union Middle School,Vanichampatty - 636306, Terraced Building Facing East, North Portion","1.Desavalakku North (R.V), Thuttampatty (P), Ward 3, Vellakkalpatty,Manthivalavu,Sangaranvattam"
+257,87,256,,"Panchayat Union Elementary School, Thuttampatty - 636306, Terraced Building Facing South Middle Portion","1.Desavalakku north (R.V), Thuttampatty (P), Ward 3,VeerappaGoundervattam,Thuttampattivalavu,
+2.Desavalakku North (R.V), Thuttampatty (P), Ward 3, Chinnakuttivattam,
+Kuzhanthaiyappanvattam"
+258,87,257,,"Panchayat Union Elementary School,Mattaiyampatti - 637502, Terraced Building Facing South, East
+Portion.,Room No 1","1.Edanganasalai (M), Ward 1, Maataiyampatty, 2.Edanganasalai (M), Ward 1, Naapalayam"
+259,87,258,,"Panchayat Union Elementary School,Mattaiyampatti - 637502, Single Room Terraced Building Facing
+South.,Room No 2","1.Edanganasalai (M), Ward 1, Mattaiyampatty Kattuvalavu"
+260,87,259,,"Government High School,Mattaiyampatty -637502, Terraced Building Facing West, North Portion.,Room
+No 3","1.Edanganasalai (M), Ward 1, Naapalayam, 2.Edanganasalai (M), Ward 2, Thoothanur"
+261,87,260,,"Panchayat Union Middle School,E-Mettukadu-637502, Terraced Building Facing South, West Portion.,Room
+No 1","1.Edanganasalai (M), Ward 2, Chittanur, 2.Edanganasalai (M), Ward 2, Marimuthanvalavu,"
+262,87,261,,"Panchayat Union Middle School, E-Mettukadu-637502, Terraced Building Facing East, South Portion","1.Edanganasalai (M), Ward 6, Mettukadu"
+263,87,262,,"Panchayat Union Primary School,E.Kattur-637502, Single Room Terraced Building Facing West.,Room No
+1","1.Edanganasalai (M), Ward 3, Kattur"
+264,87,263,,"Panchayat Union Elementary School,E.Kattur-637502, Tiled Building Facing North, West Portion.,Room No 2","1.Edanganasalai (M), Ward 3, K.K.Nagar"
+265,87,264,,"Government Higher Secondary School, K.K.Nagar-637502. Terraced Building South Facing West Portion.
+Room No.20","1.Edanganasalai (M), Ward 4, K.K.Nagar,"
+266,87,265,,"Government Higher Secondary School, K.K.Nagar-637502. Terraced Building South Facing West Portion.
+Room No.21","1.Edanganasalai (M), Ward 4, K.K.Nagar, 2.Edanganasalai (M), Ward 4, Kanjamalaiyur"
+267,87,266,,"Panchayat Union Elementary School,K.K.Nagar-637502, Terraced Building Facing South, Middle
+Portion.,Room No 2","1.Edanganasalai (M), Ward 5, K.K.Nagar"
+268,87,267,,"Panchayat Union Primary School,K.K.Nagar-637502,
+Terraced Building Facing West North Portion,Room No 6","1.Edanganasalai (M), Ward 5, K.K.Nagar, 2.Edanganasalai (M), Ward 5, Saathampalayam"
+269,87,268,,"Panchayat Union Elementary School,Kosavapatti - 637502, Terraced Building Facing West, Head Master
+Room,Room No 2","1.Edanganasalai (M), Ward 6, Saathampalayam Kattuvalavu, 2.Edanganasalai (M), Ward 6, Paramagoundanur"
+270,87,269,,"Panchayat Union Elementary School,Kosavapatti - 637502, Tiled Building Facing North, West Portion.","1.Edanganasalai (M), Ward 7, Kosavapatty,"
+271,87,270,,"Panchayat Union Elementary School,Kosavapatti - 637502, Tield Building Facing North, Middle Portion","1.Edanganasalai (M), Ward 7, Reddiyur. 2.Edanganasalai (M), Ward 7, Reddiyur
+3.Edanganasalai (M), Ward 9, Reddiyur Arunthathiyar Street,"
+272,87,271,,"Panchayat Union Elementary School, Elumathanur - 637502, Terraced Anganwadi Centre Building Facing East.","1.Edanganasalai (M), Ward 9, Ezhumaathanur East, 2.Edanganasalai (M), Ward 9, Ezhumaathanur West, 3.Edanganasalai (M), Ward 10, Vijayanagar,
+4.Edanganasalai (M), Ward 10, Gandhinagar Arunthathiyar Street"
+273,87,272,,"Panchayat Union Elementary School,Elumathanur - 637502, Terraced Building Facing North,West Portion,Room No 2","1.Edanganasalai (M), Ward 10, Nagar Kovil Street, 2.Edanganasalai (M), Ward 10, V.P.V. Street, 3.Edanganasalai (M), Ward 10, V.O.N. Street, 4.Edanganasalai (M), Ward 10, Gandhinagar,
+5.Edanganasalai (M), Ward 10, Asari Street"
+274,87,273,,"Panchayat Union Middle School, Nallanampatti - 637502, Terraced Building Facing South, East Portion.","1.Edanganasalai (M), Ward 9, Nallanampatty,"
+275,87,274,,"Panchayat Union Middle School, Nallanampatti - 637502, Terraced Building Facing South, West Portion","1.Edanganasalai (M), Ward 9, Nallanampatty Kattuvalavu, 2.Edanganasalai (M), Ward 9, Thaluvakaran Vattam,
+3.Edanganasalai (M), Ward 9, Ezhumaathanur East"
+276,87,275,,"Panchayat Union Middle School,Nallanampatti - 637502, (SSA) Terreced Building Facing South East Wing Room No 2","1.Edanganasalai (M), Ward 7, Mannatha Goundenur, 2.Edanganasalai (M), Ward 8, Siddhar Kovil, 3.Edanganasalai (M), Ward 8, Ponnagaram,
+4.Edanganasalai (M), Ward 8, Siddheswarar Nagar"
+277,87,276,,"Panchayat Union Middle School,Nallanampatti - 637502, (SSA) Terreced Building Facing South East Wing Room No 3","1.Edanganasalai (M), Ward 8,Gunduramanvalavu, Nallanampattykattuvalavu,
+2.Edanganasalai (M), Ward 8, Appaachi Valavu,
+3.Edanganasalai (M), Ward 8, Sandhaikaran Valavu"
+278,87,277,,"Panchayat Union Middle School,Nallanampatti -
+637502, Terraced Building Facing South West Portion,Room No 4","1.Edanganasalai (M), Ward 10, East Puliampatty, 2.Edanganasalai (M), Ward 10, Malankadu"
+279,87,278,,"Panchayat Union Middle School,Kadayampatti - 637502, Terraced Building Facing North, Middle
+Portion.,Room No 1","1.Edanganasalai (M), Ward 11, Kadayampatty Chettiyar Street, 2.Edanganasalai (M), Ward 11, Kadayampatty North Street"
+280,87,279,,"Panchayat Union Middle School,Kadayampatti - 637502, Terraced Building Facing North, West
+Portion,Room No 2","1.Edanganasalai (M), Ward 11, Kadayampatty Athithiravidar Street, 2.Edanganasalai (M), Ward 12, Kadayampatty South Street,"
+281,87,280,,"Panchayat Union Middle School,Kadayampatti-637502, Terraced Building Facing West, South Portion","3.Edanganasalai (M), Ward 12, Pappapatty Kattuvalavu, 4.Edanganasalai (M), Ward 12, West Puliampatty"
+282,87,281,,"Panchayat Union Middle School,Rasigoundanur-637502 Terraced Building Facing West, South
+Portion.,Room No 6","1.Edanganasalai (M), Ward 14, Pappapatty Kattuvalavu, 2.Edanganasalai (M), Ward 14, Pappapatty Kattuvalavu,"
+283,87,282,,"Panchayat Union Middle School,Kadayampatti-637502, Terraced Building Facing West, North
+Portion.,Room No 4","1.Edanganasalai (M), Ward 14, Mottur"
+284,87,283,,"Panchayat Union Middle School,Rasigoundanur-637502, Single Room Terraced Building Facing West,Room No 2","1.Edanganasalai (M), Ward 15, Rasigoundanoor, 2.Edanganasalai (M), Ward 15, Vazhukkan Kadu, 3.Edanganasalai (M), Ward 15, Thokkaran Kadu,
+4.Edanganasalai (M), Ward 13, Pappapatty,"
+285,87,284,,"Panchayat Union Middle School, Kadayampatti-637502, New Terraced Building Facing North, East
+Portion,","1.Edanganasalai (M), Ward 13, Mottur"
+286,87,285,,"Panchayat Union Middle School, Kadayampatti-637502, New Terraced Building Facing North, West
+Portion","1.Edanganasalai (M), Ward 13, Mottur"
+287,87,286,,"Panchayat Union Middle School,Rasigoundanur-637502, North SideTerraced Building Facing West, North Portion.,Room No 2","1.Edanganasalai (M), Ward 15, Rasigoundanoor,
+2.Edanganasalai (M), Ward 15, Rasigoundanoor Arunthathiyar Street, 3.Edanganasalai (M), Ward 15, Meiyanoor,
+4.Edanganasalai (M), Ward 15, Vazhukan Kadu, 5.Edanganasalai (M), Ward 15, Thottakkaran Kadu"
+288,87,287,,"Panchayat Union Elementary School,Meiyanoor
+Panangkadu-637502, Terraced Building East Facing South Portion","1.Edanganasalai (M), Ward 16, Meiyanoor"
+289,87,288,,"Panchayat Union Elementary School, Meiyanoor Panangkadu-637502, Terraced Building East Facing
+North Portion.","1.Edanganasalai (M), Ward 16, Meiyanoor"
+290,87,289,,"Panchayat Union Elementary School,Koneripatti-637502, New Terraced Building Facing South, East
+Portion.","1.Edanganasalai (M), Ward 16, Pudhureddiyur, 2.Edanganasalai (M), Ward 16, Koneripatty East"
+291,87,290,,"Panchayat Union Elementary School,Koneripatti-637502, New Terraced Building Facing East, North
+Portion.","1.Edanganasalai (M), Ward 18, Valaiyachettipatty, 2.Edanganasalai (M), Ward 18, Koneripatty"
+292,87,291,,"Panchayat Union Elementary School,Madathur-637502, West Side Terraced Building North Facing
+East Portion,Room No 2","1.Edanganasalai (M), Ward 18, Madathur, 2.Edanganasalai (M), Ward 18, Madathur Kattuvalavu"
+293,87,292,,"Panchayat Union Middle School,Edanganasalai - 637502, Terraced Building Facing East, North
+Portion.,Room No 2","1.Edanganasalai (M), Ward 17, Edanganasalai"
+294,87,293,,"Panchayat Union Middle School, Edanganasalai - 637502, Terraced Building Facing North, West Portion","1.Edanganasalai (M), Ward 17, Edanganasalai"
+295,87,294,,"Panchayat Union Middle School,Ayyanur Thappakuttai -637502, Terreced Building Facing West
+North Portion,Room No 4","1.Thappakuttai (R.V) And (P), Ward 2, Guruvagoundanur, 2.Thappakuttai (R.V) And (P), Ward 2, Poosari Kattu Valavu"
+296,87,295,,"Panchayat Union Middle School,Ayyanur Thappakuttai -637502, Terreced Building Facing
+South, West Portion.,Room No 6","1.Thappakuttai (R.V) And (P), Ward 3, Southmedu Kattuvalavu."
+297,87,296,,"Panchayat Union Middle School, Ayyanur Thappakuttai -637502, Terreced Building Facing
+South, East Portion","1.Thappakuttai (R.V) And (P), Ward 3, Athithiravidar Street, 2.Thappakuttai (R.V) And (P), Ward 3, Ayyanur Thappakuttai"
+298,87,297,,"Panchayat Union Middle School,Ayyanur Thappakuttai -637502, Terraced Building Facing East
+,Room No 7","1.Thappakuttai (R.V) And (P), Ward 1, Krishna Reddiyur, 2.Thappakuttai (R.V) And (P), Ward 1, Navidhar Street,
+3.Thappakuttai (R.V) And (P), Ward 1, Arunthathiyar Street"
+299,87,298,,"Panchayat Union Middle School,Ayyanur
+Thappakuttai -637502, Tield Building Facing South, East Portion,Room No 8","1.Thappakuttai (R.V) And (P), Ward 1, Karuppgoundanur,
+2.Thappakuttai (R.V) And (P), Ward 1, Vellakaradu, 3.Thappakuttai (R.V) And (P), Ward 1, Kalinganur"
+300,87,299,,"Panchayat Union Elementary School,Thadikaranur - 637502, Asbestos Building Facing South, West
+Portion.,Room No 1","1.Thappakuttai (R.V) And (P), Ward 4, Dhadikaranur Kattuvalavu,"
+301,87,300,,"Panchayat Union Elementary School, Thadikaranur - 637502, Terraced Building Facing West,South Portion","1.Thappakuttai (R.V) And (P), Ward 4, Dhadikaranur Kattuvalavu, 2.Thappakuttai (R.V) And (P), Ward 4, Malangkadu,"
+302,87,301,,"Panchayat Union Elementary School,Chinna Mariyamman Kovil -637502, Terraced Building Facing
+West,North Portion","1.Thappakuttai (R.V) And (P), Ward 5, Muthukuttiyan Kattuvalavu,"
+303,87,302,,"Panchayat Union Elementary School,Chinna Mariyamman Kovil -637502, Terraced Building Facing South, East Portion.","1.Thappakuttai (R.V) And (P), Ward 5, Thappakuttai, Dhadikaranur, 2.Thappakuttai (R.V) And (P), Ward 5, Poochireddiyur, 3.Thappakuttai (R.V) And (P), Ward 5, Chinnamariamman Kovil,
+4.Thappakuttai (R.V) And (P), Ward 5, Thoppukadu"
+304,87,303,,"Panchayat Union Elementary School,Velagoundampalayam -637504, New Terraced Building Facing East,North Portion,Room No 1","1.Naduvaneri (R.V) And (P), Ward 1, Peruchali Natham, 2.Naduvaneri (R.V) And (P), Ward 1, N.Pudhur"
+305,87,304,,"Panchayat Union Elementary School,Velagoundampalayam -637504, New Terraced Building Facing East,Middle Portion,Room No 2","1.Naduvaneri (R.V) And (P), Ward 1, Arunthathiyar Street, 2.Naduvaneri (R.V) And (P), Ward 1, Kaattukottai, 3.Naduvaneri (R.V) And (P), Ward 1, Anjakkadu"
+306,87,305,,"Panchayat Union Elementary School,Velagoundam Palayam -637504, Terraced Building Facing North East
+Portion,Room No 3","1.Naduvaneri (R.V) And (P), Ward 2, Velagoundampalayam, 2.Naduvaneri (R.V) And (P), Ward 2, Aalankaattanur,
+3.Naduvaneri (R.V) And (P), Ward 2, Athithiravidar Street"
+307,87,306,,"Panchayat Union Elementary School,Naduvaneri Thoonganvalavu -637504, Terraced Building Facing
+East,South Portion,Room No 1","1.Naduvaneri (R.V) And (P), Ward 3, N.Vembadithalam, 2.Naduvaneri (R.V) And (P), Ward 3, Pattinathar Thottam"
+308,87,307,,"Panchayat Union Elementary School,Naduvaneri Thoonganvalavu -637504, Terraced Building Facing
+South, East Portion","1.Naduvaneri (R.V) And (P), Ward 3, Chinna Pethanur, 2.Naduvaneri (R.V) And (P), Ward 3, Annanagar"
+309,87,308,,"Panchayat Union Elementary School,Naduvaneri Thoongan Valavu -637504, Terraced Building East
+Facing North Portion,Room No 2","1.Naduvaneri (R.V) And (P), Ward 4, Kuzhandhan Valavu"
+310,87,309,,"Panchayat Union Elementary School,Naduvaneri Kattur-637504, Tiled Building Facing East North Portion,Room No 2","1.Naduvaneri (R.V) And (P), Ward 4, Thoppukattukottai,
+2.Naduvaneri (R.V) And (P), Ward 4, Chinnerikarai Arunthathiyar Street, 3.Naduvaneri (R.V) And (P), Ward 5, Thiruvalipatty Mettukadu"
+311,87,310,,"Panchayat Union Elementary School,Naduvaneri Kattur -637504, Terraced Building Facing West, South
+Portion.,Room No 3","1.Naduvaneri (R.V) And (P), Ward 5, Mettukadu, 2.Naduvaneri (R.V) And (P), Ward 5, Pattakaran Valavu,
+3.Naduvaneri (R.V) And (P), Ward 5, Thiruvalipatty Mettukadu,"
+312,87,311,,"Panchayat Union Elementary School,Naduvaneri Kattur -637504, Tiled Building Facing East, South
+Portion.","1.Naduvaneri (R.V) And (P), Ward 6, N.Kattur Kattuvalavu, N.Kattur, 2.Naduvaneri (R.V) And (P), Ward 6, Mettu Street"
+313,87,312,,"Panchayat Union Elementary School,Athikarapalayam - 637103, Tin Sheet Roof Building Facing East, South Portion.","1.Ernapuram (R.V),Magudanchavadi (P), Ward 3, Adhikarapalayam, 2.Ernapuram (R.V),Magudanchavadi (P), Ward 3, M.G.R. Nagar, 3.Ernapuram (R.V),Magudanchavadi (P), Ward 3, East Jayapuri, 4.Ernapuram (R.V),Magudanchavadi (P), Ward 3, Teacher Colony 5.Ernapuram (R.V),Magudanchavadi (P), Ward 1, Ernapuram
+Soriyampatty,"
+314,87,313,,"Panchayat Union Elementary School, Santhaipettai - 637103, Single Room Terraced Building Facing North.","1.Ernapuram (R.V),Magudanchavadi (P), Ward 1, Nambiyampatty, 2.Ernapuram (R.V),Magudanchavadi (P), Ward 1, Old Sandhaipet"
+315,87,314,,"Panchayat Union Elementary School,Athikarapalayam - 637103, Tin Sheet Roof Building Facing East, North
+Portion","1.Ernapuram (R.V),Magudanchavadi (P), Ward 2, Ulagappanur Adhikarapalayam,
+2.Ernapuram (R.V),Magudanchavadi (P), Ward 2, Ulagappanur"
+316,87,315,,"Panchayat Union Elementary School,Athikarapalayam - 637103, (SSA) New Terrced Building Facing west
+North Wing,Room No 4","1.Ernapuram (R.V),Magudanchavadi (P), Ward 3, Mariamman Kovil Street, 2.Ernapuram (R.V),Magudanchavadi (P), Ward 3, Railway Colony, 3.Ernapuram (R.V),Magudanchavadi (P), Ward 1, Karimedu,
+4.Ernapuram (R.V),Magudanchavadi (P), Ward 4, Shanmugapuram"
+317,87,316,,"Panchayat Union Elementary School,Athikarapalayam - 637103, Terraced Building Facing East South portion,Room No 5","1.Ernapuram (R.V),Magudanchavadi (P), Ward 4, Shanmugapuram, 2.Ernapuram (R.V),Magudanchavadi (P), Ward 4, Shanmugapuram Magundanchavadi,
+3.Ernapuram (R.V),Magudanchavadi (P), Ward 4, Aandipalayam Kattuvalavu,
+4.Ernapuram (R.V),Magudanchavadi (P), Ward 1, Karimedu,
+5.Ernapuram (R.V),Magudanchavadi (P), Ward 2, V.O.C. Nagar"
+318,87,317,,"Government Boys Higher Secondary School,Kuppandapalayam -637103, Terraced Building Facing North, East Portion.,Room No 1","1.Ernapuram (R.V),Magudanchavadi (P), Ward 5, Pattakaran Kadu, Kottaimedu,
+2.Ernapuram (R.V),Magudanchavadi (P), Ward 5, Arijana Street, 3.Ernapuram (R.V),Magudanchavadi (P), Ward 5, Paattappan Nagar, 4.Ernapuram (R.V),Magudanchavadi (P), Ward 5, Kalarpatty"
+319,87,318,,"Government Boys Higher Secondary School,Kuppaandapalayam -637103, Terraced
+Building Facing North West Portion,Room No 2","1.Ernapuram (R.V),Magudanchavadi (P), Ward 7, Kuppandapalayam, 2.Ernapuram (R.V),Magudanchavadi (P), Ward 7, Azhaganur"
+320,87,319,,"Government Boys Higher Secondary School,Kuppaandapalayam -637103, Terraced Building Facing West Middle Portion.,Room No 3","1.Ernapuram (R.V),Magudanchavadi (P), Ward 6, Mettu Street, 2.Ernapuram (R.V),Magudanchavadi (P), Ward 6, Goundaneri Kattu Valavu,
+3.Ernapuram (R.V),Magudanchavadi (P), Ward 6, Kattapulian Kadu, 4.Ernapuram (R.V),Magudanchavadi (P), Ward 7, Kuppandapalayam, 5.Ernapuram (R.V),Magudanchavadi (P), Ward 7, D.P.K. Nagar"
+321,87,320,,"Government Boys Higher Secondary School,Kuppandapalayam -637103, B Class Room Terraced Building Facing West South Portion ,Room No 1","1.Ernapuram (R.V),Magudanchavadi (P), Ward 8, Thattankattuvalavu, 2.Ernapuram (r.v),magudanchavadi (p), Ward 8, mettukadu pudhu valavu,
+3.Ernapuram (R.V),Magudanchavadi (P), Ward 8, Ernapuram, 4.Ernapuram (R.V),Magudanchavadi (P), Ward 7, Thattankattu Valavu"
+322,87,321,,"Panchayat Union Elementary School,Kaligoundampalayam -637103, Tiled Building Facing South East Portion,Room No 1","1.Kaligoundampalayam (R.V) And (P), Ward 1, Koothadipalayam, 2.Kaligoundampalayam (R.V) And (P), Ward 1, Mettuvalavu, 3.Kaligoundampalayam (R.V) And (P), Ward 1, Muthumari Thottam, 4.Kaligoundampalayam (R.V) And (P), Ward 1, Kallaavi Valavu"
+323,87,322,,"Panchayat Union Elementary School,Kaligoundampalayam -637103, Tiled Building Facing South West Portion,Room No 2","1.Kaligoundampalayam (R.V) And (P), Ward 2, Kaligoundampalayam, 2.Kaligoundampalayam (R.V) And (P), Ward 2, Mottandipalayam, 3.Kaligoundampalayam (R.V) And (P), Ward 2, Aruvan Kadu, 4.Kaligoundampalayam (R.V) And (P), Ward 2, Aranmanaikadu"
+324,87,323,,"Panchayat Union Middle School,Unjakkadu -637103, Terraced Building Facing North East Portion,Room No
+2","1.Kaligoundampalayam (R.V) And (P), Ward 3, Rangamuthanur, 2.Kaligoundampalayam (R.V) And (P), Ward 3, Athimarapatty,
+3.Kaligoundampalayam (R.V) And (P), Ward 3, Chinna Oonjakadu"
+325,87,324,,"Panchayat Union Middle School,Unjakkadu -637103,
+Terraced Building Facing North, East PortionRoom No 3","1.Kaligoundampalayam (R.V) And (P), Ward 4, Oonjakadu,
+2.Kaligoundampalayam (R.V) And (P), Ward 4, Norukkampalayam, 3.Kaligoundampalayam (R.V) And (P), Ward 4, Ammankovil Kadu"
+326,87,325,,"Panchayat Union Middle School,Unjakkadu -637103, Tiled Building Facing South, West Portion.,Room No 1","1.Kaligoundampalayam (R.V) And (P), Ward 5, Athithiravidar Street, 2.Kaligoundampalayam (R.V) And (P), Ward 5, Varappanangkadu, 3.Kaligoundampalayam (R.V) And (P), Ward 5, Punchai Kadu, 4.Kaligoundampalayam (R.V) And (P), Ward 5, Idayan Kadu, 5.Kaligoundampalayam (R.V) And (P), Oonjakadu"
+327,87,326,,"Panchayat Union Elementary School,Andipalayam - 637103, Terraced Building Facing East South
+Portion,Room No 1","1.Gudalur (R.V) And (P), Ward 5, Kunnipalayam,
+2.Gudalur (R.V) And (P), Ward 5, Karaiyeripallam"
+328,87,327,,"Panchayat Union Elementary School,Andipalayam - 637103, Terraced Building Facing East North
+Portion,Room No 2","1.Gudalur (r.v) and (p), Ward 6, aandipalayam"
+329,87,328,,"Panchayat Union Middle School,Gudalur -637103, Terraced Building Facing South, East Portion.,Room
+No 1","1.Gudalur (R.V) And (P), Ward 2, East Palayam Kattukottai"
+330,87,329,,"Panchayat Union Middle School, Gudalur -637103, Steel
+Roof Building Facing South, East Portion.","1.Gudalur (R.V) And (P), Ward 2, East Palayam Kattukottai"
+331,87,330,,"Panchayat Union Middle School,Gudalur -637103, Terraced Building Facing North, West Portion,Room No 4","1.Gudalur (R.V) And (P), Ward 4, Mooppampalayam,
+2.Gudalur (R.V) And (P), Ward 4, Gudalur Kaspa,
+3.Gudalur (R.V) And (P), Ward 4, Gudalur,
+4.Gudalur (R.V) And (P), Ward 3, Mettuvalavu"
+332,87,331,,"Panchayat Union Middle School,Gudalur -637103, CSIDS Terraced Building Facing East, North Portion.,Room No 8","1.Gudalur (R.V) And (P), Ward 1, Devarayampalayam Pudhuvalavu"
+333,87,332,,"Panchayat Union Middle School,Gudalur -637103, Terraced Building Facing North East Portion,Room No 3","1.Gudalur (R.V) And (P), Ward 3, Mettuvalavu,
+2.Gudalur (R.V) And (P), Ward 3, Pudhuvalavu,
+3.Gudalur (R.V) And (P), Ward 2, Kattukottai"
+334,87,333,,"Panchayat Union Elementary School,Kaakaapalyam - 637504, Terraced Building Facing East South Portion,Room No 1","1.Kanagagiri (R.V) And (P), Ward 3, Kothukkaran Kadu, 2.Kanagagiri (R.V) And (P), Ward 3,Malaipiriyampalayam,Malaipriiyampalayamkattuvalavu,
+3.Kanagagiri (R.V) And (P), Ward 3, Velappan Kovil Gounder Street,
+4.Kanagagiri (R.V) And (P), Ward 4, Aalangkudagu, Amsavel Colony, 5.Kanagagiri (R.V) And (P), Ward 2, Velappan Kovil Pallar Colony,"
+335,87,334,,"Panchayat Union Elementary School,Kaakaapalyam - 637504, Tiled Building Facing North ,Room No 2","1.Kanagagiri (R.V) And (P), Ward 4, Kakapalayam,
+2.Kanagagiri (R.V) And (P), Ward 4, Chettiyar Kadu, 3.Kanagagiri (R.V) And (P), Ward 4, Aalangkudagu"
+336,87,335,,"Panchayat Union Elementary School,Kaakaapalayam - 637504, New Single Room Terraced Building West Facing","1.Kanagagiri (R.V) And (P), Ward 1, Sokkarangan Kadu, 2.Kanagagiri (R.V) And (P), Ward 1, Pazhamandi Kattuvalavu, 3.Kanagagiri (R.V) And (P), Ward 1, Sengan Kadu N.H. Main Road, 4.Kanagagiri (R.V) And (P), Ward 1, Kanagagiri Colony,
+5.Kanagagiri (r.v) and (p), Ward 2, velappan kovil arunthathiyar colony, 6.Kanagagiri (R.V) And (P), Ward 2, Pazhaiyur Nadar Street, 7.Kanagagiri (R.V) And (P), Ward 2, Malaiyadivaram,
+8.Kanagagiri (R.V) And (P), Ward 2, Sathiya Nagar, 9.Kanagagiri (R.V) And (P), Ward 2, Maalaikatti Kadu, 10.Kanagagiri (R.V) And (P), Ward 2, Pazhamandi"
+337,87,336,,"Panchayat Union Middle School,Kandarkulamanickam - 637504, Tiled Building Facing South West Portion,Room No 1","1.Kandarkulamanickam (R.V) And (P), Ward 2, Aandipatty Panangkadu, 2.Kandarkulamanickam (R.V) And (P), Ward 2, Andipatty, 3.Kandarkulamanickam (R.V) And (P), Ward 2, Devan Kadu, 4.Kandarkulamanickam (R.V) And (P), Ward 2, Sekkumedu,
+5.Kandarkulamanickam (R.V) And (P), Ward 2, Navab Medu"
+338,87,337,,"Panchayat Union Middle School,Kandarkulamanickam - 637504, Tiled Building Facing South East Portion,Room No 2","1.Kandarkulamanickam (R.V) And (P), Ward 1, Kangiyampalayam, 2.Kandarkulamanickam (R.V) And (P), Ward 1, Kangiyampalayam Arunthathiyar Street,
+3.Kandarkulamanickam (R.V) And (P), Ward 5, Kandarkulamanickam West Kottai,
+4.Kandarkulamanickam (R.V) And (P), Ward 5, Quarters,
+5.Kandarkulamanickam (R.V) And (P), Ward 5, Ariyampalayam"
+339,87,338,,"Panchayat Union Middle School,Kandarkulamanickam - 637504, Terraced Building West Facing, North Portion.,Room No 3","1.Kandarkulamanickam (R.V) And (P), Ward 3, Sekkumedu, 2.Kandarkulamanickam (R.V) And (P), Ward 3, Kandarkulamanickam Arunthathiyar Colony,
+3.Kandarkulamanickam (R.V) And (P), Ward 3, Kandarkulamanickam"
+340,87,339,,"Panchayat Union Middle School,Kandarkulamanickam - 637504, Terraced Building West Facing, South Portion.,Room No 4","1.Kandarkulamanickam (R.V) And (P), Ward 4, Athithiravidar Colony, 2.Kandarkulamanickam (R.V) And (P), Ward 4, Veppamarathan Kadu, 3.Kandarkulamanickam (R.V) And (P), Ward 4, Kunjupaiyan Kadu, 4.Kandarkulamanickam (R.V) And (P), Ward 4, Kovilpalayam,
+5.Kandarkulamanickam (R.V) And (P), Ward 4, Kurukkalampalayam"

@@ -1,0 +1,615 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+1,232,1,"Manamakil Mantram, Kothaiyar Melthangal, Main Building, EB
+Department","1.Pechiparai ( R.V ), Peachiparai (P) Ward 1, Block 4, Kothaiyar Melthangal, 99.OVERSEAS ELECTORS",All Voters
+2,232,2,"Govt. H.S.Kodayar Lower Camp, Terraced Building, Northern Portion","1.Pechiparai ( R.V ), Peachiparai( P ) Ward 1, Block 2,3,Kothaiyar Kezhelthangal, 2.Pechiparai ( R.V ), Peachiparai ( P ) Ward 1, Block 4,5,  Kothaiyar
+Kezhelthangal south, 99.OVERSEAS ELECTORS",All Voters
+3,232,3,"P.W.D.Building,  Balamore,  Terraced Building, Northern Portion","1.Surulacode ( R.V ), Balamore ( P ) Ward 1, Block 1,4, Balamore, 2.Surulacode ( R.V ), Balamore ( P ) Block 4, Sambakkal, 99.OVERSEAS ELECTORS",All Voters
+4,232,4,"Karimoni Estate  Karimoni, Estate Old Hospital, Western  Portion","1.Surulacode ( R.V ), Balamore ( P ) Ward 1, Block 2, Karimoni, 2.Surulacode ( R.V ), Balamore ( P ) Block 3,
+Kaarimoni  Melpakuthi, 99.OVERSEAS ELECTORS",All Voters
+5,232,5,"Govt. Tribal Residence Hr.Sec.School,
+Pechipparai, Main Building, Northern Portion","1.Pechiparai ( R.V ), Peachiparai ( P ) Block 2, 5, 6, Vizhamalai, 99.OVERSEAS ELECTORS",All Voters
+6,232,6,"Govt. Tribal Residence Hr.Sec.School, Pechipparai, Main Building, Middle
+Portion","1.Pechiparai ( R.V ), Peachiparai ( P ) Block 7, 13, Peachiparai Hills, 99.OVERSEAS ELECTORS",All Voters
+7,232,7,"Govt. Tribal Residence High.School, Manalodai Eastern Main Building,
+Middle Portion","1.Pechiparai ( R.V ), Peachiparai ( P ) Block  8 Killikonam, Valiyamalai, Alamparai, Paduparai, Door No
+(8-1 to 8-972) 99.OVERSEAS ELECTORS",All Voters
+8,232,8,"Govt. Tribal Residence Primary School Pechipparai, Main Building, Eastern
+Portion","1.Peachiparai ( R.V ), Peachiparai ( P ) Ward 1, Block 8,10,  Maniyankozhi,, 99.OVERSEAS ELECTORS",All Voters
+9,232,9,"Govt. Tribal Residence Primary School
+Pechipparai, Main Building, Western Portion","1.Pechiparai ( R.V ), Peachiparai ( P ) Ward 5, Block
+9,12,13, Khakatchal,Thurainallur, 99.OVERSEAS ELECTORS",All Voters
+10,232,10,"Govt. Tribal Residence H.S.S.Pechipparai, Main Building, Southern Portion, 1st Room","1.Peachiparai ( R.V ), Peachiparai (P) Ward 4, Block 13, Ponniyakulam, Kadambamoodu, 2.Pechiparai ( R.V ), Peachiparai ( P ) Ward 4, Block 14 Gandhinagar,
+99.OVERSEAS ELECTORS",All Voters
+11,232,11,"Govt. Tribal Residence Hr.Sec.School, Pechipparai, Main Building, Southern portion Room No 2","1.Peachiparai ( R.V ), Peachiparai (P) Ward 4, Block 10,12,15, Gandhinagar, 99.OVERSEAS ELECTORS",All Voters
+12,232,12,"Govt. Tribal Residence H.S.S.Pechipparai, South East Building
+Western Portion","1.Peachiparai ( R.V ), Peachiparai ( P ) Block 10, Gandhinagar, 2.Peachiparai ( R.V ), Peachiparai ( P )
+Block 11, Peachiparai,  99.OVERSEAS ELECTORS",All Voters
+13,232,13,"Govt. Tribal Residence H.S.S.Pechipparai, Terraced North East
+Building   Middle Portion","1.Pechiparai ( R.V ), Pechiparai ( P ) Block 12, Anairoad, 99.OVERSEAS ELECTORS",All Voters
+14,232,14,"Govt. M.S.Ittakaveli, Terraced
+Building, Western  Portion","1.Thumbacode  A( R.V ), Thirparappu ( T.P ) Block 28,
+Aramannam East, 99.OVERSEAS ELECTORS",All Voters
+15,232,15,"Govt. M.S.Ittakaveli, New Building
+Western Tiled Building North Portion","1.Thumbacode A ( R.V ), Thirparappu ( T.P ) Block 29.
+Vilavoor konam, 99.OVERSEAS ELECTORS",All Voters
+16,232,16,"Govt. M.S.Ittakaveli, Terraced Building,  Central Portion","1.ThumbacodeA ( R.V ), Thirparappu ( T.P ) Block 25, Aramannam West, 2.Thumbacode A ( R.V ), Thirparappu ( T.P ) Block 26, Aramannam East, 99.OVERSEAS
+ELECTORS",All Voters
+17,232,17,"Government Middle School, Unniyoorkonam, Main Building,
+Western  Portion","Thumbacode A ( R.V ), Thirparappu ( T.P ) Block 18, Unniyoorkonam, Thumbacode West (Door No 18-1 to 18-
+135) 99.OVERSEAS ELECTORS",All Voters
+18,232,18,"Government Middle School, Unniyoorkonam, Main Building,
+Eastern  Portion","Thumbacode A ( R.V ), Thirparappu ( T.P ) Block 18, Unniyoorkonam, Thumbacode West (Door No 18-136 to
+18-270) 99.OVERSEAS ELECTORS",All Voters
+19,232,19,"Anganwadi Center Unniyoorkonam, South west Building, Northern Portion","1.Thumbacode A( R.V ), Thiruparappu ( T.P ) Block 22,
+Vilavoorkonam, Block 21,Kaithakkal, Pinamthode, 99.OVERSEAS ELECTORS",All Voters
+20,232,20,"Govt Middle School Unniyoorkonam, Eastern Terraced Building North
+Portion","1.Thumbacode A( R.V ), Thirparappu ( T.P ) Block 22, Vilavoorkonam, 99.OVERSEAS ELECTORS",All Voters
+21,232,21,"Govt Middle School Unniyoorkonam, West Tiled  Building, Southern  Portion","1.Thumbacode A( R.V ), Thirparappu ( T.P ) Block 7, Suriyakodu, Chekkal, 2.Thumbacode A ( R.V ), Thirparappu ( T.P ) Block 10, Pinanthodu 99.OVERSEAS
+ELECTORS",All Voters
+22,232,22,"Govt. M.S.Unniyoorkonam, West Tiled Building, Northern Portion","1.Thumbacode A ( R.V ), Thirparappu ( T.P ) Block 17, Kuruvipattu, Karaikodu, 99.OVERSEAS ELECTORS",All Voters
+23,232,23,"Agriculture Co-Operative Bank
+Building,  Thirunanthikkarai, New Building, Southern  Portion","1.Thumbacode B ( R.V ), Thirparappu ( T.P ) Block 11, Thittavilai  99.OVERSEAS ELECTORS",All Voters
+24,232,24,"Agriculture Co-Operative Bank Building,  Thirunanthikkarai, New Building, Western  Portion","1.Thumbacode B ( R.V ), Thirparappu ( T.P ) Block 3, Suriyacode,  2.Thumbacode B ( R.V ), Thirparappu ( T.P ) Block 4, Anjukandaparai, 99.OVERSEAS ELECTORS",All Voters
+25,232,25,"Government Primary School, Thirunanthikarai, New Terraced
+Building, Eastern Portion","1.Thumbacode B ( R.V ), Thirparappu ( T.P ) Block 12, Ward 6, Kochuveetuparai, 99.OVERSEAS ELECTORS",All Voters
+26,232,26,"Government Primary School, Thirunanthikarai, New Terraced
+Building, Southern Portion","1. Thumbacode B ( R.V ), Thirparappu ( T.P ) Block 14, Ward 7, Omanapuram, 99.OVERSEAS ELECTORS",All Voters
+27,232,27,"Govt. H.S.Thirunanthikarai,  South west Building, Northern Portion","1.Thumbacode  B( R.V ), Thirparapu ( T.P ) Block 5, Moolaipagam, Chennamcode, 99.OVERSEAS ELECTORS",All Voters
+28,232,28,"Govt. H.S.Thirunanthikarai,  South Terraced Building, Middle Portion","1.Thumbacode B  ( R.V ), Thirparappu ( T.P ) Block 6, Thirunanthikarai, Edavattam, 99.OVERSEAS ELECTORS",All Voters
+29,232,29,"Govt. H.S.Thirunanthikarai, New Building, Northern Portion","1.Thumbacode  B( R.V ), Thirparappu ( T.P ) Ward 10,11, Block 13, Kottoor konam, 99.OVERSEAS ELECTORS",All Voters
+30,232,30,"St. Ursalas PS,  Kulasekaram, North East Building, West Middle Portion","1.Thumbacode ( R.V ), Thirparappu ( T.P ) Block 16, Alexanderpuram, 2.Thumbacode B ( R.V ), Thirparappu ( T.P ) Block 16, M.G.R.Nagar, 3.Thumbacode  B( R.V ), Thirparappu ( T.P ) Block 16, Omanapuram,
+99.OVERSEAS ELECTORS",All Voters
+31,232,31,"St. Ursalas PS,  Kulasekaram, North East Building (East) Middle Portion","1.Thumbacode B ( R.V ), Thirparappu ( T.P ) Block 23, Ward 9, Thumbacode, 2.Thumbacode B  ( R.V ) Thirparappu ( T.P ) Block 24,  Ward 12, Aanaikattivilai, 3.Thumbacode B ( R.V ), Thirparappu ( T.P ) Block 15,
+Ward 9, Narikuzhi, 99.OVERSEAS ELECTORS",All Voters
+32,232,32,"Devasam H.S  Thirparappu, Aspestos Building, Western Portion","1.Thirparappu ( R.V ) and ( T.P ) Block 20, Thirparappu West,Door No 20-1 To 20-250 99.OVERSEAS
+ELECTORS",All Voters
+33,232,33,"Devasam H. S.Thirparappu, Main Tiled Building Eastern Portion","1.Thirparappu ( R.V ) and ( T.P ) Block 27, Thirparappu West, Door No 27-1 To 27-200 99.OVERSEAS
+ELECTORS",All Voters
+34,232,34,"Devasam H.S  Thirparappu,  South West Terraced Building, North Portion","1.Thirparappu ( R.V ) and ( T.P ) Block 1,Chekkal, 2.Thirparappu ( R.V ),  AND ( T.P ) Block 9,Thirparappu North, 3.Thirparappu ( R.V ), AND ( T.P ) Block 9,Thottavzaram, 99.OVERSEAS ELECTORS",All Voters
+35,232,35,"Devasam H.S  Thirparappu, South West Terraced Building, South Portion","1.Thirparappu(R.V) AND (T.P) Block 19,Thirparappu, 99.OVERSEAS ELECTORS",All Voters
+36,232,36,"Devasam H.S  Thirparappu, Main Building, Middle Portion","1.Thirparappu ( R.V ) AND ( T.P ) Block 2. Anchukhandaparai, 2.Thirparappu ( R.V ) AND ( T.P ) Block 8, Chekkal, 3.Thirparappu ( R .V ) AND ( T.P ) Block 8. Kamoor, 99.OVERSEAS ELECTORS",All Voters
+37,232,37,"Devasam H.S  Thirparappu, Main Building, Eastern Portion","1.Thirparappu ( R.V ) AND ( T.P ) Block 8, Kaiyalakkal, 2..Thirparappu ( R.V ) AND ( T.P ) Block 8,
+Maanchakonam, 99.OVERSEAS ELECTORS",All Voters
+38,232,38,"P. W.D. Building,  Dam Site, Perunchani, Perunchani,   Eastern Portion","1. Perunchani( R.V ), Ponmanai ( T.P ) Ward 1, Block 1, Manalodai, 2.Perunchani ( R.V ), Ponmanai ( T.P  ) Ward 1, Block 2, Perunchani, 99.OVERSEAS ELECTORS",All Voters
+39,232,39,"P. W.D. Building,  Dam Site, Perunchani, Perunchani, Western Portion","1.Perunchani ( R.V ), Ponmanai ( T.P ) Block 2, Perunchani, 2Perunchani ( R.V ), Ponmanai ( T.P ) Block 1,  Perunchani West, 3.Perunchani ( R.V ), Ponmanai  T.P
+) Block 3, Kizhankkan Pagham, 99.OVERSEAS
+ELECTORS",All Voters
+40,232,40,"Government High  School, Ponmanai, Main Terraced  Eastern Building, Western  Central Portion","1.Ponmanai A( R.V ),  AND ( T.P ) Ward 3, Block 4, Ponmanai Kovil, 99.OVERSEAS ELECTORS",All Voters
+41,232,41,"Government High  School, Ponmanai,
+Main Terraced  Eastern Building, Northern Portion","1.Ponmanai A ( R.V ),  AND ( T.P ) Ward 3, Block 5, Pullathoor, 99.OVERSEAS ELECTORS",All Voters
+42,232,42,Govt Primary School Ponmanai  Eastern west Terraced Building Eastern Portion,"1.Ponmanai A( R.V ),  AND (  T.P ) Ward 4, Block 5, Pullathoor Salai, 2.Ponmanai A ( R.V),  AND  ( T.P ) Ward 4, Block 6, Ponmanai Santhai, 3.Ponmanai A ( R.V
+), AND ( T.P ) Ward 5, Block 6, Manalikalavilai Colony,
+4.Ponmanai A( R.V ),  AND ( T.P ) Ward 5, Block 6, Vannarangcode Colony, 99.OVERSEAS ELECTORS",All Voters
+43,232,43,"Govt. P.S.Mangalam, New Terraced Building, North Facing Western Portion","1.Ponmanai B( R.V ) and ( T.P ) Block 9, Mangalam North, 99.OVERSEAS ELECTORS OVERSEAS",All Voters
+44,232,44,"Govt. H.S.Mangalam, New Terraced
+Building Eastern Portion","1.Ponmanai B( R.V ) and ( T.P ) Block 8, Mangalam
+South, 99.OVERSEAS ELECTORS",All Voters
+45,232,45,"Govt. Primary School Mangalam, Eastern Terraced  Building, Eastern
+Portion facing South","1.Ponmanai B( R.V ) and ( T.P ) Block 7, Ponmanaisanthai, 99.OVERSEAS ELECTORS",All Voters
+46,232,46,"Govt. Primary School Mangalam, Eastern Terraced  Building, Western
+Portion facing South","1.Ponmanai B( R.V ) and ( T.P ) Block 10, Ariyambacode, 99.OVERSEAS ELECTORS",All Voters
+47,232,47,"Government Primary  School, Mangalam, Aspestos Building, Eastern
+Portion.","1.Ponmanai B( R.V ) and ( T.P ) Block 12, Mariconam, 99.OVERSEAS ELECTORS",All Voters
+48,232,48,"Government Primary  School, Mangalam, Aspestos Building, Western
+Portion.","Ponmanai B ( R.V ) and ( T.P ) Block 14, Enjacode, 99.OVERSEAS ELECTORS",All Voters
+49,232,49,"Government Primary  School,
+Mamoodu @ Kulasekharam, Main Building, Central Portion","1.Ponmanai B( R.V ) and ( T.P ) Block 11, Vendalicode, 99.OVERSEAS ELECTORS",All Voters
+50,232,50,"Government Primary  School, Mamoodu @ Kulasekharam, Eastern New Building, Central Portion","1.Ponmanai B( R.V ) and ( T.P ) Block 15, Ward 13, Vendalicode, 99.OVERSEAS ELECTORS",All Voters
+51,232,51,"Government Primary  School, Mamoodu @ Kulasekharam, Eastern
+New Building, Northern Portion","1.Ponmanai B ( R.V ) and ( T.P ) Block 13, Ward 7, Kulachavilagam,  2.Ponmanai B ( R.V ) and ( T.P ) Block
+13, Kulachavilagam 99.OVERSEAS ELECTORS",All Voters
+52,232,52,"Town Panchayat Office Ponmanai at
+Vendalicode, Middle Building","1.Ponmanai  B( R.V ) and ( T.P ) Block 16, Ward 14,
+Vendalicode East, 99.OVERSEAS ELECTORS",All Voters
+53,232,53,Town Panchayat Office Ponmanai at Vendalicode. North West Room,"1.Ponmanai B( R.V ) and ( T.P ) Block 17, Ward 15, Vendalicode West, 99.OVERSEAS ELECTORS",All Voters
+54,232,54,"St Antonys High School,  Surulacode, Main Building Eastern Portion","1.Surulacode ( R.V ) and ( P ) Block 4, Mangalatharai, 2.Surulacode ( R.V ) and ( P ) Block 4, Krishnancoil Theru, Surulacode West, 3.Surulacode ( R.V ) and ( P ) Block 4, West Veerapuli, 4.Surulacode ( R.V ) and  ( P ) Block 4, Chellantrity, Mangalatharai, 5.Surulacode ( R.V ) AND ( P ) Block 4,Mulaiyarai, 6.Surulacode ( R.V ) and  ( P ) Block 4, Alambilavadi, 7.Surulacode ( R.V ) and ( P ) Block 4, Velakkodu, 99.OVERSEAS ELECTORS",All Voters
+55,232,55,"St. Antonys High School, Surulacode, Main Building, Western  Portion","1.Surulacode ( R .V ) and ( P ) Block 1, Kalikesam, 2.Surulacode ( R.V ) and ( P ) Block 2, Paraliyaru, 3.Surulacode ( R.V ) AND ( P ) Block 2, Kovakatumalai,,
+99.OVERSEAS ELECTORS",All Voters
+56,232,56,"Govt. M.S.Ittakaveli, Old Tiled Main Building, East Portion","1.Kulasekaram B ( R.V ), Kulasekaram ( T.P ) Block 9,
+.Ettakaveli, 2.rKulasekaram B ( R.V ) and Kuleasekaram ( T.P ) Block 13, Ettakaveli Aathi theravidar Kudiyuruppu, 99.OVERSEAS ELECTORS",All Voters
+57,232,57,"Govt. M.S.Ittakaveli, Main  Tiled Building, Western  Portion","1. Kulasekaram B( R.V ), Kulasekaram ( T.P ) Block 9, Aramannam West, 2.Kulasekaram B ( R.V ), Kulasekaram ( T.P ) Block 13, Ward 1,16, Aramannam, 99.OVERSEAS ELECTORS",All Voters
+58,232,58,"St. Urusilas Girls H.S.Kulasekaram,
+South East Building, East portion","1.Kulasekaram B ( R.V ), Kulasekaram ( T.P ) Block 2,
+Puravelivilai,  99.OVERSEAS ELECTORS",All Voters
+59,232,59,"St. Urusilas Girls H.S.Kulasekaram ( Convent), North West Building Middle Portion","1.Kulasekaram B ( R.V ), Kulasekaram ( T.P ) Block 4, Aarani West, 2. Kulasekaram B( R.V ), Kulasekaram ( T.P
+) Block 3, Sangaranvilai 99.OVERSEAS ELECTORS",All Voters
+60,232,60,"St. Urusilas Girls H.S.Kulasekaram ( Convent), North West Building West
+Portion","1.Kulasekaram B ( R.V ), Kulasekaram ( T.P ) Block 5, Arani East, 99.OVERSEAS ELECTORS",All Voters
+61,232,61,"St. Urusilas High School, Kulasekaram, Ground Floor North East Portion","1.Kulasekaram B ( R.V ), Kulasekaram ( T.P ) Ward 2, Block 1, Vandipilankalavilai North Part, 2. Ponmanai B ( R.V ), Kulasekaram ( T.P ) Block 7, Ward 7, Kulasekaram
+99.OVERSEAS ELECTORS S",All Voters
+62,232,62,"Govt. PS Cheruppaloor, Main Building, Southern Portion","1.Kulasekaram B ( R.V ), Kulasekaram ( T.P Ward 2, Block 8,  Vandipilankalavilai Middle Part, 2.Kulasekaram B ( R.V ), Kulasekaram ( T.P ) Ward 13, Block 8, Vandipilankavilai South Part, 99.OVERSEAS ELECTORS
+S",All Voters
+63,232,63,"Govt. H.S.S.Kulasekaram, Main Building, Western  Portion","1.  Kulasekaram B( R.V ), Kulasekaram ( T.P ) Block 6, Ward 6, Cheruthikonam, 99.OVERSEAS ELECTORS",All Voters
+64,232,64,"Govt. H.S.S.Kulasekaram, Main Building, Western  Portion Room No .2","1.Kulasekaram B ( R.V ) Kulasekaram ( T.P ) Block 17, Ward 7, Panavilai, 2.  Kulasekharam B( R.V ), Kulasekaram ( T.P ) Block 17, Ward 7, Kulasekaram 99.OVERSEAS ELECTORS",All Voters
+65,232,65,"Govt. H.S.S.Kulasekaram, Main Building, Middle Side Western Portion","1.Ponmanai  B ( R.V ),  Kulasekaram ( T.P ) Block 19, Ward 9, Koodathukki East, 2.Ponmanai B ( R.V ), Kulasekaram ( T.P ) Block 19, Ward 8,  Koodaithukki South, 3.Ponmanai B ( R.V ), Kulasekaram ( T.P ) Block 16, Ward 12, Kudaithukki West, 99.OVERSEAS
+ELECTORS",All Voters
+66,232,66,"Govt. H.S.S.Kulasekaram, Main Building, Middle Portion","1.Ponmanai B( R.V ), Kulasekaram ( T.P ) Block 18, Ward
+18, Panavilai, 2. Ponmanai B( r.v ), kulasekaram ( T.P ) Block 18, Panavilai, 99.OVERSEAS ELECTORS",All Voters
+67,232,67,"Govt. H.S.S.Kulasekaram, Main
+Building, Eastern  Portion","1.Ponmanai B( R.V ), Kulssekaram ( T.P Block 16,
+Kalvettangkuzhi,  99.OVERSEAS ELECTORS",All Voters
+68,232,68,"Govt. H..S.Cheruppaloor, 1st Terraced Building, southern   Portion","1. Kulasekaram B(R.V), Kulasekaram(T.P) Block 20 Manalivilai, 2.Kulasekaram B ( R.V ), Kulasekaram ( T.P ) Block 20, Koodathukki,  3. Kulasekaram B ( R.V ), Kulasekaram ( T.P ) Block 15, Kulasekaram North
+99.OVERSEAS ELECTORS",All Voters
+69,232,69,"Govt. H.S.Cheruppaloor, Eastern West RMSA Scheme Aspectas  Building, Eastern Portion","1. Kulasekaram B ( R.V ), Kulasekaram ( T.P ) Block 21, Kulasekaram West, 2.Kulasekaram B ( R.V ), Kulasekaram ( T.P ) Block 21, Cheruppalur,   Padanilam, Odalivilai,
+99.OVERSEAS ELECTORS",All Voters
+70,232,70,"Govt. H.S.Cheruppaloor  Old Terraced Northern South   Building, (Near Play Ground) Southern Portion","1. Kulasekaram B( R.V ), Kulasekaram ( T.P ) Block 12, Kulasekaram South, 2..Kulasekaram B ( R.V ), Kulasekaram ( T.P ) Block 12, Cheruppalur, 3.
+.Kulasekaram B ( R.V ), Kulasekaram ( T.P ) Block 12,
+Kulasekaram East, 99.OVERSEAS ELECTORS",All Voters
+71,232,71,"Asst. Exe.Engineers Office (P.W.D) Cheruppaloor, Central Portion","1. Kulasekaram B( R.V ), Kulasekaram ( T.P ) Block 10, Ettakaveli, Door No10-1To 10-200 99.OVERSEAS ELECTORS",All Voters
+72,232,72,"Asst. Exe.Engineers Office (P.W.D) Cheruppaloor, Thirparappu Section North South Tiled Building","1. Kulasekaram B( R.V ), Kulasekaram ( T.P ) Block 10, Ettakaveli, Door No  10-201 To 10-291   2.Kulasekaram B ( R.V ), Kulasekaram ( T.P ) Block 11, Cheruppalur, 3. Kulasekharam B ( R.V ), Kulasekaram ( T.P ) Block 11, Cheruppalur 4.Kulasekaram B ( R.V ), Kulasekaram ( T.P ) Block 14 Padanilam, Odalvilai,   99.OVERSEAS
+ELECTORS",All Voters
+73,232,73,"Govt. Primary School Thiruvarambu, East West Terraced Building Northern
+Portion","1.Kulasekaram A ( R.V ), Thiruvattar ( T.P ) Ward 15, Block 1,  Ambankalai,  ( Door No: 1-1 to 1-167 )
+99.OVERSEAS ELECTORS",All Voters
+74,232,74,"Govt. Primary School Thiruvarambu, East West Terraced Building Southern
+Portion","1.Kulasekaram A ( R.V ), Thiruvattar ( T.P ) Ward 15, Block 1,  Ambankalai,  ( Door No: 1-168 to 1-300 )
+99.OVERSEAS ELECTORS",All Voters
+75,232,75,"Govt. H.S.Thiruvarambu., East West Terraced Building Central Portion","1. Kulasekaram A( R.V ), Thiruvattar ( T.P ) Block 2, Ward 16, Kallampottai, Ampangkalai, 99.OVERSEAS
+ELECTORS",All Voters
+76,232,76,"Govt. H.S.Thiruvarambu., East West Terraced Building Southern portion","1.Kulasekaram A ( R.V ), Thiruvattar ( T.P ) Ward 14, Block 3,  Thiruvarambu,Sathiravilai, 99.OVERSEAS
+ELECTORS",All Voters
+77,232,77,"Calvary Matric. Hr. Sec. School, Kolvel, Main Building, Southern East Portion","1 Kulasekaram B( R.V ), Thiruvattar ( T.P ) Ward 11, Block 6, 7,  Kolvel, 2.Kulasekaram B ( R.V ), Thiruvattar ( T.P ) Ward 12, Block 8, Pilankalai, 99.OVERSEAS
+ELECTORS",All Voters
+78,232,78,"Calvary Matric. Hr. Sec. School, Kolvel, Main Building, Southern West Portion","1. Kulasekaram B( R.V ), Thiruvattar ( T.P ) Block 6, Ward 11, Kolvel, 2.Kulasekaram B ( R.V ), ( T.P ) Block 7, Ward 12, Pilankalai 99.OVERSEAS ELECTORS",All Voters
+79,232,79,"Calvary Matric. Hr. Sec. School,
+Kolvel, Main Building, Southern West Middle Portion","1.Kulasekaram B ( R.V )Thiruvattar ( T.P ) Block 8,  Ward 13, Chemmantharai, 99.OVERSEAS ELECTORS",All Voters
+80,232,80,"Govt. H.S.Thiruvarambu, Terraced Main   Building, Middle  Portion","1. Kulasekaram A( R.V ), Thiruvattar ( T.P ) Block 4, Ward 17, Thiruvarambu, 2.Kulasekaram A ( R.V ), Thiruvattar ( T.P ) Block 5, Ward 18, Kolvel, 99.OVERSEAS ELECTORS",All Voters
+81,232,81,"Govt. H.S.Thiruvarambu, Terraced Main  Building, Southern  Portion","1.Kulasekaram A ( R.V ), Thiruvattar ( T.P ) Block 4, Ward 17, Thiruvarambu, 2.Kulasekaram A ( R.V ), Thiruvattar ( T.P ) Block 5, Ward 18, Kolvel,
+99.OVERSEAS ELECTORS",All Voters
+82,232,82,"Govt. M.S.Bharathapalli, Main Building, Firtst Room","1.Thiruvattar ( R.V ) and ( T.P ) Block 10, Barathapalli, 2.Thiruvattar ( R.V ) AND ( T.P ) Block 11, Sarur,
+99.OVERSEAS ELECTORS",All Voters
+83,232,83,"Govt. M.S.Bharathapalli, Main
+Building,  2nd  Room","1.Thiruvattar ( R.V ), AND ( T.P ) Block 9, Saruoor,
+99.OVERSEAS ELECTORS",All Voters
+84,232,84,"Govt. M.S.Kesavapuram, SSA Building, Eastern Portion","1.Thiruvattar ( R.V ) AND ( T.P ) Block 12,Ward 1, Paraiyadi, Eluppakonam, 2.Thiruvattar ( R.V  ) AND ( T.P
+) Block 12, Ward 1, Kesavapuram, 3.Thiruvattar ( R.V ) and ( T.P ) Block 12, Ward 1, Poochuthuvilai, 4.Thiruvattar ( R.V ) AND ( T.P ) Block 12, Ward 1, Therivilai, 5.Thiruvattar ( R.V ) AND ( T.P ) Block 12, Ward 1, Povanchituvilai, 6.Thiruvattar ( R.V ), Thiruvattar (T.P) Block 12, Ward 1, Pilangkonam, 7.Thiruvattar ( R.V
+) and ( T.P ) Block 12, Ward 1, Thiruthivilai,
+99.OVERSEAS ELECTORS",All Voters
+85,232,85,"Govt. M.S.Kesavapuram, West Terraced S S A  Building, Western
+Portion","1.Thiruvattar ( R.V ) AND ( T.P ) Block 13, Ward 2, Perakuppathurai, 99.OVERSEAS ELECTORS",All Voters
+86,232,86,"Govt. P.S.Thiruvattar, Kankarai, Tiled Main  Building, Northern  Portion","1.Thiruvattar ( R.V ) and ( T.P ) Block 14, Ward 3, Kuppathurai, 2.Thiruvattar ( R.V ) and ( T.P ) Block 14, Ward 3, Puthankadai, 3.Thiruvattar ( R.V ) and ( T.P ) Block 14,Ward 3, Puliiranghi, 99.OVERSEAS ELECTORS",All Voters
+87,232,87,"Govt. P.S.Thiruvattar, Kankarai, Western S S A  Building, Facing East Northern Portion","1.Thiruvattar ( R.V ) and ( T.P ) Block  21, Erattai Street, 2.Thiruvattar ( R.V .) and ( T.P ) Block 14, Puliiranghi, 3.Thiruvattar ( R.V ) and ( T .P ) Block 15, Kangkarai,
+99.OVERSEAS ELECTORS",All Voters
+88,232,88,"Govt. H.S.Thiruvattar, Main Building, Southern Portion","1.Thiruvattar ( R.V ) and  ( T.P ) Block 17, Avvai Yela, 2.Thiruvattar ( R.V ) and ( T.P ) Block 19, Purakkadai,
+99.OVERSEAS ELECTORS",All Voters
+89,232,89,"Govt. H.S.Thiruvattar, Northern South, Aspestos Building, Northern  Portion","1.Thiruvattar ( R.V ) and ( T.P ) Block 16,  Thiruvattar Nandhavanam, 99.OVERSEAS ELECTORS",All Voters
+90,232,90,"Govt. H.S.Thiruvattar, Northern South, Aspestos Building Facing West,
+Middle Portion","1.Thiruvattar ( R.V ) and ( T.P ) Block 18, Kovil Street, 2.Thiruvattar ( R.V ) and ( T.P ) Block 20, Ottai street,
+99.OVERSEAS ELECTORS",All Voters
+91,232,91,"Arunachalam  Hr. Sec.School, Thiruvattar, Puthankadai, North
+Terraced Building, Western   Portion","1.Aruvikkarai ( R.V ) and ( P ) Block 1,Manakuntu, Kolivilai, Thajoor, Puthankadai, (Door No 1-1 to 1-170)
+99.OVERSEAS ELECTORS",All Voters
+92,232,92,"Arunachalam  Hr. Sec.School,
+Thiruvattar, Puthankadai, South Terraced Building, Northern Portion","1.Aruvikkarai ( R.V ) and ( P ) Block 1,Manakuntu,
+Kolivilai, Thajoor, Puthankadai, (Door No 1-171 to 1-327) 99.OVERSEAS ELECTORS",All Voters
+93,232,93,"Arunachalam  Hr. Sec.School, Thiruvattar, Puthankadai, South
+Terraced Building, Southern   Portion","1.Aruvikkarai ( R.V ) and ( P ) Block 7,  Aruvikkarai, 99.OVERSEAS ELECTORS",All Voters
+94,232,94,"Government High School, Thachoor, Main Building,  Northern Portion","1.Aruvikkarai ( R.V ) and ( P ) Block 3, Karuhanore Vilai, 2.Aruvikkarai ( R.V ) and ( P ) Block 6, Thanivilai,
+99.OVERSEAS ELECTORS",All Voters
+95,232,95,"Government High School, Thachoor,
+Middle Building,  Southern Portion","1.Aruvikkarai ( R.V ) and ( P ) Block 2, Manakuntru,
+99.OVERSEAS ELECTORS",All Voters
+96,232,96,"Government High School, Thatchoor,
+North New  Building, Eastern  Portion","1.Aruvikarai ( R.V ), and ( P ) Block 4, Mathur,
+Kuzhithuraiyanvilai, 99.OVERSEAS ELECTORS",All Voters
+97,232,97,"Government High School, Thatchoor,
+Northern Building Western Portion","1.Aruvikkarai ( R.V ), and ( P ) Block 5, Ward 4,
+Thittingavilai, 99.OVERSEAS ELECTORS",All Voters
+98,232,98,"Govt. M.S.Muthalar, South Building, Northern  Portion","1.Mecode ( R.V ), Verkilambhi ( T.P ) Block 4, Muthalar East, (Door No:4-86 to 4-215) 2.Mecode ( R.V ), Verkilambhi ( T.P ) Block 23, Muthalar West  3.Mecode ( R.V ), Verkilambhi ( T.P ) Block 5, Muthalar South,
+4.Mecode ( R.V ), Verkilambhi ( T.P ) Block 2, Muthalar,
+99.OVERSEAS ELECTORS",All Voters
+99,232,99,"Govt. M.S.Muthalar, South Building, Western  Portion","1..Mecode ( R.V ), Verkilambhi ( T.P ) Block 3, Muthalar North, 2.Mecode ( R.V ), Verkilambhi ( T.P ) Block 4, Muthalar East (Door No:4-1 to 4-85, 4-216 to 4-300)
+99.OVERSEAS ELECTORS",All Voters
+100,232,100,"Mahadeva Vilasam, HSS Chenkody, South west Building North Portion","1.Mecode ( R.V ), Verkilambhi ( T.P ) Block 3 Muthalar, (Door No 3-1 to 3-150), OVERSEAS ELECTORS",All Voters
+101,232,101,"Mahadeva Vilasam, HSS Chenkody, South west Building South Portion","1. Mecode ( R.V ), Verkilambhi ( T.P ) Block 1, 2
+Muthalar, (Door No 1-1 to 1-157, 2-1 to 2-741) 99.OVERSEAS ELECTORS",All Voters
+102,232,102,"Govt. M.S.Muthalar  East Terraced Building, South  Portion","1.Mecode ( R.V ), Verkilambhi ( T.P ) Block 1, 5 Muthalar, 2.Mecode ( R.V ), Verkilambhi ( T.P ) Block 2, Aalavilai East, 3.Mecode ( R.V ), Verkilambhi ( T.P ) Block 4, Muthalar North, 4.Mecode ( R.V), Verkilambhi ( T.P ) Block 5, Perunjakonam, 99.OVERSEAS ELECTORS",All Voters
+103,232,103,"Govt. M.S.Andoor, Main Building,
+Northern  Portion","1.Ayacode (R.V), Ayacode (P) Block 5 Andore,
+99.OVERSEAS ELECTORS",All Voters
+104,232,104,"Govt. M.S.Andoor, Main Building,
+North  Eastern  Portion","1.Ayacode(R.V), Ayacode (P) Block 6, Malavilai,
+99.OVERSEAS ELECTORS",All Voters
+105,232,105,"Govt. M.S.Andoor, South East Building, Southern  Portion","1. Ayacode(R.V), Ayacode(P) Block 4 South Kottur,
+2.Ayacode ( R.V ), Ayacode ( P ) Block 4, Malavilai,
+3.Ayacode (R.V), Ayacode(P) Block 4, Parayan Veedu, Andoor, Vendalicode(p.o), 4.Ayacodei ( R.V ), Ayacode ( P ) Block 4, Pooven Pottrai, 5.Ayacode ( R.V ), Ayacode ( P ) Block 4, Andoor, Ambalathadi Thittai, 99.OVERSEAS ELECTORS",All Voters
+106,232,106,"Govt. P.S.Malavilai  New Building, Southern  Portion","1.Aruvikarai (R.V), Ayacode(P) Block 1,  Manakuntru Block 3  Paravakadu, Paikadu 99.OVERSEAS ELECTORS",All Voters
+107,232,107,"Govt. P.S.Malavilai., New Building
+Middle  Portion","1.Ayacode(p) Block,2,kavu vilai,,Manvilai 99.OVERSEAS
+ELECTORS",All Voters
+108,232,108,"Govt. P.S.Malavilai, New Building, Northern  Portion","1.Aruvikarai (R.V), Ayacode(P) Block 3, Ward 3, Paicode, 2.Aruvikarai (R.V), Ayacode(P) Block 7 Ward 4
+Pampatchi, 99.OVERSEAS ELECTORS",All Voters
+109,232,109,"Office Of the A.
+.E.(P.W.D.)Kulasekaram Section Cheruppaloor, Middle Portion","1.Aruvikarai ( R.V ), Ayacode  ( P ) Block 10, Ward 1, Puthucode, 99.OVERSEAS ELECTORS",All Voters
+110,232,110,"Office Of the J.  E..(P.W.D.) Cheruppaloor  North South Asbestos Building, Southern Portion","1.Aruvikarai (R.V), Ayacode (P) Block 8,Thanivilai, 2.Aruvikarai (R.V), Ayacode (P) Block 9, Ward 1, Vellaparavilai, 99.OVERSEAS ELECTORS",All Voters
+111,232,111,"Government High School, Thatchoor, East Building, Southern  Portion","1.Aruvikarai(R.V), Ayacode (P) Block 8, Mathoor (Kurakudi), 2.Aruvikarai (R.V), Ayacode (P) Block 9,
+Pilangkalavilai, 99.OVERSEAS ELECTORS",All Voters
+112,232,112,"Govt. P.S.Mukilankarai, Western
+Terraced  Building, Northern  Portion","1.Mecode (R.V), Verkilambhi (T.P) Block 6,
+Mukilankarai, 99.OVERSEAS ELECTORS",All Voters
+113,232,113,"Govt. P.S.Mukilankarai, Main Building, Western  Portion","1.Mecode (R.V), Verkilambhi (T.P) Block 7, Chitirangcode, 2.Mecode(R.V), Verkilambhi (T.P) Block 25, Manakkavilai, 3.Mecode(R.V), Verkilambhi (T.P) Block 7, Chitirangcode West, 4.Mecode(R.V), Verkilambhi (T.P) Block 25, Chitirangcode East,99.OVERSEAS ELECTORS",All Voters
+114,232,114,"Govt. P.S.Mukilankarai, Western
+Terraced Building, Southern Portion","1.Mecode (R.V), Verkilambhi (T.P) Block 6,
+Chitirangcode, 99.OVERSEAS ELECTORS",All Voters
+115,232,115,"Maria Polytechnic College, Kumarankudi,  South Building, Middle Portion","1.Kumarankudi (R.V), Kumarankudi (P) Block 3, Kumarankudi,Mangattukadai, 99.OVERSEAS ELECTORS",All Voters
+116,232,116,"Maria Polytechnic College, Kumarankudi,  South Building,
+Western Portion","1.Kumarankudi (R.V), Kumarankudi (P) Block 4, Cheenivilai, Anakkarai, 99.OVERSEAS ELECTORS",All Voters
+117,232,117,"Maria Polytechnic College, Kumarankudi, West Building, South
+Portion","1.Kumarankudi(R.V), Kumarankudi (P) Block 1, Mathar, 99.OVERSEAS ELECTORS",All Voters
+118,232,118,"Govt. M.S.Muthalar, East Terraced
+building Northern portion","1.Kumarankudi(R.V), Kumarankudi (P) Block 2,
+Kumarankudi, Anakkarai, 99.OVERSEAS ELECTORS",All Voters
+119,232,119,"Maria Polytechnic College,
+Kumarankudi, West Building, Middle Portion","2.Kumarankudi(R.V), Kumarankudi (P) Block 6,
+Vadakkansaru,Chenkodi, Mangattuvilai, 99.OVERSEAS ELECTORS",All Voters
+120,232,120,"Govt. M.S.Thottavaram,  S S A Building, 1st Room Facing West","1.Attoor (R.V) and (T.P) Block 1, Valankuzhi, 2.Attoor (R.V) and (T.P) Block 2, Thottavaram, 99.OVERSEAS
+ELECTORS",All Voters
+121,232,121,"Govt. M.S.Thottavaram, S S A Building, 2nd Room Facing West","1.Attoor (R.V) and (T.P) Block 3, Kaavuvilai, 2.Attoor (R.V) and (T.P) Block 2, Thottavaram, 99.OVERSEAS ELECTORS",All Voters
+122,232,122,"GHS Villunikonam,, Main Tiled Building Eastern Portion","1.Attoor (R.V) and (T.P) Block 12, Ward 12, College Ward, 2.Attoor (R.v) and (t.p) Block 13, 20, 21, Ward 14, 15, Kallupalam,  Kuttakuzhi, 99.OVERSEAS ELECTORS",All Voters
+123,232,123,"GHS Villunikonam,, Main Building
+Eastern central Portion","1.Attoor (R.V) and (T.P) Block14, Attoor 99.OVERSEAS
+ELECTORS",All Voters
+124,232,124,"GHS Villunikonam,, Main Building
+Western Central Portion","1.Attoor (R.V) and (T.P) Block 9, Thottavaram,
+99.OVERSEAS ELECTORS",All Voters
+125,232,125,"H. S.S.Yettacode, North East Building,
+Southern  Portion","1.Yettacode (R.V) and Attoor (T.P) Block 10, Pullanivilai
+East, 99.OVERSEAS ELECTORS",All Voters
+126,232,126,"H. S.S.Yettacode, North East Building,
+Middle  Portion","1.Yettacode (R.V) and Attoor (T.P) Block 15, Pulanivilai
+West, 99.OVERSEAS ELECTORS",All Voters
+127,232,127,"H. S.S.Yettacode, North  East Building,, Northern  Portion","1.Yettacode (R.V) and Attoor (T.P) Block 16,
+PuthuChandai, 2.Yettacode(R.V) and Attoor (T.P) Block 10, Pullanivilai, 99.OVERSEAS ELECTORS",All Voters
+128,232,128,"Govt. Primary,  Villunnikonam, Main
+Building,  North East Portion","1.Attoor (R.V) and (T.P) Block 7,  Mullu Vilai,
+99.OVERSEAS ELECTORS",All Voters
+129,232,129,"Govt. Primary,  Villunnikonam, Main Building, East west tiled Building east
+portion","1.Attoor (R.V) and (T.P) Block 6, Puthiyanvilai, 99.OVERSEAS ELECTORS",All Voters
+130,232,130,"Govt. H.S.Villunnikonam, Main
+Building, Main  Hall,  Middle Portion","1.Attoor (R.V) and (T.P) Block4, Mulluvilai,
+99.OVERSEAS ELECTORS",All Voters
+131,232,131,"Govt. H.S.Villunnikonam, Main Building, Main  Hall,  South Portion","1.Attoor (R.V) and (T.P) Block 5, Puthiyanvilai, 99.OVERSEAS ELECTORS",All Voters
+132,232,132,"Govt. P.S.Villunnikonam, Main  Tiled
+Building, Western  Portion","1.Attoor (R.V) and (T.P) Block 8, Old market,
+Attoor,99.OVERSEAS ELECTORS",All Voters
+133,232,133,"Govt. P.S.Villunnikonam, Main  Tiled
+Building, Western  Middle Portion","1.Attoor (R.V) and (T.P) Block 11, Pullanivilai,
+99.OVERSEAS ELECTORS",All Voters
+134,232,134,"St.  Joseph M.S.Kuttakuzhi, North Building, Eastern  Portion","1.Cherukole(R.V), Cherukole (T.P) Block 6, Vattavilai, 2.Cherukole(R.V), Cherukole (P) Block 6, Chevaracode, 3.Cherukole(R.V), Cherukole (P) Block 6, Thottatuvilai, 4.Cherukole(R.V), Cherukole (P) Block 6, Veeyanore, 5.Cherukole(R.V), Cherukole (P) Block 6, Pilaikavilai,
+99.OVERSEAS ELECTORS",All Voters
+135,232,135,"St.  Joseph M.S.Kuttakuzhi.,  Terraced North Building  Middle Portion.","1.Cherukole(R.V), Cherukole (P) Block 7, Maele Veetu Vilai, 2. Cherukole(R.V), Cherukole (P) Block 7, Saicode, 7 Cherukole(R.V), Cherukole (P) Block 7, Kuttakuzhi, 4.Cherukole (R.V), Cherukole (P) Block12, Pulipunam,
+99.OVERSEAS ELECTORS",All Voters
+136,232,136,"St. Joseph M.S.Kuttakuzhi,, East Building, Southern  Portion","1.Cherukole(R.V), Cherukole (P) Block 13, Veeyanore, 2.Cherukole(R.V), Cherukole (P) Block 4, Kottaravilai,
+99.OVERSEAS ELECTORS",All Voters
+137,232,137,"St. Joseph M.S.Kuttakuzhi,, East Tiled
+Building, Middle Portion","1.Cherukole(R.V), Cherukole (P) Block 4, Kuttakuzhi,
+99.OVERSEAS ELECTORS",All Voters
+138,232,138,"St. Joseph M.S.Kuttakuzhi,, East Building, North  Portion","1.rCherukole(R.V), Cherukole (P) Block 5, Chevaracode, 2.Cherukole (R.V), Cherukole (T.P) Block 12, Pulipanam,
+99.OVERSEAS ELECTORS",All Voters
+139,232,139,"Govt.  Middle School,  Mathar, Terraced Building, Middle Portion","1.Yettacode(R.V), Yettacode (P) Block1, Kannankarai, 2.Yettacode (R.V), Yettacode (P) Block 2, Kootavilagam, Kattaikal, 3.Yettacode(R.V), Yettacode (P) Block 3,
+Maathar, 99.OVERSEAS ELECTORS",All Voters
+140,232,140,"Govt.  Middle School,  Mathar, West
+terraced Building, Middle Portion","1.Yettacode(R.V), Yettacode (P) Block 4, Vettukuzhi,
+99.OVERSEAS ELECTORS",All Voters
+141,232,141,"Govt. M.S.Mathar, North Terraced Building, Eastern Portion","1. Yettacode(R.V), Yettacode (P) Block 1,5, Kannankarai, 99.OVERSEAS ELECTORS",All Voters
+142,232,142,"Govt. M.S.Mathar, East Terraced Building, North portion","1. Yettacode(R.V), Yettacode (P) Block 2, Kattaikaal, Kootavilagam, 2.Yettacode(R.V), Yettacode (P) Block 6, Vettukuzhi, 3.Yettacode(R.V), Yettacode (P) Block 3,4,
+Maathar, 99.OVERSEAS ELECTORS",All Voters
+143,232,143,"Govt. P.S.Kallankuzhi, Terraced Building, Eastern  Portion","1. Kumarankudi(R.V), Verkizhambhi (T.P) Block 21, Varukkapilavilai, 2.Kumarankudi (R.V), Verkizhambhi (T.P) Block 21, Mavaravilai, 3Kumarankudi(R.V), Verkilambi(T.P) Block 22,23,24, Manakavilai, 4.Kumarankudi(R.V), Verkizhambhi (T.P) Block 22,23,24,
+Kaanjaancaud, 99.OVERSEAS ELECTORS",All Voters
+144,232,144,"Govt. P.S.Kallankuzhi, Terraced Building, Western  Portion","1.Kumarankudi(R.V),Verkizhambhi (T.P) Block 23, Aandamparai, 2.Kumarankudi(R.V), Verkizhambhi (T.P) Block 23, Kaanjaancaud, 3Kumarankudi.Verkizhambhi (S.P.) Block21, Venmarapalli, 4.Kumarankudi(R.V), Verkizhambhi (T.P) Block 21, Varukkapilavilai, 99.OVERSEAS ELECTORS",All Voters
+145,232,145,"Govt. P.S. Mundavilai, Main Terraced
+Building, Eastern  Portion","1.Kumarankudi(R.V), Verkizhambhi (T.P) Block 15,
+Mallanvilai 99.OVERSEAS ELECTORS",All Voters
+146,232,146,"Govt. P.S. Mundavilai, Main Terraced
+Building, Western  Portion","1.Kumarankudi(R.V), Verkizhambhi (T.P) Block 18,
+Kariyamangalathuvilai, 99.OVERSEAS ELECTORS",All Voters
+147,232,147,"Govt. P.S.Mundavilai,  West Terraced Building, Western  Portion","1.Kumarankudi(R.V), Verkilambhi (T.P) Block 17,
+Kallankuzhi, 2.Kumarankudi(R.V), Verkilambhi (T.P) Block 18, Mundavilai, 99.OVERSEAS ELECTORS",All Voters
+148,232,148,"Govt. P.S.Mundavilai  New Terraced Building, Southern  Portion","1.Kumarankudi(R.V), Verkilambhi (T.P) Block 19, Pulayanvilai, 2.Kumarankudi (R.V), Verkizhambi(T.P)
+Block 20, Kallankuzhi, 99.OVERSEAS ELECTORS",All Voters
+149,232,149,"Govt. P.S.Chenkody  Main Building, Northern Portion","1.Kumarankudi(R.V), Verkilambhi (T.P) Block 16, Chengkodi West, 2.Kumarankudi (  R.V ), Verkizhambi ( T.P ) Block 8, Pandaravilai, 99.OVERSEAS ELECTORS",All Voters
+150,232,150,"Govt. P.S.Chenkody, Main Building, Southern  Portion","1.Kumarankudi(R.V), Verkilambhi (T.P) Block 8, Ward 4, Manvilai, 2.Kumarankudi(r.v), verkilambhi (t.p) Block 9, Ward 11, Pandaravilai, 99.OVERSEAS ELECTORS",All Voters
+151,232,151,"Govt. P.S Poovancode, New Building, Northern Portion","1. Kumarankudi(R.V), Kumarankudi (P) Block 5, Ward 3, Poovancode, 2Kumarankudi(R.V), Kumarankudi (P) Block 7, Ward 4, Kannankaraivilai, 99.OVERSEAS ELECTORS",All Voters
+152,232,152,"Govt. H.S.Poovancode, North Terraced Middle Building, Western Portion","1. Kumarankudi(R.V), Verkilambhi (T.P.) Block 11, Kallaravilai, 2. Kumarankudi(R.V), Verkilambhi (T.P) Block 13, Thuthikalavilai, Door No (13-1 to 13-120)
+99.OVERSEAS ELECTORS",All Voters
+153,232,153,"Govt. H.S.Poovancode, North Terraced Middle Building, Northern Portion","1. Kumarankudi(R.V), Verkilambhi (T.P) Block 14, Poovancode South, 2. Kumarankudi(R.V), Verkilambhi (T.P) Block 13, Thuthikalavilai Door No (13-121 to 13-
+201), 99.OVERSEAS ELECTORS",All Voters
+154,232,154,"Govt. H.S.Poovancode, Main Building, Western  Portion","1.Kumarankudi(R.V), Verkilambhi (T.P) Block 10, Thottaravilai, 2.Kumarankudi(R.V), Verkilambhi (T.P) Block 11, Chengkodi, Kallaravilai, 3Kumarankudi(R.V), Verkilambhi (T.P) Block 12, Maiittankuzhi, 4Kumarankudi(R.V), Verkilambhi (T.P) Block 13, Vadakkanaud, 99.OVERSEAS ELECTORS",All Voters
+155,232,155,"Govt. H.S.Poovancode., Main Building Eastern Portion","1Kumarankudi(R.V), Verkilambhi (T.P) Block 12, Maiittankuzhi, 2Kumarankudi(R.V), Verkilambhi (T.P)
+Block 13, Vadakkanaud, 99.OVERSEAS ELECTORS",All Voters
+156,232,156,"Govt.  Middle S.Kannanoor, South Building, Western Portion","1Kannanore.(R.V), Kannanore (P) Block 1, Chanivilai,
+Udayarvilai, 2Kannanore.(R.V), Kannanore (P) Block 2, Kaapuvilai, 99.OVERSEAS ELECTORS",All Voters
+157,232,157,"Govt. M.S.Kannanoor, Southern Building, Eastern  Portion","1. Kannanore(R.V), Kannanore (P) Block 1, Elangathuvilai, Karuvatchankuzhi. Sankaran Thottam,
+99.OVERSEAS ELECTORS",All Voters
+158,232,158,"Govt. M.S.Kannanoor, South Building, Middle  Portion","1.Kannanore (R.V), Kannanore (P) Block 2, Kaapuvilai, 2Kannanore.(R.V), Kannanore (P) Block 3, Viralikaatuvilai, 99.OVERSEAS ELECTORS",All Voters
+159,232,159,"Anganwadi Center Zionmalai, Main Building Central Portion","1. Kannanore(R.V), Kannanore (P) Block 7, Ward 5, Ceonmalai, 2. Kannanore(R.V), Kannanore (P) Block 9,
+Ward 2, Viralikaatuvilai, 3.Kannanore(R.V), Kannanore
+(P) Block 10, Ward Puckkode, 99.OVERSEAS ELECTORS",All Voters
+160,232,160,"Panchayat Library Building Kannanoor, Main Building, Northern Portion","1. Kannanore(R.V), Kannanore (P) Block 4, Ward 5, Pandaravilai, 2.Kannanore (R.V), Kannanore (P) Block 5, Ward 1, Udayarvilai, 3Kannanore.(R.V), Kannanore (P) Block3, Ward 1, Ambalathuvilai, 99.OVERSEAS
+ELECTORS",All Voters
+161,232,161,"Govt. Esevai Center Building Pukkodu, Viralikattuvilai,,  Main Building
+Middle Portion","1. Kannanore(R.V), Kannanore (P) Block 6,8,9 Tholaivilai, 99.OVERSEAS ELECTORS",All Voters
+162,232,162,"Govt. M.S.Kannanoor, South Building, Western Middle Portion","1.Kannanore.(R.V), Kannanore (P) Block 10, Ceonmalai West,  2.Kannanore(R.V), Kannanore (P) Block 11, Puckkode East, 3.Kannanore (R.V), Kannanore (P) Block 11, Karuvachankuzhi, 99.OVERSEAS ELECTORS",All Voters
+163,232,163,"Panchayat Office Kannanoor, North Portion","1.Kannanore(R.V), Kannanore (P) Block 9, Virallikattuvilai, 2.Kannanore(R.V), Kannanore (P) Block 8, Veeralikaatuvilai South,  3.Kannanore(R.V), Kannanore
+(P) Block 9, Ceonmalai North, 4.Kannanore (R.V), Kannanore (P) Block 7, Ceonmalai South, 99.OVERSEAS
+ELECTORS",All Voters
+164,232,164,"St. Joseph PS,  Mulavilai, South
+Building, Northern Portion","1.Kannanore(R.V), Kaattathurai (P) Ward 1,
+Vettukuzhi,99.OVERSEAS ELECTORS",All Voters
+165,232,165,"St. Joseph PS,  Mulavilai, North South Terraced Building, South Portion","Kannanore (RV), Kattathurai (P) Ward 3, Mulavilai, 99.OVERSEAS ELECTORS",All Voters
+166,232,166,"St. Joseph High .S.Mulavilai, South Building,  Ground Floor Southern
+Portion","1.Kannanore ( R.V ), Kaattathurai  ( P ) Ward 4, Block 2, Mulavilai,      2 Kannanore.(R.V), Kaattathurai (P) Ward 4,
+Block 2, Payode, 99.OVERSEAS ELECTORS",All Voters
+167,232,167,"St. Joseph High .S.Mulavilai, South Building,  Ground Floor Eastern Portion","1.Kannanore(R.V), Kaattathurai (P) Ward 4, Block 4,5, Vulluvetti, 2.Kannanore(R.V), Kaattathurai (P) Ward 4,
+Block 5, Chettycharvilai, 99.OVERSEAS ELECTORS",All Voters
+168,232,168,"G H SS Kattathurai, South west Building North East Portion","1.Kannanore(R.V), Kaattathurai (P) Block 9, Ward 1, Thettai, 2.Kannanore(R.V), Kaattathurai (P) Ward 10, Block 10 Punnaicaud (Pilavilai), 99.OVERSEAS
+ELECTORS",All Voters
+169,232,169,"G H SS Kattathurai, North East Building Facing South west Portion","1.Kannanore(R.V), Kaattathurai (P) Block 11, Ward 1, Swamyarmadam Market, 2.Kannanore(R.V), Kaattathurai
+(P) Block 13,14, Ward 1, Karuttuvilai, 99.OVERSEAS
+ELECTORS",All Voters
+170,232,170,"Panchayat Office Kattathurai, Main
+Building,  Eastern  Portion","1.Veyannoor  B(R.V), Kaattathurai (P) Block 6, Ward 1,
+Pilavilai West, 99.OVERSEAS ELECTORS",All Voters
+171,232,171,"Panchayat Office Kattathurai, South Building, East Portion","1.Veyannoor B(R.V), Kaattathurai (P) Block 7, Ward 2, Chandranvilai, 99.OVERSEAS ELECTORS",All Voters
+172,232,172,"GHSS Kattathurai, Middle Building, Eastern Portion","1.Veyannoor B ( R.V ), Kattathurai ( P ) Block 8, Nediyamcode, 2.Veyannoor B(R.V), Kattathurai (P) Block 6, Pilavilai, 3.Veyannoor B  (R.V), Kattathurai(P) Block
+11, Bilavilai, 99.OVERSEAS ELECTORS",All Voters
+173,232,173,"GHSS Kattathurai, Middle Building,
+Western Portion","1.Veyannoor B (R.V), Kattathurai (P) Block 12
+Nediyancode, 99.OVERSEAS ELECTORS",All Voters
+174,232,174,"Govt. H.S.Cherukole  Main Building, Western  Portion","1.Cherukol (R.V), Cherukole (P) Block1, Ward1, Kallupalam, 2.Cherukol(R.V), Cherukole (P) Block 1, Ward 1, Cherukole 99.OVERSEAS ELECTORS",All Voters
+175,232,175,"Govt. H.S.Cherukole., New Terraced North south  Building,  Western Portion","1 Cherukol(R.V), Cherukole (P) Block 1, Ward 1, Cherukole, Door No 1-176 To 1-343, 99.OVERSEAS
+ELECTORS",All Voters
+176,232,176,"Govt. P.S.Cherukole, New Tiled
+Building, Western  Portion","1.Cherukole (R.V), Cherukole (T.P) Block 3 Ward 2
+Cherukole, 99.OVERSEAS ELECTORS",All Voters
+177,232,177,"Govt. P.S.Cherukole, New Tiled
+Building, Eastern Portion","1. Cherukole(R.V), Cherukole (P) Block 2  Ward 1
+Cherukole,  99.OVERSEAS ELECTORS",All Voters
+178,232,178,"Govt. P.S.Cherukole, New Terraced SSA  Building, Facing North","1.Cherukole(R.V), Cherukole (P) Block 9, Ward 5, Eraviputhoorkadai, 2.Cherukole(R.V), Cherukole (P) Block11, Ward4, Pulipunam, 99.OVERSEAS ELECTORS",All Voters
+179,232,179,"Govt. P.S.Cherukole, Terraced Building, Northern  Portion","1.Cherukole(R.V), Cherukole (P) Block8, Ward4,Kuttaikuzhi, 2.Cherukole(R.V), Cherukole (p)
+Block 8, Ward 4, Pulipunam, 99.OVERSEAS ELECTORS \",All Voters
+180,232,180,"Govt. P.S.Cherukole, Terraced Building, Southern  Portion","1.Cherukole(R.V), Cherukole (p) Block 10, Ward 5, Cherukole, 2.Cherukole(R.V), Cherukole (P) Block 10, Ward 5, Eraviputhoorkadai, 99.OVERSEAS ELECTORS",All Voters
+181,232,181,"G H SS Kattathurai, Main Building
+South west Middle Portion","1.Kannanore(R.v), kaataturai (p) Block 21 kalayanvilai,
+99.OVERSEAS ELECTORS",All Voters
+182,232,182,"GHSS Kattathurai,  Main Building South west Middle Portion Room No 1","1.Kannanore(R.v), kaataturai (p) Block 22,23 kalayanvilai, 99.OVERSEAS ELECTORS",All Voters
+183,232,183,"GHSS Kattathurai, Main Building South west Middle Portion Room No 4","1. Kannanore(R.V.), Kaataturai (P) Block 16, Poonthoppu West, 2. Kannanore(R.V.), Kaataturai (P) Block 22, Poonthoppu North, 99.OVERSEAS ELECTORS",All Voters
+184,232,184,"GHSS Kattathurai, South East
+Building, Middle Portion","1. Kannanore(R.V.), Kaataturai (P) Block 15, Poonthoppu
+East, 99.OVERSEAS ELECTORS",All Voters
+185,232,185,"GHSS Kattathurai, South East Building Northern Portion","1.Kannanore(R.V.), Kaataturai (P) Block 23, Poonthoppu South, 2.Kannanore (R.V.), Kaataturai (P) Block 24, Kaataturai, 99.OVERSEAS ELECTORS",All Voters
+186,232,186,"St. Joseph P.S..Pilankalai, Main
+Building, Central  Portion","1.Veyannoor A (R.V.), Kaataturai (p) Block 19,
+Pilangkalai, 99.OVERSEAS ELECTORS",All Voters
+187,232,187,"St. Joseph P.S..Pilankalai, Main Building, Central East Portion","1.Veyannoor  A(R.V.), Kaataturai (P) Block 26, Pallichaanvilai, Thelavilai, 2.Veyannoor A (R.V.), Kaataturai (P) Block 27, VettuKaatuVilai, Mulagumoodu, 3.Veyannoor A(R.V.), Kaataturai (P) Block 28, Neengaravilai, 4.Veyannoor A (R.V.), Kaataturai (P) Block 20, Ummancode, 99.OVERSEAS ELECTORS",All Voters
+188,232,188,"St. Joseph P.S..Pilankalai, Main Building, Southern  Portion","1.Veyannoor  A(R.V.), Kaataturai (P) Block 17, Ummancode North, 2.Veyannoor A(R.V.), Kaataturai (P) Block 18, Poonthoppu West, 99.OVERSEAS ELECTORS",All Voters
+189,232,189,"St. Joseph P.S..Pilankalai, Main Building, Northern  Portion","1.Veyannoor  A(R.V.), Kaataturai (P) Block 20, Ummancode South, Poonthoppu East, 99.OVERSEAS
+ELECTORS",All Voters
+190,232,190,"St. Joseph Nursery School. Pilankalai, Western  Portion","1.Veyannoor  A(R.V.), Kaataturai (P) Block 19, 28 Ward 4, Pilangkalai, 2.Veyannoor A (R.V.), Kaataturai (P) Block 28, Ward 4, Neengavilai, Pottavilai, Kattuvilai,
+99.OVERSEAS ELECTORS",All Voters
+191,232,191,"St.  .Xavier P.S.Kaisalavilai, Terraced Main Building,  South Portion","3.Kothanalloor ( R.V ), Kothanalloor   ( T.P ) Ward 17, Block 15,  Mekkamandabam North, 4.Kothanalloor ( R.V ), Kothanalloor  ( T.P ) Ward 17, Block 16, Kottaikkakam,
+99.OVERSEAS ELECTORS",All Voters
+192,232,192,"St.  .Xavier P.S.Kaisalavilai, Terraced Main Building,  Middle Portion","1.Kothanalloor ( R.V ), Kothanalloor  ( T.P ) Ward 15, Block 13,  R.C.Street Mekkamandapam, 2.Kothanalloor ( R.V ), Kothanalloor  ( T.P ) Ward 18,  Block 14,
+Kaisalavilai, 99. OVERSEAS LECTORS",All Voters
+193,232,193,"R.C. High School, Chemparuthivilai North West Terraced   Building, Eastern  Portion","1.Kothanalloor ( R.V .), Kothanalloor ( T.P ) Block 7, Marangkonam, 2.Kothanalloor ( R.V .), Kothanalloor ( T.P
+) Block 8,  Manalikarai, 3.Kothanalloor ( R.V .), Kothanalloor ( T.P ) Block 9,  Chemparuthivilai, 4.Kothanalloor ( R.V .), Kothanalloor ( T.P ) Block 10, Pulluvilai, 5.Kothanalloor ( R.V .), Kothanalloor ( T.P ) Block 11, Pavoorkonam, 6.Kothanalloor ( r.v.), kothanalloor ( t.p ) Block 19, Chemparuthivilai South,
+99.OVERSEAS ELECTORS",All Voters
+194,232,194,"R.C. High School, Chemparuthivilai., New  Terraced building Southern
+Portion","1.Kothanalloor ( r.v.), kothanalloor ( t.p ) Block 19, Chemparuthivilai South, 99.OVERSEAS ELECTORS",All Voters
+195,232,195,"R.C. High School, Chemparuthivilai, North West Terraced  Building, Western  Portion","1.Kothanalloor  ( R.V.) Kothanalloor  ( T.P. ) Block 20, Periavilai, 99.OVERSEAS ELECTORS",All Voters
+196,232,196,"Govt. P.S.Marankonam,  Main Terraced Building, Middle Portion","1.Kothanalloor (R.V ),  Kothanalloor ( T.P ) Block 1, Mundavilai South, Valavilaimukku, 2.Kothanalloor (R.V ), Kothanalloor ( T.P ) Block 2,  Mundavilai,  Verkilambi, 3.Kothanalloor ( R.V ), Kothanalloor ( T.P ) Block 4, Marankonam, Kaisalavilai, 99.OVERSEAS ELECTORS",All Voters
+197,232,197,"Govt. P.S.Marankonam, North East Terraced Building, Northern  Portion","1.Kothanalloor ( R.V ), Kothanalloor ( T.P ) Block 3, Marankonam, 2.Kothanalloor ( R.V ), Kothanalloor ( T.P ) Block 5, V.M.P Street, 99.OVERSEAS ELECTORS",All Voters
+198,232,198,"Govt. P.S.Marankonam,  North East Terraced Building, Southern Portion","1.Kothanalloor ( R.V ), Kothanalloor ( T.P ) Block 6, Marankonam East, 2.Kothanalloor ( R.V ), Kothanalloor ( T.P ) Block 2, Mundavilai, 3.Kothanalloor ( R.V ), Kothanalloor ( T.P ) Block 3, Marankonam, 4.Kothanalloor (R.V ), Kothanalloor  ( T.P ) Block 12, Nediyavilai, Kuruvikaadu, 99.OVERSEAS ELECTORS",All Voters
+199,232,199,"St. Joseph P.S.Manalikarai, New Terraced Building South Portion","1.Kothanalloor ( R.V ), Kumarapuram ( T.P ) Ward 14, Block 1 R.C.Street, Manalikkarai, 99.OVERSEAS
+ELECTORS",All Voters
+200,232,200,"St. Joseph P.S.Manalikarai, New Terraced Building Middle Portion","1.Kothanalloor ( R.V ), Kumarapuram ( T.P ) Ward 15 Block2, 3 R C Street, Manalikarai 2.Kothanalloor ( R.V ), Kumarapuram ( T.P ) Ward 15, Block  3 Chanthai Road Valaivilai Junction, 3.Kothanalloor ( R.V ), Kumarapuram ( T.P ) Ward 15, Block 15, Attukonam, 4.Kothanalloor ( R.V ), Kumarapuram ( T.P ) Ward 10,  Block 16, Padmanabanthambinagar, 99.OVERSEAS ELECTORS",All Voters
+201,232,201,"St. Joseph P.S.Manalikarai, New Terraced Building Northern  Portion","1.Kothanalloor ( R.V ), Kumarapuram ( T.P ) Ward 15, Block  2,3  M.S. Street, Manalikarai,99.OVERSEAS
+ELECTORS",All Voters
+202,232,202,"Noon Meal Center,  Poovangarampu South east Terraced Building, Northern Portion","1.Kothanalloor ( R.V .), Kumarapuram ( T.P ) Block 6, Ward 10, Nadavoorkarai, 2.Kothanalloor ( R.V .), Kumarapuram ( T.P ) Block 5,  Ward 11,  Manakavilai, 3.Kothanalloor ( R.V .), Kumarapuram ( T.P ) Block 12, Ward 10, Poovangaparambu, 4.Kothanalloor ( R.V .), Kumarapuram ( T.P ) Block 13, Ezha Vilagam, 99.OVERSEAS ELECTORS",All Voters
+203,232,203,"Noon Meal Center,  Poovangarampu North Building, Northern Portion","1.Kothanalloor ( r.v .), kumarapuram ( t.p ) Block 13, manakkavilai, 2.Kothanalloor ( R.V .), Kumarapuram ( T.P
+) Block 14,  Attukkonam, 99.OVERSEAS ELECTORS",All Voters
+204,232,204,"Govt. P.S.Gramam, New Building, Western Portion","1.Kothanalloor ( R.V, Kothanalloor ( T.P ) Ward 4, Block 21,  Vazhikkalampadu  West, Grammam West,
+99.OVERSEAS ELECTORS",All Voters
+205,232,205,"Govt. P.S.Gramam, South Aspestos Building, Middle Portion","1.Kothanalloor ( R.V.), Kothanalloor  ( T.P ) Ward 10, Block 22, Grammam,Thonnacheevilai, 2.Kothanalloor (R.V), Kothanalloor  ( T.P ) Ward 10, Block 22,  Gramam
+99.OVERSEAS ELECTORS",All Voters
+206,232,206,"Govt. P.S.Gramam, New Building, Eastern Portion","1.Kothanalloor ( R.V ), Kothanalloor  ( T.P ) Ward 5, Block 23, Muttaicadu South, Vazhikkalampadu,
+99.OVERSEAS ELECTORS",All Voters
+207,232,207,"Govt. P.S.Kumarapuram, Northern Southern  Building Eastern Portion","1 Kumarapuram ( R.V.), Kumarapuram ( T.P ) Block 10, Ward 8,  Kumarapuarm,  99.OVERSEAS ELECTORS",All Voters
+208,232,208,"Govt. P.S.Kumarapuram, Northern Terraced Building  South Facing
+Western Portion","1.Kumarapuram ( R.V .), Kumarapuram ( T.P ) Block 11, Ward 9,  Kumarapuram,  99.OVERSEAS ELECTORS",All Voters
+209,232,209,"Govt. P.S Kumarapuram, Southern Building Western Portion","1.Kumarapuram ( R.V .), Kumarapuram ( T.P ) Block 17, Ward 8,  Kaithacode, 2.Kumarapuram ( R.V .), Kumarapuram ( T.P ) Block 17,  Ward 8,  Muttaikadu,
+Kumarapuram 99.OVERSEAS ELECTORS",All Voters
+210,232,210,"Govt. M.S.Kotticode, Main  Building, Eastern  Portion","1.Kumarapuram ( R.V ), Kumarapuram ( T.P ) Ward 5, Block  9, Kotticodu Left Side, 2.Kumarapuram ( R.V ), Kumarapuram ( T.P ) Ward 3, Block 18, Kotticodu Right Side, 99.OVERSEAS ELECTORS",All Voters
+211,232,211,Govt. M.S.Kotticode  Main Building West Middle Portion,"1.Kumarapuram ( r.v ), kumarapuram ( t.p ) Ward 2, Block
+19, Karumparai. 99.OVERSEAS ELECTORS   ( Door No 19-1 to 19-67)",All Voters
+212,232,212,Govt. M.S.Kotticode  Main Building East Middle Portion,"1.Kumarapuram ( r.v ), kumarapuram ( t.p ) Ward 2, Block 19 Solapuram, Athisaiyapuram, 99.OVERSEAS
+ELECTORS  ( Door No 19-68 to 19-293)",All Voters
+213,232,213,Govt. M.S.Kotticode  Tiled Building South West Portion,"1. Kumarapuram( R.V.), Kumarapuram  ( T.P ) Ward 6, Block 7, Kuzhivilai Kumarapuram, 99.OVERSEAS
+ELECTORS",All Voters
+214,232,214,"Govt. M.S.Kotticode, Northern Tiled
+Building Western Portion","1.Kumarapuram ( R.V.), Kumarapuram ( T.P ) Ward 7,
+Block 8,  Kotticodu, 99.OVERSEAS ELECTORS",All Voters
+215,232,215,Govt. H.S.Perinchilampu  Main Building Eastern Portion,"1.Velimalai ( R.V ) Kumarapuram ( T.P) Ward 2, Block 20,  Perumchilambu, 2.Velimalai ( R.V ) Kumarapuram ( T.P ) Ward 2, Block 19, Perumchilambu M.G.R. Nagar, 99.OVERSEAS ELECTORS",All Voters
+216,232,216,"Govt PS Muttaikadu,, Terraced
+Building South East portion","1.Kumarapuram ( R.V ), Kothanalloor ( T.P ) Block 24,
+Muttaicadu,99.OVERSEAS ELECTORS",All Voters
+217,232,217,"Govt PS Muttaikadu, South Terraced
+Building South West portion","1.Kumarapuram ( R.V ), Kothanalloor ( T.P ) Block 28,
+Saralvilai, 99.OVERSEAS ELECTORS",All Voters
+218,232,218,S. K.V.M.S.Muttaikadu  Middle Portion,"1.Kumarapuram ( R.V )  Kothanalloor  ( T.P ) Ward 14, Block 25,  Ethavilai, 2.)Kumarapuram ( R.V ), Kothanalloor  ( T.P ) Ward 8,  Block 27,  Ethavilai East, Padanthan Vilai, 99.OVERSEAS ELECTORS",All Voters
+219,232,219,"S. K.V.M.S.Muttaikadu, Main Building
+North Middle Portion","1)Kumarapuram ( R.V ), Kothanalloor  ( T.P ) Ward 6,
+Block 24, Muttaicadu, 99.OVERSEAS ELECTORS",All Voters
+220,232,220,"Govt. . P.S.Eathavilai, New Building, Northern  Portion","1.Kothanalloor ( R.V ), Kothanalloor  ( T.P ) Ward 13, 14, Block 25, Velitharavilai, Ethavilai,
+Perunchavilai,99.OVERSEAS ELECTORS",All Voters
+221,232,221,"Govt. . P.S.Eathavilai, New Building, Northern Middle  Portion","1).Kothanalloor ( R.V ), Kothanalloor   ( T.P ) Ward 8, 13, Block 26,  Padanthanvilai, Thachanvilai, Periavilai,
+99.OVERSEAS ELECTORS",All Voters
+222,232,222,"Govt. . P.S.Eathavilai, New Building, Southern  Portion","1.Kothanalloor ( R.V ), Kothanalloor ( T. P ) Ward 15, Block 17, Kanjirathukonam, 99.OVERSEAS ELECTORS",All Voters
+223,232,223,"Govt. . P.S.Eathavilai, New Building, Middle  Portion","1.Kothanalloor ( R.V ), Kothanalloor  ( T.P ) Ward 12, Block 18, Vellatharvilai, 2.Kothanalloor ( R.V ), Kothanalloor  ( T.P ) Ward 12, Block 18,  Thoppuvilai, Paraiyanvilai, Nattalathu Vilai, 99.OVERSEAS
+ELECTORS",All Voters
+224,232,224,"Govt. P.S.Kadamalaikuntu, Terraced Building, Southern Portion","1.Thuckalay ( R.V ),Vilavoor ( T.P ) Block 1, Kadamalaikkuntu, 2.Thuckala (R.V) Vilavoor (T.P) Block 2 Samivilai  East, 3.Thuckalay ( R.V ), Vilavoor ( T.P ) Block 12,  Samivilai  South, 99.OVERSEAS ELECTORS",All Voters
+225,232,225,"Govt. P.S.Kadamalaikuntu, Terraced Building, Northern Portion","1.Thuckalay ( R.V ), Vilavoor ( T.P ) Ward 7, Block 12, Samivilai, Pilankalai, 99.OVERSEAS ELECTORS",All Voters
+226,232,226,"Govt. M.S. Thaniviali in Vilavoor,
+Main Building, North Portion","1.Thuckalay ( R.V ), Vilavoor ( T.P ) Block  3, Pandivilai,
+99.OVERSEAS ELECTORS",All Voters
+227,232,227,"Govt. M.S. Thaniviali in Vilavoor,
+Main Building, South Portion","1.Thuckalay ( R.V ), Vilavoor ( T.P ) Block 4,  Palappalli,
+99.OVERSEAS ELECTORS",All Voters
+228,232,228,"Govt. M.S.Vilavoor  at Thani Vilai, New Concrete Building,  South Portion","1.Thuckalay ( R.V ), Vilavoor ( T.P ) Ward 11,  Block 10,13, Palappalli, 2.Thuckalay ( R.V ), Vilavoor ( T.P ) Ward 11, Block 10,  Kunnathukonam, 99.OVERSEAS
+ELECTORS",All Voters
+229,232,229,"CSI Public Matric School, Azhagiamandapam, East Aspestos
+Building, Southern Portion","1.Thuckalay ( R.v ), vilavoor ( t.p ) Ward 9,  Block 13, Panankalavilai, Maruthavilai, Azhagiamandapam,
+99.OVERSEAS ELECTORS",All Voters
+230,232,230,"Government Primary School,
+Moolachel  North South Jubilee Building, Northern Portion","1.Thuckalay ( R.V ), Vilavoor ( T.P ) Ward 10,  Block 14, Ponthanpilavilai,  Vilavoor, 99.OVERSEAS ELECTORS",All Voters
+231,232,231,"Govt. Primary School,  Moolachel Main Building, Northern Portion","1.Thuckalay ( R.V ), Vilavoor ( T.P ) Ward 12,  Block 11, Moolachal, 2.Thuckalay ( R.V ), Vilavoor ( T.P ) Ward  12, Block  11, Aruvilai, 3.Thuckalay ( R.V ) Vilavoor ( T.P ) Ward 12, Block  11,  Kattuvilai, 99.OVERSEAS ELECTORS",All Voters
+232,232,232,"Govt. High School,  Moolachel  East West Terraced Building, Western Portion","1.Thuckalay ( R.V ) Vilavoor ( T.P ) Ward 15,  Block 9, Valanvilai, 2.Thuckalay ( R.V ), Vilavoor ( T.P ) Ward 3, 15, Block 9,  Pandaravilai, 3.Thuckalay ( R.V ), Vilavoor ( T.P ) Ward 3. Block 9. Sunaparvilai, 99.OVERSEAS
+ELECTORS",All Voters
+233,232,233,Govt.  P.S.Moolachel  Terraced Nuilding South East Portion,"1.Thuckalay ( R.V ), Vilavoor ( T.P ) Ward 13, Block 15, Ummachanvilai, 2.Thuckalay ( R.V ), Vilavoor ( T.P ) Ward 13, Block 15,  Ambalathadivilai, 1.Thuckalay ( R.V
+), Vilavoor ( T.P ) Ward 13, Block 15, Vadalivilai, 4.Thuckalay ( R.V ), Vilavoor ( T.P ) Ward 13, Block 15,
+Christhunagar  99.OVERSEAS ELECTORS",All Voters
+234,232,234,Govt.  P.S.Moolachel  Terraced Nuilding North East Portion,"1.Thuckalay ( R.V ), Vilavoor ( T.P ) Ward 13, Block16, Manalipalam,  2.Thuckalay ( R.V ), Vilavoor ( T.P ) Ward 14, 15, Block 15,  Pazhavilai, 3.Thuckalay ( R.V ), Vilavoor ( T.P ) Wardn 15, Block 16,  Sunapparavilai, 99.OVERSEAS ELECTORS",All Voters
+235,232,235,"Govt. H.S.Moolachel, South East Terraced Building, Northern  Portion,","1.Thuckalay ( R.V ), Vilavoor ( T.P ) Ward 3, Block 5, Nullivilagam, 2.Thuckalay ( r.v ), vilavoor ( t.p ) Ward  3, block 5, pattavilagam, 3.Thuckalay ( R.V ), Vilavoor ( T.P
+) Ward 3,  Block 5,  Kannkaravilai, 4.Thuckalay ( R.V ), Vilavoor ( T.P ) Ward 3, Block 5,  Vadaserivilai, 5.Thuckalay (R.V) Vilavoor (T.P) Ward 14 Block 17 Keezhamoolachal, 6.Thuckalay (R.V) Vilavoor (T.P) Ward 14, Block 17 Pootchikkattuvilai, 7.Thuckalay (R.V) Vilavoor (T.P) Ward 14, Block 17 Saroad, 99.OVERSEAS
+ELECTORS",All Voters
+236,232,236,"Govt. H.S.Moolachel, East West Terraced  (MP Fund) Building Western Portion","1.Thuckalay ( R.V ), Vilavoor ( T.P ) Ward 2, Block 8, kollanvilai, 2.Thuckalay ( R.V ), Vilavoor ( T.P ) Ward 2, Block 8,  Thanthavilai, 3.Thuckalay ( R.V ), Vilavoor ( T.P
+) Ward 2,   Block 8,  kudiruppu vilai, 4.Thuckalay ( R.V ), Vilavoor ( T.P ) Ward 2, Block 8,  Elanjivilai, 5.Thuckalay ( R.V ), Vilavoor ( T.P ) Ward 2,  Block 8,  Kollankonam, 6.Thuckalay (R.V) Vilavoor (T.P) Ward 2, Block 8
+Kaisalavilai,  99.OVERSEAS ELECTORS",All Voters
+237,232,237,"Govt. H.S.Moolachel  Main  Building, Northern  Portion","1.Thuckalay ( R.V ), Vilavoor ( T.P ) Ward 1, Block 6, Keezhamoolachal   2.Thuckalay ( R.V ), Vilavoor ( T.P ) Block 6,7,  Marunthukottai, 3.Thuckalay ( R.V ), Vilavoor ( T.P ) Block 6, Pooliyurkurichy, 4.Thuckalay ( R.V ), Vilavoor ( T.P ) Block 6,7,  Aasan Kinaru, 5.Thuckalay ( R.V ), Vilavoor ( T.P ) Block 6,7,  PooliyurKurichy East,
+99.OVERSEAS ELECTORS",All Voters
+238,232,238,"Govt. H.S.Moolachel, Main  Building, Southern  Portion","1.Thuckalay ( R.V ), Vilavoor ( T.P ) Ward 1, Block 7, Moolachal East, 2.Thuckalay ( R.V ), Vilavoor ( T.P ) Block 6, Moolachal South, 3.Thuckalay ( R.V ), Vilavoor ( T.P ) Block 7, Moolachal West, 4.Thuckalay ( R.V ), Vilavoor ( T.P ) Block 6,  Moolachal North, 5.Thuckalay ( R.V ), Vilavoor ( T.P ) Block 6, Saroad, 99.OVERSEAS
+ELECTORS",All Voters
+239,232,239,Govt. P.S.(Hospital Area) Thuckalay North Portion,"1.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 28, Ward 1,  Manali Main Road, 2.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 28, Karaikandar Konam, 3.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 28,  Moontu Mookkan Vilai, 4.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 28, Karaikandar Konam East, 5.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 28,   Manali Road, 6Padmanabhapuram A ( R.V
+), Padmanabhapuram ( M ) Block 29,  Panavilai, 7.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 29, Saralvilai, 8.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 29,  Vettikonam,
+99.OVERSEAS ELECTORS",All Voters
+240,232,240,"Govt. P.S.(Hospital Area) Thuckalay Main Building, South Portion","1.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block  30,31, Ward 1,8,   Saroad, Padmanabhapuram road, 2.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 31,  Ward 8,  Vettikonam Road 99.OVERSEAS
+ELECTORS",All Voters
+241,232,241,"Govt. P.S.(Hospital Area) Thuckalay, Main Building, Middle Portion","1Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 30, Ward 1, Vettukatu Vilai,  2.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 31, Ward 8, Saroad Sundavilai, 99.OVERSEAS ELECTORS",All Voters
+242,232,242,"Govt. Hr.Sec.School, Thuckalay, Main Building South Portion Room No 1","1. Padmanabhapuram A( R.V ), Padmanabhapuram ( M ) Block 24,   Saralvilai,  99.OVERSEAS ELECTORS",All Voters
+243,232,243,"Govt. Hr.Sec.School, Thuckalay, Main Building South East Portion Room No 1","1.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 24,  Main Road, 99.OVERSEAS ELECTORS",All Voters
+244,232,244,"Govt. Hr.Sec.School, Thuckalay, South Building, Room No 2.","1. Padmanabhapuram A( R.V ), Padmanabhapuram ( M ) Block 25, Vettikkonam, 2.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 25, Vettikkonam (
+Pulimootu Street ), 99.OVERSEAS ELECTORS",All Voters
+245,232,245,"Govt. H.S.S.Thuckalay  New  Building, South Portion, Room No 2","1. Padmanabhapuram A( R.V ), Padmanabhapuram ( M ) Block 26, Ward 7,8,  Anjuvannam Street, 2.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 27, Ward  6,  Ammankovil Street, 99.OVERSEAS
+ELECTORS",All Voters
+246,232,246,"Govt. H.S.S.Thuckalay  Main Building, Northern  Portion","1.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 23, Ward 9,  Hospital Ward, 99.OVERSEAS
+ELECTORS",All Voters
+247,232,247,"Govt. .Muslim P.S. Mettukadai, Thuckalay  Main Building, Western Portion","1. Padmanabhapuram A( R.V ), Padmanabhapuram ( M ) Block 14, Ward 11,  Ramanparambu Devi Kovil way,, 2. Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 14, Ward 11,  Mainroad Thuckalay, 3.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 14, Ward 11,  Police Quarters Sreet, 4.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 14, Ward  11,  ThiruvithancodeRoad, 5.Padmanabhapuram A.(R.V), Padmanabapuram (M) Block 14, Ramanparambu, 99.OVERSEAS ELECTORS",All Voters
+248,232,248,"Govt. .Muslim P.S. Mettukadai, Thuckalay  East West Terraced Building Western  portion,","1. Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 19, Ward 10,   Market Road, 2.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 19, Ward 19, Danamuduku, 3.  Padmanabhapuram A( R.V ), Padmanabhapuram ( M ) Block 19, Ward 19, Tharkaroad,99.OVERSEAS ELECTORS",All Voters
+249,232,249,"Govt. .Muslim .P.S.Mettukadai,  at Thuckalay, South Portion","1. Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 20 Nagercoil Tvm Main Road, 2.Padmanabhapuram A  ( R.V ), Padmanabhapuram ( M ) Block 20,   Uppu compound, 3.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 21, ward 6,  gnaniar street, 4.Padmanabhapuram A  ( R.V ), Padmanabhapuram ( M ) Block 20, Ward 11,  Popular Institution Line, 5. Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 20, Ward 11,  Tharha Road, 6. Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 11,  Market Road ( Popular Institution line), 7.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 20, Ward 6,   Palasroad, 8. Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 21, Ward 6,  Gnaniar Street, 9. Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 21, Ward  6, Ayinthugramam Gnaniyar St,, 10. Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 21, Ward 6,  Tharha Road West, 11.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block  21, Ward 6 Market Road, 99.OVERSEAS ELECTORS",All Voters
+250,232,250,"Govt.  Middle School,  Thuckalay,, Main Building, Southern Portion","1. Padmanabhapuram A( R.V ), Padmanabhapuram A ( M )
+Block 15, Ward 5,   Muncipality Colony, 2. Padmanabhapuram A( R.V ), Padmanabhapuram ( M ) Block 15, Ward 13,  Ist  Street, 3.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 15, Ward 13,  IInd Street, 4.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 15, Ward 13,  IIIrd  Street, 5.Padmanabhapuram A (R.V), Padmanabhapuram (M) Block 15, Ward 13,  4th  Street, 6.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 15,  Ward 13,  5th Street, 7.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 15, Ward 13,  7th  Street, 8.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 15, Ward 13, 8th Street, 9.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 15, Ward 13,  Street, 10.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 15, Ward 13,   X  Street, 11.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 15, Ward 13,   XI Street, 12.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 16, Ward 12,  Perumal Kovil St,, 13.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 16, Ward 12,
+Perumalkovil Road, 14.Padmanabhapuram A ( R.V ),
+Padmanabhapuram ( M ) Block 16, Ward 12, Market Street, 15.Padmanabhapuram A  ( R.V ), Padmanabhapuram ( M ) Block 16,  Ward 12,  Palace Road, 16.Padmanabhapuram A ( R.V ), Padmanabhapuram",All Voters
+251,232,251,"Town Hal Thuckalay  Main Building, Northern  Portion","1. Padmanabhapuram A( R.V ), Padmanabhapuram ( M ) Block 10,  Kollanvilai, 2. Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 18, Parappankodu,
+99.OVERSEAS ELECTORS",All Voters
+252,232,252,"Town Hal Thuckalay  Main Building, Southern  Portion","1.  Padmanabhapuram A( R.V ), Padmanabhapuram ( M ) Block 11,  Ward 16,   Eraniel Road, 2. Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 12,   Bharathi Nagar, 99.OVERSEAS ELECTORS",All Voters
+253,232,253,"Govt. Middle School Thuckalay, North Building, Western Portion","1.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 13, Ward 15,  Ramanparambu, 2.Padmanabhapuram A ( R.V ), Padmanabhapuram ( M ) Block 17, Ward 15, Old Bus Stand, 99.OVERSEAS ELECTORS",All Voters
+254,232,254,"Govt. H.S.S.Kalkulam  Main Building, Middle Portion","1. Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 32,33,34,35,  Padmanabhapuram West St,, 2.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 32, Padmanabhapuram East Street,, 99.OVERSEAS
+ELECTORS",All Voters
+255,232,255,"Govt. P.S.Kalkulam, New Concrete Building, Northern Portion","1.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 33,   East Street, 2.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 33, Keelkulam, 3.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 34, Keelakulam West, 4.Padmanabhapuram B ( R.V
+), Padmanabhapuram ( M ) Block 34, Keelakulam East,
+99.OVERSEAS ELECTORS",All Voters
+256,232,256,"Govt. H.S.S.Kalkulam,  Eastern North Terraced building Northern Portion","1 Padmanabhapuram B( R.V ), Padmanabhapuram ( M ) Block 36, Konar Street, 2.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 36,  Palace Front Side, 3.Padmanabhapuram B( R.V ), Padmanabhapuram ( M ) Block 37,  West Street, 4.Padmanabhapuram B( R.V ), Padmanabhapuram ( M ) Block 37, Ramasamy Kovil St East, 5.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 37, Ramasamy Kovil St West, 6.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 38,  Pattanikulam St, 7.Padmanabhapuram B ( R.V
+), Padmanabhapuram ( M ) Block 38,  North St, 99.OVERSEAS ELECTORS",All Voters
+257,232,257,"Govt. M.S.Puliyoorkurichy, Main Building, Middle  Portion","1.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M )
+Block 4,  Ward 18, Chantai Road, 2.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Ward 18, Puliyoorkurichy, 3.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 4, Ward 18, Ottrai Street, Puliyoor Kurichi, 4.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 4,  Ward  18, Chantai Vali Road, 5.Padmanabhapuram B ( R.V ),Padmanabhapuram ( M ) Block 4,  Third Street ( T.B. Street ), 6.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 4, Ward 20, Middle School Street, 7.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 4,  Ward 20, Eratai Street, 8.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 5,  Ward 19, Main Road, 9.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 5,  Ward 19, Anjali vilai, 10.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 5, Ward 19, Sobana Street, 11.Padmanabhapuram B( R. V ), Padmanabhapuram ( M ) Block 5, Ward 19, Main Road, 12.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 5,  Ward 19, Kumarakovil Street, 13.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 5, Ward 19,  Brahmapuram, 14.Kalkulam ( R.V ), Padmanabhapuram ( M ) Ward 24, Karumparai Anjalivilai, 15.Kalkulam ( R.V
+), Padmanabhapuram ( M ) Ward 19, Block 5, Puliyoor
+Kurichi Mainroad, 16.Kalkulam ( R.V ), Padmanabhapuram ( M ) Ward 19, Block 5  Puliyoor",All Voters
+258,232,258,"Govt. M.S.Puliyoorkurichy  Terraced Building, Eastern  Portion","1.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 6, Thenkarai, 2.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 6,  Main Road South, 3.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 6,  Main Road North, 4.Padmanabhapuram B( R.V ), Padmanabhapuram ( M ) Block 7,  Nanthavanathu Vilai, 5.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 7,  K K Karai, 6.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 7, Panikkar Street, 7.Padmanabhapuram B( R.V ), Padmanabhapuram ( M ) Block 7,  Chanthaivazhi Road, 99.OVERSEAS ELECTORS",All Voters
+259,232,259,"Govt. M.S.Puliyoorkurichy  Terraced Building, Western  Portion","1. Padmanabhapuram B( R.V ), Padmanabhapuram ( M ) Block 8,  Chanthaivazhi Road, 2.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 9, Vazhavali, 3.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 9,  R C Street, Padmanabhapuram, 99.OVERSEAS
+ELECTORS",All Voters
+260,232,260,"Govt. M.S.Brahmapuram  Main Building,  Southern  Portion","1.Padmanabhapuram B ( R.V ) Padmanabhapuram  ( M ) Block 1,   Ward 21,  Kumarakovil Road, 2.Padmanabhapuram B ( R.V ) Padmanabhapuram ( M ) Block1, Ward 21, Kumarakovil Road, 3.Padmanabhapuram B( R.V ), Padmanabhapuram ( M ) Block 1, Ward 21, Kumarakovil Car Street, 4.  ( R.V ) Padmanabhapuram ( M
+) Block 1,  Ward 21,  Kumarakovil kulam karai, 5. Padmanabhapuram B( R.V ), Padmanabhapuram ( M ) Block 2, Brahmapuram Road, 6.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 2, Vadakkoor Colony, 7.Padmanabhapuram B ( R.V ) Padmanabhapuram ( M ) Block 2, Ward 21,  Brahmapuram Vadakkoor, 8.Padmanabhapuram B ( R.V ) Padmanabhapuram ( M ) Block 3,  Ward 20,  Aasan Kinaru First  Street, 9.Padmanabhapuram B ( R.V ),Padmanabhapuram ( M ) Block 2, Aasan Kinaru Second  Street, 10.
+Padmanabhapuram B( R.V ), Padmanabhapuram ( M ) Block 3,  Aasan Kinaru Third  Street, 11.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 3,  Ward 20,  Aasaan Kinaru Road, 12.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 3, Uthayakiri Road, 13.Padmanabhapuram B ( R.V ), Padmanabhapuram ( M ) Block 3, Erattai Street, 99.OVERSEAS ELECTORS",All Voters
+261,232,261,Govt. M.S.Brahmapuram   Northern Portion,"1. Chadayamankalam( R.V ), Thenkarai ( P ) Ward 2, Block 1, Thenkarai, 2.Chadayamankalam ( R.V ), Thenkarai ( P ) Ward 2, Block 1, Thenkarai Thoppu, 3.Chadayamankalam ( R.V ), Thenkarai ( P ) Ward 1, Block 2,   Thenkarai, Krishnanagar, 99.OVERSEAS
+ELECTORS",All Voters
+262,232,262,"Govt. M.S.Brahmapuram  Main Building, Northern  Portion","1.Chadayamankalam ( R.V ), Thenkarai  ( P ) Ward 4, Block 2, Brahmmapuram, 2 Chadayamankalam( R.V ), Thenkarai ( P ) Ward 1,Block 2,   Brahmmapuram Therkkoor, 3.Chadayamankalam ( R.V ), Thenkarai ( P ) Ward 1, Block 2, Brahmmapuramvilai Veedu, 4.Chadayamankalam ( R.V ), Thenkarai ( P ) Ward 1, Block 2,   Karavilai, 5.Chadayamankalam ( R.V ) m Thenkarai ( P ) Ward 1, Block 2,  Kuzhumai, 6.Chadayamankalam ( R.V ), Thenkarai  ( P ) Ward 1, Block 2,  Thinavilai, 99.OVERSEAS ELECTORS",All Voters
+263,232,263,"St. Antony P.S. Appattuvilai, New Building,  Eastern   Portion","1. Chadayamankalam( R.V ), Chadayamankalam ( P ) Ward 1, Block 1, Krishnamangalam, 2.Chadayamankalam ( R.V ), Chadayamankalam ( P ) Ward 2, Block 2, Eazhunthankottukonam East, 3.Chadayamankalam ( R.V ), Chadayamankalam ( P ) Block 3, Eazhunthankottukonam West, 4. Chadayamankalam( R.V ), Chadayamankalam ( P
+) Block  1, Pandara Vilai, 99.OVERSEAS ELECTORS",All Voters
+264,232,264,"St. Antony P.S. Appattuvilai, New Building, Western  Portion","1.Kalkulam ( R.V ), Chadayamangalam ( P ) Block 2, Paruthiyaraithottam, 2.Kalkulam ( R.V ), Chadayamangalam ( P ) Block 2, Krishnamangalam,
+3.Kalkulam ( R.V ), Chadayamangalam ( P ) Block 2, Akkaravilai, 4.Kalkulam ( R.V ), Chadayamangalam ( P ) Block 2, 4,  Chadayamangalam, 5.Kalkulam ( R.V ), Chadayamangalam ( p ) Block 5, Chithanthoppu,
+6.Kalkulam ( R.V ), Chadayamangalam ( P ) Block 5,
+Chadayamangalam, 99.OVERSEAS ELECTORS",All Voters
+265,232,265,"St. Antony P.S. Appattuvilai, New Building, Middle Portion","1.Chadayamankalam ( R.V ), Chadayamangalam ( P ) Block 1, Chadayamangalam, 2.Chadayamankalam ( R.V ), Chadayamangalam ( P ) Block 4,  Krishnamangalam  East, 3.Chadayamankalam ( R.V ), Chadayamangalam ( P ) Block 6,  Krishnamangalam, Appatuvilai, Chemmanvilai, 4.Chadayamankalam ( R.V ), Chadayamangalam ( P ) Block 4, Chithanthoppu North Street, 5.Chadayamankalam ( R.V ), Chadayamangalam ( P ) Block 3, Krishnamangalam South, 99.OVERSEAS ELECTORS",All Voters
+266,232,266,"Govt. Primary.School.Kollenvilai Main Building, Southern  Portion","1.Muthalakuruchi ( R.V ), Kalkurichi ( P ) Block1,
+Kalkurichi. Door No1-1 To 148, 99.OVERSEAS ELECTORS",All Voters
+267,232,267,Govt. Primary.School. Kollenvilai Main Tiled Building Middle Portion,"1.Muthalakuruchi ( R.V ), Kalkurichi ( P ) Block1, Kalkurichi, Door No 1-149 To 1-308   99.OVERSEAS
+ELECTORS",All Voters
+268,232,268,"Govt. Primary.School.Kollenvilai Main tiles Building, North  Portion","1.Thuckalay Muthalakuruchi ( R.V ), Kalkurichi  ( P ) Block 4,  Keyzha Kalkurichi, 99.OVERSEAS ELECTORS",All Voters
+269,232,269,"Govt. P.S.Kollenvilai  North Building,
+Eastern  Portion","1.Thuckalay Muthalakuruchi ( R.V ), Kalkurichi ( P )
+Block 2,  Kollan  Vilai, 99.OVERSEAS ELECTORS",All Voters
+270,232,270,"Govt. P.S.Kollenvilai  North tiles Building,  South  Portion","1.Thuckalay Muthalakuruchi ( R.V ), Kalkurichi  ( P ) Block 4, Kalkurichi, 2.ThuckalayMuthalakuruchi  ( R.V ), Kalkurichi  ( P ) Block  5,  Adappu   Vilai, 99.OVERSEAS ELECTORS",All Voters
+271,232,271,"Panchayat Office,  Keezha  Kalkurichy Terraced Building, East Portion","1.Muthalakurichi  ( R.V ), Kalkurichi ( P ) Block 3, kalkurichi, 99.OVERSEAS ELECTORS",All Voters
+272,232,272,"Anganwady Centre,  Keezha Kalkurichy  Terraced Building, East Portion","1.Muthalakurichi  ( R.V ), Kalkurichi ( P ) Block 6, Manchana  Vilai,  Veera  Vilai, 99.OVERSEAS ELECTORS",All Voters
+273,232,273,St. Joseph M.S.Kalkurichy  New South Building. Southern  Portion,"1.Muthalakurichi  ( R.V ), Muthalakurichi ( P ) Ward 1, Block 1,  Muthalakurichi North.99.OVERSEAS
+ELECTORS,",All Voters
+274,232,274,"St. Joseph M.S.Kalkurichy, New South Building West Portion","1.Thuckalay ( R.V ), Muthalakurichi  ( P ) Ward 1, Block 2, Muthalakurichi South, 99.OVERSEAS ELECTORS",All Voters
+275,232,275,"St. Joseph M.S.Kalkurichy, Golden Jubilee Memorial Hall, North Portion","1.Muthalakurichi  ( R.V ), Muthalakurichi  ( P ) Ward 1, Block 3,  Muthalakurichi West, 2.Thuckalay ( R.V ), Muthalakurichi ( P ) Ward 1,  Block 4, 5, Muthalakurichi West, 99.OVERSEAS ELECTORS",All Voters
+276,232,276,"St. Joseph M.S.Kalkurichy, Golden Jubilee Memorial Hall, Middle Portion","1Muthalakuruchi ( R.V ), Muthalakurichi ( P ) Ward 1, block 4,  muthalakurichi east. 99.OVERSEAS ELECTORS,",All Voters
+277,232,277,"St. Joseph M.S.Kalkurichy, Golden Jubilee Memorial Hall South Middle
+Portion","1.Thuckalay ( R.V ), Muthalakurichi  ( P ) Ward 1, Block 4,  Muthalakurichi West, 99.OVERSEAS ELECTORS",All Voters
+278,232,278,"Govt. P.S.Neikattanvilai at Paraicode, Main Building, Eastern Portion","1.Thuckalay ( R.V), Thiruvithancode ( T.P ) Ward 2, Block 3,  ParaiCodu ( DoorNo 3-1 to 3-125), 99.OVERSEAS
+ELECTORS",All Voters
+279,232,279,"Govt. P.S.Neikattanvilai at Paraicode, Main Building, Westrern Portion","1. Thuckalay ( R.V ), Thiruvithancode ( T.P ) Ward 2, Block 3,  Vaikundapuram, 2.Thuckalay ( R.V), Thiruvithancode ( T.P ) Ward 2, Block 3,  ParaiCodu (
+DoorNo 3-126 to 3-276)99.OVERSEAS ELECTORS",All Voters
+280,232,280,"Vivekanantha Matric HSS Vaikundapuram, Main Terraced Building North West Portion","1.Thuckalay ( R.V ), Thiruvithancode ( T.P ) Ward 18, Block 2,   Ponthanbilavilai, 2.Thuckalay ( R.V ), Thiruvithancode ( T.P ) Ward 18, Block 2, Ahzagiamandapam, 3.Thuckalay ( R.V ), Thiruvithancode ( T.P ) Ward 18, Block 2, Kandankonam,  4.Thuckalay ( R.V
+), Thiruvithancode ( T.P ) Ward 16, Block 6, Thenguvilai, 99.OVERSEAS ELECTORS",All Voters
+281,232,281,"Muslim College of Education, Thiruvithancode,  South East Building, Middle Portion","1.Thuckalay ( R.V ), Thiruvithancode ( T P ) Ward 16, Block 6,  Kamalapanthi St, 2.Thuckalay ( R.V ), Thiruvithancode ( T P ) Ward 4, Block 6,  Puthu Street East, 3.Thuckalay ( R.V ), Thiruvithancode ( T.P ) Ward 18, Block 2, Puthu St West, 99.OVERSEAS ELECTORS",All Voters
+282,232,282,"Anganwadi center, Neikattanvilai, Terraced Building, South East Portion","1.Thuckalay ( R.V ), Thiruvithancode ( T.P ) Ward 1, Block 4,  Paraicodu, 2.Thuckalay ( R.V ), Thiruvithancode ( T.P ) Ward 1, Block 4,  Maruthavilai, 3.Thuckalay ( R.V
+), Thiruvithancode ( T.P ) Ward 1, Block 4,  Arapuraivilai,
+99.OVERSEAS ELECTORS",All Voters
+283,232,283,"Govt. P.S.(Malayalam) Thiruvithancode  Main Building, Eastern  Portion","1. Muthalakuruchi ( R.V ), Thiruvithancode (  T.P ) Ward 8, Block 7,  kamalpanthi Street, 2.Muthalakuruchi ( R. V ), Thiruvithancode ( T.P ) Ward 8, Block 7,  New Street, 3.Muthalakuruchi  ( R.V ), Thiruvithancode (  T.P ) Ward 8, Block 7, Elappai Street, 99.OVERSEAS ELECTORS",All Voters
+284,232,284,"Govt. P.S.(Malayalam) Thiruvithancode  Main Building, Eastern  Portion","1.Muthalakuruchi ( R.V ), Thiruvithancode ( T.P ) Ward 8, Block 10,  Arasamoodu, 2.Muthalakuruchi  ( R.V ), Thiruvithancode (  T.P ) Ward 8, Block 10,  Kathiya Street, 3Muthalakuruchi ( R.V ), Thiruvithancode (  T.P ) Ward 8, Block 10,  Old Palli Street, 99.OVERSEAS ELECTORS",All Voters
+285,232,285,"Govt. P.S.Keralapuram  Main Building, West Portion","1. Muthalakuruchi( R.V ), Thiruvithancode ( T.P ) Ward 3, Block 5,  Melakonam, 2.Muthalakuruchi  ( R.V ), Thiruvithancode ( T.P ) Ward 3, Block 5,  Keelparaicodu, 3.Muthalakuruchi  ( R.V ), Thiruvithancode ( T.P) Ward 3, Block 5,  Panavilai, 4.Muthalakuruchi  ( R.V ), Thiruvithancode ( T. P ) Ward 3, Block 5,  Mettukadai, 99.OVERSEAS ELECTORS",All Voters
+286,232,286,"Govt. P.S.Keralapuram  Main Building, East Portion","1.Muthalakuruchi ( R.V ), Thiruvithancode ( T.P ) Ward 4, Block 11,  Krishnan Kovil St, 2.Muthalakuruchi  ( R.V ), Thiruvithancode ( T.P ) Ward 4, Block 11,  Keralapuram West, 3. Muthalakuruchi ( R.V ), Thiruvithancode ( T. P ) Ward 4, Block 12,  Keralapuram South, 4.Muthalakuruchi ( R.V ), Thiruvithancode ( T. P ) Ward 4, Block 12,, Vembankonam, 99.OVERSEAS ELECTORS",All Voters
+287,232,287,"Govt. P.S.Keralapuram  Main Building, Middle  Portion","1.Muthalakuruchi ( R.V ), Thiruvithancode ( T P ) Ward 6, Block 25, R. C Street,, 2.Muthalakuruchi  ( R.V ), Thiruvithancode ( T P ) Ward 6,  Block 25, Therasar Vilai, Aladi kundu, 3.Muthalakuruchi  ( R.V ), Thiruvithancode ( T P ) Ward 6, Block 25,  Aladikundu, 4Muthalakuruchi  ( R.V ), Thiruvithancode  ( T P ) Ward 6, Block 25,   Cheti Vilai, 5.Muthalakuruchi  ( R.V ), Thiruvithancode ( T P ) Ward 6, Block 25,  Thopu, 6.Muthalakuruchi  ( R.V ), Thiruvithancode ( T P ) Ward 6, Block 25,  Kottavilai, 7.Muthalakuruchi  ( R.V ), Thiruvithancode ( T. P ) Ward 6, Block 25,  Vattamthopu, 8.Muthalakuruchi  ( R.V ), Thiruvithancode ( T P ) Ward 6, Block 25, Anthoniyar vattam, 9.Muthalakuruchi  ( R. V ), Thiruvithancode ( T. P
+) War  6, Block 25,  Aladikundu, 99.OVERSEAS ELECTORS",All Voters
+288,232,288,"Govt. P.S.Keralapuram  Tiled Building, North West Portion","1.Muthalakuruchi ( R.V ), Thiruvithancode ( T.P ) Block 13,  Ward 5,  Krishnankovil, 2.Muthalakuruchi  ( R.V ), Thiruvithancode ( T P ) Block 13,  Ward 5,  Chetivilai, 3.Muthalakuruchi  ( R.V ), Thiruvithancode ( T P ) Block 13,  Ward 5,  Sankarankavoo, 4.Muthalakuruchi  ( R.V ), Thiruvithancode ( T P ) Block 13,  Ward 5,  Therasar Vilai, 5.Muthalakuruchi  ( R.V ), Thiruvithancode ( T P ) Ward 5, Block 13,  AladiKundu, 99.OVERSEAS ELECTORS",All Voters
+289,232,289,"Govt. H.S.S.Thiruvithancode  Northern Building, Eastern  Portion","1.Mulagumoodu ( R.V ), Thiruvithancode ( T.P ) Block 8, Adapu Vilai, 2.Mulagumoodu ( R.V ), Thiruvithancode ( T.P ) Block 8,  New Street, 3.Mulagumoodu ( R.V ), Thiruvithancode ( T.P ) Block 8,  Kattu Vilai, 4.Mulagumoodu ( R.V ), Thiruvithancode ( T.P ) Block 8, New School Street, 99.OVERSEAS ELECTORS",All Voters
+290,232,290,"Govt. H.S.S.Thiruvithancode  Tiled Building, Western  Portion Room No. 37","1.Mulagumoodu ( R.V ), Thiruvithancode ( T.P ) Block 17, Amaravathi Street, 2.Mulagumoodu ( R.V ), Thiruvithancode ( T P ) Block 17,  Parayadi Street East, 3.Mulagumoodu ( R.V ), Thiruvithancode ( T.P) Block 17, Nadukadai, 4.Mulagumoodu ( R.V ), Thiruvithancode ( T.P
+) Block 17, Anjuvannam Street North, 5.Mulagumoodu ( R.V ),  Thiruvithancode ( T.P ) Block 18,  Parayadi Street West, 6.Mulagumoodu ( R.V ), Thiruvithancode ( T.P) Block 18,  Anjuvannam Street South, 7.Mulagumoodu ( R.V ), Thiruvithancode ( T.P ) Block18,  Main Road,
+99.OVERSEAS ELECTORS",All Voters
+291,232,291,"Govt. H.S.S.Thiruvithancode, Middle Building, Eastern  Portion","1.Mulagumoodu (R.V), Thiruvithancode (T.P) Block 9, New Street East, 2.Mulagumoodu (R.V),Thiruvithancode (T.P) Block 9, attakulam street, 3.Mulagumoodu (R.V),Thiruvithancode (T.P) Block 9  Hospital Road, 4.Mulagumoodu ( R.V),Thiruvithancode (T.P) Block 9, Amaravathi Salai,  99.OVERSEAS ELECTORS",All Voters
+292,232,292,"Govt. H.S.S.Thiruvithancode, Tiled Building Eastern Portion Room No-39","1).Mulagumoodu ( R.V ), Thiruvithancode (T.P) Block 1, Aaluvilai, 2).Mulagumoodu ( R.V ), Thiruvithancode (T.P) Block 1, New street west, 3).Mulagumoodu ( R.V ), Thiruvithancode (T.P) Block 1,  Iluppa Vilai, 4).Mulagumoodu ( R.V ),Thiruvithancode (T.P) Block 1, Attakulam Salai, 5).Mulagumoodu ( R.V ), Thiruvithancode (T.P) Block 1,  Puliyadi Vilai, 6).Mulagumoodu ( R.V ),Thiruvithancode (T.P) Block 1, Adapu Vilai, 99.OVERSEAS ELECTORS",All Voters
+293,232,293,"Town Panchayat Office Thiruvithancode, Terraced SHG Building North East Portion","1.Thiruvithancode ( R.V ), Thiruvithancode ( T.P ) Block 14,  Old School East, 2.Thiruvithancode ( R.V ), Thiruvithancode ( T.P ) Block 14,  Edakudi Etreet, 3.Thiruvithancode ( R.V ), Thiruvithancode ( T.P ) Block14,  Mela Street, 4.Thiruvithancode ( R.V ), Thiruvithancode ( T.P  ) Block 14,  Kannimar Street East,
+99.OVERSEAS ELECTORS",All Voters
+294,232,294,"Town Panchayat Office Thiruvithancode, Community Hall Northern Portion","1.Thiruvithancode ( R.V ), Thiruvithancode ( T P ) Block 15,  Old School Street West, 2.Thiruvithancode ( R.V ), Thiruvithancode ( T.P ) Block 15,  Kannimar Street West, 3.Thiruvithancode ( R.V ), Thiruvithancode ( T.P ) Block 21, Kaithakuzhli, 4.Thiruvithancode ( R.V ), Thiruvithancode ( T.P ) Block 21,  Kaithakuzhli Colony,
+99.OVERSEAS ELECTORS",All Voters
+295,232,295,"Govt. M.S.Thiruvithancode, Terraced Building, Western Portion","1.Thiruvithancode ( R.V ), Thiruvithancode  ( T. P ) Block 19,  Kovilvattam, 2.Thiruvithancode ( R.V ), Thiruvithancode  ( T.P ) Block 19,  Kovilvattam  Coloney, 3.Thiruvithancode ( R.V ), Thiruvithancode ( T.P ) Block 19,  Vayakkulamkarai, 4.Thiruvithancode ( R.V ), Thiruvithancode ( T. P ) Block 20,  Main Road, 5.Thiruvithancode ( R.V ), Thiruvithancode ( T.P ) Block 22, Melatheru, 99.OVERSEAS ELECTORS",All Voters
+296,232,296,"Govt. M.S. Thiruvithancode,  New Terraced Building North East Portion","1.Thiruvithancode ( R.V ), Thiruvithancode ( T.P ) Block 23,  Kaithakkuzhi, 2.Thiruvithancode ( R.V ), Thiruvithancode ( T.P ) Block 23, Kovilvattam, 3.Thiruvithancode ( R.V ), Thiruvithancode ( T. P ) Block 23,  Melatheru  West, 4.Thiruvithancode ( R.V ), Thiruvithancode ( T.P ) Block 23,  Annanagar Coloney, 5.Thiruvithancode ( R.V ), Thiruvithancode ( T.P ) Block 23,  Vattam,  Mainroad  West, 6.Thiruvithancode ( R.V ), Thiruvithancode ( T.P ) Block 24, Thiruvalluvar  Colony, 7.Thiruvithancode ( R.V ) Thiruvithancode ( T.P  ) Block 24,  Vattam Main Road East, 99.OVERSEAS ELECTORS",All Voters
+297,232,297,"Govt. M.S.Thiruvithancode, Main Building, Southern Portion","1.Thiruvithancode ( R.V ), Thickanamcode ( P ) Block 6, Xavierpuram, 2.Thiruvithancode ( R.V ), Thickanamcode ( P ) Block 6, Mankaram, 99.OVERSEAS ELECTORS",All Voters
+298,232,298,"Govt. M.S.Thiruvithancode  Main
+Building, North  Portion","1.Thiruvithancode ( R.V ), Thickanamcode ( P ) Block 7,
+Mylode, 99.OVERSEAS ELECTORS",All Voters
+299,232,299,"Govt. M.S.Thiruvithancode, West Building, North  Portion","1.Thiruvithancode ( R.V ) Thickanamcode ( P ) Ward 8, Block 8, Alanvilai, 2.Thiruvithancode ( R.V ), Thickanamcode ( P ) Ward 8, Block 8,  Madathuvilai,
+99.OVERSEAS ELECTORS",All Voters
+300,232,300,"N. I.Polytechnic,  Punkarai, Main Building, Central  Portion, Hall No.4","1.Thiruvithancode ( R.V ),  Thickanamcode (  P ) Block 3, Punkarai Thengankuzhi, 2.Thiruvithancode ( R.V ), Thickanamcode ( P ) Block  4,  Asari Vilai,
+99.OVERSEAS ELECTORS",All Voters
+301,232,301,"N. I.Polytechnic,  Punkarai, Main Building, Central  Portion, Hall No.5","1.Thiruvithancode (R.V ), Thickanamcode ( P ) Block  5, Xavierpuram, 2.Thiruvithancode ( R.V ),  Thickanamcode ( P ) Block  5, Nangnachi Vilai, 99.OVERSEAS ELECTORS",All Voters
+302,232,302,"N. I.Polytechnic,  Punkarai, Main
+Building, Western Portion  Hall No 3","1.Thiruvithancode ( R.V ), Thickanamcode ( P ) Block 3,
+Punkarai, 99.OVERSEAS ELECTORS",All Voters
+303,232,303,"Govt. M.S.Puthoor, Main Building,
+Eastern  Portion","1.Thickanamcode ( R.V ), Thickanamcode ( P ) Ward 8,
+Block 9, Vazhodu, 99.OVERSEAS ELECTORS",All Voters
+304,232,304,"Govt. M.S.Puthoor, Main Building, Western  Portion","1.Thickanamcode ( R.V ), Thickanamcode ( P ) Block 2, Thengankuzhi West, 2.Thickanamcode ( R.V ), Thickanamcode ( P ) Block11, Thengankuzhi East,
+99.OVERSEAS ELECTORS",All Voters
+305,232,305,"Govt. M.S.Puthoor, East West Building South Portion","1.Thickanamcode ( R.V ), Thickanamcode  ( P ) Blcok 10, Arulananthapuram, 2.Thickanamcode ( R.V ), Thickanamcode ( P ) Block 10, Saibanmancode Pottaikarai, Kattuvilai, 3.Thickanamcode ( R.V ), Thickanamcode ( P ) Block 10, Puthoor, 4.Thickanamcode ( R.V ), Thickanamcode ( P ) Block 10,  Asarivialai, 99.OVERSEAS ELECTORS",All Voters
+306,232,306,"Govt. P.S.Thicknamcode, Main Building,  Northern  Portion","1.Thickanamcode ( R.V ), Thickanamcode ( P ) Block 17, Kezhatharavilai, 99.OVERSEAS ELECTORS",All Voters
+307,232,307,"Govt. P.S.Thicknamcode, Main Building, Southern  Portion","1.Thickanamcode ( R.V ), Thickanamcode ( P ) Ward 4, Block 12, Anthoaniyarcoil, 2.Thickanamcode ( R.V ), Thickanamcode ( P ) Ward 4, Block 13, Puthoor,
+99.OVERSEAS ELECTORS",All Voters
+308,232,308,"Govt. P.S.Thicknamcode, Main Building, East Portion","1. Thickanamcode( r.v ), thickanamcode ( p ) Ward 4, block 1, thenkankuzhi ( mekkankarai ), 99.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",All Voters
+309,232,309,"Govt. P.S.Tharavilai, New Terraced
+Building, Eastern  Portion","1.Thickanamcode ( R.V ) Thickanamcode ( P ) Ward 4,
+Block 14, Ealianvilai, 99.OVERSEAS ELECTORS",All Voters
+310,232,310,"Govt. P.S.Tharavilai, New Terraced
+South East Building, Western  Portion","1.Thickanamcode ( r.v ), Thickanamcode ( p ) Ward 5,
+block 18, Karukkankuzhi, 99.OVERSEAS ELECTORS",All Voters
+311,232,311,"Govt. P.S.Tharavilai, Terraced
+Building, Western Portion","1.Thickanamcode ( R.V ), Thickanamcode ( P ) Block 16,
+Orumavilai, 99.OVERSEAS ELECTORS",All Voters
+312,232,312,"Govt. P.S.Tharavilai, Western Building
+Eastern Portion","1.Thickanamcode(RV) Block 15 Thickanamcode(P),
+99.OVERSEAS ELECTORS",All Voters

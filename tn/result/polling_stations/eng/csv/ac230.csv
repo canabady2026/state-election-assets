@@ -1,0 +1,410 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+1,230,1,"Government Primary School, Puthery, Main Building, South Portion","1.Vadasery (R.V.), Kaniyakulam (P) Ward 1, Block 1,2, Puthery, Kaniyakulam, 99.OVERSEAS ELECTORS",All Voters
+2,230,2,"Government Primary School, Puthery, Eastern Building","1.Vadasery (R.V.), Kaniyakulam (P) Ward 1, Block 1,2, Puliyadi, 99.OVERSEAS ELECTORS",All Voters
+3,230,3,"Government Primary School, Elanthaiyadi, New Building , North Portion","1.Vadasery (R.V.), Kaniyakulam (P) Ward 2, Block 3, Paraiyadi, 99.OVERSEAS ELECTORS",All Voters
+4,230,4,"Government Primary School, Elanthaiyadi, New Building , South Portion","1.Vadasery (R.V.), Kaniyakulam (P) Ward 3, Block 4, Alwarkonam, 99.OVERSEAS ELECTORS",All Voters
+5,230,5,"Government Primary School, Elanthaiyadi, New Building , East Portion","1.Vadasery (R.V.), Kaniyakulam (P) Ward 3, Block 4, Alwarkonam, 99.OVERSEAS ELECTORS",All Voters
+6,230,6,"Community Hall North Building Kanniyakulam Paraiyadi,North Building","1.Vadasery (R.V.), Kaniyakulam (P) Ward 4, Block 5, Kaniyakulam , 2.Vadasery (R.V.), Kaniyakulam (P) Ward 4, Block 6, Parvathipuram, 99.OVERSEAS ELECTORS",All Voters
+7,230,7,"Community Hall West Building Kanniyakulam Paraiyadi, South Building, West Portion","1.Vadasery (R.V.), Kaniyakulam (P) Ward 2, Block 3, Paraiyadi, 99.OVERSEAS ELECTORS",All Voters
+8,230,8,"Govt Primary School, Puthery, South Building, West Middle Portion","1.Vadasery (R.V.), Puthery (P) Ward 2, Block 4, Attupatti Colony,
+99.OVERSEAS ELECTORS",All Voters
+9,230,9,"Govt Primary School,Puthery, South Building, East Portion","1.Vadasery (R.V.), Puthery (P) Ward 2, Block 4, Attupatti Colony, 99.OVERSEAS ELECTORS",All Voters
+10,230,10,"Govt. High School, Puthery, Main Building, Middle Portion","1.Vadasery (R.V.), Puthery (P) Ward 3,4, Block 2,3, South Puthery, 99.OVERSEAS
+ELECTORS",All Voters
+11,230,11,"Govt. High School, Puthery, East West Concrete Building","1.Vadasery (R.V.), Puthery (P) Ward 1, Block 1, East Puthery, 99.OVERSEAS ELECTORS",All Voters
+12,230,12,"Govt. High School, Puthery,North New Building East Portion","1.Vadasery (R.V.), Puthery (P) Ward 1, Block 1, East Puthery, 99.OVERSEAS
+ELECTORS",All Voters
+13,230,13,"Govt. High School, Puthery, Main Building,South Portion","1.Vadasery (R.V.), Puthery (P) Ward 3,4, Block 2,3, West Puthery, 99.OVERSEAS ELECTORS",All Voters
+14,230,14,"Govt. Higher Secondary School.Peruvilai, Main Building, West
+Portion","1.Nagercoil Corpration Ward 4, Peruvilai, 99.OVERSEAS ELECTORS",All Voters
+15,230,15,"Govt. Higher Secondary School, Peruvilai, New Eastern Concrete Building South Portion","1.Nagercoil Corpration Ward 4, Peruvilai , 2.Nagercoil Corpration Ward 4, Peruvilai, 99.OVERSEAS ELECTORS",All Voters
+16,230,16,"Govt. Higher Secondary School, Peruvilai, Main Building East Portion","1.Nagercoil Corpration Ward 4, Peruvilai , 2.Nagercoil Corpration Ward 4, Peruvilai , 3.Nagercoil Corpration Ward 4, Peruvilai, 99.OVERSEAS ELECTORS",All Voters
+17,230,17,"Govt. Higher Secondary School, Peruvilai, New Terraced Building, North Portion","1.Nagercoil Corpration Ward 4, Kottavilai, 99.OVERSEAS ELECTORS",All Voters
+18,230,18,"Govt. Higher Secondary School, Peruvilai, New Eastern Concrete Building, North Portion","1.Nagercoil Corpration Ward 4, Kottavilai, 99.OVERSEAS ELECTORS",All Voters
+19,230,19,"Govt. Higher Secondary School, Peruvilai, New Terraced Building, Central Portion","1.Nagercoil Corpration Ward 4, Parvathipuram , 2.Nagercoil Corpration Ward 4, Peruvilai, 99.OVERSEAS ELECTORS",All Voters
+20,230,20,Govt Middle School Asaripallam Old Tiled Building,"1.Nagercoil Corpration Ward 18, Pallavilai, 99.OVERSEAS ELECTORS",All Voters
+21,230,21,Govt Middle School Asaripallam Old Tiled Building West Portion,"1.Nagercoil Corpration Ward 18, Pallavilai, 99.OVERSEAS ELECTORS",All Voters
+22,230,22,"Kamarajar Mandapam Nagercoil Corporation Office Building Asaripallam (Old Panchayat Office), East Building","1.Nagercoil Corpration Ward 19, Asaripallam, Savalakarankonam, 99.OVERSEAS ELECTORS",All Voters
+23,230,23,"Kamarajar Mandapam Nagercoil Corporation Office Building Asaripallam (Old Panchayat Office), Middle Hall","1.Nagercoil Corpration Ward 19, Savalakarankonam, 99.OVERSEAS ELECTORS",All Voters
+24,230,24,"Kamarajar Mandapam Nagercoil Corporation Office Building Asaripallam (Old Panchayat Office), Store Room","1.Nagercoil Corpration Ward 19, Asaripallam , 2.Nagercoil Corpration Ward 19, Government Medical College Students Hostel, 99.OVERSEAS ELECTORS",All Voters
+25,230,25,"Govt Middle School Tamathukonam, East Tield Building, East Portion","1.Nagercoil Corpration Ward 20, Konam , 2.Nagercoil Corpration Ward 20, Asaripallam , 99.OVERSEAS ELECTORS",All Voters
+26,230,26,"Govt Middle School Tamathukonam, East Tield Building, Middle Portion","1.Nagercoil Corpration Ward 20, Thammathukonam,  99.OVERSEAS ELECTORS",All Voters
+27,230,27,"Govt Middle School Tamathukonam, New Concrete Building, West Portion","1.Nagercoil Corpration Ward 20, Asaripallam, 99.OVERSEAS ELECTORS",All Voters
+28,230,28,"Govt Middle School Thamathukonam, East Tield Building, West Portion","1.Nagercoil Corpration Ward 20, Erumpukadu, 99.OVERSEAS ELECTORS",All Voters
+29,230,29,"Govt Middle School Thamathukonam, New Concrete Building, East Portion","1.Nagercoil Corpration Ward 20, Erumpukadu, 99.OVERSEAS ELECTORS",All Voters
+30,230,30,"Govt Primary School Poochivilagam, South Terraced  Building, East Portion","1.Nagercoil Corpration Ward 45, Melasoorankudy  , 99.OVERSEAS
+ELECTORS",All Voters
+31,230,31,"Govt Primary School Poochivilagam, South Terraced  Building, Middle Portion","1.Nagercoil Corpration Ward 45, Poochivilagam, 99.OVERSEAS ELECTORS",All Voters
+32,230,32,"Govt Primary School Poochivilagam, Eastern Terraced Building, South
+Portion","1.Nagercoil Corpration Ward 45, Pazhavilai, 99.OVERSEAS ELECTORS",All Voters
+33,230,33,"Govt Primary School Poochivilagam, East Terraced Building North Portion","1.Nagercoil Corpration Ward 45, West Tharavilai, 99.OVERSEAS ELECTORS",All Voters
+34,230,34,"Govt  Middle School Asaripallam, New Terraced Building, West Portion","1.Nagercoil Corpration Ward 19, Asaripallam ,99.OVERSEAS ELECTORS",All Voters
+35,230,35,"Govt  Middle School Asaripallam, East Terraced Building, West Portion","1.Nagercoil Corpration Ward 19, East Asaripallam, 99.OVERSEAS ELECTORS",All Voters
+36,230,36,"Govt Middle School Asaripallam, New Terraced Building, North Portion","1.Nagercoil Corpration Ward 19, East Asaripallam, 99.OVERSEAS ELECTORS",All Voters
+37,230,37,"St. Judes Middle School, West Asaripallam, East Terraced Building, East Portion","1.Nagercoil Corpration Ward 19, Asaripallam South Street , 2.Nagercoil Corpration Ward 19, Asaripallam West Street , 3.Nagercoil Corpration Ward 19, Pampanvilai, 99.OVERSEAS ELECTORS",All Voters
+38,230,38,"Govt Primary School, Vembanoor, South Building, East Portion","1.Vembanoor (R.V.), West Sankarankuzhi
+(P) Ward 1, Block 3, Perumselvavilai, 99.OVERSEAS ELECTORS",All Voters
+39,230,39,"Government High School, Vembanoor, North Building, West Portion","1.Vembanoor (R.V.), West Sankarankuzhi
+(P) Ward 1,2, Block 4, Vembanoor , 2.Vembanoor (R.V.), West Sankarankuzhi
+(P) Ward 1, Block 2, Thittamangalam Colony, 99.OVERSEAS ELECTORS",All Voters
+40,230,40,"Government Primary School, Sadayalputhoor, Main Building, West Portion","1.Vembanoor (R.V.), West Sankarankuzhi
+(P) Ward 2, Block 5, West Sankarankuzhi Parappuvilai, 99.OVERSEAS ELECTORS",All Voters
+41,230,41,"Government Primary School, Sadayalputhoor, Main Building, Middle Portion","1.Vembanoor (R.V.), West Sankarankuzhi
+(P) Ward 2, Block 6, Sadayalputhoor, 99.OVERSEAS ELECTORS",All Voters
+42,230,42,"Government Primary school, Sadayalputhoor, Main Building,
+East Portion","1.Vembanoor (R.V.), West Sankarankuzhi
+(P) Ward 1, Block 1,6, Kalladiyanvilai, 99.OVERSEAS ELECTORS",All Voters
+43,230,43,"Govt Primary School Pambanvilai, Main Building, West Portion","1.Vembanoor (R.V.), West Sankarankuzhi
+(P) Ward 4, Block 10, Pampanvilai , 2.Vembanoor (R.V.), West Sankarankuzhi
+(P) Ward 4, Block 10,11, Paruthivilai, 99.OVERSEAS ELECTORS",All Voters
+44,230,44,"Govt Primary School, Pambanvilai, Main Building Middle Portion","1.Vembanoor (R.V.), West Sankarankuzhi
+(P) Ward 3, Block 9,15,16, West Sankarankuzhi, 99.OVERSEAS ELECTORS",All Voters
+45,230,45,"Govt. Primary School, Pambanvilai, Main Building East Portion","1.Vembanoor (R.V.), West Sankarankuzhi
+(P) Ward 3, Block 9,15,16, West Sankarankuzhi, 99.OVERSEAS ELECTORS",All Voters
+46,230,46,"Primary Co-Op Agricultural Bank, Karavilai, Godown Building","1.Neendakarai A (R.V.), West Sankarankuzhi (P) Ward 3,5, Block 8,18, Paruthivilai , 2.Neendakarai A (R.V.), West Sankarankuzhi (P) Ward 5, Block 18, Karavilai, 99.OVERSEAS ELECTORS",All Voters
+47,230,47,"Govt Primary School Santhapuram, South Building, East Portion","1.Vembanoor (R.V.), West Sankarankuzhi
+(P) Ward 3, Block 8, Santhapuram , 2.Vembanoor (R.V.), West Sankarankuzhi
+(P) Ward 3, Block 16,17, Kothavilai , 3.Vembanoor (R.V.), West Sankarankuzhi
+(P) Ward 3, Block 17, Kurandi , 4.Vembanoor (R.V.), West Sankarankuzhi
+(P) Ward 3, Block 17, Pampanvilai, 99.OVERSEAS ELECTORS",All Voters
+48,230,48,"Govt Primary School Santhapuram, South Building South portion","1.Vembanoor (R.V.), West Sankarankuzhi
+(P) Ward 2,3, Block 7, Peyode, 99.OVERSEAS ELECTORS",All Voters
+49,230,49,"Govt. H.S.Ananthanadar Kudiyiruppu, South West Building, South Portion","1.Vembanoor (R.V.), West Sankarankuzhi
+(P) Ward 4,5, Block 12,13,15,
+Ananthanadarkudieruppu , 2.Vembanoor (R.V.), West Sankarankuzhi (P) Ward 4,5, Block 12,14,15, East Sankarankuzhi, 99.OVERSEAS ELECTORS",All Voters
+50,230,50,"Govt. H.S.Ananthanadar Kudiyiruppu, South West Building, East Portion","1.Vembanoor (R.V.), West Sankarankuzhi
+(P) Ward 5, Block 19, Paruthivilai , 2.Vembanoor (R.V.), West Sankarankuzhi
+(P) Ward 4,5, Block 12,13,15,19, West Sankarankuzhi, 99.OVERSEAS ELECTORS",All Voters
+51,230,51,"Govt. H.S.Ananthanadar Kudiyiruppu, South West Building, North Portion","1.Vembanoor (R.V.), West Sankarankuzhi
+(P) Ward 4, Block 12, Paruthivilai , 2.Vembanoor (R.V.), West Sankarankuzhi
+(P) Ward 4,5, Block 12,13,15,
+Ananthanadarkudieruppu, 99.OVERSEAS ELECTORS",All Voters
+52,230,52,"Govt. H.S.Ananthanadar Kudiyiruppu, South West Building, North Centre Portion","1.Vembanoor (R.V.), West Sankarankuzhi
+(P) Ward 4,5, Block 12,13,15,
+Ananthanadarkudieruppu, 99.OVERSEAS ELECTORS",All Voters
+53,230,53,"Government Primary School, Vairakudieruppu, Main Building, East Portion","1.Neendakarai A (R.V.), Elluvilai (P) Ward 1, Block 2, Karavilai , 2.Neendakarai A (R.V.), Elluvilai (P) Ward 1, Block 3, Pakthankadu , 3.Neendakarai A (R.V.), Elluvilai (P) Ward 1, Block 4, Vairakudieruppu, 99.OVERSEAS ELECTORS",All Voters
+54,230,54,"Govt Middle School Pillayarvilai, South East Concrete Building, West Portion","1.Neendakarai B (R.V.), Elluvilai (P) Ward 2, Block 1, Pillaiyarvilai ,
+99.OVERSEAS ELECTORS",All Voters
+55,230,55,"Govt Middle School Pillayarvilai, South East Concrete Building East Portion","1.Neendakarai B (R.V.), Elluvilai (P) Ward 2, Block 1,5, Elluvilai, 99.OVERSEAS ELECTORS",All Voters
+56,230,56,"Govt Middle School Pillayarvilai, Main Tield Building, Middle Portion","1.Neendakarai B (R.V.), Elluvilai (P) Ward 3,4, Block 5,6, Sattuvanthoppu,
+99.OVERSEAS ELECTORS",All Voters
+57,230,57,"Govt.  Primary School, Rajakkamangalam, East Building South Portion","1.Neendakarai B (R.V.), Rajakamangalam
+(P) Ward 1, Block 5, Alanvilai , 2.Neendakarai B (R.V.), Rajakamangalam
+(P) Ward 3, Block 5, Anna Colony , 3.Neendakarai B (R.V.), Rajakamangalam
+(P) Ward 1, Block 6, Alathankarai, 99.OVERSEAS ELECTORS",All Voters
+58,230,58,"Govt.  Primary School, Rajakkamangalam, East Building, North Portion","1.Neendakarai B (R.V.), Rajakamangalam
+(P) Ward 1, Block 18, Murunganvilai, 99.OVERSEAS ELECTORS",All Voters
+59,230,59,"L. M.S.Middle School Eathamozhi, South Tield Building. North Portion","1.Neendakarai B (R.V.), Rajakkamangalam(P) Ward 3, Block 17, Nasuvanvilai , 2.Neendakarai B (R.V.), Rajakamangalam (P) Block 7, Jonespuram, Dharmapuram, 99.OVERSEAS ELECTORS",All Voters
+60,230,60,"L. M.S. Middle School, Eathamozhi, South Tield Building, Middle Portion","1.Neendakarai B (R.V.), Rajakkamangalam (P) Ward 2, Block 9, Mavilai , 2.Neendakarai B (R.V.), Rajakkamangalam (P) Ward 2, Block 9, Adaravilai, 99.OVERSEAS ELECTORS",All Voters
+61,230,61,"L. M.S. Middle School, Eathamozhi, South Tield Building, South Portion","1.Neendakarai B (R.V.), Rajakkamangalam (P) Ward 2,3, Block 9,16, North Valliyavilai , 2.Neendakarai B (R.V.), Rajakkamangalam (P) Ward 2,3, Block 8,9,10, Boomathiyanvilai, Ammachiyarcoiloor, Vilivilai, 99.OVERSEAS ELECTORS",All Voters
+62,230,62,"Govt Middle School Kidankaravilai, Main Tield Building, West Portion","1.Neendakarai B (R.V.), Rajakkamangalam (P) Ward 2, Block 10, Vilathivilai , 2.Neendakarai B (R.V.), Rajakkamangalam (P) Ward 2, Block 13, Kidankaravilai , 99.OVERSEAS ELECTORS",All Voters
+63,230,63,"Govt Middle School Kidankaravilai, Concrete Building","1.Neendakarai B (R.V.), Rajakkamangalam (P) Ward 2, Block 14, Poovankudieruppu, 99.OVERSEAS ELECTORS",All Voters
+64,230,64,"Government Higher Secondary School, Eathamozhy, North South New Building, South Portion","1.Neendakarai B (R.V.), Rajakamangalam
+(P) Ward 2, Block 12, Sundapattivilai , 2.Neendakarai B (R.V.), Rajakkamangalam (P) Ward 2, Block 11, Koiyanvilai, 99.OVERSEAS ELECTORS",All Voters
+65,230,65,"Government Higher Secondary School, Eathamozhy, North South New Building, North Portion","1.Neendakarai B (R.V.), Rajakamangalam
+(P) Ward 2,3, Block 15,27, Vandavilai , 2.Neendakarai B (R.V.), Rajakamangalam
+(P) Ward 2,3, Block 15,27, South Valliyavilai, 99.OVERSEAS ELECTORS",All Voters
+66,230,66,"Govt. Primary School, Soorapallam, West New Building, South Portion","1.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 2,1, Block 3, Soorapallam , 99.OVERSEAS ELECTORS",All Voters
+67,230,67,"Govt. Primary School, Soorapallam, North East Building","1..Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 1, Block 6, Soorapallam
+.Neendakarai B (R.V.),99.OVERSEAS
+ELECTORS",All Voters
+68,230,68,"Government Primary School. Alenkottai, East West Terraced Building, East Portion","1..Ganapathipuram (T.P.) Ward 1, Block 2, Soorapallam2.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 15, Block 9, Alankottai , 99.OVERSEAS ELECTORS",All Voters
+69,230,69,"Government Primary School Alenkottai, South Building, East Most Portion","1.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 6, Block 3, Paravanvilai , 2..Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 6, Block 18, Kovilpuram",All Voters
+70,230,70,"Government  High School. Alankottai, East West Terraced Building, West Portion","1.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 6, Block 25, Paravanvilai, 99.OVERSEAS ELECTORS",All Voters
+71,230,71,"Government High School. Alankottai, South Building, East Middle Portion","1.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 2,4,15, Block 12,16, Alankottai , 99.OVERSEAS ELECTORS",All Voters
+72,230,72,"Govt Primary School Kannakurichy, East West New Concrete Building, East Portion","1.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 11, Block 13, Esanthangu , 2.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 14, Block 7, Kallukatti, 99.OVERSEAS ELECTORS",All Voters
+73,230,73,"Govt Primary School Kannakurichy, North West Tiled Building, North Portion","1.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 14, Block 8, North Kannakurichi, Thalavaipuram, 99.OVERSEAS ELECTORS",All Voters
+74,230,74,"Govt Primary School Kannakurichy, East West Main Concrete Building, West Portion,","1.Neendakarai B (R.V.), Ganapathipuram
+(P) Ward 13, Block 14,19, Kallukatti, Sreekrishnapuram ,  2.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 12,13, Block 14,19,20, Aruthenganvilai , 3.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 12,13, Block 19,20,
+Ganapathipuram, 99.OVERSEAS ELECTORS",All Voters
+75,230,75,"Govt Primary School Kannakurichy, New Concrete Building","1.Neendakarai B (R.V.), Ganapathipuram (T.P.) Block 20, Kannakurichi
+,99.OVERSEAS ELECTORS",All Voters
+76,230,76,"St. Marys Middle.School.Pillaithoppu, North South Concrete Building, South Portion,           V - Standard","1.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 8, Block 23, Azhikal West , 2.Neendakarai B (R.V.), Ganapathipuram (T.P.) Tsunami Camp (Near Church) , 3.Neendakarai B (R.V.), Ganapathipuram (T.P.) Tsunami Camp (Azhikal) , 4.Neendakarai B (R.V.), Ganapathipuram (T.P.) Tsunami Camp (Near Kurusady) , 5.Neendakarai B (R.V.), Ganapathipuram (T.P.) Tsunami Camp (Near Tank), 99.OVERSEAS ELECTORS",All Voters
+77,230,77,"St. Marys Middle.School.Pillaithoppu, North South Concrete Building, North Portion,        VII - Standard","1.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 7, Block 24, Azhikal East, 99.OVERSEAS ELECTORS",All Voters
+78,230,78,"St. Marys Middle School, Pillaithoppu, North South Concrete Building, North Portion,           VIII -Standard","1.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 10, Block 21, Melathurai, 99.OVERSEAS ELECTORS",All Voters
+79,230,79,"St. Marys Middle School, Pillaithoppu, North South Concrete Building, South Portion,           VI - Standard","1.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 9, Block 22, Pillaithoppu , 2.Neendakarai B (R.V.), Ganapathipuram (T.P.) Tsunami Camp (Pillaithoppu), 99.OVERSEAS ELECTORS",All Voters
+80,230,80,"Govt Primary School Ganapathipuram, North Concrete Building, North Portion","1.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 4, Block 11, Ganapathipuram North , 2.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 3, Block 10,11, Ganapathipuram , 3.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 3, Block 5, Ganapathypuram East , 4.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 3, Block 10, Azhaganvilai , 5.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 3, Block 10, Poochikadu , 6.Neendakarai B (R.V.), Ganapathipuram (T.P.) Block 17, Ganapathipuram Sannathi Street , 7.Neendakarai B (R.V.), Ganapathipuram (T.P.) Block 26, Ganapathipuram South, 99.OVERSEAS ELECTORS",All Voters
+81,230,81,"Govt Primary School Ganapathipuram, South Building West Portion","1.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 22, Block 4, Kakkathoppu , 2.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 3, Block 5, M.G.R.Nagar, Arasarkonam , 3.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 4, Block 11, Ganapathipuram , 4.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 5, Block 17, Ganapathipuram Sannathi Street , 5.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 5, Block 26, Ganapathipuram South , 6.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 3, Block 5, Ganapathipuram East , 7.Neendakarai B (R.V.), Ganapathipuram (T.P.) Ward 3, Block 10, Poochikadu, 99.OVERSEAS ELECTORS",All Voters
+82,230,82,"Govt Higher Secondary School Rajakkamangalam, West New Building, Middle Portion","1.Neendakarai B (R.V.), Rajakkamangalam (P) Ward 3,4, Block 3, Rajakkamangalam West Street, Thekkurichi , 2.Neendakarai B (R.V.), Rajakkamangalam (P) Ward 1, Block 4, Rajakkamangalam, Thekkurichi , 3.Neendakarai B (R.V.), Rajakkamangalam (P) Ward 3.20,21, Block 1,4, Rajakamangalam, Murungavilai , 4.Neendakarai B (R.V.), Rajakkamangalam (P) Ward 1, Block 22, Pannaiyoor, 99.OVERSEAS ELECTORS",All Voters
+83,230,83,"Govt Higher Secondary School Rajakkamangalam, West Building Middle Portion","1.Neendakarai B (R.V.), Rajakkamangalam (P) Ward 1, Block 1, Rajakkamangalam East Street , , 2.Neendakarai B (R.V.), Rajakkamangalam (P) Ward 1, Block 19,20,21, Arasarkonam, Kanchiravilai, 99.OVERSEAS ELECTORS",All Voters
+84,230,84,"Govt Higher Secondary School Rajakkamangalam, West Building East Portion","1.Neendakarai B (R.V.), Rajakkamangalam (P) Ward 4, Block 3,4, Rajakkamangalam West Street , 99.OVERSEAS ELECTORS",All Voters
+85,230,85,"Govt Higher Secondary School Rajakkamangalam, East New Building, North Portion","1.Neendakarai B (R.V.), Rajakkamangalam (T.P) Ward 4, Block 2, Rajakkamangalam, Thekurichi , 2.Neendakarai B (R.V.), Rajakkamangalam (T.P) Ward 4, Block 2, Rajakamangalam, Thekurichi East , 3.Neendakarai B (R.V.), Rajakkamangalam (T.P) Ward 4, Block 2, Rajakkamangalam West, 99.OVERSEAS ELECTORS",All Voters
+86,230,86,"Govt Higher Secondary School Rajakkamangalam, East New Building, South Portion","1.Neendakarai B (R.V.), Rajakkamangalam (T.P) Ward 4, Block 2, Rajakkamangalam, Thekurichi , 2.Neendakarai B (R.V.), Rajakkamangalam (T.P) Ward 4, Block 2, Rajakamangalam, Thekurichi East , 3.Neendakarai B (R.V.), Rajakkamangalam (T.P) Ward 4, Block 2, Rajakkamangalam West, 99.OVERSEAS ELECTORS",All Voters
+87,230,87,"St. Joseph High School Rajakkamangalamthurai, East Building, South Portion","1.Neendakarai B (R.V.), Rajakkamangalam (P) Ward 5, Block 23, Anthoniyar Kurusady Street , 2.Neendakarai B (R.V.), Rajakkamangalam (P) Ward 5, Block 23,24, Matha Colony, 99.OVERSEAS ELECTORS",All Voters
+88,230,88,"St. Joseph High School, Rajakkamangalamthurai, New North Building, West Portion","1.Neendakarai B (R.V.), Rajakkamangalam (P) Ward 5, Block 25, Matha Kurusady Street, 99.OVERSEAS ELECTORS",All Voters
+89,230,89,"St. Joseph High School, Rajakkamangalamthurai, New North Building, East Portion","1.Neendakarai B (R.V.), Rajakkamangalam (P) Ward 5, Block 26, Xavier Kurusady , 2.Neendakarai B (R.V.), Rajakkamangalam (P) Ward 5, Block 25, Matha Kurusady , 99.OVERSEAS ELECTORS",All Voters
+90,230,90,"St. Joseph High School, Rajakkamangalamthurai, North Building, West Portion","1.Neendakarai B (R.V.), Rajakkamangalam (P) Ward 5, Block 25,26, Kovil Street , 2.Neendakarai B (R.V.), Rajakkamangalam (P) Ward 5, Block 2, Kurusady Street, 99.OVERSEAS ELECTORS",All Voters
+91,230,91,"Government Middle School,
+Kaliyancaud, South Building","1.Nagercoil Corpration Ward 5, M.S.
+Road, 99.OVERSEAS ELECTORS",All Voters
+92,230,92,"Government Middle School, Kaliyancaud,  West  Building, South Portion","1.Nagercoil Corpration Ward 5, Kattaiyanvilai, 99.OVERSEAS ELECTORS",All Voters
+93,230,93,"Government Middle School, Kaliyancaud,  West  Building, North
+Portion","1.Nagercoil Corpration Ward 5, Kattaiyanvilai, 99.OVERSEAS
+ELECTORS",All Voters
+94,230,94,"Government Middle School, Kaliyancaud, North East Bulding West Portion","1.Nagercoil Corpration Ward 5, Kattaiyanvilai, 99.OVERSEAS ELECTORS",All Voters
+95,230,95,"Government Middle School, Kaliyancaud, North East Bulding East
+Portion","1.Nagercoil Corpration Ward 5, Kattaiyanvilai, 99.OVERSEAS
+ELECTORS",All Voters
+96,230,96,"Govt.  Middle School,  Kaliyancaud, New Bulding West Postion","1.Nagercoil  Corpration Ward 5, Kattayanvilai, Ward 5, Kaliyancaud, 99.OVERSEAS ELECTORS",All Voters
+97,230,97,"Govt.  Middle School,  Kaliyancaud, New Building, East Portion","1.Nagercoil Corpration Ward 6, Kaliyancaud, 99.OVERSEAS ELECTORS",All Voters
+98,230,98,"Pioneer Kumaraswamy College, Vetturnimadam, Moover Block South Side Room No - M4","1.Nagercoil Corpration Ward 7, M.S. Road, 99.OVERSEAS ELECTORS",All Voters
+99,230,99,"Pioneer Kumaraswamy College, Vetturnimadam, Moover Block South Side Room No - M3","1.Nagercoil Corpration Ward 16, Parameswaran Street, 99.OVERSEAS ELECTORS",All Voters
+100,230,100,"Pioneer Kumaraswamy College, Vetturnimadam, Moover Block North Side Room No - M1","1.Nagercoil Corpration Ward 17, Nadukattu Esakiammankovil Street , 2.Nagercoil Corpration Ward 17, Parvathipuram Road, 99.OVERSEAS ELECTORS",All Voters
+101,230,101,"Pioneer Kumaraswamy College, Vetturnimadam, Bagavathi Ammal Block North Side Room No - B5","1.Nagercoil Corpration Ward 6, Kesavathiruppapuram, 99.OVERSEAS ELECTORS",All Voters
+102,230,102,"Pioneer Kumaraswamy College, Vetturnimadam,Bagavathi Ammal Block South Side Room No - B2","1.Nagercoil Corpration Ward 17, Nadukattu Esakiammankovil Street , 2.Nagercoil Corpration Ward 6, Kesavathiruppapuram, 99.OVERSEAS ELECTORS",All Voters
+103,230,103,"Salvation Army Higher Secondary School,  Vetturnimadam, North Main Bulding West Postion Room No -2","1.Nagercoil Corpration Ward 8, Vathiarvilai, 99.OVERSEAS ELECTORS",All Voters
+104,230,104,"Salvation Army Higher Secondary School,  Vetturnimadam, North Main Bulding West Postion Room No -3","1.Nagercoil Corpration Ward 8, Vathiyarvilai, 99.OVERSEAS ELECTORS",All Voters
+105,230,105,"Salvation Army Higher Secondary School,  Vetturnimadam,North Main Bulding Middle Postion Room No - 4","1.Nagercoil Corpration Ward 8, Vathiyarvilaikarai , 2.Nagercoil Corpration Ward 7, M.S. Road , 3.Nagercoil Corpration Ward 15, Kumari Colony , 4.Nagercoil Corpration Ward 15, Park Road , 5.Nagercoil Corpration Ward 8, Vathiyarvilai, 99.OVERSEAS ELECTORS",All Voters
+106,230,106,"Salvation Army Higher Secondary School,  Vetturnimadam,North Main Bulding Middle Postion Room No - 5","1.Nagercoil Corpration Ward 7, Crown Street , 2.Nagercoil Corpration Ward 7, Telungu Chetty Street, 99.OVERSEAS ELECTORS",All Voters
+107,230,107,"Salvation Army Higher Secondary School,  Vetturnimadam, North Main Bulding East Postion Room No - 6","1.Nagercoil Corpration Ward 7, Crown Street, 99.OVERSEAS ELECTORS",All Voters
+108,230,108,"Salvation Army Higher Secondary School,  Vetturnimadam, North Main Bulding East South Postion Room No - 7","1.Nagercoil Corpration Ward 6, Pallivilai Road , 13.Nagercoil Corpration Ward 6, Salvation Army Head Quarters Colony , 3.Nagercoil Corpration Ward 7, Victor Lane, 99.OVERSEAS ELECTORS",All Voters
+109,230,109,"Govt.  Middle School,  Krishnankoil, Main Building, West Portion","1.Nagercoil Corpration Ward 8, Aruguvilai, 99.OVERSEAS ELECTORS",All Voters
+110,230,110,"Govt.  Middle School,  Krishnankoil, Main South Building, Centre Portion","1.Nagercoil Corpration Ward 8, Aruguvilai, 99.OVERSEAS ELECTORS",All Voters
+111,230,111,"Govt.  Middle School,  Krishnankoil, North Building Middle Portion","1.Nagercoil Corpration Ward 8, Aruguvilai, 99.OVERSEAS ELECTORS",All Voters
+112,230,112,"Govt.  Middle School,  Krishnankoil, North Building East Portion","1.Nagercoil Corpration Ward 8, Aruguvilai, 99.OVERSEAS ELECTORS",All Voters
+113,230,113,"Govt.  Middle School,  Krishnankoil, East Building, North Portion","1.Nagercoil Corpration Ward 11, Melatherukarai , 2.Nagercoil Corpration Ward 11, Yadavar East Street, 99.OVERSEAS ELECTORS",All Voters
+114,230,114,"Govt.  Middle School,  Krishnankoil, East Building, South Portion","1.Nagercoil Corpration Ward 9, Krishnancoilgrammam, 99.OVERSEAS
+ELECTORS",All Voters
+115,230,115,"Office of Joint Director, Health, Krishnancoil, North Portion","1.Nagercoil Corpration Ward 9, M.S. Road , 2.Nagercoil Corpration Ward 9, Uchimahaliammankovil Street , 3.Nagercoil Corpration Ward 9, Kamatchi Ammankovil Street, 99.OVERSEAS ELECTORS",All Voters
+116,230,116,"Office of Joint Director, Health, Krishnancoil, Middle Buliding North Postion","1.Nagercoil Corpration Ward 9, Vellalar East Street , 2.Nagercoil Corpration Ward 9, Muthalimar Street , 3.Nagercoil Corpration Ward 9, R.C. Bharathar Street, 99.OVERSEAS ELECTORS",All Voters
+117,230,117,"Ulavar Training Centre Krishnankovil, East Building South Portion","1.Nagercoil Corpration Ward 9, Mohamathiyar Street , 2.Nagercoil Corpration Ward 9, Vellalar West Street , 3.Nagercoil Corpration Ward 9, Yadhavar Street, 99.OVERSEAS ELECTORS",All Voters
+118,230,118,"Office of Joint Director, Health, Krishnancoil, East Building West Portion","1.Nagercoil Corpration Ward 9, Yadhavar West Street , 2.Nagercoil Corpration Ward 9, Sannathi Street , 3.Nagercoil Corpration Ward 9, Vinayagar Street, 99.OVERSEAS ELECTORS",All Voters
+119,230,119,"office of the Tamilnadu Food Safety and drug Administration Department Krishnancoil, Main Building, Middle Portion","1.Nagercoil Corpration Ward 9, Vellalar West Street, 99.OVERSEAS ELECTORS",All Voters
+120,230,120,"office of the Tamilnadu Food Safety and drug Administration Department Krishnancoil, North Building, Meeting Hall","1.Nagercoil Corpration Ward 9, Vellalar West Street, 99.OVERSEAS ELECTORS",All Voters
+121,230,121,"Govt.  High School ,  Weavers Street, Vadasery, Main Building, North Portion","1.Nagercoil Corpration Ward 10, Asambu Road , 2.Nagercoil Corpration Ward 14, Ottupurai Street , 3.Nagercoil Corpration Ward 14, Muslim Street, 99.OVERSEAS ELECTORS",All Voters
+122,230,122,"Govt.  High School,  Weavers Street, Vadasery, Main Bulding South Postion West Door","1.Nagercoil Corpration Ward 10, M.S. Road , 2.Nagercoil Corpration Ward 10, Pillaiyarkovil Street , 3.Nagercoil Corpration Ward 10, Vanjimarthandan New Street , 4.Nagercoil Corpration Ward 10, Chinnarasingan Street, 99.OVERSEAS ELECTORS",All Voters
+123,230,123,"Govt.  Primary School,  Vadasery, Main Building Centre Portion","1.Nagercoil Corpration Ward 13, North New Street , 2.Nagercoil Corpration Ward 13, Seraman New Street , 3.Nagercoil Corpration Ward 13, Aattukadai Street , 4.Nagercoil Corpration Ward 13, South New Street , 5.Nagercoil Corpration Ward 13, M.S. Road , 6.Nagercoil Corpration Ward 13, Kunnuvilai Sambavar Street , 99.OVERSEAS ELECTORS",All Voters
+124,230,124,"Govt.  Primary School,  Vadasery, Main Building, West Portion","1.Nagercoil Corpration Ward 13, Thanumalayan New Street , 2.Nagercoil Corpration Ward 13, Vanjiyathithan New Street , 3.Nagercoil Corpration Ward 13, Aattukadai Mudukku, 99.OVERSEAS ELECTORS",All Voters
+125,230,125,"Govt.  Primary School,  Vadasery, Main Building, East Portion","1.Nagercoil Corpration Ward 13, Ezhavar Street , 2.Nagercoil Corpration Ward 13, Puliyavilai Street , 3.Nagercoil Corpration Ward 14, Kannimar Mettucheri, 99.OVERSEAS ELECTORS",All Voters
+126,230,126,"S. M.R.V.Higher Secondary School, Vadasery, Golden Jubilee Memorial Building East Portion","1.Nagercoil Corpration Ward 12, Vellalar West Street , 2.Nagercoil Corpration Ward 12, Manonmani Sundaranar Street , 3.Nagercoil Corpration Ward 12, Thaluvia Mahadevankovil Street, 99.OVERSEAS ELECTORS",All Voters
+127,230,127,"S. M.R.V.Higher Secondary School, Vadasery,Bala Subramanian Memorial Building","1.Nagercoil Corpration Ward 11, West Kalungadi , 2.Nagercoil Corpration Ward 11, Asambu Road , 3.Nagercoil Corpration Ward 11, CBH Compound, 99.OVERSEAS ELECTORS",All Voters
+128,230,128,"S. M.R.V.Higher Secondary School, Vadasery, Golden Jubilee Memorial Building West Portion","1.Nagercoil Corpration Ward 11, Chettikulam Sambavar Street , 2.Nagercoil Corpration Ward 11, East Kalungadi, 99.OVERSEAS ELECTORS",All Voters
+129,230,129,"S. M.R.V.Higher Secondary School, Vadasery, Balasubramanian Memorial Building, Room No: 8","1.Nagercoil Corpration Ward 10, CBH Road, 99.OVERSEAS ELECTORS",All Voters
+130,230,130,"S. M.R.V.Higher Secondary School, Vadasery, Balasubramanian Memorial Building, Room No: 9","1.Nagercoil Corpration Ward 10, CBH Road, 99.OVERSEAS ELECTORS",All Voters
+131,230,131,"S. M.R.V.Higher Secondary School, Vadasery, Old Students Association Building, Room 11","1.Nagercoil Corpration Ward 10, Periyarasingan North Street , 2.Nagercoil Corpration Ward 10, Periyarasingan Street
+, 3.Nagercoil Corpration Ward 10, Arattu Road, 99.OVERSEAS ELECTORS",All Voters
+132,230,132,"S. M.R.V.Higher Secondary School, Vadasery, Old Students Association Building, Room 12","1.Nagercoil Corpration Ward 10, School Street , 2.Nagercoil Corpration Ward 10, Anju Street , 3.Nagercoil Corpration Ward 10, New Street , 4.Nagercoil Corpration Ward 10, Eravivarman New Street , 5.Nagercoil Corpration Ward 12, Vellalar South Street , 6.Nagercoil Corpration Ward 12, Vellalar Street, 99.OVERSEAS ELECTORS",All Voters
+133,230,133,"S. M.R.V.Higher Secondary School, Vadasery, Platinum Jubilee Building Room No: 2","1.Nagercoil Corpration Ward 12, Vellalar North Street , 2.Nagercoil Corpration Ward 12, Vellalar East Street, 99.OVERSEAS ELECTORS",All Voters
+134,230,134,"S. M.R.V.Higher Secondary School, Vadasery, Platinum Jubilee Building Room No: 3","1.Nagercoil Corpration Ward 10, Eravivarman North Street , 2.Nagercoil Corpration Ward 10, Puliyadi Street , 3.Nagercoil Corpration Ward 10, CBH Road , 4.Nagercoil Corpration Ward 10, Vannar Street , 5.Nagercoil Corpration Ward 10, Asambu Road, 99.OVERSEAS ELECTORS",All Voters
+135,230,135,"S. M.R.V.Higher Secondary School, Vadasery, Rukmonyammal-Lekshmiammal Memorial Building Room No: 4","1.Nagercoil Corpration Ward 10, Kaniyalan New Street , 2.Nagercoil Corpration Ward 10, Chetty Street , 3.Nagercoil Corpration Ward 10, Arattu Road , 4.Nagercoil Corpration Ward 10, Anju Street, 99.OVERSEAS ELECTORS",All Voters
+136,230,136,"Govt.  Higher Secondary School, Vadasery, North Building, West Portion","1.Nagercoil Corpration Ward 10, Othai Street , 2.Nagercoil Corpration Ward 12, Vanigar Street , 3.Nagercoil Corpration Ward 12, Asarimar Street , 4.Nagercoil Corpration Ward 12, Pillaiyarkovil Street, 99.OVERSEAS ELECTORS",All Voters
+137,230,137,"Govt.  Higher Secondary School, Vadasery, South Building, West Portion","1.Nagercoil Corpration Ward 12, Rajapathai , 2.Nagercoil Corpration Ward 12, Bharathar Street, 99.OVERSEAS ELECTORS",All Voters
+138,230,138,"Govt.  Higher Secondary School, Vadasry, First Building, North Portion","1.Nagercoil Corpration Ward 13, Kommandai Ammankovil Street , 2.Nagercoil Corpration Ward 13, Kollavilai Street, 99.OVERSEAS ELECTORS",All Voters
+139,230,139,"Public Library Dept. ,  District Central Library,  Nagercoil, Ground Floor, North Building, West Portion","1.Nagercoil Corpration Ward 14, Police Station Road , 2.Nagercoil Corpration Ward 14, Kalaivanar Street , 3.Nagercoil Corpration Ward 14, Ottupurai Street, 99.OVERSEAS ELECTORS",All Voters
+140,230,140,"Kalaivanar N. S.K Govt. High School, Ozhuginasery, North Tiled Building, East Portion","1.Nagercoil Corpration Ward 13, Kuzhuvar Quarters , 2.Nagercoil Corpration Ward 13, Lekshmipuram North Street , 3.Nagercoil Corpration Ward 13, Kalpadi Street, 99.OVERSEAS ELECTORS",All Voters
+141,230,141,"Kalaivanar N. S.K Govt. High School, Ozhuginasery, Main Tiled Building, South Portion","1.Nagercoil Corpration Ward 13, Kanagamoolam Street , 2.Nagercoil Corpration Ward 13, Thazhiyapuram Street, 99.OVERSEAS ELECTORS",All Voters
+142,230,142,"Kalaivanar N. S.K Govt. High School, Ozhuginasery, North Tiled Building East Portion","1.Nagercoil Corpration Ward 25, Police Station Road , 2.Nagercoil Corpration Ward 25, Vellalar Middle Street , 3.Nagercoil Corpration Ward 25, Vellalar East Street,99.OVERSEAS ELECTORS",All Voters
+143,230,143,"Kalaivanar N. S.K Govt. High School, Ozhuginasery, Main Tiled Building North Portion","1.Nagercoil Corpration Ward 25, Ozhuginaserygrammam , 2.Nagercoil Corpration Ward 25, Parakkaikalpandu, 99.OVERSEAS ELECTORS",All Voters
+144,230,144,"Kalaivanar N. S.K Govt. High School, Ozhuginasery, North New Building, West Portion","1.Nagercoil Corpration Ward 16, M.S. Road , 2.Nagercoil Corpration Ward 25, Thoppu Vanigar Middle Street , 3.Nagercoil Corpration Ward 25, Thoppu Vanigar North Street , 4.Nagercoil Corpration Ward 25, Kattapomman Street
+, 5.Nagercoil Corpration Ward 25, Kanthariammankovil Street, 99.OVERSEAS ELECTORS",All Voters
+145,230,145,"Kalaivanar N. S.K Govt. High School, Ozhuginasery, North Tiled Building, West Portion","1.Nagercoil Corpration Ward 13, Kommandaiammankovil Street , 2.Nagercoil Corpration Ward 13, Chozharaja Kovil Street , 3.Nagercoil Corpration Ward 13, M.S. Road , 4.Nagercoil Corpration Ward 13, Lekshmipuram South Street , 5.Nagercoil Corpration Ward 13, Chozharajapuram, 99.OVERSEAS ELECTORS",All Voters
+146,230,146,"Kalaivanar N. S.K Govt. High School, Ozhuginasery, North Tiled Building Middle Portion","1.Nagercoil Corpration Ward 10, Ramavarman New Street , 2.Nagercoil Corpration Ward 10, Othai Street , 3.Nagercoil Corpration Ward 13, Rajapathai , 4.Nagercoil Corpration Ward 10, Ozhuginasery, Aarattu Road , 5.Nagercoil Corpration Ward 10, Aarattu Road, 99.OVERSEAS ELECTORS",All Voters
+147,230,147,"Lutheran Primary School, Christhu Nagar, Nagercoil, Main Building West Portion","1.Nagercoil Corpration Ward 16, Sayakkaranparappuvilai , 2.NagercoilCorpration Ward 16, Kottar Parvathipuram Road , 3.Nagercoil Corpration Ward 23, Kesari Street , 4.Nagercoil Corpration Ward 23, Paul Daniel Street , 5.Nagercoil Corpration Ward 23, Chellakkan Street , 6.Nagercoil Corpration Ward 23, K.P.Road, 99.OVERSEAS ELECTORS",All Voters
+148,230,148,"St. Aloysious English Nursery and Primary School , Vetturnimadam, North East Portion","1.Nagercoil Corpration Ward 16, Chayakkaranparappuvilai, 99.OVERSEAS ELECTORS",All Voters
+149,230,149,"St. Aloysious English Nursery and Primary School , Vetturnimadam, North West Portion","1.Nagercoil Corpration Ward 16, Chayakkaranparappuvilai, 99.OVERSEAS ELECTORS",All Voters
+150,230,150,"St. Allocious Higher Secondary School, Vetturnimadam, Main Building Ground floor Western Portion Room Eastern side","1.Nagercoil Corpration Ward 24, Thiruvalluvar Street , 2.Nagercoil Corpration Ward 16, Sayakkaranparappuvilai, 99.OVERSEAS ELECTORS",All Voters
+151,230,151,"St. Allocious Higher Secondary School, Vetturnimadam, Main Building Ground Floor Eastern side X-A class room","1.Nagercoil Corpration Ward 6, Pallivilai, 99.OVERSEAS ELECTORS",All Voters
+152,230,152,"St. Allocious Higher Secondary School, Vetturnimadam, Main building Ground floor Eastern side X-B Class room","1.Nagercoil Corpration Ward 22, Eastoff Street , 2.Nagercoil Corpration Ward 6, Pallivilai, 99.OVERSEAS ELECTORS",All Voters
+153,230,153,"St. Allocious Higher Secondary School, Vetturnimadam, Main Building Ground Floor East wing, IX-A Class room","1.Nagercoil Corpration Ward 6, Pallivilai, 99.OVERSEAS ELECTORS",All Voters
+154,230,154,"St. Allocious Higher Secondary School, Vetturnimadam, East wing, West Room","1.Nagercoil Corpration Ward 22, Marsden Street , 2.Nagercoil Corpration Ward 16, Sayakkaranparappuvilai, 99.OVERSEAS ELECTORS",All Voters
+155,230,155,"Scott Christian College, K.P. Road, Nagercoil, Main Building, West Portion
+Room No. 22","1.Nagercoil Corpration Ward 17, Kottar Parvathipuram Road, 99.OVERSEAS
+ELECTORS",All Voters
+156,230,156,"Scott Christian College, K.P. Road, Nagercoil, East Portion Room No. 21","1.Nagercoil Corpration Ward 17, Kottar Parvathipuram Road, 99.OVERSEAS ELECTORS",All Voters
+157,230,157,"Scott Christian College, K.P. Road, Nagercoil, Main Building Room No. 58","1.Nagercoil Corpration Ward 17, Kumari Weavers Colony, 99.OVERSEAS
+ELECTORS",All Voters
+158,230,158,"Scott Christian College, K.P. Road, Nagercoil, Main Building Room No. 56","1.Nagercoil Corpration Ward 17, Kumari Weavers Colony, 99.OVERSEAS ELECTORS",All Voters
+159,230,159,"Scott Christian Higher Secondary School, College Road, Nagercoil, Paul Daniel Block, Room No.32","1.Nagercoil Corpration Ward 15, Sakkiliyar Street , 2.Nagercoil Corpration Ward 15, Hentry Road , 3.Nagercoil Corpration Ward 15, Rachel Road, 99.OVERSEAS ELECTORS",All Voters
+160,230,160,"Scott Christian Higher Secondary School, College Road, Nagercoil, Central Building, East Portion, Room
+No. 14","1.Nagercoil Corpration Ward 15, Puthukudieruppu, 99.OVERSEAS ELECTORS",All Voters
+161,230,161,"Scott Christian Higher Secondary School, College Road, Nagercoil, Central Building, East Portion, Room No. 15","1.Nagercoil Corpration Ward 15, Kamarajapuram, Marachinivilai , 2.Nagercoil Corpration Ward 15, M.S. Road, 99.OVERSEAS ELECTORS",All Voters
+162,230,162,"Scott Christian Higher Secondary School, College Road, Nagercoil, Joswa Hall, South Portion","1.Nagercoil Corpration Ward 15, College Road , 2.Nagercoil Corpration Ward 15, Puthukudieruppu, 99.OVERSEAS ELECTORS",All Voters
+163,230,163,"Scott Christian Higher Secondary School, College Road, Nagercoil, Paul Daniel Block, Middle Portion, Room No.31","1.Nagercoil Corpration Ward 15, College Road , 2.Nagercoil Corpration Ward 15, Puthukudieruppu, 99.OVERSEAS ELECTORS",All Voters
+164,230,164,"Scott Christian Higher Secondary School, College Road, Nagercoil, Joswa Hall, North Portion","1.Nagercoil Corpration Ward 22, Yesuvadiyan Street, 99.OVERSEAS ELECTORS",All Voters
+165,230,165,"Scott Christian Higher Secondary School, College Road, Nagercoil, Middle Building, North Portion, Room No. 17","1.Nagercoil Corpration Ward 22, Water Tank Road, 99.OVERSEAS ELECTORS",All Voters
+166,230,166,"Women Christian College,  Nagercoil, East Building, Room No 9","1.Nagercoil Corpration Ward 15, Kamarajapuram, 99.OVERSEAS ELECTORS",All Voters
+167,230,167,"Women Christian College,  Nagercoil, East Building, Room No 8","1.Nagercoil Corpration Ward 15, Kamarajapuram, 99.OVERSEAS ELECTORS",All Voters
+168,230,168,"Women Christian College,  Nagercoil, East Building, Room No. 7","1.Nagercoil Corpration Ward 15, Devasahayam Street , 2.Nagercoil Corpration Ward 22, Nathaniel Street , 3.Nagercoil Corpration Ward 22, Nehru Street , 4.Nagercoil Corpration Ward 22, Jones Street , 5.Nagercoil Corpration Ward 22, Perinba Street, 99.OVERSEAS ELECTORS",All Voters
+169,230,169,"Women Christian College,  Nagercoil, East Building, Room No. 2","1.Nagercoil Corpration Ward 15, Dislary Road , 2.Nagercoil Corpration Ward 15, Sasthankovil Street , 3.Nagercoil Corpration Ward 15, Vasippusalai Street , 4.Nagercoil Corpration Ward 15, Dislary Approach Road , 5.Nagercoil Corpration Ward 14, Illathar Street , 6.Nagercoil Corpration Ward 14, Vanigar Street , 7.Nagercoil Corpration Ward 15, Puthukudieruppu, 99.OVERSEAS ELECTORS",All Voters
+170,230,170,"Old Corporation Office, Balamore Road, Nagercoil, Main Building, Middle Portion","1.Nagercoil Corpration Ward 24, Balamore Road , 2.Nagercoil Corpration Ward 24, North Car Street , 3.Nagercoil Corpration Ward 24, West Car Street , 4.Nagercoil Corpration Ward 24, Thilagar Street , 5.Nagercoil Corpration Ward 24, East Car Street , 6.Nagercoil Corpration Ward 24, South Car Street, 99.OVERSEAS ELECTORS",All Voters
+171,230,171,"Old Corporation Office, Balamore Road, Nagercoil, New Building West Portion","1.Nagercoil Corpration Ward 24, Asarimar North Street, 99.OVERSEAS ELECTORS",All Voters
+172,230,172,"Home Church Girls Higher School, College Road, Nagercoil, North Portion, Room No. 4","1.Nagercoil Corpration Ward 24, Balamore Road , 2.Nagercoil Corpration Ward 23, Dennison Street , 3.Nagercoil Corpration Ward 23, Parama Street , 4.Nagercoil Corpration Ward 22, Issac Street , 5.Nagercoil Corpration Ward 22, Gnanai Street , 6.Nagercoil Corpration Ward 22, New Street , 7.Nagercoil Corpration Ward 22, Vethanandha Street, 99.OVERSEAS ELECTORS",All Voters
+173,230,173,"Home Church Girls Higher School, College Road, Nagercoil, New Building, South Portion","1.Nagercoil Corpration Ward 23, Balamore Road , 2.Nagercoil Corpration Ward 23, New Port Road , 3.Nagercoil Corpration Ward 23, Meet Road , 4.Nagercoil Corpration Ward 23, Charles Miller Street , 5.Nagercoil Corpration Ward 23, Mault Ammal Street , 6.Nagercoil Corpration Ward 23, White House Street , 7.Nagercoil Corpration Ward 23, Dennison Street , 8.Nagercoil Corpration Ward 23, Niel Street , 9.Nagercoil Corpration Ward 23, Partison Street , 10.Nagercoil Corpration Ward 23, Duthie School Road , 11.Nagercoil Corpration Ward 23, Ringle Taube Street , 12.Nagercoil Corpration Ward 23, Palace Road , 13.Nagercoil Corpration Ward 23, William Miller Street, 99.OVERSEAS ELECTORS",All Voters
+174,230,174,"Govt.  Town Primary School,  Puthern Bunglow Road,  Nagercoil, New Building Building, East Portion","1.Nagercoil Corpration Ward 24, Puthen Bunglow Road , 2.Nagercoil Corpration Ward 24, East Street , 3.Nagercoil Corpration Ward 25, Thoppu Vanigar South Street , 4.Nagercoil Corpration Ward 27, Natarajapuram , 5.Nagercoil Corpration Ward 27, Sasthan Kovil Street
+, 6.Nagercoil Corpration Ward 27, Periya Street, 99.OVERSEAS ELECTORS",All Voters
+175,230,175,"Govt.  Town Primary School,  Puthen Bunglow Road ,  Nagercoil, Main Building, Middle Portion","1.Nagercoil Corpration Ward 24, Nambiedai Street , 2.Nagercoil Corpration Ward 24, Kariyakaravilai , 3.Nagercoil Corpration Ward 24, Bharathar Street , 4.Nagercoil Corpration Ward 24, Thiruvalluvar Street , 5.Nagercoil Corpration Ward 24, Ammasimadam Street , 6.Nagercoil Corpration Ward 24, Police Station Road, 99.OVERSEAS ELECTORS",All Voters
+176,230,176,"Govt.  High School,  Meenatchipuram, Nagercoil, West Treace Building, South Portion","1.Nagercoil Corpration Ward 28, Sannathi Street , 2.Nagercoil Corpration Ward 28, Pound Road , 3.Nagercoil Corpration Ward 27, Asarimar South Street , 4.Nagercoil Corpration Ward 27, Asarimar North Street , 5.Nagercoil Corpration Ward 27, Police Station Road , 6.Nagercoil Corpration Ward 25, Meenakshipuram North Street, 99.OVERSEAS ELECTORS",All Voters
+177,230,177,"Govt.  High School,  Meenatchipuram, Nagercoil, Treace Main Building, South Portion","1.Nagercoil Corpration Ward 25, Kovil Street, 99.OVERSEAS ELECTORS",All Voters
+178,230,178,"Govt.  Primary School, Meenatchipuram,  Nagercoil, New Concrete Building, North Portion","2.Nagercoil Corpration Ward 25,Thalavai Street, 99.OVERSEAS ELECTORS",All Voters
+179,230,179,"Govt.  High School,  Meenatchipuram, Nagercoil, Middle Treace Building, East Portion","1.Nagercoil Corpration Ward 25, Palla Street ,  2.Nagercoil Corpration Ward 24, Pathalvilai , 3.Nagercoil Corpration Ward 24, Premier Studio Street , 4.Nagercoil Corpration Ward 24, Chemmankudy Road, 99.OVERSEAS ELECTORS",All Voters
+180,230,180,"Govt.  Primary School, Meenatchipuram,  Nagercoil, New Concrete Building, South Portion","1.Nagercoil Corpration Ward 24, Asarimar South Street , 99.OVERSEAS ELECTORS",All Voters
+181,230,181,"Govt.  Primary School,  West Car Street,  Vadiveeswaram, Main Building, Middle Portion","1.Nagercoil Corpration Ward 27, Neeralikarai Street , 2.Nagercoil Corpration Ward 27, Mutharammankovil Street , 3.Nagercoil Corpration Ward 27, Marimutharammankovil Street , 4.Nagercoil Corpration Ward 27, Uchimahali Amman Kovil Street , 5.Nagercoil Corpration Ward 27, Sumaduthangi Street , 6.Nagercoil Corpration Ward 27, Kalvettankuzhi Street, 99.OVERSEAS ELECTORS",All Voters
+182,230,182,"Govt.  Primary School,  West Car Street,  Vadiveeswaram, New Concrete Building, East Portion","1.Nagercoil Corpration Ward 27, Sasthankovil Street , 2.Nagercoil Corpration Ward 27, Parakkamada Street , 3.Nagercoil Corpration Ward 28, Bajanamadam Street , 4.Nagercoil Corpration Ward 27, Asarimar North Street , 5.Nagercoil Corpration Ward 27, Narayanamadam Street, 99.OVERSEAS ELECTORS",All Voters
+183,230,183,"Govt.  Primary School, Vadiveeswaram, West Building North portion","1.Nagercoil Corpration Ward 27, Pillaiyarkovil Street , 2.Nagercoil Corpration Ward 27, Mari Neduntheru , 3.Nagercoil Corpration Ward 28, Mettu Street, 99.OVERSEAS ELECTORS",All Voters
+184,230,184,"Govt.  Primary School, Vadiveeswaram, Tiled Building West Portion","1.Nagercoil Corpration Ward 27, Kalmada Street , 2.Nagercoil Corpration Ward 27, Perumalkovil Street, 99.OVERSEAS ELECTORS",All Voters
+185,230,185,"Govt.  Primary School, Vadiveeswaram, H.M Room","1.Nagercoil Corpration Ward 28, Kuruntheru , 2.Nagercoil Corpration Ward 28, Pranobhakari Street , 3.Nagercoil Corpration Ward 28, Yadhavar Street, 99.OVERSEAS ELECTORS",All Voters
+186,230,186,"Govt.  Primary School, Vadiveeswaram, Main Bulding Centre Portion South","1.Nagercoil Corpration Ward 27, East Car Street , 2.Nagercoil Corpration Ward 27, West Car Street , 3.Nagercoil Corpration Ward 27, West Palla Street , 4.Nagercoil Corpration Ward 27, East Palla Street , 5.Nagercoil Corpration Ward 27, South Car Street, 99.OVERSEAS ELECTORS",All Voters
+187,230,187,"DVD Higher Secondary School, Kottar,  Teacher Training Building West Portion Room No:2","1.Nagercoil Corpration Ward 29, Chetty Street, 99.OVERSEAS ELECTORS",All Voters
+188,230,188,"DVD Higher Secondary School, Kottar, Teacher Training Building
+Middle Portion Room No: 1","1.Nagercoil Corpration Ward 29, Chetty Street, 99.OVERSEAS ELECTORS",All Voters
+189,230,189,"DVD Higher Secondary School,  Kottar Chithambaranager, Main Building East Portion Room No:44","1.Nagercoil Corpration Ward 29, K.P. Road , 2.Nagercoil Corpration Ward 29, Kottar Parvathipuram Road , 3.Nagercoil Corpration Ward 29, Uchimahaliammankovil Street , 4.Nagercoil Corpration Ward 29, Eswarapuram, 99.OVERSEAS ELECTORS",All Voters
+190,230,190,"DVD Higher Secondary School,  Kottar Chithambaranager, Main Building West Portion Room No:46","1.Nagercoil Corpration Ward 29, Chetty Street , 99.OVERSEAS ELECTORS",All Voters
+191,230,191,"DVD Higher Secondary School,  Kottar Chithambaranager, Main Building West Portion Room No: 45","1.Nagercoil Corpration Ward 29, Chidambara Nagar, 99.OVERSEAS ELECTORS",All Voters
+192,230,192,"DVD Higher Secondary School,  Kottar Chithambaranager, Main Building West Portion Room No: 47","1.Nagercoil Corpration Ward 29, Chidambara Nagar, 99.OVERSEAS ELECTORS",All Voters
+193,230,193,"KDVP Govt.  Girls Higher Secondary School,  Kottar, Nabard Building West Middle Portion","1.Nagercoil Corpration Ward 29, Ganesapuram Road , 2.Nagercoil Corpration Ward 29, Ganesapuram, 99.OVERSEAS ELECTORS",All Voters
+194,230,194,"KDVP Govt.  Girls Higher Secondary School,  Kottar, Nabard Building East Middle Portion","1.Nagercoil Corpration Ward 29, Police Quarters , 2.Nagercoil Corpration Ward 29, Cape Road , 3.Nagercoil Corpration Ward 29, Koviladivilai , 4.Nagercoil Corpration Ward 29, Pulavarvilai, 99.OVERSEAS ELECTORS",All Voters
+195,230,195,"SLB Goverment Girls High School, Nagercoil, Main New Building, North Portion","1.Nagercoil Corpration Ward 23, Opposite SMRV ITI School , 2.Nagercoil Corpration Ward 23, Muthamil Street , 3.Nagercoil Corpration Ward 23, Santhan Chettivilai Road , 4.Nagercoil Corpration Ward 23, Alexandra Press Road , 5.Nagercoil Corpration Ward 23, Duthie Ammal Street , 6.Nagercoil Corpration Ward 23, Maaps Street , 7.Nagercoil Corpration Ward 23, Parker Street , 8.Nagercoil Corpration Ward 23, Lee Street , 9.Nagercoil Corpration Ward 23, Victoria Press Road , 10.Nagercoil Corpration Ward 23, Cave Street , 11.Nagercoil Corpration Ward 23, Jilla Court Road , 12.Nagercoil Corpration Ward 23, Cape Road, 99.OVERSEAS ELECTORS",All Voters
+196,230,196,"SLB Goverment Girls High School, Nagercoil, Main New Building, South Portion","1.Nagercoil Corpration Ward 23, Palace Road , 2.Nagercoil Corpration Ward 23, Kottar Parvathipuram Road , 3.Nagercoil Corpration Ward 23, SLB South Street , 4.Nagercoil Corpration Ward 23, Easwanantha Street , 5.Nagercoil Corpration Ward 23, Perianadar Street , 6.Nagercoil Corpration Ward 23, Ramanpillai Street , 7.Nagercoil Corpration Ward 23, Perumal Street , 8.Nagercoil Corpration Ward 23, Parvathavarthini Street, 99.OVERSEAS ELECTORS",All Voters
+197,230,197,"SLB Goverment Girls High School, Nagercoil, North New Building West portion","1.Nagercoil Corpration Ward 23, Jeganathan Street , 2.Nagercoil Corpration Ward 23, Sahotharar Street, 99.OVERSEAS ELECTORS",All Voters
+198,230,198,"Duthie Girls Higher Secondary School, Nagercoil, North Tiled Building, West Portion","1.Nagercoil Corpration Ward 30, K.P. Road , 2.Nagercoil Corpration Ward 30, Observatory Road , 3.Nagercoil Corpration Ward 30, Chidambaranathan Street  , 99.OVERSEAS ELECTORS",All Voters
+199,230,199,"Duthie Girls Higher Secondary School, Nagercoil, North Tiled Building, West Middle Portion","1.Nagercoil Corpration Ward 30, Colony West , 2.Nagercoil Corpration Ward 30, Colony East , 3.Nagercoil Corpration Ward 30, Jawahar Street , 4.Nagercoil Corpration Ward 30, Vellalar Colony East, 99.OVERSEAS ELECTORS",All Voters
+200,230,200,"Little Flower Girls Higher Secondary School,  Nagercoil, Main Building","1.Nagercoil Corpration Ward 31, Athimichael Street, 99.OVERSEAS
+ELECTORS",All Voters
+201,230,201,"Little Flower Girls Higher Secondary School,  Nagercoil, Main Building, South Portion","1.Nagercoil Corpration Ward 31, East Ramanputhoor Thirukudumbakovil Street, 99.OVERSEAS ELECTORS",All Voters
+202,230,202,"Little Flower Girls Higher Secondary School,  Nagercoil, North Building, East Portion","1.Nagercoil Corpration Ward 30, St.  Marys Street, 99.OVERSEAS ELECTORS",All Voters
+203,230,203,"Little Flower Girls Higher Secondary School,  Nagercoil, North Building, Middle Portion","1.Nagercoil Corpration Ward 30, St.  Marys Street, 99.OVERSEAS ELECTORS",All Voters
+204,230,204,"Little Flower Primary School,
+Ramanputhoor, West Building, North Portion","1.Nagercoil Corpration Ward 31,
+Thalavaipuram,99.OVERSEAS ELECTORS",All Voters
+205,230,205,"Little Flower Primary School, Ramanputhoor, West New Building North Portion","1.Nagercoil Corpration Ward 31, Rajakkamangalam Road , 2.Nagercoil Corpration Ward 31, West Ramanputhoor, 99.OVERSEAS ELECTORS",All Voters
+206,230,206,"Little Flower Primary School, Ramanputhoor, South Building, East Portion","1.Nagercoil Corpration Ward 31, Thalavaipuram, 99.OVERSEAS ELECTORS",All Voters
+207,230,207,"Little Flower Primary School, Ramanputhoor, Main Building South portion","1.Nagercoil Corpration Ward 31, Thalavaipuram, 99.OVERSEAS ELECTORS",All Voters
+208,230,208,"Concordia High School,  Asaripallam Road,  Nagercoil, Science Building East Postion","1.Nagercoil Corpration Ward 32, Asaripallam Road, 99.OVERSEAS ELECTORS",All Voters
+209,230,209,"Concordia High School,  Asaripallam Road,  Nagercoil, Old north building South portion","1.Nagercoil Corpration Ward 32, Asaripallam Road, 99.OVERSEAS ELECTORS",All Voters
+210,230,210,"Concordia High School,  Asaripallam Road,  Nagercoil, Main Building East Portion Staff Room","1.Nagercoil Corpration Ward 32, Asaripallam Road, 99.OVERSEAS ELECTORS",All Voters
+211,230,211,"Concordia High School,  Asaripallam Road,  Nagercoil, Main Building East Portion","1.Nagercoil Corpration Ward 32, Asaripallam Road, 99.OVERSEAS ELECTORS",All Voters
+212,230,212,"Concordia High School,  Asaripallam Road,  Nagercoil, Main Building, West Portion,         'X' E-Standard","1.Nagercoil Corpration Ward 32, Asaripallam Road , 99.OVERSEAS ELECTORS",All Voters
+213,230,213,"Concordia High School,  Asaripallam Road,  Nagercoil, Main Building, East Portion,         'X'B-Standard","1.Nagercoil Corpration Ward 32, Asaripallam Road , 99.OVERSEAS ELECTORS",All Voters
+214,230,214,"Concordia High School,  Asaripallam Road,  Nagercoil, Main Building, 'X'B-Standard","1.Nagercoil Corpration Ward 30, Kottar Parvathipuram Road , 2.Nagercoil Corpration Ward 31, Mela Ramanputhoor Thirukudumbakovil Street, 99.OVERSEAS ELECTORS",All Voters
+215,230,215,"St.  Antonys High School,  Kurusady, Block 1, North Building","1.Nagercoil Corpration Ward 33, Kurusady, 99.OVERSEAS ELECTORS",All Voters
+216,230,216,"St.  Antonys High School,  Kurusady, Block 2, West Portion","1.Nagercoil Corpration Ward 33, Kurusady, 99.OVERSEAS ELECTORS",All Voters
+217,230,217,"St.  Antonys High School,  Kurusady, Block 2,  West Portion","1.Nagercoil Corpration Ward 33, Kurusady, 99.OVERSEAS ELECTORS",All Voters
+218,230,218,"St.  Antonys High School,  Kurusady, East Portion","1.Nagercoil Corpration Ward 33, Rajakkamangalam Road, 99.OVERSEAS ELECTORS",All Voters
+219,230,219,"St.  Antonys High School,  Kurusady, Block 1, South Portion","1.Nagercoil Corpration Ward 33, Thollavilai , 2.Nagercoil Corpration Ward 44, Chinnavannanvilai, 99.OVERSEAS ELECTORS",All Voters
+220,230,220,"Holy Cross college,  Kurusady, Nagercoil, Main Building, Room No. 2","1.Nagercoil Corpration Ward 44, Punnaikattuvilai , 2.Nagercoil Corpration Ward 44, Nedunkanvilai, 99.OVERSEAS ELECTORS",All Voters
+221,230,221,"Holy Cross college,  Kurusady, Nagercoil, Main Building, Room No. 10","1.Nagercoil Corpration Ward 44, Nedunkanvilaisalai, 99.OVERSEAS ELECTORS",All Voters
+222,230,222,"Holy Cross College, Kurusady, Nagercoil, Main Building, Room No. 11","1.Nagercoil Corpration Ward 44, Punnaikattuvilai, 99.OVERSEAS ELECTORS",All Voters
+223,230,223,"Holy Cross College, Kurusady, Nagercoil, Gludine,Block Room No. 60","1.Nagercoil Corpration Ward 44, Punnaikattuvilai, 99.OVERSEAS ELECTORS",All Voters
+224,230,224,"Holy Cross College, Kurusady, Nagercoil, Gludine Block, Room No. 61","1.Nagercoil Corpration Ward 44, Vattakarai , 2.Nagercoil Corpration Ward 44, Punnaikattuvilai, 99.OVERSEAS ELECTORS",All Voters
+225,230,225,"Holy Cross College, Kurusady, Nagercoil, Gludine Block, Room No 63","1.Nagercoil Corpration Ward 44, Punnaikattuvilai , 99.OVERSEAS ELECTORS",All Voters
+226,230,226,"Holy Cross College, Kurusady, Nagercoil, Gludine Block, Room No. 64","2.Nagercoil Corpration Ward 32, North Konam, 99.OVERSEAS ELECTORS",All Voters
+227,230,227,"Holy Cross College, Kurusady, Nagercoil, Gludine Block, Room No. 66","1.Nagercoil Corpration Ward 33, Koothankadu, 99.OVERSEAS ELECTORS",All Voters
+228,230,228,"Holy Cross College, Kurusady, Nagercoil, Gladdin Block, Room No. 68","1.Nagercoil Corpration Ward 33, Melasoorankudi, 99.OVERSEAS ELECTORS",All Voters
+229,230,229,"Carmel Higher Secondary School, Nagercoil, Main Building, South Portion, Room No. 9","1.Nagercoil Corpration Ward 31, East Ramanputhoor Thirukudumbakovil Street
+, 2.Nagercoil Corpration Ward 31, Rajakkamangalam Road, 99.OVERSEAS
+ELECTORS",All Voters
+230,230,230,"Carmel Higher Secondary School, Nagercoil, Main Building, West Portion, Room No. 64","1.Nagercoil Corpration Ward 30, Vareethu Street , 2.Nagercoil Corpration Ward 30, Little Flower Street , 3.Nagercoil Corpration Ward 30, Sargunaveethi, 99.OVERSEAS ELECTORS",All Voters
+231,230,231,"Carmel Higher Secondary School, Nagercoil, East Building, East Side","1.Nagercoil Corpration Ward 34, Rajakkamangalam Road, 99.OVERSEAS
+ELECTORS",All Voters
+232,230,232,"Carmel Higher Secondary School, Nagercoil, Main Building, East Portion, Room No. 16","1.Nagercoil Corpration Ward 34, East Ramanputhoor, 99.OVERSEAS ELECTORS",All Voters
+233,230,233,"Carmel Higher Secondary School, Nagercoil, Main Building, East
+Portion, Room No. 18","1.Nagercoil Corpration Ward 34, East Ramanputhoor, 99.OVERSEAS
+ELECTORS",All Voters
+234,230,234,"Carmel Higher Secondary School, Nagercoil, Main Building Room No.63","1.Nagercoil Corpration Ward 30, Sargunaveethi, 99.OVERSEAS ELECTORS",All Voters
+235,230,235,"Govt. Primary School,  Chettikulam Junction, Nagercoil, West Building, First Block","1.Nagercoil Corpration Ward 30, Sargunaveethi Odai, 99.OVERSEAS ELECTORS",All Voters
+236,230,236,"Govt. Primary School,  Chettikulam Junction, Nagercoil, Main Concrete North East Building","1.Nagercoil Corpration Ward 35, Ganapathi Nagar, 99.OVERSEAS ELECTORS",All Voters
+237,230,237,"Govt. Primary School,  Chettikulam
+Junction,  Main Concreate South East Building","1.Nagercoil Corpration Ward 35,
+Ganapathi Nagar, 99.OVERSEAS ELECTORS",All Voters
+238,230,238,"Govt. Primary School,  Chettikulam Junction, Nagercoil,  Tiled building South Portion","1.Nagercoil Corpration Ward 35, M.G.R. Nagar , 2.Nagercoil Corpration Ward 35, Ganapathi Nagar, 99.OVERSEAS ELECTORS",All Voters
+239,230,239,"S. T. Hindu College,  Nagercoil, West Building, Room No. 24","1.Nagercoil Corpration Ward 34, East Ramanputhoor , 2.Nagercoil Corpration Ward 36, K.P. Road, 99.OVERSEAS ELECTORS",All Voters
+240,230,240,"S. T. Hindu College,  Nagercoil, Golden Jubilee Building, Room No. 19","1.Nagercoil Corpration Ward 36, Poonchathankulamkarai, 99.OVERSEAS ELECTORS",All Voters
+241,230,241,"S. T. Hindu College,  Nagercoil,
+SouthWest Building, Room No. 25","1.Nagercoil Corpration Ward 36 Saraloor,
+99.OVERSEAS ELECTORS",All Voters
+242,230,242,"S. T. Hindu College,  Nagercoil, SouthWest Building, Room No. 5","1.Nagercoil Corpration Ward 36, Kottar Parvathipuram Road , 2.Nagercoil Corpration Ward 36, Saraloor, 99.OVERSEAS ELECTORS",All Voters
+243,230,243,"S. T. Hindu College,  Nagercoil, Golden Jubilee Building, Room No.20","1.Nagercoil Corpration Ward 37, Periyavilai, 99.OVERSEAS ELECTORS",All Voters
+244,230,244,"S. T. Hindu College,  Nagercoil, Golden Jubilee Building, Room No. 21","1.Nagercoil Corpration Ward 37, Periyavilai, 99.OVERSEAS ELECTORS",All Voters
+245,230,245,"S. T. Hindu College,  Nagercoil, Golden Jubilee Building, Room No. 22","1.Nagercoil Corpration Ward 34, East Ramanputhoor, 99.OVERSEAS
+ELECTORS",All Voters
+246,230,246,"S. T. Hindu College,  Nagercoil ,E-Block  Room No. E4","1.Nagercoil Corpration Ward 35, East Ramanputhoor Road , 2.Nagercoil Corpration Ward 35, Chithirairajapuram , 3.Nagercoil Corpration Ward 37, Periyavilai, 99.OVERSEAS ELECTORS",All Voters
+247,230,247,"S. T. Hindu College,  Nagercoil ,E-Block  South Portion Room No. E3","1.Nagercoil Corpration Ward 34, Thattanvilai, 99.OVERSEAS ELECTORS",All Voters
+248,230,248,"S. T. Hindu College,  Nagercoil, E-Block North Middle Portion Room No -
+E 5","1.Nagercoil Corpration Ward 34, Thattanvilai, 99.OVERSEAS ELECTORS",All Voters
+249,230,249,"S. T. Hindu College,  Nagercoil ,E-Block  North Portion Room No. E6","1.Nagercoil Corpration Ward 37, Beach Road , 2.Nagercoil Corpration Ward 35, Manickavasagapuram , 3.Nagercoil Corpration Ward 34, Thattanvilai, 99.OVERSEAS ELECTORS",All Voters
+250,230,250,"Govt.  H.S.,  Beach Road,  Nagercoil, Terrace Building, Middle Portion","1.Nagercoil Corpration Ward 37, Vaithiyanathapuram , 2.Nagercoil Corpration Ward 37, Beach Road, 99.OVERSEAS ELECTORS",All Voters
+251,230,251,"Govt.  H.S.,  Beach Road,  Nagercoil, Terrace Building, South Portion","1.Nagercoil Corpration Ward 37, Muthaliyarvilai , 2.Nagercoil Corpration Ward 37, Beach Road, 99.OVERSEAS ELECTORS",All Voters
+252,230,252,"Govt.  High School,  Vadalivilai, Beach Road,  Nagercoil, Terrace Building, North Portion","1.Nagercoil Corpration Ward 37, Eathamozhi Road, 99.OVERSEAS ELECTORS",All Voters
+253,230,253,"Government Primary School, Kottar, Vagaiyadi, Cape Road, West Tiled Building","1.Nagercoil Corpration Ward 36, Muthaliyar West Street , 2.Nagercoil Corpration Ward 36, Cape Road, 99.OVERSEAS ELECTORS",All Voters
+254,230,254,"Government Primary School, Kottar, Vagaiyadi, Cape Road, Tiled Building East Portion","1.Nagercoil Corpration Ward 38, Ezhavar North Street , 2.Nagercoil Corpration Ward 37, Gandhi Street , 3.Nagercoil Corpration Ward 37, Chidambara Street , 4.Nagercoil Corpration Ward 37, Samarasaveethi , 5.Nagercoil Corpration Ward 37, Vaithiyanathapuram , 6.Nagercoil Corpration Ward 37, Muthaliyarvilai, 99.OVERSEAS ELECTORS",All Voters
+255,230,255,"KDVP Govt.  Girls Higher Secondary School,  Kottar, South Terrace Building Middle portion","1.Nagercoil Corpration Ward 28, Vanigar North Street , 2.Nagercoil Corpration Ward 28, Xavier Church Street , 99.OVERSEAS ELECTORS",All Voters
+256,230,256,"KDVP Govt.  Girls Higher Secondary School,  Kottar, Nabard Building East Most portion","1.Nagercoil Corpration Ward 28, Kasukadai Street , 2.Nagercoil Corpration Ward 38, Koozhakadai Street , 3.Nagercoil Corpration Ward 38, Cape Road , 4.Nagercoil Corpration Ward 38, Parakkamadai Street , 5.Nagercoil Corpration Ward 28, Veerapathiran Street, 99.OVERSEAS ELECTORS",All Voters
+257,230,257,"KDVP Govt. Girls Higher Secondary School, Kottar, South Terrace Building East Portion","1.Nagercoil Corpration Ward 28, Bharathar Street , 2.Nagercoil Corpration Ward 28, Chozhavar Street , 3.Nagercoil Corpration Ward 28, Muthaliyar North Street , 4.Nagercoil Corpration Ward 28, Muthaliyar South Street, 99.OVERSEAS ELECTORS",All Voters
+258,230,258,"KDVP Govt.  Girls Higher Secondary School,  Kottar, East New building, South Portion","1.Nagercoil Corpration Ward 27, Kannarkudi Street , 2.Nagercoil Corpration Ward 27, Asarimar North Street , 3.Nagercoil Corpration Ward 28, Kambalam Road, 99.OVERSEAS ELECTORS",All Voters
+259,230,259,"Govt.  High School,  Ezhagaram, North East Building, North Side.","1.Nagercoil Corpration Ward 38, Arumugam Pillaiyarkovil Street, 99.OVERSEAS ELECTORS",All Voters
+260,230,260,"Govt.  High School,  Ezhagaram, North Trreace Lab Building East","1.Nagercoil Corpration Ward 138 Vagayadi South Car Street , 2.Nagercoil Corpration Ward 38, Bajanaimadam Street
+, 3.Nagercoil Corpration Ward 38, Karuppan Chettiyar Street, 99.OVERSEAS ELECTORS",All Voters
+261,230,261,"Govt.  High School,  Ezhagaram, South Building East portion","1.Nagercoil Corpration Ward 38, Panaivilai Street , 2.Nagercoil Corpration Ward 38, Vagaiyadi North Car Street , 3.Nagercoil Corpration Ward 38, Ezhavar Sannathi Street, 99.OVERSEAS ELECTORS",All Voters
+262,230,262,"Govt.  High School,  Ezhagaram, North Building Middle portion","1.Nagercoil Corpration Ward 38, Kulalar Street ,99.OVERSEAS ELECTORS",All Voters
+263,230,263,"Govt.  High School,  Ezhagaram, South Building West portion","1.Nagercoil Corpration Ward 38, Vagaiyadi West Car Street , 2.Nagercoil Corpration Ward 38, Valampuri Vinayagar Street , 3.Nagercoil Corpration Ward 38, Ezhagaram , 4.Nagercoil Corpration Ward 38, Ramaswamykovil Neerazhi Street , 5.Nagercoil Corpration Ward 38, East Car Street , 99.OVERSEAS ELECTORS",All Voters
+264,230,264,"Govt.  High School,  Ezhagaram, West Building South portion","1.Nagercoil Corpration Ward 38, Meenatchi Chettiyar Street , 2.Nagercoil Corpration Ward 38, Sornagiri Street , 3.Nagercoil Corpration Ward 38, Vagaiyadi East Car Street , 4.Nagercoil Corpration Ward 38, Ezhagaram Perumalkovil Street, 99.OVERSEAS ELECTORS",All Voters
+265,230,265,"Govt.  High School,  Ezhagaram, Tiled Building Office Room West Portion","1.Nagercoil Corpration Ward 38, Ammankovil Street , 2.Nagercoil Corpration Ward 38, Vagayadi South Car Street , 3.Nagercoil Corpration Ward 38, Vagayadi North Street , 4.Nagercoil Corpration Ward 38, Ezhavar South Street, 99.OVERSEAS ELECTORS",All Voters
+266,230,266,"Sathavathani Seiku Thambi Bavalar Govt.  Higher Sec School,  Edalakudy, Old Main Building, Central Portion","1.Nagercoil Corpration Ward 39, New Street , 2.Nagercoil Corpration Ward 39, Cape Road , 3.Nagercoil Corpration Ward 39, Parakkai Road , 4.Nagercoil Corpration Ward 39, Palli Street, 99.OVERSEAS ELECTORS",All Voters
+267,230,267,"Sathavathani Seiku Thambi Bavalar Govt.  Higher Sec School,  Edalakudy, North old building South Side","1.Nagercoil Corpration Ward 48, Edalakudy , 2.Nagercoil Corpration Ward 48, Puthankudieruppu ,  3.Nagercoil Corpration Ward 48, Vaiyalivilai Street , 99.OVERSEAS ELECTORS",All Voters
+268,230,268,"Sathavathani Seiku Thambi Bavalar Govt.  Higher Sec School,  Edalakudy, North building North Portion","1.Nagercoil Corpration Ward 48, Parasuraman Peruntheru , 99.OVERSEAS ELECTORS",All Voters
+269,230,269,"Sathavathani Seiku Thambi Bavalar Govt.  Higher Sec School,  Edalakudy, South New Building South Portion","1.Nagercoil Corpration Ward 48, Perumalkulam Street , 2.Nagercoil Corpration Ward 48, Perumal Kulakarai, 99.OVERSEAS ELECTORS",All Voters
+270,230,270,"Sathavathani Seiku Thambi Bavalar Govt.  Higher Sec School,  Edalakudy, New Concrete Building Middle South Portion","1.Nagercoil Corpration Ward 48, Katchapura Street, 99.OVERSEAS ELECTORS",All Voters
+271,230,271,"Sathavathani Seiku Thambi Bavalar, Govt.  Higher Sec. School,  Edalakudy, New Concrete Building. South Portion.","1.Nagercoil Corpration Ward 41, Santhi Street , 2.Nagercoil Corpration Ward 41, Mela Puthu Street, 99.OVERSEAS ELECTORS",All Voters
+272,230,272,"Sathavathani Seiku Thambi Bavalar, Govt.  Higher Sec. School,  Edalakudy, New Concrete Building. North Portion.","1.Nagercoil Corpration Ward 41, West New Street, 99.OVERSEAS ELECTORS",All Voters
+273,230,273,"Sathavathani Seiku Thambi Bavalar, Govt.  Higher Sec. School,  Edalakudy, New Concrete Building. North Most Portion.","1.Nagercoil Corpration Ward 41, South New Street, 99.OVERSEAS ELECTORS",All Voters
+274,230,274,"Govt.  Primary School,  Elankadai South Cape Road,  Eddlakudy, Main Building, Middle Portion","1.Nagercoil Corpration Ward 39, Pattariyar New Street , 2.Nagercoil Corpration Ward 39, Pattariyar Neduntheru , 3.Nagercoil Corpration Ward 39, Bharathar Street , 4.Nagercoil Corpration Ward 39, Rajapathai , 5.Nagercoil Corpration Ward 39, Kadai Street, 99.OVERSEAS ELECTORS",All Voters
+275,230,275,"Govt.  Primary School,  Elankadai South,  Cape Road,   Edalakudy, Main Building, North Portion","1.Nagercoil Corpration Ward 39, Pattariyarkovil Street , 2.Nagercoil Corpration Ward 39, Pattariyar North Street , 3.Nagercoil Corpration Ward 39, Palli Street , 4.Nagercoil Corpration Ward 41, Elankadai Sambavar Street , 5.Nagercoil Corpration Ward 39, Rasak Street, 99.OVERSEAS ELECTORS",All Voters
+276,230,276,"Govt.  Primary School,  Elankadai North ,  Edalakudy, Main Building, Middle West Portion","1.Nagercoil Corpration Ward 39, Arippu Street , 2.Nagercoil Corpration Ward 39, Parakkai Road, 99.OVERSEAS ELECTORS",All Voters
+277,230,277,"Govt.  Primary School,  Elankadai North,  Edalakudy, North Main Building,  East Portion","1.Nagercoil Corpration Ward 39, Pattariyarkovil Street ,  2.Nagercoil Corpration Ward 39, Vembadi Street, 99.OVERSEAS ELECTORS",All Voters
+278,230,278,"Govt.  Primary School,  Elankadai South,  Edalakudy,  Main Building, South Portion","1.Nagercoil Corpration Ward 39, Cape Road , 2.Nagercoil Corpration Ward 38, Thamaraikulam Street , 3.Nagercoil Corpration Ward 39, Thaikapalli Street
+,99.OVERSEAS ELECTORS",All Voters
+279,230,279,"Govt.  Primary School,  Elankadai North,  Edalakudy, South Main Building, East Portion","1.Nagercoil Corpration Ward 39, Lala Puthu Street , 2.Nagercoil Corpration Ward 39, Vembadi Street , 3.Nagercoil Corpration Ward 39, Lala Savadi Street , 4.Nagercoil Corpration Ward 39, Asarimar Street , 99.OVERSEAS ELECTORS",All Voters
+280,230,280,"Govt.  Primary School,  Elankadai North,  Edalakudy, South  Building, West Portion","1.Nagercoil Corpration Ward 39, Pattariyar Neduntheru , 2.Nagercoil Corpration Ward 39, Rasak Street , 3.Nagercoil Corpration Ward 39, Rajapathai Street, 99.OVERSEAS ELECTORS",All Voters
+281,230,281,"Govt.  Primary School,  Parakkai Junction, North Building, Middle Portion","1.Nagercoil Corpration Ward 40, Eathamozhi Road , 2.Nagercoil Corpration Ward 40, Esanganvilai, 99.OVERSEAS ELECTORS",All Voters
+282,230,282,"Govt.  Primary School,  Parakkai Junction, North Building, South Portion","1.Nagercoil Corpration Ward 40, Vadalivilai, 99.OVERSEAS ELECTORS",All Voters
+283,230,283,"Govt.  Primary School, Parakkai Junction,  Anganwadi Building","1.Nagercoil Corpration Ward 40, Vadalivilai, 99.OVERSEAS ELECTORS",All Voters
+284,230,284,"Govt.  Primary School,  Parakkai Junction, North Building, North Portion","1.Nagercoil Corpration Ward 40, Cape Road ,  2.Nagercoil Corpration Ward 41, Eathamozhi Road , 3.Nagercoil Corpration Ward 40, Kadaicheri, 99.OVERSEAS ELECTORS",All Voters
+285,230,285,"Govt.  Primary School,  Parakkai Junction, North Building, East Portion","1.Nagercoil Corpration Ward 40, Vadalivilai , 99.OVERSEAS ELECTORS",All Voters
+286,230,286,"Govt.  Primary School,  Parakkai Junction, South Building West Portion","1.Nagercoil Corpration Ward 41, Parakkai Road, 99.OVERSEAS ELECTORS",All Voters
+287,230,287,"St.  Mary Primary School, Maravankudiyiruppu, New Building, Eastern Most Portion","1.Nagercoil Corpration Ward 44, Eathamozhi Road , 2.Nagercoil Corpration Ward 44, Vattakarai, 99.OVERSEAS ELECTORS",All Voters
+288,230,288,"St.  Mary Primary School, Maravankudiyiruppu, New Building,
+Middle Portion","1.Nagercoil Corpration Ward 44, Pattasaliyanvilai, 99.OVERSEAS
+ELECTORS",All Voters
+289,230,289,"St.  Mary Primary School, Maravankudiyiruppu, Main Building, Middle Left Portion","1.Nagercoil Corpration Ward 44, Pattasaliyanvilai , 99.OVERSEAS ELECTORS",All Voters
+290,230,290,"St.  Mary Primary School, Maravankudiyiruppu, New Building, West Portion","1.Nagercoil Corpration Ward 43, West Maravankudieruppu, 2.Nagercoil Corpration Ward 43, Maravankudieruppu, 99.OVERSEAS ELECTORS",All Voters
+291,230,291,"St.  Mary Primary School, Maravankudiyiruppu, New Building,
+Western Most Portion","1.Nagercoil Corpration Ward 43, West Maravankudieruppu, 99.OVERSEAS
+ELECTORS",All Voters
+292,230,292,"Govt. Middle School, Keezha Maravankudiyiruppu, Tiled North Building East Portion","1.Nagercoil Corpration Ward 43, Kalaisirakumkudieruppu, 99.OVERSEAS ELECTORS",All Voters
+293,230,293,"Govt. Middle School, Keezha Maravankudiyiruppu, Tiled North Building West Portion","1.Nagercoil Corpration Ward 43, Kalaisirakumkudieruppu, 99.OVERSEAS ELECTORS",All Voters
+294,230,294,"Govt.  Middle School, Keezhamaravankudiyiruppu, New Building East Portion","1.Nagercoil Corpration Ward 43, Beach Road Housing Board, 2.Nagercoil Corpration Ward 43, Vallankumaran Vilai, 99.OVERSEAS ELECTORS",All Voters
+295,230,295,"Govt.  Middle School, Keezhamaravankudiyiruppu, New Building West portion","1.Nagercoil Corpration Ward 43, Beach Road , 99.OVERSEAS ELECTORS",All Voters
+296,230,296,Govt Middle School Keezhamaravankudiyiruppu South Building,"1.Nagercoil Corpration Ward 43, East Maravankudieruppu , 2.Nagercoil Corpration Ward 46, Vallankumaravilai, 99.OVERSEAS ELECTORS",All Voters
+297,230,297,"Govt. Primary School,  Erulappapuram, Asbestos Building, East Portion","1.Nagercoil Corpration Ward 42, Erulappapuram , 2.Nagercoil Corpration Ward 48, Lalavilai, 99.OVERSEAS ELECTORS",All Voters
+298,230,298,"Govt. Primary School,  Erulappapuram, Asbestos Building, Middle Portion","1.Nagercoil Corpration Ward 42, Erulappapuram , 99.OVERSEAS
+ELECTORS",All Voters
+299,230,299,"Govt. Primary School,  Erulappapuram, Asbestos Building, West Portion","1.Nagercoil Corpration Ward 48, Parakkai Road ,  2.Nagercoil Corpration Ward 48, Nainarputhoor, 99.OVERSEAS ELECTORS",All Voters
+300,230,300,"Govt. Primary School,  Erulappapuram, Asbestos Building, West Most Portion","1.Nagercoil Corpration Ward 48,
+Velladichivilai , 99.OVERSEAS ELECTORS",All Voters
+301,230,301,"Govt.  Primary School, Erulappapuram, Anganwadi Building West Portion","1.Nagercoil Corpration Ward 40, Vattavilai, 99.OVERSEAS ELECTORS",All Voters
+302,230,302,"Govt.  Primary School, Erulappapuram, West Building North
+portion","1.Nagercoil Corpration Ward 40, Vattavilai, 99.OVERSEAS ELECTORS",All Voters
+303,230,303,"Govt. High School,  Erulappapuram, West Building South Portion","1.Nagercoil Corpration Ward 41, Vattavilai, 99.OVERSEAS ELECTORS",All Voters
+304,230,304,"Govt. High School,  Erulappapuram, New East Building South Portion","1.Nagercoil Corpration Ward 41, Vattavilai, 99.OVERSEAS ELECTORS",All Voters
+305,230,305,"Govt. High School,  Erulappapuram, Main Building East Portion","1.Nagercoil Corpration Ward 48, Kannankulam , 2.Nagercoil Corpration Ward 48, New Colony , 3.Nagercoil Corpration Ward 43, Beach Road, 99.OVERSEAS ELECTORS",All Voters
+306,230,306,"Govt. High School,  Erulappapuram, New East Building North Portion","1.Nagercoil Corpration Ward 42, Erulappapuram, 99.OVERSEAS ELECTORS",All Voters
+307,230,307,"Govt.  Primary School,  Sarakkalvilai, Main building West Portion","1.Nagercoil Corpration Ward 47, Sarakkalvilai, 99.OVERSEAS ELECTORS",All Voters
+308,230,308,"Govt.  Primary School,  Sarakkalvilai, South building","1.Nagercoil Corpration Ward 47, Sarakkalvilai, 99.OVERSEAS ELECTORS",All Voters
+309,230,309,"Govt.  Primary School,  Sarakkalvilai, Main Building East Portion","1.Nagercoil Corpration Ward 47, Sarakkalvilai, 99.OVERSEAS ELECTORS",All Voters
+310,230,310,"St.  Micheal High School, Vethakkarankudiyiyiruppu, Main Building, West Portion","1.Nagercoil Corpration Ward 47, Beach Road , 2.Nagercoil Corpration Ward 42, Vethakarankudieruppu , 3.Nagercoil Corpration Ward 47, East Sarakkalvilai, 99.OVERSEAS ELECTORS",All Voters
+311,230,311,"St.  Micheal High School, Vethakkarankudiyiyiruppu, Main Building, East Portion","1.Nagercoil Corpration Ward 42, Beach Road , 2.Nagercoil Corpration Ward 42, Vethakarankudieruppu , 3.Nagercoil Corpration Ward 47, East Sarakkalvilai, 99.OVERSEAS ELECTORS",All Voters
+312,230,312,"St. Micheal Primary  School,
+Vethakarankudiyiruppu,  Main Building, Middle  Portion","1.Nagercoil Corpration Ward 42,
+Vethakarankudieruppu, 99.OVERSEAS ELECTORS",All Voters
+313,230,313,"St. Micheal Primary  School, Vethakarankudiyiruppu,  Main Building, West  Portion","1.Nagercoil Corpration Ward 42, Vethakarankudieruppu, 99.OVERSEAS ELECTORS",All Voters
+314,230,314,"Government Primary School, Vallankumaranvilai, North Building, Central Portion","1.Nagercoil Corpration Ward 49, East Kunjanvilai , 2.Nagercoil Corpration Ward 46, N.G.O. Colony, 99.OVERSEAS ELECTORS",All Voters
+315,230,315,"Government Primary School, Vallankumaranvilai, Additional Building South Portion","1.Nagercoil Corpration Ward 46, East Vannanvilai, 99.OVERSEAS ELECTORS",All Voters
+316,230,316,"Government Primary School,
+Vallankumaranvilai, Additional Building,  North Portion","1.Nagercoil Corpration Ward 46, East Vannanvilai, 99.OVERSEAS ELECTORS",All Voters
+317,230,317,"Govt.  Primary School,  Kothaigramam, Arasu e-Sevai Centre Building East Portion","1.Nagercoil (R.V.), Theraikalputhur (P) Ward 4, Block 4, Puravaseri , 2.Nagercoil (R.V.), Theraikalputhur (P) Ward 1, Block 1, Theraikalputhur, 99.OVERSEAS ELECTORS",All Voters
+318,230,318,"Govt.  Primary School,  Kothaigramam, East Portion","1.Nagercoil (R.V.), Theraikalputhur (P) Ward 1, Block 1, Kothaigramam, 99.OVERSEAS ELECTORS",All Voters
+319,230,319,"Govt.  Primary School,  Kothaigramam, Middle Portion","1.Nagercoil (R.V.), Theraikalputhur (P) Ward 4, Block 4, Sadayarkulam , 2.Nagercoil (R.V.), Theraikalputhur (P) Ward 3,4, Theraikalputhur, Kezhathathiyarkulam, 99.OVERSEAS ELECTORS",All Voters
+320,230,320,"Govt.  Primary School,  Kothaigramam, West Portion","1.Nagercoil (R.V.) Theraikalputhur (P) Ward 5, Block 5, Sadayarkulam , 2.Nagercoil (R.V.), Theraikalputhur (P) Ward 2, Melathathiyarkulam, Kezhathathiyarkulam, 99.OVERSEAS ELECTORS",All Voters
+321,230,321,"Kalaimagal Padippagam, Kariyamanickapuram, Tiled Building","1.Nagercoil Corpration Ward 26, Sabaiyarkulamcolony, Sasthirinagar , 2.Nagercoil Corpration Ward 26, Sabari Annai Outtuvalmadam, Parakkankalputhoor, 99.OVERSEAS ELECTORS",All Voters
+322,230,322,"Govt Primary School, Ezhagaram, Main Building, , South Portion","1.Nagercoil Corpration Ward 26, Karuppukkottai, Parakkankal, Sakthinagar
+, 2.Nagercoil Corpration Ward 26, Karuppukkottai, Parakkankal, Sakthinagar, 99.OVERSEAS ELECTORS",All Voters

@@ -1,0 +1,485 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+1,177,2,,3,4
+1,177,1,,"Govt.Hr Sec  School Facing West,North  Portion,  Neivelithenpathi 614628","1.Neiveli  Thenpathi (R.V) AND  (P) Manakollai Ward-1  ,
+2.Neiveli  Thenpathi (R.V) AND  (P) Nondi Street Ward-1  ,
+3.Neiveli  Thenpathi (R.V) AND  (P) Vaththakan  Street Ward-1  ,
+4.Neiveli  Thenpathi (R.V) AND  (P) Ponnan  Street Ward-1  , 999.OVERSEAS  ELECTORS"
+2,177,2,,"Panchayat Union  Elementary  School, North Portion  East Facing Maligaipunchai 614628","1.Neiveli  Thenpathi (R.V) AND  (P) Malikai  Punjai Ward-1 ,
+2.Neiveli  Thenpathi (R.V) AND  (P) Vanki  Street Ward-1 ,
+3.Neiveli  Thenpathi (R.V) AND  (P) Pattukottaiyan  Street Ward-1,
+4.Neiveli  Thenpathi (R.V) AND  (P) Kuppan  Thoppu Ward-1  ,  999.OVERSEAS ELECTORS"
+3,177,3,,"Govt.Hr Sec  School Facing  West. Middle  Portion, Neiveli Thenpathi 614628","1.Neiveli  Thenpathi (R.V) AND  (P) Dunkan  Street Ward-2 , 2.NeiveliThenpathi  (R.V)  AND  (P)  Narna  Kollai  Ward-2  , 3.NeiveliThenpathi  (R.V)  AND  (P)  Chetti Street Ward-2  ,
+4.Neiveli  Thenpathi (R.V) AND  (P) Kollamanthai Street Ward-2  ,
+5.Neiveli  Thenpathi (R.V) AND  (P) South  Street Ward-2  , 999.OVERSEAS  ELECTORS"
+4,177,4,,"Govt.Hr Sec  School Facing  West , South  Portion,  Neiveli Thenpathi 614628","1.NeiveliThenpathi  (R.V)  AND  (P)  Duvakkamanai Ward-3 , 2.NeiveliThenpathi  (R.V)  AND  (P)  Servaran Street Ward-3  ,
+3.Neiveli  Thenpathi (R.V) AND  (P) Chettikollai Ward-3 ,
+4.Neiveli  Thenpathi (R.V) AND  (P) Vannankollai Ward-3 ,
+5.Neiveli  Thenpathi (R.V) AND  (P) Kottakollai  Ward-3  ,
+6.Neiveli  Thenpathi (R.V) AND  (P) Mullupudikollai  Ward-3, 999.OVERSEAS  ELECTORS"
+5,177,5,,"Panchayat Union  Middle  School Facing  East,  Naripathai,  Neiveli Vadapathi 614628","1.Neiveli  Vadapathi  (R.V)  AND  (P)  Kattuvampirai wd  -1  ,
+2.Neiveli  Vadapathi  (R.V)  AND  (P)  Narippathai  Ward-1  ,
+3.Neiveli  Vadapathi  (R.V)  AND  (P)  Pallaththan Manai  Ward-1  ,
+4.Neiveli  Vadapathi  (R.V)  AND  (P)  Nachiyan  Street Ward-1 ,
+5.Neiveli  Vadapathi  (R.V)  AND  (P)  Kuyavar  Street Ward-1, 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+6,177,6,,"Panchayat Union  Elementary  School-Malavarayar  Street,  Faciing  South, West Portion,  Neiveli Vadapathi 614628","1.neiveli  vadapathi  (R.V)  AND  (P)  Thottathar street-wd2  ,
+2.neiveli  vadapathi  (R.V)  AND  (P)  Middle  street -wd2 ,
+3.neiveli  vadapathi  (R.V)  AND  (P)  malavamadi kollai-wd2 ,
+4.Neiveli  Vadapathi  (R.V)  AND  (P)  Senkollai  Ward-2, 999.OVERSEAS  ELECTORS"
+7,177,7,,"Panchayat Union  Elementary  School, Facing  South  West Portion,Chettitheru Neiveli Vadapathi 614628","1.Neiveli  Vadapathi  (R.V)  AND  (P)  Kanakkar Street Ward  3  ,
+2.Neiveli  Vadapathi  (R.V)  AND  (P)  Avanandikollai  Ward  3, 999.OVERSEAS  ELECTORS"
+8,177,8,,"Panchayat Union  Elementary  School, East  Portion,  South  Facing, Malavarayar  Street Neiveli Vadapathi 614628","1.Neiveli  vadapathi (R.V)  AND  (P)  Chetti street wd 3,
+2.Neiveli  Vadapathi  (R.V)  AND  (P)  Thulukkamanai  wd  3,  999.OVERSEAS ELECTORS"
+9,177,9,,"Panchayat Union  Elementary  School, Facing  South  East  Portion
+,Chettitheru Neiveli Vadapathi 614628","1.Neivali Vadapathi (R.V) AND  (P) VadaStreet Ward-4 ,
+2.Neivali Vadapathi (R.V) AND  (P) North  Adithiravidar  Street  Ward-4  , 999.OVERSEAS  ELECTORS"
+10,177,10,,"Panchayat Union  Elementary  School, South  Portion,  West  Facing  , Chettitheru Neiveli Vadapathi 614628","1.Neivali Vadapathi (R.V) AND  (P) kallar  street-wd4  ,
+2.Neivali Vadapathi (R.V) AND  (P) Puchikan thoppu Ward-4, 999.OVERSEAS  ELECTORS"
+11,177,11,,"Panchayat Union  Elementary  School Facing  south,East Portion Senniyavidhuthi 614628","1.Senniyaveduthi (R.V)  AND  (P)  Thoppanayagam Muthiraiyar  street  Wd  12, 2.Senniyaviduthi  (R.V) AND  (P)  Pangalow  Street Ward-1 ,
+3.Senniyaviduthi  (R.V) AND  (P)  Kattuvanpirai  Street Ward-2 , 4.Senniyaveduthi (R.V)  AND  (P)  Senniyaveduthi  south senniya  street wd  2  , 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+12,177,12,,"Panchayat Union  Elementary  School Facing  South,West Portion Senniyavidhuthi 614628","1.Senniyaveduthi (R.V)  AND  (P)  Thoppanayagam yadavar  street  wd-1  , 2.Senniyaveduthi (R.V)  AND  (P)  Senniyaveduthi  North  Kutthan street wd  -2, 999.OVERSEAS  ELECTORS"
+13,177,13,,"Panchayat Union  Elementary  School Facing  North Tiled  Building  ,West Portion,Senniyaviduthi 614628","1.Senniyaveduthi (R.V)  AND  (P)  Pusari Street Ward-3  , 2.Senniyaveduthi (R.V)  AND  (P)  Udaiyar Street Ward-3  , 3.Senniyaveduthi (R.V)  AND  (P)  Adithiravidar Street Ward-3 , 4.Senniyaveduthi (R.V)  AND  (P)  Kallar  Street Ward-3  , 999.OVERSEAS  ELECTORS"
+14,177,14,,"Govt Hr.Sec.  School Facing East,Middle  Portion, Periyakkottaikkadu -614628","1.Periyakottaikadu (R.V)  Vankarai (P) Periya  Kottaikadu Ward-3  ,  999.OVERSEAS ELECTORS"
+15,177,15,,"Govt Hr.Sec.  School,  South  Portion, East  Facing,  Periyakkottaikkadu - 614628","1.Periyakottaikadu (R.V)  Vankarai (P) Chinna  Kottaikadu Ward-3  , 2.Periyakottaikadu (R.V)  Vankarai (P) DeventhiraKula  Street Ward-3, 999.OVERSEAS  ELECTORS"
+16,177,16,,"Panchayat Union  Middle  School, Facing  South,  East Portion(Old building  Back  side),  Vengarai 614628","1.Vengarai  (R.V)  AND  (P)  Manjakkadu -wd2  ,
+2.Vengarai  (R.V)  AND  (P)  Vengarai  East street -wd1 ,
+3.Vengarai  (R.V)  AND  (P)  Vannakkadu -wd1, 999.OVERSEAS  ELECTORS"
+17,177,17,,"Panchayat Union  Middle  School, Facing  South,  West Portion,  Vengarai 614628","1.Vengarai  (R.V)  AND  (P)  Venkkarai  west Street -wd1 ,
+2.Vengarai  (R.V)  AND  (P)  Karambai pannai -wd-1 ,
+3.Vengarai  (R.V)  AND  (P)  Kalyanasundarapuram -wd-1, 999.OVERSEAS  ELECTORS"
+18,177,18,,"Panchayat Union  Middle  School, Facing  South,  Thippan Viduthi 614628","1.Thippanveduthi (R.V)  Vengarai  (P) Kallar Street Ward-5 , 2.Thippanveduthi (R.V)  Vankarai  (P) Muslim Street Ward-5 , 3.Thippanveduthi (R.V)  Vankarai  (P) Pusari Street Ward-5  , 4.Thippanveduthi (R.V)  Vankarai  (P) Konar  Street Ward  5, 999.OVERSEAS  ELECTORS"
+19,177,19,,"Panchayat Union  Middle  School, Facing  West,  Middle  Portion, Thippan  Viduthi 614628","1.Thippanveduthi (R.V)  Vankarai  (P) Konar  Street Ward  4  , 2.Thippanveduthi (R.V)  Vankarai  (P) Kallar  Idayan kadu Street Ward  4, 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+20,177,20,,"Panchayat Union  Middle  School, Facing  South,East Portion,Vettuvakottai  614614","1.Vettuvakottai  (R.V) AND  (P)  Kovil  Kollai Ward-3 , 2.Vettuvakottai  (R.V) AND  (P)  Melavallalar Street Ward-3 , 3.Vettuvakottai  (R.V) AND  (P)  Santha  pettai  Ward-3  , 4.Vettuvakottai  (R.V) AND  (P)  Kela  vellalar Street Ward-3  , 5.Vettuvakottai  (R.V) AND  (P)  Agamudaiyar  Street Ward-3  , 6.Vettuvakottai  (R.V) AND  (P)  Sarkatti  Street Ward-3, 999.OVERSEAS  ELECTORS"
+21,177,21,,"Panchayat Union  Middle  School Facing  South,  East Portion,Vettuvakottai  614614","1.Vettuvakottai  (R.V) AND  (P)  Thattan  Kollai  Ward-2  , 2.Vettuvakottai  (R.V) AND  (P)  Semman punjai Ward-2  , 3.Vettuvakottai  (R.V) AND  (P)  Suriyamman  punjai  Ward-2  , 4.Vettuvakottai  (R.V) AND  (P)  Neppan  Street Ward-2  ,
+5.Vettuvakottai  (R.V) AND  (P)  Ramapuram Colony  Ward-2  ,  6.Vettuvakottai  (R.V) AND  (P)  Atrukarai Street Ward-3  ,
+7.Vettuvakottai  (R.V) AND  (P)  Thirthan  Street Ward-3  , 8.Vettuvakottai  (R.V) AND  (P)  Karnakulam Street Ward-3, 999.OVERSEAS  ELECTORS"
+22,177,22,,"Panchayat Union  Middle  School, Facing  South,  Middle Portion,Vettuvakottai  614631","1.Vettuvakkottai (R.V) AND  (P) Vettuvar  street -wd-3 ,
+2.Vettuvakkottai (R.V) AND  (P) Agamudaiyar street -wd-3,  3.Vettuvakkottai (R.V) AND  (P)  Sarkatti streett -wd-3,  999.OVERSEAS ELECTORS"
+23,177,23,,"Panchayat Union  Middle  School, West Portion,  South  Facing  , Vettuvakottai West  614631","1.Vettuvakkottai (R.V) AND  (P) Manthaikollai  punjai -wd-3  ,  2.Vettuvakkottai (R.V) AND  (P)  Theethan  street -wd-3,
+3.Vettuvakkottai (R.V) AND  (P) Sathirappatti -wd-2, 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+24,177,24,,"Jothi  Aided  Middle  School,  Facing South,Middle  Portion,Uranipuram 614614","1.Uranipuram  (R.V)  Vettuvakottai  (P) Pattuviduthi  North  Street Ward-2  , 2.Pandipalamanaikadu (R.V)  Vettuvakottai (P)  Pattuviduthi Konar Street Ward-2  , 3.Uranipuram  (R.V)  Vettuvakottai  (P) PattuThoundaman  Street Ward-2  , 4.Pandiplamanaikadu (R.V)  Vettuvakottai (P) Aathanggarai uranipuram-wd-2  , 5.Pancipalamanaikadu (R.V)  Vettuvakottai (P) Atharankarai UraniPuram Ward-2  , 6.Uranipuram  (R.V)  Vettuvakottai  (P) Urani South  Street Ward-2  , 999.OVERSEAS  ELECTORS"
+25,177,25,,"Jothi  Aided  Middle  School,  Facing East,  North Portion,  Uranipuram 614614","1.Uranipuram  (R.V)  Vettuvakottai  (P) Athankarai  uranipuram ward-3  , 2.Uranipuram  (R.V)  Vettuvakottai  (P) Periyar  Nagar  Ward-3  , 999.OVERSEAS  ELECTORS"
+26,177,26,,"Jothi  Aided  Middle  School Facing East,  South  Portion, Uranipuram 614614","1.Uranipuram  (R.V)  vettuvakottai  (P) kamaraja  nagar  uranipuram-wd3, 2.Pandipalamanaikadu (R.V)  Vettuvakottai (P)  Uranipuram South  Street Ward-3, 3.Pandipalamanaikadu (R.V)  Vettuvakottai (P)  Uranipuram south  street-  wd-3, 999.OVERSEAS  ELECTORS"
+27,177,27,,"Panchayat Union  Elementary  School, Faing  North,  East Portion, Pudhuviduthi  614614","1.Vettuvakottai  (R.V) AND  (P)  Munumakkollai  Manki Street Ward-1  , 2.Vettuvakottai  (R.V) AND  (P)  New  viduthi  Ward-1,
+999.OVERSEAS  ELECTORS"
+28,177,28,,"Panchayat Union  Elementary  School, South  Portion,  East Facing  ,  West Street,  Pudhuviduthi  West 614631","1.Pandipalamanakadu (R.V) Vettuvakottai (P) New  viduthi pethi  Street  Ward-1  , 2.Pandipalamanakadu (R.V) Vettuvakottai (P) New  viduthi West street Ward-1, 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+29,177,29,,"Panchayat Union  Middle  School Facing  North,  West Portion, Kattathi 614615","1.Kattathi (R.V)  AND  (P)  Pusari Street Ward-1  ,
+2.Kattathi (R.V)  AND  (P)  Kaliyarayan  Street Ward-1  ,
+3.Kattathi (R.V)  AND  (P)  Siththan Street Ward-1, 999.OVERSEAS  ELECTORS"
+30,177,30,,"Panchayat Union  Middle  School, Facing  South,  West Portion,  Kattathi 614615","1.Kattathi (R.V)  AND  (P)  Muslim Street  Ward-2  ,
+2.Kattathi (R.V)  AND  (P)  Gandhi Nagar Ward-3 ,
+3.Kattathi (R.V)  AND  (P)  Ballavarayar Street Ward-2  ,
+4.Kattathi (R.V)  AND  (P)  Munumankollai Ward-2 ,
+5.Kattathi (R.V)  AND  (P)  Puduviduthi  pithu kuthi  Street Ward-2,  999.OVERSEAS ELECTORS"
+31,177,31,,"Panchayat Union  Elementary  School Facing  North,Thaligaividuthi-614614","1.Thaligaividuthi  (R.V) AND  (P)  North  Street Ward-1  , 2.Thaligaividuthi  (R.V) AND  (P)  Matha  kovil street-wd-1  , 999.OVERSEAS  ELECTORS"
+32,177,32,,"Panchayat Union  Elementary  School Facing  West and south  portion, Thaligaividuthi 614614","1.Thaligaividuthi  (R.V) AND  (P)  Naduudaiyar  Street Ward-2  , 2.Thaligaividuthi  (R.V) AND  (P)  South Street Ward-2  , 999.OVERSEAS  ELECTORS"
+33,177,33,,"Panchayat Union  Elementary  School Facing  West and North  portion  , Thaligaividuthi 614614","1.Thaligaividuthi  (R.V) AND  (P)  Adidravidar Street -Wd-3  , 2.Thaligaividuthi  (R.V) AND  (P)  New  Nagar  -Wd-3 , 3.Thaligaividuthi  (R.V) AND  (P)  East Street -Wd-3  , 4.Thaligaividuthi  (R.V) AND  (P)  Manikiraan  Street -Wd-3 ,
+5.Thaligai Viduthi (R.V) AND  (P) Kattukollai  -Wd-3 ,
+6.Thaligai Viduthi (P)  Athidravidar  Colony  -Wd-3, 999.OVERSEAS  ELECTORS"
+34,177,34,,"Govt High  School Facing  South Middle  Portion, Nambivayal 614615","1.Nambivayal (R.V)  AND  (P)  Adidravidar street ward-1  , 2.Nambivayal (R.V)  AND  (P)  Kallar  street wd-2  , 3.Nambivayal (R.V)  AND  (P)  Valluvar Street wd-2, 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+35,177,35,,"Govt High  School (RMSA)Additional Classes  And  Labouratory  Building East  Facing  South  Portion, Nambivayal  614615","1.Nambivayal (R.V)  AND  (P)  Adidravidar street ward-1  , 2.Nambivayal (R.V)  AND  (P)  Yathavar  Street,  Ward-3  , 3.Nambivayal (R.V)  AND  (P)  Sivakkollai  Street Ward-3  , 999.OVERSEAS  ELECTORS"
+36,177,36,,"Panchyat Union  Elementary  School Facing  west Building  South Portion,Athambai  North  614602","1.Adambai North  (R.V)  Adambai (P) Vallambakollai  Wd-1  , 999.OVERSEAS  ELECTORS"
+37,177,37,,"Panchayat Union  Elementary  School Facing  West,  North  Portion, Athambai North  614602","1.Adambai North  (R.V)  Adambai (P) Adambai North  Street Wd-2  , 999.OVERSEAS  ELECTORS"
+38,177,38,,"Panchayat Union  Middle  School Facing  North Building  Middle Portion
+,Keelakollukadu 614614","1.Kollukadu ( R.V)  Pathirankottai (P) North  st.,Kaliyamman  kovil st.,Keelakollukkadu,
+999.OVERSEAS  ELECTORS"
+39,177,39,,"Panchayat Union  Middle  School, West Portion,  East  Facing  (South Building),  Keelakollukadu 614615","1.Kollukadu (R.V) Patharangkottai vadapathy  (P) Melakollukadu wd-3, 2.Patharangkottai Vadapathy  (R.V)  AND  (P)  Patharangkottai North Ambalakkarastreet wd-4,
+999.OVERSEAS  ELECTORS"
+40,177,40,,"Panchyat Union  Elementary  School Facing  West Pucca  Building  North Portion ,Kattahi  Unjiyaviduthi 614615","1.Kollukadu ( R.V  ) Pathirankottai (P) K unjavidithi  ward  -1  , 2.Patharangkottai Vadapathy  (R.V)  AND  (P)  Patharangkottai North K.Unchiya viduthi  we-1,
+999.OVERSEAS  ELECTORS"
+41,177,41,,"Panchayat Union  Elementary  School West Facing,  Pathirankottai South 614614","1.Patharangkottai thenpathy (R.V)  AND  (P)  Peema  nagar  athi  thiravidar  street wd-1  ,
+2.Patharangkottai Thenpathy  (R.V) AND  (P) South  street  wd-1  , 3.Patharangkottai Thenpathy(R.V)  AND  (P)  Antankollai wd-2  , 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+42,177,42,,"Panchayat Union  Elementary  School Facing  West SSA Building, Ananthagopalapuram 614614","1.Anandhagopalpuram South(R.V) Pathangkkottai south (P) Anandhagopalpuram South  east Wd-4  ,
+2.Ananthagopalapuram South  (R.V) Patharangkottai South  (P) Ananthagopalapuram South Ananthagopalapuram West  Wd-3  , 3.Ananthagopalapuram North  (R.V  ) ANDPatharangkottai  North  (P) Ananthagopalapuram North  Wd-4,
+999.OVERSEAS  ELECTORS"
+43,177,43,,"Panchayat Union  Middle  School Facing  South,  West Portion, Athambai South  614602","1.Adambai South  (R.V) Adambai (P)  East  street,  west street nethaji nagar  wd-3, 999.OVERSEAS  ELECTORS"
+44,177,44,,"Panchayat Union  Middle  School Facing  South,  Middle Portion, Athambai South  614602","1.Athambai South  (R.V)  AND  (P)  Thoppu street Kallichi street Wd-4  , 999.OVERSEAS  ELECTORS"
+45,177,45,,"Panchayat Union  Elementary  School Facing  South  Terraced Building Eastern  Portion,  Naduvikotai 614602","1.Naduvikkottai (R.V)  AND  (P)  West street wd-2  , 2.Naduvikottai (R.V) AND  (P)  Periayar  Nagar  Colony  Wd  -  4  , 999.OVERSEAS  ELECTORS"
+46,177,46,,"Panchayat Union  Elementay  School South  Facing  New  Terraced Building
+,  Naduvikkotai  614602","1.Naduvikottai (R.V) AND  ((P) East street Wd-1,2 ,  2.Naduvikkottai (R.V)  AND  (P) West Stret Wd-3,
+999.OVERSEAS  ELECTORS"
+47,177,47,,"Panchayat Union  Elementary  School Facing  North Building,  Soorankollai Naduvikkottai  -614602","1.Naduvikottai (R.V) AND  ((P) Chekkadikollai,Soorankollai,  Wd-1,2 , 999.OVERSEAS  ELECTORS"
+48,177,48,,"Panchayat Union  Elementary  School South  Facing  Terraced Building,KondiKulam 614602","1.Kondikkulam-Mela  Theru , 2.Kondikulam-Keezha  Theru, 3.Kondikulam-Aatrankarai  Theru, 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+49,177,49,,"Panchayat Union  Elementary  School West Facing  South Portion,KondiKKulam 614602","1.Kondikkulam-Main road, 2.Kondikulam-Sarkar  Thoppu, 3.Seethambalpuram, 999.OVERSEAS  ELECTORS"
+50,177,50,,"Panchayat Union  Elementary  School Facing  West,  North Portioin,KondiKKulam 614602","1.Thuvaramadai (R.V)  Kondikulam (P)  Thuvaramadai  Wd-2  , 2.Painkattuvayal  (R.V)  AND  Kondikulam (P) Painkattuvayal  Wd-2  , 999.OVERSEAS  ELECTORS"
+51,177,51,,"A.D.W Elementary  school Facing South,West Portion,Alivalam 614602","1.Alivalam (R.V)  AND  (P) Alivalam wd-1.2, 999.OVERSEAS  ELECTORS"
+52,177,52,,"Panchayat Union  Elementary  School Facing  North,  Middle  Portion(SSA Building),  Kayavur  614628","1.Kayavur (R.V)  AND  (P)  East street .northstreet middlestreet,West street ,
+2.Kayavur (R.V)  AND  (P)  Ambalakarathstreet Wd-2, 999.OVERSEAS  ELECTORS"
+53,177,53,,"Panchayat Union  Elementary  School (One Class Room Building)West Facing  North Portion  Terraced Building,  Kayavur  614628","1.Kayavur (R.V)  AND  (P)  Kavalkara  Theru wd-2  ,
+2.Kayavur (R.V)  AND  (P)  Annapuram wd-2  ,
+3.Kayavur (R.V)  AND  (P)  South Street Jeeva  Nagar  wd-2  ,
+4.Kayavur (R.V)  AND  (P)Mangangkulam wd-2,
+5.Kayavur (R.V)  AND  (P)Annanagar  wd-2, 999.OVERSEAS  ELECTORS"
+54,177,54,,"Panchayat Union  Middle  School Terracedbuilding  Facing  south
+,Poovalur 614628","1.Poovalur  (R.V) AND  (P)  Poovalur  wd-1, 999.OVERSEAS  ELECTORS"
+55,177,55,,"Panchayat Union  Elementary  School Facing  South,  East Portion, Naivaviduthi 614  602","1.Neyvaviduthi (R.V) Poovalur (P) Neyvaviduthi wd-2 , 2.Anantheeshwarapuram (R.V)  Poovalur  (P) Anantheeshwarapuram wd-2 , 999.OVERSEAS  ELECTORS"
+56,177,56,,"Panchayat Union  Elementary  School Terraced  building  Facing  South
+,Vattathikkottai  614628","1.Vzhuthalai vattam (R.V)  Vattathikkottai  (P) Vzhuthalai vattam wd-3  , 2.Vattathikkottai (P) Beemapuram wd-4  ,
+3.Vattathikkottai Kollukadu (R.V)  Vattathikkottai (P) Vattathikkottai wd-2, 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+57,177,57,,"Panchayat Union  Elementary  School Facing  South,East  Portion(Near HM Room),  Vattathikkottai 614628","1.Vattahikkottai  Kollukadu (R.V)  Vattathikkottai (P) Keezhaka  street,  Bazaar  St, Kalllar street,  ,  Wd-2,
+999.OVERSEAS  ELECTORS"
+58,177,58,,"Panchayat Union  Elementary  School Facing  East,  Vattathikkottai kollukadu 614628","1.Vattathikkottai Kollukadu (R.V)  Vattathikkottai (P) Vellaiyan street,Vattathikkottai  wd-2  ,
+2.Vattathikkottai Kollukadu (R.V)  Vattathikkottai (P) Vattathikkottai wd-2, 999.OVERSEAS  ELECTORS"
+59,177,59,,"Govt High  School Facing  South Pucca  Building,East Portion  Mela Konar street,Edaiyathi North  614628","1.Edaiyatthi North  (R.V)  Edaiyatthi (P) Arasakkanstreet,Kanttanganstreet, Konarsouthstreet,
+999.OVERSEAS  ELECTORS"
+60,177,60,,Panchayat Union  Elementary  School Facing  South  Mela  Konar  street (SSA Building  Middle  Room) Edayathi North-614628,"1.Edaiyatthi North  (R.V)  Edaiyathi  (P) Pasukkaran street,  Vannangkollai wd-7  , 2.Edaiyatthi North  (R.V)  Edayathi  (P) Westkonar south  street  wd-7  , 999.OVERSEAS  ELECTORS"
+61,177,61,,"Panchayat Union  Elementary  School Facing  North,Vellalr  street Edaiyathi West 614628","1.Edaiyathi  North  (R.V)  Edaiyathi  (P) Pallarstreet wd-4  , 999.OVERSEAS  ELECTORS"
+62,177,62,,"Panchayat Union  Elementary  School, North Portion,  West Facing  , Edaiyathi  South  614628","1.Edaiyathi  South (R.V)  Edaiyathi (P) Vellalar  street wd-5  ,  999.OVERSEAS ELECTORS"
+63,177,63,,"Panchayat Union  Elementary  School Facing  East,North  Portion,Edaiyathi East  614628","1.Edaiyathi  North  (R.V)  AND  (P)  Velampatti  wd-1, 999.OVERSEAS  ELECTORS"
+64,177,64,,"Panchayat Union  Elementary  School Facing  East,South Portion,Edaiyathi East  614628","1.Etaiyathi North  (R.V) AND  (P) Kailandi wd-3, 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+65,177,65,,"Panchayat Union  Elementary  School Facing  South  Old  Building,Edaiyathi East  614628","1.Etaiyathi North  (R.V) AND  (P) Athi thiravidar  north,  south street wd-2, 999.OVERSEAS  ELECTORS"
+66,177,66,,"Panchayat Union  Elementary  School terraced  building  Facing South,Seruvaviduthi  North  614628","1.Seruvaviduthi Vadapathy  (R.V) Seruvaviduthi North  (P) Vettikkadu, Ambalakkarar  Street wd-1  ,
+2.Seruvaviduthi Vadapathy  (R.V) Seruvaviduthi North  (P) Vettikkadu Adithiravidar street wd-1  ,
+3.Seruvaviduthi Vadapathy  (R.V) Seruvaviduthi North  (P) Panaiyappan  street wd-2 4.Seruvaviduthi Vadapathy  (R.V) Seruvaviduthi North  (P) Avidai Street wd-2, 999.OVERSEAS  ELECTORS"
+67,177,67,,"Panchayat Union  Elementary  School terraced  building  Facing  East,South Portion (5th  Standard  Building), Seruvaviduthi North  614628","1.Seruvaviduthi Vadapathy  (R.V) Seruvaviduthi North  (P) Chettiyar  street wd-2  , 2.Seruvaviduthi Vadapathy  (R.V) Seruvaviduthi North  (P) Vellalar  street wd-2  , 3.Seruvaviduthi Vadapathi (R.V)  Seruvaviduthi North  (P) West Adhithiravidar street wd-2  ,
+4.Seruvaviduthi Vadapathy  (R.V) Seruvaviduthi North  (P) Veeramaankulam street wd-2  ,
+5.Seruvaviduthi Vadapathy  (R.V) Seruvaviduthi North  (P) Thandakulam street wd-2,
+999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+68,177,68,,"Panchayat Union  Elementary  School Facing  East North  Portion, Udayar Street ,Seruvaviduthi North-  614628","1.Seruvaviduthi Vadapathy  (R.V)Seruvaviduthi North  (P) East udaiyar  street wd-3, 2.Seruvaviduthi Vadapathy  (R.V) Seruvaviduthi North  (P) West udaiyar street wd-3  ,
+3.Seruvaviduthi Vadapathy  (R.V) Seruvaviduthi North  (P) Echsanviduthi  Nagan street wd-3  ,
+4.Seruvaviduthi North  (P) Kallar  street wd-4, 999.OVERSEAS  ELECTORS"
+69,177,69,,"Panchayat Union  Elementary  School Facing  East South Portion  Terraced Building,  Udayar  Street, Seruvaviduthi North  614628","1.Suriyanarayanapuram (R.V) Seruvaviduthi North  (P) Echsanviduthi  wd--4 , 2.Suriyanarayanapuram (R.V) Seruvaviduthi North  (P) Puthunagar wd--4  , 3.Suriyanarayanapuram (R.V) Seruvaviduthi North  (P) Suriyanarayanapuram wd-4,
+999.OVERSEAS  ELECTORS"
+70,177,70,,"Panchayat Union  Elementary  School, East  portion,  North  Facing  , Seruvaviduthi South  614628","1.Seruvaviduthi Thenpathy  (R.V)  AND  (P) Saye thoppu wd-1  , 999.OVERSEAS  ELECTORS"
+71,177,71,,"Panchayat Union  Elementary  School Facing  North,  Eastern  portion
+,Seruvaviduthi South  614628","1.Seruvaviduthi Thenpathy  (R.V)  AND  (P) Koolaiyan street wd-3 ,  2.Seruvaviduthi Thenpathy  (R.V) AND  (P) Pothiyammal  nagar  wd-3  ,  3.Seruvaviduthi Thenpathy (R.V) AND  (P)  Mariyammankovil street wd-3  ,  4.Seruvaviduthi Thenpathy  (R.V) AND  (P)  Konar  street wd-3  ,  5.Seruvaviduthi Thenpathy  (R.V)  AND(P) Ammachan street wd-3  ,  6.Seruvaviduthi Thenpathy  (R.V)  AND(P) Adhithiravidar  Middle  street wd-3  ,
+7.Seruvaviduthi Thenpathy  (R.V)  AND(P) Adhithiravidar  East  street wd-3, 999.OVERSEAS  ELECTORS"
+72,177,72,,"Panchayat Union  Elementary  School Facing  North,  Madathikadu 614628","1.Madatthikkadu (R.V)  AND  (P) Madatthikkadu road,East street,  West street, Ayyanar  koil Street,
+999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+73,177,73,,"Government Higher  Secondary School,  West Portion, North  Facing, Thiruchitrambalam-  614628","1.Madatthikkadu (R.V)  AND  (P) Suriyanarayana  puram road,  Colony,  South  part, 2.Madatthikkadu (R.V)  AND  (P) Pillaiyarkovil road  South  Part wd-2  , 999.OVERSEAS  ELECTORS"
+74,177,74,,"Panchayat Union  Middle  School Facing  North,  Valasakadu 614628","1.Thuravikkadu (R.V)  AND  (P)  Mainroad,Peravurani main  road,Valasakkadu main,
+999.OVERSEAS  ELECTORS"
+75,177,75,,"Panchayat Union  Middle  School Facing  West Middle Portion,Valasakadu 614628","1.Thiruchitrambalam West (R.V)  Thiruchitrambalam (P)  Nariankadu road  wd-4  , 2.Thuravikkadu (R.V)  And  (P)  Nariankadu road wd-4  ,
+999.OVERSEAS  ELECTORS"
+76,177,76,,"Kalaimakal Aided  Middle  School Facing  North,  West Portion, Thuravikkadu  614628","1.Thuravikkadu (R.V)  AND  (P)  Aranthangi  peravurani mainroad,  peravurani main
+,
+999.OVERSEAS  ELECTORS"
+77,177,77,,"Kalaimakal Aided  Middle  School Facing  North,  East  Portion, Thuravikkadu  614628","1.Thuravikkadu (R.V)  AND  (P)  West Street,  kuppan street,  Attrankarai  street wd-1,
+999.OVERSEAS  ELECTORS"
+78,177,78,,"Sacred  Arokiya  Annai Hr  Sec School, North Portion,  South  Facing  , Room No 3, Punalvasal -  614628","1.Punavasal East (R.V)  Punavasal (P) Punavasal South  Street wd-1 ,  2.Punavasal East  (R.V)  AND  Punavasal  (P) Middle  street wd-1  ,  3.Punavasal East (R.V)Punavasal (P) Kovil  therul wd-1  ,
+4.Punavasal East (R.V)  Punavasal (P) North  street wd-1  , 5.Punavasal East (R.V)  Punavasal (P) Kallar  street wd-1  , 999.OVERSEAS  ELECTORS"
+79,177,79,,"Panchayat Union  Elementary  School Facing  North ,West Portion,Punalvasal 614803","1.Punalvasal East  (R.V)  AND  (P)  North  Punalvasal wd-3  , 2.Punalvasal East(R.V) Punalvasal (P) Ambalakkara street wd-3 , 3.Punalvasal East  (R.V)  Punalvasal  (P) Adithiravidar  street wd-3  , 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+80,177,80,,"Panchayat Union  Elementary  School Facing  North,East Portion,Punalvasal 614803","1.Punalvasal West (R.V)  Punalvasal (P)  Ramakrishnapuram wd-4  , 2.Punalvasal West (R.V)  Punalvasal (P)  East  punalvasal  wd-4  , 999.OVERSEAS  ELECTORS"
+81,177,81,,"Sacred  Arokiya  Annai Higher Secondary  school, South portion, West Facing  ,  punalvasal 614803","1.Punavasal West (R.V) Punavasal (P)  Pilankudieruppu East wd-2  , 2.Punavasal West (R.V) Punavasal (P)  Pilankudieruppu West  wd-2  , 3.Punavasal West (R.V) Punavasal (P)  Murugan street wd-2 , 999.OVERSEAS  ELECTORS"
+82,177,82,,"Sacred  Arokiya  Annai Hr  Sec school South  Facing  Middle Portion  Room No 1,Punalvasal-  614603","1.Punavasal East(R.V) Punavasal  (P) School street wd  2 , 2.Punavasal West (R.V) Punavasal (P)  Kurinchi nagar  wd-2  , 999.OVERSEAS  ELECTORS"
+83,177,83,,"Panchayat Union  Middle  School Facing  South  ,West Portion Meattuvayal","1.Kuruchi (R.V)  AND  (P)  Mettu vayal,  Panankadu,  Indira nagar wd-1  , 999.OVERSEAS  ELECTORS"
+84,177,84,,"Panchayat Union  Middle  School, East  portion  South  Facing  (West side building),  Kurichi  614602","1.Kuruchi (R.V)  AND  (P)  Kuruch South Street,  North  Street Jothipuram, Srinivasapuram,
+999.OVERSEAS  ELECTORS"
+85,177,85,,"Panchayat Union  Middle  School Facing  South,Middle  Portion
+,Palathali  614602","1.Palathali (R.V) AND  (P) Palathali  wd-1  , 2.Eluthanivayal (R.V) Palatthali (P)  Eluthanivayal wd-2  , 999.OVERSEAS  ELECTORS"
+86,177,86,,"Panchayat Union  Elementary  School Terraced  building  Facing  South
+,Manavayal 614602","1.Eannani  vayal (R.V)  Palathali  (P) Eannani vayal wd-1 , 2.Manavayal (R.V)  Palathali (P)  Manavayal wd-3, 999.OVERSEAS  ELECTORS"
+87,177,87,,"Panchayat Union  Elementary  School Facing  West,  North  Portion, Kalukupulikkadu 614602","1.Kalugappulikadu (R.V)  AND  (P)  Kalugappulikadu East Street wd-1  , 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+88,177,88,,"Panchayat Union  Elementary  School, East  Portion,  South  Facing  , Kalukupulikkadu 614602","1.Kalukappulikkadu (R.V)  AND  (P)  Kalukapulikkadu West Street wd-2, 999.OVERSEAS  ELECTORS"
+89,177,89,,"Panchayat Union  Elementary  School Facing  North,West  Portion Kalukupulikkadu 614602","1.Pillanguzhi  (R.V)  Kalugapulikadu (P)  Pillanguzhi wd-3  , 2.Kalugapulikadu (R.V) AND  (P) Harijna  Street Wd-3  , 3.Kalugapulikadu (R.V) AND  (P) Kumulanguzhi Wd-3  , 999.OVERSEAS  ELECTORS"
+90,177,90,,"Panchayat Union  Middle  School South  Facing,  West Portion, Pannavayal 614602","1.Pannaivayal  (R.V)  AND  (P)  North  street wd-1  , 2.Pannaivayal  (R.V)  AND  (P)  South street wd-1 , 3.Pannaivayal  (R.V)  AND  (P)  Kammayankanni street  wd-2  , 999.OVERSEAS  ELECTORS"
+91,177,91,,"Panchayat Union  Elementary  School North Facing,Pallasetthivayal Pannavayal -  Sundarrajanpuram - 614602","1.Koothadivayal  (R.V)Pannavayal (P)  Sundarrajapuram Wd-3  , 2.Koothadivayal  (R.V)  Pannaivayal  (P) Koothadivayal Wd-3  , 3.Pannaivayal  (R.V)  AND  (P)  Ambthkar  Nagar ,  Thiruvalluvarnagar  Wd-2, 999.OVERSEAS  ELECTORS"
+92,177,92,,"Panchayat Union  Elementary  School Facing  North Building,  Pallathur 614803","1.Pallathur (R.V)  AND(P) Vellalar  Street wd-1, 999.OVERSEAS  ELECTORS"
+93,177,93,,"Panchayat Union  Elementary  School Facing  East,  South  side Building, Pallathur  614803","1.Pallathur (R.V)  AND(P) Edaiyar Street wd-2, 999.OVERSEAS  ELECTORS"
+94,177,94,,"Panchayat Union  Elementary  School Facing  West,Pallathur  614803","1.Pallathur (R.V)  AND(P) Adhithiravidar  Street wd-3  , 2.Pallathur Alatikkadu (R.V) Pallathur (P)  Alatikkadu wd-4  , 999.OVERSEAS  ELECTORS"
+95,177,95,,"A.D.W Elementary  School  terraced building  Facing  West North Portion,Narandi -  614803","1.  Chokkanathapuram (R.V)  AND(P), Konar  Street wd-2 2.Chokkanathapuram (R.V) AND(P),  Adhithiravidar  street wd-2,
+3.Chokkanathapuram (R.V)  AND(P) Ambalakarar  street wd-2 999.OVERSEAS ELECTORS"
+1,177,2,,3,4
+96,177,96,,"Panchayat Union  Elementray  School, West Portion,  East  Facing  , Keelakkadu,  Chokkanathapuram 614803","1.  Chokkanathapuram (R.V)  AND(P) Mohamathiyar  street wd-3, 2.Sokkanathapuram (R.V)  AND(P) Rajamadatthal street wd-3, 3.Chokkanathapuram (R.V)  AND(P) Keezhakkadu wd-3  , 4.Chokkanathapuram (R.V)  AND(P) Parmacolony  wd-3,  999.OVERSEAS ELECTORS"
+97,177,97,,"Panchayat Union  Elementary  School, Facing  East,  North Portion, Oliramankadu -614803","1.Chokkanathapuram (R.V)  AND  (P)  Kallampatti wd-1  , 2.Chokkanathapuram (R.V)  AND  (P)  Ayathakku wd-1  , 3.Chokkanathapuram (R.V)  AND  (P)  Oliramankadu wd1 , 4.Chokkanathapuram (R.V)  AND  (P)  Kootthanmanai wd-1 , 999.OVERSEAS  ELECTORS"
+98,177,98,,"Panchayat Union  Middle  School Facing  South,Middle portion,Kollukkadu 614701","1.Kollukkadu (R.V)  AND  (P) Andivayal wd-1, 999.OVERSEAS  ELECTORS"
+99,177,99,,"Panchayat Union  Middle  School Facing  South,  Western portion,Kollukkadu 614701","1.Kollukkadu (R.V)  AND(P) Chinna  avudaiyar  kovil Kollukkadu wd-1  , 2.Kollukkadu (R.V)  AND(P) Adhithiravidar  Street wd-2  ,
+3.Kollukkadu (R.V)  AND  (P) Anthoniyarpuram wd-2, 999.OVERSEAS  ELECTORS"
+100,177,100,,"Panchayat Union  Elementary  School Facing  South,  Eastern portion,Andikadu 614723","1.Andikkadu (R.V)  AND(P) Ahamudaiyan street wd-1 , 2.Andikkadu (R.V)  AND(P) Ambalakara street wd-2, 999.OVERSEAS  ELECTORS"
+101,177,101,,"Anganwadi Centre,  South  Facing  , Andikkadu 614723","1.Andikkadu (R.V)  AND  (P)  Adhithiravidar  street wd-3  , 2.Andikkadu (R.V)  AND(P) Vellalar  street wd-1  ,  999.OVERSEAS  ELECTORS"
+102,177,102,,"Panchayat Union  Elementary  School Facing  South,  Western portion,Andikadu 614723","1.Uthayamudaiyan(R.V) Andikkadu (P)  Uthayamudaiyan  wd-3  ,  2.Andikkadu (R.V) AND(P) Adhithiravidar  colony  wd-3 ,
+3.Andikkadu (R.V)  AND(P) Adhithiravidar  street,  Nondithoppu wd-3  ,  4.Andikkadu (R.V) AND  (P)  Thirikkulam wd-3,
+999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+103,177,103,,"Panchayat Union  Elementary  School Facing  South,  Eastern Portion, Andikadu 614723","1.Maruthangavayal (R.V) Andikkadu (P) Maruthangavayal  Wd-  4  ,  2.Eattivayal (R.V) Andikkadu (P)  Eattivayal wd-4,
+999.OVERSEAS  ELECTORS"
+104,177,104,,"Panchayat Union  Elementary  School Facing  West Building, Pudhupattinam 614723","1.Puthupattinam (R.V)  AND  (P) Karaiyur Street wd-1, 999.OVERSEAS  ELECTORS"
+105,177,105,,"Panchayat Union  Elementary  School Facing  West,  South Portion  (Ennum Ezhuthum Class Room),Pudhupattinam 614723","1.Puthuppattinam (R.V)  AND(P) Mohamathiyar  Street wd-1  , 999.OVERSEAS  ELECTORS"
+106,177,106,,"Panchayat Union  Elementary  School Facing  West,North  Portion  (Ennum Ezhuthum Class Room),Pudhupattinam 614723","1.Velivayal (R.V) Puthuppattinam (P)  Velivayal wd-2  , 2.Velivayal (R.V) Puthuppattinam (P)  Velivayalkulam wd-2  , 999.OVERSEAS  ELECTORS"
+107,177,107,,"Govt Hr.sec.  School  Facing South,West Portion  ,Mallipattinam 614723","1.Sarabendirarajapattinam (R.V)  AND(P) North street wd-3 , 2.Sarabenthirarajapattinam (R.V)  AND  (P)  Kasimappar street wd-3 , 3.Sarabenthirarajapattinam (R.V)  AND  (P)  Umarpulavar street wd-3 , 4.Sarabenthirarajapattinam (R.V)  AND  (P)  Ramarkovil  street wd-3 , 5.Sarabenthirarajapattinam (R.V)  AND  (P)  Mallippattinam road wd-3  , 6.Kallivaylal  (R.V)  Sarabenthirarajapattinam (P) Kallivaylal  wd-3  , 999.OVERSEAS  ELECTORS"
+108,177,108,,"Govt Hr.sec.  School  Facing West,South  Portion ,Mallipattinam 614723","1.Sarabenthirarajapattinam (R.V)  AND  (P)  Northstreet wd-3 , 2.Sarabenthirarajapattinam (R.V)  AND  (P)  Umarpulavar street wd-3 , 999.OVERSEAS  ELECTORS"
+109,177,109,,"Govt Hr.sec.  School  Facing West,North  Portion,Mallipattinam 614723","1.Sarabenthirarajapattinam (R.V)  AND  (P)  Thippusulttan street wd-3  , 2.Sarabenthirarajapattinam (R.V)  AND  (P)  Hobi  Imam Street wd-3  , 3.Sarabenthirarajapattinam (R.V)  AND  (P)  Seethikkathi  Street wd-3  , 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+110,177,110,,"Panchayat Union  Middle  School, North Facing,  Middle  Portion  (South side  Building) Mallipattinam 614723","1.Sarabenthirarajapattinam (R.V)  AND  (P)  Ramarkovil  street wd--1  , 999.OVERSEAS  ELECTORS"
+111,177,111,,"Panchayat Union  Middle  School, West Facing  ,  (North side  Building) Mallipattinam  614723","1.Sarabenthirarajapattinam (R.V)  AND  (P)  Puthumanai street wd-1 , 2.Sarabenthirarajapattinam (R.V)  AND  (P)  Care colony  wd-1  , 3.Sarabenthirarajapattinam (R.V)  AND(P) Ambaethkar  Street  wd-2  , 4.Kallivayal (R.V) Sarabenthirarajapattinam (P)  Kallivayal  wd-2  ,
+999.OVERSEAS  ELECTORS"
+112,177,112,,"Panchayat Union  Middle  School Facing  East,  Chinnamanai  614723","1.Sarabenthirarajapattinam (R.V)  AND  (P)  Chinnamanai  wd-3  , 2.Sarabenthirarajapattinam (R.V)  AND(P) Manoracolony  wd-3  , 3.Kallivayal  (R.V)  Sarabenthirarajapattinam (P) Kallivayal wd-3  , 4.Sarabenthirarajapattinam (R.V)  AND  (P)  S.R.Pattinam wd-3  , 999.OVERSEAS  ELECTORS"
+113,177,113,,"Panchayat Union  Elementary  School Facing  East ,North Portion
+,Rendampulikadu 614723","1.Irandampulikkadu (R.V)  AND(P) Chettiyar  Street wd-1  , 2.Irandampulikkadu (R.V)  AND(P) Kattarukarai wd-1  , 3.Irandampulikkadu (R.V)  AND  (P)  Arisanacolony wd-1  , 4.Thandamaraikkadu (R.V) Rendampulikkadu (P) Velakkudi  wd-3  , 999.OVERSEAS  ELECTORS"
+114,177,114,,"Panchyat Union  Elementary  School Facing  South,West Portion,Rendampulikadu 614723","1.Irandampulikkadu (R.V)  AND  (P)  Yathavar  Street wd-1  , 2.Palliodaivayal (R.V) Rerandampulikkadu (P) Navakkollai  wd-2  , 3.Palliodavayal (R.V) Rendampulikkadu (P) Mainroad wd-2  , 4.Palliodaivayal (R.V) Rendampulikkadu (P) Nanathidal wd-2  , 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+115,177,115,,"Panchyat Union  Elementary  School Facing  East,South Portion,Rendampulikadu 614723","1.Alamathikkadu (R.V)  Rendampulikkadu (P) Alamathikkadu wd-2  , 2.Alamathikkadu (R.V)  Rendampulikkadu (P) Adhithiravidar  colony  wd-2 , 3.Alamathikkadu (R.V)  Rendampulikkadu (P) Bazaar Street wd-2  , 4.Maravanvayal (R.V) Rendampulikkadu (P) Maravanvayal  wd-2  , 5.Maravanvayal (R.V) Rendampulikkadu (P) Nepodai wd-2  , 6.Puthirivayal(R.V)  Rendampulikkadu (P) Puthiri vayal  wd-3  , 999.OVERSEAS  ELECTORS"
+116,177,116,,"Panchayat Union  Elementary  School Facing  North,East Portion,Karisavayal 614723","1.Azhagiyanayakipuram (R.V)  AND(P) Azhagiyanayakipuram,  wd-2 , 2.Eralivayal  (R.V)  Azhakiyanayakipuram (P) Eralivayal  wd-2  , 999.OVERSEAS  ELECTORS"
+117,177,117,,"Panchayat Union  Elementary  School Facing  North ,West Portion,Karisavayal 614723","1.Karisavayal (R.V) Azhakiyanayakipuram (P)  Old  Hospital  road  wd-1  , 2.Karisavayal (R.V) Azhakiyanayakipuram (P)  Pallivasal street wd-1, 999.OVERSEAS  ELECTORS"
+118,177,118,,"Panchayat Union  Elementary  School Facing  North East Portion  (All Village Anna  Marumalarchi Thitta  Building), Karisavayal  614723","1.Karisavayal (R.V) Azhakiyanayakipuram (P)  Southstreet wd-1  , 2.Karisavayal (R.V) Azhakiyanayakipuram (P)  Mushleem street wd-1 , 3.Karisavayal (R.V) Azhakiyanayakipuram (P)  Karisakulam west wd-1, 999.OVERSEAS  ELECTORS"
+119,177,119,,"Panchyath Union  Elementary  School, Facing  North East portion
+,Pukkarambai(Thillankadu)-614803","1.Pukkarambai (R.V) AND(P) Thillankadu west wd-3  , 999.OVERSEAS  ELECTORS"
+120,177,120,,"Panchyath Union  Elementary  School, North portion,  East Facing, Pukkarambai (Thillankadu)-614803","1.Pukkarambai (R.V) AND(P) Thillangkadu East wd-4,  2.Pukkarambai  (R.V)AND(P) Paduvankollai  wd-4  ,
+999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+121,177,121,,"Panchayat Union  Elementary  School Facing  East North Portion,Pukkarambai 614803","1.Pukkarambai (R.V) AND  (P) Merkudikkadu wd-2  , 2.Pukkarambai (R.V) AND(P) Pudukkudiyiruppu wd-1  , 3.Pukkarambai (R.V) AND(P) Pukkarambai  wd-1.
+999.OVERSEAS  ELECTORS"
+122,177,122,,"Panchayat Union  Elementary  School Facing  West,  Middle  Portion, Keelapoovanam 614803","1.Poovanam (R.V)  AND  (P)  West Poovanam, 999.OVERSEAS  ELECTORS"
+123,177,123,,"Panchayat Union  Elementary  School Facing  west North Portion,Keelapoovanam 614803","1.Poovanam (R.V)  AND  (P)  East Poovanam, 999.OVERSEAS  ELECTORS"
+124,177,124,,"Panchayat Union  Middle  School Facing  South  Building, Kattayangadu Ukkadai 614803","1.Madhanpattavur  (R.V)  Ottankadu (P)  Madhanpattavur  wd-4  , 999.OVERSEAS  ELECTORS"
+125,177,125,,"A.D.W Elementary  School,  Facing West Building,  South Portion,Naduvikkurichi-614803","1.Naduvikkurichi  (R.V)  Ottankadu (P) North-south  wd-2  , 999.OVERSEAS  ELECTORS"
+126,177,126,,"Panchayat Union  Middle  School (SSA) Building  Facing  North  Middle Portion ,Kattayangadu Ukkadai 614803","1.Kattayangkadu Ukkadai (R.V)  Ottankadu (P) Ambalpuram wd-1  , 2.Kattayangkadu Ukkadai (R.V)  Ottankadu (P) Kattayangkadu Ukkadai  wd-1, 999.OVERSEAS  ELECTORS"
+127,177,127,,"Panchayat Union  Elementary  School Facing  East,  North Portion, Navakkollaikadu 614803","1.Ottangkadu Ukkadai (R.V)  Ottangkadu (P) Navakkollaikadu wd-1 , 999.OVERSEAS  ELECTORS"
+128,177,128,,"Panchayat Union  Elementary  School Facing  East,Koravayalkadu 614803","1.Ottangkadu Ukkadai(R.V) Ottangkadu (P) Koravayal  kadu wd-2  , 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+129,177,129,,"Sri  Karuppaiya  Udaiyar Memoriyal Elementary  School Facing south, East  Portion,Ottangkadu - 614803","1.Ottangkadu (R.V)  AND(P) West Ottangkadu wd-1  , 999.OVERSEAS  ELECTORS"
+130,177,130,,"Sri  Karuppaiya  Udaiyar Memoriyal Elementary  School Facing south, Middle  Portion,Ottangadu -  614803","1.Ottangkadu (R.V)  AND(P) Chinna  South  Street,  mariyamman  kovil street wd-1 , 2.Ottangkadu (R.V)  AND(P) Nadumanaikkadu wd-4,
+999.OVERSEAS  ELECTORS"
+131,177,131,,"Sri  karuppaiya  udayar  memoriyal Aided  Elementary.  School  Facing south ,  west portion  Ottangadu 614803","1.Ottangkadu (R.V)  AND(P) Nallaman  punjai  wd-3  , 2.Ottangadu (R.V)  AND(P) Umacchi punjai wd-3  , 3.Ottangkadu (R.V)  AND(P) Nadumanaikkadu wd-3  , 4.Ottangkadu (R.V)  AND  (P)  Natesadevar  colony  wd-3  , 5.Ottangkadu (R.V)  AND  (P)  Bazaar street wd-3, 999.OVERSEAS  ELECTORS"
+132,177,132,,"Panchayat Union  Middle  School Facing  East,North Portion,PeriyaTherkkukadu 614803","1.Ottangkadu Ukkadai (R.V)  Ottangkadu (P) Ottangkadu Ukkadai wd-1, 999.OVERSEAS  ELECTORS"
+133,177,133,,"Panchayat Union  Middle School,Facing East,PeriyaTherkkukadu 614803","1.Ottangkadu Ukkadai (R.V)  Ottangkadu (P) Periya therku kadu wd-2  , 999.OVERSEAS  ELECTORS"
+134,177,134,,"Panchayat Union  Middle  School Facing  South  RCC  Building, Pokkanviduthi -614628","1.Thiruchitrambalam West (R.V)  Thiruchitrambalam (P)  Pokkan viduthi wd-4, 999.OVERSEAS  ELECTORS"
+135,177,135,,"Panchayat Union  Middle School,Facing  East ,  South  Portion, Pokkanviduthi 614628","1.Thiruchitrambalam West (Tp) Thiruchitrbalam (P) Pokkanviduthi south  , Kariakalan  street Chitthukadu wd-4,
+999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+136,177,136,,"Panchayat Union  Elementary  School South  Facing  west side builing,Thiruchitrambalam 614628","1.Thiruchitrambalam West (R.V)  Thiruchitrambalam (P)  Kadaiveethi wd-2  , 999.OVERSEAS  ELECTORS"
+137,177,137,,"Govt High  Sec School Facing North Eastern  Side,Thiruchitrambalam 614628","1.Thiruchitrambalam West (R.V)  Thiruchitrambalam (P)  Melakkadu wd-3  , 999.OVERSEAS  ELECTORS"
+138,177,138,,"Panchayat Union  Elementary  School Facing  East,  North Portion
+,Thiruchitrambalam 614628","1.Thiruchitrambalam East (R.V) Thiruchirambalam (P) S.V  nagar  kovil street  wd-2 (Tp)  ,
+999.OVERSEAS  ELECTORS"
+139,177,139,,"Panchayat Union  Elementary  School Facing  South,  East Portion,Thiruchittrampalam-  614628","1.Thiruchitrambalam East (R.V) Thiruchitrambalam (P) Thiruchitrambalam Eadaiyar  Street wd-1.
+999.OVERSEAS  ELECTORS"
+140,177,140,,"Panchayat Union  Elementary  School Facing  East,South Portion,Thiruchittrampalam-614628","1.Thiruchitrambalam Esat (R.V) Thiruchitrambalam (P) Valacherikkadu wd-1  , 999.OVERSEAS  ELECTORS"
+141,177,141,,"Panchayat Union  Elementary  School Facing  East,North  Portion,Kaluthur Nadangadu-614816","1.Kalathur  East (R.V)  Kalathur (P) Kalathur  wd-3,4 ,
+2.Kalathur  East (R.V)  Kalathur (P) Nadangkadu wd-5  , 999.OVERSEAS  ELECTORS"
+142,177,142,,"Panchayat Union  Elementary  School Facing  North,East Portion  ,Kaluthur West 614816","1.Kalathur  West (R.V)  Kalathur  (P) Kalathur  West wd-4, 999.OVERSEAS  ELECTORS"
+143,177,143,,"Panchayat Union  Elementary  School Facing  North,  West Portion  Kalathur West 614816","1.Kalathur  West (R.V)  Kalathur  (P) Kalathur  West wd-5, 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+144,177,144,,"Panchayat Union  Elementary  School Facing  South  ,Kalathur East 614804","1.Kalathur  East (R.V)  Kalathur (P) Pokkan  viduthi north  street,  East street, 999.OVERSEAS  ELECTORS"
+145,177,145,,"Panchayat Union  Elementary  School, North Facing,  Kaluthur  East  614804","1.Kalathur  East (R.V)  Kalathur (P) Aatthukkarai Street , 999.OVERSEAS  ELECTORS"
+146,177,146,,"Govt.  High School Facing  South, Kalathur  Sithukkadu-  614804","1.Kalathur  West (R.V)  Kalathur  (P) Pillaiyar  kovil Street wd-2  , 2.Kalatthur West (R.V)  AND  Kalathur  (P) Kanakkan Street wd-2  ,
+3.Kalathur  West (R.V)  Kalathur  (P) Aranmanai  thoppu wd-2  , 999.OVERSEAS  ELECTORS"
+147,177,147,,"Govt.  High School Facing North,Middle Portion,Kalathur Sithukkadu-  614628","1.Kalathur  (R.V)  Kalathur  (P) Muniyandi Street wd-1  ,
+2.Kalathur  (R.V)  Kalathur  (P) Kaliyammankovil  Street wd-1  ,
+3.Kalathur  (R.V)  Kalathur  (P) Pullan viduthiyan Street wd-1  , 4.Kalatthur West (R.V)  Kalatthur (P)  Mainroad wd-1  , 5.Kalatthur West (R.V)  Kalatthur (P)  Pallikuda  Street wd-1 , 999.OVERSEAS  ELECTORS"
+148,177,148,,"Panchayat Union  Elementary  School Facing  North,  West Portion,Seruvaviduthi South  614628","1.Seruvaviduthi (R.V)  AND  (P) Chettiyar Street wd-1  , 2.Seruvaviduthi South (R.V)  AND  (P) Koolaiyan Street wd-1 ,
+3.Seruvaviduthi South (R.V)  AND  (P) Chettiyar Kallar  Vellalar  Street Wd-1, 4.Krishnapuram(R.V) Seruvaviduthi South  (P)  Krishnapuram wd-1  , 999.OVERSEAS  ELECTORS"
+149,177,149,,"Panchayat Union.Elemen.school Facing  North,  East  Portion,  Muslim Theru,Avanam 614623","1.Avanam (RV) Periyanayakipuram (P),Avanam Union Poosari theru wd-4 , 2Avanam (RV) Periyanayakipuram (P),  Poosari theru road-1  wd-4  ,
+3.Avanam (RV) Periyanayakipuram (P),  Poosari theru road-2  wd-4  ,
+4.Avanam (RV) Periyanayakipuram (P),  Mariyamman kovil  road  wd-4 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+150,177,150,,"Panchayat Union.Elemen  Facing North ,West Portion, Muslimtheru Avanam 614623","1.Avanam (R.V)  Periyanayakipuram (P),Avanam wd-4 , 999.OVERSEAS  ELECTORS"
+151,177,151,,"Panchayat Union.Elementary  .school Facing  East,  South Portion,Muslimtheru Avanam 614623","1.Periyanayagipuram (R.V) AND  (P) Perianayakipuram wd-1  ,
+2.Avanam (R.V)  Periyanayagipuram (P)  Pettai wd-2 , 999.OVERSEAS  ELECTORS"
+152,177,152,,"Panchayat Union.Elementary  .school Facing  East,  North Portion,Muslimtheru Avanam 614623","1.Avanam (R.V)  Periyanayagipuram (P)  Mushleem street wd-1.2  ,
+2.Avanam (R.V)  Perianayakipuram(P) Ahamudaiyar street wd-1.2  ,
+3.  Avanam (R.V)  Periyanayagipuram (P) Adithiravidar  street wd-1.2 , 999.OVERSEAS  ELECTORS"
+153,177,153,,"Panchayat Union  Elementary  School, West Facing,  Thulukkaviduthi (South)  - 614623",1  .Periyanayagipuram (R.V)  AND  (P)  Thalukkaviduthi  south  wd-5  . 999.OVERSEAS  ELECTORS
+154,177,154,,"Panchayat Union.Elementary  School Facing  East,Akamodiyar Street Periyanayahipuram 614623","1.Perianayagipuram (R.V)  AND  (P)  Perianayakipuram wd-3  , 999.OVERSEAS  ELECTORS"
+155,177,155,,"Panchayat Union.  Middle.  school Facing  South,  Thulukkaviduthi North-614 623","1.Perianayagipuram (R.V)  (P) Thulukkaviduthi wd-5  , 999.OVERSEAS  ELECTORS"
+156,177,156,,"Govt.  Primary  School (A.D.W),  Facing West,  Kalluranikkadu 614628","1.Kalluranikkadu (R.V)  AND  (P)  Kalluranikkadu wd-1,2, 999.OVERSEAS  ELECTORS"
+157,177,157,,"A.D.(Welfare)  High.School Facing North,East portion  (10th  Class  Room
+),  Kallurnikadu 614628","1.Kalagam (RV) AND(P)  Kalagam Anaikkadu wd-2  , 999.OVERSEAS  ELECTORS"
+158,177,158,,Panchayat Union  Elementary  School Facing  East North  Portion Konnakadu-614804.,1.Kalagam (R.V)  AND  (P) Kondraikkadu wd-1 999.OVERSEAS  ELECTORS
+1,177,2,,3,4
+159,177,159,,"Panchayat Union  Elementary  School, South  Portion,  East Facing  , Konnakkadu- 614804","1  .Kalagam (R.V) AND  (P) Nadar  street wd-1, 999.OVERSEAS  ELECTORS"
+160,177,160,,"Govt.  High.  School Facing  North, West Portion,  Konraikadu 614804","1.Kalagam (R.V)  AND  (P) Kalagam Kondraikkadu wd-1
+2.Kalagam (R.V)  AND  (P) Thiruppuranikkadu wd-2 ,
+3.Kaalagam (R.V)  AND  (P)  Anjuranikkadu wd-3, 999.OVERSEAS  ELECTORS"
+161,177,161,,"Panchayat Union.Elementary  .school Facing  North,  East  Portion,Kalagam 614804","1.Kalagam (R.V)  AND(P) Kalagam Chatthiram wd-3  , 999.OVERSEAS  ELECTORS"
+162,177,162,,"Panchayat Union.Elementary.school Facing  North,  West Portion, Kalagam 614804","1.Kaalagam(R.V) AND  (P) Kaalagam Kuppam wd-4 ,
+2.Kaalagam (R.V)  AND  (P)  Kaalagam Mithiyakkudikadu wd-4 . 999.OVERSEAS  ELECTORS"
+163,177,163,,"Panchayat Union  Primary  school Facing  West,  Sivankurichi 614804","1.Palayanagaram (R.V)  AND  (P)  Seevankurichi,  Palayanagaram wd-1  , 2.Thondhupulikkadu (R.V) Palayanagaram (P) Thonthupulikkadu wd-1  , 999.OVERSEAS  ELECTORS"
+164,177,164,,"Panchayat Union.Elementary.  school Facing  North,  Thennangkudi North 614804","1.Thennangudi  (R.V)  AND  (P)  Thennankudi  wd-1  , 2.Thennangudi  (R.V)  AND  (P)  Thennankudi  wd-2, 999.OVERSEAS  ELECTORS"
+165,177,165,,"Panchayat Union.Elementary.school Facing  South  ,Nadakadu 614804","1.Mavadukurichi  (R.V)  AND  (P)  Mavadukurichi  nadakadu wd-4  , 999.OVERSEAS  ELECTORS"
+166,177,166,,"Panchayat Union  Elementary  School, West Facing  (Asbestos Sheet Building) Nadakadu  614804","1.Mavadukurichi  (R.V)  AND  (P)  Aththalur  North, 2.Mavadukurichi (R.V)  AND  (P), Keelakkadu,  3.Mavadukurichi  (R.V)  AND  (P),  Uranikkarai,
+999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+167,177,167,,"Panchayat Union  Elementary  School, North Facing  Western  side, Andikachal,    Mavadukurichi-614804`","1.Mavudkurchi  (R.V)  AND  (P)  Indira  Nagar Mavudkurchi-ward-3  , 2.Mavudkurchi  (R.V)  AND  (P)  Selvavinayakapuram Mavudkurchi-ward-4 , 999.OVERSEAS  ELECTORS"
+168,177,168,,"Panchayat Union.Elementary  .school Facing  south,  West Portion, Thennangkudi Ukkadai 614804","1.Mavudkurchi  (R.V)  AND  (P)  Thennangkudi  ukkadai Mavudkurchi-ward-6 2.Mavudkurchi  (R.V)  AND  (P)  Uranikarai Keelakadu Mavudkurchi-ward-6, 999.OVERSEAS  ELECTORS"
+169,177,169,,"Panchayat Union.Elemen.school Facing  North,  Mavadu Kurichi West-614804","1.Mavadukurichi  (R.V)  AND  (P)  Mavadukurichi  West street wd-4  , 999.OVERSEAS  ELECTORS"
+170,177,170,,"Panchayat Union.Elemen.school Facing  East,South Portion  New Building,  Ammaiyandi 614623","1.Ammaiyandi (R.V)  AND  (P)  Ammaiyandi wd-2  , 2.Ammaiyandi (R.V)  AND  (P)  Ammaiyandi wd-3  , 999.OVERSEAS  ELECTORS"
+171,177,171,,"Panchayat Union  Elementary  School Facing  East North  Portion  New Building,  Ammaiyandi 614623","1.Ammaiyandi (R.V)  AND  (P)  Ammaiyandi wd-1  , 999.OVERSEAS  ELECTORS"
+172,177,172,,"Govt High  School Facing,East South portion ,Enathikarambai -614623","1.Panchanathipuram (R.V)  Ammaiyandi  (P) Panchanathipuram wd-3  , 2.Anathikarambai (R.V)  Ammaiyandi (P)  Anathikarambai,  Udaiyar street wd-4 , 999.OVERSEAS  ELECTORS"
+173,177,173,,"Govt High  School Facing,East North portion,Enathikarambai 614623","1.Anathikarambai (R.V)  Ammaiyandi (P)  Anathikarambai wd-5  , 999.OVERSEAS  ELECTORS"
+174,177,174,,"Govt High  School Facing  North,West Portion,Paingkal  614623","1.Paingkal (R.V) AND  (P) Paingkal (East) wd-1 ,
+2.Paingkal (R.V) AND  (P) Paingkal (West) wd-2  , 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+175,177,175,,"Panchayat Union  Elementary  School Facing  North Building,  Sanakarai 614623","1.Sanakarai (R.V)  AND  Paingkal (P)  Sanakarai  wd-3, 999.OVERSEAS  ELECTORS"
+176,177,176,,"Panchayat Union  Elementary  School, Facing  North Building,  Andakkottai-614623","1.Andakkottai (R.V)  AND  Paingkal (P)  Andakkottai  wd-2, 999.OVERSEAS  ELECTORS"
+177,177,177,,"Panchayat Union  Elementary  School, Facing  East,  Sengamangalam 614804","1.Sengamangalam (R.V)  AND  (P)  Sengamangalam West street,  North street wd-1 2.Sengamangalam(  R.V)  AND  (P)  Koviltheru ,  Northstreet wd-2 , 3.Sengamangalam (R.V)  AND  (P)  East street wd-3,
+999.OVERSEAS  ELECTORS"
+178,177,178,,"Panchayat Union  Elementary  School Facing  West Middile Portion,Sengamangalam 614804","1.Sengamangalam (R.V)  AND  (P)  Sengamangalam South  street wd-1 , 2.Sengamangalam (R.V)  AND  (P)  North  street wd-2  ,
+3.Renganayagipuram(R.V) Sengamangalam (P) East street,  Renganayagipuram wd-3  ,
+999.OVERSEAS  ELECTORS"
+179,177,179,,"Govt Boys Hr.sec.  School Facing West,  North  Portion,  Peravurani 614804","1.Peravurani (TP) Azhakappa  theru wd-4  , 2.Peravurani (TP) Keezha  veethi wd-4  , 3.Peravurani (TP) Chinnaiya  theru wd-4  , 4.Peravurani (TP) South  street wd-4 , 5.Peravurani (TP) Kottavayal North  Street wd-4 , 6.Peravurani (TP) Kottavayal south Street wd-4  , 7.Peravurani (TP) Pallivasal road  wd-4  , 8.Peravurani (TP) Mainroad Highshool road wd-4 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+180,177,180,,"Govt Girls Hr.sec.  School Facing South  Terraced  Building,  West Portion,  Peravurani 614804","1.Peravurani (TP) Aavudaiyar  Kovil Road Wd-13  , 2.Peravurani (TP) Shanmugam  Street wd-13  , 3.Peravurani (TP) Veerappan  Street wd-13  , 4.Peravurani (TP) Railway  lain  East street wd-6 999.OVERSEAS  ELECTORS"
+181,177,181,,"Govt Girls Hr.sec.  School Facing South  Terraced  Building,  Eastern Portion,  Peravurani 614804","1.Peravurani (TP) Nattanikkottai  sukkiravarakkattalai mainroad  wd-2  , 999.OVERSEAS  ELECTORS"
+182,177,182,,"Govt Girls Hr.sec.  School Facing West,Middle Portion Room No-6,Peravurani -  614804","1.Peravurani (TP) KK Nagar  wd-3  , 2.Peravurani (TP)Kuravar  Colony  wd-5, 3.Peravurani (TP) Sethu Road  wd-3 999.OVERSEAS  ELECTORS"
+183,177,183,,"Govt Girls Hr.sec.  School Facing West,Middle Portion Room No-7,Peravurani 614804","1.Peravurani (TP)1.Peravurani (TP) Panthakulam wd-3 , 2.Peravurani (TP)MGR Nagar  wd-5,
+3.Peravurani (TP) Anna Nagar wd-5 999.OVERSEAS  ELECTORS"
+184,177,184,,"Government Girls  Higher secondary School,  Middle  Portion, West  Facing , Room No.8,  Peravurani 614804","1.Peravurani (TP) Ananthavalli  Puram Vaikkal Theru wd-6  , 2.Peravurani (TP) Keelath  theru wd-6  ,
+3.Peravurani (TP) Neelakandan 2nd street wd-6 999.OVERSEAS  ELECTORS"
+185,177,185,,"Govt Girls Hr.sec.  School Facing South,  West Portion,  Peravurani 614804","1.Peravurani (TP) Railway  lain  West Street wd-14  , 2.Peravurani (TP) Neelakandapillaiyarkovil Street wd-14  , 3.Peravurani (TP) Ambethkar road wd-14,
+4.Peravurani (TP) Chinnathambiroad wd-14  , 5.Peravurani (TP) Neelakandan Street wd-14 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+186,177,186,,"Panchayat Union  Middle School,(Nattanikkottai  North)  Facing North,West  Portion  ,Peravurani 614804",1.Peravurani (TP) Muthu Aalagappa  Road  wd-13 999.OVERSEAS  ELECTORS
+187,177,187,,"Panchayat Union  Middle School,(Nattanikkottai  North)  Facing North,East Portion  ,Peravurani 614804",1.Peravurani (TP)Nattanikottai north  street wd-12 999.OVERSEAS  ELECTORS
+188,177,188,,"St.Annal Aided  Elementary  Schooll Facing  North,  West Portion, Athanaur 614804","1.Peravurani (TP) Adhanoor  south  street wd-18  , 2.Peravurani (TP) Adhanoor  north  wd-18 ,
+3.Peravurani (TP) kooopulikkadu appunathan theru wd-16  , 4.Peravurani (TP) Kooppulikkadu,Veemathal Street wd-16  , 5.Peravurani (TP) Kooppulikkadu West Street wd-16 999.OVERSEAS  ELECTORS"
+189,177,189,,"St.Annal Aided  Elementary  Schooll Facing  North,  East  Portion,  Athanoor 614804","1.Peravurani (TP) Karuppamanai  mainroad ,  R,C,Church  road  Wd-17 999.OVERSEAS  ELECTORS"
+190,177,190,,"St Annal Aided  Elementary  School, South  Portion,  West  Facing, Athanoor  614804","1.Peravurani (TP) S.P.G.Surch  road wd-11  ,
+2.Peravurani (TP) Rengan  Street wd-11  ,  3.Peravurani (TP)  Admanathan  Street wd-11  ,
+4.  Peravurani (TP) Veeramathal StreeT  wd-11 . 999.OVERSEAS  ELECTORS"
+191,177,191,,"Anganwadi Building  Facing West,Peravurani West 614804","1.Peravurani (TP) Peravurani South  street wd-16  , 2.Peravurani (TP) Peravurani West street  wd  -16  , 999.OVERSEAS  ELECTORS"
+192,177,192,,"Panchayat Union  Elementary  School, West Portion,  North Facing, Peravurani West 614804","1.Peravurani (TP) Kooppulikkadu East  wd-16  ,  2.Peravurani (TP)Kooppulikkadu West wd-16  ,
+3.Peravurani (TP) Mutappulikkadu wd-16  , 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+193,177,193,,"Block Resource  Center  (BRC) Facing West Middle Portion,Peravurani  West 614804","1.Peravurani (TP) Peravurani Agraharm,Kamarajar  Street Theppakula Street,Kamarajar  Street Wd-15 ,
+2.Peravurani (TP) Kamarajar  Street wd-15 , 3.Peravurani (TP) Teppakkula  Streetwd-15, 4.Peravurani (TP) Thiruvengatam street wd-15  , 5.Peravurani (TP) Kaliyammankovil  Street wd-15 999.OVERSEAS  ELECTORS"
+194,177,194,,"Panchayat Union  Elementary  school Facing  North,Tiled Building,Peravurani East-  614804","1.Peravurani (TP) Mutappulikkadu pudu road wd-11  , 999.OVERSEAS  ELECTORS"
+195,177,195,,"Panchayat Union  Elementary  school, North Facing  (East Building), Peravurani East 614804",1.Peravurani (TP) Mainroad kadai theru wd-11 999.OVERSEAS  ELECTORS
+196,177,196,,"Panchayat Union  Elementary  school Facing  South,Tiled  Building, Peravurani East - 614804",1.Peravurani (TP) Avanam mainroad wd-10 999.OVERSEAS  ELECTORS
+197,177,197,,"Panchayat Union.  Middle School Facing  North,  Western  side PonnangkanniKadu 614804","1.Peravurani (TP) Hospittal road wd-2  , 2.Peravurani (TP) Mavadu kurichi road wd-1 999.OVERSEAS  ELECTORS"
+198,177,198,,"Panchayat Union.Middle  School Facing  North,Middle Portion, Ponnangkkannikadu 614804","1.Peravurani (TP) Chithambaram road  wd-1  , 999.OVERSEAS  ELECTORS"
+199,177,199,,"Panchayat Union  Middle  School, East  Portion  North  Facing  , Ponnankkannikadu-  614804","1.Peravurani (TP) Devadoss road  wd-2 ,  2.Peravurani (TP) Anandavallipuram vaikkal  theru wd-7  999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+200,177,200,,"Panchayat Union.Middle  School Facing  East,  North Portion New Terraced Building,Ponnankkannikadu 614804","1.Peravurani (TP) Anathavallipuram Vaikkal Theru ward  7,9 999.OVERSEAS  ELECTORS"
+201,177,201,,"Panchayat Union.Middle  School Facing  East,  South  Portion New Terraced Building,Ponnankkannikadu 614804","1.Peravurani (TP) Ayyanarkovil theru wd-8  , 2.Peravurani (TP) Manikkatti Street wd-8 ,
+3.Peravurani (TP) Veeramma  Kaliyammankovil road  wd-8 999.OVERSEAS  ELECTORS"
+202,177,202,,"Panchayat Union.Elemen.school Facing  West North  Portion, Pinnavasal 614804","1.Pinnavasal  (R.V)  AND  (P)  Pinnavasal North  pudhukudiyiruppu wd-2 2.Pinnavasal  (R.V)  AND  (P)  Pinnavasal South wd-3,
+999.OVERSEAS  ELECTORS"
+203,177,203,,"Panchayat Union.  Elemen.  School Facing  West,South  Portion, Pinnavasal 614804","1.Pinnavasal  (R.V)  AND  (P)  Pinnavasal North  wd-1  , 999.OVERSEAS  ELECTORS"
+204,177,204,,"Panchayat Union.elemen.school Facing  East,Sitthaikadu 614804","1.Chitthikadu (R.V) AND  Pinnavasal  (P) Chitthikkadu south  wd-4  , 2.Chitthathikkadu (R.V)  AND  Pinnavasal (P) Chitthathikkadu Middle Street wd-4 ,
+3.  Chittathikkadu (R.V) AND  Pinnavasal  (P) Aranthankisalai south wd-4 4.Chittathikadu (R.V)  AND  Pinnavasal (P) Aranthankisalai north  wd-4  , 5.Chittathikadu (R.V)  AND  Pinnavasal (P) Keeramnagalam salai wd-4 , 6.Chittathikkadu (R.V)  AND  Pinnavasal (P) Peravurani  salai  wd-4  , 7.Chittathikkadu (R.V)  AND  Pinnavasal (P) Muneeshwarar  nagar  wd-4  , 999.OVERSEAS  ELECTORS"
+205,177,205,,"Govt High  School Facing  South Building,  East  Portion,  Sornakkadu 614804","1.Sornakkadu (R.V)  AND  (P)  Sornakkadu wd-1, 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+206,177,206,,"Panchayat Union  Elementary  School, Facing  West Building,  Pattathurani-614804","1.Sornakkadu (R.V)  AND  (P)  Pattatathurani  wd-2, 999.OVERSEAS  ELECTORS"
+207,177,207,,"Panchayat Union.Elemen.  School Facing  North,Padappanarvayal 614804","1.Padappanar vayal  (R.V) AND  Sornakkadu (P)  Padappanarvayal wd-2  , 2.Padappanar vayal  (R.V) AND  Sornakkadu (P)  Chinna  padappanarvayal  wd-2  , 999.OVERSEAS  ELECTORS"
+208,177,208,,"Panchayat Union.elemen.school Facing  North,  Valppiramankadu 614804","1.Valapiramankadu (R.V)  AND  (P)  Valapiramankadu wd-1  , 999.OVERSEAS  ELECTORS"
+209,177,209,,"Panchayat Union.elemen.school Facing  South  Terraced Building, Pananchery -614804","1.Panancheri  (R.V)  AND  Valapiramankadu (P) Panancheri wd-2  , 999.OVERSEAS  ELECTORS"
+210,177,210,,"Panchayat Union  Elementary  School Facing  South  Building,  West Portion, Veerakkudi-614802","1.Manakkadu (R.V) AND  (P) Nelliyadikkadu wd-1  , 999.OVERSEAS  ELECTORS"
+211,177,211,,"Anganwadi Building,  South Portion, East  Facing  Veerakkudi-614802","1.Manakkadu (  R.V)  AND(P) Pankirankollai wd-2,  2.Manakkadu ( R.V)  AND(P) Nelliyadikkadu wd-3  ,  999.OVERSEAS  ELECTORS"
+212,177,212,,"Govt Higher  Sec  School  Facing  East, North Portion  Manakkadu -614612","1.Veerakkud  (R.V) Manakkadu  (P) Veerakkudi wd-2  , 999.OVERSEAS  ELECTORS"
+213,177,213,,"Panchayat Union  Elementary  School, Facing  North Building, Melamanakkadu-614802","1.Manakkadu (P)  Manakkadu wd-3 , 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+214,177,214,,"Panchayat Union.  Middle.  school Facing  East,Rettavayal 614612","1.Rettavayal Ukkadai(R.V)  Rettavayal (P)  Manakkadu road  wd-1  , 2.Rettavayal Ukkadai  (R.V)  Rettavayal (P)  Aranthangiroad  west wd-1  ,
+3.Rettavayal Ukkadai  (R.V)  Rettavayal (P)  Aranthangiroad  south ,Peravurani road west Wd-1  ,
+4.Rettavayal Ukkadai  (R.V)  Rettavayal (P)  Peravurani road  east  kudiyiruppu Road Wd-1 ,
+5.Rettavayal (R.V) Rettavayal (P) Peravurani road east kudiyiruppu Wd-1 6.Rettavayal Ukkadai  (R.V)  Rettavayal (P)  V.A.O  Office-  southsaide wd-1  , 7.Rettavayal Ukkadai  (R.V)  Rettavayal (P)  Mariyammankovil paguthi  wd-1  , 8.Rettavayal Ukkadai  (R.V)  Rettavayal (P)  Pllikoodapaguthi wd-1  , 9.Rettavayal Ukkadai (R.V)  Rettavayal (P)  North  road  north  wd-1  ,
+10.Rettavayal  Ukkadai (R.V)  Rettavayal (P) East road,  east wd-1  , 11.Rettavayal  Ukkadai (R.V)  Rettavayal (P) Vellangaduroad east wd-1  , 999.OVERSEAS  ELECTORS"
+215,177,215,,"Panchayat Union.  Middle.school Facing  West,  Middle Portion,Rettavayal 614612","1.Rettavayal Ukkadai  R.V) Rettavayal (P)  Chinnarettavayal wd-1 , 2.Rettavayal Ukkadai  (R.V)  Rettavayal (P)  Adhithiravidarkudieruppu wd-1  , 999.OVERSEAS  ELECTORS"
+216,177,216,,"Panchayat Union  Elementary  School Facing  South  Building,Koratoor 614804","1.Korattoor  Ukkadai (R.V)  Kazhanivasal (P)  Korattoor  jameen  mainroadoram,  Pera
+-  Road  wd-3  ,
+2.korattoor  Ukkadai (R.V)  Kazhanivasal (P)  korattoor  mainroad,  mariyammankovil wd-3  ,
+3.Koratur Ukkadai (R.V) Kazhanivasal (P) Pallikodam west wd-3  ,
+4.Koratur Ukkadai (R.V) Kazhanivasal (P) Nadukudiyruppu wd-3  ,
+5.Koratur Ukkadai (R.V) Kazhanivasal (P) Keelakudiyruppu wd-3  ,
+6.Koratur Ukkadai (R.V) Kazhanivasal (P) Adhithiravidar  street wd-3 ,
+7.Koratur (R.V) Kazhanivasal (P) Adithiravidar  East wd-3  , 8.P.K.Kottai  (R.V)  Kazhanivasal (P)  P.K.Kottai  south  wd-3 ,
+9.Koratur Ukkadai (R.V) Kazhanivasal (P) Nadukudiyruppu wd-3  ,
+10.Koratur Ukkadai (R.V)  Kazhanivasal (P) Mainroad  west wd-3 , 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+217,177,217,,"Panchayat Union  Elementary  school Facing  North,  East  Portion, Periyakathikottai 614802","1.Periyakatthikkottai  (R.V)  Umatthanadu (P)  Periyakatthikkottai wd-6  , 999.OVERSEAS  ELECTORS"
+218,177,218,,"Panchayat Union.middle  School Facing  West,Kazhanivasal 614804","1.Kazhanivasal (R.V) AND  (P) Kazhanivasal wd-1  , 999.OVERSEAS  ELECTORS"
+219,177,219,,"Panchayat Union  Middle  School East Facing  ,(Cluster  Resource  Centre-CRC)  Kazhanivasal 614804","1.Kazhanivasal (R.V) AND  (P) Kazhanivasal wd-2  ,
+2.Kazhanivasal (R.V) AND  (P) Kazhanivasal wd-3  ,  999.OVERSEAS  ELECTORS"
+220,177,220,,"Panchayat Union.middle  School Facing  East,South Portion
+,Kazhanivasal 614804","1.Kazhanivasal (R.V) AND  (P) Kazhanivasal wd-2  , 999.OVERSEAS  ELECTORS"
+221,177,221,,"Panchayat Union.  Middle School Facing  West,  Middle  Portion, Mudachikadu 614804","1.Mudachikkadu (R.V)  AND(P) Mudachikkadu wd-1, 999.OVERSEAS  ELECTORS"
+222,177,222,,"Panchayat Union.middle  School Fasing  West,  South Portion, Mudachikadu 614804","1.Mudachikkadu (R.V)  AND  (P) Mudachikkadu wd-2  , 999.OVERSEAS  ELECTORS"
+223,177,223,,"Panchayat Union  Elementary  School, Facing  West,  Kazhanikottai 614804","1.Mudachikkadu (R.V)  AND  (P) Mudachikkadu wd-1  , 999.OVERSEAS  ELECTORS"
+224,177,224,,"Anganwadi Building  North Facing, Mudachikkadu -  614804","1.Mudachikkadu (R.V)  AND  (P) Pookkollai,  Mudachikkadu wd-1 , 999.OVERSEAS  ELECTORS"
+225,177,225,,"Panchayat Union.Elementary.  School Facing  South,Vatthalaikadu 614804","1.Vatthalaikkadu (R.V)  AND  (P)  Vatthalaikkadukkadu wd-1 , 999.OVERSEAS  ELECTORS"
+226,177,226,,"Panchayat Union.Elementary  .School Facing  East,Pookkollai  614804","1.Ponnaikutthikadu (R.V)  Vatthalaikkadu (P) Poonaikutthikkadu wd-2  , 2.Regunathapuram (R.V)  Vatthalaikkadu (P) Regunathapuram wd-3 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+227,177,227,,"Panchayat Union.Elementary  .school Facing  South,Kallangkadu 614802.","1.Kuruvikkarambai  (R.V) AND  (P)  Periya  kallankadu chinnakallankadu wd-1 , 999.OVERSEAS  ELECTORS"
+228,177,228,,"Panchayat Union  Elementary  School, Facing  North,  Western  side, Nadakadu.614802","1.Kuruvikkarambai  (R.V) AND  (P)  Nadakadu wd-1, 999.OVERSEAS  ELECTORS"
+229,177,229,,"Panchayat Union.Elementary.school Facing  South  East portion,Kurvikarambai 614802","1.Kuruvikkarambai  (R.V) AND  (P)  Kuruvikkarambai wd-3,4  , 999.OVERSEAS  ELECTORS"
+230,177,230,,"Block Educational Office,  Facing North,  East  Portion  ,Kurvikarambai 614802.","1.Kuruvikkarambai  (R.V) AND  (P)  Kuruvikkarambai wd-3,4  , 999.OVERSEAS  ELECTORS"
+231,177,231,,"Govt Hr.sec.  School  Facing  North Middle  Portion, Munumakkadu - 614802","1.Kuruvikkarambai  (R.V) AND  (P)  Munumakkadu wd-2  , 999.OVERSEAS  ELECTORS"
+232,177,232,,"Panchayat Union.ele.school Facing East,  Kuravankollai  614802","1.Kuruvikkarambai  (R.V) AND  (P)  Kanjirangkadu kalkulam wd-1.2  , 999.OVERSEAS  ELECTORS"
+233,177,233,,"Panchayat Union  Middle  School, Facing  South,  East Portion, Omavayal 614802","1.Kenganathapuram (R.V)  AND  (P)  Vilakkuvettikkadu,Kollangkarambai,Omavayal wd-1  ,
+2.Kottaikkadu (R.V)  Kenganathapuram (P) Kottaikkadu wd-3  , 999.OVERSEAS  ELECTORS"
+234,177,234,,"Panchayat Union  Middle  School, Facing  South,  West Portion, Omavayal 614802","1.Palacherikkadu (R.V) Kenganathapuram (P) Palacherikkadu,Kundamaraikkadu wd-4  ,
+999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+235,177,235,,"Panchayat Union  Elementary  School, Facing  South,  East Portion, Karampakadu 614802","1.Karambakkadu (R.V) AND  (P) Karambakkadu wd-1  , 2.Karambakkadu (R.V) AND  (P) Karambakkadu wd-2  , 999.OVERSEAS  ELECTORS"
+236,177,236,,"Panchayat Union.Elemen.  School Facing  North,  Serubalakkadu 614803","1.Serubalakkadu (R.V)  AND  (P)  Serupalakkadu North  street wd-1  , 999.OVERSEAS  ELECTORS"
+237,177,237,,"Panchayat Union  Elementary  School, South  Portion,  East Facing  , Serubalakkadu 614803","1.Serubalakkadu (R.V)  AND  (P)  Serupalakkadu South  street wd-2  , 999.OVERSEAS  ELECTORS"
+238,177,238,,Panchayat Union  Elementary  School Facing  West Santhampettai 614802,"1.Marungapallam (R.V)  AND  (P)  Udaiyakkadu wd-3 , 2.Santhampettai  (R.V)  Marungapallam (P) Santhampettai wd-3-4, 999.OVERSEAS  ELECTORS"
+239,177,239,,"Govt High  School,  Middle  Portion, East  Facing  ,  Nadiyam 614802","1.Nadiyam (R.V) AND  (P) Nadiyam West Street wd-1  ,
+2.Nadiyam (R.V)AND  (P)  Thandamaraikkadu wd-1 , 999.OVERSEAS  ELECTORS"
+240,177,240,,"Panchayat Union.Elementary.school Facing  West,  Nadiyam 614802","1.Nadiyam (R.V) AND  (P) Arisanavelimadam kottai kudieruppu  wd-2  , 2.Nadiyam (R.V) AND  (P)  Nanathidal  Pannaiyadi  wd-2  ,
+999.OVERSEAS  ELECTORS"
+241,177,241,,"Panchayat Union.Ele.school  Facing South,  West Portion, Sethubhavachathiram 614802","1.Sethubava Chatthiram (R.V)  AND(P) Sivan  kovil street ,Sethubava  Chatthiram wd-3  ,
+2.Sethubava Chatthiram (R.V)  AND(P) West street,Sethubava Chatthiram wd-3  , 3.Sethubava Chatthiram (R.V)  AND(P) Yathavar  street,Sethubava  Chatthiram wd-2
+999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+242,177,242,,"Panchayat Union.Ele.school  Facing North,Middle Portion,Sethubhavachathiram 614802","1.Sethubava Chatthiram (R.V)  AND(P) Pallivasal Street,Sethubava  Chatthiram wd-1  ,
+2.Sethubava Chatthiram (R.V)  AND(P) Kadarkarai street,panankutti thoppu,street,Sethubava  Chatthiram wd-1  ,
+3.Sethubava Chatthiram (R.V)  AND(P) Meenavar colony,Sethubava  Chatthiram wd 2  ,
+999.OVERSEAS  ELECTORS"
+243,177,243,,"Panchayat Union  Middle  School Facing  South,  West Portion,Marakkavalsai -  Kodivayal - 614802","1.Markkavalasai  (R.V)  AND  (P)  Markkavalasai  wd-2  , 999.OVERSEAS  ELECTORS"
+244,177,244,,"Panchayat Union  Middle  School, North Portion,  West Facing  , Kodivayal  -  Marakkavalasai-  614802","1.Markkavalasai  (R.V)  AND  (P)  Kazhamangkuda  wd-3 ,  999.OVERSEAS ELECTORS"
+245,177,245,,"Panchayat Union  Middle  School, West Portion,  North Facing, Kodivayal  -  Marakkavalasai-  614802","1.Kodivayal  (R.V)  Markkavalasai  (P) Kodivayal wd-2  ,
+2.Markkavalasai  (R.V)  AND  (P)  Karangkuda,  kazhumanguda  puthutheru wd-3, 999.OVERSEAS  ELECTORS"
+246,177,246,,"Panchayat Union.Middle.School Facing  North West  Portion, Marungapallam 614802","1.Marungapallam (R.V)  AND  (P)  Marungapallam Melakkadu wd-1  , 999.OVERSEAS  ELECTORS"
+247,177,247,,"Panchayat Union.  Middle.School Facing  West Middle Portion,Marungapallam 614802","1.Marungapallam (R.V)  AND  (P)  Keezha  kadu Udaiyakkadu kollukkadu wd-2, 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+248,177,248,,"Panchayat Union  Elementary SChool,  Facing  North, Regunayakipuram 614804","1.Regunayagipuram (R.V) Markkavalasai (P) Regunayagipuram wd-1  ,
+2.Duraiyur  (R.V)  Markkavalasai  (P) Duraiyur wd-1  , 3.Nayakatthivayal  (R.V)  Markkavalasai  (P) Nayakatthivayal wd-1  , 999.OVERSEAS  ELECTORS"
+249,177,249,,"Panchayat Union.Ele.  School Facing South,  East Portion,  Veeriyankottai 614802","1.Veeriyankottai (R.V) AND  (P)  Veeriyankottai wd  1, 999.OVERSEAS  ELECTORS"
+250,177,250,,"Panchayat Union.Ele.  School Facing South,  West Portion,  Veeriyankottai 614802","1.Veeriyankottai (R.V) AND  (P)  Veeriyankottai wd  2  , 999.OVERSEAS  ELECTORS"
+251,177,251,,"Panchayat Union.Elemen.school Facing  West,  North  Portion, Kaivinivayal 614802","1.Kaivinivayal  (R.V) Umatthanadu (P)  Kaivinivayal wd-7  , 999.OVERSEAS  ELECTORS"
+252,177,252,,"Panchayat Union  Middle  School, Facing  West,  Middle  Portion, Omathanadu 614802","1.Umatthanadu (R.V) AND  (P) Umatthanadu wd-1 , 2.Umatthanadu (R.V) AND  (P) Umatthanadu wd-2 , 3.Umatthanadu (R.V) AND  (P) Kuppadevan valasai  wd-3  , 4.Umatthanadu (R.V) AND  (P) Kuppadevanvalasai wd  3  , 999.OVERSEAS  ELECTORS"
+253,177,253,,"Panchayat Union  Middle  School, Facing  West,  North  Portion, Omathanadu 614802","1.Umatthanadu (R.V) AND  (P) Umatthanadu wd-1 , 2.Umatthanadu (R.V) AND  (P) Umatthanadu wd-2 , 3.Umatthanadu (R.V) AND  (P) Umatthanadu wd-3 ,
+4.Pethanatchi vayal (R.V)  Umatthanadu (R.V) (P)  Petthanatchi  vayal wd-8, 999.OVERSEAS  ELECTORS"
+254,177,254,,"Govt High  School,  Facing  South, West Portion,  Udaiyanadu -614802","1.Umathanadu (R.V)  AND  (pt) Oomathanadu kallukkadai theru wd-4, 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+255,177,255,,"Govt High  School,  West Portion, North Facing  ,  Udaiyanadu -614802","1.Umathanadu (R.V)  AND  (pt) Oomathanadu West  Street  wd-4,  999.OVERSEAS ELECTORS"
+256,177,256,,"Govt High  School Facing  North  East Portion,  Udaiyanadu 614802","1.Umatthanadu (R.V) AND  (Pt) Pallikooda  theru wd-5  , 999.OVERSEAS  ELECTORS"
+257,177,257,,"Panchayat Union.middle.school Facing  West,  North  Portion, Sambaipattianm 614802","1.Ravutthanvayal  (R.V)  AND  (P)  Ravutthanvayal Wd-1.2 , 2.Maravanvayal (R.V) Ravutthanvayal (P) Maravanvayal wd-1.2  , 3.Ravutthanvayal  (P) Villunivayal  wd-1.2 ,
+999.OVERSEAS  ELECTORS"
+258,177,258,,Panchayat Union  Elementary  School Facing  East Ammanichathiram 614802,"1.Vilangkulam (R.V)  AND  (P)  Ammanichatthiram maruthippattinam wd-4  , 999.OVERSEAS  ELECTORS"
+259,177,259,,"Panchayat Union  Elementary  School, Facing  East South Portion Adikkathevan 614802","1.Adaikkatheavan  (R.V)  AND  (P)  Adaikkadeavan wd-1 , 999.OVERSEAS  ELECTORS"
+260,177,260,,"Panchayat Union  Elementary  School, Facing  West,North  Portion Senthalaivayal -614802","1.Senthalaivayal (R.V) AND  (P)  West street,  Melankollai Senthalaivayal wd-2  , 2.Senthalaivayal (R.V) AND  (P)  South street Senthalaivayal  wd-5,6, 999.OVERSEAS  ELECTORS"
+261,177,261,,"Panchayat Union  Elementary  School, Facing  North,  Miiddle  Portion Senthalaivayal- 614802","1.Senthalaivayal (R.V) AND  (P)  North  Street Senthalaivayal wd-3  ,4  , 2.Senthalaivayal (R.V) AND  (P)  ECR Road  west side Street Senthalaivayal wd-1. 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+262,177,262,,"Govt High  School Facing  South,  East Portion,  Vilangulam 614802","1.Vilangkulam (R.V)  AND  (P)  Vilangkulam wd-1  Devar  kudiyiruppu wd-1  , 2.Vilangkulam (R.V)  AND  (P)  Adhithiravidar  kudiyruppu wd-2  , 3.Vilangkulam (R.V)  AND  (P)  Vilangkulam North  Christian  kudiyruppu wd-3, 999.OVERSEAS  ELECTORS"
+263,177,263,,"Panchayat Union.Elementary  .school Facing  South,Vellalangkadu 614612","1.Ruthrasinthamani (R.V) AND  (P) Ruthrasinthamani wd-1  , 999.OVERSEAS  ELECTORS"
+264,177,264,,"Panchayat Union.Elementary.  School Facing  South,Pazhukkadu 614612","1.Ruthrasinthamani (R.V) AND  (P) Ruthrasinthamani wd-2  , 999.OVERSEAS  ELECTORS"
+265,177,265,,"Panchayat Union.Elementary.school Facing  South,Kolakkudi  -614805","1.Kulakkudi (R.V)  AND  (P)  Kulakkudi wd-1 , 999.OVERSEAS  ELECTORS"
+266,177,266,,"Panchayat Union.Elementary  .school Facing  South,  East Portion, Poolangkollai  614612","1.Poolankollai (R.V)  Kolakkudi  (P) Poolankollai panangkulam wd-2  , 999.OVERSEAS  ELECTORS"
+267,177,267,,"Panchayat Union  Elementary  School, Facing  East,  North Portion, Mudukadu 614612","1.Mudhukadu-Keezha  kudi  irupu, 2.Mudhukadu-Colony, 999.OVERSEAS  ELECTORS"
+268,177,268,,"Panchayat Union  Elementary  School, Facing  North,  Middle  Portion (English  Smart Class Building  ) Mudukadu -  614612",1.Mudhukadu-Mela  kudi irupu. 999.OVERSEAS  ELECTORS
+269,177,269,,"Panchayat Union  Elementary  School, Facing  East,  South  Portion, Mudukadu 614612","1.Avadaiyanikkottai (R.V)  Mudhukadu (P)  Avadaiyanikkottai wd-3  , 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+270,177,270,,"Panchayat Union  Middle  School Facing  North,  West Portion,Kalyanaramanathapuram-614612","1.Perumagaloor (TP) Nehru nagar wd-11  , 2.Perumagaloor (TP) Kennady  nagar  wd-10 999.OVERSEAS  ELECTORS"
+271,177,271,,"Panchayat Union  Middle  School Facing  North,  East Portion,Kalyanaramanathapuram-614612","1.Perumagalur (TP) Bharathi  nagar  Wd-10 , 2.Perumagaloor (TP) Viveganantha nagar wd-9 999.OVERSEAS  ELECTORS"
+272,177,272,,"Panchayat Union  Elementary  School, Facing  West Building,  North Portion,Thurankudi-614612","1.Perumagaloor (TP) Annanagar  wd-11  , 2.Perumagaloor (TP) E.V.R.  Nagar  wd-10 , 3.Perumagaloor (TP) Thiru Ve.  Ka.  Nagar  wd-10 999.OVERSEAS  ELECTORS"
+273,177,273,,Panchayat Union  Elementary  School Facing  South  AdiyaKudi  -614612,"1.Perumagaloor (TP) Valluvar  nagar  wd-12, 2.Perumagaloor (TP) Gandhi nagar wd-8 , 3.Perumagaloor (TP) Kamaraj nagar  wd-8 999.OVERSEAS  ELECTORS"
+274,177,274,,"Panchayat Union  Elementary  School, Facing  South,  East Portion, Perumagalur  614612","1.Perumagaloor (TP) Sastri  nagar  wd-6  ,
+2.Perumagaloor (TP) V.O.C Nagar wd-5 , 3.Perumagaloor (TP) Lenin  nagar  wd-4 999.OVERSEAS  ELECTORS"
+275,177,275,,"Panchayat Union  Elementary  School, Facing  South  Building,  Pattankadu-614612","1.Perumagaloor (TP) R.K.  nagar  wd-1  , 2.Perumagaloor (TP) Bharathidasan  nagar  wd  2 , 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+276,177,276,,"Panchayat Union.Elementary.  School Facing  South,  West Portion, Perumagalur  North  614612","1.Perumagaloor (TP) Jeeva  Nagar  wd-3  , 2.Perumagaloor (TP) Nethaji  nagar  wd-7  , 3.Perumagalur (TP) Perumagalur  (P) Perumagalur 999.OVERSEAS  ELECTORS"
+277,177,277,,"Panchayat Union.Elementary.school Facing  South,  Solaikkadu 614612","1.Solaikkadu (R.V) AND  (P) Solaikkadu wd-1  , 2.Solaikkadu (R.V) AND  (P) Solaikkadu wd-2  , 999.OVERSEAS  ELECTORS"
+278,177,278,,"Panchayat Union.Elementary  School Facing  North,  Thiruvathevan  614612","1.Thiruivattheavan  (R.V) AND  (P)  Thiruvadevan wd-1 , 999.OVERSEAS  ELECTORS"
+279,177,279,,"Panchayat Union.Elementary  School Facing  South,North  Building  ( 5Th class  Room),  Thiruvathevan  614612","1.Thiruvadevan (R.V)  AND  (P)  Pantharpattinam wd-2  , 999.OVERSEAS  ELECTORS"
+280,177,280,,"Panchayat Union.Elementary  School Facing  South,  West Portion, Somanathanpattinam 614612","1.Thiruivattheavan  (R.V) AND  (P)  Karuppattikkadu suppammalchattiram wd-1 , 999.OVERSEAS  ELECTORS"
+281,177,281,,"Panchayat Union  Elementary  School West Facing  (North Building) Anna Nagar,  New  Street, Somanathanpattinam -  614612","1.Thiruivattheavan  (R.V) AND(P) Somanathanpattinam,  Annanagar  Puthutheru Vallavan  P Wd-2  ,
+999.OVERSEAS  ELECTORS"
+282,177,282,,"Panchayat Union  Elementary  School, Facing  West,Sellappillaiyarkovil-614802","1.Kuppadevan (R.V)  AND  (P)  Chellapillaiyarkovil wd-1  , 999.OVERSEAS  ELECTORS"
+1,177,2,,3,4
+283,177,283,,"Panchayat Union  Elementary  School Facing  West (SSA Building), Kuppathevan 614630","1.Kuppadevan (R.V)  AND  (P)  Kuppadevan wd-2  , 999.OVERSEAS  ELECTORS"
+284,177,284,,"Panchayat Union  Elementary  School Facing  East,Kuppathevan  614630","1.Sembiyamahadevipattinam (R.V)  AND(P) Sembiya  mahadevi  pattinam wd-2, 999.OVERSEAS  ELECTORS"

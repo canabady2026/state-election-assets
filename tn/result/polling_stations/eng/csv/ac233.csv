@@ -1,0 +1,765 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+1,233,1,"Holy Family Primary School,  Arukani, , Sheet Building, East Portion, West Facing","1.Kaliyal (R.V.), Kadayal (T.P) Ward 3, block 4, Anamugam",All Voters
+2,233,2,"Holy Family High School,  Arukani, ,
+South Sheet Building, East Portion, North
+Facing","1.Kaliyal (R.V.), Kadayal (T.P.) Ward 2,3, Block 8, Arukani",All Voters
+3,233,3,"Govt.  Tribal Residential Hr.Sec.School , Pathukani,, New terraced East building, North portion, East Facing.","1.Kaliyal (R.V.), Kadayal (T.P.) Ward 2, Block 2, Pathukani, Nirappu",All Voters
+4,233,4,"Govt.  Tribal Residential Hr.Sec.School , Pathukani,, New terraced East building, Middle portion, East Facing.","1.Kaliyal (R.V.), Kadayal (T.P.) Ward 1, Block 3, Maruthamparai",All Voters
+5,233,5,"Govt.  Tribal Residential Hr.Sec.School , Pathukani,, New terraced East building, South portion, East Facing.","1.Kaliyal(R.V), Kadayal(T.P) Ward1,
+Block1, Penu. , 2.Kaliyal(R.V) Kadayal (T.P) Ward 1, block 9,
+kondaikatty",All Voters
+6,233,6,"Govt.  Hr.Sec.School, Kadaiyal,, North
+terraced building, South portion, West
+Facing.","1.Kadayal (R.V) Kadayal (T.P) Ward 10, Block 17, Kadayal Junction",All Voters
+7,233,7,"Govt.  Hr.Sec.School, Kadaiyal, ,North
+terraced building, Middle portion, West
+Facing.","1.Kadayal(R.V) Kadayal (T.P) Ward 13, Block 21, Keezhacherivilai.",All Voters
+8,233,8,"Govt.  Hr.Sec.School, Kadaiyal, ,North terraced building, North portion, West
+Facing.","1.Kadayal (R.V) Kadayal (T.P) Ward 11, Block 7, Alancholai",All Voters
+9,233,9,"P. W.D Assit. Executive Engineers
+Quarters, Chittar-1, West Asbestos
+building, East Facing.","1.Kadayal(R.V) Kadayal(T.P) Ward 7, Block6, Valiya Ealla",All Voters
+10,233,10,"P. W.D Assit. Executive Engineers
+Quarters, Chittar-1, East Asbestos building,
+West Facing.","1.Kadaiyal (R.V) Kadaiyal (T.P) Ward 9, Block 19, Kaattavilai.",All Voters
+11,233,11,"Kaliyal Beat Checkpost,  Thodalikadu,,
+Terraced North Building, West portion,
+South Facing","1.Kadayal(R.V) Kadayal(T.P) Ward 8, Block 18, New ambadi. ,",All Voters
+12,233,12,"Sacred Heart Middle School, Kadaiyal,
+Terraced East building, South portion,
+West Facing.","1.Kadayal(R.V) Kadayal(T.P) Ward14, Block15, Kilathoor.",All Voters
+13,233,13,"Sacred Heart Middle School, Kadaiyal,,
+Terraced East building, Middle portion,
+West Facing.","1.Kadayal (R.V) Kadayal (T.P) Ward 11, Block 16, Ponkinkalai",All Voters
+14,233,14,"Sacred Heart Middle School, Kadaiyal,,
+North Terraced  building, East
+portion,South Facing.","1.Kadayal (R.V), Kadayal (T.P) Ward 14, Block 22, Pandaravilai",All Voters
+15,233,15,"Sacred Heart Middle School, Kadaiyal,
+North Terraced  building, Middle portion,
+South Facing.","1.Kadayal (R.V), Kadayal (T.P) Ward 12, Block 20, Nedumuri.",All Voters
+16,233,16,"St.  Mary Hr.Sec.School, Kaliyal,, Main
+Terraced  building, ground floor, South
+facing.","1.Kaliyal(R.V), Kadayal (T.P) Ward 15, Block 23, Melaparoor.",All Voters
+17,233,17,"St.  Mary Hr.Sec.School, Kaliyal,, Terraced
+East building, ground floor, Middle
+portion, West Facing.","1.Kaliyal(R.V), Kadayal (T.P) Ward 15, Block 14, Kilamalai.",All Voters
+18,233,18,"Govt Middle  School, Chittar,, Tiled building East portion, North Facing.","1.Kadayal (R.V), Kadayal (T.P) Ward 4, Block 5, Kothaiyar , 2.Kadayal (R.V), Kadayal (S.P) Ward5, Block14, Clamalai Ceylon colony",All Voters
+19,233,19,"Govt Primary Tribal Residential School, Vattaparai,, Terraced Building, East Facing","1.Kadayal (R.V), Kadayal (T.P)
+Ward5, Block 5, 14, Vattaparai, Purathimalai, Vellarakkumalai,
+Thalakkumalai",All Voters
+20,233,20,"Govt.  Rubber Building Childrens Illam, Mailar,, Tiled building, East Facing.","1.Kadayal (R.V), Kadayal (T.p) Ward 4, Block 5, Kothayar",All Voters
+21,233,21,"Govt.  Primary School, Sivalogam,, New Terraced building, East portion, South Facing.","1.Kaliyal(R.V), Kadayal (T.P) Ward 17, Block 10, Ganabhathikal , 2.Kaliyal(R.V), Kadayal (T.P) Ward 16, Block 11, Elavanparai ,",All Voters
+22,233,22,"Govt.  Primary School, Sivalogam,, New Terraced building, West portion, South Facing.","1.Kaliyal(R.V), Kadayal (T.P) Ward 16, Block 12, Vaigundam , 2.Kaliyal(R.V), Kadayal (T.P) Ward 18, Block 13, Sankarankadavu, Chenpagatharisu",All Voters
+23,233,23,"St.  Joseph Malangarai Syrian Catholic
+Middle School, Kulapparai,,  Terraced building, Middle portion, North Wing,
+South Facing.","1.Mancode(R.V) and (P) Ward 1,
+Block 1, Thengaiparai. , 2.Mancode (R.V) and (P) Ward 1, Block 2,
+Melakode",All Voters
+24,233,24,"St.  Joseph Malangarai Syrian Catholic
+Middle School, Kulapparai,, Terraced building, West Wing, North portion, East
+Facing.","1. Mancode (R.V) and (P) ward 3, Block 4, Vellachiparai, Kadavankonam,",All Voters
+25,233,25,"St.  Joseph Malangarai Syrian Catholic
+Middle School, Kulapparai, , Terraced building, West Wing, Middle portion, East
+Facing.","1 . Mancode (R.V) and (P) ward 4, Block 6, Ampalakalai, Chenamparai.",All Voters
+26,233,26,"St.  Joseph Malangarai Syrian Catholic
+Middle School, Kulapparai,, Terraced building, South wing, West portion, North
+Facing.","1.Mancode(R.V) and (P) Ward 4, Block 5, Keezhamancode",All Voters
+27,233,27,"St.  Joseph Malangarai Syrian Catholic
+Middle School, Kulapparai,, Terraced building, South Wing, East portion, North
+Facing.","1.Mancode(R.V) and (P) Ward 2, Block 3, Chananparai",All Voters
+28,233,28,"Govt Primary School, Puliyoorsalai,, Terraced Building, West Facing","1.Puliyoorsalai(R.V) Puliyoorsalai(P) Ward2, Block2, Santavilai , 2.Puliyoorsalai (R.V), Puliyoorsalai
+(P) Ward 3, Block 7, Cheruvalloor",All Voters
+29,233,29,"Govt.  High School,  Puliyoorsalai, ,
+Asbastos sheet roof building, Middle
+portion, North facing.","1.Puliyoorsalai (R.V), Puliyoorsalai
+(P) Ward 2, Block 3, Ayaniyarathala",All Voters
+30,233,30,"Govt.  High School,  Puliyoorsalai,, Northern Terraced building, Ground floor, West portion, West Facing.","1.Puliyoorsalai (R.V), Puliyoorsalai
+(P) Ward 3, Block 4, Puliyoorkonam, 2.Puliyoorsalai (R.V), Puliyoorsalai
+(P) Ward 2, Block 1, Puliyoorsalai",All Voters
+31,233,31,"Govt.  High School,  Puliyoorsalai,, Northern  Terraced building,  East portion, South Facing.","1.Puliyoorsalai (R.V) Puliyoorsalai
+(P) Qward 4, Block 6, Ambalakkalai , 2.Puliyoorsalai (R.V), Puliyoorsalai
+(P) Ward 4, Block 6, Ayavilai",All Voters
+32,233,32,"Govt.  High School,  Puliyoorsalai,,
+Terraced Main building, North portion,
+East Facing.","1.Puliyoorsalai (R.V), Puliyoorsalai
+(P) Ward 4, Block 5, R.C. Church,
+Devicode",All Voters
+33,233,33,"Govt.  B F M Primary School,  Devicode at Punnakarai,, Terraced Building, South Middle portion, East facing.","1.Devicode (R.V), Devicode (P) Ward 1, Block 1, Punnakkarai",All Voters
+34,233,34,"Govt.  B F M Primary School,  Devicode at Punnakarai,, Terraced Building, North Middle portion, East facing.","1.Devicode (R.V), Devicode (P) Ward 2, Block 3, Mettarnity centre",All Voters
+35,233,35,"Govt.  Primary School, Kuttaicode ,,
+Terraced Building, North portion, East
+facing.","1.Devicode (R.V), Devicode (P) Ward 1, Block 2, Kunnathukonam",All Voters
+36,233,36,"Govt.  Primary School, Kuttaicode ,, Terraced Building, South portion, East facing.","1.Devicode (R.V), Devicode (P) Ward
+2, Block 4, Pazhavilai , 2.Devicode (R.V), Devicode (P) Ward 11, Block
+5, Pazhavilai",All Voters
+37,233,37,"Govt.  Hr.Sec. School, Palugal,, Terraced North Building, West Portion, South facing.","1.Palukal(R.V) and (T.P) Ward 4, Block 6,Palugal, Edasery",All Voters
+38,233,38,"Govt.  Hr.Sec.School,  Palugal,, Terraced North Building, West Central East portion, Class No 11B Section, South facing.","1.Palukal(R.V) and (T.P) Ward 7, Block 7, Thookkukonam",All Voters
+39,233,39,"Govt.  Hr.Sec.School,  Palugal,, Terraced North Building, West Middle portion, Class No 11D Section, South facing.","1.Palukal(R.V) and (T.P) Ward8, Block8, Soorangulzhi",All Voters
+40,233,40,"St.  Mary Hr.Sec.School,  Melpalai ,, Main Block Terraced Building, North Wing, Middle portion, South facing.","1.Devicode(R.V), Devikode(P)
+Ward4, Block8, Nilavani. , 2.Devicode(R.V), Devicode(P)
+Ward4, Block 9, Periyavillai.",All Voters
+41,233,41,"St.  Mary Hr.Sec. School,  Melpalai ,, Main
+Block Terraced Building, North Wing,
+West portion, South facing.","1.Devicode(R.V) Devicode(P) Ward3, block6, Kottarakonam.",All Voters
+42,233,42,"St.  Mary Hr.Sec. School,  Melpalai ,, Main
+Block Terraced Building, West Wing,
+Middle portion,East facing.","1.Devicode(R.V), Devicode(P) Ward3, block7, Mangalai.",All Voters
+43,233,43,"St.  Mary Hr.Sec. School,  Melpalai ,, Main Block Terraced Building, West Wing, Middle portion, East facing.","1.Devicode(R.V), Devicode(P)
+Ward4, block 10, Vavaravilai. , 2.Edaicode(R.V), Devicode(P)
+Ward4, Block11, Mangalai.",All Voters
+44,233,44,"Shunmugavilasam Govt.  Middle School,
+Malaicode ,, Terraced East Building, West
+Portion, North facing.","1.Anducode B(R.V), Edaicode(T.P)
+Ward4, Block28, House No 1 - 142,
+Kurakkonam",All Voters
+45,233,45,"Shunmugavilasam Govt.  Middle School, Malaicode ,, Asbestos Building, Middle Portion, North facing.","1.Anducode B(R.V), Edaicode(T.P) Ward4, Block28, House No 143 - 300, Kurakkonam",All Voters
+46,233,46,"Shunmugavilasam Govt.  Middle School,
+Malaicode ,, Asbestos Building, West
+Portion, North facing.","1.Anducode B(R.V), Edaicode(T.P) Ward9, Block 34, Malaicode",All Voters
+47,233,47,"Shunmugavilasam Govt.  Middle School,
+Malaicode ,, Asbestos Building, East
+Portion, North facing.","1.Anducode B(R.V), Edaicode(T.P) Ward10, block 35, Thottam",All Voters
+48,233,48,"Govt. L.M. Primary School, Malaicode,, Terraced Building,  West portion, North facing.","1.Edaicode(R.V) and (T.P) Ward5, Block25, Kudukkachivillai. , 2.Edaicode(R.V) and (T.P) Ward5, Block26, Kuzhinyan vilai.",All Voters
+49,233,49,"Govt. L.M. Primary School, Malaicode,, Terraced Building,  Middle portion, North facing.","1.Edaicode(R.V) and (T.P) Ward4,
+block29, Mylachivillai. , 2.Edaicode(R.V) and (T.P) Ward5,
+Block30, Neduvilai",All Voters
+50,233,50,"Holy Family Higher Sec.  School,
+Mukkootukal,, West Terraced Building,
+South portion, East facing.","1.Anducode B(R.V), Edaicode(T.P) Ward 7, Block 31, Mukkoottukal",All Voters
+51,233,51,"Holy Family Higher Sec School, Mukkootukal, , West Terraced Building, North portion, East facing.","1.Anducode B(R.V), Edaicode(T.P) Ward7, Block32, Palam , 2.Anducode B(R.V), Edaicode(T.P) Ward 8, Block 33, Kakalam code.",All Voters
+52,233,52,"Govt.  Primary School,  Elanchirai, ,
+Terraced Building, Middle portion, East
+facing.","1.Edaicode(R.V), Edaicode(T.P) Ward1,Block1,Elanchirai. ,",All Voters
+53,233,53,"Govt Aided Hr. Sec School, Mottakalai, , Terraced Building, North Portion, East facing","1.Edaicode(R.V), Edaicode(T.P)
+Ward1, Block2, Panichal. , 2.Edaicode(R.V),Edaicode(T.P)
+Ward2, Block4, Mottakkalai.",All Voters
+54,233,54,"Aided Hr. Sec.School, Kallupalam,Asbestos Building, , West Middle portion, South facing.","1.Edaicode(R.V), Edaicode(T.P) Ward2, Block5, Puliyoorkonam , 2.Edaicode(R.V), Edaicode(T.P) Ward3, Block7, Panjayathu Office.",All Voters
+55,233,55,"Aided Hr. Sec.School,  Kallupalam,, Asbestos Building, East Middle Portion, South facing.","1.Edaicode(R.V), Edaicode(T.P) Ward3, Block6, Village Office , 2.Edaicode(R.V), Edaicode(T.P) Ward2, Block15, Kuzhiyodal vilai",All Voters
+56,233,56,"Aided Primary School,  Kallupalam,,
+Asbestos Building,  East portion, North
+facing.","1.Edaicode(R.V) and (T.P) Ward15,16 Block 18,  Padanthaparai",All Voters
+57,233,57,"Aided Primary School,  Kallupalam,,
+Terraced Building, West  portion,  North
+facing.","1.Edaicode(R.V) and (T.P) Ward16, Block19, Sivankovil",All Voters
+58,233,58,"Govt.  Home Mission Primary School, Anducode at Enthikalai, , Terraced main Building, East portion,  North facing.","1.Anducode A(R.V), Edaicode(T.P) Ward4, Block8, Chemmankalai.",All Voters
+59,233,59,"Govt.  Home Mission Primary School, Anducode at Enthikalai, , Terraced West Building, East portion,  North facing.","1.Anducode A(R.V), Edaicode(T.P) Ward 4, Block9, Arathancode.",All Voters
+60,233,60,"Govt.  Home Mission Primary School, Anducode at Enthikalai,, Terraced main Building, West portion,  North facing.","1.Anducode A(R.V), Edaicode(T.P) Ward11, Block13, Edaicode. ,",All Voters
+61,233,61,"Govt.  Primary School, Anducode at Uthirancode,, Terraced Middle Building, West Portion, South  facing.","1.Anducode A(R.V), Edaicode(T.P) Ward9,10,12 Block 11, Moodudu ,
+2.Anducode A(R.V), Edaicode(T.P) Ward 9,10,12 Block 24, Kallampottai
+, Attukonam",All Voters
+62,233,62,"Govt.  Primary School, Anducode at
+Uthirancode,, Terraced West Building,
+North Portion, East  facing.","1.Anducode A(R.V), Edaicode(T.P) Ward 9,10,12 Block 12, Thanivilai ,",All Voters
+63,233,63,"P.  P.M. Hr.Sec.School,  Anducode,,
+Terraced main  Building, North  portion,
+West  facing.","1.Anducode A(R.V), Edaicode(T.P)
+Ward13, Block14, R.C Church
+Melpuram.",All Voters
+64,233,64,"P.  P.M. Hr.Sec.School,  Anducode, , South
+Terraced  Building, Middle  portion,
+North  facing.","1.Anducode A(R.V), Edaicode(T.P) Ward14, Block22, Melpuram Market.",All Voters
+65,233,65,"P. P .M. Hr.Sec.School,  Anducode,,
+Terraced main  Building, South  portion,
+West  facing.","1.Anducode A(R.V), Edaicode(T.P) Ward12, Block23, Anducode.",All Voters
+66,233,66,"Govt.  Veterinary Hospital, Chemmankalai,, Office Room, Terraced Building, Middle portion,  West  facing.","1.Anducode A(R.V), Edaicode(T.P) Ward15, Block3, Puthanchanthai.",All Voters
+67,233,67,"Govt.  Veterinary Hospital, Chemmankalai, , Office Room, Terraced Building, South portion,  North facing.","1.Anducode A(R.V), Edaicode(T.P) Ward13, Block16, Melpuram",All Voters
+68,233,68,"Ankanvadi Centre, Chemmankalai  at
+Kovilvilai.,  , Terraced Building, East
+Facing.","1.Anducode A(R.V), Edaicode(T.P) Ward14, Block17, Chemankalai.",All Voters
+69,233,69,"Govt Primary School, Kancode,, Terraced Building, East Portion, West Facing","1.Edaicode(R.V), Edaicode(T.P) Ward17, Block20, Edaicode U.B.S.",All Voters
+70,233,70,"Govt Aided Hr. Sec School, Mottakalai,,
+Terraced Building, South Portion, East
+facing","1.Edaicode (T.P) and (R.V) Ward18, Block27, Palachal.",All Voters
+71,233,71,"Govt Primary School, Kancode,, Terraced Building, East Middle Portion, West Facing","1.Edaicode (R.V), Edaicode(T.P) Ward18, Block21, Kizhakkonam.",All Voters
+72,233,72,"Govt. Middle School, Manivilai at Puravur, Asbestos Building, West Portion,  South facing.","1.Palugal(R.V) and (T.P) Ward1,
+block1, Manivillai. , 2.Palugal (R.V) and (T.P) Ward2, Block2,
+Pandiyankonam",All Voters
+73,233,73,"Govt Middle School , Manivilai,, Asbestos
+Building Middle West Portion, South
+Facing","1.Palugal (R.V) and (T.P) Ward3, block3, Kacheri block.",All Voters
+74,233,74,"Govt Primary School,Palugal at
+Mathampalai,, Terraced Building, West
+Portion, East Facing","1.Palugal (R.V) and (T.P) Ward4, block4, Mottamamoodu",All Voters
+75,233,75,"Govt.  Hr.Sec.School,  Palugal, , Terraced North Building, East Middle Portion, Class No 12D Section, South  facing.","1.Palugal (R.V) and (T.P) Ward5, Block5, Highschool.",All Voters
+76,233,76,"Govt.  Hr.Sec.School,  Palugal,   , Terraced
+North East Building, North Portion, West
+facing.","1.Palugal (R.V) and (T.P) Ward9, Block9, Muvottukonam.",All Voters
+77,233,77,"Nallayan R. C. Middle School ,
+Moovoottukonam, , West Terraced
+Building, South Portion, East facing.","1.Palugal(R.V) and (T.P) Ward17, Block17, Muvottukonam.",All Voters
+78,233,78,"Govt.  Higher Sec. School, Palugal,,
+Terraced  North Building, East Portion,
+South  facing.","1.Palugal (R.V) and (T.P) Ward10, Block10, Kuzhivilakam.",All Voters
+79,233,79,"Nallayan R. C. Middle School ,
+Moovoottukonam, , West Terraced
+Building, North Portion, East facing.","1.Palugal(R.V) and (T.P) Ward16,
+Block16 House No 1 - 120,
+Enjavillaikonam.",All Voters
+80,233,80,"Nallayan R. C. Middle School , Moovoottukonam, , West Terraced Building, North West Portion, East facing.","1.Palugal(R.V) and (T.P) Ward16, Block16, House No 121 - 500, Enjavillaikonam.",All Voters
+81,233,81,"Govt.  Hr.Sec.School,  Palugal, , East
+Terraced  Building,  South Portion, West
+facing.","1.Palugal (R.V) and (T.P) Ward12, Block11,Mathambalai.",All Voters
+82,233,82,"Govt.  Hr.Sec.School,  Palugal, , East
+Terraced  Building,  North Portion, West
+facing.","1.Palugal (R.V) and (T.P) Ward9, Block15, Palugal.",All Voters
+83,233,83,"Thangavilagam Govt.  Primary School, Karumanur at Palugal,, Terraced Building, West Portion, North Facing","1.Palugal (R.V) and (T.P) Ward14,
+Block13, Alamparai. , 2.Palugal (R.V) and (T.P) Ward15, Block14,
+Kuttakkonam.",All Voters
+84,233,84,"Govt Primary School, Palugal at Mathampalai ,, Terraced Building, West Middle Portion, East Facing","1.Palugal  (R.V) and (T.P) Ward13,
+Block, 12 Karumanoor. , 2.Palugal (R.V) and (T.P) Ward14, Block 13,
+Alamparai.",All Voters
+85,233,85,"St.  Francis R.C. Primary School,  Malayadi
+at Pilankalai,, Terraced  Building,  East
+Portion, North facing.","1.Malayadi(R.V), Malayadi(P). Ward2, Block1, Pilankalai.",All Voters
+86,233,86,"St.  Francis R.C. Primary School,  Malayadi at Pilankalai,, Terraced  Building,  Middle Portion, North facing.","1.Malayadi (R.V), Malayadi (P) Ward1,4 Block5, Chani.",All Voters
+87,233,87,"St.  Francis R.C. Primary School,  Malayadi
+at Pilankalai,, Terraced  Building, West
+Portion, North facing.","1.Malayadi(R.V), Malayadi(P). Ward1, Block6,Malayadi.",All Voters
+88,233,88,"St.  James R.C.High School, Parakuntu,, Terraced  Building, Ground Floor, East Portion, North facing.","1.Malayadi(R.V), Malayadi(P). Ward3, Block3, House No : 1 to 230, Thettikuzhi, Thuvarachanvilai.",All Voters
+89,233,89,"St.  James R.C.High School, Parakuntu, , Terraced Building, Middle Portion, North facing.","1.Malayadi(R.V), Malayadi(P). Ward3, Block3, House No : 231 to 500 Parakunnu, Manapazhanchi.",All Voters
+90,233,90,"St.  James R.C.High School, Parakuntu,, Terraced  Building, Ground floor, West Portion, North facing.","1.Malayadi(R.V), Malayadi(P). Ward4, Block4, Parakkuntu.",All Voters
+91,233,91,"St.  James R.C.High School, Parakuntu, ,
+West Terraced Building, West Portion, East
+facing","1.Malayadi(R.V), Malayadi(P). Ward2,Block2, Koodaloorkkonam.",All Voters
+92,233,92,"Govt.  High School,  Mekode ,, East Tiled Building, North Portion,  West facing.","1.Kaliyakkavilai(R.V), Vanniyoor(P). Ward3,4 Block2,3,4,5 Vanniyoore.",All Voters
+93,233,93,"Govt.  High School,  Mekode ,, East Tiled Building, North Portion,  West  facing.","1.Kaliakkavilai(R.V), Vanniyoor(P) Ward 1,2,3,4 Block
+12,14,8,9,10,11,1,5,6,7 Vanniyoor ,
+2.Kaliakkavilai(R.V), Vanniyoor(P) Ward4,Bock4,5 Eruthavoor.",All Voters
+94,233,94,"Govt.  High School,  Mekode ,, West
+Terraced Building North portion East
+facing.","1.Kaliyakkavilai(R.V), Vanniyoor (P) Ward1,2,3,4 Block12,13 Vanniyoor.",All Voters
+95,233,95,"Govt.  High School,  Mekode ,, Terraced
+Office building, Middle portion,  East
+facing.","1.Kaliyakkavilai(R.V), Vanniyoore
+(P) Ward1,2,3,4 Block 11,2,3
+Vanniyoore.",All Voters
+96,233,96,"Holy Family Primary School, Mukkuttukal,, G.I. sheet Roof building, South portion, East Facing.","1.Manjalumoodu (R.V), Manjalumoodu (P) Ward 1, Block 3, House No : 101 to 425, Karode",All Voters
+97,233,97,"Govt. Primary School, Manjalumoodu,Western , Terraced Building Northern Portion, East Facing.","1.Manjalumoodu (R.V),
+Manjalumoodu (P) Ward 1, Block 3,
+House No: 426 to 570,
+Manjalumoodu",All Voters
+98,233,98,"Govt. Primary School, Manjalumoodu, , Terraced Western Building South Portion, East Facing.","1.Manjalumoodu (R.V),
+Manjalumoodu (P) Ward 1,3  Block 3, House No: 1 to 100, Block 5,
+Manjalumoodu",All Voters
+99,233,99,"Govt. Primary School, Manjalumoodu, Terraced Eastern Building, South Portion, West Facing., Terraced Western Building South Portion, East Facing.","1.Manjalumoodu (R.V), Manjalumoodu (P) Ward 2, Block 2, House No : 1 to 200,  Manjalumoodu",All Voters
+100,233,100,"Holy Family Primary School, Mukkuttukal,, G.I. sheet roofed building, Southern Middle portion, East Facing.","1.Manjalumoodu (R.V),
+Manjalumoodu (P) Ward 2, Block 2
+House No : 201 to 450,
+Manjalumoodu",All Voters
+101,233,101,"Govt. Primary School, Manjalumoodu,, Terraced Eastern Building, North Portion, West Facing.","1.Manjalumoodu (R.V),
+Manjalumoodu (P) Ward 2, 3, Block
+4, House No : 201 to 450,
+Manjalumoodu",All Voters
+102,233,102,"Holy Family Primary School, Mukkuttukal,, G.I. sheet roofed  building, Northern Middle portion, East Facing.","1.Manjalumoodu (R.V), Manjalumoodu (P) Ward 2, 3, Block
+1, 4 House No : 1 -200, Mukkuttukal.",All Voters
+103,233,103,"Govt. L.M.Middle School, Arumanai  at Melatheru, , Terraced North Building East Portion, South Facing.","1.Vellamcode(R.V), Arumanai (T.P) Ward 1,11, Block 3, Block 4, House
+No: 1 to 50, Arumanai, Azhakal",All Voters
+104,233,104,"Govt. L.M.Middle School, Arumanai  at Melatheru, New Terraced North  Building Middle  Portion, South  Facing.","1.Vellamcode(R.V), Arumanai (T.P) Ward 1,11, Block 4 , House No: 51 to
+240,  Arumanai, Azhakal",All Voters
+105,233,105,"Govt.  Primary  School, Arumanai at
+Nediyasalai,, Terraced Main Building
+Middle  Portion. East facing.","1.Velamcode (R.V), Arumanai (T.P)
+Ward 6, Block 5, Arumanai, R.C.
+Church",All Voters
+106,233,106,"Govt.  Primary  School, Marapadi,, New
+Terraced building West portion, East
+Facing.","1.Velamcode (R.V), Arumanai (T.P)
+Ward 2, Block 14, Arumanai,
+Erumpuzhi",All Voters
+107,233,107,"Govt. L.M.Middle School, Arumanai  at
+Melatheru,, New Terraced North Building,
+East Portion, South Facing","1.Velamcode(R.V), Arumanai (T.P)
+Ward 4,14, Block 6, Arumanai,
+Nellikonam",All Voters
+108,233,108,"Govt. L.M.Middle School, Arumanai  at
+Melatheru, , Terraced North Building,
+West Portion, South Facing","1.Velamcode(R.V), Arumanai (T.P)
+Ward 4,14, Block 7, Arumanai,
+Nellikonam",All Voters
+109,233,109,"Govt Primary School, Marapady., , Asbestos building, Middle Portion, North Facing","1.Velamcode (R.V), Arumanai (T.P) Ward 6, Block 13, Thangabavanam , 2.Velamcode (R.V), Arumanai (T.P) Ward 7, Block 15, House No : 1 - 95, Edaikulam",All Voters
+110,233,110,"Govt Primary School, Marapady.,, New Terraced Building , Middle Portion, North Facing","1.Velamcode(R.V), Arumanai (T.P) Ward 3, Block 21, Marappadi , 2.Velamcode (R.V), Arumanai (T.P) Ward 7, Block 15, Hose No : 96 to
+180,  Pallivilai.",All Voters
+111,233,111,"Govt.Girls Middle School, Arumanai at
+Panankarai, , West Tiled Building, South
+Portion, West Facing.","1.Velamcode (R.V), Arumanai (T.P)
+Ward 8,10, Block 16,
+Arumanai,Kumbacode",All Voters
+112,233,112,"Govt.Girls Middle School, Arumanai at
+Panankarai,, Eastern Tiled Building, North
+Portion West Facing","1.Velamcode(R.V), Arumanai (T.P)
+Ward 5, Block 22,
+Arumanai,Erumpukli",All Voters
+113,233,113,"Govt.Girls Middle School, Arumanai at
+Panankarai, , Eastern Tiled Building, South
+Portion, West Facing.","1.Velamcode (R.V), Arumanai (T.P) Ward 8, Block 20, Kottoorkonam",All Voters
+114,233,114,"Govt.Girls Middle School, Arumanai at
+Panankarai,, Western Tiled Building,
+North Portion, West Facing.","1.Velamcode (R.V), Arumanai (T.P) Ward 9, Block 17, Kumbacode",All Voters
+115,233,115,"Govt. Higher Sec School, Arumanai at
+Nediyasalai,,  East Terraced Building ,
+West   Portion, South Facing.","1.Velamcode (R.V), Arumanai (T.P)
+Ward 9,11, Block 10, Govt.hospital
+Ward.",All Voters
+116,233,116,"Govt. Higher Sec School, Arumanai at Nediyasalai,,  East Terraced Building , East Portion, South Facing.","1.Velamcode(R.V), Arumanai (T.P) Ward 10, Block 19, Kavadhitattuvilai
+, 2.Velamcode (R.V), Arumanai (T.P) Ward 9, Block11, School Road.",All Voters
+117,233,117,"Govt. Higher Sec School, Arumanai at Nediyasalai,, West Terraced Building (SSA), North   Portion, East Facing.","1.Velamcode (R.V), Arumanai (T.P) Ward 11,12,13  Block 18, 8 Government High School Arumanai
+, 2.Velamcode(R.V), Arumanai (T.P) Ward 12, Block 12, Arumanai , 3.Velamcode(R.V), Arumanai (T.P) Ward 12, Block 9, Government Hospital Arumanai ,",All Voters
+118,233,118,"Govt. Higher Sec School, Arumanai at
+Nediyasalai,, West  Terraced Building
+(SSA), South   Portion East Facing.","1.Velamcode(R.V), Arumanai (T.P) Ward 14,15 Block 1, Mannore",All Voters
+119,233,119,"Govt. Higher Sec School, Arumanai at Nediyasalai,, Southern  Terraced Building, Eastern   Portion, North Facing.","1.Velamcode(R.V), Arumanai (T.P) Ward 13,14 Block 2  Government High School Ward",All Voters
+120,233,120,"Govt. Primary School, Muzhucode,, Western Tiled Building, West Portion, South facing.","1.Muzhucode (R.V), Muzhucode (P)
+Ward 3, Block 9, Vaaruvilagam , 2.Muzhucode (R.V), Muzhucode (P) Ward 3, Block 7,Mulucode L.M.S
+School",All Voters
+121,233,121,"Govt. Primary School, Muzhucode,, Western Tiled Building, Middle Portion, South facing.","1.Muzhucode(R.V), Muzhucode(P) Ward 4, Block 10, Karaicaud , 2.Muzhucode(R.V), Muzhucode(P) Ward 4, Block 11, Maathoorkonam",All Voters
+122,233,122,"Govt. Primary School, Muzhucode,, Western Tiled Building, East Portion, South facing.","1.Muzhucode (R.V), Muzhucode (P) Ward 2, Block 6, Vadalicode , 2.Muzhucode (R.V), Muzhucode (P) Ward 3  Block 8  MulucoduY.M.C.A",All Voters
+123,233,123,"Govt. Primary School, Muzhucode, , Tiled Main Building, West Portion, South Facing.","1.Muzhucode(R.V), Muzhucode(P)
+Ward 4, Block 12 Muzhucode
+Y.M.C.A",All Voters
+124,233,124,"Kamaraj Memorial Higher Secondary School, Padanthaluvilai,, North Building, North West Portion, South Facing","1.Muzhucode (R.V), Muzhucode (P)
+Ward 1, Block 3, Kaithakam , 2.Muzhucode (R.V), Muzhucode (P)
+Ward 1, Block 2, Pirakal",All Voters
+125,233,125,"Govt. Primary School, Muzhucode,, Tiled
+Main Building, Middle Portion, South
+Facing","1.Muzhucode (R.V), Muzhucode (P) Ward 2, Block 5, Muhavoore",All Voters
+126,233,126,"Kamaraj Memorial Higher Secondary School, Padanthaluvilai,, Terraced Building, North Portion, South Facing","1.Muzhucode (R.V), Muzhucode (P) Ward 1, Block 2, Pirakal , 2.Muzhucode (R.V), Muzhucode (P) Ward 1, Block 1, Kandankalavilai",All Voters
+127,233,127,"Kamaraj Memorial Higher Secondary School, Padanthaluvilai,, Terraced Building, North East Portion, South Facing","1.Muzhucode (R.V), Muzhucode (P) Ward 2, Block 4, Mudhappancode",All Voters
+128,233,128,"Govt High School, Vellamcode at Chitharal,, Terraced Northern Building, West  Portion, South facing.","1.Chitharal (R.V)  Vellamcode  (P) Ward 3, Block 6, Paathiravilai East , 2.Chitharal (R.V)  Vellamcode  (P) Ward 3, Block 6, Paathiravilai West, 3.Chitharal (R.V) Vellamcode   (P) Ward 1, Block 4, Kottagam",All Voters
+129,233,129,"Govt High School, Vellamcode at Chitharal,, Terraced Eastern Building, Northern  Portion,West facing.","1.Muzhucode (R.V) Vellamcode  (P) Ward 4, Block 18, Pandarakaatuvilai, 2.Muzhucode (R.V) Vellamcode  (P) Ward 4, Block 15, Thenganvilai",All Voters
+130,233,130,"Govt High School, Vellamcode at
+Chitharal,, Terraced Eastern Building,
+South  Portion,West facing.","1.Chitharal (R.V)  Vellamcode  (P) Ward 4, Block 14, Ambalamvilai",All Voters
+131,233,131,"Govt High School, Vellamcode at
+Chitharal,, Terraced Main Building,
+Middle Portion,East facing.","1.Muzhucode (R.V) Vellamcode  (P) Ward 3, Block 12,  Parakkavilai.",All Voters
+132,233,132,"Govt High School, Vellamcode at
+Chitharal,, Terraced Main Building, North
+Portion,East facing.","1.Chitharal (R.V)  Vellamcode  (P) Ward 2, Block 8, Ottaluvilai",All Voters
+133,233,133,"Govt. Primary School,  Cheral,, Terraced Main Building, East  Portion , North facing.","1.Muzhucode (R.V) Vellamcode  (P) Ward 1,2, Block 2, 3, Chooliyal, Chembakacheri, Ambalakadai.",All Voters
+134,233,134,"Govt. Primary School,  Cheral,, Terraced
+Main Building, Middle  Portion , North
+facing.","1.Muzhucode (R.V) Vellamcode  (P)
+Ward 1,2, Block 9, Kattuvilai.
+Pallivilai.",All Voters
+135,233,135,"Govt. Primary School,  Cheral ,, Northern
+Terraced Building, Eastern Portion , South
+facing.","1.Chitharal (R.V)  Vellamcode  (P) Ward 1, Block 7, Pallivilai",All Voters
+136,233,136,"Government Primary School,  Cheral, ,
+Northern Terraced Building, West Portion ,
+South  facing.","1.Chitharal (R.V)  Vellamcode  (P) Ward 1, Block 5, Aarani",All Voters
+137,233,137,"Government Primary School,  Cheral ,, Western Terraced Building on the Northern side,  East Portion , South  facing.","1.Chitharal (R.V) Vellamcode  (P) Ward 4, Block 1, Chitharal",All Voters
+138,233,138,"Govt High School , Vellamcode at
+Chitharal , , Asbestos Central Building,
+East Portion, North facing.","1.Muzhucode (R.V) Vellamcode  (P)
+Ward 3, Block 13,15, Chitharal,
+Thattankonam.",All Voters
+139,233,139,"Govt Primary School, Vellamcode,, North Terraced Building,  South Facing, West Portion","1.Chitharal (R.V)  Vellamcode  (P) Ward 4, Block 10, Mangalathuvilai , 2.Chitharal (R.V)  Vellamcode  (P) Ward 5, Block 11, Kallunaathi",All Voters
+140,233,140,"Govt Primary School, Vellamcode, , Terraced East Building, North Portion,
+West Facing","1.Chitharal (R.V)  Vellamcode  (P) Ward 5,Block 16, Vellamcode",All Voters
+141,233,141,"Govt Primary School, Vellamcode, ,
+Terraced East Building, South Portion,
+West Facing","1.Chitharal (R.V)  Vellamcode  (P) Ward 5,Block 17, Vellamcode",All Voters
+142,233,142,"St. Venseslas R.C Primary School, Alamparai,, Asbestos Building, North portion, East Facing.","1.Pacode B (R.V) Pacode (T.P) Ward
+12, Block 9, Chemmantharai, Kadamacode , 2.Pacode B(R.V) Pacode  (T.P) Ward 12, Block 9,
+Pullanivilai",All Voters
+143,233,143,"St. Venseslas R.C Primary School, Alamparai,, Asbestos  Building, South portion East Facing.","1.Pacode B(R.V) Pacode (T.P) Ward 10, Block 5, Venganamcode ,
+2.Pacode B (R.V) Pacode (T.P) Ward 10, Block 6, Vengalamcode",All Voters
+144,233,144,"St. Venseslas R.C Primary School, Alamparai,, Terraced main Building, North portion East facing.","1.Pacode B (R.V) Pacode (T.P) Ward
+11, Block 7, Thothalivilai , 2.Pacode B (R.V) Pacode (T.P) Ward 11, Block 8,
+Thachanvilai",All Voters
+145,233,145,"St. Venseslas R.C Primary School, Alamparai,, Terraced main Building, Middle portion East facing.","1.Pacode B (R.V) Pacode (T.P) Ward 12, Block 10, Kunnanjorivilai ,
+2.Pacode B (R.V) Pacode (T.P) Ward 12, Block 11, Elanjivilai , 3.Pacode B (R.V) Pacode (T.P) Ward 13, Block 12, Kattuvilai, Perai",All Voters
+146,233,146,"Abraham Memorial H. S.S, Maruthancode,, South Terraced Building, South Portion , North Facing","1.Maruthancode (R.V),
+Maruthancode (P) Ward 1,2, Block 9,10, Maruthancode , 2.Maruthancode(R.V), Maruthancode (P) Ward 1, Block 11,
+Enthiravilai",All Voters
+147,233,147,"Abraham Memorial H. S.S, Maruthancode,, West Terraced Building, Middle Portion, East Facing","1.Maruthancode (R.V), Maruthancode (P) Ward 1, Block 12, Puthukulam , 2.Maruthancode (R.V), Maruthancode (P) Ward 2, Block 9, Kattukonamcode",All Voters
+148,233,148,"Abraham Memorial H. S.S, Maruthancode,,
+West Terraced Building, Middle portion,
+East facing.","1.Maruthancode (R.V),
+Maruthancode (P) Ward 1, Block 13,
+Choozhikonam",All Voters
+149,233,149,"Abraham Memorial H. S.S, Maruthancode,,
+West Terraced Building, Middle portion,
+East facing.","1.Maruthancode (R.V),
+Maruthancode (P) Ward 2, Block 8,
+Maruthancode",All Voters
+150,233,150,"Abraham Memorial H. S.S, Maruthancode,, North Terraced Building, North  portion, South facing.","1.Maruthancode (R.V), Maruthancode (P) Ward 2, Block 7, Kottamavilai , 2.Maruthancode (R.V), Maruthancode (P) Ward 2, Block 7, Nullicaud , 3.Maruthancode (R.V), Maruthancode (P) Ward 2, Block 7, Thudiakkaravilai",All Voters
+151,233,151,"Government L. M.Primary School,
+Maruthancode,, Terraced Building, South
+portion East facing.","1.Maruthancode (R.V),
+Maruthancode (P) Ward 1, Block 1,2,
+Koottamavilai",All Voters
+152,233,152,"Government L. M.Primary School,
+Maruthancode,, Terraced Building, Middle
+portion East facing.","1.Maruthancode (R.V),
+Maruthancode (P) Ward 3, Block 3
+Nadaparavilai.",All Voters
+153,233,153,"Govt. Primary School, Pacode Colony,,
+Terraced Building, South portion East
+facing.","1.Maruthancode (R.V),
+Maruthancode (P) Ward 4, Block 4,
+Kazhuvanthittai",All Voters
+154,233,154,"Govt. Primary School, Pacode Colony,,
+Terraced Building, North portion East
+facing.","1.Maruthancode (R.V),
+Maruthancode (P) Ward 4, Block 5,6,
+Kazhuvanthittai",All Voters
+155,233,155,"Govt. High School, Melpuram  at
+Vattavilai,, Terraced North Building,
+North portion, South facing.","1.Pacode A(R.V) Pacode (T.P) Ward 1, Block 1, Chemmankalai.",All Voters
+156,233,156,"Govt. High School, Melpuram  at
+Vattavilai, , West Terraced Building,   East
+portion, North facing.","1.Pacode A(R.V) Pacode (T.P) Ward 10, Block 2, Koodamcode, Melpuram.",All Voters
+157,233,157,"Govt. High School, Melpuram  at
+Vattavilai,, Terraced North  Building,
+South portion, North facing.","1.Pacode A (R.V) Pacode (T.P) Ward 4, Block 15, Ooralivilai.",All Voters
+158,233,158,"Govt. High School, Melpuram  at
+Vattavilai,, Terraced South Building,
+North portion, West facing.","1.Pacode (R.V) and (T.P) Ward 5, Block 4, Piranivilai",All Voters
+159,233,159,"Govt. High School, Melpuram  at Vattavilai,, Terraced South  Building, South portion, West facing.","1.Pacode A(R.V) Pacode (T.P) Ward
+1, Block 19, Khottavilai , 2.Pacode A(R.V) Pacode (T.P) Ward 1, Block
+17, Vattavilai",All Voters
+160,233,160,"Town Panchayat Office,  Pacode, ,Main Building,  Middle portion, West facing.","1.Pacode A(R.V) Pacode (T.P) Ward
+1, Block 18, Kottavilai , 2.Pacode A(R.V) Pacode (T.P) Ward 2, Block
+16, Kuttamvilai",All Voters
+161,233,161,"Govt Primary School, Melpuram,, Terraced South Building, North portion, East facing.","1.Pacode A(R.V) Pacode (T.P) Ward 3, Block  3, Melpuram, Vazhavilai",All Voters
+162,233,162,"Govt. L.M Primary School, Mavilai,,
+Terraced Main Building,   Middle portion,
+West facing.","1.Pacode A (R.V) Pacode (T.P) Ward 9, Block 14, Nedunilam",All Voters
+163,233,163,"Govt. L.M Primary School, Mavilai,,
+Terraced  Main Building,  South portion,
+West facing.","1.Pacode A(R.V) Pacode (T.P) Ward 9,10, Block 13, Mottavilai",All Voters
+164,233,164,"Govt. L.M Primary School, Mavilai,,
+Terraced  West Building,  North portion,
+West facing.","1.Pacode A (R.V) Pacode (T.P) Ward 6, Block 31, Thenamparai.",All Voters
+165,233,165,"Govt. L.M Primary School, Mavilai,, Terraced  West Building,  South portion, West facing.","1.Pacode A(R.V) Pacode (T.P) Ward
+13, Block 28, Veeranivilai , 2.Pacode A(R.V) Pacode (T.P) Ward 9, Block
+30, Mukkalavilai.",All Voters
+166,233,166,"Sacred Heart High School, Ottivilai,,
+Terraced  Building,  South portion, East
+facing.","1.Pacode B(R.V) Pacode (T.P) Ward 14, Block 37, Panaivilai",All Voters
+167,233,167,"Sacred Heart High School, Ottivilai, , Terraced  Building,  North portion, East facing.","1.Pacode B (R.V) Pacode (T.P) Ward
+14, Block 29, Ottivilai , 2.Pacode B(R.V) Pacode (T.P) Ward 6, Block
+36, Gnaramvilai",All Voters
+168,233,168,"Panchayat Union Office, Melpuram,, Terraced  Building,  Chairman room,   East facing.","1.Pacode A (R.V) Pacode (T.P) Ward 6, Block 35, Muyalamvilagam ,
+2.Pacode A(R.V) Pacode (T.P) Ward 8, Block 34, Thommanvilai",All Voters
+169,233,169,"Panchayat Union Office, Melpuram,, Terraced  Building, BDO Room,   West facing.","1.Pacode A (R.V) Pacode (T.P) Ward 7, Block 32, Palayanketty , 2.Pacode A(R.V) Pacode (T.P) Ward 8, Block 33, Kadanthancode",All Voters
+170,233,170,"Panchayat Union Office, Melpuram, ,E
+Sevai Centre Terraced Building,  West
+Portion South facing.","1.Pacode A(R.V) Pacode (T.P) Ward 7, Block 21, Chennathara Thottam.",All Voters
+171,233,171,"Panchayat Union Office, Melpuram, , E
+Sevai Centre Terraced Building,  Middle
+Portion South facing.","1.Pacode A (R.V) Pacode (T.P) Ward 7, Block 20, Kottaravilai.",All Voters
+172,233,172,"Panchayat Union Office, Melpuram,,
+Terraced  Building,  Office room,   West
+facing.","1.Pacode A(R.V) Pacode (T.P) Ward 4, Block 22, Paruthivilai",All Voters
+173,233,173,"Govt. Higher Sec School, Thickurichy, , Tiled  Building,  North portion, East facing.","1.Pacode B (R.V) Pacode (T.P) Ward
+13, Block 23, Kottaravilai , 2.Pacode B(R.V) Pacode (T.P) Ward 13, Block
+26, Kallaravilai.",All Voters
+174,233,174,"Govt. Higher Sec School, Thickurichy, ,
+North Terraced  Building,  South portion,
+East facing.","1.Pacode B(R.V) Pacode (T.P) Ward 18, Block 39, Kattuvilai",All Voters
+175,233,175,"Govt. Higher Sec School, Thickurichy,,
+Terraced  Main Building,  Ground floor,
+East portion, North facing.","1.Pacode B(R.V) Pacode (T.P) Ward 17, Block 24 Thikkurichi",All Voters
+176,233,176,"Govt. Higher Sec School, Thickurichy,,
+Terraced  Main Building,  Ground floor,
+West portion, North facing.","1.Pacode B(R.V) Pacode (T.P) Ward 17, Block 25, Thikkurichi",All Voters
+177,233,177,"Govt. Higher Sec School, Thickurichy,, Terraced  Western Building,   South Portion, East facing.","1.Pacode B(R.V) Pacode (T.P) Ward 16, Block 27  Elanjavilai , 2.Pacode B(R.V) Pacode (T.P) Ward 15,17,
+Block  38, Pallathuvilai",All Voters
+178,233,178,"T. C.K. Hr.Sec.School,
+Pandanthalumoodu,, Terraced  Office
+main Building,  West  Portion,  facing.South","1.Kaliyakkavilai(R.V), Kaliyakkavilai(T.P) Ward 8,9,17
+Block 17, Meenachal.",All Voters
+179,233,179,"T. C.K. Hr.Sec.School,
+Pandanthalumoodu,, Terraced  Office main Building,  West East Portion,  facing.
+South  .","1.Kaliyakkavilai(R.V),Kaliyakkavilai( T.P) Ward8, Block18,Padanthalumoodu.",All Voters
+180,233,180,"Govt High School, Ottamaram at
+Kaliyakkavilai ,, Terraced West Building,
+North Portion, South Facing,","1.Kaliyakkavilai(R.V),
+Kaliyakkavilai(T.P) Ward14, Block8,
+Kithakkuzhi. ,",All Voters
+181,233,181,"T. C.K. Hr.Sec.School,
+Pandanthalumoodu, , Terraced  Office main Building,  Middle  Portion,  South
+Facing","1.Kaliyakkavilai(R.V),Kaliyakkavilai( T.P) Ward9,11, Block15, Pattathuvilai.",All Voters
+182,233,182,"Govt High School, Ottamaram at
+Kaliyakkavilai ,, Terraced South Building,
+East Portion, North Facing","1.Kaliyakkavilai(R.V),
+Kaliyakkavilai(T.P) Ward9,10,11
+Block16, Ottamaram.",All Voters
+183,233,183,"Govt.  Muslim Primary School, Kaliyakkavilai,, Asbestos main Building, West Block, South   Portion,  facing. East","1.Kaliyakkavilai(R.V),
+Kaliyakkavilai(T.P) Ward13, Block1, Kaliyakkavilai. , 2.Kaliyakkavilai(R.V), Kaliyakkavilai(T.P) Ward15, Block2, Postoffice. , 3.Kaliyakkavilai(R.V),Kaliyakkavilai( T.P) Ward12,13 Block7,
+Kaliyakkavilai.",All Voters
+184,233,184,"Govt.  Primary School,  Ottapanavilai at Alamparai, , Main South Terraced Building,   West Portion,  Facing North .","1.Kaliyakkavilai(R.V).Kaliyakkavilai( T.P) Ward2, Block5, Mecode. ,",All Voters
+185,233,185,"St. Aloysius Primary School, Kaliakkavilai at RC Street, , Terraced Main Building, South Portion, East Facing.","1.Kaliyakkavilai(R.V), Kaliyakkavilai(T.P) Ward12, Block6, Kalaichanthai.",All Voters
+186,233,186,"Govt.  Primary School,   Ottapanavilai at
+Alamparai, , East Terraced   Building,
+West Portion, South Facing","1.Kaliyakkavilai(R.V),
+Kaliyakkavilai(T.P) Ward3, Block9,
+Alamparai.",All Voters
+187,233,187,"Govt.  Primary School,   Ottapanavilai at Alamparai , North Terraced   Building, West side, West  Portion, Facing South","1.Kaliyakkavilai(R.V), Kaliyakkavilai(T.P) Ward1, Block3, Mannarippu.",All Voters
+188,233,188,"Govt.  Primary School,   Ottapanavilai at Alamparai,, North Terraced   Building, West side, East Portion, Facing  South","1.Kaliyakkavilai(R.V), Kaliyakkavilai(T.P) Ward2,15 Block4, Panangkalai.",All Voters
+189,233,189,"St.  Joseph Hr.Sec.School, Thiruthuvapuram, , North Terraced Building,  West Portion, South Facing.","1.Kaliyakkavilai(R.V), Kaliyakkavilai(T.P) Ward4, Block10, Manjavilai. , 2.Kaliyakkavilai(R.V), Kaliyakkavilai(T.P) Ward4, Block11, Eruthaavoor. ,  3.Kaliyakkavilai(R.V), Kaliyakkavilai(T.P). Ward4, Block12, Parakkonam",All Voters
+190,233,190,"St.  Joseph Hr.Sec.School, Thiruthuvapuram, , West Terraced Building,  North Portion, East Facing.","1.Kaliyakkavilai(R.V), Kaliyakkavilai(T.P) Ward4,Block 13, Eruthavoor. , 2.Kaliyakkavilai(R.V), Kaliyakkavilai(T.P) Ward5, Block 14, Thetti ,",All Voters
+191,233,191,"St.  Joseph Hr.Sec.School,
+Thiruthuvapuram,,  North Terraced
+Building, East Portion, South Facing.","1.Kaliyakkavilai(R.V),
+Kaliyakkavilai(T.P). Ward5,6
+Block19, Thetti. ,",All Voters
+192,233,192,"St.  Joseph Hr.Sec.School, Thiruthuvapuram, , West Terraced
+Building, South Portion, East Facing.","1.Kaliyakkavilai(R.V), Kaliyakkavilai(T.P) Ward5,6 Block
+20,21,22 Manjavilai.",All Voters
+193,233,193,"St.  Joseph Hr.Sec. School,
+Thiruthuvapuram,,  Terraced Main Building,   North Block, East Portion,
+Facing South.","1.Kaliyakkavilai(R.V), Kaliyakkavilai(T.P) Ward7, Block23 Puzhiyankulam.",All Voters
+194,233,194,"St.  Joseph Hr.Sec. School, Thiruthuvapuram, , Terraced Main Building, East Block, North Portion, West Facing.","1.Kaliyakkavilai(R.V),
+Kaliyakkavilai(T.P) Ward7, Block24, Kaliyakkavilai. 2.
+Kaliyakkavilai(R.V), Kaliyakkavilai(T.P) Ward7, Block25,
+Puzhiyankulam.",All Voters
+195,233,195,"Govt.  Hr.Sec.School,  Vilavancode,,
+Terraced,  Western Building, Southern
+Portion, Facing East","1.Vilavancode(R.V), Villavancode(P). Ward1, Block3, Kattuvilai",All Voters
+196,233,196,"Govt.  Hr.Sec.School,  Vilavancode,, Terraced,  Western Building, Middle Portion, Facing East","1.Vilavancode(R.V), Vilavancode(P). Ward18, Block7, Periyavilai. , 2.Vilavancode(R.V), Vilavancode(P) Ward14, Block8, Vilavancode.",All Voters
+197,233,197,"Govt.  Hr.Sec.School,  Vilavancode,, Terraced,  Western Building, North Portion, Facing East,","1.Vilavancode(R.V), Vilavancode(P). Ward1, Block 9, Mulamuttuvilai. , 2.Vilavancode(R.V), Vilavancode(P). Ward1, Block14, Pottadai. , 3.Vilavancode(R.V), Vilavancode(P) Ward1, Block15, Pazhavar.",All Voters
+198,233,198,"Govt.  Primary School, Palavilai at Mulamoottuvilai,Terraced,  , North Second Building, East Portion,Facing  South.","1.Vilavancode(R.V),Vilavancode(P) Ward3, Block1, Madichal.",All Voters
+199,233,199,"Govt.  Primary School, Palavilai at Mulamoottuvilai,, Terraced,  North Second Building, West Portion, Facing South.","1.Vilavancode(R.V), Vilavancode(P) Ward3, Block 2, Santhavilai.",All Voters
+200,233,200,"Govt.  Primary School, Palavilai at Mulamoottuvilai,, Terraced,  North  third Building, East Portion,Facing  South.","1.Vilavancode(R.V), Vilavancode(P) Ward4, Block4, Maniyanthattu. , 2.Vilavancode(R.V),Villavancode(P) Ward4, Block5, Erichavilai.",All Voters
+201,233,201,"Govt.  Primary School, Palavilai at Mulamoottuvilai,, Terraced,  North  third Building, West Portion, Facing South.","1.Vilavancode(R.V), Vilavancode(P) Ward4, Block6, Palavilai.",All Voters
+202,233,202,"Govt.  Primary School, Palavilai at Mulamootuvilai,, Terraced,  East Building, North Portion, Facing  West.","1.Vilavancode(R.V), Vilavancode(P). Ward 3,1 Block 10, Pottavillai. , 2.Vilavancode(R.V), Vilavancode(P) Ward2, Block11, Kattumukku. , 3.Vilavancode(R.V),Vilavancode(P) Ward2, Block12, Ethanvilai. , 4.Vilavancode(R.V), Vilavancode(P). Ward2, Block13, Madichal.",All Voters
+203,233,203,"Madhavavilasam  Govt.  Middle School, Marthandam,, Terraced,  East Building, Middle Portion, Facing West.","1.Kuzhithurai(R.V), Kuzhithurai(M). Ward19, Block 2,Theater Junction, Amman Kovil. , 2.Kuzhithurai(R.V), Kuzhithurai(M) Ward20, Block 3,
+R.C Street, Market.",All Voters
+204,233,204,"Madhavavilasam  Govt.  Middle School, Marthandam,, Terraced,  East Building, South Portion, Facing West.","1.Kuzhithurai(R.V), Kuzhithurai(M) Ward20, Block4, Marakkarichanthai. 2.Kuzhithurai(R.V), Kuzhithurai(M). Ward20, Block5, Karunkal Road.",All Voters
+205,233,205,"Madhavavilasam  Govt.  Middle School, Marthandam,, Tiled,  East Building, Middle Portion, Facing West.","1.Kuzhithurai(R.V), Kuzhithurai(M). Ward18, Block1, Pammam.",All Voters
+206,233,206,"L. M.S. Girls Hr.Sec.School,  Marthandam,, Tiled, Prayer Hall, West Portion, Facing North.","1.Kuzhithurai(R.V), Kuzhithurai(M). Ward21, Block6, Hospital Area. , 2.Kuzhithurai (R.V), Kuzhithurai(M) Ward12, Block26, Kuzhivilai.",All Voters
+207,233,207,"L. M.S. Girls Hr.Sec.School,  Marthandam,, Tiled, Prayer Hall, East Portion, Facing East.","1.Kuzhithurai(R.V), Kuzhithurai(M) Ward13, Block27, Paruthivilai. , 2.Kuzhithurai(R.V), Kuzhithurai(M) Ward15, Block28, Northstreet.",All Voters
+208,233,208,"Govt.  Girls Hr.Sec.School,  Marthandam,,
+Terraced,  South Building, East Portion,
+Facing North.","1.Kuzhithurai(R.V) Kuzhithurai(M) Ward11, Block25, Paruthivilai.",All Voters
+209,233,209,"Govt.  Girls Hr.Sec.School,  Marthandam,,
+Terraced,  South Building, West Portion,
+Facing North.","1.Kuzhithurai(R.V), Kuzhithurai(M) Ward11, Block7,24 Vettuventi.",All Voters
+210,233,210,"Govt.  Hr.Sec.School, Vilavancode,,
+Terraced , West Building at Entrance,
+North Portion, Facing East.","1.Kuzhithurai(R.V), Kuzhithurai(M) Ward10, Block8, RestHouse Area.",All Voters
+211,233,211,"Govt.  Hr.Sec.School, Vilavancode,, Main Building, South Portion, Facing East","1.Kuzhithurai(R.V),Kuzhithurai(M). Ward9, Block10, Vilavancode.
+2.Kuzhithurai(R.V), Kuzhithurai(M) Ward10, Block9, Vilavancode.",All Voters
+212,233,212,"Govt.  Hr.Sec.School, Vilavancode,, New Terraced Building, South Portion, Facing East.,","1.Kuzhithurai(R.V), Kuzhithurai(M) Ward8,9 Block11, Kalluketti. , 2.Kuzhithurai(R.V), Kuzhithurai(M). Ward6, Block15, Senkanmoolai.",All Voters
+213,233,213,"Govt.  Hr.Sec.School, Vilavancode,, Main Building, North Portion, Facing East.","1.Kuzhithurai(R.V), Kuzhithurai(M) Ward1, Block 16, Edavilakam.",All Voters
+214,233,214,"Infant Jesus Primary and Nursery, Thiruthuvapuram,, Main Building, South Portion, East Facing.","1.Kuzhithurai(R.V), Kuzhithurai(M) Ward7,8 Block12,13 Kattuvilai. , 2.Kuzhithurai(R.V), Kuzhithurai(M) Ward7, Block13, Thiruthuvapuram.",All Voters
+215,233,215,"Govt.  Girls Middle School,  Kuzhithurai at Vilavancode,, Terraced, North Building, East portion,Facing  South.","1.Kuzhithurai(R.V), Kuzhithurai(M) Ward6,7 Block 14, Edakkulam.
+2.Kuzhithurai(R.V), Kuzhithurai(M) Ward3, Block22, Taluk Office. , 3.Kuzhithurai(R.V), Kuzhithurai(M) Ward4, Block23, Kacheriward.",All Voters
+216,233,216,"Govt.  Girls Middle School,  Kuzhithurai at Vilavancode,, Terraced, North Building, Middle portion, Facing South.","1.Vilavancode(R.V), Kuzhithurai(M) Ward2, Block17, Edavilakam.",All Voters
+217,233,217,"Govt.  Girls Middle School,  Kuzhithurai at Vilavancode,, Terraced, South Building, East portion, Facing North.","1.Kuzhithurai(R.V), Kuzhithurai(M) Ward1, Block20, Thaluk Office. , 2.Kuzhithurai(R.V), Kuzhithurai(M). Ward2, Block21, Palace.",All Voters
+218,233,218,"Govt. Gramam Primary School,
+Kuzhithurai,, Terraced Building, Middle
+Portion, South Facing","1.Kuzhithurai (R.V), Kuzhithurai (M) Ward 2, Block 18, Nariyanvilai.",All Voters
+219,233,219,"Govt. Gramam Primary School,
+Kuzhithurai,, Terraced Building, West
+Portion, South Facing","1.Kuzhithurai (R.V), Kuzhithurai (M) Ward 3, block 19, Peruntheru.",All Voters
+220,233,220,"M. J.K.M. Malangarai Sirian Catholic Hr.Sec. School ,  Kodungulam  at Kalpootavilai,, Terraced Main, South Building, East    portion, North Facing .","1.Kuzhithurai (R.V), Kuzhithurai (M) Ward17, Block31, Kodunkulam.",All Voters
+221,233,221,"M. J.K.M. Malangarai Sirian Catholic
+Hr.Sec. School ,  Kodungulam  at Kalpootavilai,, Terraced Main, South Building, East Middle   portion, North
+Facing .","2.Kuzhithurai(R.V), Kuzhithurai(M) Ward17,18 Block 32, Edanthinkavilai.",All Voters
+222,233,222,"M. J.K.M. Malangarai Sirian Catholic High
+School ,  Kodungulam at Kalpootavilai,, Terraced Main, South Building, West
+portion,Facing  North.","1.Kuzhithurai(R.V), Kuzhithurai(M). Ward 15, Block29, Emilan Ward.",All Voters
+223,233,223,"M. J.K.M. Malangarai Sirian Catholic High School ,  Kodungulam at Kalpootavilai,, Terraced Main, South Building, Middle portion,Facing  North.","1.Kuzhithurai(R.V), Kuzhithurai(M) Ward 16, Block30, Chirushthurajapuram.",All Voters
+224,233,224,"Govt.  High School,  Unnamalaikadai at Keezhatheru.,, Terraced, North Building, West portion, Facing South.","1.Nalloor (R.V), Unnamalaikadai (T.P). Ward 5, Block 7, Payanam,
+2.Nalloor (R.V), Unnamalaikadai (T.P.) Ward 12, Block 9, Unnamalaikadai Mela Street",All Voters
+225,233,225,"Govt.  High School,  Unnamalaikadai at
+Keezhatheru.,, Terraced, North Building,
+East portion, Facing South.","1.Nalloor (R.V) Unnamalaikadai
+(T.P) Ward 5, Block 8,
+Unnamalaikadai, Payanam.",All Voters
+226,233,226,"Child Jesus Metri.  School,
+Unnamalaikadai,, Terraced Main Building,
+East portion, Facing  South.","1.Nalloor(R.V), Unnamalaikadai
+(T.P.) Ward 3,4, Block 4, House No 1 -
+105,  Aayirumthengu.",All Voters
+227,233,227,"Child Jesus Metri.  School, Unnamalaikadai, , Terraced Main Building, Middle portion, South Facing.","1.Nalloor(R.V), Unnamalaikadai (T.P.) Ward 3,4, Block 4, House No 106 - 310,  Aayirumthengu.",All Voters
+228,233,228,"Child Jesus Metri.  School,
+Unnamalaikadai, Terraced Main Building,
+West portion,Facing  South.","1.Nalloor (r.v), unnamalaikadai (t.p).
+Ward 12,14 Block 10, Pammam,
+Marthandam.",All Voters
+229,233,229,"Govt.  High School, Unnamalaikadai at Keezhatheru,, Terraced, South Building, East portion,Facing  North.","1.Nalloor (R.V), Unnamalaikadai
+(T.P) Ward 6,7, Block 16, Sirayankuzhi. , 2.Nalloor (R.V), Unnamalaikadai (T.P). Ward 5,
+Block 6, Manalivilai ,Kumpalam.",All Voters
+230,233,230,"Government Primary School,
+Unnamalaikadai at Keezhatheru,, Terraced, East Building, North
+portion,Facing  West.","1.Nalloor (R.V), Unnamalaikadai (T.P) Ward 1,4, Block 2, House No 1 -
+120, Kuruvikaatuvilai.",All Voters
+231,233,231,"Government Primary School,
+Unnamalaikadai at Keezhatheru, , Terraced West Building, East portion,
+North Facing.","1.Nalloor (R.V), Unnamalaikadai (T.P) Ward 1,4, Block 2, House No 121 - 300, Kuruvikaatuvilai.",All Voters
+232,233,232,"Government Primary School,
+Unnamalaikadai at Keezhatheru,, Terraced, East Building, South portion,
+Facing West.","1.Nalloor (R.V), Unnamalaikadai (T.P). Ward 4, Block 5, Unnamalaikadai Keela Street.",All Voters
+233,233,233,"Emilan Memorial Nursery and Primary
+School,  Kanjirapuram , , Terraced Main Under Ground West Building, South
+Portion, East Facing","1.Unnamalaikadai (R.V),Unnamalaikadai (T.P). Ward 11, block 14, Chankai,",All Voters
+234,233,234,"Emilan Memorial Nursery and Primary
+School,  Kanjirapuram , , Terraced Main Under Ground West Building, North
+Portion, East Facing","1.Unnamalaikadai (R.V),Unnamalaikadai (T.P), Ward 7, block 17, Eraviputhoorkadai.",All Voters
+235,233,235,"Government Primary School, Unnamalaikadai at Keezhatheru,, Tiled, East Building, South portion, Facing  West.","1.Nalloor (r.v), unnamalaikadai (t.p)
+Ward 1, block 1, kodunkulam. ,
+2.Nalloor (R.V), Unnamalaikadai (T.P). Ward 2,3, Block 3,
+Thachanvilagam.",All Voters
+236,233,236,"Govt.  Middle School,  Kanjirapuram,,
+Terraced, Main Building, North portion,
+Facing East.","1.Unnamalaikadai (R.V),
+Unnamalaikadai (T.P) Ward 9,10,
+Block 19, Kaniyanvilai.",All Voters
+237,233,237,"Govt.  Middle School,  Kanjirapuram,, Terraced, Main Building, South portion, Facing  East .","1.Unnamalaikadai (R.V), Unnamalaikadai (T.P) Ward 9, block 20, Perumpuzhi. , 2.Unnamalaikadai (R.V), Unnamalaikadai (T.P) Ward 10, block 21, Chankai.",All Voters
+238,233,238,"Emilan Memorial Nursery and Primary School,  Kanjirapuram ,, Terraced Building, North Block, West Portion, South Facing","1.Unnamalaikadai (R.V),
+Unnamalaikadai (T.P) Ward 11,13,14, Block 12, Block 22 House
+No 1 - 90,  Kottagam.",All Voters
+239,233,239,"Emilan Memorial Nursery and Primary School,  Kanjirapuram ,, Terraced North Building, Middle Portion, South Facing","1.Unnamalaikadai (R.V),
+Unnamalaikadai (T.P) Ward 11,13,14, Block 22 House No 91 - 260,
+Kottagam.",All Voters
+240,233,240,"Emilan Memorial Nursery and Primary School,  Kanjirapuram,, Terraced, West Building, Southern Portion, Facing East.","1.Unnamalaikadai (R.V), Unnamalaikadai (T.P) Ward 11,13, Block 13, Chankai.",All Voters
+241,233,241,"Emilan Memorial Nursery and Primary School,  Kanjirapuram,, Terraced, West Building, North Portion, Facing East","1.Unnamalaikadai (R.V),Unnamalaikadai (T.P) Ward 8, Block 15, Perumpuzhi.",All Voters
+242,233,242,"Government Primary School, Kanjiracode,, Terraced, Main Building, South portion, Facing West .","1.Unnamalaikadai (R.V), Unnamalaikadai (T.P) Ward 12,13,18, Block 11, Vattavilai, Kovil Vilai, Vengavilai, Kuzhivilai.",All Voters
+243,233,243,"Govt.  High School,  Kanjiracode,, Tiled, South Building, Middle portion, Facing North.","1.Unnamalaikadai (R.V), Unnamalaikadai (T.P) Ward 13,14,15, Block 12 House No : 1 to
+100, Kalluvilai, Kuzhikaravilai.",All Voters
+244,233,244,"Govt.  High School,  Kanjiracode,, Terraced, East Building, Facing  West.","1.Unnamalaikadai (R.V), Unnamalaikadai (T.P) Ward 13,14,15, Block 12, House No : 101 to
+800,  Chirayankuzhi, Kuzhikaravilai.",All Voters
+245,233,245,"Govt.  Primary School, Nalloor at
+Karavilagam, , Asbetos Sheet, West
+Building, North portion, Facing  East.","1.Nalloor (R.V) and (T.P) Ward 9,10, Block 10, Karavilagam, karavilai.",All Voters
+246,233,246,"Govt.  Primary School, Nalloor at Karavilagam, , Terraced East Building, Middle portion, West Facing.","1.Nalloor (R.V) and (T.P) Ward 9,10, Block 11, Karavilagam.",All Voters
+247,233,247,"White Memorial Matric School,  Market ward,  Marthandam,, Terraced, Main Building, South portion, Facing West .","1.Nalloor (R.V) and (T.P) Ward 1, block 4, Pammam.",All Voters
+248,233,248,"White Memorial Matric School,  Market ward,  Marthandam,, Terraced, Main Building, North portion ,Facing  West.","1.Nalloor (R.V) and (T.P) Ward 12, block 9, Neduvilai, Pallanvilai.",All Voters
+249,233,249,"Govt.  Primary School,  Kalachanthai  at
+Ayiramvilai, , Asbetos Sheet, North
+Building, East portion, Facing South.","1.Nalloor (R.V) and (T.P) Ward 2,17, Block 5, Chathanankuzhi.",All Voters
+250,233,250,"Govt.  Primary School,  Kalachanthai at Ayiramvilai, , Asbetos Sheet, North Building, West portion, Facing South.","1.Nalloor (R.V) and (T.P) Ward 13,
+block 7, Mampallithotam. , 2.Nalloor (R.V) and (T.P) Ward 11, block
+12,Karavilai.",All Voters
+251,233,251,"White Memorial Matric School  Market ward,  Marthandam, ,, Terraced Main Building, Middle Potion, West Facing","1.Nalloor (R.V) and (T.P) Ward 15,16, Block 3, House No 1 to 185, Pootharathuvilai.",All Voters
+252,233,252,"White Memorial Matric School  Market
+ward,  Marthandam, ,, Terraced Main Building, North East Middle Potion, West
+Facing","1.Nalloor (R.V) and (T.P) Ward 15,16, Block 3, House No 186 to 450, Pootharathuvilai.",All Voters
+253,233,253,"Govt.  Higher Secondary School, Nalloor at Karavilagam,, Terraced, West Building, South portion, Facing East.","1.Nalloor (R.V) and (T.P) Ward 13,
+block 1, Pandiyanvilai. , 2.Nalloor (R.V) and (T.P) Ward 12, Block 6,
+Paparathalavilai.",All Voters
+254,233,254,"Govt.  Higher Secondary School, Nalloor at Karavilagam, , Terraced, West Building, North portion, East Facing.","1.Nalloor (R.V) and (T.P) Ward 13, block 8, Kottaranikarai.",All Voters
+255,233,255,"Govt.  Higher Secondary School, Nalloor at Karavilagam,, Terraced, North Building, East portion, Facing South.","1.Nalloor (R.V) and (T.P) Ward 14,18, Block 2, Kasavanvilai.",All Voters
+256,233,256,"Govt.  Primary School,  Irenipuram,, Tiled East Building, North portion, Facing West.","1.Nattalam B (R.V) Nalloor (T.P) Ward 14, 8 Block 17, House No : 201 to 340 Soosaipuram, Kallithattu. ,
+2.Nattalam B(R.V) Nalloor (T.P) Ward  9 Block 17, Aaduthukki",All Voters
+257,233,257,"Govt.  Primary School,  Irenipuram,, Tiled East Building, South portion, Facing West.","1.Nattalam B(R.V) Nalloor (T.P) Ward 7, Block 15,16, Block 17 House No : 1 to 200, Irenipuram, Vellanketti.",All Voters
+258,233,258,"Govt.  Primary School,  Mulankuzhi,,
+Terraced North West Building, West
+portion, Facing North.","1.Nattalam B(R.V) Nalloor (T.P) Ward 3, Block 13, Mulankuzhi.",All Voters
+259,233,259,"Govt.  Primary School,  Mulankuzhi,,
+Terraced North West Building, East
+portion, Facing North.","1.Nattalam B(R.V) Nalloor (T.P) Ward 4, block 19, Nelveli.",All Voters
+260,233,260,"Govt.  Primary School,  Mulanguzhi,,
+Terraced South East Building, West
+portion, Facing North.","1.Nattalam B (R.V) Nalloor (T.P) Ward 8, Block 14, Muzhankuzhi.",All Voters
+261,233,261,"Govt.  Primary School,  Mulanguzhi,,
+Terraced South West Building, East
+portion, Facing North.","1.Nattalam B (R.V) Nalloor (T.P) Ward 5, Block 18, Nelveli.",All Voters
+262,233,262,"Town Panchayat office, Unnamalaikadai,, Terraced Building, South portion, Facing South. (Community Hall)","1.Unnamalaikadai (R.V),
+Unnamalaikadai (T.P). Ward 18, block 24, Vimalapuram. , 2.Unnamalaikadai (R.V),Unnamalaikadai (T.P) Ward
+17, Block 25, Pandianvilai.",All Voters
+263,233,263,"Govt Primary School, Viricode.,, Terraced Building, West Portion, East Facing","1.Unnamalaikadai (R.V),
+Unnamalaikadai (T.P) Ward 7,18,
+Block 26, Kattachivilai.",All Voters
+264,233,264,"Panchayath Office, Kollanchi.,, Terraced Building, West Portion, South Facing.","1.Kollanchi (R.V), Kollanchi (P) Ward 1,2, Block 1, Kannanvilai.",All Voters
+265,233,265,"Ankanvadi Centre, Kollanchi.,, New
+Terraced Building, North Portion, West
+Facing.","1.Kollanchi (R.V), Kollanchi (P) Ward 1,2, block 3,4 Kollanchi .",All Voters
+266,233,266,"TownPanchayat office, Unnamalaikadai ,, Terraced Building, North portion, Facing East. (Community Hall)","1.Unnamalaikadai (R.V), Unnamalaikadai (T.P). Ward 15, block 23, Vericode.",All Voters
+267,233,267,"St. Mary Malankarai Syrion Catholic High School,  Nattalam,, Terraced Main Building, South portion, Facing West.","1.Nattalam A(R.V) Nattalam (P). Ward 1, Block 1, Edavilagam North Portion.",All Voters
+268,233,268,"St. Mary Malankarai Syrion Catholic High School,  Nattalam,, Terraced Main Building, South  portion, Facing West.","1.Nattalam A(R.V) Nattalam (P) Ward 1, Block 3, Edavilagam West Portion. , 2.Nattalam A(R.V) Nattalam (P) Ward 1, block 4, Edavilagam South Portion.",All Voters
+269,233,269,"St. Mary Malankarai Syrion Catholic High School,  Nattalam,, Terraced Main Building,   North Portion,  Facing West.","1.Nattalam A(R.V), Unnamalaikadai (T.P) Ward 9, Block 18. Erianvilai.",All Voters
+270,233,270,"St. Mary Malankarai Syrion Catholic High School,  Nattalam,, Terraced Main Building,  North Portion, Facing West","1.Nattalam A(R.V), Unnamalaikadai (T.P) Ward 16, Block 28, Eranchili. ,
+2.Nattalam A(R.V), Unnamalaikadai (T.P) Ward 17, Block 27, Konam.",All Voters
+271,233,271,"Govt.  Primary School,  Vazhathottam,, Tiled Building, West Portion, Facing South.","1.Nattalam A(R.V) Nattalam (P)
+Ward 2, Block 2, Vazhathottam
+North, Vagaivilai",All Voters
+272,233,272,"Govt.  Primary School,  Vazhathottam,, Tiled Building, East Portion, Facing South.","1.Nattalam A(R.V) Nattalam (P)
+Ward 2, Block 5, Vazhaithottam
+South.",All Voters
+273,233,273,"Govt.  Primary School,  Elavuvilai,, Terraced Main Building,  East Portion,
+Facing West.","1.Kollanchi (R.V), Kollanchi (P), Ward 5, Block 2,5, Elavuvilai,",All Voters
+274,233,274,"Govt.  Primary School,  Elavuvilai,,
+Terraced Main Building,  West Portion,
+East Facing.","1.Kollanchi (R.V), Kollanchi (P), Ward 6, Block 6, Kuttanvilai.",All Voters
+275,233,275,"Govt.  Primary School,  Elavuvilai,, Terraced South Building near VAO, Office Kollanchi,  East Portion, Facing North.","1.Kollanchi (R.V),Kollanchi (P) Ward 3,4, Block 7, House No : 1 to 100, Kallukoottam .",All Voters
+276,233,276,"Govt.  Primary School,  Elavuvilai,, Terraced South Building near VAO, Office Kollanchi,  West Portion, Facing North.","1.Kollanchi (R.V),Kollanchi (P) Ward 3,4, Block 7, House No: 101 to 300, Chemmuthal.",All Voters
+277,233,277,"Govt.  Hr. Sec School, Nattalam , Terraced East Building,   South Portion, Facing West.","1.Nattalam A(R.V) Nattalam (P)
+Ward 3,4, Block 7, Nattalam. ,
+2.Nattalam A(R.V) Nattalam (P) Ward 3, block 8. Nattalam . ,
+3.Nattalam A(R.V) Nattalam (P)
+Ward 3, Block 9, Nattalam.",All Voters
+278,233,278,"L. M.S Hr.Sec. School,  Palliyadi
+Christhucoil,, Terraced, West Building,
+North Portion, Facing East.","1.Nattalam A(R.V) Nattalam (P) Ward 3, Block 6, Nattalam,Palliyadi.",All Voters
+279,233,279,"L. M.S Hr.Sec. School,  Palliyadi
+Christhucoil,, Terraced, West Building,
+South Portion, Facing East.","1.Nattalam A(R.V) Nattalam (P)
+Ward 3,4, Block10,11, Nattalam,
+Palliyadi",All Voters
+280,233,280,"Govt.  High School,  Marayapuram,, Office Building, South portion, Facing East.","1.Vilathurai (R.V), Vilathurai (P) Ward  2, Block 1,Thekkam Vilagam. , 2.Vilathurai (R.V), Vilathurai (P) Ward1, Block2, Thekkam Vilagam.",All Voters
+281,233,281,"Govt.  High School,  Marayapuram,, Office Building, North portion, Facing East.","1.Vilathurai (R.V), Vilathurai (P) Ward 2, Block 8,17 Thekkamvilagam.",All Voters
+282,233,282,"Govt.  Middle School,  Kunnathur  at Peppilavilai,, North Building, West portion, Facing South.","1.Vilathurai (R.V), Vilathurai (P) Ward 3, Block 9 ,Chembilavilai. , 2.Vilathurai (R.V), Vilathurai (P) Ward 2, Block 10, Alampattuvilai. , 3.Vilathurai (R.V), Vilathurai (P) Ward 2, Block 11, Ochavilai.",All Voters
+283,233,283,"Govt.  Middle School,  Kunnathur  at
+Peppilavilai,, East Building, North
+portion,Facing West.","1.Vilathurai (R.V), Vilathurai (P) Ward  2, Block 16, Kallaravilai.",All Voters
+284,233,284,"Govt.  Primary School, Vilathivilai at Vilathurai,, Tiled Building, West  portion, Facing South.","1.Vilathurai (R.V), Vilathurai (P)
+Ward 1, Block 3, Mancherivilai, Paruthivilai. , 2.Vilathurai (R.V), Vilathurai (P) Ward 1, Block 5,
+Kannetticode, Kalparavilai.",All Voters
+285,233,285,"Govt.  Primary School, Vilathivilai at Vilathurai,, Tiled Building, East  portion, Facing East.","1.Vilathurai (R.V), Vilathurai (P) Ward 1, Block 4, Kannayampazhanji Vilai. , 2.Vilathurai (R.V), Vilathurai
+(P) Ward 1,2, Block12, Vattavilai.",All Voters
+286,233,286,"St.  Antonys High School,  Kappukadu,,
+Terraced South Building, West  portion,
+Facing North","1.Vilathurai (R.V), Vilathurai (P)
+Ward 1, Block 7, Panchivilai,
+Melavilai",All Voters
+287,233,287,"St.  Antonys High School,  Kappukadu,,
+Terraced South Building, East  portion,
+Facing North.","1.Vilathurai (R.V), Vilathurai (P)
+Ward 4, Block13, Kalliyottuvilai,
+Kapikkadu.",All Voters
+288,233,288,"St.  Antonys High School,  Kappukadu,,
+Terraced Building, East  portion, North
+Facing.","1.Vilathurai (R.V), Vilathurai (P)
+Ward 1,Block 4,6 Kappikkadu,
+Kalluvilai, Kalparavilai.",All Voters
+289,233,289,"St.  Antonys High School,  Kappukadu,,
+Terraced Building, Middle East  portion,
+North facing.","1.Vilathurai (R.V), Vilathurai (P)
+Ward 4, Block 14, Thanivillai,
+Marukandanvillai",All Voters
+290,233,290,"St.  Antonys Primary School,  Kappukadu,,
+Terraced Building,  North East  portion,
+West facing.","1.Vilathurai (R.V), Vilathurai (P)
+Ward 2, Block 15, Thalanvilai,
+Kollanvilai, Puliyaravilai",All Voters
+291,233,291,"St. Antonys Primary School, Kappukadu,,
+Terraced Building, North  portion, West
+Facing","1.Vilathurai (R.V), Vilathurai (P)
+Ward 4, Block 24, Pulluvilai,
+Vattavilai, Mavattuvilai",All Voters
+292,233,292,"Govt.  Primary School,  Melangalam,, Tiled Building, East  portion, Facing North.","1.Kunnathoor (R.V), Vilathurai (P)
+Ward 4, Block22, Thumpali, Pottavilai. , 2.Kunnathoor(R.V), Vilathurai(P) Ward 5,Block 27,
+Therivilai.",All Voters
+293,233,293,"Govt.  Primary School,  Melangalam,, Tiled Building, West  portion, North Facing.","1.Kunnathoor (R.V), Vilathurai (P)
+Ward 5, Block 23, Pandarakkadu,
+Meladappuvilai.",All Voters
+294,233,294,"Govt.  Primary School,  Melangalam, , East
+Terraced Building, South  portion, West
+Facing.","2.Kunnathoor (R.V), Vilathurai (P). Ward 5, Block 25, Melangalam.",All Voters
+295,233,295,"Govt.  Primary School,  Melangalam,, Tiled Building, Middle  portion, Facing North.","1.Kunnathoor (R.V), Vilathurai (P) Ward 5, Block 26, Nellikkavilai.",All Voters
+296,233,296,"Govt.  Primary School,   Thottavaram,, Main Building, West portion, Facing South.","1.Kunnathoor (R.V), Veelathurai (P) Ward 3, Block 18, Pandaraparampu.
+, 2.Kunnathoor (R,V), Vilathurai (P) Ward 3, Block 19, Allam. , 3.Kunnathoor (R.V), Vilathurai (P) Ward 3, Block 30, Muttakulam.",All Voters
+297,233,297,"Govt.  Primary School,   Thottavaram,, Main Building, East portion, Facing South.","1.Kunnathoor (R.V), Vilathurai (P) Ward 3, Block21, Thatanvilai.",All Voters
+298,233,298,"Govt.  Middle School,  Uthachikottai,, Tiled Building, East  portion, Facing North.","1.Kunnathoor (R.V), Vilathurai (P).
+Ward 4, Block 20, Paravilai. , 2.Kunnathoor (R.V), Vilathurai (P)
+Ward 3, Block 28, Pepilavilai.",All Voters
+299,233,299,"Govt.  Middle School,  Uthachikottai,,
+South Terraced Building, West  portion,
+Facing North.","1.Kunnathoor (R.V), Vilathurai (P). Ward 3, Block 29, Charalvilai.",All Voters
+300,233,300,"Govt.  Middle School,  Uthachikottai,, Tiled Building, West  portion, Facing North.","1.Kunnathoor (R.V), Vilathurai (P) Ward 3,5  Block 31, Karumpilavilai. , 2.Kunnathoor (R.V), Vilathurai (P). Ward 4, Block  32, Puthukkadaivilai.",All Voters

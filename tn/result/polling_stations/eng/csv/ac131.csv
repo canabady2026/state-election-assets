@@ -1,0 +1,628 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+1,131,Madur,"ST.Britto Aided High School, South Facing Building (West Portion), Pugaiyilaipatti - 624306",1,"Madur (R.V.) and (P) Pugaiyilaipatty W-1,2 (Door No.E1/3-33A to 2-29/4-29)"
+2,131,Madur,"ST.Britto Aided High School, South Facing Building (East Portion), Pugaiyilaipatti - 624306",1,"Madur (R.V.) and (P) Pugaiyilaipatty W-1,2 (Door No.2-29/3-29 to 36A/436A)"
+3,131,Madur,"ST.Britto Aided High School, Western Building 5th Room, Pugailaipatti - 624306",1,"Madur (R.V.) and (P), Pugaiyilaipatti  W-2,3,4,5 (Sl.No 1 - 670)"
+4,131,Madur,"ST Britto Aided High School, 4th Room, Pugailaipatti - 624306",1,"Madur (R.V.) and (P), Pugaiyilaipatti  W-2,3,4,5 (Sl.No Above 671 - 1349)"
+5,131,Madur,"Panchayat Union Elementary School, East Facing North Building, Maniakaranpatti - 624306",1,Madur (R.V.) and (P) Madur Ward 4
+6,131,Madur,"Panchayat Union Elementary School, Maniakaranpatti - 624306",1,Madur (R.V.) and (P) Kalathupatti Ward 4
+7,131,Vanga manuthu,"ST. James R.C Elementary School, East Building, Vangamanuthu - 624306",1,"Vangamanuthu (R.V.) and Siluvathur (P) Ayyakutty
+Patti Ward 1"
+8,131,Vanga manuthu,"Panchayat Union Elementary School, Pallakarrupanpudur - 624306",1,"Vangamanuthu (R.V.) and Siluvathur (P) Pallakarrupan
+Pudur W1"
+9,131,Vanga manuthu,"Hindu Aided Primary School, Kothapulipatti - 624306",1,"Vangamanuthu (R.V.) and Siluvathur (P)
+Kothapulipatty W-1"
+10,131,Siluvathur,"Panchayat Union Elementary School, South
+Facing New Building East Side,  Siluvathur - 624306",1,"Siluvathur (R.V.) and (P) Siluvathur Ward3, (D.No.2E/4-211 to 338/NA)"
+11,131,Siluvathur,"Panchayat Union Primary School, West Facing East Building, Pethayagoundanpatti - 624306",1,Siluvathur (R.V.) and (P) Bethaiagoundanpatti Ward 3
+12,131,Siluvathur,"Panchayat Union Elementary School, South Facing West Side New Building, Siluvathur - 624306",1,Siluvathur (R.V.) and (P) Kambarpatti Ward 4
+13,131,Siluvathur,"Governement High School, West Facing
+Building Centre Portion, Siluvathur - 624306",1,"Siluvathur (R.V.) and (P) Athikaripatti-  W-2,4"
+14,131,Siluvathur,"Governmnet High School, West Facing East
+Building, Siluvathur - 624306",1,Siluvathur (R.V.) and (P) Siluvathur
+15,131,Kambiliyampatti,"Government Higher Secondary School, South
+Facing Building, (East Side), Kambiliyampatti - 624306",1,Kambiliyampatti (R.V.) and (P)  Kambiliyampatti   W-1(Door No.209 to1/123A/NA)
+16,131,Kambiliyampatti,"Government Higer Secondary School, South Facing Building (West Side), Kambiliyampatti -
+624306",1,Kambiliyampatti (R.V.) and (P)  Kambiliyampatti  W-1 (Door No.1-124/NA to 1E/NA)
+17,131,Kambiliyampatti,"Panchayat Union Elementary School,
+Koothampatti - 624306",1,Kambiliyampatti (R.V.) and (P)  Koothampatty W1
+18,131,Kambiliyampatti,"Panchayat Union Elementary School,
+K.Andiyapatti - 624306",1,Kambiliyampatti (R.V.) and (P) Erranchettiyur W2
+19,131,Kambiliyampatti,"Panchayat Union Elementary School,
+Narivilampatti - 624306",1,Kambiliyampatti (R.V.) and (P) Sukkampatti W2
+20,131,Kambiliyampatti,"Anganvadi Centre East Facing Building,
+Narivilampatti - 624306",1,Kambiliyampatti (R.V.) and (P) Akkaraipatti W2
+21,131,Kambiliyampatti,"Panchayat Union Elementary School, South
+Facing Tiled Building, North Side, Ammapatti - 624306",1,Kambiliyampatti (R.V.) and (P) Chinnampatti W5
+22,131,Kambiliyampatti,"Panchayat Union Middle School, Nilapattipudur - 624306",1,"Kambiliyampatti (R.V.) and (P) No
+Changesappattipudur W5"
+23,131,Kambiliyampatti,"Panchayat Union Middile School, South Facing Building, Kattupatti - 624306",1,Kambiliyampatti (R.V.) and (P) Anaikkulampudur W-4
+24,131,Kambiliyampatti,"Panchayat Union Middle School, North Building, Kattupatti - 624306",1,Kambiliyampatti (R.V.) and (P) Periyakattupatti W4
+25,131,Senkurichi,"Panchayat Union Middle School, North Facing Building (East Side), Vallampatti - 624306",1,Senkurichi (R.V.) and  (P) Mamarathupatty  W-1 (Door No.E1/NA to 589/NA)
+26,131,Senkurichi,"Panchayat Union Middle School, North Facing Building (West Side), Vallampatti - 624306",1,Senkurichi (R.V.) and  (P) Valasu W1
+27,131,Senkurichi,"Panchayat Union Middle School, West Facing Building, Vallampatti - 624306",1,"Senkurichi (R.V.) and  (P) Kurumbapatti  W-1,2"
+28,131,Senkurichi,"Panchayat Union Elementary School,
+Northern Building, Senkurichi-624306",1,Senkurichi (R.V)  and (P) Senkurichi W-2
+29,131,Senkurichi,"Panchayat Union Elementary School, North
+Facing South Side Building, Sengurichi -",1,Senkurichi (R.V) and (P) Indra Colony W2
+30,131,Senkurichi,"Panchayat Union Elementary School, Western
+Side New Building, Senkurichi - 624306",1,"Senkurichi (R.V) and (P) Senkurichi  W-2,3"
+31,131,Senkurichi,"Panchayat Union Elementary School, Additional Southern Side West Building,
+Senkurichi - 624306",1,Senkurichi (R.V) and (P) Kalathuveedukal W3
+32,131,Senkurichi,"Panchayat Union Middle School, Additional
+Building, Alampatti - 624306",1,Senkurichi (R.V) and (P) Alampatti  W4
+33,131,Senkurichi,"Panchayat Union Middle School, North Facing
+Eastern Side Building, Sadaiyampatti - 624306",1,Senkurichi (R.V) and (P) Sadaiyampatti W4
+34,131,Senkurichi,"Panchayat Union Elementary School, Pudupatti - 624306",1,Senkurichi (R.V) and (P) Puthuppatti W5
+35,131,Senkurichi,"Anganwadi Center, Pandiyanur - 624306",1,Senkurichi (R.V) and (P) Pandiyanoor W5
+36,131,Vajra Servaikaran Kottai,"Samuthayakoodam , V.S.K.Kurumbapatti - 624306",1,2.Vajraservaikarankottai (R.V.) and (P Valasaipatti W5
+37,131,"Vajra
+Servaikaran Kottai","Panchayat Union Elementary School, Jakkamanayakkanpatti - 624306",1,1.Vajraservaikarankottai (R.V.) and (P) Jakkamanayakkanpatti W-1
+38,131,"Vajra Servaikaran
+Kottai","Panchayat Union Elementary School, West Side Building Eastern Side,
+V.S.K.Kurumbapatti - 624306",1,Vajraservaikarankottai (R.V.) and (P)  Kurumpapatty W-2
+39,131,Vajra Servaikaran Kottai,"Panchayat Union Elementary School, North facing New Building, Silvarpatti - 624306",1,Vajraservaikarankottai (R.V.) and (P) Silvarpatti   W-6
+40,131,Markampatti,"Panchayat Union Middle School, Western
+New Building, Markampatti - 624306",1,"Markampatti (R.V)  and Vajraservaikaran Kottai (P)
+Markampatti  W3"
+41,131,Markampatti,"Panchayat Union Middle School, East Side West Facing Building, Markampatti - 624306",1,"Markampatti (R.V) and Vajraservaikaran Kottai (P)
+Ellapatti W3"
+42,131,Vathala Thoppampatti,"Panchayat Union Elementary Schol, East Side
+North Facing Building, Vathalathoppampatti - 624306",1,Vathalathoppampatti (R.V.) and (P) Vatthalathoppampatti  W-1
+43,131,Vathala Thoppampatti,"Anganwadi  Centre, West Facing Building, Vathalathoppampatti - 624306",1,Vathalathoppampatti (R.V.) and (P) Kovilpatti W2
+44,131,"Vathala
+Thoppampatti","Narasimman Aided Middle School, West Side,
+V.Mettupatti - 624306",1,Vathalathoppampatti (R.V.) and (P) V.Mettupatti W3
+45,131,Vathala Thoppampatti,"Panchayat Union Elementary School, East facing RCC Building, Vadkampatti - 624306",1,"Vathalathoppampatti (R.V.) and (P) Balagoundanpatti
+W-4"
+46,131,Thethampatti,"Panchayat Union Elementary School, Thethampatti - 624306",1,"Thethampatti (R.V.) and Vathalathoppampatti (P)
+Thetthampatti Ward 4"
+47,131,Ragalapuram,"Panchayat Union Elementary School, South
+Facing, North Building East Side, Manjanayakkanpatti - 624304",1,"Ragalapuram (R.V.) and (P) Manjanayakkanpatti Ward
+2"
+48,131,Ragalapuram,"Panchayat Union Elementary School, East facing Tiled Building, Andivadan chettiyur - 624304",1,Ragalapuram (R.V.) and (P) Andivadanchettiyur W1
+49,131,Rajakkapatti,"Anganwadi Center, Bommayagoundan Patti - 624304",1,"Ragalapuram (R.V.) and (P) Bommaiyagoundanpatti
+W3"
+50,131,Rajakkapatti,"Hindu Aided Elementary School, North Building, Pungampadi - 624304",1,Ragalapuram (R.V.) and (P) Pungampadi W4
+51,131,Rajakkapatti,"Panchayat Union Elementary School, West Facing Northern Portion, Rajakkapatti -
+624306",1,Rajakkapatti (R.V.) and (P) Rajakkapatti  Ward 1
+52,131,Rajakkapatti,"Panchayat Union Middle School, West facing
+RCC Building, Pannaipatti - 624306",1,Rajakkapatti (R.V.) and (P) Pannaipatti Ward 2
+53,131,Rajakkapatti,"Samuthayakoodam, Kallupatti - 624306",1,"Rajakkapatti (R.V.) and (P), Kalluppatti  Ward 2 (Sl.No
+1-478)"
+54,131,Rajakkapatti,"Anganvadi Centre, North Facing RCC Building,
+Kallupatti - 624306",1,"Rajakkapatti (R.V.) and (P), Kalluppatti  Ward 2 (Sl.No
+479-1174)"
+55,131,Rajakkapatti,"Panchayat Union Elementary School, Lakshminayakkan Patti - 624306",1,"Rajakkapatti (R.V.) and P) Lakshminayakkanpatti Ward
+4"
+56,131,Rajakkapatti,"Hindu Aided Middle School, South Building
+(East) Theethampatti - 624316",1,Rajakkapatti (R.V.) and (P) Theethampatti W3
+57,131,Rajakkapatti,"Hindu Aided Middle School, South Building
+(West) Theethampatti - 624306",1,Rajakkapatti (R.V.) and (P) Kalarkadu W3
+58,131,Thottanoothu,"Panchayat Union Middle School, South Facing Building West Side,  Thottanuthu - 624003",1,Thottanoothu (R.V.) and Panchayat North Street
+59,131,Thottanoothu,"Panchayat Union Middle School, South Facing Building East Side, Thottanuthu - 624003",1,Thottanoothu (R.V.) and Panchayat South Street
+60,131,Thottanoothu,"Panchayat Union Middle School, East Facing, RCC Building, Thottanuthu - 624003",1,"1.Thottanoothu (R.V.) and Panchayat Sanganampatti
+W1"
+61,131,Thottanoothu,"ST.Antoniar Primary School, West Building Southern Side, Nallamanaickenpatti - 624003",1,"Thottanoothu (R.V.) and Panchayat
+Nallamanaickenpatti North Street  W-2,3"
+62,131,Thottanoothu,"ST.Antoniar Primary School, West Building North Side, Nallamanaickenpatti - 624003",1,"Thottanoothu (R.V.) and Panchayat Nallamanaickenpatti South Street W-2,3"
+63,131,Thottanoothu,"Aringar Anna Higher Secondary School, North Facing Building X-C, Nallamanaickenpatti - 624003",1,"Thottanoothu (R.V.) and Panchayat
+Nallamanaickenpatti W-2,3"
+64,131,Thottanoothu,"Anganwadi Center, North Facing South
+Building, Mettur Thottanuthu - 624003",1,Thottanoothu (R.V.) and Panchayat Mettur W3
+65,131,Thottanoothu,"Panchayat Union Elementary School, Balamarathupatti - 624003",1,"Thottanoothu (R.V.) and Panchayat Balamarathupatti
+W-3 (Sl. No 1-700)"
+66,131,Thottanoothu,"Panchayat Union Elementary School, North Facing Building West Side Room,
+Balamarathupatti - 624003",1,"Thottanoothu (R.V.) and Panchayat, Balamarathupatti W-3 (Sl.No 701 - 1348))"
+67,131,Thottanoothu,"Panchayat Union Elementary School, Alagarnaickenpatti - 624003",1,"Thottanoothu (R.V.) and Panchayat
+Rengasamuthrapatti W-4"
+68,131,Thottanoothu,"Panchayat Union Elementary School, West Facing Building, Arasanampatti - 624003",1,"Thottanoothu (R.V.) and Panchayat Puliamarathupatti
+W1"
+69,131,Thottanoothu,"ST.Joseph Elementary School, North Portion
+East Side Additional Building, Irandelaparai - 624003",1,Thottanoothu (R.V.) and Panchayat Irandelaparai W4
+70,131,Thottanoothu,"ST.Joseph Elementary School, Middle Portion, Irandelaparai - 624003",1,Thottanoothu (R.V.) and Panchayat Kovil Street W5
+71,131,Thottanoothu,"St.Joseph Elementary School, West Side New Building, Irendellaparai - 624003",1,Thottanoothu (R.V.) and Panchayat Irandelaparai W4
+72,131,Thottanoothu,"Panchayat Union Elementary School, R.M.T.C Nagar - 624003",1,"Thottanoothu (R.V.) and Panchayat Ranimangammal
+Street W5"
+73,131,Adianoothu,"Arul Jothi Vallalar Higher Secondary School, West Portion North Building, Natham Road Dindigul - 624003",1,"Adianoothu (R.V.) and Panchayat Ponnagaram
+(Jeyalalitha Nagar) W1"
+74,131,Adianoothu,"Arul Jothi Vallalar Higher Seccondary School, Estern Side North Facing Building, Natham Road Dindigul - 624003",1,Adianoothu (R.V.) and Panchayat E.B.Office (Opp) W1
+75,131,Adianoothu,"Arul Jothi Vallalar Higher Secondary School, West Portion South Facing Building, Natham Road Dindigul - 624003",1,"Adianoothu (R.V.) and Panchayat Natham Road
+Maruthuvar Colony W1"
+76,131,Adianoothu,"Arul Jothi Vallalar Higher Secondary School, South Facing East Portion Building, Natham Road Dindigul - 624003",1,Adianoothu (R.V.) and Panchayat Ponnagaram
+77,131,Adianoothu,"Panchayat Union Elementary School, South
+Facing Western Side Building,
+Thandalkaranpatti - 624003",1,Adianoothu (R.V.) and Panchayat Kannarpatti W2
+78,131,Adianoothu,"Anganwadi Center, Vazhakkaipatti - 624003",1,Adianoothu (R.V.) and Panchayat Vazhakkaipatti W1
+79,131,Adianoothu,"Panchayat Union Elementary School, South Facing Eastern Side Building, Thandalkaranpatti - 624003",1,"Adianoothu (R.V.) and Panchayat Muthalamman Kovil
+Street W1"
+80,131,Adianoothu,"Panchayat Union Elementaray School, East Facing Building, Kolrampatti - 624003",1,Adianoothu (R.V.) and Panchayat Kollrampatti W2
+81,131,Adianoothu,"Panchayat Union Elementary School, South Facing Tiled Building, Kalakkanoothupatti - 624003",1,"Adianoothu (R.V.) and Panchayat Kalakkanoothupatti
+W2"
+82,131,Adianoothu,"Panchayat Union Elementary School,  South
+Facing East Side Building, Mottanampatti - 624002",1,Adianoothu (R.V.) and Panchayat Mottanampatti   W-2
+83,131,Adianoothu,"Panchayat Union Elementary School, West Facing RCC Building, Thomaiyarpuram - 624003",1,"Adianoothu (R.V.) and Panchayat Thomaiyarpuram
+North W2"
+84,131,Adianoothu,"Panchayat Union Elementary School, West Facing RCC Building Thomaiyarpuram 624002",1,"Adianoothu (R.V.) and Panchayat Thomaiyarpuram
+South W2"
+85,131,Adianoothu,"ST.Antony s Primary School, North Facing Building East Side, Yagappanpatti - 624003",1,"Adianoothu (R.V.) and Panchayat Yagappanpatti North
+Street W3"
+86,131,Adianoothu,"ST.Antony s Primary School, North Facing West Side Building, Yagappanpatti - 624003",1,Adianoothu (R.V.) and Panchayat West Street W3
+87,131,Adianoothu,"Panchayat Union Elementary School, West Side North Building, Nallampatti - 624003",1,"Adianoothu (R.V.) and Panchayat, Nallampatti W-1 ( Sl.No 1-630)"
+88,131,Adianoothu,"Govt High School East facing Building
+Nallampatti 624003",1,"Adianoothu (R.V.) and Panchayat, Nallampatti W-1
+(Sl.No 631-1263)"
+89,131,Adianoothu,"Samuthaya Koodam, Nallampatti - 624003",1,"Adianoothu (R.V.) and Panchayat Nallampatti W1
+(Door No.124/NA to Last No)"
+90,131,Adianoothu,"Panchayat Union Elementary School,
+Vedapatti - 624003",1,Adianoothu (R.V.) and Panchayat Vedapatti W4
+91,131,Adianoothu,"Anganwadi Center, Vedapatti - 624003",1,"Adianoothu (R.V.) and Panchayat Gnana Nanthagiri
+Nagar W4"
+92,131,Adianoothu,"Govt High School, East Facing North side
+Building, Nallampatti - 624003",1,"Adianoothu (R.V.) and Panchayat Gnana Nanthagiri
+Nagar Perumalkovilpatti  W4"
+93,131,Adianoothu,"Govt High School, East Facing South side
+Building , Nallampati - 624003",1,Adianoothu (R.V.) and Panchayat Nallampatti W4
+94,131,A.Vellodu,"Government Higher Secondary School, South Facing Building, Narasingapuram - 624307",1,A.vellodu (R.V.) and Panchayat Narasingapuram W3
+95,131,A.Vellodu,"Panchayat Union Elementary School, East Facing Building, Narasingapuram - 624307",1,A.vellodu (R.V.) and Panchayat Devaralagarpatti   W2
+96,131,A.Vellodu,"ST. Anthoniyar RC Primary School, West
+Facing East Side (4th Std) Building, V.Kallupatti - 624307",1,A.vellodu (R.V.) and Panchayat Kallupatti W1 (Sl. No 1-600)
+97,131,A.Vellodu,ST Anthoniyar RC Primary School South Facing West Side Building V.Kallupatti 624307,1,"A.Vellodu (R.V.) and Panchayat, Kallupatti  W-1 (Sl.No 601 - 1220)"
+98,131,A.Vellodu,"Panchayat Union Elementary School, North Facing Building, Pappanampatti - 624307",1,A.vellodu (R.V.) and Panchayat Pappanampatti W5
+99,131,A.Vellodu,"Government Kallar School, South Facing
+Building, Ellaipatti - 624307",1,A.vellodu (R.V.) and Panchayat Ellapatti W4
+100,131,A.Vellodu,"ST.James Primary School, East Facing RCC Building North Portion, A.Vellodu - 624307",1,"A.vellodu (R.V.) and Panchayat A.Vellodu East Street
+W6"
+101,131,A.Vellodu,"ST. James Primary School, East Facing RCC Building South Portion, A.Vellodu - 624307",1,A.vellodu (R.V.) and Panchayat A.Vellodu  W7 (S.No1 to 600)
+102,131,A.Vellodu,"ST. James Primary School, South Facing West Building, A.Vellodu - 624307",1,A.vellodu (R.V.) and Panchayat A.Vellodu  W7
+103,131,A.Vellodu,"U.C. Eelementary School (T.E.L.C), West
+Facing North Portion Building, A.Vellodu - 624307",1,A.vellodu (R.V.) and Panchayat A.Vellodu W8
+104,131,A.Vellodu,"U.C.Elementary School (TELC), West Facing
+South Portion Building, A.Vellodu - 624307",1,A.vellodu (R.V.) and Panchayat South Street W8
+105,131,A.Vellodu,"St.Therasal Primary School, West Side, A.Vellodu - 624307",1,"A.vellodu (R.V.) and Panchayat West Street (D.No. 1 to
+200)  W9"
+106,131,A.Vellodu,"St.Therasal Primary School, East Side, A.Vellodu - 624307",1,"A.vellodu (R.V.) and Panchayat West Street (D.No. 201
+to Last No)"
+107,131,A.Vellodu,"ST. Susaiyappar Elementary School, South Facing North Building East Side,
+Sirunaickenpatti - 624307",1,A.vellodu (R.V.) and Panchayat Sirunaickenpatti W10 (Door No.1/NA to 131)
+108,131,A.Vellodu,"ST. Susaiyappar Elementary School, South Facing North Building, Eastern Side Second
+Room, Sirunaickenpatti - 624307",1,A.vellodu (R.V.) and Panchayat Sirunaickenpatti W10 (Door No.132/NA to Last Door No)
+109,131,A.Vellodu,"ST. Susaiyappar Elementary School, South Facing North Building, Western Side,
+Sirunaickenpatti - 624307",1,"A.vellodu (R.V.) and panchayat, Sirunaickenpatti  W-11 (Sl.No 1-600)"
+110,131,A.Vellodu,"Anganwadi Center,  Sirunayakkanpatti 624307",1,"A.vellodu (R.V.) and panchayat, Sirunaickenpatti  W-11
+(Sl.No 601-1245)"
+111,131,A.Vellodu,"ST. Susaiyappar Elementary School, South Facing North Building Western Side Second Room, Sirunaickenpatti - 624307",1,A.vellodu (R.V.) and Panchayat Karattalaganpatti W12
+112,131,Sirumalai,"Panchayat Union Elementary School, Main
+Building, Anna Nagar Sirumalai Palaiyur - 624003",1,Sirumalai (R.V.) and Panchayat Annanagar  W-1
+113,131,Sirumalai,"Panchayat Union Middle School, North Facing Building, Sirumalai Palaiyur - 624003",1,"Sirumalai (R.V.) and Panchayat Sirumalai Palaiyur W1,2"
+114,131,Sirumalai,"Panchayat Union Middle School, Main Building, Sirumalai Palaiyur - 624003",1,Sirumalai (R.V.) and Panchayat Palaiyur W1
+115,131,Sirumalai,Panchayat Union Middle School New Building Sirumalai Palaiyur 624003,1,Sirumalai (R.V.) and Panchayat Thalaikkadai W2
+116,131,Sirumalai,"Panchayat Union Elementary School, North Facing Back Side Asbestas Building, Sirumalai Pudur - 624003",1,Sirumalai (R.V.) and Panchayat M.R.M.Kadu W3
+117,131,Sirumalai,"Panchayat Union Elementary School, West Facing Backside Tiled Building, Sirumalai Pudur - 624003",1,"Sirumalai (R.V.) and Panchayat Kamakodi Estate
+Kalamkalavi W3"
+118,131,Sirumalai,"Government High School New Building
+Sirumalai Pudur 624003",1,"Sirumalai (R.V.) and Panchayat Sirumalai Pudur
+Thideer Nagar W4"
+119,131,Koovanoothu,"Panchayat Union Elementary School,
+Kavarayapatti - 624003",1,Koovanoothu (.R.V.) and (P) Kavarayapatti  W4
+120,131,Koovanoothu,"Panchayat Union Elementary School, North
+Facing South Building, Nochiodaipatti - 624003",1,Koovanoothu (.R.V.) and (P) Notchiyodaipatti  W3 (Door No.1/1 to 200/318
+121,131,Koovanoothu,"Panchayat Union Elementary School, South Facing North Building, Nochiodaipatti -
+624003",1,Koovanoothu (.R.V.) and (P) Notchiyodaipatti  W3 (Door No.201/1 to 246/NA)
+122,131,Koovanoothu,"Panchayat Union Elementary School, North
+Building, Koovanuthupudur - 624003",1,Koovanoothu (.R.V.) and (P) Pudur W1
+123,131,Koovanoothu,"Panchayat Union Elementary School,
+Sattakaranpatti - 624003",1,Koovanoothu (.R.V.) and (P) Sattakaranpatti W2
+124,131,Koovanoothu,"Panchayat Union Elementary School, North Facing South Building, Koovanuthu
+Kurumbapatti - 624003",1,"Koovanoothu (.R.V.) and (P), Kurumbapatti W-2 (Sl.No 1 - 600)"
+125,131,Koovanoothu,Panchayat Union Elementary School Tiled Building Koovanuthu Kurumbapatti 624003,1,"Koovanoothu (.R.V.) and (P), Kurumbapatti W-2 (Sl.No 601-1255)"
+126,131,Thavasimadai,"St.Amala Annai Aided Middle School, New
+Building 1st Std South Side North Building, Thavasimadai - 624304",1,Thavasimadai (R.V.) and (P) Thavasimadai West Street W2
+127,131,Thavasimadai,"ST.Amala Annai Aided Middle School, New
+Building 2nd Std South Side North Building, Thavasimadai - 624304",1,1.Thavasimadai (R.V.) and (P) Thavasimadai East Street W2
+128,131,Thavasimadai,"St.Amala Annai Aided Middle School, New
+Building 7th Std South Side North Building,",1,Thavasimadai (R.V.) and (P) Vadipatti W1
+129,131,Thavasimadai,"St.Amala Annai Aided Middle School, New
+Building 8th Std South Side North Building,",1,Thavasimadai (R.V.) and (P) Thavasimadai Ward 3
+130,131,Viralipatti,"Panchayat Union Elementary School, West Facing North Side Building, Viralipatti - 624304",1,"Viralipatty, Vadakattupatti (R.V) and Thavasimadai (P)
+Viralipatti W3"
+131,131,Viralipatti,"Panchayat Union Middle School, South Side North Facing Building East Portion,
+Vadakattupatti - 624304",1,"Viralipatty, Vadakattupatti (R.V) and Thavasimadai (P) Vadakattupatti W4"
+132,131,Emakkala Puram,"Panchayat Union Middle School, Easter Building North Portion, Emakkalapuram -
+624304",1,Emakkalapuram (R.V.) and (P) Emakkalapuram  W-1
+133,131,Emakkala Puram,"Bharathi Aided Elementary School, North Facing South Building, Velampatti - 624304",1,"Emakkalapuram (R.V.) and (P), Velampatti W4 (Sl.No 1
+- 700)"
+134,131,Emakkala Puram,Bharathi Aided Elementary School North Facing BuildingVelampatti 624304,1,"Emakkalapuram (R.V.) and (P), Velampatti W-4 (Sl. No
+701 - 1067)"
+135,131,Emakkala Puram,"Panchayat Union Middle School, Easten Building South Portion, Emakkalapuram - 624304",1,Emakkalapuram (R.V.) and (P) Karuppudaiyanpatti W2
+136,131,T.Panjampatti,"Panchayat Union Elementary School, East
+Facing RCC Building, Kolinjipatti - 624304",1,T.Panjampatti (R.V) and (P) Kolinjippatti W7
+137,131,T.Panjampatti,"Panchayat Union Elementary School, North
+Side, Nathamadipatti - 624304",1,T.Panjampatti (R.V) and (P) T.Panjampatti W1
+138,131,T.Panjampatti,"R.C. Boys Elemantary School West Building Center Side, Kosavapatti - 624304",1,T.Panjampatti (R.V) and (P) Uthriyamatha  Street  W-3
+139,131,T.Panjampatti,"R.C. Girls Convent Middle School, West
+Building South Side, Kosavapatti - 624304",1,"T.Panjampatti (R.V) and (P) Kosavapatti South Street
+W4"
+140,131,T.Panjampatti,"R.C.Girls Convent Middle School, Center Side
+West Building, Kosavapatti - 624304",1,"T.Panjampatti (R.V) and (P) Soosaiyappar Street W5
+Door No 1 to 100"
+141,131,T.Panjampatti,"R.C.Girls Convent Middle School, North
+Building, Kosavapatti - 624304",1,"T.Panjampatti (R.V) and (P) Soosaiyappar Street W5
+Door No from 101"
+142,131,T.Panjampatti,"R.C.Boys Elementary School, New Building, Kosavapatti - 624304",1,"T.Panjampatti (R.V) and (P) Kosavapatti  West  Street
+W6"
+143,131,Veerachinnam Patti,"Panchayat Union Elementary School, East Facing RCC Building, Veerachinnampatti -
+624304",1,Veerachinnampatti (R.V.) and (P) Veerasinnampatti W1
+144,131,Veerachinnam Patti,"Panchayat Union Elementary School, North
+South Facing RCC Building, Veerachinnampatti - 624304",1,Veerachinnampatti (R.V.) and (P) Veerachinnampatti W2
+145,131,Marunoothu,"Panchayat Union Elementary School, Center
+Building, Marunoothu - 624308",1,"Marunoothu (R.V.) and (P), Marunoothu   W-1,2
+(Sl.No 1-650)"
+146,131,Marunoothu,"Panchayat Union Elementary School, New West Building, South Side East Face (4th Std)
+Marunoothu 624308",1,"Marunoothu (R.V.) and (P), Marunoothu   W-1,2 (Sl.No 651-1318)"
+147,131,Marunoothu,"Panchayat Union Elementary School, New West Building, (North Side) East Facing (1st
+Std) Marunoothu - 624308",1,Marunoothu (R.V.) and (P) Kannamanoor W2
+148,131,Marunoothu,"Panchayat Union Elementary School, New Building, East Facing, Saminathapuram
+624308",4,Marunoothu (R.V.) and (P) Saminathapuram W4
+149,131,Thimma Nanallur,"Panchayat Union Middle School, New
+Building East Side South Facing  Building(3rd Std & 7th Std), J.Maniyakaranpatti - 624308",1,Thimmananallur (R.V.) and (P) Maniakaranpatti   W-1
+150,131,Jothampattii,"Panchayat Union Middle School, West Side
+North Facing North (3) Re-Altration Building, Poovakilavanpatti - 624308",1,"Jothampattii (R.V.) and  Thimmananallur (P)
+Poovakelavanpatti   W-2"
+151,131,Jothampattii,"Panchayat Union Elementary School,
+Jothampatti - 624308",1,"Jothampattii (R.V.) and  Thimmananallur (P)
+Jothampattii -W-2"
+152,131,Thimma Nanallur,"Panchayat Union Elementary School, Thalaiyaripatti - 624308",1,Thimmananallur(R.V.) and (P) Vettaikkaranpudur  W-2
+153,131,Thimma Nanallur,"Panchayat Union Elementary School, South
+Facing, Center Building, T.Vadugapatti - 624308",1,Thimmananallur(R.V.) and (P) Vadugapatti W3
+154,131,Thimma Nanallur,"Pubilc Service Centre Building, T.Paraipatti - 624308",1,Thimmananallur(R.V.) and (P) T. Paraipatti  W-4
+155,131,Thimma Nanallur,"Panchayat Union Elementary School, East Building, West Facing, T.Ramarajapuram -
+624308",1,Thimmananallur(R.V.) and (P) Ramarajapuram  W -5
+156,131,Thimma Nanallur,"Panchayat Union Elementary School, East Facing, North Building,  Manthanayakkanpatti
+- 624308",1,"Thimmananallur(R.V.) and (P) Manthanayakkanpatti W4,5"
+157,131,Avilipatti,"Panchayat Union Elementary School, Southern Building, Avilipatti - 624304",1,Avilipatti (R.V.) and (P) Kalathupatti W1
+158,131,Avilipatti,"Panchayat Union Elementary School, Eastern
+Building, Avilipatti - 624304",1,Avilipatti (R.V.) and  (P) Avilipatti   W2
+159,131,Sanarpatti,"Panchayat Union Elementary School, North Building, East Side, Sanarpatti - 624304",1,Sanarpatti (R.V.) and (P) Sanarpatti East  Street W1
+160,131,Sanarpatti,"Panchayat Union Elementary School, North Building West Side, Sanarpatti - 624304",1,Sanarpatti (R.V.) and (P) Sanarpatti Nadutheru W3
+161,131,Sanarpatti,"Valluvan Memorial Ele School, South Facing Building, Raman Chettipatti -624304",1,Sanarpatti (R.V.) and (P) Kondanchettipatti  W-3
+162,131,Sanarpatti,"Panchayat Union Elementary School, Additional Building East Side South Portion,
+Sanarpatti - 624304",1,Sanarpatti (R.V.) and (P) Muslim Street W2
+163,131,Sanarpatti,"Panchayat Union Elementary School, Additional Building East Side North Portion, Sanarpatti - 624304",1,"Sanarpatti (R.V.) and (P) Muthumariamman Kovil
+Street W2"
+164,131,Konapatti,"Panchayat Union Middle School, Southern
+Side, Konapatti - 624304",1,"Konappatty (R.V) Sanarpatti(P) Konappatty South St
+W4"
+165,131,Konapatti,"Panchayat Union Middle School, SSA New Building West Portion, Konapatti - 624304",1,Konappatty (R.V) Sanarpatti(P) Konpatti North Street W4
+166,131,Anjukulipatti,"Panchayat Union Middle School, East
+Building, Kanniyapuram - 624308",1,Anjukulipatti (.R.V.) and (P) Kanniyapuram  W1
+167,131,Anjukulipatti,"Panchayat Union Elementary School, East Side New Building, Kaverichettipatti - 624308",1,Anjukulipatti (R.V.) and (P) Mettupatti W-9
+168,131,Anjukulipatti,"Panchayat Union Elementary School, Additional Building North Facing Eastern Side, Anjukulipatti - 624308",1,"Anjukulipatti (R.V.) and (P) Solakulathupatti
+Kilavankulam W-3"
+169,131,Anjukulipatti,"Panchayat Union Elementary School, Additional Building North Facing Western Side, Anjukulipatti - 624308",1,"Anjukulipatti (R.V.) and (P) Anjukulipatti West Street
+W6,7"
+170,131,Anjukulipatti,"Panchayat Union Elementary School, South
+Facing, Ellapatti - 624304",1,Anjukulipatti (R.V.) and (p) Ellappatti  W2
+171,131,Anjukulipatti,"Panchayat Union Elemantary School, South
+Facing North Building Eastern Side, Anjukulipatti - 624308",1,"Anjukulipatti (R.V.) and (p), Anjukulipatti -W-4,5,7 (Sl.No 1-600)"
+172,131,Anjukulipatti,"Government Higher Secondary School North
+Facing West Side Building 1st Room Anjukulipatti 624308",1,"Anjukulipatti (R.V.) and (p), Anjukulipatti -W-4,5,7 ( Sl.No 601-1215)"
+173,131,Anjukulipatti,"Panchayat Union Elementary School, East Facing West Building North Side, Anjukulipatti
+- 624308",1,"Anjukulipatti (R.V.) and (p) Anjukulipatti -W4,5,7 (Door No.6-77/NA to 296/NA)"
+174,131,Anjukulipatti,"Panchayat Union Elementary School, North
+Facing, Padukaikattur - 624304",1,Anjukulipatti (R.V.) and (p) Padukkaikattur   W3
+175,131,Vembarpatti,"Government Higher Secondary School, South
+Facing From East 2nd North Portion Building (Near Teachers Room), Vembarpatti - 624308",1,"Vembarpatti (R.V.) and (p) Vembarpatti  W 1,2,3,8"
+176,131,Vembarpatti,"Government Higher Secondary School, North Facing West Portion Middle Building,
+Vembarpatti - 624308",1,"Vembarpatti (R.V.) and (p) Vembarpatti  East  Street W2,8 (Door No.E1/NA to 2-212)"
+177,131,Vembarpatti,"Government Higher Secondary School, North Facing East Portion Building, Vembarpatti -
+624308",1,"Vembarpatti (R.V.) and (p) Vembarpatti  East  Street W2,8(Door No.2-213)"
+178,131,Vembarpatti,"Government Higher Secondary School, North Facing South Building West Side (Near Computer Lab) Vembarpatti - 624308",1,Veembarpatti (R.V.) and (p) Vembarpatti  Palaiyur  W3 (Door No.E1 to 117)
+179,131,Vembarpatti,"Government Higher Secondary School, South
+Facing North Portion From East 1st Building, Vembarpatti - 624308",1,Veembarpatti (R.V.) and (p) Vembarpatti  Palaiyur  W3 (Door No above 118)
+180,131,Vembarpatti,"Panchayat Union Middle School, Sedipatti -
+624308",1,Veembarpatti (R.V.) and (p) Sedipatti   W4
+181,131,Vembarpatti,"Panchayat Union Elementary School,
+Northern Side Building, Kurumbapatti - 624308",1,Veembarpatti (R.V.) and (p) Kurumbapatti   W6
+182,131,Vembarpatti,"Panchayat Union Elementary School,
+Mottayagoundan Patti - 624308",1,Veembarpatti (R.V.) and (p) Mottaiyagoundanpatti  W5
+183,131,Vembarpatti,"Govt Girls Higher Secondary School, West Facing East Building South Side, 1st Room
+(12th-B) Gopalpatti - 624308",1,"Veembarpatti (R.V.) and (p), Gopalpatti  north  street Ward-7,8 (Sl.No 1 - 700)"
+184,131,Vembarpatti,"Govt Girls Higher Secondary School West
+Facing East  Building South Side 3rd Room (12th D Sec) Gopalpatti - 624308",1,"Veembarpatti (R.V.) and (p), Gopalpatti  north  street Ward-7,8 (Sl.No 701-1320)"
+185,131,Vembarpatti,"Govt Girls Higher Secondary School, South Facing North Side Building 1st Room (10th-B),
+Gopalpatti - 624308",1,"Veembarpatti (R.V.) and (p) Gopalpatti South Street Ward 7,8 (D.No.E1/8-391 to 8-283/101B)"
+186,131,Vembarpatti,"Govt Girls Higher Secondary School, South Facing Old Building West Side 3rd Room
+(10th-D) , Gopalpatti - 624308",1,"Veembarpatti (R.V.) and (p) Gopalpatti South Street Ward 7,8 (D.No.E1/8-284/91B to 115/8-269)"
+187,131,Vembarpatti,"Government Girls Higher Secondary School, South Facing Old Building West Side 2nd Room, (10th-E), Near to Lab Gopalpatti -
+624308",1,Veembarpatti (R.V.) and (p) Gopalpatti W8
+188,131,Kombaipatti,"Panchayat Union Elementary School, South Facing Building, Kombaipatti 624308",1,Kombaipatti (R.V.) and (P) Chinna Kombaipatti W3
+189,131,Kombaipatti,"Panchayat Union Middle School, North Facing Building, Perumalkovilpatti-624308",1,Kombaipatti (R.V.) and (P) Saralapatti W4
+190,131,Kombaipatti,"Panchayat Union.Middle School, South Facing
+Building,West Side  Middle Room, K.Ayyapatti-624308",1,"Kombaipatti (R.V.) Ayyapatti (p) K. Ayyapatti   W1,2 Door No 1 to 50"
+191,131,Kombaipatti,"Panchayat Union Middle School, West Side North Facing Building, K. Ayyapatti-624308",1,"Kombaipatti (R.V.) Ayyapatti (p) K. Ayyapatti   W1,2 Door No from 51"
+192,131,Kanavaipatti,"Panchayat Union Middle School, East Facing RCC Building, Kanavaipatti - 624308",1,Kanavaipatti (R.V.) and (p) Kanavaipatti Ward 1
+193,131,Kanavaipatti,"Panchayat Union Middle School, North Facing Additional Building, Kanavaipatti - 624308",1,Kanavaipatti (R.V.) and (p) Mettupatti Ward 1
+194,131,Kanavaipatti,"Panchayat Union Elementary School,
+Northern Side South Facing New Building,",1,Kanavaipatti (R.V.) and (p) Kottaikaranpatti W2
+195,131,Kanavaipatti,"Panchayat Union Elementary School, South Facing North Building, K.Kurumbapatti -
+624308",1,Kanavaipatti (R.V.) and (p) Kurumbapatti W2
+196,131,Kanavaipatti,"Panchayat Union Elementary School,
+Malaipatti - 624308",1,Kanavaipatti (R.V.) and (p) Malaipatti   W3
+197,131,Kanavaipatti,"Panchayat Union Elementary School,
+Korachinnampatti - 624308",1,Kanavaipatti (R.V.) and (p) Korachinnamapatti W3
+198,131,Sakkiliankodai,"Panchayat Union Primary School, South Facin
+Northwest Additional Building, Sakkiliyankodai - 624308",1,sakkiliankodai (R.V) and Kanavaipatti (p) Sakkiliankodai W-4 (Door No 1-182)
+199,131,Sakkiliankodai,"Panchayat Union Primary School, East Facing Building, Sakkiliankodai - 624308",1,"Sakkiliankodai (R.V) and Kanavaipatti (p),
+Sakkiliankodai W4 (Door No from 183)"
+200,131,Pillaiyar Natham,"Panchayat Union Elementary School, East
+Facing South Portion , Pillayarnatham - 624403",1,"Pillaiyarnatham (R.V.) and (P) Pillaiyarnatham W-1,2 (Sl.No 1-975)"
+201,131,Pillaiyar Natham,"Panchayat Union Elementary School, West Facing North Portion Building, Pillayarnatham
+- 624403",1,"Pillaiyarnatham (R.V.) and (P) Pillaiyarnatham W-1,2
+(Sl.No 976 - 1243)"
+202,131,Pillaiyar Natham,"Government High School, North Side South
+Facing Building, Kottaipatti - 624403",1,Pillaiyarnatham (R.V.) and (P) Veeppampatti  W5
+203,131,Pillaiyar Natham,"Panchayat Union Elementary School, South Facing Building, Madhavanayakkanpatti, Saralaipatti - 624403",1,Pillaiyarnatham (R.V.) and (P) Saralaipatti W-7
+204,131,Sendurai,"Government Higher Secondary School, New Building East Portion, Sendurai - 624403",1,"Sendurai (R.V.) and (P) Sendurai W-1
+(Door No.B627/NA to 125/NA)"
+205,131,Sendurai,"Government Higher Secondary School, South Facing Middle Building, Sendurai - 624403",1,"Sendurai (R.V.) and (P) Sendurai W-1
+(Door No.126/NA to 666/138)"
+206,131,Sendurai,"Panchayat Union Elementary School, North Facing East Side Building, Rengaiyan Serivaikaranpatti - 624403",1,Sendurai (R.V.) and (P) Sendurai W-1
+207,131,Sendurai,"Panchayat Union Elementary School, South
+Facing Building (Avvaiyar Kudil), Sendurai -",1,Sendurai (R.V.) and (P) Mettupatti   W2
+208,131,Sendurai,"Panchayat Union Elementary School, West Side East Portion South Facing Building,
+Mallanayakkanpatti - 624403",1,Sendurai (R.V.) and (P) Kovilpatti W5
+209,131,Sendurai,"Government High School, South Side West Facing Middle Room, Chithiraigoundanpatti - 624403",1,Sendurai (R.V.) and (P) Palamalaiyanpatti W2
+210,131,Sendurai,"Panchayat Union Elemnetary School, North Facing Building, Nallapichanpatti - 624403",1,1.Sendurai (R.V.) and (P) Thattamadaipatti W3
+211,131,Sendurai,"Panchayat Union Elementary School, West
+Side East Facing Building,",1,Sendurai (R.V.) and (P) Goundampatti  W2
+212,131,Sendurai,"Government Higher Secondary School, North Facing West Side New Building, Sendurai -
+624403",1,Sendurai (R.V.) and (P) Kurumbapatti W-4(Door No 1/211/NA to 121A/NA)
+213,131,Sendurai,"Government Higher Secondary School, West
+Portion South Facing Building, Sendurai - 624403",1,Sendurai (R.V.) and (P) Kurumbapatti  W4 (Door No 122/NA to 368/NA)
+214,131,Sendurai,"Panchayat Union Elementary School, North
+Facing West Side Middle Building,",1,Sendurai (R.V.) and (P) Periyurpatti  W5
+215,131,Sendurai,"Panchayat Union Elementary School, North Facing East Portion South Building,
+Periyurpati - 624403",1,Sendurai (R.V.) and (P) Mamarathupatti W2
+216,131,Sendurai,"Panchayat Union Elementary School, Karuthanaickkanpatti - 624403",1,Sendurai (R.V.) and (P) Karuthanayakkanpatti   W-5
+217,131,Sendurai,"Panchayat Union Elementary School, East
+Side South Facing, Mallanayakkanpatti -
+624403",1,Sendurai (R.V.) and (P) Panthibomminayakkanoor  W-5
+218,131,Sendurai,"Panchayat Union Elementary School, South
+Facing Building, Kalathupatti - 624403",1,Sendurai (R.V.) and (P) Kalathupatti W5
+219,131,Kudakipatti,"Panchayat Union Elementary School, South Facing Building, Kudakipatti - 624403",1,Kudakipatti (R.V.) and (P) Sukkampatti W1
+220,131,Kudakipatti,"Panchayat Union Elementary School, West Side, South Facing Building, K.Pudur - 624403",1,Kudakipatti (R.V.) and (P) K.Pudur  W1
+221,131,Kudakipatti,"Panchayat Union Elementary School, North Facing Building, Kuppilipatti - 624403",1,Kudakipatti (R.V.) and (P) Kupplipatti  W-2
+222,131,Kudakipatti,"Government High School, North Side South
+Facing 1st Building, Manakattur - 624403",1,Kudakipatti (R.V.) and (P) Manakattur Ward 3
+223,131,Kudakipatti,"Government High School, North Facing South Side  3rd Building, Manakattur - 624403",1,1.Kudakipatti (R.V.) and (P) Manakattur  West  W3
+224,131,Kudakipatti,"Government High School North Side South
+Facing 2nd Building Manakattur 624403",1,2.Kudakipatti (R.V.) and (P) Merkupatti  W3
+225,131,Kudakipatti,"Panchayat Union Elementary School North
+Facing Building. Palanipatti - 624403",1,Kudakipatti (R.V.) and (P) Palanipatti   W4
+226,131,Sirankattup Patti,"Panchayat Union Middle School, South Side East Facing Building, Sirankattupatti - 624401",1,Sirankattuppatti (R.V.) and (P) Sirankattuppatti  W-1 (Door No.3-7 to 127/NA)
+227,131,Sirankattup Patti,"Panchayat Union Middle School, North Side East Facing Building, Sirankattupatti - 624401",1,Sirankattuppatti (r.v.) and (P) Sirankattuppatti  W 1 (Door No.128/NA to 169/142)
+228,131,Sirankattup Patti,"Panchayat Union Elementary School, North Facing RCC Building, Mangalapatti - 624401",1,"Sirankattuppatti (R.V.) and (P) Merkkupudur W 2,3"
+229,131,Sirankattup Patti,"Panchayat Union Elementary School, South Facing Tiled Building, Mangalapatti - 624401",1,Sirankattuppatti (R.V.) and (P)  Mangalapatti W2
+230,131,Sirankattup Patti,"Government Higher Secondary School, North Facing 1st Building, Kosukurichi - 624401",1,Sirankattuppatti (R.V) and  Kosukurichi (P) Kosukurichi W 1
+231,131,Sirankattup Patti,"Government Higher Secondary School, East Facing  North Portion, Kosukurichi - 624401",1,Sirankattuppatti (R.V) and Kosukkurichi (P) Karaiyur W2
+232,131,Sirankattup Patti,Panchayat Union Elementary School South Facing Building Kambiliyampatti - 624401,1,"Sirankattuppatti (R.V) and Kosukkurichi (P)
+Muthampatti W-3"
+233,131,Sirankattup Patti,"Panchayat Union Elementary School,  South Facing Eastern Side Room, Karuthalakampatti
+- 624401",1,Sirankattuppatti (R.V) and Kosukkurichi (P) Karuthalakkampatti W3
+234,131,Sirankattup Patti,Panchayat Union Elementary School South Facing Western Side Room Karuthalakampatti 624401,1,"Sirankattuppatti (R.V) and Kosukkurichi (P)
+Karuthalakampatti W4"
+235,131,Sethur,"Panchayat Union Middile School, North Side Middle Portion, Soriparaipatti - 624401",1,Sethur (R.V.) and (P) Soripparaipatti    W1
+236,131,Sethur,"Panchayat Union Elementary School, East
+Facing West Side Building, Sethur - 624401",1,"Sethur (R.V.) and (P) Sethur  W 1,2"
+237,131,Sethur,"Government Higher Secondary School, West Facing Building, Aravankurichi - 624401",1,Sethur (R.V.) and (P) Sakkapitchanpatti W5
+238,131,Sethur,"Panchayat Union Elementary School, East Facing Tiled Building, Pattikulam Kanavaipatti
+- 624401",1,Sethur (R.V.) and (P) Kanavaipatti W5
+239,131,Sethur,"Panchayat Union Elementary School, East Facing Building, Malaivinyakampatti - 624401",1,Sethur (R.V.) and (P) Peyampatti W7
+240,131,Sethur,"Panchayat Union Elementary School, East
+Side North Facing Building, Musukkampatti - 624401",1,Sethur (R.V.) and (P) Musukkampatti W7
+241,131,Sethur,"Panchayat Union Elementary School, South Facing Building, K.Alampatti - 624401",1,Sethur (R.V.) and (P) Alamapatti W7
+242,131,Kottaiyur,"Panchayat Union Middle School, North Facing South Building, Kurumbapatti - 624402",1,Kottaiyur (R.V.) and (P) Kurumbapatti   W1
+243,131,Kottaiyur,"Panchayat Union Elementary School, West Side East Facing Tiled Building, Nallur - 624402",1,Kottaiyur (R.V.) and (P) Nallur W4
+244,131,Kottaiyur,"Panchayat Union Elementary School, South Side North Facing Building, Chinnayampatti -
+624402",1,Kottaiyur (R.V.) and (P) Chinnaiyampatti   W3
+245,131,Kottaiyur,"Panchayat Union Elementary School, South
+Facing, East Side Room, Kottaiyur - 624402",1,Kottaiyur (R.V.) and (P) Kottaiyur W2
+246,131,Sirukudi,"Government High Secondary School, North Facing Building West Side Room, Sirukudi -
+624402",1,"Sirukudi (R.V.) and (P) South Street W 1,2,3"
+247,131,Sirukudi,"Panchayat Union Elementary School, (Girls)
+East Side West Facing Tiled Building, Sirukudi -",1,"Sirukudi (R.V.) and (P) North Street W 1,2,3"
+248,131,Sirukudi,"Government High Secondary School, North
+Facing Building East Side Room, Sirukudi -",1,Sirukudi (R.V.) and (P) East street  W 4
+249,131,Sirukudi,"Panchayat Union Elementary School, South
+Facing RCC Building, Manjanayakkanpatti - 624402",1,Sirukudi (R.V.) and (P) Manjanayakkanpatti W7
+250,131,Sirukudi,"Panchayat Union Elementary School (Girls), West Side South Facing Building, Sirukudi -
+624402",1,Sirukudi (R.V.) and (P) Chettiyar Street   W12
+251,131,Sirukudi,"Panchayat Union Middle School, South Side North Facing Building, Nallakandam - 624402",1,Sirukudi (R.V.) and (P) Nallakandam W8
+252,131,Sirukudi,"Sarva Seva Primary School, Northern Side South Facing Building, Poosaripatti - 624402",1,Sirukudi (R.V.) and (P) Poosaripatty W5 (Sl. No 1 to 635)
+253,131,Sirukudi,Sarva Seva Primary School South Side North Facing Building Poosaripatti 624402,1,Sirukudi (R.V.) and (P) Poosaripatty W5 (Sl.No 636 - 1214)
+254,131,Sirukudi,"Panchayat Union Elementary School, South Side East Facing Tiled Building, Thethampatti -
+624402",1,Sirukudi (R.V.) and (P) Thethampatti W6
+255,131,Sirukudi,"Panchayat Union Middle School, South Side North Facing Building, Odukampatti - 624402",1,Sirukudi (R.V.) and (P) Kuppaipatti W10
+256,131,Nadu Mandalam,"Panchayat Union Elementary School,East Facing North Portion Building, Othinipatti - 624401",1,"Nadumandalam (R.V.) and N.Kuttupatti (P)
+Panjayampatti W1"
+257,131,Nadu Mandalam,"Panchayat Union Elementary School, North
+Facing West Portion Building, Othinipatti - 624401",1,Nadumandalam (R.V.) and N.Kuttupatti (P) Othinipatti W1
+258,131,Nadu Mandalam,"Government High School, West Facing North
+Building, N.Kuttupatti - 624401",1,"Nadumandalam (R.V.) and N.Kuttupatti (P) Kuttuppatti
+W2"
+259,131,Nadu Mandalam,"Government High School, West Facing South Building, N.Kuttupatti - 624401",1,"Nadumandalam (R.V.) and N.Kuttupatti (P) Pallapatti
+W3"
+260,131,Nadu Mandalam,"Panchayat Union Middle School, South Side North Facing Building, Malaiyur, 624401",1,"Nadumandalam (R.V.) and Kuttuppatti (P)
+Malaiyurmedu, Kuttumalai, Othukkukadu W4"
+261,131,Sethur,"Sarvaseva Primary School, East Facing
+Building, Valasai - 624401",1,Sethur (R.V.) and Sethur (P) Valasai W11
+262,131,Sethur,"Panchayat Union Elementary School, East
+Side Room North Facing Building, Chinnamalaiyur - 624401",1,Sethur (R.V.) and Sethur (P) Chinna Malaiyur W10
+263,131,Nadu Mandalam,"Panchayat Union Elementary School, South Facing West Side Building, K.Pudur - 624401",1,"Nadumandalam (R.V.) and N. Puthuppatti (P) K. Pudur
+W-1"
+264,131,Nadu Mandalam,"Panchayat Union Middle School, East Side North Facing Building, N.Pudupatti - 624401",1,"Nadumandalam (R.V.) and N. Puthuppatti (P)
+Aathipatti W-3"
+265,131,Nadu Mandalam,"Panchayat Union Middle School, Southwest Side, North Facing, Eastern Room N.Pudupatti
+- 624401",1,Nadumandalam (R.V.) and N. Puthuppatti (P) Puthuppatti W4 (Door No.1E to 78)
+266,131,Nadu Mandalam,"Panchayat Union Middle School, Southwest Side, North Facing, Western Room N.Pudupatti - 624401",1,"Nadumandalam (R.V.) and N. Puthuppatti (P)
+Puthuppatti W4 (Door No.79 to 476)"
+267,131,Nadu Mandalam,"Panchayat Union Elementary School, North Facing Building, Sengulam - 624401",1,"1.Nadumandalam (R.V.) and N. Puthuppatti (P)
+Senkulam W 2,3"
+268,131,Panniyamalai,"Panchayat Union Middle School, West Side Asbestos Building, Naduvanoor - 624401",1,Panniamalai (R.V.)  and Avichipatti (P) Panniamalai W 6
+269,131,Panniyamalai,"Panchayat Union Middle School, Eastern Side New RCC Building, Naduvanoor - 624401",1,"Panniamalai (R.V.)  and Avichipatti (P) Naduvanoor W 4,5"
+270,131,Avichipatti,"St.Francis Xavier Aided Middle School, Southern Side (Middle Building) Avichipatti -
+624401",1,"Avichipatti (R.V.) and (P) Avichipatti W1,2,3"
+271,131,Avichipatti,"St.Francis Xavier Aided Middle School, North Facing East Side Building, Avichipatti - 624401",1,"Avichipatti (R.V.) and (P) Avichipatti    W-1,2,3"
+272,131,Boothkudi,"Panchayat Union Elementary School, West Building, Boothakudi - 624402",1,Boothakudi (R.V.) and (P) Boothakudi    W-1
+273,131,SamuthraPatti,"Panchayat Union Elementary School, East Additional Building, Samuthirapatti - 624402",1,"Samuthirapatti (R.V.) and (P) Samuthirapatti W-1,2,3"
+274,131,SamuthraPatti,"Panchayat Union Elementary School, North Facing Building, Samuthirapatti - 624402",1,"Samuthirapatti (R.V.) and (P) Samuthirapatti W-1,2,3"
+275,131,Samuthra Patti,"Panchayat Union Elementary School,
+Southern Building, Ammapatti - 624402",1,Samuthirapatti (R.V.) and (P) Ammapatti  W-5
+276,131,Uralipatti,"Sarva Seva Middle School, Southern Side New
+Building, Ettayampatti - 624402",1,Uralipatti  (R.V.) and (P) Ettayampatti W7
+277,131,Uralipatti,"Panchayat Union Elementary School, East
+Facing South Side Room, Uralipatti - 624402",1,"Uralipatti  (R.V.) and (P) Uralipatti W 1,2,3,4"
+278,131,Uralipatti,"Panchayat Union Elementary School, East Facing North Side Room, Uralipatti - 624402",1,"Uralipatti  (R.V.) and (P) Uralipatti W 1,2,3,4"
+279,131,Uralipatti,"Panchayat Union Elementary School, East
+Fasing Asbestos Building, Erakkapatti - 624402",1,Uralipatti  (R.V.) and (P) Erakkapatti W5
+280,131,Natham,"Panchayat Union Elementary School, South Portion West Facing, Gandhi Nagar, Natham - 624401",1,"Natham (R.V.) and (T.P) Gandhi Nagar, Sumekker
+Street W4"
+281,131,Natham,"Ramsuns Matriculation School,  East Side RCC
+Building, Meyyampatti -624401",1,Natham (R.V.) and (T.P) Meiyampatti  W2
+282,131,Natham,"Panchayat Union Elementary School, South Facing East Tiled Building, Ayyapatti - 624401",1,Natham (R.V.) and (T.P) Ayyapatti Paraiyar Street W3
+283,131,Natham,"R.C Matriculation School, New Building Middle Portion, Natham - 624401",1,Natham (R.V.) and (T.P) Nagalingam Street W6
+284,131,Natham,"R.C. Matriculation School, Northern Portion New Building, Natham - 6244021",1,"Natham (R.V.) and (T.P) Dindigul to Kottampatti Road
+W 1"
+285,131,Natham,"R.C Sirumalar Elementary School, South Facing, 2nd Hall Northern Side, Natham – 624401",1,Natham (R.V.) and (T.P) Andiyappapillai Street W1
+286,131,Natham,"Government Girls Higher Secondary School, West Facing, North Portion Building, Natham - 624401",1,"2.Natham (R.V.) and (T.P) Meenatchipuram Pudutheru
+W15"
+287,131,Natham,"Government Girls Higher Secondary School, West Facing, South Portion, Natham - 624401",1,"Natham (R.V.) and (T.P) Meenatchipuram  Kurukku
+Theru   W15"
+288,131,Natham,"Government Girls Higher Secondary School, North Side South Facing Building, Natham - 624401",1,"Natham (R.V.) and (T.P) Paraiyar Sandhu W17 (Sl.No. 1
+to 982)"
+289,131,Natham,"Government Girls Higher Secondary School, New Building East Facing North Side Room, Natham - 624401",1,"Natham (R.V.) and (T.P) Paraiyar Sandhu W17 (Sl.No
+983 - 1297)"
+290,131,Natham,"R.C.Matriculation School, West Facing South Portion Building, Natham – 624401",1,2.Natham (R.V.) and (T.P) Pillayar Kovil Street W18
+291,131,Natham,"C.S.I. Primary School, East Side New Building, Natham - 624401",1,Natham (R.V.) and (T.P) Kulandhaivel Assari Street W6
+292,131,Natham,"Panchayat Union Elementary School, East Facing North Side Building, Muslim Street
+Natham - 624401",1,Natham (R.V.) and (T.P) Asaath Nagar W8
+293,131,Natham,Panchayat Union Elementary School East Facing South Side Building Muslim Street Natham 624401,1,Natham (R.V.) and (T.P) Masthan Pallivasal Street W7
+294,131,Natham,"Government Girls Higher Secondary School, East Facing New Middle Building, Natham - 624401",1,Natham (R.V.) and (T.P) Veerachettiyar Street W5
+295,131,Natham,"Anganvadi Center East Building West Facing, Kovilpatti - 624401",1,Natham (R.V.) and (T.P) Kattuperiyakulam  Street   W10
+296,131,Natham,"Panchayat Union Elementary School, North
+Facing Building, N.Kovilpatti - 624401",1,Natham (R.V.) and (T.P) Kondaiyampatti W12
+297,131,Natham,"Panchayat Union Elementary School, Northern Portion East Facing New Building, N.Kovilpatti - 624401",1,Natham (R.V.) and (T.P) Pallar Theru W12
+298,131,Natham,"Panchayat Union Elementary School, Additional Building, Southern Portion (Main), N.Kovilpatti - 624401",1,Natham (R.V.) and (T.P) Madurai road  W13
+299,131,Natham,"Panchayat Union Elementary School, West Facing building, N.Kondaiyampatti - 624401",1,Natham (R.V.) and (T.P) Madurai Road W10
+300,131,Natham,"Panchayat Union Elementary School, Northern Side East Facing Building (Main), N.Kovilpatti - 624401",1,Natham (R.V.) and (T.P) Theertha Pillai Theru W11
+301,131,Natham,"Durai Kamalam Government Model Higher Secondary School, East Facing South Portion, N.Kovilpatti - 624401",1,Natham (R.V.) and (T.P) Madurai Road   W-14
+302,131,302,"Durai Kamalam Government Model Higher Secondary School, North Facing West Portion Building, N.Kovilpatti - 624401",1,Natham (R.V.) and (T.P) Patthunonbu Palli Theru W14
+303,131,Natham,"Durai Kamalam Model Higher Secondary School, South Facing Main Building, N.Kovilpatti - 624401",1,Natham (R.V.) and (T.P) Alagarsaminayakkar  Street W-9
+304,131,Velampatti,"Panchayat Union Elementary School, South
+Facing New Building, Velampatti - 624401",1,Velampatti (R.V.) and (P) Chellampudur  W1
+305,131,Velampatti,"Landis Matriculation School, West Facing East
+New Building (North Portion) 4B Sec Room, Velampatti - 624401",1,Velampatti (R.V.) and (P) Anna Nagar W1
+306,131,Velampatti,"Landis Matriculation School, West Facing East New Building (Middle Portion) 4A Section
+Room, Velampatti - 624401",1,Velampatti (R.V.) and (P) Anna Nagar W1
+307,131,Velampatti,"Landis Matriculation School, West Facing East
+New Building (South Portion) 3B Sec Room,",1,Velampatti (R.V.) and (P) M.G.R. Nagar W1
+308,131,Velampatti,"Panchayat Union Elementary School, South
+Facing Northeast Building, Velampatti - 624401",1,Velampatti (R.V.) and (P) Velampatty   W-1
+309,131,Velampatti,"Panchayat Union Elementary School, Northwest Side East Facing Building, Velampatti - 624401",1,Velampatti (R.V.) and (P) Nehru Nagar W1
+310,131,Velampatti,"Panchayat Union Elementary School, East
+Facing RCC Building, Velampatti - 624401",1,Velampatti (R.V.) and (P) Ashok Nagar W1
+311,131,Velampatti,"Panchayat Union Middle School, South New
+Building, Serveedu - 624401",1,Velampatti (R.V.) and (P) Serveedu W4
+312,131,Velampatti,"Panchayat Union Middle School, North Side
+South Facing RCC Pakka Building, Serveedu -",1,Velampatti (R.V.) and (P) Pudur W3
+313,131,Velampatti,"Panchayat Union Middle School, North Facing
+South Building, Serveedu - 624401",1,Velampatti (R.V.) and (P) Thuvarapathi W2
+314,131,Punnapatti,"Panchayat Union Elementary School, South
+Facing, North Side Building, Uluppakudi - 624401",1,Punnappatti (R.V.) and (P) Uluppakudi Kela Theru W2 (Door No.1 to 254)
+315,131,Punnapatti,"Panchayat Union Elementary School, West Facing, East Side New Building, Uluppakudi - 624401",1,"Punnappatti (R.V.) and (P) Uluppakudi Melath Theru
+W1"
+316,131,Punnapatti,"Panchayat Union Elementary School, East Facing, Western Building, Kattuvelampatti -
+624401",1,Punnappatti (R.V.) and (P) Kattuvelampatti W3
+317,131,Punnapatti,"Panchayat Union Elementary School, East
+Facing Building, Kuttoor - 624401",1,Punnappatti (R.V.) and (P) Kuttoor W3
+318,131,Punnapatti,"Panchayat Union Middle School, South
+Facing, East Side New Building, Punnapatti - 624401",1,1.Punnappatti (R.V.) and (P) Punnappatti W4
+319,131,Punnapatti,"Panchayat Union Elementary School, South Facing, Northern Side New Building, Erramanaickenpatti - 624401",1,Punnappatti (R.V.) and (P) Narasimmapuram W5
+320,131,Punnapatti,"Panchayat Union Elementary School, South Facing, North Side New Building,
+Velayuthampatti - 624401",1,Punnappatti (R.V.) and (P) Velayuthampatti W6 Door No 1to150
+321,131,Punnapatti,"Panchayat Union Elementary School, East
+Facing Building, South Portion Velayuthampatti - 624401",1,Punnappatti (R.V.) and (P) Velayuthampatti W6 Door No From 151
+322,131,Mulaiyur,"Government High School, South Facing East
+Building, Mulaiyur - 624401",1,"Mulaiyur (R.V.) and (P) Mulaiyur W 1,2,3 (Sl.No 1 to
+1100)"
+323,131,Mulaiyur,"Panchayat Union Elementary School,
+Northern Side New Building, Mulaiyur -
+624401",1,"Mulaiyur (R.V.) and (P) Mulaiyur W 1,2"
+324,131,Mulaiyur,"Panchayat Union Elementary School, West
+Facing South side Building, Ravuthampatti
+624401",1,"Mulaiyur (R.V.) and (P) Ravuthampatti Erukkamalai,
+Othukadu W5"
+325,131,Mulaiyur,"Sarva Seva Primary School, West Facing North
+Side Building, Chinnamulaiyur-624401",1,Mulaiyur (R.V.) and (P) Cinna Mulaiyur W4
+326,131,Sathampadi,"Panchayat Union Elementary School, South
+Facing, East Side New Building, Mathukarampatti - 624401",1,Sathampadi (R.V.) and (P) Madhukkarampatti W1
+327,131,Sathampadi,"Panchayat Union Middle School, South Facing
+Building, West side Room, Sathampadi -",1,Sathampadi (R.V.) and (P) Sathampadi W7
+328,131,Sathampadi,"Panchayat Union Middle School, South Facing Building, East side Room, Sathampadi -
+624401",1,"Sathampadi (R.V.) and (P) Sathampadi W 8,9"
+329,131,Sathampadi,"Panchayat Union Elementary School, East
+Facing Building, North Side Room, Komanampatti - 624401",1,Sathampadi (R.V.) and (P) Komanampatti W5
+330,131,Sathampadi,"Panchayat Union Elementary School, East Facing Building, South Side Room,
+Komanampatti - 624401",1,Sathampadi (R.V.) and (P) Komanampatti W6
+331,131,Sathampadi,"Panchayat Union Middle School, West Facing Building, Middle Room, Vilampatti - 624401",1,Sathampadi (R.V.) and (P) Vilampatti W2
+332,131,Sathampadi,"Panchayat Union Middle School, East Facing,
+South Side Building, Vilamapatti - 624401",1,Sathampadi (R.V.) and (P) Vilampatti W3
+333,131,Palappa Naickenpatti,"Panchayat Union Elementary School, South Facing, Eastern Building, Palappanaickanpatti - 624401",1,"Palappanaickenpatti (R.V) and Pannuvarpatti (P)
+Pallapatti   W2"
+334,131,Pannuvarpatti,"Panchayat Union Elementary School, North Facing Building, Pannuvarpatti - 624401",1,Pannuvarpatti  (R.V.) and (P) Pannuvarpatti W1
+335,131,Chellappanaicke npatti,"Panchayat Union Elementary School, West Facing East Building, Chellapanaickenpatti - 624401",1,"Chellappanayakkanpatti (R.V) and (P)
+Chellappanayakkanpatti W3"
+336,131,Chellappa Naickenpatti,"Panchayat Union Elementary School, West Facing Building, Melamettupatti - 624401",1,Chellappanayakkanpatti (R.V) and (P) Melamettupatti W6
+337,131,Chellappa Naickenpatti,"Panchayat Union Elementary School, West Facing East Building, North Portion
+Moongilpatti - 624401",1,"Chellappanayakkanpatti (R.V) and (P) Moongilpatti Merku Theru W 2,3"
+338,131,Chellappa Naickenpatti,"Panchayat Union Elementary School, South Facing West Side Room, Moongilpatti - 624401",1,"Chellappanayakkanpatti (R.V) and (P) Mongilpatti
+West Street   W2"
+339,131,Chellappa Naickenpatti,"Panchayat Union Middle School, South Facing Building, Pattanampatti - 624401",1,Chellappanayakkanpatti (R.V) and (P) poyyampatti W4
+340,131,Reddiyapatti,"Panchayat Union Middle School, East Facing Building, Middle Room, Kasampatti - 624401",1,"Reddiyapatti (R.V.) and (P) Kasampatti W 6,7,8 (Door No.1-127/NA to 6/2187)"
+341,131,Reddiyapatti,"Panchayat Union Middle School, South Facing
+New Building, Kasampatti - 624401",1,"Reddiyapatti (R.V.) and (P) Kasampatti W 6,7,8 (Door
+No.7/NA to 136/NA)"
+342,131,Reddiyapatti,"Panchayat Union Middle School, East
+Additonal New Building, Kasampatti - 624401",1,Reddiyapatti (R.V.) and (P) Kasampatti W4
+343,131,Reddiyapatti,"Panchayat Union Elementary School, West Facing North Side Building, R.Vathipatti -
+624401",1,"Reddiyapatti (R.V.) and (P) R.Vatthipatti W 1,2 (Door No.1/NA to 1-261)"
+344,131,Reddiyapatti,"Panchayat Union Elementary School, West
+Facing South Side Building, R.Vathipatti - 624401",1,"Reddiyapatti (R.V.) and (P) R.Vatthipatti W 1,2 (Door No.2/1 to 508/49)"
+345,131,Reddiyapatti,"Panchayat Union Elementary School, West Facing Building, Pudukottai - 624401",1,Reddiyapatti (R.V.) and (P) Puthukottai W5
+346,131,Reddiyapatti,"Panchayat Union Elementary School, North Facing Building, Kavarayapatti - 624401",1,Reddiyapatti (R.V.) and (P) Kavarayapatti W4
+347,131,Reddiyapatti,"Panchayat Union Elementary School, South
+Facing West Side  Building, Reddiyapatti - 624401",1,Reddiyapatti (R.V.) and (P) Reddiyapatti W3
+348,131,Lingavadi,"Panchayat Union Elementary School, East Facing Building, Lingavadi - 624401",1,"Lingavadi (R.V.) and (P) Lingavadi W 2,3 (Sl.No.1 to
+1100)"
+349,131,Lingavadi,"Panchayat Union Elementary School, West Facing, South Side New Additonal Building, Lingavadi - 624401",1,"Lingavadi (R.V.) and (P) Lingavadi W 1,2,3"
+350,131,Lingavadi,"Panchayat Union Elementary School, East Facing Building, Lingavadi, Malaiyur - 624401",1,Lingavadi (R.V.) and (P) Malaiyur W3
+351,131,Lingavadi,"Panchayat Union Elementary School, West Facing North Portion Building, Lingavadi -
+624401",1,"Lingavadi (R.V.) and (P) Lingavadi W 1,2,3"
+352,131,Lingavadi,"Panchayat Union Elementary School, West Facing Building, Valaiyapatti - 624401",1,Lingavadi (R.V.) and (P) Valaiyapatti W4
+353,131,Pudur,"Government High School, Eastern New RCC
+Building, Paralipudur - 624401",1,Pudur (R.V.) and (P) Parali W2
+354,131,Pudur,"Panchayat Union Elementary School,  South
+Side West Facing Building, Paralipudur -",1,Pudur (R.V.) and (P) Nayakkar Street W1
+355,131,Pudur,"Government High School, West Facing Center Side Building, Paralipudur - 624401",1,Pudur (R.V.) and (P) Colony W1
+356,131,Pudur,"Panchayat Union Middle School, South Facing
+Building, Thethampatti - 624401",1,"Pudur (R.V.) and (P) Thettham Patti W-5(Door
+No.5/1to 5/853C)"
+357,131,Pudur,"Panchayat Union Middle School, East Facing,
+Building, Thethampatti - 624401",1,"Pudur (R.V.) and (P) Thettham Patti W-5(Door
+No.5E/188C to 519/5-30)"
+358,131,Pudur,"Panchayat Union Elementary School, North Side Building, Vemparali - 624401",1,"Pudur (R.V.) and (P) Vemparali Vanamalai
+Othukkukkadu   W6"
+359,131,Pudur,"Panchayat Union Elementary School, East Facing South Side Building, Vemparali -
+624401",1,Pudur (R.V.) and (P) Vemparali W6
+359,131,Pudur,"Panchayat Union Elementary School, East
+Facing South Side Building, Vemparali - 624401",1,Pudur (R.V.) and (P) Vemparali W6

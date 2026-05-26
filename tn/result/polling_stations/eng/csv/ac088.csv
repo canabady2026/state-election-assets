@@ -1,0 +1,823 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+1,88,1,,"Panchayat Union Elementary School, Kottagoundampatty - 636011, New Terraced Building
+Facing West South Wing","1.Kottagoundampatty (R.V) And (P), Ward 1, Adidravidar Street 999-OVERSEAS ELECTORS"
+2,88,2,,"Panchayat Union Elementary School, Kottagoundampatty - 636011, Terraced Building
+Facing South East Wing","1.Kottagoundampatty (R.V) And (P), Ward 1, Adidravidar Street"
+3,88,3,,"Panchayat Union Elementary School, Kottagoundampatty - 636011, New Terraced Building
+Facing West North Wing","1.Kottagoundampatty (R.V) And (P), Ward 2,3 Adidravidar Street"
+4,88,4,,"Panchayat Union Elementary School, Anaigoundampatty - 636011, Terraced Building Facing East South Wing","1.Kottagoundampatty (R.V) And (P), Ward 2, Govt.Engineering College Opposite
+2.Kottagoundampatty (R.V) And (P), Ward 2, Kuditheru Anaigoundampatty
+3.Kottagoundampatty (R.V) And (P), Ward 2, Manthaiveli Kattuvalavu"
+5,88,5,,"Panchayat Union Elementary School, Kottagoundampatty - 636011, Tiled Building Facing West South Wing","1.Kottagoundampatty (R.V) And (P), Ward 3, Kuditheru 2.Kottagoundampatty (R.V) And (P), Ward 3, Sponge Nagar 3.Kottagoundampatty (R.V) And (P), Ward 3, Ambedkar Nagar 4.Kottagoundampatty (R.V) And(P), Ward 3, Nallaran Kattuvalavu 5.Kottagoundampatty (R.V) And (P), Ward 3, M.G.R.Nagar 6.Kottagoundampatty (R.V) And (P), Ward 3, Kattuvalavu NH Road Near 7.Kottagoundampatty (R.V) And (P), Ward 3, TNHB Kattuvattam 8.Kottagoundampatty (R.V) And (P), Ward 3, Nayakkar Kattuvalavu"
+6,88,6,,"Panchayat Union Elementary School, Kottagoundampatty - 636011, Terraced Building Facing South West Wing","1.Kottagoundampatty (R.V) And (P), Ward 3, TNHB 2.Kottagoundampatty (R.V) And (P), Ward 3, Kattuvalavu (UreGoundarvattam),
+3.Kottagoundampatty (R.V) And (P), Ward 3, Govt.Engineering College
+Quarters"
+7,88,7,,"Kizhar Palaniyandi Pillai Ams Middle School, Orathipannai, Vellakkalpatti - 636012, Terraced
+Building Facing North East Middle Wing","1.Vellakkalpatty (R.V) And (P), Ward 1,2 Udaintha Palam 2.Vellakkalpatty (R.V) And (P), Ward1,2 Seenivasa Nagar(Pappan Ery
+Thittu)"
+8,88,8,,"Kizhar Palaniyandi Pillai Ams Middle School, Orathipannai, Vellakkalpatti - 636012, Terraced Building Facing North West Middle Wing","1.Vellakkalpatty (R.V) And (P), Ward 2, Kendiyan Vattam 2.Vellakkalpatty (R.V) And (P), Ward 1, Thalamboo Odai 3.Vellakkalpatty (R.V) And (P), Ward 1, Kilaakkadu
+4.Vellakkalpatty (R.V) And (P), Ward 1, Pamankaradu"
+9,88,9,,"Kizhar Palaniyandi Pillai Ams Middle School, Orathipannai, Vellakkalpatti - 636012, Terraced
+Building Facing East Middle Wing","1.Vellakkalpatty (R.V) And (P), Ward 1,2,3 Paman Karadu 2.Vellakkalpatty (R.V) And (P), Ward 2, Vinayagar Nagar"
+10,88,10,,"Kizhar Palaniyandi Pillai Ams Middle School, Orathipannai, Vellakkalpatti - 636012, Terraced
+Building Facing East North Wing","1.Vellakkalpatty (R.V) And (P), Ward 1,2 Manjulam Pallam, 2.Vellakkalpatty (R.V) And (P), Ward 2, Barathi Nagar"
+11,88,11,,"Panchayat Union Elementary School, Vellakkalpatty (Nerunjipatty) - 636011, Terraced Building Facing North West Wing","1.Vellakkalpatti (R.V) And (P), Ward 3, Barathi Nagar 2.Vellakkalpatti (R.V) And (P), Ward 2, Dalmia Board 3.Vellakkalpatti (R.V) And (P), Ward 2, Kamarajnagar 4.Vellakkalpatti (R.V) And (P), Ward 3, Nerinjipatty Kattuvalavu 5.Vellakkalpatti (R.V) And (P), Ward 3, Dalmia Board Opposite 6.Vellakkalpatti (R.V) And (P), Ward 3, Kattuvalavu
+7.Vellakkalpatti (R.V) And (P), Ward 3, Nerinjipatty"
+12,88,12,,"Panchayat Union Middle School, Saminaickenpatty - 636011, New Terraced Building Facing North East Wing","1.Samynayakkanpatty (R.V) And (P), Ward 1, Panangadu Kattuvalavu 2.Samynayakkanpatty (R.V) And (P), Ward 1, Kuditheru 3.Samynayakkanpatty (R.V) And (P), Ward 1, New Colony 4.Samynayakkanpatty (R.V) And (P), Ward 2, New Colony"
+13,88,13,,"Panchayat Union Middle School, Saminaickenpatty - 636011, New Terraced Additional Building Facing South West Wing.","1.Samynayakkanpatty (R.V) And (P), Ward 2, Old Colony 2.Samynayakkanpatty (R.V) And (P), Ward 3, Old Colony 3.Samynayakkanpatty (R.V) And (P), Ward 2, Arunthathiyar Colony
+Kattuvalavu"
+14,88,14,,"Panchayat Union Middle School, Saminaickenpatty - 636011, New Terraced Building Facing North West
+Wing","1.Samynayakkanpatty (R.V) And (P), Ward 1, Kuditheru 2.Samynayakkanpatty (R.V) And (P), Ward 1, New Colony
+3.Samynayakkanpatty (R.V) And (P), Ward 2, Old Colony"
+15,88,15,,"Panchayat Union Middle School, Saminaickenpatty - 636011, New Terraced Building No.2 Facing South
+West Wing","1.Samynayakkanpatty (R.V) And (P), Ward 2, New Colony 2.Samynayakkanpatty (R.V) And (P), Ward 3, Old Colony
+3.Samynayakkanpatty (R.V) And (P), Ward 3, Arunthathiyar Colony"
+16,88,16,,"Panchayat Union Middle School, Mankuppai - 636012, New Terraced Building Facing West North Wing","1.Mangkuppai (R.V) And (P), Ward 1, Mangkuppai Kuditheru 2.Mangkuppai (R.V) And (P), Ward 1, Mangkuppai Kattuvalavu 3.Mangkuppai (R.V) And (P), Ward 1, Kamarajar Colony (New Colony)"
+17,88,17,,"Panchayat Union Middle School, Manguppai - 636012, New Terraced Building Facing West South Wing","1.Mangkuppai (R.V) And (P), Ward 1, Old Colony 2.Mangkuppai (R.V) And (P), Ward 1, Adikkarai 3.Mangkuppai (R.V) And (P), Ward 2, Mangkuppai Adikkarai 4.Mangkuppai (R.V) And (P), Ward 2, Palaiyur Sathiram
+5.Mangkuppai (R.V) And (P), Ward 2, Arunthathiyar Colony"
+18,88,18,,"Panchayat Union Middle School, P.Nallagoundampatty - 636304, Terraced Building Facing East Middle Wing (Centre Room)","1.Puthu Nallaagoundampatty (R.V) And (P), Ward 1,2 Puthu Nallaagoundampatty
+2.Puthu Nallaagoundampatty (R.V) And (P), Ward 2, Kattuvattam
+3.Puthu Nallaagoundampatty (R.V) And (P), Ward 1, Muniappan Koil Vattam
+4.Puthu Nallaagoundampatty (R.V) And (P), Ward 1, Puthu Nallaagoundampatty Kattuvattam
+5.Puthu Nallaagoundampatty (R.V) And (P), Ward 1,2"
+19,88,19,,"Panchayat Union Middle School, P.Nallagoundampatty - 636304, Terraced Building Facing East South Wing","1.Nallaagoundampatty (R.V), PuthuNallaagoundampatty (P), Ward 1, PuthuNallaagoundampatty, Kattuvattam
+2.Nallaagoundampatty (R.V), PuthuNallaagoundampatty (P), Ward 2, PuthuNallaagoundampatty
+3.Nallaagoundampatty (R.V), PuthuNallaagoundampatty (P), Ward 2, Old Adidravidar Colony
+4.Nallaagoundampatty (R.V), PuthuNallaagoundampatty (P), Ward 2, Chettiar Kadai
+5.Nallaagoundampatty (R.V), PuthuNallaagoundampatty (P), Ward 1,2 New Adidravidar Colony
+6.Nallaagoundampatty (R.V), PuthuNallaagoundampatty (P), Ward 1,"
+20,88,20,,"Panchayat Union Middle School, Chellapillaikuttai - 636304, New Terraced Building Facing North Middle
+Wing","1.ChellaPillaikuttai (R.V) And (P), Ward 1, Bagavampatty 2.ChellaPillaikuttai (R.V) And (P), Ward 1, Bavanoor 3.ChellaPillaikuttai
+(R.V) And (P), Ward 2, Kavandapatty"
+21,88,21,,"Panchayat Union Middle School, Chellapillaikuttai - 636304, New Terraced Building Facing South West
+Wing","1.ChellaPillaikuttai (R.V) And (P), Ward 2,ChellaPillaikuttai"
+22,88,22,,"Panchayat Union Elementary School, Mallagoundanur - 636304, Terraced Building Facing
+North West Wing","1.ChellaPillaikuttai (R.V) And (P), Ward 3, ChellaPillaikuttai Adidravidar Colony"
+23,88,23,,"Panchayat Union Elementary School, Mallagoundanur - 636304, Terraced Building Facing
+North West Wing","1.ChellaPillaikuttai (R.V) And (P), Ward 3, Bagalpatty Mettu Street 2.ChellaPillaikuttai (R.V) And (P), Ward 3, Mettukkadu"
+24,88,24,,"Panchayat Union Elementary School, Mallagoundanur - 636304, Terraced Building Facing North West Wing","1.Mallakkavundanoor (R.V), ChellaPillaikuttai (P), Ward4, Mallakkavundanoor Kattuvattam
+2.Mallakkavundanoor (R.V), ChellaPillaikuttai (P), Ward 4, Kodamban Karadu
+3.Mallakkavundanoor (R.V), ChellaPillaikuttai (P), Ward 4, Ratchikkadu"
+25,88,25,,"Panchayat Union Elementary School, Mallagoundanur - 636304, Terraced Building Facing North East Wing","1.Mallakkavundanoor (R.V), ChellaPillaikuttai (P), Ward 4, Mallakkavundanur
+2.Mallakkavundanoor (R.V), ChellaPillaikuttai (P), Ward 4, Angalamman Nagar
+3.Mallakkavundanoor (R.V), ChellaPillaikuttai (P), Ward 4, Arunthathiyar
+Colony"
+26,88,26,,"Panchayat Union Elementary School, Senganoor - 636304, Terraced Building Facing West South Wing","1.Pagalpatty (R.V) And (P), Ward 1, Senganoor"
+27,88,27,,"Panchayat Union Elementary School, Senganoor - 636304, Terraced Building Facing West North Wing","1.Pagalpatty (R.V) And (P), Ward 1, Veditheru Kattuvalavu, 2.Pagalpatty (R.V) And (P), Ward 2, Padikaranvalavu, Thonthali Kattuvalavu,
+3.Pagalpatty (R.V) And (P), Ward 1, Utthandi Valavu"
+28,88,28,,"Panchayat Union Middle School, Boominaikenpatty - 636304, Terraced Building Facing West South Wing","1.Pagalpatty (R.V) And (P), Ward 3, Poominayakkanpatty, 2.Pagalpatty (R.V) And (P), Ward 3, Poominayakkanpatty, Adidravidar Colony"
+29,88,29,,"Panchayat Union Middle School, Boominaikenpatty - 636304, New Terraced Building Facing North East Wing","1.Pagalpatty (R.V) And (P), Ward 4, Kattu vattam, 2.Pagalpatty (R.V) And (P), Ward 4, Karattur,
+3.Pagalpatty (R.V) And (P), Ward 4, Boominayakkanpatty Kattuvalavu"
+30,88,30,,"Panchayat Union Middle School, Boominaikenpatty - 636304, Tiled Building Facing West North Wing","1.Pagalpatty (R.V) And (P), Ward 4, Arasamarathukkadu 2.Pagalpatty (R.V) And (P), Ward 7, Pagalpatty
+999-OVERSEAS ELECTORS"
+31,88,31,,"Panchayat Union Elementary School, Thasanayakkanpatty - 636304, New Terraced
+Building Facing North West Wing","1.Pagalpatty (R.V) And (P), Ward 5, Thasanayakkanpatty, 2.Pagalpatty (R.V) And (P), Ward 5, Thasanayakkanpatty,
+3.Pagalpatty (R.V) And (P), Ward 4, Anaikkavundanvalavu"
+32,88,32,,"Panchayat Union Elementary School, Pagalpatti - 636304, Terraced Building Facing West Middle Wing","1.Pagalpatty (R.V) And (P), Ward 6, Kathichettipatty, Pagalpatty Kattuvalavu,
+2.Pagalpatty (R.V) And (P), Ward 7, Pagalpatty"
+33,88,33,,"Panchayat Union Elementary School, Pagalpatti - 636304, Terraced Building Facing East North Wing","1.Pagalpatty (R.V) And (P), Ward 8, Ramanur, 2.Pagalpatty (R.V) And (P), Ward 8, Tholure,
+3.Pagalpatty (R.V) And (P), Ward 8, Chinna Pagalpatty"
+34,88,34,,"Panchayat Union Elementary School, Muthunaickenpatty - 636304, Terraced Building
+Facing North West Wing","1.Muthunaickenpatty (R.V) And (P), Ward 1, Eeswarankoil Street, 2.Muthunaickenpatty (R.V) And (P), Ward 1, Asari Street,
+3.Muthunaickenpatty (R.V) And (P), Ward 1, Kannara Street"
+35,88,35,,"Panchayat Union Elementary School, Muthunaickenpatty - 636304, Terraced Building Facing North East Wing","1.Muthunaickenpatty (R.V) And (P), Ward 2, Muniagoundan Street, 2.Muthunaickenpatty (R.V) And (P), Ward 2, Kotthan Street, 3.Muthunaickenpatty (R.V) And (P), Ward 2, Kundaankalparai, 4.Muthunaickenpatty (R.V) And (P), Ward 2, Indhira Nagar, 5.Muthunaickenpatty (R.V) And (P), Ward 2, Kaaraichvadi, 6.Muthunaickenpatty (R.V) And (P), Ward 2, Manchalayur, 7.Muthunaickenpatty (R.V) And (P), Ward 2, Masaiyanoor, 8.Muthunaickenpatty (R.V) And (P), Ward 2, Kalarpatty Kattuvalavu,"
+36,88,36,,"Panchayat Union Elementary School, Kathirchettipatty in Muthunaickenpatty - 636304, Terraced Building Facing North East Wing","1.Muthunaickenpatty (R.V) And (P), Ward 1, Kannadiyan Kadu, 2.Muthunaickenpatty (R.V) And (P), Ward 1, Kathirchettypatti, 3.Muthunaickenpatty (R.V) And (P), Ward 1, Vannankadu, 4.Muthunaickenpatty (R.V) And (P), Ward 1, Olaipatty, 5.Muthunaickenpatty (R.V) And (P), Ward 1, Palikadu, 6.Muthunaickenpatty (R.V) And (P), Ward 1, Olaipatty Kattuvalavu,
+7.Muthunaickenpatty (R.V) And (P), Ward 1, Vaalkadu"
+37,88,37,,"Panchayat Union Middle School, Palakuttapatty - 636304, Terraced Building Facing South East Wing","1.Muthunaickenpatty (R.V) And (P), Ward 2, Balakuttappatty, 2.Muthunaickenpatty (R.V) And (P), Ward 2, Balakuttapatty Kattuvalavu 3.Muthunaickenpatty (R.V) And (P), Ward 2, Balakuttapatty Colony, 4.Muthunaickenpatty (R.V) And (P), Ward 2, Allaiyanoor"
+38,88,38,,"Panchayat Union Middle School, Palakuttapatty - 636304, New Terraced Building Facing East South Wing","1.Muthunaickenpatty (R.V) And (P), Ward 2, Malaiyanoor, 2.Muthunaickenpatty (R.V) And (P), Ward 2, Marathukuttai, 3.Muthunaickenpatty (R.V) And (P), Ward 2, Marathukuttai Colony,
+4.Muthunaickenpatty (R.V) And (P), Ward 2, Maravan Kurai"
+39,88,39,,"Panchayat Union Middle School, Palakuttapatty - 636304, New Terraced Building Facing East North Wing","1.Muthunaickenpatty (R.V) And (P), Ward 3, Yerikodi, 2.Muthunaickenpatty (R.V) And (P), Ward 3, Kalarpatty, 3.Muthunaickenpatty (R.V) And (P), Ward 3, Kalarpatty Kattuvalavu, 4.Muthunaickenpatty (R.V) And (P), Ward 3, Semmedu, Mariamman koil Street,
+5.Muthunaickenpatty (R.V) And (P), Ward 3, Kilangukara Street, 6.Muthunaickenpatty (R.V) And (P), Ward 3, Kathankadu, 7.Muthunaickenpatty (R.V) And (P), Ward 3, Thonthikadu,"
+40,88,40,,"Panchayat Union Middle School, Pudurkadampatty - 636304, Terraced Building Facing West South Wing","1.Muthunaickenpatty (R.V) And (P), Ward 4, Arasamarathukadu, 2.Muthunaickenpatty (R.V) And (P), Ward 4, Muthaliyur, 3.Muthunaickenpatty (R.V) And (P), Ward 4, Mangarasankadu, 4.Muthunaickenpatty (R.V) (P), Ward 5, Puthurkadampatty, 5.Muthunaickenpatty (R.V) And (P), Ward 4, Puthurkadampatty
+kattuvalavu"
+41,88,41,,"Panchayat Union Elementary School, Karaichavadi Paravaikaradu - 636304, Terraced Building Facing North East Wing","1.Muthunaickenpatty (R.V) And (P), Ward 4, Manchalayur Kattuvalavu, 2.Muthunaickenpatty (R.V) And (P), Ward 4, Andikadu, 3.Muthunaickenpatty (R.V) And (P), Ward 4, Athukkadu, 4.Muthunaickenpatty (R.V) And (P), Ward 4, Athukkattu Colony, 5.Muthunaickenpatty (R.V) And (P), Ward 5, Manchalayur"
+42,88,42,,"Panchayat Union Elementary School, Karaichavadi Paravaikaradu - 636304, Terraced Building Facing North West Wing","1.Muthunaickenpatty (R.V) And (P), Ward 5, Karaisavadi, Kattuvalavu, 2.Muthunaickenpatty (R.V) And (P), Ward 5, Karaisavadi, 3.Muthunaickenpatty (R.V) And (P), Ward 5, Sorakkapatty, 4.Muthunaickenpatty (R.V) And (P), Ward 5, Paravakkadu"
+43,88,43,,"Panchayat Union Elementary School, Pothanur - 636502, Terraced Building Facing South West Wing","1.Konagapady (R.V) And (P), Ward 1, Thottianur 2.Konagapady (R.V) And (P), Ward 1, Thottianur Colony 3.Konagapady (R.V) And (P), Ward 1, Madakkan Valavu 4.Konagapady (R.V) And (P), Ward 1, Morambu Kadu
+999-OVERSEAS ELECTORS"
+44,88,44,,"Panchayat Union Elementary School, Pothanur in Konagapadi - 636502, New Terraced Building Facing South East Wing","1.Konagapady (R.V) And (P), Ward 1, SubbanValavu 2.Konagapady (R.V) And (P), Ward 1, Kadampatty 3.Konagapady (R.V) And (P), Ward 1, Sanaarapatty 4.Konagapady (R.V) And (P), Ward 1, Sanarappatty Kattu Valavu
+5.Konagapady (R.V) And (P), Ward 4, Sembadapalayam"
+45,88,45,,"Panchayat Union Elementary School, Athikattanoor - 636502, Terraced Building Facing South East Wing","1.Konagapady (R.V) And (P), Ward 4, Kottayur, 2.Konagapady (R.V) And (P), Ward 4, Thiruvaathankorai, 3.Konagapady (R.V) And (P), Ward 4, Athikkattanoor,
+4.Konagapady (R.V) And (P), Ward 4,1 Athikkattanur Kattuvalavu, 5.Konagapady (R.V) And (P), Ward 4, Athikkattanur Colony West, 6.Konagapady (R.V) And (P), Ward 4,1 Odangadu,
+7.Konagapady (R.V) And (P), Ward 1, Odangadu Kattuvalavu,"
+46,88,46,,"Panchayat Union Elementary School, T.Konagapadi - 636502, Terraced Building Facing South West Wing","1.Konagapady (R.V) And (P), Ward 2, Kitchipalayam, 2.Konagapady (R.V) And (P), Ward 2, Santhaipet, 3.Konagapady (R.V) And (P), Ward 2, Thoppur Northside, 4.Konagapady (R.V) And (P), Ward 2, Kamarajar Nagar,
+5.Konagapady (R.V) And (P), Ward 2, Chettiar Kadu"
+47,88,47,,"Panchayat Union Elementary School, T.Konagapadi - 636502, New Terraced Building Facing South East
+Wing","1.Konagapady (R.V) And (P), Ward 3, Thoppur Southside, 2.Konagapady (R.V) And (P), Ward 3, Nehru Nagar,
+3.Konagapady (R.V) And (P), Ward 3, Thoppur Kattuvalavu"
+48,88,48,,"Panchayat Union Elementary School, T.Konagapadi - 636502, New Terraced Building Facing South West
+Wing","1.Konagapady (R.V) And (P), Ward 3, Arinthathiyar Colony, 2.Konagapady (R.V) And (P), Ward 3, Kanapathi Nagar,
+3.Konagapady (R.V) And (P), Ward 2, Thiruvalluvar Nagar"
+49,88,49,,"Government Higher Secondary School, K.R.Thoppur - 636502, Terraced Building Facing West South Wing","1.Karukkalvady (R.V) And (P), Ward 4,5 Kullampoosariyur,
+2.Karukkalvady (R.V) And (P), Ward 5, Peramanur, 3.Karukkalvady (R.V) And (P), Ward 5, Malaiyanur Kadu"
+50,88,50,,"Government Higher Secondary School, K.R.Thoppur - 636502, Terraced Building Facing West North Wing","1.Karukkalvady (R.V) And (P), Ward 5, Weavers Colony, 2.Karukkalvady (R.V) And (P), Ward 5, Kavetty Ranganpalayam"
+51,88,51,,"Panchayat Union Middle School, Ellayur Semmankoodal - 636304, Terraced Building Facing
+South East Wing","1.Ellayur (R.V), Semmankoodal (P), Ward 1, Ellayur, 999-OVERSEAS ELECTORS"
+52,88,52,,"Panchayat Union Middle School, Kandhapichanur - 636304, Terraced Building Facing East South Wing.","1.Ellayur (R.V), Semmankoodal (P), Ward 3, Kachuvalliyanoor,
+2.Ellayur (R.V), Semmankoodal (P), Ward 3, Kuyavanoor,
+3.Ellayur (R.V), Semmankoodal (P), Ward 3, Ranganathapuram"
+53,88,53,,"Panchayat Union Middle School, Ellayur(Semmankoodal) - 636304, Tiled Building
+Facing South East Wing","1. Ellayur (R.V), Semmankoodal (P), Ward 2, Makkankadu, Molikadu, Arunthathiyar Street,
+2.Ellayur (R.V), Semmankoodal (P), Ward 1, Ellayur"
+54,88,54,,"Panchayat Union Middle School, Kandhampichanur(Semmankoodal) - 636304, Terraced Building Facing West South Wing.","1.Ellayur (R.V), Semmankoodal (P), Ward 4, Kandambitchanur, Ranganathapuram,
+2.Ellayur (R.V), Semmankoodal (P), Ward 4, Kariyampatty,
+3.Ellayur (R.V), Semmankoodal (P), Ward 3, Kachuvalliyanoor, Kuyavanoor"
+55,88,55,,"Panchayat Union Middle School, Kanganiyur - 636013. Terraced Building Facing South West Wing","1.Karukkalvady (R.V) And (P), Ward 1, Kanganiyur"
+56,88,56,,"Panchayat Union Middle School, Karukkalvadi - 636013, Terraced Building Facing North West Wing","1.Karukkalvady (R.V) And (P), Ward 1, Sevaganur,
+2.Karukkalvady (R.V) And (P), Ward 2, Puthur Kattuvalavu, 3.Karukkalvady (R.V) And (P), Ward 2, Kachuvalliyanoor"
+57,88,57,,"Panchayat Union Middle School, Karukkalvadi - 636013, Terraced Building Facing North East Wing","1.Karukkalvady (R.V) And (P), Ward 3, Puthur, 2.Karukkalvady (R.V) And (P), Ward 3, Karukkalvadi, Palaiyur,
+3.Karukkalvady (R.V) And (P), Ward 3, Kachuvalliyanur, Puthur Kattuvalavu,
+4.Karukkalvady (R.V) And (P), Ward 3, Kanganiyur Kattuvalavu
+999-OVERSEAS ELECTORS"
+58,88,58,,"Panchayat Union Middle School, Karukkalvadi - 636013, Terraced Building Facing North West Wing","1.Karukkalvady (R.V) And (P), Ward 3, Koolumikadu, 2.Karukkalvady (R.V) And (P), Ward 3, Karukkalvadi Barath Street, 3.Karukkalvady (R.V) And (P), Ward 4, Chinnathambi Valavu
+999-OVERSEAS ELECTORS"
+59,88,59,,"Panchayat Union Middle School, Karukkalvadi - 636013, Terraced Building Facing North East wing","1.Karukkalvady (R.V) And (P), Ward 3, Sancheevirayan Kadu, 2.Karukkalvady (R.V) And (P), Ward 3, Karattur,
+3.Karukkalvady (R.V) And (P), Ward 3, Manthivalavu"
+60,88,60,,"Panchayat Union Middle School, Karukkalvadi - 636013, Terraced Building Facing North West Wing","1.Karukkalvady (R.V) And (P), Ward 3, Nehru Nagar, 2.Karukkalvady (R.V) And (P), Ward 3, Pugayilaikkaran Street,
+3.Karukkalvady (R.V) And (P), Ward 3, Mangadu"
+61,88,61,,"Panchayat Union Middle School, Krishnampudur (Karukkaklvadi)-636013, Terraced Building Facing
+West Middle Wing","1.Karukkalvady (R.V) And (P), Ward 4, Krishnamputhur, 2.Karukkalvady (R.V) And (P), Ward 4, Power Grid Colony,
+3.Karukkalvady (R.V) And (P), Ward 4, Kottamedu"
+62,88,62,,"Panchayat Union Middle School, Krishnampudur (Karukkaklvadi)-636013, Terraced Building Facing
+West South Wing","1.Karukkalvady (R.V) And (P), Ward 4, Narasikadu"
+63,88,63,,"Panchayat Union Middle School, Krishnampudur (Karukkaklvadi)-636013, Terraced Building Facing West South Wing","1.Karukkalvady (R.V) And (P), Ward 4, Krishnamputhur, Arunthathiyar Colony,
+2.Karukkalvady (R.V) And (P), Ward 4, Krishnamputhur Kattuvalavu, 3.Karukkalvady (R.V) And (P), Ward 4, Power Grid Colony, 4.Karukkalvady (R.V) And (P), Ward 4, Krishnamputhur, 5.Karukkalvady (R.V) And (P), Ward 4, Mainroad moolakadai"
+64,88,64,,"Panchayat Union Middle School, Krishnampudur (Karukkaklvadi)-636013, Terraced Building Facing
+West North Wing","1.Karukkalvady (R.V) And (P), Ward 4, Narasikkadu, 2.Karukkalvady (R.V) And (P), Ward 4, Kottamedu,
+3.Karukkalvady (R.V) And (P), Ward 4, Erumaikaran Vattam"
+65,88,65,,"Panchayat Union Middle School, Alagusamuthiram - 636013, Terraced Building Facing West North Wing","1.Azhagusamuthiram (R.V) And (P), Ward 1, Azhagusamuthiram, 2.Azhagusamuthiram (R.V) And (P), Ward 2, Kanakkanthittu Kattuvalavu"
+66,88,66,,"Panchayat Union Middle School, Karukkalvadi - 636013, Terraced Building Facing North East Wing","1.Azhagusamuthiram (R.V) And (P), Ward 2, Azhagusamuthiram,Kumbakarnanvalavu, Kattuvalavu,
+2.Azhagusamuthiram (R.V) And (P), Ward 3, Kattuvalavu"
+67,88,67,,"Panchayat Union Middle School, Alagusamuthiram - 636013, Terraced Building Facing West South Wing Block.1","1.Azhagusamuthiram (R.V) And (P), Ward 1,2 Kanakkanthittu Kattuvalavu, 2.Azhagusamuthiram (R.V) And (P), Ward 3, Pachakkadu, 3.Azhagusamuthiram (R.V) And (P), Ward 3, Motturkadu, 4.Azhagusamuthiram (R.V) And (P), Ward 2, Erikkodi Kumbakarnanvalavu"
+68,88,68,,"Panchayat Union Middle School, Sarkar Kollapatty - 636030, Terraced Building Facing North West Wing","1.Sarkkarkollapatty ( R.V) And (P), Ward2,Kattur, 2.Sarkkarkollapatty (R.V) And (P), Ward2,Pudur"
+69,88,69,,"Panchayat Union Middle School, Sarkar Kollapatty - 636030, New Terraced Building Facing North Eastern
+Wing First Room","1.Sarkkarkollapatty ( R.V) And (P), Ward2,Mariyamman Kovil Near"
+70,88,70,,"Panchayat Union Middle School, Sarkar Kollpatty -
+636030, North Facing West Building East Wing","1.Sarkkarkollapatty ( R.V) And (P), Ward3,Veerakaran kovil"
+71,88,71,,"Panchayat Union Middle School, Sarkar Kollapatty - 636030, North Facing West Building Middle Wing","1.Sarkkarkollapatty ( R.V) And (P), Ward2,Mettukadu 2.Sarkkarkollapatty ( R.V) And (P), Ward2,Paraivattam"
+72,88,72,,"Panchayat Union Middle School, Amani Iyyamperumampatty - 636302, Terraced Building
+Facing West South Wing","1.Amani ayyamperumampatty (R.V) And (P), Ward1, Amani Ayyamperumampatty"
+73,88,73,,"Panchayat Union Middle School, Amani Iyyamperumampatty - 636302, Terraced Building
+Facing West North Wing","1.Amani ayyamperumampatty (R.V) And (P), Ward1,2, Amani Ayyamperumampatty"
+74,88,74,,"Panchayat Union Middle School, Amani Iyyamperumampatti - 636302, Terraced Building
+Facing North West Wing","1.Amani ayyamperumampatty (R.V) And (P), Ward3, Amani Ayyamperumapatty"
+75,88,75,,"Panchayat Union Middle School, Amani Iyyamperumampatti - 636302, Terraced Building
+Facing West Middle Wing Room No.4","1.Amani ayyamperumampatty (R.V) And (P), Ward 4, Amani Ayyamperumapatty"
+76,88,76,,"Community Hall, Sundar Nagar, Mallamuppanpatty-636302., Terraced Building Facing East","1.Mallamuppanpatty (R.V) And (P), Ward1, Sundarnagar 2.Mallamuppanpatty (R.V) And (P), Ward2, IndiraNagar
+3.Mallamuppanpatty (R.V) And (P), Ward2, Gandhi Nagar"
+77,88,77,,"e-Sevai Centre, Sundar Nagar, Mallamuppanpatty - 636302., Terraced Building Facing East","1Mallamuppanpatty (R.V) And (P), Ward2, Gandhi Nagar"
+78,88,78,,"Panchayat Union Elementary School, Steel Plant Main Road, Sithanur - 636302 Terraced Building Facing
+North, East Wing.","1.Mallamuppanpatty (R.V) And (P), Ward3, Siddhanoor Kattuvalavu, 999-OVERSEAS ELECTORS"
+79,88,79,,"Panchayat Union Elementary School, Steel Plant Main Road, Sithanur - 636302 Terraced Building Facing North, West Wing.","1.Mallamuppanpatty (R.V) And (P), Ward3,Siddhanoor Maleparakadu, 2.Mallamuppanpatty (R.V) And (P), Ward3,Siddhanoor Mariyappan Kovil Street,
+3.Mallamuppanpatty (R.V) And (P), Ward3, Siddhanoor Erumpalali Main Road,
+999-OVERSEAS ELECTORS"
+80,88,80,,"Panchayat Union Elementary School, Mallamoopanpatty - 636302 Terraced Building
+Facing West, North Wing","1.Mallamuppanpatty (R.V) And (P), Ward3,Siddhanor Kakkan Colony"
+81,88,81,,"Panchayat Union Elementary School, Mallamooppampatty - 636302, Tiled Building Facing
+North East Wing","1.Mallamuppanpatty (R.V) And (P), Ward4, Ramakoundanoor, 2.Mallamuppanpatty (R.V) And (P), Ward4, Neermariammankoil area,
+3.Mallamuppanpatty (R.V) And (P), Ward1,Nadar Street"
+82,88,82,,"Panchayat Union Elementary School, Mallamooppampatty - 636302, Tiled Building Facing
+North West Wing","1.Mallamuppanpatty (R.V) And (P), Ward4, Ramakoundanoorkattuvalavu"
+83,88,83,,"Panchayat Union Elementary School, Ramagoundanur - 636302, Terraced Building Facing West North Wing","1.Mallamuppanpatty (R.V) And (P), Ward5,Muthunaickenpatty Main Road,Ramagoundanoor,
+2.Mallamuppanpatty (R.V) And (P), Ward5,Odaivattam, 3.Mallamuppanpatty (R.V) And (P), Ward5,Arunthathiyar Colony, 4.Mallamuppanpatty (R.V) And (P), Ward5,Ramagoundanoor Kattuvalavu"
+84,88,84,,"Panchayat Union Elementary School, Ramagoundanur - 636302, Terraced Building Facing
+West South Wing","1.Mallamuppanpatty (R.V) And (P), Ward5,Ramaiyapuram, 2.Mallamuppanpatty (R.V) And (P), Ward5,Poonaikaradu,
+3.Mallamuppanpatty (R.V) And (P), Ward1,Udaiyarthottam"
+85,88,85,,"Salem City Municipal Corporation Elementary School, Periyamottur - 636302, Room No. 1 Terraced
+Building Facing South West Wing","1.Salem (C), D 1 Periya mottur,
+2.Salem (c), D 1 periyamottur kattu valavu"
+86,88,86,,"Salem City Municipal Corporation Elementary School, Jagir Kaminaickenpatty - 636302, Room No. 2
+Terraced Building Facing North East Wing","1.Salem (C), D 1 , Perumal Kovil Vattam,
+2.Salem (C), D 1 Arunthathiyar street, 999-OVERSEAS ELECTORS"
+87,88,87,,"Salem City Municipal Corporation Elementary School, Jagir Kaminaickenpatty - 636302, Room No. 3 Terraced Building Facing North Middle Building West
+Wing","1.Salem (C), D 1 Manivannan street,
+2.Salem (C), D 1 , Kattuvalavu,
+3.Salem (C), D 1 Parn & Co Colony"
+88,88,88,,"Salem City Municipal Corporation Elementary School,
+Jagir Kaminaickenpatty - 636302, Room No. 5 Terraced Building Facing South East Wing","1.Salem (C), D 1 Kaminaickenpatty"
+89,88,89,,"Salem City Municipal Corporation Elementary School, Jagir Kaminaickenpatty - 636302, Room No. 4
+Terraced Building Facing West North Wing","1.Salem (C), D 1 Ponamma Colony,
+2.Salem (C), D Kaminaickenpatty"
+90,88,90,,"Salem City Municipal Corporation Divisional Office, Jagir Reddipatty - 636302, Terraced Building Facing
+South West Wing","1.Salem (C), D 1 Jagir Reddipatty,
+2.Salem (C), D 1 Jagir Reddipatty, 999-OVERSEAS ELECTORS"
+91,88,91,,"Salem City Municipal Corporation Divisional Office, Anganvadi School, Jagir Reddipatty - 636302, Terraced Building Facing West","1.Salem (C), D 1 Doctors Colony,
+2.Salem (C), D 1 Kumaransalai,
+3.Salem (C), D 1 Subbarayan Nagar,
+4.Salem (C), D 1 Sakthipuram Doctors Colony"
+92,88,92,,"Salem City Municipal Corporation Middle School,Jagir Reddipatty - 636302, Room No. 10
+Terraced Building Facing North East Wing","1.Salem (C), D 1 Micro Tower (Senthil Nagar)
+2.Salem (C), D 1 Engineers Colony"
+93,88,93,,"Salem City Municipal Corporation Middle School, Jagir Reddipatty - 636302, Room No. 11 Terraced
+Building Facing North Middle Wing","1.Salem (C), D 1 andigoundarvattam (Inden Nagar)
+2.Salem (C), D 1 Srinagar"
+94,88,94,,"Salem City Municipal Corporation Middle School, Jagir Reddipatty - 636302, Room No. 12 Terraced Building Facing North West Wing","1.Salem (C), D 1 Pookaravattam,
+2.Salem (C), D 1 Mamangam Main Road,
+3.Salem (C), D 1 Mariyamman Kovil Street,
+4.Salem (C), D 1 Muthamil Nagar,
+5.Salem (C), D 1 Kulalar street (Annaigounder Vattam)"
+95,88,95,,"Salem City Municipal Corporation Middle School, Jagir Reddipatty - 636302, Terraced Building Facing
+South West Wing","1.Salem (C), D 1 Parvathipuram,
+2.Salem (C), D 1 Ampethgar Nagar"
+96,88,96,,"Salem City Municipal Corporation Middle School, Jagir Reddipatty - 636302, Terraced Building Facing South East Wing","1.Salem (c), D 1 Puthiya Ambethkar Nagar,
+2.Salem (C), D 1 Arunthathiyar Street,
+3.Salem (C), D 1 Odai street,
+4.Salem (C), D 1 Mariyamman Kovil Street"
+97,88,97,,"Salem City Municipal Corporation Elementary School, Periyamottur - 636302,  Room No. 6  Terraced Building Facing South East Wing","1.Salem (C), D 1 Kilakadu, mamagam,
+2.Salem (C), D 1 Mamangam Main Road,
+3.Salem (C), D 1 Thillainagar,
+4.Salem (C), D 1 M.G.R Nagar"
+98,88,98,,"Salem City Municipal Corporation Elementary School,
+Periyamottur - 636302, Room No. 13  Terraced Building Facing North West Wing","1.Salem (C), D 1 Chinna mottur,
+2.Salem (C), D 1 Elumalai Gounder Thottam,
+3.Salem (C), D 1 Amaravathi Nagar"
+99,88,99,,"Salem City Municipal Corporation Elementary School, PeriyaMottur - 636302, Room No. 13  Terraced
+Building Facing North East  Wing","1.Salem (C), D 1 Anna Nagar"
+100,88,100,,"Saraswathi Vidhyalaya Elementry School, Railway Colony - Suramangalam - 636005, Terraced Building
+Facing East South Wing","1.Salem (C), D 1 East Railway Colony"
+101,88,101,,"Saraswathi Vidhyalaya Elementry School, Railway Colony - Suramangalam - 636005, Terraced Building
+Facing East North Wing","1.Salem (C), D 1 Anthonipuram Odai"
+102,88,102,,"Salem City Municipal Corporation Elementary School, Jagir Ammapalayam - 636302, Terraced Building
+Facing East South Wing","1.Salem (C), D 2 Municipal Primary School,
+2.Salem (C), D 2 Subramani mesthri street,
+3.Salem (C), D 2 Kaliamman Koil Street"
+103,88,103,,"Salem City Municipal Corporation Elementary School, Jagir Ammapalayam - 636302, Terraced Building
+Facing East North Wing","1.Salem (C), D 2 Ettikuttai Street"
+104,88,104,,"Salem City Municipal Corporation Elementary School, Jagir Ammapalayam - 636302, Terraced Building
+Facing North West Portion","1.Salem (C), D 2 Kaaliaymman Kovil Street,
+2.Salem (C), D 2 Marriyamman Kovil Street"
+105,88,105,,"Salem City Municipal Corporation Elementary School, Jagir Ammapalayam - 636302, Terraced Building
+Facing South East Wing","1.Salem (C), D 2 Jeeva Nagar,
+2.Salem (C), D 2 Sakthi Koil Street"
+106,88,106,,"Government Higher Secondary School, Jagir Ammapalayam - 636302, Room No. 35 Terraced Building Facing South West Wing","1.Salem (C), D 2 Millath Nagar,
+2.Salem (C), D 2 Balaji Nagar, 3.Salem(c), D 2 Periandavar Koil Street,
+4.Salem(c), D 2 Nethaji Street Jagir ammapalayam,
+999-OVERSEAS ELECTORS"
+107,88,107,,"Salem City Municipal Corporation Elementary School, Jagir Ammapalayam - 636302, Terraced Building
+Facing North West Portion","1.Salem (C), D 2 Gandhi Nagar"
+108,88,108,,"Salem City Municipal Corporation Elementary School, Jagir Ammapalayam - 636302, New Terraced Building
+Facing North East Wing","1.Salem (C), D 2 Shasthiri Nagar, 2.Salem(C), D 2 Shasthiri Nagar"
+109,88,109,,"Government Higher Secondary School, Jagir Ammapalayam - 636302, Room No. 6 New Terraced Building Facing North West Wing","1.Salem(C), D 2 Ragavendrar Koil street,
+2.Salem (C), D 2 Chinnamari Street,
+3.Salem (C), D 2 Pon Nagar,
+4.Salem (C), D 2 Sidhagounder Colony"
+110,88,110,,"Government Higher Secondary School, Jagir Ammapalayam - 636302, New Terraced Building Facing East North Wing Room.4","1.Salem (C), D 2 Water Tank Circle,
+2.Salem (C), D 2 Rajakaliammankoil circle,
+3.Salem (C), D 2 Thindankalathan Circle,
+4.Salem (C), D 2 Vijayaraghavan Nagar"
+111,88,111,,"Government Higher Secondary School, Jagir Ammapalayam - 636302 Terrached Building Facing North East Wing","1.Salem (C), D 2 Poosari Thottam,
+2.Salem (C), D 2 Murugan Kovil Vattam,
+3.Salem (C), D 2 Kannagi Street,
+4.Salem (C), D 2 Pavayammal Street,
+5.Salem (C), D 2 Rasi Nagar"
+112,88,112,,"Government Higher Secondary School, Jagir Ammapalayam - 636302, Room No. 15 Terraced
+Building Facing North East Wing","1.Salem (C), D 2 Bharathi Nagar,
+2.Salem (C), D 2 Kudumian Street"
+113,88,113,,"Government Higher Secondary School, Jagir Ammapalayam - 636302, Room No. 7 Terraced
+Building Facing North West Wing","1.Salem (C), D 2 Bharathi Nagar,
+2.Salem (C), D 2 Kaliamman Koil Circle"
+114,88,114,,"Salem City Municipal Corporation Elementary School, Jagir Ammapalayam - 636302, Anganwadi Building
+Facing East South Wing","1.Salem (C), D 2 Kurinji Nagar,
+2.Salem (C), D 2 PG Nagar,
+3.Salem (c), D 3 Deivanai Nagar"
+115,88,115,,"Thiyagarajar Polytechnic College, Jagir Ammapalayam - 636302, Terraced Building Facing
+West Middle Wing","1.Salem (c), D 2 Kasakaranoor 1,2nd street, 999- OVERSEAS ELECTORS"
+116,88,116,,"Thiyagarajar Polytechnic College, Jagir Ammapalayam - 636302, Terraced Building Facing West North Wing","1.Salem (c), D 2 Kasakaranoor 1,2nd street,
+2.Salem (C), D 2 Sithan Nagar,
+3.Salem (C), D 2 Kattuvalavu,
+4.Salem (C), D 18 Chinnaian Street"
+117,88,117,,"Thiyagarajar Polytechnic College, Main Building Jagir Ammapalayam - 636302, Terraced Building Facing West South Wing","1.Salem (C), D 18 Sarkaraimesthiri Street,
+2.Salem (C), D 18 Mariamman koil Street,
+3.Salem (C), D 18 Kattuvalavu Manickavasagar street, 999 - OVERSEAS ELECTORS"
+118,88,118,,"Government Higher Secondary School, Jagir Ammapalayam - 636302, New Building Facing South East Wing Room No.10","1.Salem (C), D 3 Avvaiyar Nagar,
+2.Salem (C), D 3 Moolai Karattu Kadu,
+3.Salem (C), D 3 Ponni Sago Factory Backside,
+4.Salem (C), D 2 Omalurmain Road"
+119,88,119,,"Government Higher Secondary School, Jagir Ammapalayam - 636302, Room No. 36 Terraced
+Building Facing South West Wing","1.Salem (C), D 2 Balaji Appartments,
+2.Salem (C), D 2 Anna Nagar"
+120,88,120,,"Government Higher Secondary School, Jagir Ammapalayam - 636302, Room No. 8 New Terraced
+BuildIng Facing North West Wing","1. Salem (C), D 2 Chinnamapalayam New Housing Unit"
+121,88,121,,"Government Higher Secondary School, Jagir Ammapalayam - 636302, Room No. 16 Terraced
+Building Facing North East Wing","1.Salem (C), D 2 Kalayanasundaram Colony Chinnamapalayam"
+122,88,122,,"Government Higher Secondary School, Jagir Ammapalayam - 636302, Room No. 17 Terraced
+Building Facing North East Wing","1.Salem (C), D 2 Kalayanasundaram Colony Chinnamapalayam"
+123,88,123,,"Government Higher Secondary School, Jagir Ammapalayam - 636302, Room No. 32 Terraced
+Building Facing South East Wing","1.Salem (C), D 2 Karunanidhinagar,
+2.Salem (C), D 2 Sindhikapuram"
+124,88,124,,"Government Higher Secondary School, Jagir Ammapalayam - 636302, Room No. 9 North Facing
+West Wing","1.Salem (C), D 2 Kamaraj street,
+2.Salem (C), D 2 Valliammai Street"
+125,88,125,,"Sri Chaithanya Techno School, Narasothipatty - 636004 Terraced Building Facing South, East Wing.","1.Salem (C), D 3 Mukil Nagar,
+2.Salem (C), D 3 Newmariamman Koil Street,
+3.Salem (C), D 3 Veerapandiyar Nagar,
+4.Salem (C), D 3 Omsakthi Nagar"
+126,88,126,,"Sri Chaithanya Techno School, Narasothipatti - 636004, Terraced Building Facing South, West Wing","1.Salem (C), D 3 Indian Bank Colony,
+2.Salem (C), D 3 N.K.N Nagar,
+3.Salem (c), D 3 Townplanning Nagar,
+4.Salem (C), D 3 Azhagunachiammai Nagar"
+127,88,127,,"Sri Chaithanya Techno School, Narasothipatti - 636004, Terraced Building Facing North Middle Wing","1.Salem (C), D 3 Ezhumalaigounder Nagar,
+2.Salem (C), D 3 K.A.S Garden,
+3.Salem (c), D 3 Kamarajar Colony"
+128,88,128,,"Sri Chaithanya Techno School, Narasothipatti - 636004, Terraced Building Facing North East Wing","1.Salem (C), D 3 Anna Nagar,
+2.Salem (C), D 3 Sengalpet,
+3.Salem (C), D 3 Meenakshi Nagar"
+129,88,129,,"Sri Chaithanya Techno School, Narasothipatti 636004, Terraced Building Facing North Middle Wing","1.Salem (C), D 3 T.V.K. Nagar,
+2.Salem (C), D 3 Azhagiriammalthottam,
+3.Salem (C), D 3 Thiyagi Nagar,
+4.Salem (c), D 3 Uthayapuri colony,
+5.Salem (c), D 3 Sakthi Nagar,
+6.Salem (C), D 3 Indirani Nagar K.A.S.Avenue 999-OVERSEAS ELECTORS"
+130,88,130,,"Sri Chaithanya Techno School, Narasothipatti - 636004, Terreached Building Facing North West Wing","1.Salem (C), D 3, Panankadu,
+2.Salem (C), D 3 Perumalmalai Adivaram"
+131,88,131,,"Salem City Municipal Corporation Middle School, Narasothipatty - 636004, Room No. 34 Terraced Building Facing North Middle Wing","1.Salem (C), D 3 Ashoknagar,
+2.Salem (c), D 3 Ashok Nagar Annex,
+3.Salem (C), D 3 Perumal Malai Road,
+4.Salem (C), D 3, Rajalakshmi Nagar"
+132,88,132,,"Salem City Municipal Corporation Middle School, Narasothipatty - 636004, Room No.33, New terraced
+building facing East, North portion","1.Salem (C), D 3 Ponvel Nagar,
+2.Salem (C), D 3, Mecherian Vattam"
+133,88,133,,"Salem City Municipal Corporation Middle School, Narasothipatty - 636004, Room No. 27 New Terraced
+Building Facing East Middle Wing","1.Salem (C), D 3 K.S.V.Nagar,
+2.Salem (C), D 3 M.G.R.Nagar,
+3.Salem (C), D 3 Mariammankoil Street"
+134,88,134,,"Salem City Municipal Corporation Middle School, Narasothipatty - 636004, Terraced Building Facing North West Wing","1.Salem (C), D 3 Srinagar colony,
+2.Salem (C), D 3 Arthinagar,
+3.Salem (C), D 3 Arthinagar MohanNagar,
+4.Salem (C), D 3 Arthinagar Emarold Nagar,
+5.Salem (C), D 3 Indrani Nagar,
+6.Salem (C), D 3 Komuttikadu"
+135,88,135,,"Salem City Municipal Corporation Middle School, Narasothipatty - 636004, Room No. 31 New Terraced Building Facing East, North Portion","1.Salem (c), D 3 Shasthiri Nagar,
+2.Salem (C), D 3 Ramasamy Nagar,
+3.Salem (C), D 3 Gandhi Nagar,
+4.Salem (C), D 3 Thayankadu,
+5.Salem (C), D 3 Marriyamman Kovil Street 999-OVERSEAS ELECTORS"
+136,88,136,,"Government High School, Reddiyur - 636004, Room No. 37 New Terraced Building North Facing Middle Wing","1.Salem (C), D 3 Sriram nagar,
+2.Salem (C), D 3, Exservicemen colony,
+3.Salem (C), D 3 Throwpathyammankoil street,
+4.Salem (C), D 3 Thangavelnagar 1st street,
+5.Salem (C), D 3 Thangavelnagar 2nd street"
+137,88,137,,"Government High School, Reddiyur - 636004, Room No. 36 New Terraced Building Facing West South Wing","1.Salem (C), D 3 S.E.E.D.Colony, 2.Salem(C), D 3 KalimuthuGoundercolony,
+3.Salem (c), D 3 vasantham nagar,
+4.Salem (c), D 3 thirumalnagar lakshmi street,
+5.Salem (C), D 3 Thirumalnagarbharathistreet,
+6.Salem (C), D 3 Thirumalnagar Andalstreet1,
+7.Salem (c), D 3 thirumalnagar andal street2,
+8.Salem (C), D 3 Thirumalnagar Kaveristreet,
+9.Salem (C), D 3 Thirumalnagar amman street,
+10.Salem (C), D 3 Thirumalnagar balaji street,"
+138,88,138,,"Government High School, Reddiyur - 636004, Room No. 40 New Terraced Building Facing West North Wing","1.Salem (C), D 3 Sheshathri Nagar,
+2.Salem (C), D 3 Azhaguvinayakar Street,
+3.Salem (c), D 3 P&T Colony,
+4.Salem (C), D 3 Paraivattam"
+139,88,139,,"Government High School, Reddiyur - 636004, Building Facing West Middle Wing","1.Salem (C), D 3 , Erikarai road,
+2.Salem (C), D 3 Tahsildar Colony,
+3.Salem (C), D 3 Canara Bank Colony"
+140,88,140,,"Government High School, Reddiyur - 636004, New Terraced Building Middle Portion Facing West South Wing","1.Salem (C), D 3 Sivaya Nagar,
+2.Salem (C), D 3 Meenakshi colony,
+3.Salem (C), D 3 Rajiv Colony,
+4.Salem (C), D 3 Thadhagounder Street,
+5.Salem (C), D 3 , Kumaran Nagar,
+6.Salem (C), D 3 Chendrayakounder Street,
+7.Salem (C), D 3 I.O.B.Colony"
+141,88,141,,"Government High School, Reddiyur - 636004, New Terraced Building South Portion Facing West South
+Wing","1.Salem (C), D 3 Nagaramalai adivaram NDS Nagar,
+2.Salem (C), D 3 Vanniar Nagar"
+142,88,142,,"Government High School, Reddiyur - 636004, Room No. 39 New Terraced Building Facing East South Wing","1.Salem (C), D 3 Sivayanagar,
+2.Salem (C), D 3 Lakshman Nagar,
+3.Salem (C), D 3 E.B.Colony,
+4.Salem (C), D 3 Backside of School"
+143,88,143,,"Government High School, Reddiyur - 636004, New Terraced Building Facing East Middle Portion","1.Salem (C), D 3, Uthukkinaru"
+144,88,144,,"Government High School, Reddiyur - 636004, New
+Terraced Building Facing East Middle Wing","1.Salem (C), D 3 Asarivattam,
+2.Salem (C), D 3 Kullakounder Street"
+145,88,145,,"Government High School, Reddiyur - 636004, New Terraced Building Middle Portion Facing West North Wing","1.Salem (C), D 3 Perumalkounder Street,
+2.Salem (C), D 3 Govt.Press Quarters Industrial Centre Campus,
+3.Salem (C), D 3 Amaravathi Nagar,
+4.Salem (C), D 3 5Roads,
+5.Salem (C), D 3 Thiruvalluvar Nagar,
+6.Salem (C), D 3 Muthannan Line,
+7.Salem (C), D 3 V.K.N.Colony,
+8.Salem (C), D 3 Rocket gate and Azhagapuram main road"
+146,88,146,,"Sri Saradha Vidyalaya Girls Higher Secondary School, Alagapuram - 636016, Terraced Building Facing West Middle Wing Room No.7","1.Salem (C), D 4 Nagaramalai Adivaram,
+2.Salem (C), D 4 Perianvattam, 3.Salem(C), D 4 Naduvattam, 4.Salem(C), D 4 Jawahar street"
+147,88,147,,"Sri Saradha Vidyalaya Girls Higher Secondary School, Alagapuram - 636016, Terraced Building Facing
+North Middle Wing Room No.15","1.Salem (C), D 4 Near Kallumedu,
+2.Salem (C), D 4 Near Water Tank,
+3.Salem (C), D 4 Krishna Nagar"
+148,88,148,,"Sri Saradha Vidyalaya Girls Higher Secondary School, Alagapuram - 636016, Terraced Building Facing
+North (South Block) Room No.9","1.Salem(C), D 4 Molapattian Vattam, 2.Salem(C), D 4 E.B.Colony,
+3.Salem(C), D 4 Pillaiarkoil Street"
+149,88,149,,"Sri Saradha Vidyalaya Girls Higher Secondary School, Alagapuram - 636016, Terraced Building Facing North (South Block) Room No.10","1.Salem(C), D 4 Shanmugam street, 2.Salem(C), D 4 Nethaji Street 1,2 Cross, 3.Salem(C), D 4 Nagaramalai Main Road, 4.Salem(C), D 4 Dharmagartha Vattam,
+5.Salem(C), D 4 Waterboard Colony"
+150,88,150,,"Sri Saradha Vidyalaya Girls Higher Secondary School, Alagapuram - 636016, Terraced Building Facing West South Wing Room No.8","1.Salem(C), D 4 Greenland, 2.Salem(C), D 4 Ramankuttai, 3.Salem(C), D 4 Newfairlands, 4.Salem(C), D 4 Bharathi street, 5.Salem(C), D 4 Thirupathy vattam,
+6.Salem(C), D 4 Poovivattam"
+151,88,151,,"Sri Saradha Vidyalaya Girls Higher Secondary School, Alagapuram - 636016, Terraced Building Facing West Middle Wing Room No.7","1.Salem(C), D 4 Sri venkatachalapathy street, 2.Salem(C), D 4 Trivenilands,
+3.Salem(C), D 4 Kanakkupillai street, 4.Salem(C), D 4 School street, 5.Salem(C), D 4 Otran Karadu,
+6.Salem(c), D 4 Throwpathy Amman Temple Opposite, 7.Salem(C), D 4 Saradha College Main Road,"
+152,88,152,,"Sri Saradha Vidyalaya Girls Higher Secondary School, Alagapuram - 636016, South Wing Facing North East
+Portion Room No.14","1.Salem(C), D 4 Nagaramalai adivaram, 2.Salem(C), D 4 Kutta street,
+3.Salem(C), D 4 Molapattian Vattam"
+153,88,153,,"Sri Saradha Vidyalaya Girls Higher Secondary School, Alagapuram - 636016, Facing North East Wing Room No-5","1.Salem(C), D 4 Poosarivattam and Kaveri Vattam, 2.Salem(C), D 4 E.B.Colony,
+3.Salem(C), D 4 Arumuga nagar, 4.Salem(C), D 4 Modern Builders A. Colony,
+5.Salem(C), D 4 Rajaji Avenue,"
+154,88,154,,"Sri Saradha Vidyalaya Girls Higher Secondary School, Alagapuram - 636016, South Side Facing North West Portion Room No.15","1.Salem(C), D 4 Kuhasramam road, 2.Salem(C), D 4 M.G.Road, 3.Salem(C), D 4 Vivekanandar street, 4.Salem(C), D 4 Gandhi Avenue,
+5.Salem(C), D 4 New Fairlands 4th cross, 6.Salem(C), D 4 Bhuvaneswari nagar, 7.Salem(C), D 4 Parvathy nagar, 8.Salem(C), D 4 Maruthi Avenue, 9.Salem(C), D 4 Bharathi street, 10.Salem(C), D 4 Holy Anjels, 11.Salem(C), D 4 Panjavarna nagar, 12.Salem(C), D 4 Saradha college road,"
+155,88,155,,"Government High School, Alagapuram - 636004, Near Mariaymman Temple, Terraced Building Facing
+North East Wing","1.Salem(C), D 4 South azhagapuram colony"
+156,88,156,,"Government High School, Alagapuram - 636004, Near Mariyamman Temple, Terraced Building Facing
+North West Wing","1.Salem(C), D 4 South azhagapuram colony"
+157,88,157,,"Full Time Branch Library, Swarnapuri, Azhagapuram - 636016, Near Mariyamman Temple. Terraced Building Facing South Building, West Wing.","1.Salem(C), D 4 Ambedkarstreet south azhagapuram, 2.Salem(C), D 4 Mariamman koil Street"
+158,88,158,,"Full Time Branch Library, Swarnapuri, Azhagapuram - 636016, Near Mariyamman Temple. Terraced Building Facing South Building, East Wing.","1.Salem(C), D 4 Vinayakarkoil Street, 2.Salem(C), D 4 Murugan koil street, 3.Salem(C), D 4 Arunthadiar street, 4.Salem(C), D 4 Bajanai madam,
+5.Salem(C), D 4 Main road"
+159,88,159,,"Panchayat Union Elementary School, Chettichavadi - 636008, Terraced Middle Building Facing North West
+Wing","1.ChettyChavadi (R.V) And (P), Ward1, Muniappan Koil"
+160,88,160,,"Panchayat Union Elementary School, Chettichavadi - 636008, Terraced Building Facing South West Wing.","1.ChettyChavadi (R.V) And (P), Ward2, ManThoppu, 2.ChettyChavadi (R.V) And (P), Ward2, Nelliakaradu, 3.ChettyChavadi (R.V) And (P), Ward3, Srisiva Nagar (right) Nelliakaradupark X Ro,
+999-OVERSEAS ELECTORS"
+161,88,161,,"Panchayat Union Elementary School, Chettichavadi - 636008, Terraced Building Facing North West Wing.","1.ChettyChavadi (R.V) And (P), Ward4, Balamurugannagar, 2.ChettyChavadi (R.V) And (P), Ward4, Sathyanagar,
+3.ChettyChavadi (R.V) And (P), Ward4, Annanagar"
+162,88,162,,"Panchayat Union Elementary School, Chettichavadi - 636008, North Facing West Building South Wing","1.ChettyChavadi (R.V) And (P), Ward4, Dalmiacolony, 2.ChettyChavadi (R.V) And (P), Ward4, Rajakannunagar,
+3.ChettyChavadi (R.V) And (P), Ward4, Gandhinagar"
+163,88,163,,"Panchayat Union Elementary School, Chettichavadi - 636008, Terraced Building Facing South North Wing","1.ChettyChavadi (R.V) And (P), Ward3, Opp to Chettychavadi Water Tank Gate II,
+2.Chetti Chavadi (R.V) And (P), Ward 3 Manthopu West Opp P.U.E.School,
+3.ChettyChavadi (R.V) And (P), Ward3, From Nelliakaradukeel koyyathoppu to Siva Nagar,
+4.ChettyChavadi (R.V) And (P), Ward3, Pettyshop Ellukundu road (right), 5.ChettyChavadi (R.V) And (P), Ward3, From Thazhauthu murugankoil  to thiruvakound,
+6.ChettyChavadi (R.V) And (P), Warde3, From Ellukundu to Pettyshop (right),
+7.ChettyChavadi (R.V) And (P), Ward3, Kattuvalavu near P.U.P. School"
+164,88,164,,"Government High School, Alagapuram - 636016, Terraced Building Facing West South Wing","1.Salem (C), D 4, Boyar street,
+2.Salem (C), D 4, Pambarakara vattam,
+3.Salem (C), D 4, Postoffice street"
+165,88,165,,"Government High School, Alagapurampudur - 636016, Terraced Building Facing West South Wing Room No.4","1.Salem (C), D 4, Backside of rice mill,
+2.Salem (C), D 4, Bharathi street,
+3.Salem (c), D 4, arthanari gounder street and garden,
+4.Salem (C), D 4, Pilliar koil Street,
+5.Salem (C), D 4, Teastall selvam street,
+6.Salem (C), D 4, Raman street,
+7.Salem (C), D 4, Panchayat office front side,"
+166,88,166,,"Government High School, Alagapuram Pudur - 636016, Terraced Building Facing East South Building
+North Wing","1.Salem(C), D 5 Rajarajan nagar, 2.Salem(C), D 5 Ramar nagar,
+3.Salem(C), D 5 Murugan nagar"
+167,88,167,,"Government High School, Alagapurampudur - 636016, Terraced Building Facing West South Wing
+Room No.4","1.Salem(c), D 5 arun nagar, 2.Salem(C), D 5 Mattakaran street,"
+168,88,168,,"Government High School, Alagapurampudur - 636016, Terraced Building Facing South East Wing","1.Salem(c), D 5 Parakkadu"
+169,88,169,,"Government High School, Alagapurampudur - 636016, Terraced Building Facing East North Wing","1.Salem(C), D 5 Azhagapuram pudur"
+170,88,170,,"Government High School, Alagapurampudur - 636016. Terraced Building Facing South West Wing","1.Salem(C), D 5 Norappan kadu, 2.Salem(C), D 5 Azhagapuram pudur,
+3.Salem(C), D 5 Mattakaran street"
+171,88,171,,"Sri Saradha Matric School , Salem-636016, New Terraced Building Facing South Middle Wing","1.Salem(C), D 5 S.K.S.Hospital Opp., 2.Salem(c), D 5 kailash nagar, 3.Salem(C), D 5 Chinnapudur road
+4.Salem(C), D 5 Thoppukadu"
+172,88,172,,"Sri Saradha Matric School , Salem-636016, Terraced
+Building Facing South East Wing","1.Salem(c), D 5 Thoppukadu"
+173,88,173,,"Sri Saradha Matric School, Salem-636016., Terraced Building Facing South East Wing Room No. 46","1.Salem(c), D 5 Vanniar Nagar"
+174,88,174,,"Sri Saradha Matric School, Salem-636016, Terraced Building Facing South East Wing Room No. 45","1.Salem(c), D 5 Vanniar Nagar"
+175,88,175,,"Sri Saradha Matric School, Salem-636016, Terraced Building Facing South West Wing Room No. 44","1.Salem(C), D 5 Sona nagar Arjuna nagar, 2.Salem(C), D 5 Periasamy nagar,
+3.Salem(c), D 5 Pillaiyar nagar"
+176,88,176,,"Government High School, Alagapurampudur -
+636016, Building Facing North East Wing","1.Salem (C), D 5 Sakthi Nagar"
+177,88,177,,"Sri Saradha Matric School, Salem-636016, Terraced Building Facing South West Wing Room No. 43","1.Salem(C), D 5 K.M.S. Garden, 2.Salem(C), D 5 Dharmalingam Vattam,
+3.Salem(C), D 5 Chinnagounder Vattam"
+178,88,178,,"Sri Saradha Matric School, Salem-636016 Terraced Building Facing South, West Wing Room No. 41","1.Salem(C), D 5 Convent Road"
+179,88,179,,"Salem City Municipal Corporation Middle School, Mittapudur - 636016, New Terraced Building Facing
+North East Wing Room No.2","1.Salem(C), D 5 Convent Road"
+180,88,180,,"Salem City Municipal Corporation Middle School, Mittapudur - 636016, New Terraced Building Facing
+North East Wing Room No.3","1.Salem(C), D 5 Mittapudur"
+181,88,181,,"Salem City Municipal Corporation Middle School, Mittapudur - 636016, New Terraced Building Facing
+North East Wing","1.Salem(C), D 5 Mittapudur"
+182,88,182,,"Salem City Municipal Corporation Middle School, Mittapudur - 636016 New Terraced Building Facing
+North, West Wing.","1.Salem(C), D 5 ATC Nagar, 2.Salem(C), D 5 Ayyappachettiarkadu"
+183,88,183,,"Salem City Municipal Corporation Middle School, Kombaipatti Alagapuram Pudhur - 636008,  Terraced Building North Wing Facing East","1.Salem (C), D 5 Pidariammankoil"
+184,88,184,,"Salem City Municipal Corporation Middle School, Kombaipatti Alagapuram Pudhur - 636008, Terraced Building Facing East South Wing","1.Salem (C), D 5, Selvapuram,
+2.Salem (C), D 5 Santhi Nagar,
+3.Salem (C), D 5 Thiruppathynagar"
+185,88,185,,"Salem City Municipal Corporation Middle School, Kombaipatti Alagapuram Pudhur - 636008,  Terraced Building Facing East Middle Wing","1.Salem(C), D 5 Gorimedu Anbunagar, 2.Salem(C), D 5 Thriveni garden,
+3.Salem (c), D 5 Jayanagar"
+186,88,186,,"Salem City Municipal Corporation Middle School, Kombaipatti Alagapuram Pudhur - 636008, Terraced Building Facing East South Wing","1.Salem(C), D 5 Kombaipatty, 2.Salem(C), D 5 M.G.R. Nagar"
+187,88,187,,"Salem City Municipal Corporation Middle School, Kombaipatti Alagapuram Pudhur - 636008, Terraced Building Facing East North Wing","1.Salem (C), D 5 Periyarnagar, 2.Salem(C), D 5 Thideer Colony"
+188,88,188,,"Panchayat Union Elementary School, Kondappanaickenpatty - 636008, Terraced Building Facing North East Wing","1.Kondappanaickenpatty (R.V) And (P), Ward 1, Rajaveethi, 2.Kondappanaickenpatty (R.V) And (P), Ward 1, Yercaud Mani Road East, 3.Kondappanaickenpatty (R.V) And (P), Ward1, Mariamman Koil Street1, 4.Kondappanaickenpatty (R.V) And (P), Ward2, Mariammankoil Street2, 5.Kondappanaickenpatty (R.V) And (P), Ward2, Backside of Muniappan Koil,
+6.Kondappanaickenpatty (R.V) And (P), Ward2, Yercaud Main Road West,
+7.Kondappanaickenpatty (R.V) And (P), Ward2, Selvandhapuram"
+189,88,189,,"Panchayat Union Elementary School, Kondappanaickenpatty - 636008, Terraced Building Facing South West Wing","1.Kondappanaickenpatty (R.V) And (P), Ward2, Bharathi nagar, 2.Kondappanaickenpatty (r.v) and (p), Ward2, maruthinagar, 3.Kondappanaickenpatty (R.V) And (P), Ward2, Senguttai, 4.Kondappanaickenpatty (R.V) And (P), Ward2, Theerthakounder Thottam,
+5.Kondappanaickenpatty (R.V) And (P), Ward2, Gandhinagar, 6.Kondappanaickenpatty (R.V) And (P), Ward2, Gandhinagar New"
+190,88,190,,"Panchayat Union Elementary School,
+Kondappanaickenpatty - 636008, Western Terraced Building Facing East South Wing","1.Konadappanaickenpatty (r.v) and (p), Ward3, Muyal Nagar, 2.Konadappanaickenpatty (R.V) And (P), Ward3, Iyyan Nagar"
+191,88,191,,"Panchayat Union Elementary School, Kondappanaickenpatty - 636008, Terraced Building
+Facing North Middle Wing","1.Konadappanaickenpatty (r.v) and (p), Ward3, Sathiya Nagar 999-OVERSEAS ELECTORS"
+192,88,192,,"Panchayat Union Elementary School, Kondappanaickenpatty - 636008, Terraced Building
+Facing North Middle Wing","1.Konadappanaickenpatty (R.V) And (P), Ward3, Adivaram"
+193,88,193,,"Panchayat Union Elementary School, Kondappanaickenpatty - 636008, Terraced Building Facing South East Wing","1.Kondappanaickenpatty (R.V) And (P), Ward4, Kuravankadu, 2.Kondappanaickenpatty (R.V) And (P), Ward4, Gowripuram, 3.Kondappanaickenpatty (r.v) and (p), Ward4, jeevanagar, 4.Kondappanaickenpatty (R.V) And (P), Ward4, Thottimaniakkadu,
+5.Kondappanaickenpatty (R.V) And (P), Ward4, Sakthinagar"
+194,88,194,,"Panchayat Union Elementary School, Kondappanaickenpatty - 636008, Terraced Building Facing East North Wing","1.Kondappanaickenpatty (R.V) And (P), Ward4, P&T Colony, 2.Kondappanaickenpatty (R.V) And (P), Ward4, Vinayakampatty, 3.Kondappanaickenpatty (R.V) And (P), Ward4, Mittakaduvalavu,
+4.Kondappanaickenpatty (R.V) And (P), Ward4, Erumakuttapallam"
+195,88,195,,"Panchayat Union Elementary School, M.Palapatty - 636008, Terraced Building Facing North South Middle Wing","1.M Palappatty (R.V) And (P), Ward 1,2, 2.M.Palappatty (R.V) And (P), Ward 3,
+3.M. Palapatty (R.V) And (P), Ward 3, Pachiyamman Nagar,
+4.M.Palappatty (R.V) And (P) Ward 4, Salleri Kadu Karuppanur Koil"
+196,88,196,,"Panchayat Union Elementary School, M.Palapatty - 636008, Asbestos (Cooling Sheet) North Building
+Facing South West Wing","1.M.Palappatty (R.V) And (P), Ward 4,5"
+197,88,197,,"Panchayat Union Elementary School, M.Palapatty - 636008, Asbestos (Cooling Sheet) North Building
+Facing South East Wing","1.M. Palapatty (R.V) And (P), Ward.1,2,
+2.M. Palapatty (R.V) And (P), Ward 4,5, Kattu Valavu"
+198,88,198,,"Vinayaka Vidyalaya Matric Hr.Sec.School, Fairlands-636016, Terraced Building Facing East South Wing Room No 28","1.Salem (C), D 17 Park Street,
+2.Salem (C), D 17  Indiragandhi Road,
+3.Salem (C), D 17  Kamakodi Street,
+4.Salem (C), D 17  Murugan Koil Street, 5.Salem(C), D 17  Greenways Road,
+6.Salem (C), D 17 Lakshmi Street, 7.Salem(C), D 17  Gokul Road, 8.Salem(C), D 17 John Kennady Street, 9.Salem(C), D 17  East Garden Road, 10.Salem(C), D 17 West Garden Road, 11.Salem(C), D 17 Saraswathi Street,
+12.Salem(C), D 17 Thirunavukkarasu Street, 13.Salem(C), D 17 Gokulakrishnan Street, 14.Salem(C), D 17  L.I.C. Colony,
+15.Salem(C), D 17 Tamilnadu Housing Board,
+16.Salem(C), D 17 Kaliapillai Thoppu,"
+199,88,199,,"Vinayaka Vidyalaya Matric Hr.Sec.School, Fairlands-636016, Terraced Building Facing East Middle Wing Room No 29","1.Salem(C), D 17 Raman Road, 2.Salem(C), D 17 Manimekalai Road, 3.Salem(C), D 17 Sundaram Street,
+4.Salem(C), D 17 Brindavan 2nd Cross Street, 5.Salem(C), D 17 Brindavan 3rd Cross Street, 6.Salem(C), D 17 Brindavan 4th cross Street, 7.Salem(c), D 17 brindavan 5th cross street, 8.Salem(C), D 17 Brindavan 6th Cross Street, 9.Salem(C), D 17Brindavan 7th Cross Street, 10.Salem(C), D 17Brindavanam Main Road, 11.Salem(C), D 17Brindavan 1st Cross Street,
+12.Salem(C), D 17Vinayakar Street,"
+200,88,200,,"Vinayaka Vidyalaya Matric Hr.Sec.School, Fairlands-636016, Terraced Building Facing East North Wing Room No 30","1.Salem(c), D 17 Sathyanarayanan street, 2.Salem(C), D 17 Advaitha asram road,
+3.Salem(C), D 17  Sammandar Road Deiveega Thirumana Mahal,
+4. Salem(C), D 17  Swarnambigai street, 5.Salem(C), D 17  Manickavasagar street, 6.Salem(C), D 17 GokulaNathan Street, 7.Salem(C), D 17  Manivannan street, 8.Salem(C), D 17 Arthanari nagar 1st cross, 9.Salem(C), D 17 Arthanari nagar 2nd cross, 10.Salem(C), D 17  C.T.O.Colony 1st Cross, 11.Salem(C), D 17  C.T.O.Colony 2nd Cross, 12.Salem(C), D 17  C.T.O.Colony 3rd Cross, 13.Salem(c), D 17  Sugavaneswara Road, 14.Salem(C), D 17  Balaji Nagar 1st Cross, 15.Salem(C), D 17  Balaji nagar 2nd cross,"
+201,88,201,,"Salem City Municipal Corporation Elementary School, Swarnapuri - 636004, Terraced Building Facing South East Wing","1.Salem(C), D 17 Muniyappan Kovil St, 2.Salem(C), D 17 Yercaud Main Road, 3.Salem(C), D 17 Perumal Kovil Street,
+4.Salem (c), D 17 kalaimagal street, 5.Salem(C), D 17 Vinayagar Kovil Street, 6.Salem(C), D 17 Vanijnathariyyar Street, 7.Salem(C), D 17 Rajaji Street, 8.Salem(C), D 17 AnnaSalai,
+9.Salem (C), D 17 Bharathi Street, 10.Salem(c), D 17 poovagoundar colony,
+11.Salem (C), D 17 Ragavan Street, 12.Salem(c), D 17 Kalapaikaran Street,"
+202,88,202,,"Salem City Municipal Corporation Noon Meal Centre, Swarnapuri - 636004, Terraced Building Facing East
+West Building","1.Salem(C), D-17 Alamarakkadu, 2.Salem(C), D 17 Erikkadu,
+3.Salem(C), D-17 Alamarakkadu 2"
+203,88,203,,"Salem City Municipal Corporation Elementary School, Swarnapuri - 636004, Terraced Building Facing East","1.Salem(C), D 17 BoyarStreet, 2.Salem(C), D 17 Veerapandiarnagar"
+204,88,204,,"Thiyagaraja Polytechnic Sona Valliappa Public School, Junction Main road - 636005, Terraced Building Facing East North Wing","1.Salem(C), D 18Tata colony,  2.Salem(C), D 18 Omalur ByeBass Road, 3.Salem(C), D 18Indira Nagar, 4.Salem(C), D 18 Subaramaniya Colony, 5.Salem(C), D 18Padmapavthi Colony, 6.Salem(C), D 18Statebank colony,
+7.Salem(C), D 18 Junction Main road,North, 8.Salem(C), D 18 Rajiv Nagar,
+9.Salem(C), D 18 Meyyanoor Main Road, 10.Salem(C), D 18 Gokkulam Hospital Back side,"
+205,88,205,,"Thiyagaraja Polytechnic Sona Valliappa Public School, Junction Main road - 636005, Terraced Building
+Facing East South Wing","1.Salem(C), D 18 State Bank Colony, 2.Salem(c), D 18 Thirunagar Extension,
+3.Salem(C), D 18 Karkanaa Street"
+206,88,206,,"Thiyagaraja Polytechnic Sona Valliappa Public School, Jagir Ammapalayam - 636005, Terraced Building Facing South East Wing","1.Salem(C), D 18 Junction Main Road,
+2.Salem (C), D 18 Omalur Main Road, 3.Salem(C), D 18 Sundaram Colony, 4.Salem(C), D 18 Muniyappan Kovil Street, 5.Salem(C), D 18 Annapuram,
+6.Salem(C), D 18 Swarnapuri Annexe"
+207,88,207,,"Sri Vidhya Mandhir Higher Secondary School, Meyyanur - 636004, Terraced Building Facing West
+North Wing","1.Salem(c), D 18 Alamarathukadu 1"
+208,88,208,,"Salem City Municipal Corporation Elementary School,Swarnapuri - 636004, Terraced Building
+Facing South West Wing","1.Salem(C), D 17 Ram Nagar-2, 2.Salem(C), D 17 Iyer line,
+3. Salem(C), D 17 Ram Nagar-1"
+209,88,209,,"Salem City Municipal Corporation Elementary School, Meyyanur - 636004, Back Side Terraced Building
+Facing South East Wing","1.Salem(c), D 18 New street, 2.Salem(c), D 18 sSankar nagar,
+3.Salem(C), D 18 Omalur main road"
+210,88,210,,"Salem City Municipal Corporation Elementary School, Meyyanur - 636004, Back Side Terraced Building Facing South West Wing","1.Salem(C), D 18 Mariamman koil Street, 2.Salem(C), D 18 Meyyagounder street,
+3.Salem (C), D 17 Meyyanoor,
+4.Salem(c), D 18 V.M.R. Nagar"
+211,88,211,,"Salem City Municipal Corporation Elementary School,
+Meyyanur - 636004 Terraced Building Facing South East Wing","1.Salem(C), D 18 Panankadu (Meyyanoor), 2.Salem(C), D 18 Meyyanoor Main Road"
+212,88,212,,"Sri Vidhya Mandhir Higher Secondary School, Meyyanur - 636004, Facing West South Wing","1.Salem(C), D 18 Cyclekarar vattam, 2.Salem(C), D 18 Govindagounder street, 3.Salem(C), D 18 NPS Nagar,
+4.Salem(C), D 18 Itteri road, 5.Salem(C), D 18 Vanniar nagar,
+6.Salem(C), D 18 Meyyanoor Main Road"
+213,88,213,,"Salem City Municipal Corporation Elementary School, Meyyanur - 636004, Terraced Building Facing West
+North Wing","1.Salem(C), D 18 Arthanarigounder street"
+214,88,214,,"Saraswathi Vidhyalaya Elementry School, Railway Colony, Suramangalam - 636005, Building Facing
+East Middle Wing","1.Salem (c), D 19 Anthonipuram"
+215,88,215,,"Sri Ramakrishna Saradha Higher Secondary School, Suramangalam, Subramania Nagar - 636005, Terraced South Building Facing North East Wing
+Room No.45","1.Salem (c), D 19 Asathunagar"
+216,88,216,,"Mathar Sangam Nursury School, Suramangalam, Subramania Nagar - 636005, Facing North Building","1.Salem (C), D19, Kadhar Khan Street,
+2.Salem (c), D19, Dharma Nagar1,
+3.Salem (C), D19, Dharma Nagar2,
+4.Salem (C), D19, Dharma Nagar Main Road,
+5. Salem (C), D.19, V.O.C. Nagar"
+217,88,217,,"Sri Ramakrishna Saradha Higher Secondary School, Suramangalam, Subramania Nagar - 636005, Facing
+East South Wing Room No-8","1.Salem (C), D19,Mariamman Koil Street,
+2.Salem (C), D19, Appavu Nagar"
+218,88,218,,"Sri Ramakrishna Saradha Higher Secondary School, Suramangalam, Subramania Nagar - 636005, Terraced South Building Facing North East Wing Room No.46","1.Salem (C), D19, Dharmanagar 3rd Street,
+2.Salem (C), D19, Elango Street,
+3.Salem (C), D19, Kalidasan Street,
+4.Salem (C), D19, Avvaiar Street,
+5.Salem (C), D 19,Thiyagaprammam street,
+6.Salem (C), D 19,Dharmanagar 4th street, 999-OVERSEAS ELECTORS"
+219,88,219,,"Sri Ramakrishna Saradha Higher Secondary School, Suramangalam, Subramania Nagar - 636005, West Terraced Building Facing East Middle Wing Room No. 7","1.Salem (C), D19, Nakirar Street,
+2.Salem (C), D19, Thiruvalluvar Street,
+3.Salem (C), D19, Valmeeki Street,
+4.Salem (C), D19, Dharmanagar 5th street,
+5.Salem (C), D19, Ammapalayam Main Road,
+6.Salem (C), D19, Sannadhi Street,
+7.Salem (C), D19, Bharathiar Stree"
+220,88,220,,"Salem City Municipal Corporation Middle School, Bodinaickenpatti - 636005, Terraced Building Facing
+West North Wing","1.Salem (C), D20, Erikarai street,
+2.Salem (C), D20, Kalaimagal street,
+3.Salem (C), D22, Bodinaickenpatty Andipatty"
+221,88,221,,"Salem City Municipal Corporation Middle School, Bodinaickenpatti - 636005, Terraced Building Facing West Middle Wing","1.Salem (C), D20,Gnanasambanthar street,
+2.Salem (C), D22,Andipatty,
+3.Salem (C), D20,Govindhasamy street,
+4.Salem (C), D20,Marigounder street,
+5.Salem (C), D20,muniyappan kovil street,
+6.Salem (C), D20,Thirumagal street, 999-OVERSEAS ELECTORS"
+222,88,222,,"Salem City Municipal Corporation Middle School, Suramangalam - 636005, Terraced Building Facing
+South West Wing","1.Salem (C), D20, Kamaraj Street,
+2.Salem (C), D20, Suramangalam Main Road"
+223,88,223,,"Salem City Municipal Corporation Middle School, Suramangalam - 636005, Terraced Building Facing
+South Middle Wing","1.Salem (C), D 20, Suramangalam Main Road,
+2.Salem (C), D 20, Palaiya Suramangalam"
+224,88,224,,"Salem City Municipal Corporation Middle School, Suramangalam - 636005, Terraced Building Facing South East Wing","1.Salem (C), D20,Ramalingam Nagar,
+2.Salem (C), D20,West Railway colony,
+3.Salem (C), D.20. Rajaji Nagar, 999-OVERSEAS ELECTORS"
+225,88,225,,"Neelambal Subramaniam Matriculation Higher
+Secondary school, Suramangalam - 636005, New Terraced Building Facing East South Wing Room","1.Salem (C), D 20 Majithu street,
+2.Salem (C), D20 Nehru Street,
+3.Salem (C), D 20 Anna Street,"
+226,88,226,,"Neelambal Subramaniam Matriculation Higher Secondary school, Suramangalam - 636005, Terraced Building Facing East South Wing","1.Salem (C), D 20 Vellaiyan Street,
+2.Salem (C), D20, Periyar Street, Odai,
+3.Salem (C), D 20,Periyar Street J.J Nagar"
+227,88,227,,"Neelambal Subramaniam Matriculation Higher Secondary school, Suramangalam - 636005, New
+Terraced Building Facing East Middle Wing","1.Salem (C), D 20, Periyar Street"
+228,88,228,,"ICDC Centre(612), Ariyagoundampatty - 636005, Terraced Building Facing North","1.Salem (V), D 22 Ariyagoundampatty,
+2.Salem (C), D 21 Keel street, 999-OVERSEAS ELECTORS"
+229,88,229,,"Salem City Municipal Corporation Elementary School, Ariyagoundampatty - 636005, Terraced Building
+Facing West South Wing","1.Salem (C), D 21 Lanien Nagar, 2.Salem(C), D 21 Keel Street
+3.Salem (c), D 21 Mariyamman kovil st"
+230,88,230,,"Salem City Municipal Corporation Elementary School, Ariyagoundampatty - 636005, Terraced Building
+Facing West Middle Wing","1.Salem (C), D 21 M.G.R, Nagar,
+2.Salem (C), D 21 Melustreet,
+3.Salem (C), D 22  Parakadu"
+231,88,231,,"Salem City Municipal Corporation Elementary School, Ariyagoundampatty - 636005 Terraced Building
+Facing West, North Wing.","1.Salem (C), D 21 Kaliyamman Nagar,
+2.Salem (C), D 21 Salavaiyalar colony"
+232,88,232,,"Salem City Municipal Corporation Elementary School, Ariyagoundampatty - 636005. Terraced Building
+Facing West Middle Wing","1.Salem (C), D 21,Gandhi Nagar,
+2.Salem (C), D 21 Lakshmi Nagar,
+3.Salem (C), D 21 Mel Street I.T.I Near"
+233,88,233,,"Salem City Municipal Corporation Elementary School, Solampallam - 636005, Terraced Building Facing East
+South Wing","1.Salem (C), D 21 Tharamangalam Road,
+2.Salem (C), D 21 Kattusotthan Valavu Thenpuram"
+234,88,234,,"Salem City Municipal Corporation Elementary School, Solampallam - 636005, Terraced Building Facing North West Wing","1.Salem (C), D 21, Solapallam Paguthi"
+235,88,235,,"Ramalinga Vallalar Primary School, Suramangalam - 636005, Terraced Building Facing West North Wing","1.Salem (C), D 21,Kattusetthan Valavu Vadapuram,
+2.Salem (C), D 21,Railway Nagar"
+236,88,236,,"Salem City Municipal Corporation Elementary School, Solampallam - 636005, Terraced Building Facing North East Wing","1.Salem (C), D 21, Sollapallam Paguthi,
+2.Salem (C), D 21, Ammasi Gounder Street"
+237,88,237,,"Ramalinga Vallalar Primary School, Old Suramangalam - 636005, Terraced Building Facing
+South East Wing","1.Salem (C), Ward2, Indhira Nagar,
+2.Salem (C), D 21, Achuvan Nagar,
+3.Salem (C), D 21, Anna Nagar"
+238,88,238,,"Ramalinga Vallalar Primary School, Old Suramangalam - 636005, Terraced Building Facing South Middle Wing","1.Salem (C), D 21 Kapilar Theru"
+239,88,239,,"Ramalinga Vallalar Primary School, Old Suramangalam - 636005, Terraced Building Facing
+West South Wing","1.Salem (C), D 21,M.G.R Nagar,
+2.Salem (C), D 21 Periyar Nagar,
+3.Salem (C), D 21 Rajiv Nagar,"
+240,88,240,,"Panchayat Union Elementary School, Thalavaipatty - 636302, Terraced Building Facing North Middle Wing","1.Thalavaipatty (R.V) And (P), Ward1,Thalavaipatty"
+241,88,241,,"Panchayat Union Elementary School, Thalavaipatty - 636302, Terraced Building Facing North west Wing","1.Thalavaipatty (R.V) And (P), Ward2, Pethanoor, 2.Thalavaipatty (R.V) And (P), Ward2, Kalarkadu,
+3.Thalavaipatty (R.V) And (P), Ward1,Thalavaipatty"
+242,88,242,,"Government Higher Secondary School, Sarkar Kollapatty - 636302 Terraced Building Facing South Building, East Wing.","1.Thalavaipatty (R.V) And (P), Ward2 Petthanoor Colourkadu, 2.Thalavaipatty (R.V) And (P), Ward4 Katthavarayankovil Paguthi, 3.Thalavaipatty (R.V) And (P), Ward3 Nagarkoil Circle,
+4.Thalavaipatty (R.V) And (P), Ward3 Nadaiyavattam"
+243,88,243,,"Government Higher Secondary School, Sarkar Kollapatty - 636302 Terraced Building Facing West,
+South Wing.","1.Thalavaipatty (R.V) And (P), Ward3, Nadaiyavattam"
+244,88,244,,"Government Higher Secondary School, Sarkar Kollapatty - 636302 Terraced Building Facing West, Middle Wing.","1.Thalavaipatty( R.V) And (P), Ward4,Siddhanoor, 2.Thalavaipatty (R.V) And (P), Ward5,Thirupathi goundanoor"
+245,88,245,,"Community Hall, Thalavaipatty - 636302, Terraced Building Facing East","1.Thalavaipatty (R.V) And (P), Ward4, Anna Nagar, 2.Thalavaipatty (R.V) And (P), Ward5, M.V.S Nagar,
+3.Thalavaipatty (R.V) And (P), Ward5, Kumaravel Vattam"
+246,88,246,,"Government Higher Secondary School, Sarkar Kollapatty - 636302 Terraced Building Facing South, East Wing.","1.Thalavaipatty (R.V) And (P), Ward5, Periyandichi kovil varai, 2.Thalavaipatty (R.V) And (P), Ward5, E.S.I. West side still, 3.Thalavaipatty (R.V) And (P), Ward5, Earikarai,
+4.Thalavaipatty (R.V) And (P), Ward5,Manickam Kadai Panchayat Ellai, 999-OVERSEAS ELECTORS"
+247,88,247,,"Panchayat Union Middle School, Selathampatty -
+636005, Terraced Building Facing East","1.Selathampatty ( R.V) And (P), Ward1,Uoorpaguthi,
+2.Sellathampatty (R.V) And (P), Ward2,Minvayan street"
+248,88,248,,"Panchayat Union Middle School, Selathampatty - 636005, Terraced Building Facing East North Wing","1.Sellathampatty (R.V) And (P), Ward2, Pavayee Vattam, 2.Sellathampatty (R.V) And (P), Ward2, Kaliyamman Kovil Vattam,
+3.Sellathampatty (R.V) And (P), Ward4, Andipatty Kattu Valavu"
+249,88,249,,"Panchayat Union Middle School, Selathampatty - 636005, Terraced Building Facing East Middle Wing","1.Selathampatty (R.V) And (P), Ward4,Selathampatty Eri, 2.Selathampatty (R.V) And (P), Ward4, Kudisaimattru Variyam,
+3.Sellathampatty (R.V) And (P), Ward4, Arisana street"
+250,88,250,,"Panchayat Union Middle School, Selathampatty - 636005, Terraced East Building North Facing Middle
+Portion","1.Sellathampatty (R.V) And (P), Ward3,Karuppanur, 2.Sellathampatty (R.V) And (P), Ward3,Paraikadu"
+251,88,251,,"Panchayat Union Middle School, Selathampatty - 636005, Terraced East Building South Facing Middle
+Portion","1.Sellathampatty (R.V) And (P), Ward4, Anna Nagar, 2.Sellathampatty (R.V) And (P), Ward4, East Vattam"
+252,88,252,,"Salem City Municipal Corporation Middle School, Bodinaickenpatti - 636005, Facing West South Wing","1.Salem (C), D22, Andipatty Colony,
+2.Salem (C), D22, Jai Nagar,
+3.Salem (C), D20, BodinaickenPatty Muniyappan kovil street"
+253,88,253,,"Salem City Municipal Corporation Middle School, Sivathapuram - 636307, Terraced Building Facing West South Wing Room No-2","1.Salem(C), D 22 Indira Nagar, 2.Salem(C), D22, Kattur,
+3.Salem(C), D 22 Kattur (Chinnappan Nagar),
+999-OVERSEAS ELECTORS"
+254,88,254,,"Salem City Municipal Corporation Middle School, Sivathapuram - 636307, Terraced Building Facing
+West South Wing Room No-3","1.Salem (C), D 2 Malankattan Theru - 1"
+255,88,255,,"Salem City Municipal Corporation Middle School,
+Sivathapuram - 636307, Terraced Building Facing West Middle Wing","1.Salem (C), D 2 Malankattan Theru - 2"
+256,88,256,,"Government Higher Secondary School, Sivathapuram
+- 636307, Terraced Building Facing South West Wing","1.Salem(C), D 22 Siddhar Kovil Main Road, 2.Salem(C), D 22 M.G.R. Nagar, 3.Salem(C), D 22 Thirumurugan Nagar,
+4.Salem(C), D 22 Agaisthiyar Maligai"
+257,88,257,,"Government Higher Secondary School, Sivathapuram
+- 636307, Terraced Building Facing South East Wing Room No.13","1.Salem(C), D 22 Angalamman Kovil Theru,
+2.Salem (C), D 22 Amman Nagar, 3.Salem(C), D 22 Mariyamman Kovil Theru, 999-OVERSEAS ELECTORS"
+258,88,258,,"Government Higher Secondary School, Sivathapuram
+- 636307, Terraced Building Facing South East Wing Room No-17","1.Salem(C), D 22,Muthunayakkar colony, 2.Salem(C), D 22 Perumal Kovil street"
+259,88,259,,"Government Higher Secondary School, Sivathapuram
+- 636307, Terraced Building Facing South West Wing Room No-12","1. Salem(C), D 22 Meyyastreet, 2.Salem(C), D 22 Meyyatherukattuvalavu"
+260,88,260,,"Government Higher Secondary School, Sivathapuram
+- 636307, Terraced Building Facing South West Wing","1. Salem(C), D 22 Meyyastreet
+2.Salem(C), D 22 Lakshmi Nagar, Meyyastreet, Kattu Valavu"
+261,88,261,,"SCMC Middle School, Sivadhapuram, Salem -636307. Terraced Building Facing East North Wing","1.Salem (C), D 22, Andipatty -1"
+262,88,262,,"SCMC Middle School, Sivathapuram - 636307
+Terraced Building Facing East South Wing","1.Salem (C), D 22, Andipatty - 2"
+263,88,263,,"Panchayat Union Elementary School, Kudumian Street in Sivathapuram - 636307, Facing West North
+Wing","1.Salem(C), D 22 ,Kudumiyan theru, 2.Salem(C), D 22 Pattakaran theru"
+264,88,264,,"Panchayat Union Elementary School, Kudumian Street in Sivathapuram - 636307 Terraced Building
+Facing West, South Wing","1.Salem(C), D 22 Morambu Kadu, 2.Salem(C), D 22 Mottur"
+265,88,265,,"St. Joseph Elementary School, Suramangalam - 636005, Terraced Building Facing West Middle Wing","1.Salem (C), D 23,Sukumar Colony,
+2.Salem (C), D23, Nedunjalai Nagar"
+266,88,266,,"Sri Ramakrishna Saradha Higher Secondary School, Suramangalam, Subramania Nagar- 636005, South Building North Facing Middle Portion Room No-14","1.Salem (c), D19, Kennadi Nagar"
+267,88,267,,"St. Joseph Matriculation School, Suramangalam-636005,  New Building North Facing West Middle
+Wing Room No-12","1.Salem (C), D23,Rajapuram,
+2.Salem (C), D23,Kamarajar colony,
+3.Salem (C), D23,Vedigounder Colony"
+268,88,268,,"Sri Ramakrishna Saradha Higher Secondary School, Suramangalam, Subramania Nagar- 636005, New Building North Facing West Middle Wing Room No-
+12","1.Salem (C) D19, Salem Road,
+2.Salem (C) D19, Alagapuram Main Road"
+269,88,269,,"St. Joseph Elementary School, Suramangalam - 636005, Terraced Building Facing West Middle Wing","1.Salem (C), D23, Mullai Nagar"
+270,88,270,,"St. Joseph Elementary School, Suramangalam - 636005, Northern Building Facing North West Wing","1.Salem (C), D 23,East Thiruvagoundanoor Natham"
+271,88,271,,"St. Joseph Matriculation School, Suramangalam - 636005, Terraced Building Facing North Middle Wing","1.Salem (C), D 23,East Thiruvagoundanoor Natham,
+2.Salem (C), D23,Iyyar street"
+272,88,272,,"St. Joseph Elementary School, Suramangalam - 636005, Terraced Building Facing North Middle Wing","1.Salem (c), D 23 post office road,
+2.Salem (C), D 23,Kaveri Nagar,
+3.Salem (C), D 23, Kavalar Kudiyiruppu,
+4.Salem (C), D23,Rajaji Nagar"
+273,88,273,,"St. Joseph Matriculation School, Suramangalam -
+636005, Facing East South Wing","1.Salem (C), D23,Kannagi street,
+2.Salem (C), D23, Palaniyappa Nagar"
+274,88,274,,"St. Joseph Elementary School, Suramangalam - 636005, Terraced Middle Building West Facing
+Middle Wing","1.Salem (C), D23,Putthar street,
+2.Salem (C), D23,Sottaiyan street"
+275,88,275,,"St. Joseph Matriculation School, Suramangalam - 636005, Terraced Building Facing East Middle Wing","1.Salem (C), D23,Thiruvagoundanoor Natham,
+2.Salem (c), D23, Subaramaniya Nagar Virivakkam,
+3.Salem (C), Ward23, Gandhi Asharamam"
+276,88,276,,"St. Joseph Elementary School, Suramangalam - 636005, Terraced Building Facing North East Wing","1.Salem (C), D23,Colourkadu,
+2.Salem (C), D23,Thiruvagoundanoor natham,
+3.Salem (C), D23,Srinivasa Colony"
+277,88,277,,"St. Joseph Elementary School, Suramangalam - 636005, Terraced Building Facing North Middle Wing","1.Salem (C), Ward23, Iyyar Street,
+2.Salem (C), Ward23, Kannagi Street,
+3.Salem (C), D23, Ranga Nagar"
+278,88,278,,"St Joseph Elementary School, Suramangalam - 636005, Terraced Building Facing North Middle Wing","1.Salem (C), D23, Mullai Nagar,
+2.Salem (c), D23, East Masuthi Street,
+3.Salem (C), D23, Sottaiyan street pallam"
+279,88,279,,"St. Joseph Elementary School, Suramangalam - 636005, Terraced Building Facing West South Portion","1.Salem (C), D23,Ammasi Nagar,
+2.Salem (C), D23,Pandarathukaravattam,
+3.Salem (C), D23,Salem Main Road"
+280,88,280,,"St. Joseph Matriculation School, Suramangalam - 636005, Building Facing South Portion East Building","1.Salem (C), D23,Ramasamy Nagar,
+2.Salem (C), D19,Vellaiyan layout, 999-OVERSEAS ELECTORS"
+281,88,281,,"Sri Vidhya Mandhir Higher Secondary School, Meyyanur Road, Pallapatti - 636004, Facing North
+West Wing","1.Salem (C), D 24  Royal Garden,
+2.Salem (C), D 24 Cinema Nagar,
+3.Salem (), D 24 Chinneri Vayakadu"
+282,88,282,,"Sri Vidhya Mandhir Higher Secondary School, Meyyanur Road, Pallapatti - 636004, Facing North
+West Wing","1.Salem (C), D 24 Chinneri Vayakadu"
+283,88,283,,"Sri Vidhya Mandhir Higher Secondary School, Meyyanur Road, Pallapatti - 636004, Terraced Building Facing South Middle Portion Room No-25","1.Salem (C), D 24 ,Vanniyar Nagar"
+284,88,284,,"Sri Vidhya Mandhir Higher Secondary School, Meyyanur Road, Pallapatti - 636004, Terraced
+Building Facing South Middle Wing Room No-26","1.Salem (C), D 24 Periyerikarai"
+285,88,285,,"National Child Welfare Center, Duraisamy Layout, Pallapatti - 636009, Terraced Building Facing East
+North Wing.","1.Salem (C), D.25.Saminathapuram Main Road (Vandipet Backside),
+2.Salem (C), D.25, Pallapatty Mariamman Koil Street"
+286,88,286,,"Equitas Gurukul Matriculation School, Kandampatti - 636005, Terraced Building Facing South East Wing","1.Salem (C), D 24 Pallapatty Moolla Pillaiyar Nagar,
+2.Salem (C), D 24 Rajiv Nagar"
+287,88,287,,"Equitas Gurukul Matriculation School, Kandampatti - 636005, Terraced Building Facing West (East Block)","1.Salem (C), D 24 Pallapatty Moola Pillaiyar Nagar"
+288,88,288,,"Sri Vidhya Mandhir Higher Secondary School, Meyyanur Road, Pallapatti - 636004, New Terraced
+Building Facing East North Wing","1.Salem (C), D 24 Gupta Nagar -1"
+289,88,289,,"Sri Vidhya Mandhir Higher Secondary School,
+Meyyanur Road, Pallapatti - 636004, New Terraced Building Facing West South Wing","1.Salem (c), D 24 Gupta Nagar - 2"
+290,88,290,,"Sri Vidhya Mandhir Higher Secondary School, Meyyanur Road, Pallapatti - 636004, Terraced
+Building Facing South West Wing","1.Salem (C), D 24 Angammal Colony"
+291,88,291,,"Sri Vidhya Mandhir Higher Secondary School, Meyyanur Road, Pallapatti - 636004, Terraced
+Building Facing South West Wing","1.Salem (C), D 24 Angammal Colony"
+292,88,292,,"Salem City Municipal Corporation Middle School, Kanthampatty - 636005. Terraced Building Facing East, South Wing.","1.Salem (c), D 24 West Housing Unit,
+2.Salem (C), D 24 Kandampatty Panchayat office,
+3.Salem (C), D 24 Palsociety Near,
+4.Salem (C), D 24 Srini Vattam,
+5.Salem (C), D 24 Govindha Samy Thottam,
+6.Salem (C), D 24 Palani Marakadai, 7.Salem(C), D 24 Pillaiyar Kovil Street"
+293,88,293,,"Salem City Municipal Corporation Middle School, Kandampatty - 636005, Terraced Building Facing West North Wing","1.Salem (C), D 24 Konnerikarai,
+2.Salem (C), D 24 M.M. Brothers,
+3.Salem (C), D 24 Bypass kandhampaty,
+4.Salem (C), D 24 Karuappan Kovil Near,
+5.Salem (c), D 24 siddar kovil main road,
+6.Salem (C), D 24 Senji Fort,
+7.Salem (C), D 24 Kotthan Kadu,
+8.Salem (C), D 24 Sudukadu Itteri Road"
+294,88,294,,"Equitas Gurukul Matriculation School, Kandampatty - 636005, Terraced Building Facing East South Wing","1.Salem(C), D 24 East Housing Unit, 2.Salem(C), D 24 East Housing Unit,
+3.Kanthampatty(P), Ward5, Mitta kadu"
+295,88,295,,"Equitas Gurukul Matriculation School, Kandampatty - 636005, Terraced Building Facing East Middle Wing","1.Salem(C), D 24, Ettimarathu Vattam, 2.Salem(C), D 24, Ettimarathu Vattam,
+3.Salem(C), D 24 Metha Nagar"
+296,88,296,,"Salem City Municipal Corporation Middle School, Kandampatty - 636005, Terraced Building Facing
+North East Wing","1.Salem(C), D 24 ,Mariyamman Kovil street, 2.Salem(C), D 24 Kandhampatty Natham"
+297,88,297,,"Equitas Gurukul Matriculation School, Kandampatty - 636005, Terraced Building Facing West East Wing","1.Salem(C), D 24, Angalamman Kovil Street, 2.Salem(C), D 24 M.G.R. Nagar"
+298,88,298,,"Equitas Gurukul Matriculation School, Kandampatty - 636005, Terraced Building Facing South West Wing","1.Salem(C), D 24 Kanthampatty Colony, 2.Salem(C), D 24 Elumalai Vattam,
+3.Salem(C), D 24 Alagiri Vattam"
+299,88,299,,"National Child Welfare Center, Duraisamy Layout, Pallapatti - 636009, Terrached Building Facing North
+West Wing",",1.Salem (C) D.25, Pallapatty East Sandu-1,
+2.Salem (C) D.25, Pallapatty East Sandu-3"
+300,88,300,,"National Child Welfare Center, Duraisamy Layout, Pallapatti - 636009, New Terraced Building Facing
+South","1.Salem (C), D.25,South Pallapatty,
+2.Salem (C), D.25, Meyyanoor Road"
+301,88,301,,"National Child Welfare Center, Duraisamy Layout, Pallapatti - 636009, New Terraced Building Facing
+South","1.Salem (C), D.25, Sathyacolony,
+2.Salem (C), D.26,Saminathapuram Main Road,
+3.Salem (C), D.25, Sundaram Colony"
+302,88,302,,"National Child Welfare Center, Duraisamy Layout, Pallapatti - 636009, New Terraced Building Facing
+East","1.Salem (C), D.25, Duraisamy Main Road,
+2.Salem (C), D.25, Duraisamy Nagar"
+303,88,303,,"National Child Welfare Center, Duraisamy Layout, Pallapatti - 636009, Terraced Building Facing South West Wing.","1.Salem (C), D.25, Suramangalam Main Road (Jawahar mill colony),
+2.Salem (C), D.25,South Pallapatty,
+3.Salem (C), D.25, Leighbazaar Street Railwaycolony, 999-OVERSEAS ELECTORS"
+304,88,304,,"National Child Welfare Center, Duraisamy Layout, Pallapatti - 636009, Terraced Building Facing South","1.Salem (C), D.25, Suramangalam Road South Line,
+2.Salem (C), D.26, Krishnan Street,
+3.Salem (C), D.25, pallapatty nadu street"
+305,88,305,,"S.439 Salem Agricultural Producers Co-operative Marketing Society, Suramangalam Main Road - 636009, Facing North East Wing Godown No.7","1.Salem (C), D.25, Co-operative Society Backside"
+306,88,306,,"S.439 Salem Agricultural Producers Co-operative Marketing Society, Suramangalam Main Road - 636009, Facing North Godown Middle Wing Godown
+No.7","1.Salem (C), D.25,Co-operative Society Backside"
+307,88,307,,"S.439 Salem Agricultural Producers Co-operative Marketing Society, Suramangalam Main Road - 636009, Facing West Southern Portion","1.Salem (C), D.25, Gorikadu,
+2.Salem (C), D.25, Pallapatty Cheri,
+3.Salem (C), D.25, Gorikadu"
+308,88,308,,"S.439 Salem Agricultural Producers Co-operative Marketing Society, Suramangalam Main Road -
+636009, Facing North West Wing","1.Salem (C), D.25, Muniappan Koil Street,
+2.Salem (C), D.25, Pallapatty East Sandu2"
+309,88,309,,"S 439 Salem Agricultural Producers Co-operative Marketing Society, Suramangalam Main Road - 636009, Terraced Building Facing West North Wing","1.Salem (C), D.25, Muniappan Koil Street"
+310,88,310,,"S.439 Salem Agricultural Producers Co-operative Marketing Society, Suramangalam Main Road -
+636009. Facing West Middle Wing","1.Salem (C), D.25, Suramangalam Main Road,
+2.Salem (C), D.25,Suramangalam MainRoad, North Side"

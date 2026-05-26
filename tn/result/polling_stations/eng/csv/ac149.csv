@@ -1,0 +1,613 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+1,149,1,"Panchayat Union Middle School, Iluppaiyur, North South Terraced Building, Facing East, North Portion","1. Iluppaiyur (R.V) and (P) Harijana natham
+2. Iluppaiyur (R.V) and (P) Kuditheru East
+3. Iluppaiyur (R.V) and (P) Kuditheru North
+4. Iluppaiyur (R.V) and (P) Kuditheru West
+5. Iluppaiyur (R.V) and (P) Perumal kovil street
+6. Iluppaiyur (R.V) and (P) Kamattitheru
+7. iluppaiyur (R.V) and (p) Nadu street
+8. Iluppaiyur (R.V) and (P) South street
+9. Iluppaiyur (R.V) and (P) South Kadaiveethi theru",All Voters
+2,149,2,"Panchayat Union Elementary School, Poyyathanallur, East West Terraced Building, Facing North, West Portion,",1.Illuppaiyur (R.V) and (p) Annanagar East street 2.Illuppaiyur (R.V) and (P) Annanagar South street 3.Illuppaiyur (R.V) and (P) Annanagar Melapathi theru,All Voters
+3,149,3,"Panchayat Union Elementary School, Poyyathanallur, East West Terraced Building, Facing North, East Portion,",1.Illuppaiyur (R.V) and (P) Anna nagar north street 2.Illuppaiyur (R.V) and (P) Kuditheru keela theru,All Voters
+4,149,4,"Panchayat Union Elementary School, Poyyathanallur, East West Terraced Building, Facing North",1.Illuppaiyur (R.V) and (P) Mainroad theru 2.Illuppaiyur (R.V) and (P) South street 3.Illuppaiyur (R.V) and (P) North street 4.Illuppaiyur (R.V) and (P) West street,All Voters
+5,149,5,"Panchayat Union Elementary School, Pottaveli, East West Tiled Building, Facing South,","1.Pottaveli (R.V) and (P) Thennattu Rayampuram 2.Pottaveli (R.V) and (P) Melatheru
+3.Pottaveli (R.V) and (P) South street 4.Pottaveli (R.V) and (P) Kudi theru 5.Pottaveli (R.V) and (P) Harijana natham 6.Pottaveli (R.V) and (P) Kuditheru East 7.Pottaveli (R.V) and (P) North street 8.Pottaveli (R.V) and (P) Nadu street",All Voters
+6,149,6,"Panchayat Union Elementary School, Vellur, East West SSA Terraced Building Facing South, West Portion,",1.Pottavelli (R.V) and (P) Gandhi nagar 2.Pottavelli (R.V) and (P) Kudi theru,All Voters
+7,149,7,"Panchayat Union Elementary School, Vellur, East West SSA Terraced Building Facing South, East Portion,",1.Pottavelli (R.V) and (P) South street 2.Pottavelli (R.V) and (P) Keela theru 3.Pottavelli (R.V) and (P) Mela theru 4.Pottavelli (R.V) and (P) Nadu theru 5.Pottavelli (R.V) and (P) North street,All Voters
+8,149,8,"Panchayat Union Middle School, Athikudikadu, North South Terraced Building , Facing West, North Portion",1.Rayampuram (R.V) and (P) Harijana Theru 2.Rayampuram (R.V) and (P) North Street 3.Rayampuram (R.V) and (P) NaduTheru,All Voters
+9,149,9,"Panchayat Union Middle School, Athikudikadu, North South Terraced Building , Facing West, South Portion",1.Rayampuram (R.V) and (P) KeelaTheru 2.Rayampuram (R.V) and (P) South Street 3.Rayampuram (R.V) and (P) West Street,All Voters
+10,149,10,"Panchayat Union Elementary School, Rayampuram, East West Asbetstos Building, Facing North",1.Rayampuram (R.V) and (P) Kaveripalayam 2.Rayampuram (R.V) and (P) Indira nagar 3.Rayampuram (R.V) and (P) North street 4.Rayampuram (R.V) and (P) East street,All Voters
+11,149,11,"Panchayat Union Elementary School, Rayampuram, East West Terraced Building , Facing South,",1.Rayampuram (R.V) and (P) South street 2.Rayampuram (R.V) and (P) Nadu theru 3.Rayampuram (R.V) and (P) West street 4.Rayampuram (R.V) and (P) Ambathkar nagar,All Voters
+12,149,12,"Panchayat Union Middle School, Sennivanam, New North South Building , Facing East",1.Sennivanam (R.V) and (P) Sennivanam Gandhi nagar 2.Sennivanam (R.V) and (P) Sennivanam Kuditheru 3.Sennivanam (R.V) and (P) Chinna Sennivanam,All Voters
+13,149,13,"Panchayat Union Elementary School, Mettupalayam, North South Terraced Building
+, Facing West,",1.Sennivanam (R.V) and (P) Mettupalayam kuditheru 2.Sennivanam (R.V) and (P) Mettupalayam Harijana street,All Voters
+14,149,14,"Govt High School, Salaiyakurichi, North South Terraced Building, Facing East, North Portion,",1.Ottakkoil (R.V) and (P) Salaiyakuruchi South street,All Voters
+15,149,15,"Govt High School, Salaiyakurichi, North South Terraced Building, Facing East, Middle Portion,",1.Ottakkoil (R.V) and (P) Salaiyakuruchi Ambetchar street 2.Ottakkoil (R.V) and (P) Salaiyakuruchi Kallamedu street,All Voters
+16,149,16,"Panchayat Union Middle School, Ottakovil, North South SSA New Building ,Facing West, Middle Portion,",1.OttaKovil (R.V) and (P) OttaKovil North Street,All Voters
+17,149,17,"Panchayat Union Middle School, Ottakovil. North South SSA New Building, facing West, North Portion",1.OttaKovil (R.V) and (P) OttaKovil South Street,All Voters
+18,149,18,"Panchayat Union Middle School, O, Koothur, East West Tiled Building, Facing North,",1.Ottakovil (R.V) and (P) O.Koothur South street,All Voters
+19,149,19,"Panchayat Union Middle School, O, Koothur, East West Tiled Building, Facing North, Eastern Side",1.Ottakovil (R.V) and (P) Krishnarayapuram 2.Ottakovil (R.V) and (P) O.Koothur colony street,All Voters
+20,149,20,"Panchayat Union Elementary School, Mana, Subbarayapuram, North South Terraced Building, Facing West,",1.Govindhapuram (R.V) and Manakkal (P) Nallampathai East street 2.Govindhapuram (R.V) and Manakkal (P) Nallampathai North street 3.Govindhapuram (R.V) and Manakkal (P) Nallampathai South street 4.Govindhapuram (R.V) and Manakkal (P) Subbarayapuram North street 5.Govindhapuram (R.V) and Manakkal (P) Subbarayapuram South street 6.Govindhapuram (R.V) and Manakkal (P) Subbarayapuram Mela theru,All Voters
+21,149,21,"Adi Dravidar Welfare Primary School, Manakkal, East West Terraced Building, Facing South, East Portion,",1.Govindhapuram (R.V) and manakkal (P) Manakkal colony street,All Voters
+22,149,22,"Govt, Higher Secondary School, Govindapuram, North South Terraced SSA Building, Facing East, Middle Portion,",1.Govindapuram (R.V) and (P) Govindapuram North street 2.Govindapuram (R.V) and (P) Govindapuram Colony street 3.Govindapuram (R.V) and (P) Govindapuram South street,All Voters
+23,149,23,"Govt, Higher Secondary School, Govindapuram, East West Terraced Building, Facing South, Middle Portion,",1.Govindapuram (R.V) and (P) Jayaramapuram South street 2.Govindapuram (R.V) and (P) Jayaramapuram North street 3.Govindapuram (R.V) and (P) Mahalingapuram North street,All Voters
+24,149,24,"Panchayat Union Elementary School, Eruthukaranpatti, East West Terraced Building, Facing North, East Portion","1.Ariyalur (N) (R.V) and Eruthukaranpatti (P) Adi-dravidar street
+2.Ariyalur (N) (R.V) and Eruthukaranpatti (P) Kalakula theru
+3.Ariyalur (N) (R.V) and Eruthukaranpatti (P) Pillaiyar kovil street
+4.Ariyalur (N) (R.V) and Eruthukaranpatti (P) Kollapuram village
+5.Ariyalur (N) (R.V) and Eruthukaranpatti (P) Mahalingapuram",All Voters
+25,149,25,"Montfort Matric Hr, Secondary School, Ariyalur, East West Terraced Building, Facing South, Middle Portion, Room No, G, 108",2.Ariyalur (North) (R.V) and Eruthukaranpatti (P) Kurubanchavadi,All Voters
+26,149,26,"Panchayat Union Elementary School, Ameenabad, North South Terraced New Building, Facing West,",1.Ameenabad (R.V) and Eruthukaranpatti (P) Ameenabad,All Voters
+27,149,27,"R, C, Nirmala Gandhi Middle School, Rajaji Nagar, Ariyalur, East West Terraced Building, Facing South, West Portion,","1.Ariyalur (N) (R.V) and Eruthukaranpatti (P) Mariyamman kovilstreet
+2.Ariyalur (N) (R.V) and Eruthukaranpatti (P) Erular colony",All Voters
+28,149,28,"R, C, Nirmala Gandhi Middle School, Rajaji Nagar, Ariyalur, East West Terraced Building, Facing South, Middle Portion,",1.Ariyalur (N) (R.V) and Eruthukaranpatti (P) Anna nagar,All Voters
+29,149,29,"Panchayat Union Elemantary School, Thamaraikulam, North South Terraced Building, Facing East, South Portion",1.Govindhapuram (R.V) and Thamaraikulam (P) Tamaraikulam 2.Govindhapuram (R.V) and Thamaraikulam (P) Venkataramapuram 3.Govindhapuram (R.V) and Thamaraikulam (P) Venkataramanapuram,All Voters
+30,149,30,"Thirumurugan Aided Elementary School, Kadugur, East West Tiled Building , Facing South, East Portion,",1.Kadugur (R.V) and (P) Kadugur keela theru,All Voters
+31,149,31,"Thirumurugan Aided Elementary School, Kadugur, East West Tiled Building , Facing South, West Portion,","1.Kadugur (R.V) and (P) Kadugur Mela theru
+2.Kadugur (R.V) and (P) Kadugur Arisana theru
+3.Kadugur (R.V) and (P) Nuriur",All Voters
+32,149,32,"Panchayat Union Elementary School, Koppiliyan kudikadu, East West Terraced Building, Facing North, East Portion,",1.Ayanathur (R.V) and Koppliyan kudikadu (P) Koppliyan kudikadu,All Voters
+33,149,33,"Panchayat Union Elementary School, Poyyur, (Kadugur), North South SSA Building, Facing East, North Portion,","1.Kadugur (R.V) and (P) Poomudiyanpatti
+2.Kadugur (R.V) and (P) Thalaiyari kudikadu
+3.Kadugur (R.V) and (P) Poyyur Kuditheru
+4.Kadugur (R.V) and (P) Arisana theru",All Voters
+34,149,34,"Govt, High School, Ayanathur, North South Terraced Building, Facing West, South Portion,",1.Ayanathur (R.V) and Koppiliyan kudikadu (P) Ayanathur Harijana theru 2.Ayanathur (R.V) and Koppiliyan kudikadu (P) North street,All Voters
+35,149,35,"Govt, High School, Ayanathur, North South Terraced Building, Facing West, North Portion,",1.Ayanathur (R.V) and Koppiliyan kudikadu (P) Ayanathur South street,All Voters
+36,149,36,"Panchayat Union Elementary School, Manakkudi, North South Terraced Building, Facing East, North Portion",1.Kallankurichi (R.V) and ManakKudi (P) Chinna manaKudi 2.Kallankurichi (R.V) and ManakKudi (P) AnnaTheru,All Voters
+37,149,37,"Panchayat Union Elementary School, Manakkudi, North South Terraced Building, Facing East, South Portion",1.Kallankurichi (R.V) and ManakKudi (P) PeriyamanaKudi,All Voters
+38,149,38,"Sri Kaliyuga Varatharaja Perumal Kovil Girls High, School, Kallankurichi, East West Terraced Building, Facing South, West Portion,",1.Kallankurichi (R.V) and (P) Kallankurichi keezhilpathi,All Voters
+39,149,39,"Sri Kaliyuga Varatharaja Perumal Kovil Girls High, School, Kallankurichi, East West Terraced Building, Facing South, East Portion",1.Kallankurichi (R.V) and (P) Kallankurichi Melpathi 2.Kallankurichi (R.V) and (P) Kallankurichi Colony theru,All Voters
+40,149,40,"Panchayat Union Elementary School, Srinivasapuram, North South Terraced SSA Building, Facing West, South Portion,",1.Kallankurichi (R.V) and Srinivasapuram (P) East street 2.Kallankurichi (R.V) and Srinivasapuram (P) South street 3.Kallankurichi (R.V) and Srinivasapuram (P) West street 4.Kallankurichi (R.V) and Srinivasapuram (P) North street,All Voters
+41,149,41,"Vallalar Kalvi Nilayam Aided Middle School, Kayarlabad, (Lingathadi Medu), East West Terraced Building, Facing South, East Portion,",1.Kayarlabad (R.V) and (P) Mandaiyankurichi 2.Kayarlabad (R.V) and (P) Kallankadu 3.Kayarlabad (R.V) and (P) Manal Eri,All Voters
+42,149,42,"Vallalar Kalvi Nilayam Aided Middle School, Kayarlabad, (Lingathadi Medu), East West Terraced Building, Facing South, West Portion,",1.Kayarlabad (R.V) and (P) Colony Steet 2.Kayarlabad (R.V) and (P) New Colony Steet 3.Kayarlabad (R.V) and (P) Kallankurichi Main Road,All Voters
+43,149,43,"Panchayat Union Elementary School, Usenabad, North South Terraced Building, Facing West,",1.Kallankurichi (R.V) and Usenabad (P) Morakuzhi 2.Kallankurichi (R.V) and Usenabad (P) Puthu colony 3.Kallankurichi (R.V) and Usenabad (P) Mariamman Kovil street 4.Kallankurichi (R.V) and Usenabath (P) Pillaiyar kovil street,All Voters
+44,149,44,"R, C, St, Therasa Elementary School, Ariyalur, North South Terraced Building, Facing East, North Portion,","1.Ariyalur (S) (R.V) and Ariyalur (M) Ambethkar Street-1
+2.Ariyalur (S) (R.V) and Ariyalur (M) Ambethkar Street-2",All Voters
+45,149,45,"R C St. Therasa Elementary School, Ariyalur, North South Terraced Building, Facing East, Middle Portion","1.Ariyalur (S) (R.V) and Ariyalur (M) Muniyappar Street-1
+2.Ariyalur (S) (R.V) and Ariyalur (M) Muniyappar Street-2",All Voters
+46,149,46,"R, C, Nirmala Gandhi Middle School, Ariyalur, East West Terraced Building, Facing North, Middle Portion,","1.Ariyalur (S) (R.V) and Ariyalur (M) Maniyankuttai street
+2.Ariyalur (S) (R.V) and Ariyalur (M) K.K.Colony
+3.Ariyalur (S) (R.V) and Ariyalur (M) Railway station road
+4.Ariyalur (S) (R.V) and Ariyalur (M) K.K.Nagar-I
+5.Ariyalur (S) (R.V) and Ariyalur (M) K.K.nagar-ii
+6.Ariyalur (S) (R.V) and Ariyalur (M) K.K.Nagar-III",All Voters
+47,149,47,"R, C, Nirmala Gandhi Middle School, Ariyalur, East West Terraced Building, Facing North, East Portion,","1.Ariyalur (S) (R.V) and Ariyalur (M) Rajaji nagar 1st Street
+2.Ariyalur (S) (R.V) and Ariyalur (M) Rajaji nagar 2nd street
+3.Ariyalur (S) (R.V) and Ariyalur (M) Rajaji nagar 3rd street
+4.Ariyalur (S) (R.V) and Ariyalur (M) Rajaji nagar 4th Street
+5.Ariyalur (S) (R.V) and Ariyalur (M) Rajaji nagar 5th Street
+6.Ariyalur (S) (R.V) and Ariyalur (M) Rajaji nagar 6th Street
+7.Ariyalur (S) (R.V) and Ariyalur (M) Rajaji nagar main road
+8.Ariyalur (S) (R.V) and Ariyalur (M) College road",All Voters
+48,149,48,"Montfort Matric Hr, Secondary School, Ariyalur, North South Terraced Building, Facing West, South Portion, Room No, G, 114","1.Ariyalur (S) (R.V) and Ariyalur (M) Kamaraj Nagar 1st Street
+2.Ariyalur (S) (R.V) and Ariyalur (M) Kamaraj Nagar 2nd Street
+3.Ariyalur (S) (R.V) and Ariyalur (M) Kamaraj Nagar 3rd Street
+4.Ariyalur (S) (R.V) and Ariyalur (M) Kamaraj Nagar 4th Street
+5.Ariyalur (S) (R.V) and Ariyalur (M) Kamaraj Nagar 5th Street
+6.Ariyalur (S) (R.V) and Ariyalur (M) Kamaraj Nagar 6th Street",All Voters
+49,149,49,"Montfort Matric Hr, Secondary School, Ariyalur, East West Terraced Building, Facing South, East Portion","1.Ariyalur (S) (R.V) and Ariyalur (M) Kamaraj Nagar Extention
+2.Ariyalur (S) (R.V) and Ariyalur (M) Sendurai Road
+3.Ariyalur (S) (R.V) and Ariyalur (M) College Road
+4.Ariyalur (S) (R.V) and Ariyalur (M) Sathiya Nagar",All Voters
+50,149,50,"R, C, Nirmala Gandhi Middle School, Ariyalur, North South Terraced Building, Facing East, South Portion,","1.Ariyalur (S) (R.V) and Ariyalur (M) Keeraikara street
+2.Ariyalur (S) (R.V) and Ariyalur (M) North mariyamman kovil street
+3.Ariyalur (S) (R.V) and Ariyalur (M) Pookkara street
+4.Ariyalur (S) (R.V) and Ariyalur (M) Indragandhi nagar",All Voters
+51,149,51,"R, C, St, Therasa Elementary School, Ariyalur, North South Terraced Building, Facing East, South Portion,","1.Ariyalur (S) (R.V) and Ariyalur (M) Pennihouse street
+2.Ariyalur (S) (R.V) and Ariyalur (M) Hospital road
+3.Ariyalur (S) (R.V) and Ariyalur (M) Kaliyamman kovil street
+4.Ariyalur (S) (R.V) and Ariyalur (M) Purusothaman street
+5.Ariyalur (S) (R.V) and Ariyalur (M) Peiya kadaiveethi
+6.Ariyalur (S) (R.V) and Ariyalur (M) Railway station road
+7.Ariyalur (S) (R.V) and Ariyalur (M) Eithuraj Nagar-",All Voters
+52,149,52,"C.S.I. Higher Secondary School, Ariyalur, North South Terraced Building, Facing East, Middle Portion, Room No M4 and M5","1.Ariyalur (S) (R.V) and Ariyalur (M) Kaberial street
+2.Ariyalur (S) (R.V) and Ariyalur (M) Krishnan kovil street
+3.Ariyalur (S) (R.V) and Ariyalur (M) Gandhiyar street
+4.Ariyalur (S) (R.V) and Ariyalur (M) Alla Gori street
+5.Ariyalur (S) (R.V) and Ariyalur (M) Karuthan street
+6.Ariyalur (S) (R.V) and Ariyalur (M) Tholkidangu street
+7.Ariyalur (S) (R.V) and Ariyalur (M) Vadakku Throbathi amman kovil street",All Voters
+53,149,53,"S.P.G. Elementary School, Ariyalur, Â North South Terraced Building,Facing West Middle Portion (C.S.I. Higher Secondary School Campus)","1.Ariyalur (S) (R.V) and Ariyalur (M) Vandikara street
+2.Ariyalur (S) (R.V) and Ariyalur (M) Singara theru
+3.Ariyalur (S) (R.V) and Ariyalur (M) Asaithambi theru
+4.Ariyalur (S) (R.V) and Ariyalur (M) Kaythemilath ismail street
+5.Ariyalur (S) (R.V) and Ariyalur (M) Pudhu street
+6.Ariyalur (S) (R.V) and Ariyalur (M) Sellamuthu street",All Voters
+54,149,54,"Panchayat Union Elementary School,Ariyalur (West), East West Terraced Building, Facing South, East Portion","1.Ariyalur (S) (R.V) and Ariyalur (M) Sivaperumal street
+2.Ariyalur (S) (R.V) and Ariyalur (M) Thandavarayan street
+3.Ariyalur (S) (R.V) and Ariyalur (M) Somu street
+4.Ariyalur (S) (R.V) and Ariyalur (M) Santhapettai street
+5.Ariyalur (S) (R.V) and Ariyalur (M) Mariyamman kovil street
+6.Ariyalur (S) (R.V) and Ariyalur (M) Ramasamy street
+7.Ariyalur (S) (R.V) and Ariyalur (M) Panju pattarai street
+8.Ariyalur (S) (R.V) and Ariyalur (M) Samapa sivam street
+9.Ariyalur (S) (R.V) and Ariyalur (m) Chinnakadai street",All Voters
+55,149,55,"St. Marys Elementary School, Ariyalur, East West Terraced Building, Facing South. West Portion",1.Ariyalur (S) (R.V) and Ariyalur (M) Mela agragaram,All Voters
+56,149,56,"Panchayat Union Elementary School,Ariyalur (W), East West Terraced Building, Facing South, West Portion","1.Ariyalur (S) (R.V) and Ariyalur (M) Andiyapar street
+2.Ariyalur (S) (R.V) and Ariyalur (M) Kurinchan kulatheru
+3.Ariyalur (S) (R.V) and Ariyalur (M) Nadu Agragaram
+4.Ariyalur (S) (R.V) and Ariyalur (M) Ponnusamy Aranmanai street
+5.Ariyalur (S) (R.V) and Ariyalur (M) Sabapathi street
+6.Ariyalur (S) (R.V) and Ariyalur (M) Poonaikanni street
+7.Ariyalur (S) (R.V) and Ariyalur (M) Vellalatheru
+8.Ariyalur (S) (R.V) and Ariyalur (M) Srinivasan street",All Voters
+57,149,57,"Montfort Matric Hr, Secondary School, Ariyalur, North South Terraced Building, Facing West, Middle Portion, Room No, G, 112",1.Ariyalur (S) (R.V) and Ariyalur (M) Periyar Nagar 1st Street,All Voters
+58,149,58,"Montfort Matric Hr, Secondary School, Ariyalur, East West Terraced Building, Facing South, Middle Portion, G 103","1.Ariyalur (S) (R.V) and Ariyalur (M) Periyar Nagar 2nd Street
+2.Ariyalur (S) (R.V) and Ariyalur (M) Periyar Nagar 3rd Street
+3.Ariyalur (S) (R.V) and Ariyalur (M) Periyar Nagar 4th Street
+4.Ariyalur (S) (R.V) and Ariyalur (M) Periyar Nagar 5th Street
+5.Ariyalur (S) (R.V) and Ariyalur (M) Periyar Nagar 6th Street",All Voters
+59,149,59,"Govt, Higher Secondary School, Ariyalur, East West Terraced Building, Facing South, West Portion.","1.Ariyalur (S) (R.V) and Ariyalur (M) Alagappa Nagar 1st Street
+2.Ariyalur (S) (R.V) and Ariyalur (M) Alagappa Nagar 2nd Street
+3.Ariyalur (S) (R.V) and Ariyalur (M) Alagappa Nagar 3rd Street",All Voters
+60,149,60,"Govt Higher Secondary School, Ariyalur, East West Terraced Building, Facing South, East Portion",1.Ariyalur (S) (R.V) and Ariyalur (M) Villangara Street,All Voters
+61,149,61,"Govt Girls Higher Secondary School,Ariyalur North South Tiled And Asbestos Building Facing East South Side","1.Ariyalur (S) (R.V) and Ariyalur (M) Sanjeevi rayan kovil street
+2.Ariyalur (S) (R.V) and Ariyalur (M) Kailasanathar kovil street
+3.Ariyalur (S) (R.V) and Ariyalur (M) Citybabu street
+4.Ariyalur (S) (R.V) and Ariyalur (M) Pugalendhi street
+5.Ariyalur (S) (R.V) and Ariyalur (M) Poundu street
+6.Ariyalur (S) (R.V) and Ariyalur (M) Mettu street",All Voters
+62,149,62,"Govt, Higher Secondary School, Ariyalur, East West Terraced Building, Facing South, East Middle Portion.",1.Ariyalur (S) (R.V) and Ariyalur (M) Market street,All Voters
+63,149,63,"St, Marys High School, Ariyalur, East West Terraced Building, Facing South, Middle Portion, East side","1.Ariyalur (S) (R.V) and Ariyalur (M) Thiyagi jayaraman street
+2.Ariyalur (S) (R.V) and Ariyalur (M) Oppilathamman kovil street
+3.Ariyalur (S) (R.V) and Ariyalur (M) Periya Aranmani street
+4.Ariyalur (S) (R.V) and Ariyalur (M) Krishnan kovil street",All Voters
+64,149,64,"St, Marys High School, Ariyalur, East West Terraced Building, Facing South, Middle Portion, West Side","1.Ariyalur (S) (R.V) and Ariyalur (M) Veerapathira samy kovil street
+2.Ariyalur (S) (R.V) and Ariyalur (M) Zhamukkala street
+3.Ariyalur (S) (R.V) and Ariyalur (M) Perumal kovil street
+4.Ariyalur (S) (R.V) and Ariyalur (M) Kannu samy street
+5.Ariyalur (S) (R.V) and Ariyalur (M) Sakkottai street",All Voters
+65,149,65,"Nirmala Girls Higher Secondary School, Ariyalur, East West Terraced Building, Facing North, West Portion",1.Ariyalur (S) (R.V) and Ariyalur (M) Sadaiyappar Street,All Voters
+66,149,66,"Nirmala Girls Higher Secondary School, Ariyalur, East West Terraced Building, Facing North, Middle Portion",1.Ariyalur (S) (R.V) and Ariyalur (M) KallaKudi Street,All Voters
+67,149,67,"Govt, Girls High School, Ariyalur, North South Tiled and Asbestos Building, Facing East, Middle Portion","1.Ariyalur (S) (R.V) and Ariyalur (M) Periya theru
+2.Ariyalur (S) (R.V) and Ariyalur (M) Min nagar",All Voters
+68,149,68,"Nirmala Girls Higher Secondary School, Ariyalur, East West Terraced Building, Facing North, East Portion,","1.Ariyalur (S) (R.V) and Ariyalur (M) Pillaiyar kovil street
+2.Ariyalur (S) (R.V) and Ariyalur (M) V.O.C. street",All Voters
+69,149,69,"Nirmala Girls Higher Secondary School, Ariyalur, East West Terraced Building, Facing South, West Portion,","1.Ariyalur (S) (R.V) and Ariyalur (M) Kavarai street
+2.Ariyalur (S) (R.V) and Ariyalur (M) Ennaikara street
+3.Ariyalur (S) (R.V) and Ariyalur (M) Keela theru
+4.Ariyalur (S) (R.V) and Ariyalur (M) Thokkali street
+5.Ariyalur (S) (R.V) and Ariyalur (M) Athikari theru",All Voters
+70,149,70,"Panchayat Union Elementary School, Thavuthaikulam, East West Tiled Building, Facing North,",1.Varanavasi (R.V) and Thavuthaikulam (P) Thavuthaikulam 2.Varanavasi (R.V) and Thavuthaikulam (P) SouthTavuthaikulam 3.Varanavasi (R.V) and Thavuthaikulam (P) Ammakulam,All Voters
+71,149,71,"Panchayat Union Elementary School, Rajiv Nagar, Valajanagaram, North South Terraced Building, Facing East, North Portion,",1.Valajanagaram (R.V) and (P) Rajiv nagar,All Voters
+72,149,72,"Periyar E, V, R Panchayat Union Middle School, Valajanagaram, North South Terraced SSA Building, Facing West, South Portion,",1.Valajanagaram (R.V) and (P) Keela theru 2.Valajanagaram (R.V) and (P) South street 3.Valajanagaram (R.V) and (P) Mela theru 4.Valajanagaram (R.V) and (P) Thoppu theru 5.Valajanagaram (R.V) and (P) Main road,All Voters
+73,149,73,"Govt. Industrial Training Institute, Ariyalur. East West Terraced Building, Facing North, West Portion.",1.Valajanagaram (R.V) and (P) Min nagar,All Voters
+74,149,74,"Periyar E, V, R Panchayat Union Middle School, Valajanagaram, East West Terraced SSA Building, Facing South, Middle Portion",1.Valajanagaram (R.V) and (P) Themmanam,All Voters
+75,149,75,"Panchayat Union Elementary School,Ravuthanpatti EastWest Terraced Building Facing South,East Portion",1.Kayarlabad (R.V) and (P) Ravuthanpatti,All Voters
+76,149,76,"Panchayat Union Elementary School, Ravuthanpatti. East West Terraced Building, Facing South, West Portion.",1.Kayarlabad (R.V) and (P) New market street,All Voters
+77,149,77,"Arasu Nagar Matriculation Higher Secondary School, Arasu Nagar, Kayarlabad, North South Terraced Building, Facing North South Portion.","1.Kayarlabad (R.V) and (P) Anumanthapuram(Nathampal) 2.Kayarlabad (R.V) and (P) Arasu nagar
+3.Kayarlabad (R.V) and (P) Kuruvikaran Kuttai",All Voters
+78,149,78,"Panchayat Union Elementary School, Venkatakrishnapuram, North South Terraced Building, Facing East, Middle Portion","1.Valajanagaram (R.V) and Venkatakrishnapuram (P) Venkatakrishnapuram keelatheru
+2.Valajanagaram (R.V) and Venkatakrishnapuram (P) Venkatakrishnapuram Harijana street
+3.Valajanagaram (R.V) and Venkatakrishnapuram (P) Venkatakrishanapuram Nadu street
+4.Valajanagaram (R.V) and Venkatakrishnapuram (P) Venkatakrishnapuram Main road
+5.Valajanagaram (R.V) and Venkatakrishnapuram (P) Venkatakrishnapuram North street
+6.Valajanagaram (R.V) and Venkatakrishnapuram (P) Venkatakrishnapuram Mela theru
+7.Valajanagaram (R.V) and Venkatakrishnapuram (P) Koneri rayapuram North street",All Voters
+79,149,79,"Panchayat Union Middle School, Asthinapuram, North South Terraced Building, Facing East, North Portion,",1.Valajanagaram (R.V) and Asithinapuram (P) Asthinapuram harijana natham 2.Valajanagaram (R.V) and Asithinapuram (P) Asthinapuram north street,All Voters
+80,149,80,"Panchayat Union Middle School, Asthinapuram, East West Terraced Building, Facing North, East Portion,","1.Valajanagaram (R.V) and Asithinapuram (P) Asthinapuram Nadutheru 2.Valajanagaram (R.V) and Asithinapuram (P) Asthinapuram south street 3.Valajanagaram (R.V) and Asithinapuram (P) Asthinapuram Kamankovil street
+4.Valajanagaram (R.V) and Asithinapuram (P) Asthinapuram Kelatheru",All Voters
+81,149,81,"Panchayat Union Elementary School, Periyanagalur, East West Terraced Building, Facing North, West Portion,",1.Periyanagalur (R.V) and (P) Chinnanagalur Adi-dravidar street 2.Periyanagalur (R.V) and (P) Chinnanagalur Kuditheru 3.Periyanagalur (R.V) and (P) Periyanagalur Kuditheru,All Voters
+82,149,82,"Panchayat Union Elementary School, Periyanagalur, East West Terraced Building, Facing North, East Portion,",1.Periyanagalur (R.V) and (P) Periyanagalur Mettu street 2.Periyanagalur (R.V) and (P) Periyanagalur South street 3.Periyanagalur (R.V) and (P) Periyanagalur Ramadass nagar 4.Periyanagalur (R.V) and (P) Periyanagalur Palakarai 5.Periyanagalur (R.V) and (P) Periyanagalur Ganapathy nagar 6.Periyanagalur (R.V) and (P) Periyanagalur Kattupringiyam Kaikatti,All Voters
+83,149,83,"Panchayat Union Elementary School, Kattupiringiyam, East West Terraced Building, Facing North",1.Periyanagalur (R.V) and (P) Kattupringiyam Mela theru 2.Periyanagalur (R.V) and (P) Kattupringiyam Nadu street 3.Periyanagalur (R.V) and (P) Kattupringiyam South street 4.Periyanagalur (R.V) and (P) Kattupringiyam Kadukalikotta 5.Periyanagalur (R.V) and (P) Kattupringiyam Malaiyadikotta 6.Periyanagalur (R.V) and (P) Ambethkar street,All Voters
+84,149,84,"Govt High School, Thelur, East West Terraced Building, Facing North","1.Thelur (R.V) and (P) Thelur Keelatheru
+2.Thelur (R.V) and (P) Thelur Harijana colony street
+3.Thelur (R.V) and (P) Thelur Melatheru
+4.Thelur (R.V) and (P) Thelur South street
+5.Thelur (R.V) and (P) Thelur Nadutheru
+6.Thelur (R.V) and (P) Thelur North street",All Voters
+85,149,85,"Panchayat Union Elementary School, Kudisal, South North Terraced Building, Facing West.","1.Thelur (R.V) and (P) Kudisal Harijana street
+2.Thelur (R.V) and (P) Kudisal Kuditheru",All Voters
+86,149,86,"Govt High School, Thelur, North South Terraced Building, Facing East","1.Thelur (R.V) and (P) Jayankondam road
+2.Thelur (R.V) and (P) V. Kaikatti",All Voters
+87,149,87,"Panchayat Union Middle School, Mannuzhi, South NorthTerraced Building, Facing East","1.Thelur (R.V) and (P) Mannuzhi Keelatheru
+2.Thelur (R.V) and (P) Mannuzhi South street
+3.Thelur (R.V) and (P) Mannuzhi Melatheru
+4.Thelur (R.V) and (P) Mannuzhi Nadutheru
+5.Thelur (R.V) and (P) Mannuzhi North street
+6.Thelur (R.V) and (P) Mannuzhi Harijana colony street",All Voters
+88,149,88,"Panchayat Union Elementary School, Ambapur, East West Terraced Building, Facing South,",1.Kavanur (R.V) and (P) Ambapur Kuditheru,All Voters
+89,149,89,"Panchayat Union Elementary School, Ambapur, East West Terraced Building, Facing North,","1.Kavanur (R.V) and (P) Aiykkal Kuditheru
+2.Kavanur (R.V) and (P) Ponparappiyan street
+3.Kavanur (R.V) and (P) Harijana theru",All Voters
+90,149,90,"Panchayat Union Elementary School, Kavanur, East West New Terraced Building, Facing South","1.Kavanur (R.V) and (P) Alamelumangai theru
+2.Kavanur (R.V) and (P) Kavanur Kuditheru
+3.Kavanur (R.V) and (P) Kavanur Adi-Dravidar street",All Voters
+91,149,91,"Panchayat Union Elementary School, Kathankudikadu, East West Terraced Building, Facing South,","1.Kavanur (R.V) and (P) Kathankudikadu Keelatheru
+2.Kavanur (R.V) and (P) Kathankudikadu South street
+3.Kavanur (R.V) and (P) Kathankudikadu Melatheru
+4.Kavanur (R.V) and (P) Kathankudikadu Adi-Dravidar theru
+5.Kavanur (R.V) and (P) Kathankudikadu Arunthathiyar theru",All Voters
+92,149,92,"Govt High School, Vilangudi, East West Terraced Building, Facing South. East Portion",1.Vilangudi (R.V) and (P) Vilangudi kuditheru 2.Vilangudi (R.V) and (P) Vilangudi colony theru,All Voters
+93,149,93,"Govt High School, Vilangudi, East West Terraced Building, Facing South. West Portion",1.Vilangudi (R.V) and (P) Keelavilankudi kuditheru 2.Vilangudi (R.V) and (P) Vilangudi Senthamani colony theru 3.Vilangudi (R.V) and (P) Vilangudi melatheru,All Voters
+94,149,94,"Panchayat Union Elementary School, Orathur, North South Tiled Building, Facing West",1.Vilangudi (R.V) and (P) Vilangudi Orathur kuditheru,All Voters
+95,149,95,"Panchayat Union Elementary School, Nagamangalam, North South Terraced Building, Facing, West, South Portion,",1.Nagamangalam (R.V) and (P) Kanchalikottai 2.Nagamangalam (R.V) and (P) Arasukarankottai 3.Nagamangalam (R.V) and (P) Pattakattankurchi 4.Nagamangalam (R.V) and (P) South street,All Voters
+96,149,96,"Panchayat Union Elementary School, Nagamangalam, North South Terraced Building, Facing, West, North Portion,",1.Nagamangalam (R.V) and (P) Keelatheru 2.Nagamangalam (R.V) and (P) Melatheru 3.Nagamangalam (R.V) and (P) North street 4.Nagamangalam (R.V) and (P) Vadakukottai,All Voters
+97,149,97,"Govt, High School, Nagamangalam, East West Terraced Building, Facing North, Middle Portion",1.Nagamangalam (R.V) and (P) Matha Kovil Street 2.Nagamangalam (R.V) and (P) Indira Nagar,All Voters
+98,149,98,"Govt High School, Nagamangalam, North, South Terraced Building, Facing East, South Portion",1.Nagamangalam (R.V) and (P) AnnaNagar 2.Nagamangalam (R.V) and (P) Kanakampalayam,All Voters
+99,149,99,"Panchayat Union Elementary School, Reddipalayam, East West Terraced Building, Facing North, West Portin,",1.Reddipalayam (R.V) and (P) V.Kaikatti 2.Reddipalayam (R.V) and (P) Adithiya Grammam 3.Reddipalayam (R.V) and (P) Pullikulam 4.Reddipalayam (R.V) and (P) Naduvur,All Voters
+100,149,100,"Panchayat Union Elementary School, Reddipalayam, East West Terrraced Building, Facing North,",1.Reddipalayam (R.V) and (P) South street 2.Reddipalayam (R.V) and (P) Keelatheru 3.Reddipalayam (R.V) and (P) Colony theru 4.Reddipalayam (R.V) and (P) Chandrapalayam 5.Reddipalayam (R.V) and (P) Selathankadu 6.Reddipalayam (R.V) and (P) Ariyalur Salai 7.Reddipalayam (R.V) and (P) Vikkiramangalam salai,All Voters
+101,149,101,"Panchayat Union Middle School, Muniyankurichi, North South Terraced Building, Facing West,","1.Reddipalayam (R.V) and (P) Puthur
+2.Reddipalayam (R.V) and (P) Muniyankurchi M.G.R. nagar 3.Reddipalayam (R.V) and (P) Muniyankurchi Melatheru 4.Reddipalayam (R.V) and (P) Muniyankurchi South street 5.Reddipalayam (R.V) and (P) Muniyankurchi Keelatheru 6.Reddipalayam (R.V) and (P) Muniyankurchi North street",All Voters
+102,149,102,"Panchayat Union Elementary School, Nayakarpalayam, East West Tiled Building, Facing South,",1.Reddipalayam (R.V) and (P) Nayakkarpalayam,All Voters
+103,149,103,"Panchayat Union Middle School, Puthupalayam, East West Terraced Building, Facing South, Middle Portion","1.Puthupalayam (R.V) and (P) Puthupalayam north street 2.Puthupalayam (R.V) and (P) Puthupalayam South street 3.Puthupalayam (R.V) and (P) Puthupalayam West street 4.Puthupalayam (R.V) and (P) Puthupalayam Keelatheru 5.Puthupalayam (R.V) and (P) Main road
+6.Puthupalayam (R.V) and (P) Harijana colony street 7.Puthupalayam (R.V) and (P) Aranur Kottakadu 8.Puthupalayam (R.V) and (P) Nadutheru",All Voters
+104,149,104,"Panchayat Union Elementary School, Nerinchikorai (Puthupalayam Panchayat), North South Tiled Building, Facing East,",1.Puthupalayam (R.V) and (P) Keela theru 2.Puthupalayam (R.V) and (P) North street 3.Puthupalayam (R.V) and (P) Mela theru 4.Puthupalayam (R.V) and (P) South street 5.Puthupalayam (R.V) and (P) Harijana colony 6.Puthupalayam (R.V) and (P) Nadu theru,All Voters
+105,149,105,"Panchayat Union Middle School, Velipiringiyam (Puthupalayam Panchayat), East West Terraced Building, Facing South,",1.Velipiringiyam (R.V) and (P) Mariyamman kovil street 2.Velipiringiyam (R.V) and (P) North street 3.Velipiringiyam (R.V) and (P) South street 4.Velipiringiyam (R.V) and (P) Keela theru 5.Velipiringiyam (R.V) and (P) Mela theru 6.Velipiringiyam (R.V) and (P) Pillaiyar kovil street 7.Velipiringiyam (R.V) and (P) Harijana colony street 8.Velipiringiyam (R.V) and (P) Nadu theru,All Voters
+106,149,106,"Govt, High School, Siruvalur, North South Terraced Building, Facing East, South Portion","1.Siruvalur (R.V) and (P) Siruvalur colony street 2.Siruvalur (R.V) and (P) Keela theru 3.Siruvalur (R.V) and (P) Pallikooda street 4.Siruvalur (R.V) and (P) North street 5.Siruvalur (R.V) and (P) Nadu street 6.Siruvalur (R.V) and (P) South street 7.Siruvalur (R.V) and (P) Mela theru
+8.Siruvalur (R.V) and (P) Puthupalayam Main road",All Voters
+107,149,107,"Panchayat Union Elementary School, Subarayapuram, East West Terraced Building, Facing North,","1.Mallur (R.V) and subarayapuram (P) Rengasamuthiram
+2.Mallur (R.V) and Subarayapuram (P) Subarayapuram",All Voters
+108,149,108,"Panchayat Union Middle School, Pallakrishnapuram, East West Terraced Building, Facing South, East Portion,","1.Mallur (R.V) and Subarayapuram (P) Krishnapuram
+2.Mallur (R.V) and Subarayapuram (P) Vinayagapuram
+3.Mallur (R.V) and Subarayapuram (P) Kattukottai",All Voters
+109,149,109,"Panchayat Union Elementary School, Kurichinatham, East West Tiled Building, Facing North, West Portion,","1.Siruvalur (R.V) And (P) Kurichinatham mela theru 2.Siruvalur (R.V) And (P) Kurichinatham Kelatheru 3.Siruvalur (R.V) And (P) Kurichinatham Nadustreet 4.Siruvalur (R.V) And (P) Kurichinatham South street 5.Siruvalur (R.V) And (P) Kurichinatham North street 6.Siruvalur (R.V) And (P) Kottakadu
+7.Siruvalur (R.V) And (P) Melakurichi 8.Siruvalur (R.V) And (P) Harijana theru",All Voters
+110,149,110,"Panchayat Union Middle School, Karuvidacheri, East West Terraced Building, Facing North,","1.Karuppursenapathi (R.V) and Melakaruppur (P) Karuvidacheri Harijana colony
+2.karuppursenapathi (R.V) and Melakaruppur (P) Karuvidacheri Kuditheru",All Voters
+111,149,111,"Panchayat Union Middle School, Melakaruppur, East West Terraced SSA Building, Facing North, Middle Portion",1.karuppursenapathi (R.V) And Melakaruppur (P) Harijanatheru 2.karuppursenapathi (R.V) And Melakaruppur (P) Kuditheru,All Voters
+112,149,112,"Panchayat Union Elementary School, Poyyur (Karuppur), East West Terraced Building, Facing South, West Portion",1.Karuppur senapathi (R.V) and Melakaruppur (P) Poyyur road north portion,All Voters
+113,149,113,"Panchayat Union Elementary School, Semmanthankudi, North South Tiled Building, Facing East, North Portion",1.Karuppur senapathi (R.V) and Melakaruppur (P) Semmanthangudi,All Voters
+114,149,114,"Panchayat Union Elementary School, Poyyur (Karuppur), East West Terraced Building, Facing North, West Portion",1.Karuppur senapathi (R.V) and Melakaruppur (P) Poyyur road South portion 2.Karuppursenapathi (R.V) and Melakaruppur (P) Irular colony,All Voters
+115,149,115,"Panchayat Union Middle School, Edaiyathankudi, East West Terraced Building, Facing South, East Portion",1.Edaiyathankudi (R.V) and (P) Adi-dravidar street 2.Edaiyathankudi (R.V) and (P) Annanagar 3.Edaiyathankudi (R.V) and (P) Edaiyathankudi kuditheru,All Voters
+116,149,116,"Panchayat Union Elementary School, Vaippam, East West Terreced Building, Facing South, East Portion",1.Edaiyathankudi (R.V) and (P) Erular theru 2.Edaiyathankudi (R.V) and (P) North street 3.Edaiyathankudi (R.V) and (P) South street 4.Edaiyathankudi (R.V) and (P) Vaippam colony,All Voters
+117,149,117,"Panchayat Union Elementary School, Aranur, North South Terreced Building, Facing East,",1.Edaiyathankudi (R.V) and (P) Aranur,All Voters
+118,149,118,"Panchayat Union Middle School, Chettithirukkonam, East West Terreced Building, Facing North, Portion west","1. Periyathirukonam (R.V) and (P) Adi-dravidar Street
+2. Periyathirukonam (R.V) and (P) Keela Theru",All Voters
+119,149,119,"Panchayat Union Middle School, Chettithirukkonam, East West Terreced Building, Facing South. East Portion","1. Periyathirukonam (R.V) and (P) South Street
+2. Periyathirukonam (R.V) and (P) Puthu Theru
+3. Periyathirukonam (R.V) and (P) Nadu Street
+4. Periyathirukonam (R.V) and (P) North Street
+5. Periyathirukonam (R.V) and (P) Mela Theru",All Voters
+120,149,120,"Panchayat Union Elementary School Periyathirukkonam, East West Terraced Building Facing South,","1.Chettithirukkonam (R.V) and Periyathirukonam (P) Periyatirukkonam south street
+2.Chettithirukkonam (R.V) and Periyathirukonam(P) North street 3.Chettithirukkonam (R.V) and Periyathirukonam (P) Mariyyamman kovil street
+4.Chettithirukkonam (R.V) and Periyathirukonam (P)Mela theru 5.Chettithirukkonam (R.V) and Periyathirukonam (P) Pillaiyar kovil theru 6.Chettithirukkonam (R.V) and Periyathirukonam (P) Keelatheru 7.Chettithirukkonam (R.V) and periyathirukonam (p) Nadu theru 8.Chettithirukkonam (R.V) and Periyathirukonam (P) Manamedu 9.Chettithirukkonam (R.V) and Periyathirukonam (P) Manakadu",All Voters
+121,149,121,"Govt, Higher Secondary School, Sundakudi, North South Terraced SSA Building, Facing East, North Portion,",1.Andipattakadu (R.V) and Sundakudi (P) North street 2.Andipattakadu (R.V) and Sundakudi (P) South street 3.Andipattakadu (R.V) and Sundakudi (P) West street 4.Andipattakadu (R.V) and Sundakudi (P) Mariyamman kovil street 5.Andipattakadu (R.V) and Sundakudi (P) Chettiyar street,All Voters
+122,149,122,"Govt, Higher Secondary School, Sundakudi, North South Terraced SSA Building, Facing East, South Portion",1.Andipattakkadu (R.V) And Sundakudi (P) Harijana theru 2.Andipattakkadu (R.V) And Sundakudi (P) Nadu theru 3.Andipattakkadu (R.V) And Sundakudi (P) East street,All Voters
+123,149,123,"Panchayat Union Middle School, Athanur (Punganguzhi Panchayat), East West Terraced Building, Facing North, East Portion,(New Building)",1.Pungangkuzhi (R.V) and P.Ottakovil (P) Athanur Old colony 2.Pungangkuzhi (R.V) and P.Ottakovil (P) Athanur New colony 3.Pungangkuzhi (R.V) and P.Ottakovil (P) Athanur West street 4.Pungangkuzhi (R.V) and P.Ottakovil (P) Athanur South street 5.Pungangkuzhi (R.V) and P.Ottakovil (P) Athanur North street 6.Pungangkuzhi (R.V) and P.Ottakovil (P) Athanur Nadu theru 7.Pungangkuzhi (R.V) and P.Ottakovil (P) Athanur East street,All Voters
+124,149,124,"Panchayat Union Middle School, P, Ottakovil, East West Terraced Building, Facing South, West Portion,",1.Pungangkuzhi (R.V) and P.Ottakovil (P) P.Ottakovil north street 2.Pungangkuzhi (R.V) and P.Ottakovil (P) P.Ottakovil Nadu street 3.Pungangkuzhi (R.V) and P.Ottakovil (P) Throubathi amman kovil street 4.Pungangkuzhi (R.V) and P.Ottakovil (P) P.Ottakovil South street 5.Pungangkuzhi (R.V) and P.Ottakovil (P) P.Ottakovil West street 6.Pungangkuzhi (R.V) and P.Ottakovil (P) P.Ottakovil Harijana street 7.Pungangkuzhi (r.v) and P.Ottakovil (p) P.Ottakovil East street,All Voters
+125,149,125,"Panchayat Union Elementary School, Silluppanur (Pungangkuzhi Panchayat), North South Tiled Building, Facing East Middle Portion,",1.Pungangkuzhi (R.V) and P.Ottakovil (P) Siluppanur South theru 2.Pungangkuzhi (R.V) and P.Ottakovil(P) SiluppanurNadustreet 3.Pungangkuzhi (R.V) and P.Ottakovil(P) SiluppanurNorthstreet 4.Pungangkuzhi (R.V) andP.Ottakovil (P) SiluppanurWeststreet 5.Pungangkuzhi (R.V) and P.Ottakovil (P) Siluppanur East Street 6.Pungangkuzhi (R.V) and P.Ottakovil (P) SiluppanurOldcolony 7.Pungangkuzhi (R.V) and P.Ottakovil (P) Punganguzhi New Colony street 8.Pungangkuzhi (R.V) and P.Ottakovil (P) Punganguzhi West street 9.Pungangkuzhi (R.V) and P.Ottakovil (P) Punganguzhi East street,All Voters
+126,149,126,"Panchayat Union Elementary School, Nanangur, (Pungangkuzhi Panchayat), East West Tiled Building, Facing South, West Portion",1.Pungangkuzhi (R.V) and P.Ottakovil (P) Nanungoor north street 2.Pungangkuzhi (R.V) and P.Ottakovil (P) Nanungoor South street 3.Pungangkuzhi (R.V) and P.Ottakovil (P) Nanungoor East street,All Voters
+127,149,127,"Panchayat Union Elementary School, Oriyur(Punganguzhi Panchayat), North South Terraced Building, Facing East, North Portion","1.Oriyur (R.V) and Komaan (P) Melatheru
+2.Oriyur (R.V) and Komaan (P) North street
+3.Oriyur (R.V) and Komaan (P) Nadu street
+4.Oriyur (R.V) and Komaan (P) South street
+5.Oriyur (R.V) and Komaan (P) Harijana street",All Voters
+128,149,128,"Panchayat Union Middle School, Andipattakadu, East West Terraced Building, Facing North",1.Andipattakadu (R.V) and (P) North street 2.Andipattakadu (R.V) and (P) Harijana street 3.Andipattakadu (R.V) and (P) West street 4.Andipattakadu (R.V) and (P) Nadu theru 5.Andipattakadu (R.V) and (P) East street 6.Andipattakadu (R.V) and (P) South street,All Voters
+129,149,129,"Panchayat Union Elementary School, Vallakulam, North South Terraced Building, Facing West, North Portion,",1.Andipattakadu (R.V) and (P) Puthur Mariyamman kovil street 2.Andipattakadu (R.V) and (P) Puthur North Street 3.Andipattakadu (R.V) and (P) Vallakulam East street 4.Andipattakadu (R.V) and (P) Vallakulam South street 5.Andipattakadu (R.V) and (P) Vallakulam West street 6.Andipattakadu (R.V) and (P) Vallakulam Harijana street 7.Andipattakadu (R.V) and (P) Vallakulam North street,All Voters
+130,149,130,"Panchayat Union Elementary School, Alanduraiyar kattalai, East West Terraced Building, Facing South, West Portion,",1.Alanduraiyarkattalai (R.V) and (P) Siruthondar colony east street 2.Alanduraiyarkattalai (R.V) and (P) Allanduraiyarkattalai South street 3.Alanduraiyarkattalai (R.V) and (P) Allanduraiyarkattalai North street 4.Alanduraiyarkattalai (R.V) and (P) Allanduraiyarkattalai Melatheru 5.Alanduraiyarkattalai (R.V) and (P) Allanduraiyarkattalai East street 6.Alanduraiyarkattalai (R.V) and (P) Allanduraiyarkattalai colony street 7.Alanduraiyarkattalai (R.V) and (P) Keelakangiyanur colony street 8.Alanduraiyarkattalai (R.V) and (P) Keelakangiyanur Kuditheru,All Voters
+131,149,131,"Panchayat Union Elementary School, Panangur, North SouthTiled Building, Facing West, North Portion,",1.Alanduraiyarkattalai (R.V) and (P) Melakangiyanur 2.Alanduraiyarkattalai (R.V) and (P) Panangur East street 3.Alanduraiyarkattalai (R.V) and (P) Panangur West street 4.Alanduraiyarkattalai (R.V) and (P) Panangur South street 5.Alanduraiyarkattalai (R.V) and (P) Valaikuzhi East street 6.Alanduraiyarkattalai (R.V) and (P) Valaikuzhi West street 7.Alanduraiyarkattalai (R.V) and (P) Valaikuzhi South street 8.Alanduraiyarkattalai (R.V) and (P) Valaikuzhi North street 9.Alanduraiyarkattalai (R.V) and (P) Valaikuzhi Nadutheru,All Voters
+132,149,132,"Panchayat Union Elementary School, Kellavannam, North South Terraced Building, Facing East,",5.Karuppilla kattalai (R.V) and (P) Keelavannam North street 6.Karuppilla kattalai (R.V) and (P) Keelavannam Nadutheru 7.Karuppilla kattalai (R.V) and (P) Keelavannam Melatheru 8.Karuppilla kattalai (R.V) and (P) Keelavannam keelaveethy 9.Karuppilla kattalai (R.V) and (P) Keelavannam south street 10.Karuppilla kattalai (R.V) and (P) Vannarapettai South Street 11.Karuppilla kattalai (R.V) and (P) Vannarapettai Melatheru 12.Karuppilla kattalai (r.v) and (P) Vannarapettai nadutheru 13.Karuppilla kattalai (R.V) and (P) Vannarapettai North street,All Voters
+133,149,133,"Panchayat Union Elementary School, Ezheri, North South Tiled Building, Facing West, North Portion",1.Karuppilla kattalai (R.V) and (P) Elari Vadakku Veethy 2.Karuppilla kattalai (R.V) and (P) Elari Theruku Veethy 3.Karuppilla kattalai (R.V) and (P) Elari Melatheru 4.Karuppilla kattalai (R.V) and (P) Elari East street,All Voters
+134,149,134,"Panchayat Union Elementary School, Karuppillakattalai, North South New Terraced Building, Facing East, North Portion,",1.Karupilla kattalai (R.V) and (P) Karupillakattalai north street 2.Karupilla kattalai (R.V) and (P) Karupillakattalai South street 3.Karupilla kattalai (R.V) and (P) Old colony nadu street 4.Karupilla kattalai (R.V) and (P) Old colony melatheru 5.Karupilla kattalai (R.V) and (P) Old colony south street 6.Karupilla kattalai (R.V) and (P) New colony theru,All Voters
+135,149,135,"Panchayat Union Middle School, Kallakudi, East West Terraced Building, Facing North, Ground Floor, East Portion","1.Karuppilla kattalai (R.V) and (P) Kallakudi east street 2.Karuppilla kattalai (R.V) and (P) Harijana street 3.Karuppilla kattalai (R.V) and (P) Arunthathiyar street 4.Karuppilla kattalai (R.V) and (P) Colony street 5.Karuppilla kattalai (R.V) and (P) Annanagar
+6.Karupilla kattalai (R.V) and (P) Kallakudi East Arunthathiyar theru",All Voters
+136,149,136,"Panchayat Union Middle School, Kallakudi,  East West Terraced Building, Facing North, East Portion,",1.Karuppilla kattalai (R.V) and (P) South street 2.Karuppilla kattalai (R.V) and (P) Nadu street 3.Karuppilla kattalai (R.V) and (P) North street 4.Karuppilla kattalai (R.V) and (P) Melatheru,All Voters
+137,149,137,"Panchayat Union Elementary School, Archanapuram, East West Terraced Building Facing South, East Portion,","1.Arungal (R.V) And (P) Arijunapuram
+2.Arungal (R.V) And (P) Karuvelkadu
+3.Arungal (R.V) and (P) Pappankulam",All Voters
+138,149,138,"Panchayat Union Elementary School, Arungal, East West Terraced Building Facing South, West Portion,","1.Arungal (R.V) and (P) Keelatheru
+2.Arungal (R.V) and (P) South Street
+3.Arungal (R.V) and (P) Harijana theru
+4.Arungal (R.V) And (P) North Street",All Voters
+139,149,139,"Panchayat Union Elementary School, Arungal, East West Terraced Building Facing South, East Portion,","1.Arungal (R.V) and (P) Mela Theru
+2.Arungal (R.V) and (P) Nadu Theru",All Voters
+140,149,140,"Govt High School, Arungal, South North Terraced Building, Facing East, South Portion","1.Arungal (R.V) and (P) Palayam
+2.Arungal (R.V) and (P) Sathiya nagar",All Voters
+141,149,141,"Panchayat Union Elementary School, Varanavasi, North South Terraced SSA Building, Facing East, South Portion,","1.Varanavasi (R.V) and (P) North street 2.Varanavasi (R.V) and (P) Keela street 3.Varanavasi (R.V) and (P) Post office street 4.Varanavasi (R.V) and (P) Nadu theru  5.Varanavasi (R.V) and (P) Mariyamman kovil theru 6.Varanavasi (R.V) and (P) Vellalar street 7.Varanavasi (R.V) and (P) Main road
+8.Varanavasi (R.V) and (P) Annanagar",All Voters
+142,149,142,"Govt, High School, Samathuvapuram Varanavasi, East West Terraced Building, Facing South, East Portion,",1.Varanavasi (R.V) and (P) Samathuvapuram,All Voters
+143,149,143,"Panchayat Union Elementary School, Varanavasi, North South Terraced SSA Building, Facing East, North Portion,",1.Varanavasi (R.V) and (P) Anna colony 2.Varanavasi (R.V) and (P) Nallakkapalayam 3.Varanavasi (R.V) and (P) Govundar Pannai,All Voters
+144,149,144,"Aided Elementary School, Mallur. East West Terraced Building, Facing North, East Portion.","1.Mallur (R.V) and (P) Mallur vellalar theru
+2.Mallur (R.V) and (P) Mallur adi-dravidar theru
+3.Mallur (R.V) and (P) Mettukrishnapuram",All Voters
+145,149,145,"Panchayat Union Elementary School, Parpanacheri, East West Terraced SSA Building, Facing North, West Portion,",1.Parpanacheri (R.V) and (P) Parma colony 2.Parpanacheri (R.V) and (P) Main road 3.Parpanacheri (R.V) and (P) Perumal palayam 4.Parpanacheri (R.V) and (P) Nadu theru 5.Parpanacheri (R.V) and (P) Keela theru 6.Parpanacheri (R.V) and (P) Govundar pannai 7.Parpanacheri (R.V) and (P) Colony theru 8.Parpanacheri (R.V) and (P) Kattu kottagai 9.Parpanacheri (R.V) and (P) Keela sannathi theru 10.Parpanacheri (R.V) and (P) Meddathan kovil theru,All Voters
+146,149,146,"Panchayat Union Elementary School, Maravanur, East West Terraced Building, Facing North, East Portion,",1.Parpanacheri (R.V) and (P) North street 2.Parpanacheri (R.V) and (P) South street 3.Parpanacheri (R.V) and (P) Nadu street 4.Parpanacheri (R.V) and (P) Melatheru 5.Parpanacheri (R.V) and (P) Keelatheru 6.Parpanacheri (R.V) and (P) Colony theru 7.Parpanacheri (R.V) and (P) Main road 8.Parpanacheri (R.V) and (P) Mariyamman kovil theru,All Voters
+147,149,147,"Govt, Higher Secondary School, Keelapalur. East West SSA New Building Facing North, East Portion.","1.Keelapalur (R.V) and (P) Keela Theru
+2.Keelapalur (R.V) and (P) Pasupathisuvaran Kovil Theru 3.Keelapalur (R.V) and (P) Nadu Theru
+4.Keelapalur (R.V) and (P) Thanjai Salai 5.Keelapalur (R.V) and (P) Sanathi Theru",All Voters
+148,149,148,"Govt Higher Secondary School, Keelapalur, East West New Building Facing North, West Portion",1.Keelapalur (R.V) and (P) AnnaNagar,All Voters
+149,149,149,"Govt, Higher Secondary School, Keelapalur. North South Terraced Building, Facing West, South Portion.",1.Keelapalur (R.V) and (P) Kaaliyamman kovil theru 2.Keelapalur (R.V) and (P) Perumal kovil theru 3.Keelapalur (R.V) and (P) South street (East) 4.Keelapalur (R.V) and (P) Thanjavur road south 5.Keelapalur (R.V) and (P) Srinivasa nagar 6.Keelapalur (R.V) and (P) South street (west),All Voters
+150,149,150,"Panchayat Union Elementary School, Keelapalur, East West Terraced Building, Facing North, East Portion,",1.Keelapalur (R.V) and (P) Andana kurichi theru 2.Keelapalur (R.V) and (P) Mela theru 3.Keelapalur (R.V) and (P) Sunnambukara theru 4.Keelapalur (R.V) and (P) Pongoni theru 5.Keelapalur (R.V) and (P) Trichy main road 6.Keelapalur (R.V) and (P) Ariyalur Main road,All Voters
+151,149,151,"Govt, Higher Secondary School, Keelapalur, North South Terraced Building, Facing East, South Portion,",1.Keelapalur (R.V) and (P) Nadu theru 2.Keelapalur (R.V) and (P) Nabigal Nayagam theru 3.Keelapalur (R.V) and (P) Omsakthi kovil theru 4.Keelapalur (R.V) and (P) V.O.C Nagar 5.Keelapalur (R.V) and (P) Matha kovil theru,All Voters
+152,149,152,"Panchayat Union Elementary School, Gandhi Nagar (Keelapalur Panchayat) East West Terraced Building, Facing South, East Portion.",1.Keelapalur (R.V) and (P) Gandhi nagar 2.Keelapalur (R.V) and (P) Counder Pannai,All Voters
+153,149,153,"Panchayat Union Elementary School, Keelaiyur, East West Terraced SSA Building, Facing North, West Portion,",1.Keelaiyur (R.V) and Malathankulam (P) North Street,All Voters
+154,149,154,"Panchayat Union Elementary School, Keelaiyur, East West Terraced SSA Building, Facing North, East Portion,",1.Keelaiyur (R.V) and Malathankulam (P) Keela Arisana Theru,All Voters
+155,149,155,"Govt. High School, Keelaiyur. East West Terraced Building, Facing South, East Portion.",1.Keelaiyur (R.V) and Malathankulam (P) East street 2.Keelaiyur (R.V) and Malathankulam (p) Therodu veethy 3.Keelaiyur (R.V) and Malathankulam (P) South street 4.Keelaiyur (R.V) and Malathankulam (P) Matha kovil theru 5.Keelaiyur (R.V) and Malathankulam (P) Nadu theru,All Voters
+156,149,156,"Panchayat Union Elemantary School, Keelaiyur, East West Terraced Building, Facing South,",1.Mela palur (R.V) and (P) Keelaiyur VepanKuzhi theru,All Voters
+157,149,157,"Govt. High School, Keelaiyur. East West Terraced Building, Facing South, Middle Portion.","1.Mela palur (R.V) and (P) Melapalur
+2.Mela palur (R.V) and (P) Mela colony theru",All Voters
+158,149,158,"Panchayat Union Middle School, Poondi, (SSA Building) North South Terraced Building, Facing East, South Portion","1.Poondi (R.V) and (P) North Street
+1.Poondi (R.V) and (P) Keela Street",All Voters
+159,149,159,"Panchayat Union Middle School, Poondi, (SSA Building) North South Terraced Building, Facing East, North Portion","1.Poondi (R.V) and (P) Middle Street
+1.Poondi (R.V) and (P) South Street
+1.Poondi (R.V) and (P) Colony Street",All Voters
+160,149,160,"St, Ignatius High School, Kokkudi, North South Terraced Building, Facing West, South Portion,","1.Poondi (R.V) And (P) Kokkudi melatheru
+2.Poondi (R.V) And (P) Kokkudi Harijana theru",All Voters
+161,149,161,"St, Ignatius High School, Kokkudi, North South Terraced Building, Facing West, Middle Portion,",1.Poondi (R.V) and (P) Kokkudi Keela theru,All Voters
+162,149,162,"Panchayat Union Elementary School, Vepankuzhi, East West Terraced Building, Facing North,","1.Poondi (R.V) and (P) Vepankuzhi
+2.Poondi (R.V) and (P) Kanikkapuram",All Voters
+163,149,163,"R.C. St, Joseph Primary School, Malathankulam, North South Terraced Building, Facing East, South Portion",1.Keelaiyur (R.V) and Malathankulam (P) Keela theru 2.Keelaiyur (R.V) and Malathankulam (P) Nadu theru 3.Keelaiyur (R.V) and Malathankulam (P) Harijana theru 4.Keelaiyur (R.V) and Malathankulam (P) Sakkilyar theru,All Voters
+164,149,164,"R.C. St, Joseph Primary School, Malathankulam, North South Terraced Building, Facing East, Middle Portion",1.Keelaiyur (R.V) and Malathankulam (P) Mariyamman kovil theru 2.Keelaiyur (R.V) and Malathankulam (P) Matha kovil theru 3.Keelaiyur (R.V) and Malathankulam (P) North street,All Voters
+165,149,165,"Panchayat Union Middle School, Sathamangalam, East West Tiled Building, Facing North,East Portion",1.Sathamangalam (R.V) and (P) Harijana Theru 2.Sathamangalam (R.V) and (P) North Street 3.Sathamangalam (R.V) and (P) Main Road,All Voters
+166,149,166,"Panchayat Union Middle School, Sathamangalam. East West Terraced Building, Facing South, East Portion.",4.Sathamangalam (R.V) and (P) Nadu Theru 5.Sathamangalam (R.V) and (P) South Street,All Voters
+167,149,167,"Panchayat Union Middle School, Puthur. East West Terraced Building, Facing North, East Portion.",1.Sathamangalam (R.V) and (P) Vannam 2.Sathamangalam (R.V) and (P) Putthur Harijana theru 3.Sathamangalam (R.V) and (P) Putthur North street 4.Sathamangalam (R.V) and (P) Putthur Nadu theru 5.Sathamangalam (R.V) and (P) Putthur Melatheru 6.Sathamangalam (R.V) and (P) Putthur South street,All Voters
+168,149,168,"Govt, High School, Erakkudi. East West Terraced Building, Facing South, West Portion,",1.Ayansuthamalli (R.V) and (P) Erakudi Mela theru 2.Ayansuthamalli (R.V) and (P) Erakudi North street 3.Ayansuthamalli (R.V) and (P) Erakudi South street 4.Ayansuthamalli (R.V) and (P) Erakudi East street 5.Ayansuthamalli (R.V) and (P) Erakudi Nadutheru 6.Ayansuthamalli (R.V) and (P) Erakudi North Harijana street 7.Ayansuthamalli (R.V) and (P) Erakudi South Harijana street 8.Ayansuthamalli (R.V) and (P) Vettakudi North street 9.Ayansuthamalli (R.V) and (P) Vettakudi South street 10.Ayansuthamalli (R.V) and (P) Vettakudi Nadu theru 11.Ayansuthamalli (R.V) and (P) Vettakudi East street,All Voters
+169,149,169,"Govt, High School, Ayansuthamalli, North South Terraced Building, Facing East, North Portion,",1.Ayansuthamalli (R.V) and (P) Ayansuthamalli 2.Ayansuthamalli (R.V) and (P) East street 3.Ayansuthamalli (R.V) and (P) Mela theru 4.Ayansuthamalli (R.V) and (P) Nadu theru 5.Ayansuthamalli (R.V) and (P) South street 6.Ayansuthamalli (R.V) and (P) Harijana Melatheru 7.Ayansuthamalli (R.V) and (P) Harijana Nadutheru 8.Ayansuthamalli (R.V) and (P) Harijana East theru 9.Ayansuthamalli (R.V) and (P) Harijana South street,All Voters
+170,149,170,"Panchayat Union Middle School, Angiyanur. North South SSA Terraced Building, Facing East, South Portion.","1.Sannaur (N) (R.V) and Sannaur (P) North street
+2.Sannaur (N) (R.V) and Sannaur (P) Nadu theru
+3.Sannaur (N) (R.V) and Sannaur (P) Melatheru
+4.Sannaur (N) (R.V) and Sannaur (P) Keelatheru",All Voters
+171,149,171,"Panchayat Union Middle School, Angiyanur. North South Terraced Building, Facing East, North Portion.","1.Sannaur (N) (R.V) and Sannaur (P) South street
+2.Sannaur (N) (R.V) and Sannaur (P) Harijana theru",All Voters
+172,149,172,"Panchayat Union Middle School, Korathakudi East West Terraced Building, Facing South, Middle Portion",1.Sannavur (S) (R.V) and Sannavur (P) Korathakudi,All Voters
+173,149,173,"Govt, High School, Sannavur. East West Terraced Building, Facing South, West Portion.","1.Sannavur (S) (R.V) and Sannavur (P) Sannavur Kudi theru
+2.Sannavur (S) (R.V) and Sannavur (P) Muthuraja theru",All Voters
+174,149,174,"Govt High School, Sannavur. East West Terraced Building, Facing South, East Portion.",1.Sannavur (S) (R.V) and sannavur (p) Sannavur south Ambethkar theru,All Voters
+175,149,175,"Govt, High School, Venganur, East West Terraced SSA Building, Facing North, West Portion,","1.Venganur (R.V) and (P) Venganur north street
+2.Venganur (R.V) and (P) Kaliyamman kovil street
+3.Venganur (R.V) and (P) Nadu theru North side
+4.Venganur (R.V) and (P) Harijana theru",All Voters
+176,149,176,"Govt, High School, Venganur, North South Terraced Building, Facing East, Middle Portion","1.Venganur (R.V) and (P) Venganur south street
+2.Venganur (R.V) and (P) Venganur Nadu theru south side
+3.Venganur (R.V) and (P) Perumal kovil theru",All Voters
+177,149,177,"Govt, High School, Karayavetti. North South Tiled Building, Facing East.",1.Karayavetti (R.V) and (P) Harijana theru 2.Karayavetti (R.V) and (P) North street,All Voters
+178,149,178,"Govt, High School, Karayavetti. North South Tiled Building, Facing West.",1.Karayavetti (R.V) and (P) K.Parathur main road,All Voters
+179,149,179,"Govt, High School, Karayavetti. East West Terraced Building, Facing North.",1.Karayavetti (R.V) and (P) Mariyamman kovil theru,All Voters
+180,149,180,"Panchayat Union Middle School, Senapathi, East West Terraced Building, Facing South. West Portion",1.Keelakavattankurichi (R.V) and (P) Senapathi Harijana Theru,All Voters
+181,149,181,"Panchayat Union Middle School, Senapathi, East West Terraced Building, Facing South. East Portion",1.Keelakavattankurichi (R.V) and (P) Senapathi North Street 2.Keelakavattankurichi (R.V) and (P) Senapathi South Street 3.Keelakavattankurichi (R.V) and (P) Senapathi Mela Theru,All Voters
+182,149,182,"Govt, Higher Secondary School, Keelakavattankurichi, East West Terraced Building, Facing South, West Portion.",1.Keelakavattankurichi (R.V) and (P) Keelakavattankurichi Mela Theru 2.Keelakavattankurichi (R.V) And (P) Melakavattankurichi,All Voters
+183,149,183,"Govt Higher Secondary School, Keelakavattankurichi, North South Terraced Building, Facing West, Middle Portion.",1.Keelakavattankurichi (R.V) and (P) Keelakavattankurichi Keela Theru,All Voters
+184,149,184,"Govt, Higher Secondary School, Keelakavattankurichi, East West Terraced Building, Facing North,",1.Keelakavattankurichi (R.V) and (P) Keelakavattankurichi harijana colony 2.Keelakavattankurichi (R.V) and (P) Kunthapuram Harijana colony,All Voters
+185,149,185,"Govt, Higher Secondary School, Keelakavattankurichi. North South Terraced New Building, Facing West, Middle Portion.",1.Keelakavattankurichi (R.V) and (P) Kunthapuram Kudi theru 2.Keelakavattankurichi (R.V) and (P) Thattansavadi kudi theru 3.Keelakavattankurichi (R.V) and (P) Thattansavadi Harijana colony,All Voters
+186,149,186,"Panchayat Union Elementary School, Vetriyur. East West Terraced Building, Facing North.","1.Vetriyur (R.V) and (P) Vetriyur North Street
+2.Vetriyur (R.V) and (P) North 2nd Street
+3.Vetriyur (R.V) and (P) Nadu Theru
+4.Vetriyur (R.V) and (P) Kamunti Theru
+5.Vetriyur (R.V) and (P) Mettu Theru",All Voters
+187,149,187,"Panchayat Union Elementary School, Vetriyur. East West Terraced Building, Facing North, West Portion.","1.Vetriyur (R.V) and (P) Harijana Theru
+2.Vetriyur (R.V) and (P) South Street
+3.Vetriyur (R.V) and (P) Mela Theru",All Voters
+188,149,188,"Panchayat Union Middle School, Kallur, East West Terraced Building, Facing South, West Portion,","1.Vetriyur (R.V) and (P) Kallur north street
+2.Vetriyur (R.V) and (P) Kallur North 2nd street
+3.Vetriyur (R.V) and (P) Mariyamman kovil theru
+4.Vetriyur (R.V) and (P) Kallur Thenpagam south street",All Voters
+189,149,189,"Panchayat Union Middle School, Kallur, East West Terraced Building, Facing South, East Portion,","1.Vetriyur (R.V) and (P) Petchiamman kovil theru
+2.Vetriyur (R.V) and (P) Perumal kovil theru
+3.Vetriyur (R.V) and (P) Pillaiyar kovil street
+4.Vetriyur (R.V) and (P) Subramaniyan kovil theru
+5.Vetriyur (R.V) and (P) Melatheru
+6.Vetriyur (R.V) and (P) Harijana colony",All Voters
+190,149,190,"Panchayat Union Elementary School, Viragalur (Vetriyur Panchayat), East West Tiled Building, Facing South,","1.Vetriyur (R.V) and (P) Viragalur South street
+2.Vetriyur (R.V) and (P) Viragalur Mariammankoviltheru
+3.Vetriyur (R.V) and (P) Viragalur North street
+4.Vetriyur (R.V) and (P) Viragalur Mainroad",All Voters
+191,149,191,"Panchayat Union Middle School, Thirupeyar. East West Terraced Building, Facing South, Middle Portion","1.Vetriyur (R.V) and (P) Therupaiyar Kezhatheru
+2.Vetriyur (R.V) and (P) Therupaiyar Malatheru
+3.Vetriyur (R.V) and (P) Therupaiyar Nadutheru
+4.Vetriyur (R.V) and (P) Therupaiyar North street
+5.Vetriyur (R.V) and (P) Therupaiyar Arisanatheru",All Voters
+192,149,192,"Panchayat Union Elementary School, Keelakolathur, North South Tiled Building, Facing East,",1.Keelakolathur (R.V) and (P) North street,All Voters
+193,149,193,"Panchayat Union Elementary School, Keelakolathur, North South Tiled Building, Facing West,",1.Keelakolathur (R.V) and (P) South street,All Voters
+194,149,194,"Govt Higher Secondary School, Keelakolathur, East West Terraced Building, Facing North",1.Keelakolathur (R.V) and (P) Ambethkar street 2.Keelakolathur (R.V) and (P) Batsha nagar,All Voters
+195,149,195,"Panchayat Union Middle School, Keela Esanai, North South Terraced Building, Facing West, South Portion",1.Chinnapattakadu (R.V) and (P) Periyapattakadu 2.Chinnapattakadu (R.V) and (P) Keelaesanai Northstreet 3.Chinnapattakadu (R.V) and (P) Melatheru 4.Chinnapattakadu (R.V) and (P) Nadutheru 5.Chinnapattakadu (R.V) and (P) Kalanitheru 6.Chinnapattakadu (R.V) and (P) Northstreet,All Voters
+196,149,196,"Panchayat Union Elementary School, Periyapattakadu, North South Terraced Building, Facing East, North Portion,",1.Chinnapattakadu (R.V) and (P) Periyapattakadu colony 2.Chinnapattakadu (R.V) and (P) Periyapattakadu North street 3.Chinnapattakadu (R.V) and (P) Periyapattakadu South street 4.Chinnapattakadu (R.V) and (P) Periyapattakadu Mariyamman kovil street,All Voters
+197,149,197,"Panchayat Union Middle School, Chinnapattakadu, East West Terraced Building, Facing North, East Portion,",1.Chinnapattakadu (R.V) and (P) Chinnapattakadu North street 2.Chinnapattakadu (R.V) and (P) Chinnapattakadu M.G.R.nagar 3.Chinnapattakadu (R.V) and (P) Chinnapattakadu Mela theru 4.Chinnapattakadu (R.V) and (P) Chinnapattakadu South street,All Voters
+198,149,198,"Govt, Higher Secondary School, Kovilur, North South Terraced Building, Facing East, South Portion","1.Kovilur (R.V) and (P) Keelatheru vadapathy
+2.Kovilur (R.V) and (P) Melatheru
+3.Kovilur (R.V) and (P) Nadutheru
+4.Kovilur (R.V) and (P) North street",All Voters
+199,149,199,"Govt, Higher Secondary School, Kovilur, North South Terraced SSA Building, Facing East, South Portion","1.Kovilur (R.V) and (P) Sivankovil street
+2.Kovilur (R.V) and (P) Mariyamman kovil theru
+3.Kovilur (R.V) and (P) South street
+4.Kovilur (R.V) and (P) Elakuruchi Salaitheru
+5.Kovilur (R.V) and (p) Colony street",All Voters
+200,149,200,"Govt, Higher Secondary School, Kovilur, North South Terraced SSA Building, Facing East, Middle Portion","1.Kovilur (R.V) and (P) Keela theru
+2.Kovilur (R.V) and (p) Edatheru
+3.Kovilur (R.V) and (P) South street
+4.Kovilur (R.V) and (P) Elakuruchi salai
+5.Kovilur (R.V) and (P) North street
+6.Kovilur (R.V) and (P) Pillaiyar kovil street",All Voters
+201,149,201,"Panchayat Union Elementary School, Kamarasavalli, East West Terraced SSA Building, Facing South, West Portion,",1.Kamarasavalli (R.V) and (P) Konar theru 2.Kamarasavalli (R.V) and (P) Mariyamman kovil theru 3.Kamarasavalli (R.V) and (P) Asari theru 4.Kamarasavalli (R.V) and (P) Sivan kovil theru 5.Kamarasavalli (R.V) and (P) Melatheru 6.Kamarasavalli (R.V) and (P) South street 7.Kamarasavalli (R.V) and (P) Nadutheru 8.Kamarasavalli (R.V) and (P) Main road,All Voters
+202,149,202,"Panchayat Union Elementary School,Kamarasavalli, North South Terraced Building, Facing East, South Portion","1.Kamarasavalli (R.V) and (P) Kamarasavalli ambethkar nagar 2.Kamarasavalli (R.V) and (P) North street
+3.Kamarasavalli (R.V) and (P) Keela theru 4.Kamarasavalli (R.V) and (P) South street
+5.Kamarasavalli (R.V) and (P) Chelliyamman kovil Kuttai theru 6.Kamarasavalli (R.V) and (P) Pillaiyar kovil theru 7.Kamarasavalli (R.V) and (P) Nadu theru
+8.Kamarasavalli (R.V) and (P) Colony theru",All Voters
+203,149,203,"Panchayat Union Elementary School, Kamarasavalli, North South Terraced Building, Facing East, North Portion,",1.Kamarasavalli (R.V) and (P) Mathur North street 2.Kamarasavalli (R.V) and (P) Mathur Konar street 3.Kamarasavalli (R.V) and (P) Arasancheri 4.Kamarasavalli (R.V) and (P) Mathur South street,All Voters
+204,149,204,"Govt High School, Kuruvadi, North South Terraced Building, Facing West, North Portion, (New BuIlding)","1.Kuruvadi (R.V) and (P) Kuruvadi North street
+2.Kuruvadi (R.V) and (P) Kuruvadi Nadu theru
+3.Kuruvadi (R.V) and (P) Kuruvadi Puthu theru",All Voters
+205,149,205,"Panchayat Union Elementary School, Kuruvadi, East West Terraced Building, Facing South, West Portion","1.Kuruvadi (R.V) and (P) Harijana street
+2.Kuruvadi (R.V) and (P) South street",All Voters
+206,149,206,"Panchayat Union Elementary School, Thelur, North South Terraced SSA Building, Facing East, North Portion",1.Kuruvadi (R.V) and ( P) Thelur,All Voters
+207,149,207,"Panchayat Union Elementary School, Koman, East West Terraced SSA Building, Facing North,","1.Oriyur (R.V) and Koman (P) Koman mela theru
+2.Oriyur (R.V) and koman (P) Koman keela theru",All Voters
+208,149,208,"Panchayat Union Elementary School, Thuthur, North South Terraced Building, Facing West,","1.Thuttur (R.V) and (P) Vaipur
+2.Thuttur (R.V) and (P) Thuthur Manthai theru
+3.Thuttur (R.V) and (P) Thuttur Agraharam mela theru",All Voters
+209,149,209,"Panchayat Union Elementary School, Thuthur, East West Terraced SSA Building, Facing North, East Portion","1.Thuttur (R.V) and (P) Thuttur North street
+2.Thuttur (R.V) and (P) Thuttur Mainroad
+3.Thuttur (R.V) and (P) Arisana Colony theru
+4.Thuttur (R.V) and (P) Sivankovil street",All Voters
+210,149,210,"Panchayat Union Elementary School, Thuthur, East West Terraced SSA Building, Facing North, West Portion","1.Thuttur (R.V) and (P) Thuthur Melatheru
+2.Thuttur (R.V) and (P) Thuthur Nadu theru",All Voters
+211,149,211,"Panchayat Union Elementary School, Melaramanallur, North South Terraced Building, Facing West, Middle Portion",1.Alagiyamanavalam (R.V) and (P) Keelaramanallur 2.Alagiyamanavalam (R.V) and (P) Melaramanallur Harijana street 3.Alagiyamanavalam (R.V) and (P) Melaramanallur North street 4.Alagiyamanavalam (R.V) and (P)Melaramanallur Melatheru 5.Alagiyamanavalam (R.V) and (P) Melaramanallur South Street,All Voters
+212,149,212,"Panchayat Union Middle School, Alagiyamanavalam, North South Terraced SSA Building, Facing West, Middle Portion",1.Alagiyamanavalam (R.V) and (P) South street 2.Alagiyamanavalam (R.V) and (P) North street 3.Alagiyamanavalam (R.V) and (P) Keela theru  4.Alagiyamanavalam (R.V) and(P) Alagiyamanavalam Mainroad 5.Alagiyamanavalam (R.V) and (P) Alagiyamanavalam North street 6.Alagiyamanavalam (R.V) and (P) Alagiyamanavalam Periyar nagar 7.Alagiyamanavalam (R.V) and (P) Nathiyanur North street,All Voters
+213,149,213,"Manimegali Aided Elementary School, Melavarappankurichi, North South Tiled Building, Facing North,",1.Alagiyamanavalam (R.V) and (P) Keelavarappankurichi mainroad 2.Alagiyamanavalam (R.V) and (P) Keelavarappankurichi Pilliyarkoviltheru 3.Alagiyamanavalam (R.V) and (P) Keelavarappankurichi Mathakoviltheru 4.Alagiyamanavalam (R.V) and (P) Keelavarappankurichi North street 5.Alagiyamanavalam (R.V) and (P) Melavarappankurichi Main theru 6.Alagiyamanavalam (R.V) and (P) Melavarappankurichi South street 7.Alagiyamanavalam (R.V) and (P) Melavarappankurichi Colony theru,All Voters
+214,149,214,"Adi-Dravidar Welfare School, Vandarayankattalai, East West Terraced Building, Facing South, West Portion.",1.Elakurichi (R.V) and (p) Vandarayankattalai maiyamman theru 2.Elakurichi (R.V) and (P) Vandaryankattalai Annanagar Melatheru 3.Elakurichi (R.V) and (P) Kattalai Annanagar Nadu theru North street 4.Elakurichi (R.V) and (P) Vandarayankattalai Annanagar South street 5.Elakurichi (R.V) and (P) Vandarayankattalai Annanagar North street 6.Elakurichi (R.V) and (p) Vandarayankattalai Annanagar kudu theru,All Voters
+215,149,215,"Adi-Dravidar Welfare School, Vandarayankattalai, East West Terraced Building, Facing South, East Portion.","1.Elakurichi (R.V) and (P) Sengarayan kattalai North street 2.Elakurichi (R.V) and (P) East street
+3.Elakurichi (R.V) and (P) Mela theru 4.Elakurichi (R.V) and (P) Nadu theru 5.Elakurichi (R.V) and (P) South street",All Voters
+216,149,216,"Govt, Higher Secondary School, Elakurichi, East West Terraced SSA Building, Facing North, East Portion",1.Elakurichi (R.V) and (P) Karaiyankurichi North street 2.Elakurichi (R.V) and (P) Karaiyankurichi Nadu theru 3.Elakurichi (R.V) and (P) Karaiyankurichi Ambethkar street 4.Elakurichi (R.V) and (P) Karaiyankurichi Ambethkar street,All Voters
+217,149,217,"Govt, Higher Secondary School, Elakurichi, East West Terraced SSA Building, Facing North, West Portion,",1.Elakurichi (R.V) and (P) Nayakkarpalayam North street 2.Elakurichi (R.V) and (P) Nayakkarpalayam Nadutheru 3.Elakurichi (R.V) and (P) Elakurichi Ambethkar nagar 4.Elakurichi (R.V) and (P) Elakurichi Mathakovil street,All Voters
+218,149,218,"Govt, Higher Secondary School, Elakurichi, North South Terraced SSA Building, Facing West, North Portion,",1.Elakurichi (R.V) and (P) Elakurichi South street 2.Elakurichi (R.V) and (P) Elakurichi East street 3.Elakurichi (R.V) and (P) Elakurichi Nadu theru,All Voters
+219,149,219,"Govt, Higher Secondary School, Elakurichi, North South Terraced SSA Building, Facing West, South Portion,",1.Elakurichi (R.V) and (P) Elakurichi Mainroad 2.Elakurichi (R.V) and (P) Kollidam pathai 3.Elakurichi (R.V) and (P) Vaikkal pathai 4.Elakurichi (R.V) and (P) Velakkara theru 5.Elakurichi (R.V) and (P) Senkarandi theru,All Voters
+220,149,220,"Panchayat Union Elementary School, Periyamarai, North South Terraced Building, Facing East, South Portion",1.Sullankudi (R.V) and (P) Periyamarai South street 2.Sullankudi (R.V) and (P) Periyamarai West street 3.Sullankudi (R.V) and (P) Periyamarai colony street 4.Sullankudi (R.V) and (P) Senkarandi colony,All Voters
+221,149,221,"Panchayat Union Elementary School, Ezhunatchipuram, East West Terraced Building, Facing South, West Portion",1.Sullankudi (R.V) and (P) Ezhunachipuram Kuditheru Ward1 2.Sullankudi (R.V) and (P) Ezhunachipuram Arisanatheru,All Voters
+222,149,222,"Panchayat Union Elementary School, Sullankudi, East West Terraced Building, Facing South East Portion",1.Sullankudi (R.V) and (P) Sullankudi mela theru 2.Sullankudi (R.V) and (P) Sullankudi Keela theru 3.Sullankudi (R.V) and (P) Sullankudi North street 4.Sullankudi (R.V) and (P) Sullankudi Mathakovil street 5.Sullankudi (R.V) and (P) Sullankudi Ottha theru,All Voters
+223,149,223,"Panchayat Union Middle School, Vilupanakurichi, North South Terraced SSA Building, Facing East, Middle Portion",1.Villupanakurichi (R.V) and (P) Keela Theru 2.Villupanakurichi (R.V) and (P) Nadu Theru 3.Villupanakurichi (R.V) and (P) Puthu Nagar,All Voters
+224,149,224,"Panchayat Union Middle School, Vilupanakurichi, North South Terraced Building, Facing West, North Portion",1.Villupanakurichi (R.V) and (P) North Street 2.Villupanakurichi (R.V) and (P) Mela veethi 3.Villupanakurichi (R.V) and (P) AnnaNagar 4.Villupanakurichi (R.V) and (P) South Street,All Voters
+225,149,225,"Panchayat Union Middle School, Vadugapalayam, North South Terraced Building, Facing East, North Portion,",1.Vadugapalayam (R.V) and (P) Inamkumaramangalam north street 2.Vadugapalayam (R.V) and (P) Inamkumaramangalam South street 3.Vadugapalayam (R.V) and (P) Vadugapalyam Pillaiyar kovil st mela st 4.Vadugapalayam (R.V) and (P) Vadugapalayam South street 5.Vadugapalayam (R.V) and (P) Vadugapalayam Mariyamman kovil theru,All Voters
+226,149,226,"Panchayat Union Middle School, Vadugapalayam, North South Terraced Building, Facing East, Middle Portion,",1.Vadugapalayam (R.V) and (P) M.G.R. Nagar 2.Vadugapalayam (R.V) and (P) Main road 3.Vadugapalayam (R.V) and (P) Annanagar 4.Vadugapalayam (R.V) and (P) Valluvar nagar 5.Vadugapalayam (R.V) and (P) Matha kovil street,All Voters
+227,149,227,"Panchayat Union Middle School, Thiruvenganur, North South Terraced Building, Facing East, Middle Portion",1.Vadugapalayam (R.V) and (P) Thiruvenganur main road 2.Vadugapalayam (R.V) and (P) North street 3.Vadugapalayam (R.V) and (P) South street 4.Vadugapalayam (R.V) and (P) Hairjana theru,All Voters
+228,149,228,"Govt. Higher Secondary School, Thirumanur. North South Terraced SSA Building, Facing West, North Portion.",1.Thirumanur (R.V) and (P) Ambethkar nagar 2.Thirumanur (R.V) and (p) Rathinam colony 3.Thirumanur (R.V) and (P) Gandhinagar,All Voters
+229,149,229,"Govt, Higher Secondary School, Thirumanur, North South Terraced SSA Building, Facing West, South Portion,",1.Thirumanur (R.V) And (P) Keela theru 2.Thirumanur (R.V) And (P) Amman sananithy theru 3.Thirumanur (R.V) And (P) Nadutheru 4.Thirumanur (R.V) And (P) Keela madavilagam 5.Thirumanur (R.V) And (P) Agraharam,All Voters
+230,149,230,"Govt, Higher Secondary School, Thirumanur, East West Terraced NABARD Building, Facing North, East Portion, Right Side",1.Thirumanur (R.V) and (P) Keela theru 2.Thirumanur (R.V) and (P) South street 3.Thirumanur (R.V) and (P) Nadu theru 4.Thirumanur (R.V) and (P) Mela theru 5.Thirumanur (R.V) and (P) S.R.Nagar 6.Thirumanur (R.V) and (P) Manikkam Nagar 7.Thirumanur (R.V) and (P) M.G.R.Nagar 8.Thirumanur (R.V) and (P) V.O.C.Nagar 9.Thirumanur (R.V) and (P) Parisal Durai Theru 10.Thirumanur (R.V) and (P) Union Kudiyiruppu 11.Thirumanur (R.V) and (P) DWD Colony,All Voters
+231,149,231,"Govt, Higher Secondary School, Thirumanur, East West Terraced NABARD Building, Facing North, Middle Protion, Left Side",1.Thirumanur (R.V) and (P) Puthu Theru 2.Thirumanur (R.V) and (P) Manimeagalai Nagar 3.Thirumanur (R.V) and (P) Sababathi Nagar 4.Thirumanur (R.V) and (P) Main Road 5.Thirumanur (R.V) and (P) Annam Nagar 6.Thirumanur (R.V) and (P) Thirumagal Colony,All Voters
+232,149,232,"Govt Higher Secondary School, Thirumanur, East West Terraced RMSA Building, Facing North,West Portion",1.Thirumanur (r.v) and (P) T.K.S.Nagar 2.Thirumanur (R.V) and (P) Velan Nagar 3.Thirumanur (R.V) and (P) Ottrumai puram 4.Thirumanur (R.V) and (P) New vaakkal st 5.Thirumanur (R.V) and (P) Bharathi Nagar,All Voters
+233,149,233,"Govt, Higher Secondary School, Tirumanur, North South Terraced SSA Building, Facing West, Middle Portion",1.Tirumanur (R.V) and (P) Mela Theru 2.Tirumanur (R.V) and (P) Kamaraj Nagar 3.Tirumanur (R.V) and (P) Nathigulam Theru 4.Tirumanur (R.V) and (P) Melamadavalagam,All Voters
+234,149,234,"Govt Higher Secondary School, Tirumanur, North South Terraced SSA Building, Facing West, South Portion",1.Tirumanur (R.V) and (P) North Street 2.Tirumanur (R.V) and (P) Keela Theru 3.Tirumanur (R.V) and (P) G.K.M. Nagar,All Voters
+235,149,235,"Panchayat Union Elementary School, Karaipakkam, East West Terraced Building, Facing South, West Portion,",1.Manjamedu (R.V) and (P) Mudikondan 2.Manjamedu (R.V) and (P) Manjamedu,All Voters
+236,149,236,"Panchayat Union Elementary School, Karaipakkam, East West Terraced Building, Facing South, East Portion,",1.Manjamedu (R.V) and (P) Karaipakkam 2.Manjamedu (R.V) and (P) Kudi theru 3.Manjamedu (R.V) and (P) Kamaraj Nagar,All Voters
+237,149,237,"Panchayat Union Middle School, Palayappadi, North South Terraced Building, Facing West, North Portion,",1.Annimangalam (R.V) and (P) Palayapadi Main raod 2.Annimangalam (R.V) and (P) Palayapadi Morth street 3.Annimangalam (R.V) and (P) Palayapadi North colony 4.Annimangalam (R.V) and (P) Mariyamman kovil street 5.Annimangalam (R.V) and (P) M.G.R. Nagar 6.Annimangalam (R.V) and (P) South street 7.Annimangalam (R.V) and (P) South colony,All Voters
+238,149,238,"Panchayat Union Elementary School, Annimangalam, East West Building,Facing South, East Portion,","1.Annimangalam (R.V) and (P) Kalliyamman kovil street 2.Annimangalam (R.V) and (P) Mahatma Gandhi colony Keelatheru 3.Annimangalam (R.V) and (P) Mahatma colony Melatheru 4.Annimangalam (R.V) and (P) Pillaiyar kovil street 5.Annimangalam (R.V) and (P) Keela theru
+6.Annimangalam (R.V) and (P) Mela theru",All Voters
+239,149,239,"Panchayat Union Elementary School, Aranmanaikurichi, North South Terraced Building, Facing East, North Portion","1.Annimangalam (R.V) and (P) Aranmanaikurichi manakadu 2.Annimangalam (R.V) and (P) Aranmanaikurichi South colony 3.Annimangalam (R.V) and (P) South street
+4.Annimangalam (R.V) and (P) Nadu theru 5.Annimangalam (R.V) and (P) Indira nagar 6.Annimangalam (R.V) and (P) Mela theru 7.Annimangalam (R.V) and (P) North street 8.Annimangalam (R.V) and (P) Vallakulathu Medu",All Voters
+240,149,240,"Panchayat Union Elementary School, Mettutheru, North South Building, Facing East, South Portion",1.Kandirathitham (R.V) and (P) Annanagar 2.Kandirathitham (R.V) and (P) Indhira nagar 3.Kandirathitham (R.V) and (P) Kudi theru,All Voters
+241,149,241,"Govt, High School, Kandirathitham, North South SSA Building, Facing East, South Portion,",1.Kandirathitham (R.V) and (P) Kandirathitham Keela veethi,All Voters
+242,149,242,"Govt High School, Kandirathitham, North
+South SSA Building, Facing West, North Portion,",1.Kandirathitham (R.V) and (P) Kandirathitham Mela veethi 2.Kandirathitham (R.V) and (P) Kandirathitham South Street,All Voters
+243,149,243,"Govt, High School, Kandirathitham, North South SSA Building, Facing West,South Portion,",1.Kandirathitham (R.V) and (P) Periyarpuram 2.Kandirathitham (R.V) and (P) Pakkiyanatha puram 3.Kandirathitham (R.V) and (P) Ambethkar Nagar 4.Kandirathitham (R.V) and (P) Manalmadu theru,All Voters
+244,149,244,"Govt, Higher Secondary School, Elandakudam, North South Terraced Building, Facing East, South Portion,",1.Elandakudam (R.V) and (P) Elandakudam North Street,All Voters
+245,149,245,"Govt Higher Secondary School, Elandakudam, North South Terraced Building, Facing East, North Portion,",1.Elandakudam (R.V) and (p) Nallendra samy Street,All Voters
+246,149,246,"Govt, Higher Secondary School, Elandakudam, East West Terraced Building, Facing North, West Portion",1.Elandakudam (R.V) and (P) Rajaveethi 2.Elandakudam (R.V) and (P) South Street,All Voters
+247,149,247,"Panchayat Union Elementary School, Vaithiyanathapuram. East West Terraced Building, Facing South, East Portion",1.Elandakudam (R.V) and (P) Vaithiyanatha puram,All Voters
+248,149,248,"Govt, Adi-Dravidar Welfare Elementary School, Elandakudam, North South SSA Building, Facing West, North Portion",1.Elandakudam (R.V) and (P) Indhira Nagar,All Voters
+249,149,249,"Govt. Adi Dravidar Welfare Elementary School, Elandaikudam. North South Terraced SSA Building, Facing West. South Portion",1.Elandakudam (R.V) and (P) Elandakudam south street 2.Elandakudam (R.V) and (P) Kamaraja puram 3.Elandakudam (R.V) and (p) Annaveethi,All Voters
+250,149,250,"Govt High School, Kovil Esanai, North South Terraced SSA Building, Facing West, South Portion,",1.Kovilesanai (E) (R.V) and Kovileasanai (P) North street 2.Kovilesanai (E) (R.V) and Kovileasanai (P) Puthu street 3.Kovilesanai (E) (R.V) and Kovileasanai (P) Nadu theru 4.Kovilesanai (E) (R.V) and Kovileasanai (P) Kaliyammankovil theru 5.Kovilesanai (E) (R.V) and Kovileasanai (P) Mela theru,All Voters
+251,149,251,"Govt High School, Kovil Esanai, North South Terraced SSA Building, Facing West, North Portion,",1.Kovilesanai (E) (R.V) and Kovileasanai (P) South street 2.Kovilesanai (E) (R.V) and kovileasanai (P) Malaiyappan colony 3.Kovilesanai (E) (R.V) and Kovileasanai (P) Ponnagar 4.Kovilesanai (E) (R.V) and Kovileasanai (P) Puthucolonytheru 5.Kovilesanai (E) (R.V) and Kovileasanai (P) Ayyanar theru,All Voters
+252,149,252,"Panchayat Union Middle School, Vilagam, North South Terraced Building, Facing East, South Portion,","1.Vilagam kovilesanai (W)(R.V) and Kovil Esanai (P) Pappathiyammal kovil street
+2.Vilagam kovilesanai (W)(R.V) and Kovil Esanai (P) South street ward4",All Voters
+253,149,253,"Panchayat Union Middle School, Vilagam, East West Terraced Building, Facing South, East Portion","1.Vilagam kovilesanai (W)(R.V) and Kovil Esanai (P) Keela theru
+2.Vilagam kovilesanai (W)(R.V) and Kovil Esanai (P) Mela theru
+3.Vilagam kovilesanai (W)(R.V) and Kovil Esanai (P) Matha kovil theru
+4.Vilagam kovilesanai (W)(R.V) and Kovil Esanai (P) Krishna Nagar
+5.Vilagam kovilesanai (W)(R.V) and Kovil Esanai (P) Santhiyagappar kovil street",All Voters
+254,149,254,"Panchayat Union Elementary School, Palinganathan, East West Terraced Building, Facing North,",1.Palinganatham (R.V) and (P) Anandavadi street 2.Palinganatham (R.V) and (P) Harijana street 3.Palinganatham (R.V) and (P) Santhiyapparkovil street 4.Palinganatham (R.V) and (P) Keela theru,All Voters
+255,149,255,"Panchayat Union Elementary School, Palinganathan, East West Tiled Building, Facing South,",1.Palinganatham (R.V) and (p) Nadu theru 2.Palinganatham (R.V) and (P) Mela theru 3.Palinganatham (R.V) and (P) North street 4.Palinganatham (R.V) and (P) Odai colony,All Voters
+256,149,256,"Govt, High School, Palinganatham, East West Terraced Building, Facing North, Middle Portion,",1.Palinganatham (R.V) and (P) Palinganatham south street 2.Palinganatham (R.V) and (P) AVK colony,All Voters
+257,149,257,"Anganwadi Centre, Palaniyandi Nagar, Palinganatham, East West Terraced Building, Facing South,",1.Palinganatham (R.V) and (P) Palaniyandi Nagar,All Voters
+258,149,258,"R.C. Ignatious Elementary School, Kulamanikam (W), North South Terraced Building, Facing West, North Portion,",1.Kulamanikam (w) (R.V) and kulamanikam (p) Ambethkar nagar 2.Kulamanikam (W) (R.V) and Kulamanikam (P) Aadaikalapuram 3.Kulamanikam (W) (R.V) and Kulamanikam (P) Arulappa servai 4.Kulamanikam (W) (R.V) and Kulamanikam (P) Main Veethi 5.Kulamanikam (W) (R.V) and Kulamanikam (P) Keela Venthan street,All Voters
+259,149,259,"R.C. Ignatious Elementary School, Kulamanikam (W), North South Terraced Building, Facing West, Middle Portion,",1.Kulamanikam (W) (R.V) and Kulamanikam (P) North street 2.Kulamanikam (W) (R.V) and Kulamanikam (P) Keela theru 3.Kulamanikam (W) (R.V) and Kulamanikam (P) Chithan theru 4.Kulamanikam (W) (R.V) and Kulamanikam (P) Melaventhan street 5.Kulamanikam (W) (R.V) and kulamanikam (p) Main road 6.Kulamanikam (W) (R.V) and Kulamanikam (P) Mela theru,All Voters
+260,149,260,"Panchayat Union Elemantary School, Sembiyankudi, East West Terraced Building, Facing North, West Portion,",1.Kulamanikam (W) (R.V) and Sembiyakudi (P) Main road 2.Kulamanikam (W) (R.V) and Sembiyakudi (P) Keelavethi 3.Kulamanikam (W) (R.V) and Sembiyakudi (P) North street 4.Kulamanikam (W) (R.V) and Sembiyakudi (P) South street 5.Kulamanikam (W) (R.V) and Sembiyakudi (P) Nadutheru,All Voters
+261,149,261,"Panchayat Union Elemantary School, Sembiyankudi, East West Terraced Building, Facing North, East Portion,",1.Kulamanikam (w) (R.V) and sembiyakudi (P) Savariyar kovil street 2.Kulamanikam (W) (R.V) and Sembiyakudi (P) North colony street 3.Kulamanikam (W) (R.V) and Sembiyakudi (P) Mela theru,All Voters
+262,149,262,"R.C.Mary Aided Elementary School, Pudukkottai, East West Terraced Building, Facing South, West Portion","1.Kulamanikam (E) (R.V) and Pudukkottai (P) Pakkiyanathapuram main road south
+2.Kulamanikam (E) (R.V) and pudukkottai (P) North street-mela theru 3.Kulamanikam (E) (R.V) and pudukkottai (P) Mela theru 4.Kulamanikam (E) (R.V) and Pudukkottai (P) North street",All Voters
+263,149,263,"R.C.Mary Aided Elementary School, Pudukkottai, East West Terraced Building, Facing South, Middle Portion,",1.Kulamanikam (E) (R.V) and Pudukkottai (P) Keela theru 2.Kulamanikam (E) (R.V) and pudukkottai (P) Nadu theru 3.Kulamanikam (E) (R.V) and Pudukkottai (P) South street 4.Kulamanikam (E) (R.V) and Pudukkottai (P) Pookkara street,All Voters
+264,149,264,"Panchayat Union Elemantary School, Thirumalapadi, North South Terraced Building, Facing East, South Portion",1.Thirumalapadi (R.V) and (P) Gandhi nagar 2.Thirumalapadi (R.V) and (P) Keela theru,All Voters
+265,149,265,"Panchayat Union Elemantary School, Thirumalapadi, North South Terraced Building, Facing West,",1.Thirumalapadi (R.V) and (P) Mariyamman kovil street 2.Thirumalapadi (R.V) and (P) South street 3.Thirumalapadi (R.V) and (P) Annanagar 4.Thirumalapadi (R.V) and (P) Muthaliyar street 5.Thirumalapadi (R.V) and (P) North street 6.Thirumalapadi (R.V) and (P) Nadu theru 7.Thirumalapadi (R.V) and (P) Market theru,All Voters
+266,149,266,"Govt High School, T, Cholankurichi, North South Terraced RCC Building, Facing East, Middle Portion,","1.T. Cholankurichi (N) (R.V) and T. Cholankurichi (P) East street
+2.T. Cholankurichi (N) (R.V) and T. Cholankurichi (P) Arisana Street",All Voters
+267,149,267,"Panchayat Union Elementary School, T, Cholankurichi, East West Terraced Building, Facing North, West Portion,","1.T. Cholankurichi (N) (R.V) and T. Cholankurichi (P) Middle street
+2.T. Cholankurichi (N) (R.V) and T. Cholankurichi (P) Thoppu Veli Street
+3.T. Cholankurichi (N) (R.V) and T. Cholankurichi (P) South Street
+4.T. Cholankurichi (N) (R.V) and T. Cholankurichi (P) New Street",All Voters
+268,149,268,"Adi-Dravidar Welfare Elementary School, T, Keelavezhi, North South Terraced Building, Facing West.",1.Thathanur (E) (R.V) and Thathanur (P) Kela Harijana Street,All Voters
+269,149,269,"Panchayat Union Elementary School, T, Kaikala Theru, East West Terraced Building, Facing East,",1.Thathanur (E) (R.V) and Thathanur (P) Thathanur kaikaalathur street,All Voters
+270,149,270,"Panchayat Union Elementary School, T, Keelavezhi, East West Terraced SSA Building, Facing North, West Portion,",1.Thathanur (E) (R.V) and Thathanur (P) North veli,All Voters
+271,149,271,"Panchayat Union Elementary School,T, Keelavezhi, Notrh south Terraced SSA Building Facing West",1.Thathanur (E) (R.V) and Thathanur (P) South Street,All Voters
+272,149,272,"Govt, Higher Secondary School, T, Keelavezhi, East West Terraced SSA Building, Facing North, West Portion,",1.Thathanur (E) (R.V) and Thathanur (P) Ariveli 2.Thathanur (E) (R.V) and Thathanur (P) Middleveli Street 3.Thathanur (E) (R.V) and Thathanur (P) Valaveeti Kuppam,All Voters
+273,149,273,"Panchayat Union Middle School, Kudikadu, North South Terraced Building, Facing West, North Portion",1.Thathanur (W) (R.V) and Thathanur (P) East Harijana colony,All Voters
+274,149,274,"Panchayat Union Middle School, Kudikadu, North South Terraced Building, Facing West, South Portion,",1.Thathanur (W) (R.V) and Thathanur (P) West Kudikadu,All Voters
+275,149,275,"Government Higher Secondary School, T, Pottakollai, North South Terraced Building, Facing West, South Portion,",1.Thathanur (W) (R.V) and Thathanur (P) Tha Pottakollai south,All Voters
+276,149,276,"Government Higher Secondary School, T, Pottakollai, North South Terraced Building, Facing East, South Portion,",1.Thathanur (W) (R.V) and Thathanur (P) Tha Pottakkolai North Harijana street,All Voters
+277,149,277,"Panchayat Union Elementary School, T, Pottakollai, East West Terraced Building, Facing South, West Portion,",1.Thathanur (W) (R.V) and Thathanur (P) Melur Thathanur,All Voters
+278,149,278,"Panchayat Union Middle School, Managethi, East West Terraced Building, Facing North,","1.Managethi (R.V) and (P) Managethi
+2.Managethi (R.V) and (P) Managethi Harijana Colony",All Voters
+279,149,279,"Panchayat Union Elementary School, Athichanur, North South Terraced Building, Facing East,",1.Managethi (R.V) and Athichanur (P) Athichanur 2.Managethi (R.V) and Athichanur (P) Athichanur Colony,All Voters
+280,149,280,"Panchayat Union Middle School, Nachiyarpettai, North South Terraced Building, Facing East, North Portion,",1.Managethi (R.V) and Athichanur (P) Nachiyar Pettai 2.Managethi (R.V) and Athichanur (P) Nachiyar Pettai Colony,All Voters
+281,149,281,"Panchayat Union Elementary School, Venmankondan, East West Terraced SSA Building, Facing South, West Portion,","1.Venman kondan (W) (R.V) and Venman kondan (P) Harijana colony
+2.Venman kondan (W) (R.V) and Venman kondan (P) Moddriyan kottai",All Voters
+282,149,282,"Panchayat Union Elementary School, Venmankondan, East West Terraced SSA Building, Facing South, East Portion,","1.Venman kondan (W) (R.V) and Venman kondan (P) Vada kadal Harijana colony
+2.Venman kondan (W) (R.V) and Venman kondan (P) Marriyamman koil street",All Voters
+283,149,283,"Panchayat Union Elementary School, Venmankondan, North South Terraced SSA Building, Facing East, North Portion,",1.Venman kondan (W) (R.V) and Venman kondan (P) Kottakadu Nachiyar koil street,All Voters
+284,149,284,"Panchayat Union Elementary School, Venmankondan, East West Terraced Building, Facing North,","1.Venman kondan (W) (R.V) and Venman kondan(p) Attukaran street
+2.Venman kondan (W) (R.V) and Venman kondan(p) Venman kondan",All Voters
+285,149,285,"Panchayat Union Elementary School, Alisikudi, East West Terraced Building, Facing South, West Portion","1.Parukkal (W) and Parukkal (P) South street
+2.Parukkal (W) and Parukkal (P) Middle Street Ward1
+3.Parukkal (W) and Parukkal (P) West Street Ward1
+4.Parukkal (W) and Parukkal (P) Anna Nagar
+5.Parukkal (W) and Parukkal (P) North Street",All Voters
+286,149,286,"Panchayat Union Elementary School, Karaikattankurichi, East West Tiled Building, Facing South, West Portion",1.Parukkal (W) and Parukkal (P) KaraiKattaan kurichi,All Voters
+287,149,287,"Panchayat Union Elementary School, Parukkal, East West Terraced Building,Facing North, East Portion,","1.Parukkal (W) and Parukkal (P) East Street
+2.Parukkal (W) and Parukkal (P) Harijana Colony
+3.Parukkal (W) and Parukkal (P) Vathiyar Kudikkadu",All Voters
+288,149,288,"Panchayat Union Elementary School, Parukkal, East West Terraced SSA Building, Facing South, West Portion","1.Parukkal (W) and Parukkal (P) South street
+2.Parukkal (W) and Parukkal (P) North Street",All Voters
+289,149,289,"Chandra Aided Elementary School, Karkudi, East West Terraced Building, Facing South, East Portion,",1.Naduvalur (E) (R.V) and Karkudi (P) Karkudi,All Voters
+290,149,290,"Panchayat Union Elementary School, Poovanthikollai. East west Tiled building facing North",1.Naduvalur (E) (R.V) and Karkudi (P) Poovanthikollai Palayakarai,All Voters
+291,149,291,"Bharatha Matha R, C, High School, Naduvalur, East West Tiled Building, Facing North, Middle Portion,",1.Naduvalur (W) (R.V) and Naduvalur (P) East street 2.Naduvalur (W) (R.V) and Naduvalur (P) North Streeet 3.Naduvalur (W) (R.V) and Naduvalur (P) Kamitee Street 4.Naduvalur (W) (R.V) and Naduvalur (P) South Street,All Voters
+292,149,292,"Bharatha Matha R, C, High School, Naduvalur, North South Terraced Building, Facing East,",1.Naduvalur (W) (R.V) and Naduvalur (P) Mariyamman Koil Street 2.Naduvalur (W) (R.V) and Naduvalur (P) Pillayar Koil Street 3.Naduvalur (W) (R.V) and Naduvalur (P) Naduvalur South Kodi Street 4.Naduvalur (W) (R.V) and Naduvalur (P) Nayakkar Street 5.Naduvalur (W) (R.V) and Naduvalur (P) Erular Kakkapalayam,All Voters
+293,149,293,"Govt, Higher Secondary School, Suthamalli, East West Terraced Building, Facing North, East Portion,","1.Suthamalli (R.V) and (P) Suthamalli north street 2.Suthamalli (R.V) and (P) Cheetti Street
+3.Suthamalli (R.V) and (P) Gurunathan Ozhunkai Street
+4.Suthamalli (R.V) and (P) Perumalkoil Street Kondi Street Ozhunkai Street.",All Voters
+294,149,294,"Govt, Higher Secondary School, Suthamalli, East West Terraced Building, Facing North, West Portion,",1.Suthamalli (R.V) and (P) Anderi street 2.Suthamalli (R.V) and (P) Middle Street,All Voters
+295,149,295,"Govt, Higher Secondary School, Suthamalli, East West Terraced Building, Facing North, East Portion,","1.Suthamalli (R.V) and (P) South Street
+2.Suthamalli (R.V) and (P) Middle Street Amman Street Mettu Street 3.Suthamalli (R.V) and (P) Suthamalli",All Voters
+296,149,296,"Panchayat Union Elementary School, Suthamalli, East West Terraced Building, Facing North west portion",1.Suthamalli (R.V) and (P) Alapallam,All Voters
+297,149,297,"Panchayat Union Elementary School, Puliyankuzhi. East West New Terraced Building Facing South",1.Suthamalli (R.V) and (P) Puliyankuzhi,All Voters
+298,149,298,"Panchayat Union Elementary School, Anikurichi, East West Terraced Building, Facing North, West Portion","1.Venman kondan (E) (R.V) and Anikurichi (P) Anikurichi
+2.Venman kondan (E) (R.V) and Anikurichi (P) Nariyankurichi Chinna valamperiyan Street",All Voters
+299,149,299,"Panchayat Union Middle School, Koraikuzhi, North South Terraced Building, Facing East, South Portion",1.Venman kondan (E) (R.V) and Anikurichi (P) KoraiKuzhi,All Voters
+300,149,300,"Panchayat Union Elementary School, Ulliyakudi, North South Terraced Building, Facing East,",1.Ulliyakudi (R.V) and (P) Kankeyan street 2.Ulliyakudi (R.V) and (P) Periyar Nagar 3.Ulliyakudi (R.V) and (P) Anna Nagar 4.Ulliyakudi (R.V) and (P) Colony Street,All Voters
+301,149,301,"Panchayat Union Elementary School, Kolaiyanur, North South Terraced Building, Facing East,",1.Ulliyakudi (R.V) and (P) Kolaiyanur Colony street 2.Ulliyakudi (R.V) and (P) Kolaiyanur Kudi Street,All Voters
+302,149,302,"Jayam Nursury & Primary School, Sundaresapuram, North South Terraced Building, Facing West, South Portion",1.Ulliyakudi (R.V) and (P) Sundaresa puram street,All Voters
+303,149,303,"Panchayat Union Elementary School, Nathaveli, North South Terraced Building, Facing East, South Portion",1.Ulliyakudi (R.V) and (P) Natthapadi Thukkapadi Street,All Voters
+304,149,304,"Panchayat Union Elementary School, Vikkiramangalam, East West Tiled Building, Facing South, West Portion,","1.Ambapur (R.V) and (P) Colony street
+2.Ambapur (R.V) and (P) Erular Street
+3.Ambapur (R.V) and (P) Main Road
+4.Ambapur (R.V) and (P) North street
+5.Ambapur (R.V) and (P) Kotta street
+6.Ambapur (R.V) and (P) Ambapur",All Voters
+305,149,305,"Panchayat Union Elementary School, Vikkiramangalam, East West Terraced Building, Facing North, East Portion,","1.Ambapur (R.V) and (p) Vikkiramangalam north street
+2.Ambapur (R.V) and (P) Vikkiramangalam MiddleStreet
+3.Ambapur (R.V) and (P) Vikkiramangalam Perumal koil Street
+4.Ambapur (R.V) and (P) Vikkiramangalam West Street
+5.Ambapur (R.V) and (P) Vikkiramangalam South Street
+6.Ambapur (R.V) and (p) Vikkiramangalam main road
+7.Ambapur (R.V) and (P) Vikkiramangalam East Street Colony
+8.Ambapur (R.V) and (P) Therobathi amman Street
+9.Ambapur (R.V) and (P) East Street
+10.Ambapur (R.V) and (P) North Street",All Voters
+306,149,306,"Panchayat Union Elementary School, Vikkiramangalam, East West Terraced Building, Facing North,","1.Ambapur (R.V) and (P) Keelanatham
+2.Ambapur (R.V) and (P) Keelanatham Old Colony Street
+3.Ambapur (R.V) and (P) Keelanatham Colony Street
+4.Ambapur (R.V) and (P) Malavarayan Mallur",All Voters
+307,149,307,"Panchayat Union Elementary School, Udaiyavartheeyanur, East West Tiled Building, Facing South, West Portion,",1.Udayavar Theeyanur (R.V) and Ambapur (P) Udayavar Theeyanur street,All Voters
+308,149,308,"Panchayat Union Elementary School, Perumaltheeyanur, East West Terreced Building, Facing South, West Portion,",1.Udaiyavar Theeyanur (R.V) and Ambapur (P) Senkuzhi keni street 2.Udaiyavar Theeyanur (R.V) and Ambapur (P) Senkuzhi MalaiMettu Street 3.Udaiyavar Theeyanur (R.V) and Ambapur (P) Perumal Theeyanur Colony Street,All Voters
+309,149,309,"Panchayat Union Elementary School, Ambalavarkattalai, East West Terreced Building, Facing South,",1.Udaiyavar Theeyanur and Ambalavarkattali (P) Perumal theeyanur 2.Udaiyavar Theeyanur and Ambalavarkattali (P) Harijana Colony 3.Udaiyavar Theeyanur and Ambalavarkattali (P) Main Road 4.Udaiyavar Theeyanur and Ambalavarkattali (P) Indira nagar 5.Udaiyavar Theeyanur and Ambalavarkattali (P) North Street 6.Udaiyavar Theeyanur and Ambalavarkattali (P) West Street,All Voters
+310,149,310,"Panchayat Union Elementary School, Keelanatham, North South Terraced Building, Facing East,",1.Keelanattham (R.V) and (P) North street 2.Keelanatham (R.V) and (P) East Street 3.Keelanatham (R.V) and (P) Main Road 4.Keelanatham (R.V) and (P) South Street 5.Keelanatham (R.V) and (p) West street 6.Keelanatham (R.V) and (P) Middle Street,All Voters
+311,149,311,"Panchayat Union Elementary School, Alavay, North South Tiled Building, Facing West,","1.Keelanatham (R.V) and (P) Salai keramam mariyamman koil street 2.Keelanatham (R.V) and (P) Salai Keramam West Street 3.Keelanatham (R.V) and (P) Alavay North Street
+4.Keelanatham (R.V) and (P) Alavay Mariyamman Koil Street 5.Keelanatham (R.V) and (P) Alavay East street 6.Keelanatham (R.V) and (P) Alavay Main Road 7.Keelanatham (R.V) and (P) Alavay West Street",All Voters
+312,149,312,"Panchayat Union Middle School, Kadambur, North South Tiled Building, Facing East, North Portion,","1.Kadampur (R.V) and (P) East street
+2.Kadampur (R.V) and (P) South Street
+3.Kadampur (R.V) and (P) West Street
+4.Kadampur (R.V) and (P) Kovil Seemai",All Voters
+313,149,313,"Panchayat Union Middle School, Kadambur, North South Tiled Building, Facing East, South Portion,","1.Kadampur (R.V) and (P) North Street Ward1
+2.Kadampur (R.V) and (P) Harijana Colony Street
+3.Kadampur (R.V) and (P) Mazhavaraya nallur",All Voters
+314,149,314,"Panchayat Union Elementary School, Kunamangalam, East West Terraced SSA Building, Facing South, West Portion,","1.Kadampur (R.V) and Kunamangalam (P) Sivankovil street
+2.Kadampur (R.V) and Kunamangalam (P) Middle Street
+3.Kadampur (R.V) and Kunamangalam (P) South Street",All Voters
+315,149,315,"Panchayat Union Elementary School, Kunamangalam, East West Terraced SSA Building, Facing South, East Portion,","1.Kadampur (R.V) and Kunamangalam (P) North Street
+2.Kadampur (R.V) and Kunamangalam (P) Kaliyamman kovil Street
+3.Kadampur (R.V) and Kunamangalam (P) Harijana Colony Street
+4.Kadampur (R.V) and Kunamangalam (P) East Street",All Voters
+316,149,316,"Panchayat Union Elementary School, Sathampadi, North South Terraced SSA Building, Facing East, South Portion,",1.Sathampadi (R.V) and (P) Sathampadi North South Street,All Voters
+317,149,317,"Panchayat Union Elementary School, Sathampadi, North South Terraced SSA Building, Facing East, Middle Portion,",1.Sathampadi (R.V) and (P) Sathampadi Middle Street 2.Sathampadi (R.V) And (P) Sathampadi Middle Street New Street,All Voters
+318,149,318,"Panchayat Union Middle School, Muthuvancheri, East West Terraced Building, Facing North, West Portion,",1.Sathampadi (R.V) and (P) Muthuvancheri North street,All Voters
+319,149,319,"Panchayat Union Middle School, Muthuvancheri, East West Terraced Building, Facing North, MIddle Portion,",1.Sathampadi (R.V) and (P) Muthuvancheri North street,All Voters
+320,149,320,"Panchayat Union Middle School, Muthuvancheri, East West Terraced Building, Facing North,","1.Sathampadi (R.V) and (a) Kunjuveli
+2.Sathampadi (R.V) and (P) Muthuvan cheri South Street",All Voters
+321,149,321,"Panchayat Union Middle School, Kasankotai, East West Terraced Building, Facing South, West Portion,(New Building)",1.Govindhaputhur (R.V) and Kasankotai (P) North street 2.Govindhaputhur (R.V) and Kasankotai (P) East Street 3.Govindhaputhur (R.V) and Kasankotai (P) West Street,All Voters
+322,149,322,"Panchayat Union Middle School, Kasankotai, East West Terraced Building, Facing South, East Portion,(New Building)",1.Govindhaputhur (R.V) and Kasankotai (P) South Street 2.Govindhaputhur (R.V) and Kasankotai (P) Erular Street 3.Govindhaputhur (R.V) and Kasankotai (P) North Harijana Street 4.Govindhaputhur (R.V) and Kasankotai (P) South Harijana Street,All Voters
+323,149,323,"Panchayat Union Middle School, Govindhaputhur, East West Terraced SSA Building, Facing North, West Portion,",1.Govindhaputhur (R.V) and (P) Kumana thurai street 2.Govindhaputhur (R.V) and (P) Edath Street 3.Govindhaputhur (R.V) and (P) West Street,All Voters
+324,149,324,"Panchayat Union Middle School, Govindhaputhur, East West Terraced SSA Building, Facing North, East Portion,",1.Govindaputhur (R.V) and (p) South Street 2.Govindaputhur (R.V) and (p) Middle Street,All Voters
+325,149,325,"Panchayat Union Middle School, Govindhaputhur, East West Terraced SSA Building, Facing North, West Portion,",1.Govindaputhur (R.V) and (p) Harijana street 2.Govindaputhur (R.V) and (p) East Street,All Voters
+326,149,326,"Govt. Higher Secondary school. Sripuranthan. North South Terraced Building, Facing West. South Portion",1.Sripurathan (N) (R.V) and sripurathan (P) Puthupalayam 2.Sripurathan (N) (R.V) and Sripurathan (P) Main Road 3.Sripurathan (N) (R.V) and Sripurathan (P) Harijana Colony,All Voters
+327,149,327,"Govt. Higher Secondary school. Sripuranthan. North South Terraced Building, Facing East, South Portion.",1.Sripurathan (N) (R.V) and Sripurathan (P) West street 2.Sripurathan (N) (R.V) and Sripurathan (P) New Street 3.Sripurathan (N) (R.V) and Sripurathan (P) Middle Street 4.Sripurathan (N) (R.V) and Sripurathan (P) Kalladi Street,All Voters
+328,149,328,"Govt. Higher Secondary school. Sripuranthan. North South Terraced Building, Facing East, North Portion.",1.Sripurathan (N) (R.V) and Sripurathan (P) OttaKovil Street 2.Sripurathan (N) (R.V) and Sripurathan (P) Padukala Street 3.Sripurathan (N) (R.V) and Sripurathan (P) Pavani Kuttai Street 4.Sripurathan (N) (R.V) and Sripurathan (P) Hrijana Street,All Voters
+329,149,329,"Panchayat Union Middle School, Arankotai. East West Terraced Building, Facing North, West Portion.","1.Sripurathan (S) (R.V) and Sripurathan (P) Arankotai Harijana street 2.Sripurathan (S) (R.V) and Sripurathan (P) Arankottai Harijana Mariyamman Kovil Street
+3.Sripurathan (S) (R.V) and Sripurathan (P) Arankottai North Street",All Voters
+330,149,330,"Panchayat Union Middle School, Arankotai. East West Terraced Building, Facing North, East Portion.",1.Sripurathan (S) (R.V) and Sripurathan (P) Arankotai Madathu Street 2.Sripurathan (S) (R.V) and Sripurathan (P) Arankotai Harijana West Street 3.Sripurathan (S) (R.V) and Sripurathan (P) Anaikudi,All Voters

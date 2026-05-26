@@ -1,0 +1,794 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+1,205,1,"Kamak  Hr.  Sec. School, K.  Daniel O. Belia
+New  East  Building, Facing  West, Krishnaperi.","1.Krishnapery(R.V.),  Krishnapery  (P)   Ward  1 Keelaniraymathi  ,
+2.Krishnapery(R.V.),  Krishnapery  (P) Ward  2 Krishnapery  ,
+3.Thatchakudi  (R.V.),  Niraimathi  (P) Ward  1 Niraymathi",All  Voters
+2,205,2,"Hindu  Primary  School, Facing North,  Naduvapatti","1.Enjar(R.V.),  Naduvapatti  (P)   Ward  1 Naduvapatti  ,
+2.Enjar(R.V.),  Naduvapatti  (P) Ward  4
+Naduvapatti  ,  Alagapuri",All  Voters
+3,205,3,"Hindu  Primary  School, Facing  South, New  Building, Naduvapatti","1.Enjar(R.V),  Naduvapatti  (P)   Ward  2 Naduvapatti  ,
+2.Enjar(R.V),  Naduvapatti  (P) Ward  3  Naduvapatti",All  Voters
+4,205,4,"Panchayat  Union  Primary School,Enjar","1.Enjar  (R.V.),  Enjar  (P) -  Ward  1  Enjar  ,
+2.Enjar  (R.V.),  Enjar  (P) -  Ward  2  Enjar, Agragaram
+3.Enjar  (R.V.),  Enjar  (P) -  Ward  3  Enjar",All  Voters
+5,205,5,"Panchayat  Union  Primary  School, New  Building, Facing  North,  East Portion,  Poovanathapuram.","1.Enjar  (R.V.),  Enjar  (P) Ward  1 Poovanathapuram
+2.Enjar  (R.V.),  Enjar  (P) Ward  2 Poovanathapuram
+3.Enjar  (R.V.),  Enjar  (P) Ward  3 Poovanathapuram",All  Voters
+6,205,6,Hindu  Primary  School  Saminatham,"1.Enjar(R.V.) ,  Saminatham(P)   Ward  1 Saminatham  meloor
+2.Enjar(R.V.) ,  Saminatham(P) Ward  2
+Saminatham  Keelur",All  Voters
+7,205,7,"Panchayat  Union  Primary  School
+,New  Building, West  Portion,  facing North,  S.Pudhupatti","1.  Enjar(R.V.) ,  Saminatham(P) 2.Ward  4 S.Pudhupatti
+3.Ward  3  S.  Pudhupatti",All  Voters
+7,205,7  A,"Panchayat  Union  Primary  School  , Library  Building, facing  west, S.Pudhupatti","1.  Enjar(R.V.) ,  Saminatham(P) 2.Ward  4 S.Pudhupatti
+3.Ward  3  S.  Pudhupatti",All  Voters
+8,205,8,"Panchayat  Union  Primary School,New  Building, East Portion,facing  North,  S.Pudhupatti","1.  Enjar(R.V.) ,  Saminatham(P) Arunachalapuram
+2.  Enjar(R.V.) ,  Saminatham(P)
+Mannukkumeendanpatti",All  Voters
+9,205,9,"Panchayat  Union  Middle  School, West  Portion,   facing  south  ,  North New  Building, Vadapatti","1.Vadapatti  (R.V),  Vadapatti(P) -  Keelur",All  Voters
+10,205,10,"Panchayat  Union  Middle  School, North  new  Building, East  Portion, South  facing,  Vadapatti","1.Vadapatti(R.V.),  Vadapatti  (P) Ward  3 Nagalapuram  2.Vadapatti(R.V.),  Vadapatti  (P) Ward  2  Puthur  ,
+3.Vadapatti(R.V.),  Vadapatti  (P) Ward  4
+Nagalapuram",All  Voters
+11,205,11,"Panchayat  Union  Middle  School, East  Building, 1st  room  from  South, Facing  West,  Vadapatti.","1.Vadapatti  (R.V),  Vadapatti(P) -  Mallur 2.Vadapatti(R.V.),  Vadapatti  (P) Mellur  -Part No.9-(Door.No.107  /  NA to  821B /NA)",All  Voters
+12,205,12,"Panchayat  Union  Pry.  School, New  Building,,
+West  Portion,  Namashkarithanpatti","1.Namashkarithanpatti(R.V.) Namashkarithanpatti  (P)
+Ward  1  Namashkarithanpatti  Melur 2.Namashkarithanpatti(R.V.) Namashkarithanpatti  (P)
+Ward  1  Namashkarithan-patti  Keelur 3.Namashkarithanpatti(R.V.) Namashkarithanpatti  (P)
+Ward  2  Namashkarithan-patti  Naduvur 4.Namashkarithanpatti(R.V.)Namashkarithanpat ti  (P)
+Ward  3  Namashkarithanpatti  Vadakkur",All  Voters
+13,205,13,"Panchayat  Union  Pry.  School, North  Building, 1st  room  from West,  Facing  South, Kattachinnampatti.",1.Namashkarithanpatti(R.V.) Kattachinnampatti(P) Ward  1&2&3 Kattachinnampatti,All  Voters
+14,205,14,"Panchayat  Union  Primary  School, North  Building,
+1st  Room  from  West,
+Facing  South,  Koppayanaickenpatti.",1.Vendurayapuram  (R.V) Vendurayapuram  (P) Ward  1  Vendurayapuram,All  Voters
+15,205,15,"Panchayat  Union  Primary  School, South  Building,
+1st  Room  from  west
+Facing  North,  Koppayanaickenpatti.","1.Vendurayapuram  (R.V) Vendurayapuram  (P) Ward  2  Koppayanaickenpatti  , 2.Vendurayapuram  (R.V) Vendurayapuram  (P) Ward  2  Malaiurani  patti",All  Voters
+16,205,16,"Panchayat  Union  Middle  School, NorthEastSide  Old  building, West Portion,  Facing  South M.Duraisamypuram.","1.M.Duraisamypuram  (RV) M.  Duraisamypuram
+(P) Ward  1  M.  Duraisamypuram  North  st",All  Voters
+17,205,17,"Panchayat  Union  Middle  School, North  Side  building, Facing  South, M.Duraisamypuram.","1.M.Duraisamypuram  (R.V)M.  Duraisamypuram
+(P) Ward  2  Yadavar  Street  , 2.M.Duraisamypuram  (R.V)M.  Duraisamypuram
+(P) Ward  2  east  street  ,
+3.M.Duraisamypuram  (R.V)M.  Duraisamypuram
+(P) Ward  4  Arundadhiyar  St.,",All  Voters
+18,205,18,"Panchayat  Union  Middle  School, West  Building,
+M.  Duraisamypuram.","1.M.  Duraisamypuram  (RV),  Mamsampuram  (P) Ward  4  AmmaPatti
+2.M.  Duraisamypuram  (RV),  Mamsampuram  (P) Ward  4  Idayankulam
+3.M.  Duraisamypuram  (RV),  Mamsampuram  (P) Ward  3  Idayankulam",All  Voters
+19,205,19,"Government  High  School, East Portion,  10th  Std  Room, Mamsapuram","1.M.  Duraisamypuram  (RV) Kansapuram  (P) Ward  1  Kansapuram
+2.M.  Duraisamypuram  (RV) Kansapuram  (P) Ward  2  Rengasamuthirampatti  ,
+3.M.  Duraisamypuram  (RV) Kansapuram  (P) Ward  3  Poosaripatti",All  Voters
+20,205,20,"Kammavar  Hindu  Primary  School, New  Building, Mamsapuram","1.M.  Duraisamypuram  (RV),  Mamsampuram  (P) Ward  1  Paraipatti  ,
+2.M.  Duraisamypuram  (RV),  Mamsampuram  (P) Ward  2  Mamsampuram  ,
+3.M.  Duraisamypuram  (RV),  Mamsampuram  (P) Ward  3  Arundathiyar  Kudieruppu  Mamsapuram
+4.M.  Duraisamypuram  (RV),  Kansapuram  (P) Ward  2  Rengasamuthirampatti  Part  No.17-(Door.No.63  /  53  to  1121  /  117)",All  Voters
+21,205,21,"Thiru.  R. Ponnusamy  Naidu Memorial  Hindu  Middle  School
+,North  Portion,  Kakkivadanpatti.","1.M.  Duraisamypuram  (RV),  Kakkivadampatti  (p) Ward  2  south  street",All  Voters
+22,205,22,"Thiru.  R. Ponnusamy  Naidu Memorial  Hindu  Middle  School
+,South  Portion,  Kakkivadanpatti","1.  M.  Duraisamypuram  (RV),  Kakkivadampatti (p)
+Ward  1  Kakkivadampatti  ,
+2.M.  Duraisamypuram  (RV),  Kakkivadampatti  (p) Ward  4  Killiyampatti",All  Voters
+23,205,23,"Adidravidar  Welfare  Primary  School, Additional New  Building, Maniyampatti","1.Maraneri  (RV),  Orampatti  (p)
+Ward  1  Maniyampatti  Ammapatti  East  street  ,",All  Voters
+24,205,24,"Panchayat  Union  Middle  School, North  Portion,  Facing  South, Oorampatti.","1.Maraneri  (RV),  Orampatti  (p)  Ward  2  Orampatti",All  Voters
+25,205,25,"Panchayat  Union  Middle  School, Facing  North,   Oorampatti","1.  Maraneri  (RV),  Orampatti  (P)
+Ward  2  East  Street  West  street  Barma  Colony  ,
+2.  Maraneri  (RV),  Orampatti  (P) Ward  3  New Colony  North  &  South  Street,  Chinnapottalpatti
+3.  Maraneri  (RV),  Orampatti  (P) Ward  3  Old Colony  south  street  &  New  Colony Subramaniyapuram",All  Voters
+26,205,26,"A.V.M.Marimuthu  Nadar Hr.Sec.School, North  Portion,  2nd Room  from  West,  Facing  South, Vilampatti.","1.  Maraneri  (RV),  Villampatti  (P) Ward  2  North Street  Asari  street  Chettimar  Street,
+2.  Maraneri  (RV),  Villampatti  (P) Ward  2  South Street",All  Voters
+27,205,27,"A.V.M.Marimuthu  Nadar Hr.Sec.School, South  Portion,  1st Room  from  East,  Vilampatti.","1.  Maraneri  (RV),  Villampatti  (P) Ward  4 Kamarajar  Colony",All  Voters
+28,205,28,"A.V.M.Marimuthu  Nadar Hr.Sec.School, North  Portion,  4th Room  from  West,  Facing  South, Vilampatti.","1.  Maraneri  (RV),  Villampatti  (P)
+Ward  1  Amman  kovil Street  Main  Road
+2.  Maraneri  (RV),  Villampatti  (P)
+Ward  3  South  Street  Teachers  Colony",All  Voters
+29,205,29,"Panchayat  Union  Primary  School, South  Building, 2nd  room  west, Facing  North,  Maraneri.","1.Maraneri  (RV),  Maraneri  (P) Ward  1  North  Street  ,",All  Voters
+30,205,30,"Panchayat  Union  Primary  School, North  East  Building, 2nd  room North,  Facing  East,  Maraneri.","1.Maraneri  (RV),  Maraneri  (P) Ward  2  Middle  Street  ,
+2.Maraneri  (RV),  Maraneri  (P) Ward  3  South
+street",All  Voters
+31,205,31,"Panchayat  Union  Primary  School, Facing  North,  Kitchanaickenpatti.","1.Maraneri  (RV),  Kichanaickenpatti  (p) Ward  1  soornaickenpatti  sigampatti  ,
+2.Maraneri  (RV),  Kichanaickenpatti  (p)  Ward  1 Soornaickenpatti  Kichanaickenpatti",All  Voters
+32,205,32,"Integrated  Child  Development Scheme  Center,  Facing  East, Kitchanaickenpatti.","1.Maraneri  (RV),  Kichanaickenpatti  (P)
+Ward  2  Kichanaickenpatti- Board  Rediyapatti",All  Voters
+33,205,33,"A.V.M.M.  Edison  Primary School,North  Side  Building, 4th room  form  East,  Vilampatti","1.Maraneri  (R.V),  Maraneri  (P) Ward  2  Poolavurani  new  Street
+2.Maraneri  (R.V),  Maraneri  (P) Ward  2 Sannasipatti  (Door.No.2-386  to  2-491M and 396/-  to  489)",All  Voters
+34,205,34,"A.V.M.M.  Edison  Primary  School, North  side  main  building, Ground floor,  facing  south  3rd  room  from east,  Vilampatti","1.Maraneri  (R.V),  Maraneri  (P)
+Ward  2  Poolavurani  South  Street  -Poolavurani, Then  Colony",All  Voters
+35,205,35,"A.V.M.M.  Edison  Primary  School, North  side  main  building, Ground floor,  facing  south,  4th  Room  from west,  Vilampatti.","1.Maraneri  (R.V),Maraneri  (P)
+Ward  2  Poolavurani  South  Street  - KSA Rajadurai  Nagar,  Birundhavanam,  Balaji  Nagar, Pudhu  Colony",All  Voters
+35,205,35  A,A.V.M.M.  Edison  Primary  School North  side  main  building  Ground floor  facing  south  3rd  Room  from west  Vilampatti.,"1.Maraneri  (R.V),Maraneri  (P)
+Ward  2  Poolavurani  South  Street  - KSA Rajadurai  Nagar,  Birundhavanam,  Balaji  Nagar, Pudhu  Colony",All  Voters
+36,205,36,"Panchayat  Union  Primary  School, Periyapottalpatti","1.Anaiyur  (R.V),  Periyapottalpatti  (P) Ward  1  North  South  Street
+2.Anaiyur  (R.V),  Periyapottalpatti  (P) Ward  2 West  Street  ,
+3.Anaiyur  (R.V),  Periyapottalpatti  (P) Ward  3 East  Street",All  Voters
+37,205,37,"Adi  Dravidar  Welfare  School, West Building, A.  Thulukapatti.","1.Anaiyur  (R.V),  A.Thulukapatti  (P) Ward  1  East  street  &  North  street  ,
+2.Anaiyur  (R.V),  A.Thulukapatti  (P) Ward  2
+South  street  &  West  side",All  Voters
+38,205,38,"Panchayat  Union  Primary  School, 1st  Room  from  South,  Facing  East, Anaiyur","1.Anaiyur  (R.V),  Anaiyur  (p) Ward  3  Ayyampatti  ,
+2.Anaiyur  (R.V),  Anaiyur  (p)  Ward  4  Ayyampatti",All  Voters
+39,205,39,"Panchayat  Union  Primary  School, 3rd  Room  from  South,  Facing  East, Anaiyur","1.Anaiyur  (R.V),  Anaiyur  (P) Ward  2  Annaiyur  ,
+2.Anaiyur  (R.V),  Anaiyur  (P) Ward  3
+Ramachandarapuram",All  Voters
+40,205,40,"Panchayat  Union  Primary  School, East  Portion,  Kattalaipatti.","1.Anaiyur  (R.V),  Anaiyur  (p)
+Ward  2  kattalaipatti
+(Door  No.  1  to  132)",All  Voters
+41,205,41,"Panchayat  Union  Primary  School, West  Portion,  Kattalaipatti.","1.  Anaiyur  (R.V),  Anaiyur  (p)
+Ward  2  kattalaipatti
+(Door  No.  132  to  438)",All  Voters
+42,205,42,"Sivakasi  Panchayat  Union  S.G.R.Y Scheme  Work  Shed,  Facing  West, Kattalaipatti.","1.Anaiyur  (R.V),  Anaiyur  (P) Ward  2  Munees Nagar",All  Voters
+43,205,43,"C.M.S.Middle  School  North  Building, Facing  North,  2nd  Room  from  East, Satchiyapuram","1.Anaiyur  (R.V),  Anaiyur  (P)
+Ward  5  Reserveline, Arumugam  Colony  ,
+2.Anaiyur  (R.V),  Anaiyur  (P) Ward  5  Police Quarters",All  Voters
+44,205,44,"S.C.M.S.Girls Hr.Sec. School, Main Building, Ground  Floor,  South  Side Hall,  West  Portion,  Facing  North, Satchiyapuram.","1.  Anaiyur  (R.V),  Anaiyur  (P)
+Ward  1  VinayagarColony  2.Anaiyur  (R.V), Anaiyur  (P) Ward  1  Annamalaiyar  Colony  ,",All  Voters
+45,205,45,"S.C.M.S.  Girls Higher  Secondary School, Main  Building, Ground Floor,  Room  No.8,  North  west cornor  building, facing  south, Satchiyapuram.","1.Anaiyur  (R.V),  Anaiyur  (P)
+Ward1  Sivanantham  Nagar  2.Anaiyur  (R.V), Anaiyur  (P) Ward  1  Kamarajapuram  Colony",All  Voters
+46,205,46,"S.C.M.S.Girls Hr.Sec. School, Sundharajan  Hall  3rd  Room,  west Facing  South  Building, Satchiyapuram","1.Anaiyur  (R.V),  Anaiyur  (P)  Ward  1  kamarajapuram  Colony  ,
+2.Anaiyur  (R.V),  Anaiyur  (P) Ward  1  Arumugam
+Colony",All  Voters
+47,205,47,"S.C.M.S.Girls Hr.Sec. School, REG. S.G.Grube's  Block,  1st  Room  from west,  facing  South,  Satchiyapuram","1.Anaiyur  (R.V),  Anaiyur  (P)
+Ward  1,2  Sathchiyapuram  Main  Road  Asari Colony,
+2.Anaiyur  (R.V),  Anaiyur  (P) Ward  2  Housing
+Board",All  Voters
+48,205,48,"S.C.M.S.Girls Hr.Sec. School, REG. S.G.Grube's  Block,  2nd  Room  from west,  facing  South  East, Satchiyapuram.","1.Anaiyur  (R.V),  Anaiyur  (P),
+Ward  2  Asari  Colony  1st  Street,  2nd  Street,  3rd Street  &  6th  Street",All  Voters
+49,205,49,"S.C.M.S.  Girls Higher  Secondary School, REG.S.G. GRUBE'S  BLOCK,
+1st  Room  from  East,  facing  South East,
+Satchiyapuram.","1.Anaiyr  (R.V) Anaiyur  (P)
+Ward  2  Asari  Colony  4th  Street  &  5th  Street",All  Voters
+50,205,50,"P.U.Primary  School, North  Building, West  Portion,  Facing  South,  Reserve Line, Anaiyur","1.Anaiyur  (R.V),  Anaiyur  (p)
+Ward  4  Gopuram  Colony  Nehruji  Nagar",All  Voters
+51,205,51,"P.U  Primary  School, West  building, North  Portion,  Reserveline  Anaiyur","1.Anaiyur  (R.V),  Anaiyur  (P)
+Ward  8  Nehruji  Nagar  East  (Door.No.1/NA 485-P)
+2.Anaiyur  (R.V),  Anaiyur  (P) Ward  4  Industrial Colony",All  Voters
+52,205,52,"P.U  Primary  School  West  Portion, South  Building  Reserveline  Anaiyur","1.Anaiyur  (R.V),  Anaiyur  (P) Ward  8  Nehruji  Nagar  West
+(Door.No.486  to  6122  E)",All  Voters
+53,205,53,"P.U  Primary  School  West  building,
+South  Portion,  facing  east  , Reserveline  Anaiyur","1.Anaiyur  (R.V),  Anaiyur  (P) Ward  8  Indra  Nagar  (West)",All  Voters
+54,205,54,"P.U.  Primary  School  Southern Building, 1st  Room  from  East, Reserveline, Anaiyur","1.Anaiyur  (R.V) Anaiyur  (P) Ward  4
+Muthuramalingapuram  Colony  (Door  No.  B-18  to 1098)",All  Voters
+55,205,55,"P.U.  Primary  School  South  West Building, Facing  North,  1st  Room West,  Reserveline, Anaiyur",1.Anaiyur  (R.V) Anaiyur  (P) Ward  4 Muthuramalingapuram  Colony  (Door  No.  1099 to  4-8-1583),All  Voters
+56,205,56,"P.U.  Primary  School  Northern Building, East  Portion  Facing  South, Reserveline, Anaiyur","1.Anaiyur  (R.V),  Anaiyur  (P) Ward  5  Indra  nagar
+2.Anaiyur  (R.V),  Anaiyur  (P) Ward  5  Indira  Nagar
+-Muniyandi  Kovil St.,  Part  No.  52-(Door  No. 2080/-  to  5373/-  )",All  Voters
+57,205,57,"S.C.M.S.Girls Hr.Sec.School A.R.Sundarrajan  hall  main  building, facing  south  direction satchiyapuram","1.Anaiyur  (R.V),  Anaiyur  (P) Ward  5  Gopuram Colony  (Door.No.1  to  2345/NA)
+2.Anaiyur  (R.V),  Anaiyur  (P) Ward  5  Indira  Nagar
+-",All  Voters
+58,205,58,"Govt.  Hr.  Sec. School, South  Side Middle  Building, 1st  room  from West,  Facing  North,  Gandhi  Nagar, Anaiyur.","1.Anaiyur  (R.V),  Anaiyur  (P)
+Ward  9,  10  Anaiyur  Gandhi  Nagar,  A. Lakshmiyapuram",All  Voters
+59,205,59,"Govt.  Hr.Sec. School,
+New  2nd  Building  from  west,  Facing North,  1st  room  from  west,  Gandhi Nagar,  Anaiyur,  Sivakasi.","1.Anaiyur  (R.V),  Anaiyur  (P)
+Ward  1  Samathuvapuram  Celone  Colony",All  Voters
+60,205,60,"Govt.  Hr.Sec. School, South  side Middle  Building,
+1st  Room  from  East,  Gandhinagar, Anaiyur,  Sivakasi.","1.Anaiyur  (R.V),  Anaiyur  (P)
+Ward  3,  9  Anaiyur  Gandhi  Nagar  (Door  No.  A19 to  47/43)",All  Voters
+61,205,61,"Govt.  Hr.Sec.School, SSA Building, 1st  Room  from  North,  Facing  West, Gandhinagar,  Reserve  line,  Anaiyur","1.Anaiyur  (R.V),  Anaiyur  (P)
+Ward  3,  9  Annaiyur  Gandhi  Nagar  (Door  No. 49/49  to  371)",All  Voters
+62,205,62,"Govt.  Hr.  Sec. School,
+New  2nd  Building  from  west,  Facing North,  1st  Room  from  East,  Gandhi Nagar,  Anaiyur.  Sivakasi","1.Anaiyur  (R.V),  Anaiyur  (P) Ward  3  Celoncolony",All  Voters
+63,205,63,"P.U.  Primary  School, South  East Corner  Building, Facing  South,  1st Room  from  East  Side, Thiruthangal","1.Sivakasi  Corporation-  Ward  5  Siruvar  Poonga St.,
+2.Sivakasi  Corporation-  Ward  3  Sivakasi  -
+Virudhunagarroad  3.Sivakasi  Corporation-  Ward 4  Groupveetu  colony",All  Voters
+64,205,64,"P.U.  Primary  School, South  East Corner  Building, Facing  South,  2nd Room  from  West  Side, Thiruthangal","1.Sivakasi  Corporation
+Ward  4,  15  Alamarathupatti  road",All  Voters
+65,205,65,"Govt.  Girl's  Hr.Sec.School, North New  Block  Building,   1st  room  from west,  Facing  South  Thiruthangal.","1.Sivakasi  Corporation Ward  4  periyarcolony  ,
+2.Sivakasi  Corporation  Ward  5  Siruvarpoonga
+St.,",All  Voters
+66,205,66,"P.U.  Primary  School,
+Southwest  Corner  Building, 1st room  from  East,  Facing  South, Thiruthangal","1.Sivakasi  Corporation
+Ward  15  Alamarathupatty  road  ,
+2.Sivakasi  Corporation-  Ward  16  Pallapatti  road, Muthumariamman  colony",All  Voters
+67,205,67,"S.R.Govt  Hr.Sec.School, Computer  class Building, North
+Portion,  West  Facing, Thiruthangal.",1.Sivakasi  Corporation  Ward  5  Alamarathupatti Road,All  Voters
+68,205,68,"Govt.  Girl's. Hr.  Sec.School, Science  Block,(Old  Building) Eastern  Hall,  West  Facing, Thiruthangal.","1.Sivakasi  Corporation
+Ward  3  Subramaniyar  Kovil St  1tst  Sandhu
+2.Sivakasi  Corporation  Ward  5  subramaniyar koil street  2nd  sandhu  ,
+3.Sivakasi  Corporation  Ward  5  Subramaniyar koil street  3rd  sandhu  ,
+4.Sivakasi  Corporation  Ward  5  Subramaniyar koil street  4th  sandhu  ,
+5.Sivakasi  Corporation  Ward  5  Subramaniyar koil 5th  sandhu
+6.Sivakasi  Corporation  Ward  5  Subramaniyarn Kovil St  6th  Sandhu  7.Sivakasi  Corporation-Ward  6  Sivan  Sannathi  st.,",All  Voters
+69,205,69,"Govt.  Girls Hr.Sec. School, Science Block,  Old  Building, Middle  Hall,  1st room  from  West,  Facing  North, Thiruthangal.","1.Sivakasi  Corporation
+Ward  3  Annacolony  Northpart  ,
+2.Sivakasi  Corporation  Ward  3  Annacolony  West part  ,",All  Voters
+70,205,70,"S.R. Govt.Hr.Sec. School, North  East Middle  Building, 2nd  room  from North,  Facing  West,  Thiruthangal.","1.Sivakasi  Corporation
+Ward  3  School  Street  Alavoorani  Anna  Colony
+2.Sivakasi  Corporation  Ward  3  Anna  Colony East  Part",All  Voters
+71,205,71,"Lions Matirculation  Hr.  Sec. School
+,  Old  Building, West  Portion,  1st Room  form  West,  Facing  North,  (1st Std)  Thiruthangal","1.Sivakasi  Corporation
+Ward  17  Sivakasi  -Virudhunagar  road
+2.Sivakasi  Corporation  Ward  5  Pettai  street  ,
+3.Sivakasi  Corporation  Ward  17  Samathi  street",All  Voters
+72,205,72,"Lions Matirculation  Hr.  Sec. School, Old  Building, West  Portion,  2nd Room  form  West,  Facing  North, Thiruthangal","1.Sivakasi  Corporation
+Ward  17  Tharagan  Thotta  street  ,
+2.Sivakasi  Corporation  Ward  17  Rayilway Station  Road  ,
+3.Sivakasi  Corporation  Ward  16  Pallapatti  road",All  Voters
+73,205,73,"Lions Matriculation  School, New Building, South  Portion,  Meeting Hall,  Thiruthangal.",1.Sivakasi  Corporation Ward  23  Pallapatti  road,All  Voters
+74,205,74,"Lions Matriculation  School, Old Building, East  Portion,  LKG  A Section,  1st  Room  From  East, Thiruthangal.","1.Sivakasi  Corporation Ward  23  Pallapatti  road,
+2.Sivakasi  Corporation  Ward  17  Koodalinga nadar  lane,
+3.Sivakasi  Corporation  Ward  17  AthiNadar  Lane,
+4.Sivakasi  Corporation  Ward  17  Chinnappa Nadar  Lane,
+5.Sivakasi  Corporation  Ward  16  A.J.  Nagar",All  Voters
+75,205,75,"Lions Matric.  Hr.Sec. School, Old building,
+3rd  Room  from  west,  Facing  North, Thiruthangal","1.Sivakasi  Corporation
+Ward  23  pallapatti  road  (part) Thiruvalluvar  Colony  &  Paduvai  Nagar",All  Voters
+76,205,76,"Lions Matric.  Hr.Sec. School, Old building, 2nd  Room  from  East, Facing  North,  Thiruthangal","1.Sivakasi  Corporation
+Ward  24  pallapatti  road  (part),  Murugan  Colony, Kavitha  Nagar  &  Devaraj Colony",All  Voters
+77,205,77,"Lions Matric.  Hr.Sec. School, Old building, 3rd  Room  from  East Portion,  Facing  North,  Thiruthangal","1.Sivakasi  Corporation Ward  24  Murugan  colony  ,
+2.Sivakasi  Corporation  Ward  23  Thiruvalluvar
+colony",All  Voters
+78,205,78,"P.U  Primary  School,
+South  East  Corner  Building, 3rd  room  from  East,
+Facing  South,  Thiruthangal.","1.Sivakasi  Corporation
+Ward  23  Pallapatti  road  kakkan  colony
+2.Sivakasi  Corporation  Ward  23  Pallapatti  road  ,
+3.Sivakasi  Corporation  Ward  22  Sivakasi  - Virudhunagar  road
+4.Sivakasi  Corporation  Ward  17  Alagan  shandhu",All  Voters
+79,205,79,"S.R.Govt.  Girl's  Hr.Sec.School, New North  Block,  Ground  Floor,  2nd room  from  West,  Facing  South, Thiruthangal.","1.Sivakasi  Corporation-Ward  17  Gopal  street  ,
+2.Sivakasi  Corporation-  Ward  17  Chellaiah Santhu  ,
+3.Sivakasi  Corporation-  Ward  17  Minor  sandhu  ,
+4.Sivakasi  Corporation-  Ward  17  Kathan  sandhu
+,
+5.Sivakasi  Corporation-  Ward  22  Radhakrishnan colony
+6.Sivakasi  Corporation-  Ward  23  Murugan colony
+7.Sivakasi  Corporation-  Ward  7  vellaimaniar lane  ,
+8.Sivakasi  Corporation-Ward  7  Valaikinaru  st.,
+9.Sivakasi  Corporation-Ward  22  Radhakrishnan colony",All  Voters
+80,205,80,"Panchayat  Union  Primary  School, West  Protion,  West  Building, Sathya Nagar,  Thiruthangal.","1.Sivakasi  Corporation-  Ward  17  Ramu  shandhu
+2.Sivakasi  Corporation-  Ward  17  Chinnaian shandhu
+3.Sivakasi  Corporation-  Ward  17  Govindan shandu
+4.Sivakasi  Corporation-  Ward  17 Muthukaruppan  shandhu
+5.Sivakasi  Corporation-  Ward  17  Chinnappan shandhu
+6.Sivakasi  Corporation-  Ward  17  Pethanan sandhu
+7.Sivakasi  Corporation-Ward  17  Sivakasi-virudhunagar  rd,
+8.  Sivakasi  Corporation-Ward  17  Vaiyan  Veethi
+9.Sivakasi  Corporation-  Ward  17  Gopal  street 10.Sivakasi  Corporation-  Ward  17 Arunthathiyar  street
+11.Sivakasi  Corporation-  Ward  17  Koodalingam shandhu",All  Voters
+81,205,81,"Panchayat  Union  Primary  School, West  Building, East  Side, Sathya Nagar,  Thiruthangal","1.Sivakasi  Corporation
+Ward  18  satchiyapuram  road",All  Voters
+82,205,82,"Government  High  School, South Building, South  Portion,  facing west,  Sathya  Nagar,  Thiruthangal","1.Sivakasi  Corporation
+Ward  19  Karunanidhi  colony",All  Voters
+83,205,83,"Panchayat  Union  Primary  School, East  Building, West  Portion,  Sathya Nagar,  Thiruthangal.","1.Sivakasi  Corporation  Ward  18  Karunanidhi Colony  Mela  St.,",All  Voters
+84,205,84,"Government  High  School, West  Side Building, North  Portion,  Sathya Nagar,  Thiruthangal","1.Sivakasi  Corporation  -  Ward  19  Karunanidhi Colony  Keela  Part,  Double  Post  Part  St.,
+2.Sivakasi  Corporation-  Ward  18 N.R.Nathancolony",All  Voters
+85,205,85,"Government  High  School, West  Side Building, South  Portion,  Sathya Nagar,  Thiruthangal","1.Sivakasi  Corporation
+Ward  19  Karunanidhi  colony  middle  part, Muneeswaran  kovil St.,",All  Voters
+86,205,86,"Panchayat  Union  Primary  School, East  Side  Building, East Portion,Sathya  Nagar,  Thiruthangal","1.Sivakasi  Corporation Sathyanagar  ,",All  Voters
+87,205,87,"NCLP  Special  School  (Mahalir  Suya Uthavi  kuzhu  &  Training  Hall) Facing  West,  MGR  Nagar, Thiruthangal.","1.Sivakasi  Corporation
+Ward  21  (Kannaki  colony)  Thohuppu  Veetu colony",All  Voters
+88,205,88,"Community  Hall,  Facing  West,
+Kannaki  Colony,  Thiruthangal.",1.Sivakasi  Corporation  Ward  21  M.G.R. Colony,All  Voters
+89,205,89,"S.R.Govt  Hr.Sec. School,
+Bhind  Mariamman  Koil Compound wall,  3rd  room  from  East,  facing south,  Thiruthangal","1.Sivakasi  Corporation
+Ward  19  Satchiyapuram  road
+2.Sivakasi  Corporation  Ward  10,  19  Pandian nagar",All  Voters
+90,205,90,"S.R. Govt.  Higher  Secondary  School, Behind  Mariammankovil Compound Wall,  2nd  Room  from  East,  Facing South,  Thiruthangal.","1.Sivakasi  Corporation
+Ward  11  Pandian  Nagar  2nd  Street,
+2.Sivakasi  Corporation  Ward  12  Pandian  Nagar 2,3  Street,",All  Voters
+91,205,91,"S.R. Govt.  Higher  Secondary  School, Northeast  Middle  Building, 1st  room from  North,  facing  West, Thiruthangal","1.Sivakasi  Corporation
+Ward  11  Pandian  Nagar  3rd  Street
+2.Sivakasi  Corporation  Ward  12  Pandian  Nagar 1st  Street,
+3.Sivakasi  Corporation  Ward  12  Pandian  Nagar 1&3rd  Street
+4.Sivakasi  Corporation  Ward  12  Pandian  Nagar 4th  Steet,",All  Voters
+92,205,92,"Kalaimagal  Hr.Sec.School,
+1st  Room  South,  Facing  West, Thiruthangal",1.Sivakasi  Corporation Pandian  nagar  4th  street,All  Voters
+93,205,93,"Kalaimagal  Primary  School, Southwest  Building, 1st  Room  from West,  Facing  South,  Thiruthangal",1.Sivakasi  Corporation Pandian  nagar  3rd  street,All  Voters
+94,205,94,"Kalaimagal  Hr.Sec. School, Ground Floor,  Middle  Portion,  3rd  Room form  south,  Thiruthangal","1.Sivakasi  Corporation
+Ward  10  Pandian  nagar  4th  street
+2.Sivakasi  Corporation  Ward  10  Pandian  nagar 6th  street",All  Voters
+95,205,95,"Kalaimagal  HR.Sec. School, 4th Room  from  South,  Facing  West,
+Thiruthangal","1.Sivakasi  Corporation
+Ward  10  Pandian  nagar  5th  street",All  Voters
+96,205,96,"Kalaimagal  Hr.Sec. School, Ground Floor,  North  Building, 1st  Room From  East,  Facing  South, Thiruthangal","1.Sivakasi  Corporation
+Ward  9,  10  pandian  nagar  ,  2.Sivakasi Corporation  Ward  12  Palanisamy  nadar  veedhi  ,
+3.Sivakasi  Corporation  Ward  9  Indiranagar",All  Voters
+97,205,97,"Kalaimagal  Primary  School, 2nd Room  From  East,  Facing  South,
+Thiruthangal","1.Sivakasi  Corporation
+Ward  12  Palanisamy  Nadar  Veedhi",All  Voters
+98,205,98,"Kalaimagal  Primary  School, 3rd Room  from  East,  Facing  South, Thiruthangal","1.Sivakasi  Corporation
+Ward  9  Sengamalanatchiyarpuram  road
+2.Sivakasi  Corporation  Ward  12  Sengamala natchiyarpuram  road",All  Voters
+99,205,99,"Kalaimagal  Primary  School, West Portion,  5th  Room,  South  facing, Thiruthangal","1.Sivakasi  Corporation
+Ward  13  Nadar  Pillaiarkovil street  ,
+2.Sivakasi  Corporation  Ward  13  Sedan  Kinaru St.,  3.Sivakasi  Corporation  Ward  13 Arumugakalai  Nadar  Sandhu",All  Voters
+100,205,100,"Kalaimagal  Primary  School, North Building,
+1st  Room  from  west, Facing  South,  Thiruthangal","1.Sivakasi  Corporation
+Ward  13  Nadar  Nanadavana  street
+2.Sivakasi  Corporation  Ward  13  Arumugasamy nadar  sandhu
+3.Sivakasi  Corporation  Ward  13  Kani  Nadar Sandhu
+4.Sivakasi  Corporation  Ward  13  Subbu  nadar shandhu
+5.Sivakasi  Corporation  Ward  13  Singarpirai sandhu
+6.Sivakasi  Corporation  Ward  13  Nadar  Vadakku St",All  Voters
+101,205,101,"Kalaimagal  Primary  School,
+North  Building, Facing  South,  2nd Room  from  West,   Thiruthangal","1.  Sivakasi  Corporation-  Ward  13  kasinadar  lane
+2.Sivakasi  Corporation-  Ward  13  Muthunadar lane
+3.Sivakasi  Corporation-  Ward  13 Kumaravelnadar  lane
+4.Sivakasi  Corporation-  Ward  13  Vembakottai nadar  lane
+5.Sivakasi  Corporation-  Ward  13 Ayyamperumalnadar  lane
+6.Sivakasi  Corporation-Ward  13  Sivakasi-virudhunagar  rd,
+7.Sivakasi  Corporation-  Ward  13  Muniyandi Nadar  lane
+8.Sivakasi  Corporation-  Ward  13  Velnadar  lane
+9.Sivakasi  Corporation-  Ward  13  M.Muthuaiah nadar  lane
+10.Sivakasi  Corporation-  Ward  13 Chokkananadar  lane
+11.Sivakasi  Corporation-  Ward  13  Muruganadar lane
+12.Sivakasi  Corporation-  Ward  13",All  Voters
+102,205,102,"Kalaimagal  Primary  School,
+North  Building, Facing  South,  3rd Room  from  West,  Thiruthangal","1.Sivakasi  Corporation-  Ward  13  Annapillai  lane
+2.Sivakasi  Corporation-Ward  13  Ayyasamy Nadar  lane
+3.Sivakasi  Corporation-Ward  13  Mattu  manthai Veethi
+4.Sivakasi  Corporation-Ward  13  Chinnamani Nadar  lane
+5.Sivakasi  Corporation-Ward  13  Sivakodi  Nadar lane
+6.Sivakasi  Corporation-Ward  13  Sankarappa Nada  lane
+7.Sivakasi  Corporation-  ward  14 Sengamalancahiyarpuramrd  8.Sivakasi Corporation-  Ward  14  Sengamalanachiyarpuram Rd
+9.Sivakasi  Corporation-Ward  13  Jawalikadai Veethi
+10.Sivakasi  Corporation-Ward  13  Nadar Vadakku  Veethi
+11.Sivakasi  Corporation-Ward  13 Ayyasamypillai  lane
+12.Sivakasi  Corporation-Ward  14  Sangal naicker lane",All  Voters
+103,205,103,"Kalaimagal  Primary  School, Southwest  Building, 2nd  Room  from West,  Facing  South,  Thiruthangal","1.Sivakasi  Corporation-  Ward  14  Malaasari  Lane
+2.Sivakasi  Corporation-  Ward  14  Madankovil Lane
+3.Sivakasi  Corporation-  Ward  14  Ayyappanadar Lane
+4.Sivakasi  Corporation-  Ward  14 Niraimathiasari  Lane
+5.Sivakasi  Corporation-Ward  14 ShanmugaVeldevar  lane
+6.Sivakasi  Corporation-Ward  14 Pommayanaicker  St.,
+7.Sivakasi  Corporation-Ward  14  Kavadikoda  St.,
+8.Sivakasi  Corporation-  Ward  14  Jawulikadai Veethi",All  Voters
+104,205,104,"K.M.K.A.  Mat.Hr.Sec. School, Main Building, 1st  Room  From  West, Facing  North,  Thiruthangal.","1.Sivakasi  Corporation  -  Ward  14 Palanichamynadar  st,
+2.Sivakasi  Corporation-  Ward  14  Nadarvadkku St.,
+3.Sivakasi  Corporation-  Ward  14  Niraikulathu-nadar  lane
+4.Sivakasi  Corporation-  Ward  14  Mookkanadar St
+5.Sivakasi  Corporation-  Ward  14  Kariyakarar Lane
+6.Sivakasi  Corporation-Ward  14  Ponnappanadar Lane
+7.Sivakasi  Corporation-Ward  14 SengamalanachiyarpuramRd,",All  Voters
+105,205,105,"Kalaimagal  Primary  School Southwest  Building, 3rd  Room  from West,  Facing  South,  Thiruthangal.","1.Sivakasi  Corporation
+Ward  5  Sivakasi-Virudhunagar  Road
+2.Sivakasi  Corporation  Ward  5  Othuvar  lane",All  Voters
+106,205,106,"K.M.K.A.  Marticulation  Hr.Sec. School, Main  Building, 2nd  Room form  East,  Facing  North, Thiruthangal.","1.Sivakasi  Corporation
+Ward  5  Subramaniyar  Kovil Street
+2.Sivakasi  Corporation  Ward  6  Vadakku  radha veethi  ,
+3..Sivakasi  Corporation  Ward  6 Sengamalanachiyarpuram  Road",All  Voters
+107,205,107,"KMKA Matric  Hr.Sec. School, New Building, First  Room  from  South, Facing  East,  Thiruthangal","1.Sivakasi  Corporation-  Ward  6  Vadakkumada Veethi  ,
+2.Sivakasi  Corporation-  Ward  6  Agrahara  St.,
+3.Sivakasi  Corporation-  Ward  6 Sengamalanachiyarpuram  Road
+4.Sivakasi  Corporation-  Ward  6  Melamadaveethi
+,
+5.Sivakasi  Corporation-  Ward  6 Gomathinayagampillai  Veethi  6.Sivakasi Corporation  -  Ward  6  Pirammanayagampillai  St,",All  Voters
+108,205,108,"KMKA Matric  Hr.Sec. School, New Building, 2nd  Room  from  South, Facing  East,  Thiruthangal",1.Sivakasi  Corporation-  Ward  2  Standard  Colony (Sl.No.  152  To  Sl. No.899) (Door  No.1  To 725/B/1A),All  Voters
+109,205,109,"KMKA Matric  Hr.Sec. School, New Building, 3rd  room  from  South, Facing  East,  Thiruthangal","1.Sivakasi  Corporation  -  Ward  2  Standard Colony  - Renga  Nagar,  ward  6  Kalimuthu  Nagar (Part  101-  Sec  No.  4  Voters) (Door.No.N835/-  to 3289/-)
+2.Sivakasi  Corporation-  Ward  2  Standard  Colony (Sl.No.900  to  Sl.No.  1379  ) (Door  No.  725/B5A1
+to  725A/4)",All  Voters
+110,205,110,"KMKA Matric  Hr.Sec. School, New Building, 4th  Room  From  South, Facing  East,  Thiruthangal","1.  Sivakasi  Corporation  - Ward  7  marimaniyar  lane  ,
+2.  Sivakasi  Corporation  -  Ward  8
+melarathaveethi",All  Voters
+111,205,111,"KMKA Matric  Hr.Sec. School, Northwest  Building, Facing  East, 5th  room  from  North,  Thiruthangal.","1.Sivakasi  Corporation-
+Ward  2  North  car  street  (Sl.No.  1  To  Sl.No.  712) (Door  No.1/123  to  353/27)",All  Voters
+112,205,112,"KMKA Matric  Hr.Sec. School, Northwest  Building, 3rd  room  from North,  Facing  East,  Thiruthangal.","1.Sivakasi  Corporation-
+Ward  2  North  car  street  (Sl.No.  713  To  Sl.No. 1426) (Door  No.353-A to  381-D1)",All  Voters
+113,205,113,"Kalaimagal  Primary  School, Southwest  Building, 1st  Room  from East,  Facing  South,  Thiruthangal","1.Sivakasi  Corporation  -
+Ward  8  Sengamalanachiyarpuram  Road, (Door  No.1/NA to  550-3F/NA)
+(Sl.No.1  to  981  )",All  Voters
+114,205,114,"Kalaimagal  Primary  School, Southwest  Building, 2nd  Room  from East,  Facing  North,  Thiruthangal","1.Sivakasi  Corporation  - Ward  8  Vellayapuram  Rd,
+2.Sivakasi  Corporation  -  Ward  8 Sengamalanachiyarpuram  Road  (Door  No.  56-1-4/NA to  808-261-1/NA) (Sl.No.  983  to  1464)",All  Voters
+115,205,115,"K.M.K.A.  Matri. Hr.Sec.School, Main Building, 4th  room  from  East, Facing  North,  Thiruthangal",1.Sivakasi  Corporation  Ward  1  Sukkiravarpatti Road  (Door  No.  A1  to  58  B),All  Voters
+116,205,116,"Kalaimagal  Nursery  &  Primary School, 1st  Room  East,  Facing North,  Thiruthangal.",1.Sivakasi  Corporation  Ward  1  Sukkiravarpatti Road  (Door  No.  58  B/183  to  1991/1),All  Voters
+117,205,117,"K.M.K.A.  Matri. Hr.Sec.School, Main  Building, 3rd  Room  From East,  Facing  North,  Thiruthangal","1.Sivakasi  Corporation
+Ward  1  Sukkiravarpatti  Devar  Arch  1,2,3,4
+Door  No.  81  to  199  A
+Door  No.  201  to  328
+Door  No.  332  to  951
+Door  No.  952  to  3492",All  Voters
+118,205,118,"S.N.G. Girls Hr.  Sec. School, Main Building, North  Portion,  1st  Room From  West,  Room  No.12, Thiruthangal","1.Sivakasi  Corporation-
+Ward  7  Aasarimar  nandhavana  St.,
+2.Sivakasi  Corporation-  Ward  7  Melaradhaveethi
+3.Sivakasi  Corporation-  Ward  7  Vadakku  radha veethi",All  Voters
+119,205,119,"Kalaimagal  Nursery  &  Primary School, 1st  Room  West,  Facing North,  Thiruthangal.","1.Sivakasi  Corporation-
+Ward  7  Sengamalanachiyarpuram  Rd
+2.Sivakasi  Corporation-  Ward  7  Bodinaicker Street
+3.Sivakasi  Corporation-  Ward  6 Gomathinayagampillai  Street  4.Sivakasi Corporation-  Ward  6  Meelamada  veethi",All  Voters
+120,205,120,"P.U.  Primary  School  Eastern
+Portion,  Thevarkulam","1.Thiruthangal (R.V) Devarkulam  (p) Ward  1  devarkulam  ,",All  Voters
+121,205,121,"Panchayat  Union.  Pry.  School, New West  Building, 1st  room  from  South, Facing  East,  Devarkulam.","1.Thiruthangal (R.V) Devarkulam  (p)  Ward  1 Guru  Colony,  Sakthi  nagar  Viswam  Nagar",All  Voters
+122,205,122,"Kalyanamandapam,  New  Building, facing  East,New  Housing  Board, Sivakasi  West","1.Thiruthangal (R.V) Devarkulam  (P) Ward  1  E.B.  Colony  ,
+2.Thiruthangal (R.V) Devarkulam  (P) Ward  1
+Kavalar  Kudiruppu  ,",All  Voters
+123,205,123,"Manamakil Mandram  Building, New Housing  Board,  Devarkulam.","1.Thiruthangal (R.V),  Devarkulam  (P) Ward  2 Ezhil  Nagar  &  Lakshmi  Nagar  2.Thiruthangal (R.V) Devarkulam  (P) Ward  1
+Rajacolony  3.Thiruthangal (R.V) Devarkulam  (P) Ward  1  Raja  Colony,  Viswam  Nagar  Part-  111-Section  2-  (Door  No.  1/214/NA to  1071/-)",All  Voters
+124,205,124,"Panchayat  Service  Centre  Building, Facing  East,  Housing  Board, Thiruthangal.","1.Thiruthangal (R.V),  Devarkulam  (P) Ward  2 Housing  Board  (Part-  111-Section  1-  Door  No. 45  /8-1569  to  1  /1)  (Door  No.1-214-4/-  to  2  /
+887) (Door  No.788-5/-  to  11165/-)
+2.Thiruthangal (R.V) Devarkulam  (P) Ward  2 Housing  Board",All  Voters
+125,205,125,"Integrated  Child  Development Scheme  center,  Facing  East,  New Housing  Board.  Sivakasi  West","1.Thiruthangal (R.V),  Devarkulam  (P) Ward  2  Baharathi  nagar",All  Voters
+126,205,126,"P.U.  Middle  School, Main  Building, 1st  Room  from  South  ,  Facing  East, Sengamalanatchiyar-puram.","1.Thiruthangal (R.V),  Sengamalanachiyarpuram (P)
+Ward  3  Sengamala  nachiyarpuram  North  St., 2.Thiruthangal (R.V),  Sengamalanachiyarpuram
+(P) Ward  3  Sivaji  Nagar",All  Voters
+127,205,127,"P.U.  Middle  School,
+Old  Building, Middle  Room,  Facing East,  Sengamalanatchiyar-puram.","1.Thiruthangal (R.V),  Sengamalanachiyarpuram (P)
+Ward  3  Sengamalanachiyar  puram  Kannan Kovil Street
+2.Thiruthangal (R.V),  Sengamalanachiyarpuram
+(P) Ward  3  Pasumpon  nagar",All  Voters
+128,205,128,"Panchayat  Union  Middle  School, 1st Room  from  North,  West  Side  Old Building, East  facing Sengamalanatchiar-
+puram","1.Thiruthangal (R.V),  Sengamalanachiyarpuram (P)
+Ward  4  Sengamalanachiyar  puram  &  Indira Nagar",All  Voters
+129,205,129,"Panchayat  Union  Middle  School, Additional North  Building, 1st  Room from  South,  Near  H.M.  Chamber, Ground  floor,
+East  facing, Sengamalanatchiarpuram","1.  Thiruthangal (R.V) Sengamalanatchiarpuram (P)
+Ward  4  Vivekananthar  Colony,  Tirupathi  Nagar, Gangakulam",All  Voters
+130,205,130,"P.U.  Middle  School, 1st  Room  from South,  West  facing,  East  Building, Sengamalanatchiyarpuram.","1.Thiruthangal (R.V),  Sengamalanachiyarpuram
+(P) Ward  1  Kangakulam",All  Voters
+131,205,131,"P.U.  Middle  School  East  Building, Facing  West,  1st  Room  from  North, Sengamalanatchiyar-
+puram","1.Thiruthangal (R.V),  Sengamalanachiyarpuram (P)
+Ward  1  Kangakulam  ,
+2.Thiruthangal (R.V),  Sengamalanachiyarpuram
+(P) Ward  2  Gopal  Nagar",All  Voters
+132,205,132,"C.M.S.  Middle  School, Back  Side  of Main  Building, 1st  Room  from  East, Facing  North,  Satchiyapuram.","1.Thiruthangal (R.V),  Sengamalanachiyarpuram (P)
+Ward  3  N.G.O.Colony",All  Voters
+133,205,133,"C.M.S.  Middle  School, Western Building, facing  East,  2nd  Room from  South,  Tiled  Roof, Satchiapuram.","1.Thiruthangal (R.V) Sengamalanatchiarpuram (P)
+Ward  2  N.G.O.  Colony,  South  Portion  (Sl.No.  1 To  Sl.No.  779) (Door  No.1  to  1-612)",All  Voters
+134,205,134,"C.M.S.  Middle  School, Western Building, facing  East,  2nd  Room from  North,  Tiled  Roof, Satchiapuram.","1.Thiruthangal (R.V) Sengamalanatchiar  puram (P)
+Ward  2  V.S.K.D. Street,  2.Thiruthangal (R.V) Sengamalanatchiar  puram  (P) Ward  2  Vadakku Satchiapuram",All  Voters
+135,205,135,"C.M.S.Middle  School, Western Building  Facing  East,  1st  Room form  North  Side, Satchiyapuram.","1.Thiruthangal (R.V),  Sengamalanachiyarpuram (P)
+Ward  2  State  Bank  Colony",All  Voters
+136,205,136,"C.M.S.Middle  School, Western Building  Facing  East,  1st  Room form  South,  Satchiyapuram.","1.Thiruthangal (R.V),  Sengamalanachiyarpuram (P)
+Ward  2  Chellappa  Nagar  ,
+2.Thiruthangal (R.V),  Sengamalanachiyarpuram
+(P) Ward  2  Rengapashiyam  Nagar  3.Thiruthangal (R.V) Sengamalanatchiarpuram  (P)
+Ward  2  N.G.O.  Colony,  South  Portion  (Sl.No.
+780  To  Sl.No.  1258  ) (Door  No.1-615  to  2/407  B )",All  Voters
+137,205,137,"C.M.S.Middle  School  Main  Building, West  Portion  Facing  South, Satchiyapuram","1.Thiruthangal(R.V),Sengamalanachiyarpuram(P) Ward  2  Saradha  nagar  1st,  2nd  &  3rd  Street",All  Voters
+138,205,138,"C.M.S.Middle  School  North  side  old building, 1st  room  from  west,  facing north,  Tiled  Roof  Satchiyapuram","1.Thiruthangal (R.V),  Sengamalanachiyarpuram (P)
+Ward  2  Saradha  nagar  4th,  5th,  6th  &  7th
+Street",All  Voters
+139,205,139,"C.M.S.Middle  School  Main  Building, East  Portion  Facing  South, Satchiyapuram","1.Thiruthangal (R.V),  Sengamalanachiyarpuram (P)
+Saradha  Nagar",All  Voters
+140,205,140,"Panchayat  Union  Primary  School, Main  Building, 1st  Room  from South,  Facing  East,  Sukkiravarpatti.",1.Thiruthangal (R.V) Sukkiravarpatti  (P) Ward  1  Sukkiravarpatti  Melur  Mela  street,All  Voters
+141,205,141,"Panchayat  Union  Primary  School, North  New  Building, East  Portion, Facing  South
+Sukkiravarpatti.","1.Thiruthangal (R.V) Sukkiravarpatti  (P) Ward  2  Sukkiravarpatti  Kalingkottai  street  ,
+2.Thiruthangal (R.V) Sukkiravarpatti  (P) Ward  3 Athiveeranpatti",All  Voters
+142,205,142,"Panchayat  Union  Middle  School, 1st room  from  North,  Facing  west,  New Building, Vellayapuram.","1.Thiruthangal (R.V) Vellaiahpuram  (P) Ward  1  East  street  ,",All  Voters
+143,205,143,"Panchayat  Union  Middle  School, 1st room  from  South,Facing  west,  New Building, Vellayapuram.","1.Thiruthangal (R.V) Vellaiahpuram  (P) Ward  2  South  street  ,
+2.Thiruthangal (R.V) Vellaiahpuram  (P) Ward  3 Middle  street  ,
+3.Thiruthangal (R.V) Vellaiahpuram  (P) Ward  4 North  street,Sathya  nagar",All  Voters
+144,205,144,"P.U.  Primary  School, West  Building South  Portion  Kamban  Padasalai, Pallapatti.",1.Keelathiuthangal (R.V) Pallapatti  (P) Ward  1 Indira  Colony,All  Voters
+145,205,145,"Govt.  Hr.  Sec. School,
+New  Building, Facing  West,  Ground Floor,  1st  Room  From  North, Pallapatti,
+Keela  Thiruthangal.","1.Keelathiuthangal (R.V) Pallapatti  (P) Ward  1 Middle  St  .,  Pallapatti",All  Voters
+146,205,146,"P.U.Pry.  School, Valluvan  Padasalai, North  Building, East  Portion, Pallapatii",1.  Keelathiuthangal (R.V)Pallapatti  (P) Ward  1 Mariamman  Nagar,All  Voters
+147,205,147,"Govt.  Hr.  Sec. School,
+New  Building, Facing  West,  Ground Floor,  4th  Room  From  North, Pallapatti,
+Keela  Thiruthangal.",1.Keelathiuthangal (R.V)Pallapatti  (P) Ward  2 Muthuramalingapuram  Colony 2.Keelathiuthangal (R.V)Pallapatti  (P) Ward  2 Muthuramalingapuram  Colony  (DoorNo.786/-  to 2-326/-),All  Voters
+148,205,148,"P.U.  Primary  School  West  Building, Kammban  Padasalai,  North  Portion, Pallapatti",1.KeelaThiruthangal (R.V) Pallapatty  (p) Ward  2  muthuramalingapuram  colony,All  Voters
+149,205,149,"Govt.  Hr.  Sec. School
+1st  Additional Building  from  South, Facing  East,  2nd  Room  from  South, Pallapatti.",1.KeelaThiruthangal (R.V) Pallapatty  (P) Ward  2  Muthuramalingapuram  colony,All  Voters
+150,205,150,"Govt.  Hr.  Sec. School, Additional Budiling,
+2nd  Building  from  south, Facing  East,
+Pallapatti.","1.KeelaThiruthangal (R.V) Pallapatty  (p) Ward  2  muthuramalingapuram  colony,
+2.KeelaThiruthangal (R.V) Pallapatty  (p)  Ward  2 Muthuramalingapuram  colony",All  Voters
+151,205,151,"Govt.  Hr.  Sec. School, Additional Building, 3rd  Building,
+1st  Room  from  South, Facing  East,  Pallapatti",1.  KeelaThiruthangal (R.V) Pallapatty  (p) Ward  2  vivekanandar  colony  (Sec. 1),All  Voters
+152,205,152,"Govt.  Hr.  Sec. School, Additional Building,
+4th  Building  from  south, 1st  Room  from  South, Facing  East,  Pallapatti","1.KeelaThiruthangal (R.V) Pallapatty  (p) Ward  2  vivekanandar  colony  (Sec. 2) 2.KeelaThiruthangal (R.V) Pallapatty  (p)
+Ward  2  Nehru  colony  main  road,  M.G.R.colony (Sl.  No.  834  To  Sl. No.  1231  ) (Door  No.  2038  to 2/2342A)",All  Voters
+153,205,153,"Govt.  Hr.  Sec. School, Additional Building,
+4th  Building  from  South, 2nd  Room  from  south, Pallapatii","1.KeelaThiruthangal (R.V) Pallapatty  (p)
+Ward  2  Nehru  colony  main  road,  M.G.R.colony (Sl.  No.  1  To  Sl. No.  833  ) (Door  No.  1  to  2036)",All  Voters
+154,205,154,"Sri  N.  M.  Mehta  Jain  Matric.  Hr.  Sec School, South  Building, Facing North,  3rd  Room  from  West, Sivakasi.","1.KeelaThiruthangal (R.V) Pallapatty  (p) Ward  3  visalatchi  nagar  ,",All  Voters
+155,205,155,"Panchyat  Union  Primary  School, 1st room  from  East,  North  Facing, Lingapuramcolony,  Opposite  side Kamarajapuram  Colony,  Pallapatti",1.KeelaThiruthangal (R.V) Pallapatty  (p) Ward  3  Lingapuram  colony  (Sl.No.  1  To Sl.No.981) (Door  No.  1  to  776),All  Voters
+156,205,156,"Sri  N.  M.  Mehta  Jain  Matric.  Hr.  Sec School, South  Building, Facing North,  2nd  Room  from  West, Sivakasi.","1.KeelaThiruthangal (R.V) Pallapatty  (P) Ward  3  Pathrakaliyamman  colony
+2.KeelaThiruthangal (R.V) Pallapatty  (P) Ward  3
+Senaiyarpuram  colony",All  Voters
+157,205,157,"Coronation  Girls Hr.  Sec.School  , Shenbagam  Gnanagiri  Block,  East Building, 1st  Room  from  North, Sivakasi.","1.KeelaThiruthangal (R.V) Pallapatty  (p) Ward  3  Lingapuram  Colony
+Door  No.1  to  1150  2.KeelaThiruthangal (R.V) Pallapatty  (p)
+Ward  3  Lingapuram  colony  (Sl.No.982  To Sl.No.1246) (Door  No.777  to  3/1738  )",All  Voters
+158,205,158,"Sri  N.  M.  Mehta  Jain  Matric.  Hr.  Sec School, South  Building, Facing North,  4th  Room  from  West, Sivakasi.",1.KeelaThiruthangal (R.V) Pallapatty  (p) Ward  3  vediporul  tholirsalai  colony Door  No.1150  to  4148,All  Voters
+159,205,159,"Coronation  Girls Hr.  Sec.School, 4th Room  from  South,  Opp.to Shenbagam  Gnanagiri  Block, Sivakasi","1.KeelaThiruthangal (R.V) Pallapatty  (p) Ward  4  sivagandhipuram  nehru  colony
+2.KeelaThiruthangal (R.V) Pallapatty  (p)  Ward  4
+kamarajapuram  colony",All  Voters
+160,205,160,"Coronation  Girls Hr.  Sec.School, Shenbagam  Gnanagiri  Block,  East Portion,  2nd  Room  from  South, Sivakasi","1.KeelaThiruthangal (R.V) Pallapatty  (P) Ward  4,  5  Samipuram, meenatchipuram, muthamilpuram  Colony",All  Voters
+161,205,161,"Sri  N.  M.  Mehta  Jain  Matric.  Hr.  Sec School, South  Building, Facing North,  1st  Room  from  West, Sivakasi.",1.KeelaThiruthangal (R.V) Pallapatty  (p) Ward  4  sivakandhipuram  nehru  colony,All  Voters
+162,205,162,"Coronation  Girls Hr.Sec. School, Chidambaram  Ganagiri  Building, East  Portion,  3rd  Room  From  East, Sivakasi",1.KeelaThiruthangal (R.V) Pallapatty  (P) Ward  4  Hussain  colony  &  Barma  Colony,All  Voters
+163,205,163,"Coronation  Girls Hr.Sec. School, Chidambaram  Ganagiri  Building, East  Portion,  4th  Room  From  West, Sivakasi","1.  KeelaThiruthangal (R.V) Pallapatty  (P) Ward  4  PSR  Nagar,  OM Serma  Nagar, Kamarajapuram  Colony,  Amman  Nagar,  56 House  Colony",All  Voters
+164,205,164,"Coronation  Girls Hr.  Sec. School,
+West  Building, 1st  Room  From North,  Sivakasi",1.KeelaThiruthangal (R.V) Pallapatty  (p) Ward  5  muthamilpuram  colony,All  Voters
+165,205,165,"Coronation  Girls Hr.  Sec.School, Chidambaram  Gnanagiri  Block, Northside, 2nd  Room  form  East, Sivakasi",1.KeelaThiruthangal (R.V) Pallapatty  (P) Ward  6  Meenatchipuram  colony,All  Voters
+166,205,166,"Coronation  Primary  School, Vislatchi  Block  4th  Room  from  East, Facing  North  Building, Sivakasi.","1.KeelaThiruthangal (R.V) Pallapatty  (p) Ward  6  meenatchipuram  ,
+2.KeelaThiruthangal (R.V) Pallapatty  (p)  Ward  4
+Kamarajarpuram  colony",All  Voters
+167,205,167,"Coronation  Primary School,Visalatchi  Block  3rd  Room from  East,  Facing  North  Building, Sivakasi.","1.KeelaThiruthangal (R.V) Pallapatty  (P) Ward  4  Hussain  colony  ,
+2.KeelaThiruthangal (R.V) Pallapatty  (P) Ward  6 Pallapatti  ,
+3.KeelaThiruthangal (R.V) Pallapatty  (P) Ward  6 Meenatchipuram  Samypuram 4.KeelaThiruthangal (R.V) Pallapatty  (P) Kamarajapuram  Samynathapuram Meenatchipuram, Muthtamilpuram",All  Voters
+168,205,168,"Coronation  Primary  School, 1st Room,  Visalachi  Block,  Sivakasi.","1.  KeelaThiruthangal (R.V) Pallapatty  (p) Ward  6  Kamarajapuram  ,
+2.  KeelaThiruthangal (R.V) Pallapatty  (p)  Ward  6
+Samypuram",All  Voters
+169,205,169,"Coronation  Girls.  Hr. Sec.School,North  Side, Chidambaram  Gnanagiri  Block,  4th Room  From  East,  Sivakasi.","1.KeelaThiruthangal (R.V) Pallapatty  (P) Ward  6  Meenatchipuram  ,
+2.KeelaThiruthangal (R.V) Pallapatty  (P) Ward  5
+Indiranagar",All  Voters
+170,205,170,"P.U.  Pry.  School, New  Building, Facing  South,  West  Portion, Alamarathupatti.","1.Naranapuram  (R.V ) Alamarathupatti  (P)   Ward  1  Alamarathupatti  Middle  St., 2.Naranapuram  (R.V ) Alamarathupatti  (P) Ward 4  Athithiravidar  colony,  sakkammal colony",All  Voters
+171,205,171,"P.U.  Pry.  School, South  Portion, South  Building, Facing  East, Alamarathupatti.","1.Naranapuram  (R.V),  Alamarathupatti  (P) Ward  2,  3  Alamarathupatti  pudhur  Vinoba colony",All  Voters
+172,205,172,"P.U.  Primary  School  New  Building, Facing  East,  South  Portion, Naranapuram.","1.Naranapuram  (R.V),  Naranapuram  (P) Ward  1Athidravidar  Street.
+Naranapuram  (R.V),  Naranapuram  (P) Ward  1  Adidravidar  Street  , Naranapuram  (R.V),  Naranapuram  (P) Ward  1  Kaliamman  Kovil St",All  Voters
+173,205,173,"Seventh  day  Advantist  Matri. School, 4th  Room  East, Naranapuram.","1.Naranapuram  (R.V),  Naranapuram  (P) Ward  2  Bose  Colony  ,",All  Voters
+174,205,174,"Seventh  day  Advantist  Matri. School, 3rd  Room  North,  Facing East,  Silver  Jublee  Black, Naranapuram.","1.Naranapuram  (R.V),  Naranapuram  (P) Ward  2  Muthuramalinganagar",All  Voters
+175,205,175,"P.U  Primary  School
+New  Additional Building, Facing west,  South  Portion  Naranapuram.","1.Naranapuram  (R.V),  Naranapuram  (P) Ward  1  Naranapuram",All  Voters
+176,205,176,"Seventh  day  Advantist  Matri. School, 2nd  Room  North,  Facing East,  Naranapuram.","1.Naranapuram  (R.V),  Naranapuram  (P) Ward  5  Naranapuram  Bose  Colony",All  Voters
+177,205,177,"Panchayat  Union  Primary  School, West  Side  new  Building, 1st  Room from  North,  Naranapuram","1.Naranapuram  (R.V),  Naranapuram  (P) Ward  1  Naranapuram  ,
+Ward  1  Vinayagar  Colony",All  Voters
+178,205,178,"Panchayat  Union  Primary  School, West  Side  new  Building, 1st  Room from  South,  Facing  east, Naranapuram","1.Naranapuram  (R.V),  Naranapuram  (P) Ward  1  South  Street  ,
+2.Naranapuram  (R.V),  Naranapuram  (P)
+Ward  1  Rathna  Colony",All  Voters
+179,205,179,"Seventh  day  Advantist  Matri. School, Main  Building, 3rd  Room form  East,  facing  South, Naranapuram.","1.Naranapuram  (R.V),  Naranapuram  (P) Ward  2  Bose  Colony",All  Voters
+180,205,180,"Seventh  day  Advantist  Matri. School, 1st  Room  North, Naranapuram.","1.Naranapuram  (R.V),  Naranapuram  (P) Ward  2  Muthuramalinganagar 2.Naranapuram  (R.V),  Naranapuram  (P)
+Ward  2  Bose  Colony
+(Door.No.415/-  to  3-456)",All  Voters
+181,205,181,"P.U  Primary  School,
+10th  Finance  Committee Additional Building, South  Portion, Facing  West,  Naranapuram.","1.Naranapuram  (R.V),  Naranapuram  (P) Ward  3  Lakshmipuram
+2.Naranapuram  (R.V),  Naranapuram  (P) Ward  2  Puthur  -Pillaiyar  Kovil St. (Door.No.356  /  330  to  475/419)",All  Voters
+182,205,182,"P.U  Primary  School  10th  Finance Committee  Additional Building, North  Portion,  Facing  West, Naranapuram.","1.Naranapuram  (R.V),  Naranapuram  (P) Ward  2  Naranapuram  Pudhur",All  Voters
+183,205,183,"Rathinavilas Hr.Sec. School, South side  Main  Building, 2nd  room  from East  side  (XII),  Sivakasi.","1.Sivakasi  Corporation-  Kamarajar  Road  Ward 26  Pothigai  Nagar,
+Pudhu  Colony,  Oil Mill  Colony",All  Voters
+184,205,184,"Rathinavilas Hr.Sec. School, South Side  Building, 3rd  room  from  East side, Sivakasi.","1.Sivakasi  Corporation
+Kamarajar  Road  Ward  26  Oil Mill  Colony,Ward 27  Gandhi  Nagar,  Ward  27  Anil Colony",All  Voters
+185,205,185,"Rathinavilas Hr.Sec. School, South Side  Main  Building, 1st  room  from West  Portion  (VI),  Sivakasi.",1.Sivakasi  Corporation Ward  27  Kamarajar  road Door  No.  151  to  869,All  Voters
+186,205,186,"Rathinavilas Hr.Sec. School, South Side  Main  Building, 2nd  room  West Side  (XIAB),  Sivakasi.","1.Sivakasi  Corporation  Ward  26,  27  kamarajar  road Door  No.1  to  396",All  Voters
+187,205,187,"Muslim  Hr.Sec.School  South  Main Building,
+1-st  from  west,  Hall  No.12,  Sivakasi.","1.Sivakasi  Corporation
+Ward  28  kamarajar  rd,  Door  No.404  to  1379",All  Voters
+188,205,188,"Muslim  Hr.Sec.School  Center  Main
+Building, 3rd  Room  from  West, Sivakasi.","1.Sivakasi  Corporation
+Kamarajar  Road  Ward  28  Anna  Colony",All  Voters
+189,205,189,"Musilm  Hr.Sec.School, South  Main Building, 2nd  Room  From  West,  Hall No.11.  Sivakasi.","1.Sivakasi  Corporation
+Kamarajar  Road  Ward  25  Anna  Colony",All  Voters
+190,205,190,"Muslim  Hr.Sec.School  Centre  Main Building, 2nd  Room  from  West, Sivakasi","1.Sivakasi  Corporation
+Ward  26,  27,  28  kamarajar  road",All  Voters
+191,205,191,"Sivakasi  Municipal Muslim  Primary School, New  Building, 2nd  Room from  East,  Police  Station  Road, Sivakasi.","1.Sivakasi  Corporation  -  Ward  25  velayutham road,
+2.Sivakasi  Corporation  -  Ward  29  Jawaharlal Neghru  Rd.,
+3.Sivakasi  Corporation  -  Ward  27  Kamarajar Road",All  Voters
+192,205,192,"Sivakasi  Municipal Muslim  Primary School  New  Building, 1st  Room  from West,  Police  Station  Road,  Sivakasi","1.Sivakasi  Corporation  -Ward 37SeethakathiVadakku  St,
+2.Sivakasi  Corporation  -  Ward  25  Chairman  A.R. Arunachalam  Road,
+3.Sivakasi  Corporation  -Ward  25 SirugulamColony
+4.Sivakasi  Corporation  -Ward  28  Shield  Road  ,
+5.Sivakasi  Corporation  -Ward  25  Kamarajar  Road",All  Voters
+193,205,193,"V.S.K.D.English  Matri. Hr.Sec.School  Hayward  Block,  New Building, South  Block,  1st  Room From  East,  Sivakasi","1.Sivakasi  Corporation
+Ward  29,  30  jawaharlalneghru  road",All  Voters
+194,205,194,"V.S.K.D.English  Matri. Hr.Sec.School  Hayward  Block,South Side  Building, 4th  Room  from  East, Sivakasi","1.Sivakasi  Corporation
+Ward  29  jawaharlal neghru  road",All  Voters
+195,205,195,"V.S.K.D.English  Matri. Hr.Sec.School  Hayward  Block,  New Building, East  Portion  2nd  Hall, Sivakasi.","1.Sivakasi  Corporation
+Ward  29  jawaharlal Neghru  Road",All  Voters
+196,205,196,"V.S.K.D.English  Matri. Hr.Sec.School  Hayward  Block, South  Portion,  New  Building  3rd Room  From  East  Corner,  Sivakasi","1.Sivakasi  Corporation
+Ward  29,  30  Jawaharlal Neghru  road",All  Voters
+197,205,197,"V.S.K.D.English  Matri. Hr.Sec.School  Hayward  Block, South  New  Building, 5th  Room From  East  Corner,  Sivakasi","1.Sivakasi  Corporation
+Jawaharlal nehru  Road  Tamil  Nagar",All  Voters
+198,205,198,"V.S.K.D.English  Matri. Hr.Sec.School  Hayward  Block, South  New  Building, 7th  Room From  East,  Sivakasi","1.Sivakasi  Corporation
+Jawaharlal nehru  Road  Parasakthi  Colony",All  Voters
+199,205,199,"V.S.K.D.English  Matri. Hr.Sec.School, Hayward  Block, South  Side  Building, 1st  Room  from West,  Sivakasi","1.Sivakasi  Corporation  -  Ward  34  karuppanan St.,
+2.  Sivakasi  Corporation  -  Ward  34 VallalarVadaku  St
+3.  Sivakasi  Corporation  -  Ward  35
+Marudhupandiar  MettuSt,",All  Voters
+200,205,200,"Hindu  Devamar  Pry.  School, New Building, Puthu  Vinayagam Avadaiammal Arangam  Facing South,  Sivakasi",1.Sivakasi  Corporation Ward  25  Thiruthagal  road,All  Voters
+201,205,201,"Coronation  Girls Hr.  Sec.School, Shenbagam  Ganagiri  East  Building, 3rd  Room  from  South  Portion, Sivakasi",1.Sivakasi  Corporation Ward  31  Ganagiri  Road,All  Voters
+202,205,202,"Coronation  Colony  Pry.  School, South  Main  Building, Visalatchi Block,  1st  Room  from  West,  Sivakasi","1.Sivakasi  Corporation Ward  31,  32  Ganagiri  road",All  Voters
+203,205,203,"Coronation  Colony  Primary  School, South  Main  Building, Visalatchi Block,  5th  Room  from  East  Corner, Sivakasi",1.Sivakasi  Corporation Ward  32  Ganagiri  road,All  Voters
+204,205,204,"Velankanni  Madha  Hr.  Sec. School, New  Building, 3rd  Room  From  South Portion,  Sivakasi.","1.Sivakasi  Corporation
+Ward  34  chairman  p.k.s.a. arumugam  road Door  No.1  to  521",All  Voters
+205,205,205,"R.C.Primary  School, Main  Building, South  Portion  at  Backside  of Auditorium,  Sivakasi.","1.Sivakasi  Corporation
+Ward  34  chairman  p.k.s.a. arumugam  road Door  No.522  to  2301",All  Voters
+206,205,206,"The  Sivakasi  Lions Nursery  & Primary  School, North Building,South  Facing,3rd  Room from  East,  JKG-C  Class,  Sivakasi.","1.Sivakasi  Corporation
+Ward  33  Periyakaruppan  Road",All  Voters
+207,205,207,"The  Sivakasi  Lions Nursery  & Primary  School, North  Building, South  Facing, 2nd  Room  from  East, JKG-B Class,  Sivakasi.","1.Sivakasi  Corporation
+Ward  33  Periyakaruppan  Road",All  Voters
+208,205,208,"The  Sivakasi  Lions Nursery  & Primary  School, North  Building, South  Facing,1st  Room  from  East, JKG-A Class,  Sivakasi.","1.Sivakasi  Corporation
+Ward  33,  44,  Periyakaruppan  Road",All  Voters
+209,205,209,"Municipal Hr.  Sec. School,   Western side, 2nd  New  Block  Building, 1st Room  near  upstairs,  (Sir.C.V.Raman Illam  Class) Ammankovilpatti, Sivakasi","1.Sivakasi  Corporation
+Ward  33,  44  periyakarruppan  Road",All  Voters
+210,205,210,"Municipal Hr.  Sec. School,
+New  Building, West  Portion,  1st Room  from  North,  (APJ  Abdul Khallam  Illam) Ammankovilpatti, Sivakasi","1.Sivakasi  Corporation
+Ward  44  Periyakaruppan  Road",All  Voters
+211,205,211,"Ammankovilpatti  Municipal Primary School, North  Portion,  Southern side  Building  from  Headmaster Room,  Sivakasi.","1.Sivakasi  Corporation
+Ward  45  Chairman  A.S.K.  Thangaiah  Road Door  No.1  to  390",All  Voters
+212,205,212,"Ammankovilpatti  Municipal Primary School, South  Portion,  Southern side  Building  from  Headmaster Room,  Sivakasi.","1.Sivakasi  Corporation
+Ward  45  Chairman  A.S.K.  Thangaiah  Road Door  No.391  to  839",All  Voters
+213,205,213,"Municipal Hr.  Sec. School,
+2nd  New  Block  in  2nd  Room  from South.  (Thamos Alwa  Edison  Illam) Ammankovilpatti, Sivakasi.",1.Sivakasi  Corporation Ward  45  kamak  Road,All  Voters
+214,205,214,"Municipal Hr.  Sec. School Additional Building, South  side, North  facing,  2nd  Room  from  east, Ammankovilpatti  Sivakasi.","1.Sivakasi  Corporation Amman  Kovil Patti  South  St.,",All  Voters
+215,205,215,"Municipal Hr.  Sec. School, South West  Building, (New  Building) 1st Room  From  West,  Ammankovilpatti, Sivakasi.","1.Sivakasi  Corporation-Ward  46  Marimuthu  St.,
+2.Sivakasi  Corporation-Ward  46  Keela  Office, St.,
+3.Sivakasi  Corporation-Ward  46  Pitchandi  St.,
+4.Sivakasi  Corporation-Ward  46  Pitchandi  St.,
+5.Sivakasi  Corporation-Ward  42  Thattumettu St.,",All  Voters
+216,205,216,"Municipal Hr.  Sec. School, Eastern Portion,  KVM Natrarja  Nadar  Block, Main  Building  2nd  Room  from  East, (Ashokar  Illam) North  side  Building, Ammankovilpatti, Sivakasi.","1.Sivakasi  Corporation
+Ward  46  New  Street  West  Portion",All  Voters
+217,205,217,"Municipal Hr.  Sec. School, Eastern Portion,  KVM Natrarja  Nadar  Block, Eastern  Portion,  Ground  Floor,  1st room  from  East,  (Babar  Illam) Ammankovilpatti, Sivakasi.","1.Sivakasi  Corporation
+Ward  46  New  Street  East  Portion",All  Voters
+218,205,218,"Municipal Primary  School, South Building, Facing  North,  1st  Room from  west  (near  Head  Master  Room) Ammankovilpatti, Sivakasi.","1.Sivakasi  Corporation-  Ward  43  Ammankovil patti  southSt.,
+2.Sivakasi  Corporation-  Ward  43,  44  Amman Kovilpatti  middle  Street",All  Voters
+219,205,219,"Municipal Primary  School, South Building, Facing  North,  2nd  Room from  west,  Ammankovilpatti, Sivakasi.","1.Sivakasi  Corporation-  Ammankovil Patti Middle  St.,",All  Voters
+220,205,220,"Municipal Hr.Sec. School, South West  Building, (New  Building) 2nd room  from  West,  Facing  North, Ammankovilpatti, Sivakasi.",1.Sivakasi  Corporation  -  SMK  Street  Sivakasi Corporation  -  Vanakkara  Street,All  Voters
+221,205,221,"Velankanni  Madha  Hr.  Sec. School, New  Building, 2nd  Room  South
+Side, Sivakasi.","1.Sivakasi  Corporation
+Ward  43  Amman  Kovilpatti  South  Street",All  Voters
+222,205,222,"R.C.Primary  School, Backside  of  the auditorium,  North  Portion,  (inside  of the  Velankanni  Madha  Hr.  Sec.
+School) Sivakasi.","1.Sivakasi  Corporation-Ward  36  Pudhuroad  St.,
+2.Sivakasi  Corporation-Ward  36 A.S.K.D.Thangaiah  Rd,
+3.Sivakasi  Corporation-  Ward  36  Avani  Street  ,
+4.Sivakasi  Corporation-  Ward  36  N.R.K.R. Rajarathinam  Veethi
+5.Sivakasi  Corporation-Ward  36  kathan  Street",All  Voters
+223,205,223,"R.C.Primary  School,
+Main  Building, 2nd  Room  From North  side, Sivakasi.","1.Sivakasi  Corporation  -Ward  36  Kathan  Street  ,
+2.Sivakasi  Corporation  -  Ward  36  mathi  Street  ,
+3.Sivakasi  Corporation  -Ward  40  K.M.  Raman St.,
+4.Sivakasi  Corporation  -  Ward  35 Marudhupandiyarmadathu  Keela  Street  ,
+5.Sivakasi  Corporation  -  Ward  35 Marthupandiyarmadathu  Keela  street  ,
+6.Sivakasi  Corporation  -  Ward  40  Aathi  Street",All  Voters
+224,205,224,"Velankanni  Madha  Hr.  Sec. School, New  Building, 1st  Room  from  South Side, Sivakasi.","1.Sivakasi  Corporation  -Ward  35  sundarm  St.,
+2.Sivakasi  Corporation  -  Ward  35 Marudhupandiar  Madathu  East  Street",All  Voters
+225,205,225,"Hindu  Devamar  Hr.  Sec. School,  New  Building, Facing  West,  Sivakasi.","1.Sivakasi  Corporation  -Ward  35  sundharam  St.,
+2.Sivakasi  Corporation  -Ward  36 Thalavayapuram  NorthSt.,
+3.Sivakasi  Corporation  -Ward  36  Thalavaipuram South  St.,
+4.Sivakasi  Corporation  -Ward  36  Thiruthangal Road",All  Voters
+226,205,226,"Hindu  Devamar  Hr.  Sec. School, New  Building, Facing  South, Sivakasi.","1.Sivakasi  Corporation  -Ward  37  Odai  Street  ,
+2.Sivakasi  Corporation  -  Ward  36  Pettai  Street  ,
+3.Sivakasi  Corporation  -  Ward  36  Pugazhlendi Street
+4.Sivakasi  Corporation  -Ward  36  Meera  Hussain St,",All  Voters
+227,205,227,"Hindu  Devamar  Pry.  School, New Building  KAA Narayanan  Rama Thilagam  Arangam, Facing  East, Sivakasi.","1.Sivakasi  Corporation  -  Ward  37 Sakkaraivavast.,
+2.Sivakasi  Corporation  -  Ward  37  Kaithemillath st,
+3.Sivakasi  Corporation  -  Ward  35  Sundharam Street",All  Voters
+228,205,228,"Hindu  Devamar  Hr.Sec. School, West  Building, Chairman  Safaire A.Gnana-sekaran  Hall,  2nd  Room from  North,  Sivakasi.","1.Sivakasi  Corporation  -Ward  37  Periya Pallivasal St
+2.Sivakasi  Corporation  -Ward  37,  38  Odai  Street",All  Voters
+229,205,229,"Hindu  Devamar  Pry.  School, New Building, M.Muniyandi  Thevar Irulammal Arangam, Facing  East, Sivakasi.","1.Sivakasi  Corporation
+Ward  37  Seethakathi  North  Street",All  Voters
+230,205,230,"Hindu  Devamar  Hr.Sec. School, West  Building, Chairman  Safaire  A. Gnana-sekaran  Hall,  1st  Room  from North,  Sivakasi.","1.Sivakasi  Corporation-Ward  37  Seethakathi Middle  St,
+2.Sivakasi  Corporation-  Ward  37  Seethakathi
+Thaikkath  St.,",All  Voters
+231,205,231,"Sivakasi  Hindu  Nadar  Victoria Hr.Sec.School  West  Portion,  4th Room  from  North  Corner,  Sivakasi.",1.Sivakasi  Corporation-  Ward  38  Kattalaipatti Road,All  Voters
+232,205,232,"Sivakasi  Hindu  Nadar  Victoria Middle  School, Annamalai  Nadar Building, 1st  Room  from  West, Sivakasi.","1.Sivakasi  Corporation  -  Ward  38  Police  Station Rd.,
+2.Sivakasi  Corporation  -  Ward  38  Police  Station Rd.,
+3.Sivakasi  Corporation-Ward  37  Seethakathi Middle  Street,  4.Sivakasi  Corporation-  Ward  28 Kamarajar  Road  ,",All  Voters
+233,205,233,"Sivakasi  Hindu  Nadar  Victoria Middle  School, Diamond  Jubilee Hall,  2nd  Room  from  West,  Sivakasi.","1.Sivakasi  Corporation  -
+Ward  39  Chairman  A.  Shanmugam  Road
+2.Sivakasi  Corporation  -
+Ward  39  Chairman  P.S.  Ramasamy  Road
+3.Sivakasi  Corporation  -  Ward  39  Mela Radhaveethi
+4.Sivakasi  Corporation  -  Ward  39  North  Car  St.,",All  Voters
+234,205,234,"Sivakasi  Municipal Muslim  Primary School, New  Main  building, East Portion,  1st  Room  from  East, Sivakasi.","1.Sivakasi  Corporation  -  Ward  39  perandammal St.,
+2.Sivakasi  Corporation  -  Ward  40  Arisikollvan St,
+3.Sivakasi  Corporation  -  Ward  39  Kuppusamy  St,",All  Voters
+235,205,235,"Sivakasi  Municipal Muslim  Primary School, South  side  Asbestos Building, Facing  North,  (Backside  of new  building)Sivakasi.","1.Sivakasi  Corporation
+Ward  39  Subramaniyasamy  Kovil Street
+2.Sivakasi  Corporation  -Ward  39  V.K.M.  Street  ,
+3.Sivakasi  Corporation   -Ward  39  NorthCar  St, 4..Sivakasi  Corporation  -Ward  39  PoliceStation Rd,
+5.Sivakasi  Corporation  -  Ward  39  Vendar  Street",All  Voters
+236,205,236,"Sivakasi  Hindu  Nadar  Victoria Hr.Sec. School, South  Building, Hope  Building, 1st  Room  from  East, Sivakasi.","1.Sivakasi  Corporation-  Ward  40  South  Car  St.,
+2.Sivakasi  Corporation-  Ward  42  Vettri Ganniyar  St.,
+3.Sivakasi  Corporation-   Ward  42  Oorkavalan St.,
+4.Sivakasi  Corporation-   Ward  42  V.P.V.  St.,
+5.Sivakasi  Corporation-  Ward  42  Suvisesamuthu VathiyarSt.,
+6.Sivakasi  Corporation-  Ward  40  Pilaiyar  Kovil St.,
+7.Sivakasi  Corporation-  Ward  40  Sivan MadaVeethi
+8.Sivakasi  Corporation-  Ward  40  Sivan  Sannathi St.,
+9.Sivakasi  Corporation-  Ward  40  Penpadasalai St.,",All  Voters
+237,205,237,"Sivakasi  Hindu  Nadar  Girls Middle School, North  Main  building, 1st Room  From  West,  Sivakasi.","1.Sivakasi  Corporation  -Ward  40  South  Car  St.,
+2.Sivakasi  Corporation  -Ward  48  Mundagan  St.,
+3.Sivakasi  Corporation  -  Ward  40  Thillai ChidambaramSt.,",All  Voters
+238,205,238,"Sivakasi  Hindu  Nadar  Girls Middle School, Main  Building, 2nd  Room from  West,  Sivakasi.","1.Sivakasi  Corporation  -  Ward  40  Kumaran Street  ,
+2.Sivakasi  Corporation  -  Ward  40  Palayam Street  ,
+3.Sivakasi  Corporation  -  Ward  40  Nadagasalai Street
+4.Sivakasi  Corporation  -  Ward  48  Chairman N.R.K.R.Periyanan  Street",All  Voters
+239,205,239,"S.H.N.Girls MidldleSchool, Eastern Portion,  1st  Room  from  Upstaris steps,  (NPSS  Kandammal  Home Science  Block) Sivakasi.","1.Sivakasi  Corporation  -
+Ward  48  Chairman  N.P.S.N  Arumugam  Road
+2.Sivakasi  Corporation  - Ward  41  Eazhu  Kovil St.,
+3.Sivakasi  Corporation  -Ward  41  M.C.  Street,",All  Voters
+240,205,240,"S.H.N.Girls Middle  School, Main building  north  block,  East  corner, Sivakasi","1.Sivakasi  Corporation  -Ward  42  Patti  Street,
+2.Sivakasi  Corporation  -Ward  42  S.M.  Street,
+3.Sivakasi  Corporation  -Ward  42  S.K.  Street,
+4.Sivakasi  Corporation  -Ward  42  P.V.  Street,
+5.Sivakasi  Corporation  -Ward  41  Jawulikadai  St.,
+6.Sivakasi  Corporation  -Ward  41  Pukkan  Street,
+7.Sivakasi  Corporation  -Ward  41  Navetti  Street
+8.Sivakasi  Corporation  -Ward  41  N.S.  Street
+9.Sivakasi  Corporation  -Ward  48  Mundagan Street",All  Voters
+241,205,241,"Municipal A.V.T.  Girls High  School, West  Portion,  Additional Building, 3rd  Room  from  South,  Facing  East, Sivakasi.","1.Sivakasi  Corporation  -Ward  41  P.K.S.  Street  ,
+2.Sivakasi  Corporation  -Ward  41  Kuttiananjan St.,
+3.Sivakasi  Corporation  -Ward  41  Munangi  St.,",All  Voters
+242,205,242,"Municipal Annamalai-  nadar Unnamalaiammal Hr.Sec.School, Room  No.  6  in  New  Block,  Northern Side, Sivakasi.","1.Sivakasi  Corporation  -  Ward  47  Anandhappan St.,
+2.Sivakasi  Corporation  -  Ward  47Annavithottam SouthSt,
+3.Sivakasi  Corporation  -  Ward  47 AnnavithottamMiddle  St
+4.Sivakasi  Corporation  -  Ward  47 Vellanchammiyar  Street",All  Voters
+243,205,243,"Municipal A.V.T.  Girls.  High  School, West  Portion,  Additional Building, 2nd  Room  from  south,  Facing  East, Sivakasi.","1.Sivakasi  Corporation  -Ward  47  Annavithottam South  St,
+2.Sivakasi  Corporation  -  Ward  47  Arumugam Road  ,
+3.Sivakasi  Corporation  -  Ward  42  Viswanatham Rd.,
+4.Sivakasi  Corporation  -Ward  42 Kaliammankovil St
+5.Sivakasi  Corporation  -Ward  46  Gandhi  Road",All  Voters
+244,205,244,"Municipal A.V.T  Girls High  School, West  Portion,  Additional Building, 2nd  Room  from  North,  Facing East,Sivakasi.","1.Sivakasi  Corporation  -
+Ward  47  Annaivithottam  Pudhur  St
+2.Sivakasi  Corporation-
+Ward  47  Annavithottam  Padasalai  Street
+3.Sivakasi  Corporation-  Ward  42  Viswanatham Road
+4.Sivakasi  Corporation-Ward  42  kaliamman Kovil st
+5.Sivakasi  Corporation-  Ward  46  Gandhi  Road",All  Voters
+245,205,245,"Municipal Annamalainadar Unnamalaiammal Hr.Sec. School, Room  No.1  in  New  Block,  Northern Side, Sivakasi.","1.Sivakasi  Corporation  -  Ward  42  patti  street  ,
+2.Sivakasi  Corporation  -  Ward  42  Viswanathm Road
+3.Sivakasi  Corporation  -  Ward  42  Kaliamman Kovil St.,",All  Voters
+246,205,246,"K.K.S.  PrimarySchool  Main Building, 1-st  Room  South, Sithurajapuram","1.Sivakasi  (RV),  Sithurajapuram  (P) Ward  1  Melur  ,
+2.Sivakasi  (RV),  Sithurajapuram  (P)
+Ward  1  Arundhadiyar  Colony  ,",All  Voters
+247,205,247,"K.K.S.  Primary  School  Main Building, 2nd  Room  from  South. Sithurajapuram","1.Sivakasi  (RV),  Sithurajapuram  (P) Ward  1  Balaji  Nagar  ,
+2.Sivakasi  (RV),  Sithurajapuram  (P)
+Ward  1  Rajivgandhi  Nagar",All  Voters
+248,205,248,"K.K.S.  Primary  School  North Portion,  1st  Room  from  North, Sithurajpuram.","1.Sivakasi  (RV),  Sithurajapuram  (p) Ward  2  Naduvur  north  side",All  Voters
+249,205,249,"K.K.S.  Hr.  Sec. School, New Building, 5th  Room  from  East,  Near abstaire
+Sithurajapuram.","1.Sivakasi  (RV),  Sithurajapuram  (P) Ward  2  Nadvur  North  side  ,
+2.Sivakasi  (RV),  Sithurajapuram  (P)
+Ward  2  South  side",All  Voters
+250,205,250,"K.K.S.  Hr.  Sec. School,   New Building, 1st  Room  from  West,  West Portion,  Sithurajapuram.","1.Sivakasi  (RV),  Sithurajapuram  (P) Ward  2  Kaliamman  Koil St.,
+Fair  Price  Shop  St.,  Pillaiyar  Koil St.,
+G.D.Naidu  St.,  &  Plastic  Company  St.,",All  Voters
+251,205,251,"K.K.S.  Hr.  Sec. School,   New Building, Ground  floor,  West Portion,  2nd  Room  from  West, Facing  North,  Sithurajapuram.","1.Sivakasi  (RV),  Sithurajapuram  (P) Ward  2  16  Veetu  St.,
+Sunnambu  Kalavasal St.,  Isakkiamman  Koil St., RSS  Nagar,  West  St.  &  Ayyanar  Colony",All  Voters
+252,205,252,"K.K.S.  Hr.  Sec. School,   Golden Jubille  Building, Kalaiayrnagam, Facing  North,  Sithurajapuram","1.Sivakasi  (RV),Sithurajapuram  (P) Ward  3  Ayyanar  Colony",All  Voters
+253,205,253,"K.K.S.  Hr.  Sec. School, New Building, East  Corner,  1-st  Room from  East,  Ground  floor,  Facing North,  Sithurajapuram","1.Sivakasi  (RV),  Sithurajapuram  (P) Ward  3  Ayyanar  Colony
+Door  No.210  to  338 Door  No.340  to  572 Door  No.574  to  878
+2.Sivakasi  (RV),  Sithurajapuram  (P) Ward  3  Ayyanar  Colony (Door.No.113  /  551  to  4  /  34)",All  Voters
+254,205,254,"K.K.S.  Hr.  Sec. School, New
+Building, 2nd  Room  from  East, Sithurajapuram","1.Sivakasi  (RV),  Sithurajapuram  (P)
+Ward  2  Tirunagar  Nagammal Kovil Street",All  Voters
+255,205,255,"Women  Self  Help  Group  Building, Facing  West,  Sithurajapuram","1.Sivakasi  (RV),  Sithurajapuram  (P) Ward  2  Ramasamy  Nagar",All  Voters
+256,205,256,"Integrated  Child  Development Scheme  center,  Facing  South,  near Panchayat  Office, Sithurajapuram.","1.Sivakasi  (RV),  Sithurajapuram  (P) Ward  2  Gopal  Nagar,",All  Voters
+257,205,257,"P.U.  Middle  School, Western  side Old  Building, South  Portion,  facing East,  Ayyanar  Colony, Sithurajapuram","1.Sivakasi  (RV),  Sithurajapuram  (P) Ward  2  Sasi  Nagar  1,2  St.,",All  Voters
+258,205,258,"Kayampoo  Nagar  Public  Service Center  (West  Portion), Sithurajapuram.","1.Sivakasi  (RV),  Sithurajapuram  (P) Ward  2  Sankar  Nagar  1st  Street",All  Voters
+259,205,259,"P.U.  Middle  School  Main  Building, East  Portion,  Ayyanar  colony, Sithurajapuram.","1.Sivakasi  (RV),  Sithurajapuram  (P)
+Ward  2  Gragathayammal Nagar  &  Ayyanar Colony",All  Voters
+260,205,260,"Kayampoo  Nagar  Public  Service Center  (East  Portion),
+Sithurajapuram.","1.Sivakasi  (RV),  Sithurajapuram  (P)
+Ward  2  Kayammbu  Nagar,  NPSS  Natraj Nagar, PSR  Nagar  &  Sasi  Nagar",All  Voters
+261,205,261,"Integrated  Child Development  Scheme, Center  No.  6  ,
+Inside  of  Panchayat  Union  Middle School, Ayyanar  colony, Sithurajapuram.","1.Sivakasi  (RV),  Sithurajapuram  (P) Ward  4 Ayyanar  Colony  ,
+Sivakasi  (RV),
+2.Sithurajapuram  (P) Ward  4  Ayyanar  Colony Rukkumani  Match  Works",All  Voters
+262,205,262,"Integrated  Child
+Development  Scheme  Centre, Facing  South,  Saraswathipalayam Sithurajapuram.","1.Sivakasi  (RV),  Sithurajapuram  (P) Ward  4  Saraswathipalayam
+2.Sivakasi  (RV),  Sithurajapuram  (P) Ward  4  Ayyanar  Colony  West  Side",All  Voters
+263,205,263,"Integrated  Child Development  Scheme,
+Center,  Facing  North,  inside  P.U. Primary  School, Muneeswaran Colony,  Viswanatham. Sivakasi.","1.Viswanatham  (R.V),  Viswanatham  (P) Ward  4  Muneeswaran  -  Colony  North  Side  , 2.Viswanatham  (R.V),  Viswanatham  (P) Ward  5  Muneeswaran  Colony  West  Side",All  Voters
+264,205,264,"Panchayat  Union  Primary  School, SSA Building, Facing  West Muneeswaran  Colony,  Viswanatham Sivakasi.","1.Viswanatham  (R.V),  Viswanatham  (P) Ward  5  Muneeswaran  Colony  east  Side",All  Voters
+265,205,265,"P.U.  Primary  School  North  Building, Facing  South,  Muneeswaran  Colony, Viswanatham, Sivakasi.","1.Viswanatham  (R.V),  Viswanatham  (P) Ward  5  Muneeswaran  Colony  South  side  , 2.Viswanatham  (R.V),  Viswanatham  (P)
+Ward  5  Munneswaran  Colony  North  Side  ,",All  Voters
+266,205,266,"Panchayat  Union  Primary  School, Sivakamiyapuram  colony,  Facing South,  Viswanatham.","1.Viswanatham  (R.V),Viswanatham  (P) Ward  4  Murugan  Colony  East  Side  ,",All  Voters
+267,205,267,"Panchayat  Union  Primary  School, East  Building, 2nd  room  from  North, Facing  West,  Sivakamiyapuram colony,  Viswanatham.","1.Viswanatham  (R.V),  Viswanatham  (P) Ward  4  Murugan  Colony, 2.Viswanatham  (R.V),Viswanatham  (P) Ward  4  Murugan  Colony  West  side  ,",All  Voters
+268,205,268,"K.S.  N.  Naranappa  Naidu  P.U. Primary  School, Western  Portion, Facing  South,  Paraipatti, Sivakasi.","1.Viswanatham  (R.V),  Viswanatham  (P) Ward  3  Sivagamipuram  Colony  , Viswanatham  (R.V),  Viswanatham  (P) Ward  3  paraipatti  West  Side",All  Voters
+269,205,269,"Sivakasi  Naicker  Mahamai Fund Matric  Hr.  Sec. School,  Andalammal Sitharaman  Block,  1st room  from  East,  Facing  South, Paraipatti.","1.Viswanatham  (R.V),  Viswanatham  (P) Ward  3  Paraipatti  East  side  , Viswanatham  (R.V),  Viswanatham  (P) Ward  3  Paraipatti  North  side",All  Voters
+270,205,270,"PU  Primary  School, East  side building, Northern  side  room,  facing west,  Sivakamy  puram  Colony, Paraipatti, Viswanatham  Pt","1.Viswanatham  (R.V),  Viswanatham  (P) Ward  3  Sivagamipuram  Cly,",All  Voters
+271,205,271,"Sivakasi  Naicker  Mahamai Fund Matric  Hr.  Sec. School,
+Andalammal Sitharaman  Block,  2nd room  from  West,  Facing  South, Paraipatti.","1.Viswanatham  (R.V),  Viswanatham  (P) Ward  4  Vijayalakshmi  Colony, Viswanatham  (R.V),  Viswanatham  (P) Ward  4  Muneeswaran  Colony  north  side",All  Voters
+272,205,272,"K.S.  N.  Naranappa  Naidu  P.U. Primary  School, Eastern  Portion, Facing  South  Paraipatti, Sivakasi.","1.Viswanatham  (R.V),  Viswanatham  (P) Ward  3  Parraipatti",All  Voters
+273,205,273,"N.P.S.S  Rathina  Nadar  Kanagammal Rotary  Matric.Hr.Sec.School  North Building, KPAT  Dharmaraj Nadar Rojapoothaiammal Block,  North Side  Building, 3rd  Room  from  West, (LKG  - B Class Room)  Viswanatham.","1.Viswanatham  (R.V),  Viswanatham  (P) Ward  1  Palaiyur  ,
+Viswanatham  (R.V),  Viswanatham  (P) Ward  1  Harijanacolony  ,",All  Voters
+274,205,274,"N.P.S.S  Rathina  Nadar  Kanagammal Rotary  Matric.Hr.  Sec.School Golden  Jubilee  FTE Block,  North eastern  cornor  building, Ground floor,  west  side  room,  Viswanatham.","1.Viswanatham  (R.V),  Viswanatham  (P) Ward  1  Ganeshan  Colony  , Viswanatham  (R.V),  Viswanatham  (P) Ward  1  Poochan  Colony",All  Voters
+275,205,275,"N.P.S.S  Rathina  Nadar  Kanagammal Rotary  Matric.Hr.Sec.School  North Building, KPAT  Dharmaraj Nadar Rojapoothaiammal Block,  North Side  Building, 4th  Room  from  West, Viswanatham.","1.Viswanatham  (R.V),  Viswanatham  (P) Ward  1  Poochan  Colony  ,",All  Voters
+276,205,276,"N.P.S.S  Rathina  Nadar  Kanagammal Rotary  Matric.Hr.Sec.School  Golden Jubilee  FTE Block,  North  eastern cornor  building, Ground  floor,  East side  room,  Viswanatham.","1.Viswanatham  (R.V),  Viswanatham  (P) Ward  1  Murugaiyapuram",All  Voters
+277,205,277,"N.P.S.S  Rathina  Nadar  Kanagammal Rotary  Matric.Hr.Sec.School  North Building, KPAT  Dharmaraj Nadar Rojapoothaiammal Block,  North Side  Building, 3rd  Room  from  East, Viswanatham.","1.Viswanatham  (R.V),  Viswanatham  (P) Ward  1  Murugaiyapuram",All  Voters
+278,205,278,"N.P.S.S  Rathina  Nadar  Kanagammal Rotary  Matric.Hr.Sec.School  North Building, KPAT  Dharmaraj Nadar Rojapoothaiammal Block,  North Side  Building, 2nd  Room  from  East, Viswanatham.","1.Viswanatham  (R.V),  Viswanatham  (P) Ward  1  Naduvur",All  Voters
+279,205,279,"Panchayat  Union  Primary  School, Additional Building, 3rd  Room  from North,  North  East  Building, Facing West,  Viswanatham, Sivakasi.","1.Viswanatham  (R.V),  Viswanatham  (p)
+Ward  2  Viswanatham  Pudur  South  St.,  Middle St.,  North  St.,  OPR  Nagar  &  Devangar  Nagar",All  Voters
+280,205,280,"Panchayat  Union  Primary  School, Additional Building, 2nd  Room  from North,  North  East  Building, Facing West,  Viswanatham, Sivakasi.","1.Viswanatham  (R.V),  Viswanatham  (p)
+Ward  2  Kavitha  Nagar,  Kamaraj  Nagar,  Indira Nagar,  Kaka  Colony  &  Kammavar  Colony 2.Viswanatham  (R.V),  Viswanatham  (p)
+Ward  2  Kaka  Colony,  OPR  Nagar  & Vishwanatham  Pudur  (Sl.No.  226  to  371  -  Sl.No. 1009  to  1108  ) (Door  No.2-596  to  2/1302-b2  ,
+597  to  793)",All  Voters
+281,205,281,"P.U  Primary  School  North  Building, Facing  South,  1st  Room  from West,Viswanatham","1.Viswanatham  (R.V),  Viswanatham  (p) Ward  2  Kaka  Colony,  OPR  Nagar  &
+Vishwanatham  Pudur  (Sl.No.  1  to  225,  372  to
+1008  -  Sl.No.  1109  to  1203  ) (Door  No.1/143/2
+to  2-594A,  2-797  to  596,  803  to  651/1)",All  Voters
+282,205,282,"P.U  Primary  School  North  Building, Facing  South,  2nd  Room  from  West, Viswanatham","1.Viswanatham  (R.V),  Viswanatham  (p) Ward  2  Vinayagar  Colony,  Kamaraj  Nagar,
+Kamarajapuram, Kavitha  Nagar,  Deivanai  Nagar &  Chinnathambi  Nagar
+2.Viswanatham  (R.V),  Viswanatham  (p) Kavitha  Nagar",All  Voters
+283,205,283,"Panchayat  Union  Primary  School, New  Building, Facing  North,  West Portion,  Viswanatham","1.Viswanatham  (R.V),Viswanatham  (p) Ward  2  Viswanatham
+Door  No.  1/1003  to  1004 Door  No.  2/914  to  2/1299 Door  No.  878  to  1299 Door  No.  2/571  to  2/904 Door  No.  400  to  870",All  Voters
+284,205,284,"Panchayat  Union  Primary  School, New  Building, Facing  North,  East Portion,  Viswanatham","1.Viswanatham  (R.V),Viswanatham  (p) Ward  2  Viswanatham
+Door  No.  1/1430  to  2/1497 Door  No.  2/161  to  396 Door  No.  497  to  597
+Door  No.  2/1301  to  2/1597 Door  No.  2/1720  to  2/1768 Door  No.  2/1800  to  2/2026 Door  No.  2/2364  to  2/2998 Door  No.  2213  to  2945
+Door  No.  1346  to  1868",All  Voters
+285,205,285,"Panchayat  Union  Primary  School, SSA New  Building, facing  north Viswanatham","1.Viswanatham  (R.V),  Viswanatham  (p) Kammavar  Colony
+2.Viswanatham  (R.V),  Viswanatham  (p) Vinayagar  Colony
+Door  No.  2/204  to  989",All  Voters
+286,205,286,"Panchayat  Union  Primary  School, Additional Building,
+1st  Room  from  South  Corner, Viswanatham","1.Viswanatham  (R.V),  Viswanatham  (p) Indra  Nagar  North",All  Voters
+287,205,287,"Panchayat  Union  Primary  School, East  Portion,  2nd  Room  from  North, Facing  West,Viswanatham","1.Viswanatham  (R.V),  Viswanatham  (p) Kamarajar  Nagar  (Sl.No.  1  To  Sl.No.  849) (Door  No.  1  to  2-2206-1)
+Door  No.1601  to  1800/3
+Door  No.1801  to  2663",All  Voters
+288,205,288,"Panchayat  Union  Pry.  School, New Middle  Building, 1st  room  from East,  Facing  South,  Viswanatham","1.Viswanatham  (R.V),  Viswanatham  (p) Kamarajar  Nagar  (Sl.  No.  850  To  Sl.No.1375) (Door  No.  2/2217/10  to  2/2697B )
+Door  No.1601  to  1800/3 Door  No.1801  to  2663
+2.Viswanatham  (R.V),  Viswanatham  (p) Devangar  Nagar  ,",All  Voters

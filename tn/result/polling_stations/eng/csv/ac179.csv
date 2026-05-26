@@ -1,0 +1,627 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+1,179,1,1,"Panchayat Union Elementary  School, New Building,  North  Facing, E.Mettupatti-621316",1.Boothakudi (R.V) Boothakudi (P) Ward-8 Erasanayakkanpatti 2.Boothakudi (R.V) Boothakudi (P)   Ward-9 Thanneerpanthalpatti 999.OVERSEAS  ELECTORS
+2,179,2,2,"Panchayat Union Elementary  School, New Terraced Building,Computer  hall, East Facing,E.Mettupatti-621316",1.Boothakudi (R.V) Boothakudi (P) Ward-7   Mettuppatti 2.Boothakudi (R.V) Boothakudi(P) Ward-4 Thathanayakkanpatti 3.Boothakudi (R.V) Boothakudi (P)   Ward-7 Boomatha nagar 999.OVERSEAS  ELECTORS
+3,179,3,3,"Government Elementary  School, West Facing,  East  Terraced Building, Kalkudi-621316",1.Vittamapatti (R.V) Kalkudi (P) Ward-2 Vittamapatti 2.Vittamapatti (R.V) Kalkudi (P) Ward-2 Paraipatti 999.OVERSEAS  ELECTORS
+4,179,4,4,"Government Elementary  School, East Facing,  Dinning  Hall Kalkudi-621316","1.Vittamapatti (R.V) Kalkudi (P) Ward-3 Krishnapuram 2.Vittamapatti (R.V) Kalkudi (P) Ward-1 Kadapatti 3.Vittamapatti (R.V) Kalkudi (P) Ward-1 Ariyakudi 4.Vittamapatti (R.V) Kalkudi (P) Ward-1 Nallankattupatti
+5.Kalkudi (R.V) Kalkudi (P)   Ward-4  Melathalapatti
+6.Kalkudi (R.V) Kalkudi (P) Ward-5,  9 Vadakki Kovilkattupatti 999.OVERSEAS  ELECTORS"
+5,179,5,5,"Government Elementary  School, South Facing, North  Building, Kalkudi-621316","1.Kalkudi (R.V) Kalkudi (P) Ward-5 Keelathalapatti
+2.Kalkudi (R.V) Kalkudi (P) Ward- 5,9  Vadakku Kovilkattupatti
+3.Kalkudi (R.V) Kalkudi (P) Ward-9 Therku Kovilkattupatti
+4.Kalkudi (R.V) Kalkudi (P) Ward-8 Kodian  kattupatti 999.OVERSEAS  ELECTORS"
+6,179,6,6,"Government Elemantary  School, North Facing,  South Building, Old Terraced Building,  Kalkudi-621316","1.Kalkudi (R.V) Kalkudi (P) Ward-6,7,8 Kalkudi 999.OVERSEAS  ELECTORS"
+7,179,7,7,"Panchayat Union Elementary  School, New Terraced Building,  North  Facing, West Building, Boothakudi-621316","1.Boothakudi(R.V) Boothakudi(P) Ward-5 Kallupatti 2.Boothakudi(R.V) Boothakudi(P) Ward-6 Vadakkiyur 3.Boothakudi(R.V) Boothakudi(P) Ward-6 Boothakudi, 4.Boothakudi(R.V) Boothakudi(P) Ward-3 Pillayar  kulathupatti 999.OVERSEAS  ELECTORS"
+8,179,8,8,"Panchayat Union Elementary  School, North Facing,  New Terraced Building, Saranakudi-621316","1.Poruvai(R.V) Boothakudi(P) Ward-1 Mettupatti  2.Poruvai(R.V) Boothakudi(P) Ward-1 Ariyakudi Kovilkattupatti 3.Poruvai(R.V) Boothakudi(P) Ward-1 Saranakudi 4.Poruvai(R.V) Boothakudi(P) Ward-1 Bommanayakanpatti 5.Poruvai(R.V) Boothakudi(P) Ward-2 Sukkampatti
+6.Poruvai(R.V) Boothakudi(P) Ward-2 Chandramanayakkanpatti 7.Poruvai(R.V) Boothakudi(P) Ward-2 Pungankattupatti 999.OVERSEAS  ELECTORS"
+9,179,9,9,"Panchayat Union   Middle  School, Middle Terraced Building,  South Fcaing, Poruvai-621316","1.Poruvai(R.V) Boothakudi(P) Ward-2 Kalthachampatti, 2.Poruvai(R.V) Boothakudi(P) Ward-4 Kovil kattupatti, 3.Poruvai(R.V) Boothakudi(P) Ward-4 Keelaporuvai, 4.Poruvai(R.V) Boothakudi(P) Ward-3 Poruvai, 5.Poruvai(R.V) Boothakudi(P) Ward-3 Kalakiripatti 999.OVERSEAS  ELECTORS"
+10,179,10,10,"Panchayath Union Elemantary  School, Additional Building,  South Facing, West Portion,  Kullampatti-621316","1.Melapatchakudi (R.V) Melapatchakudi (P) Ward-1  Fathima nagar 2.Melapatchakudi (R.V) Melapatchakudi (P) Ward-3  Ubahara Annai Nagar 3.Melapatchakudi (R.V) Melapatchakudi (P) Ward-3  Thirukurumba Nagar 4.Melapatchakudi (R.V) Melapatchakudi (P) Ward-4  Ayyanar  Theru 5.Melapatchakudi (R.V)Melapatchakudi (P) Ward-2 Odakulathupatti 6.Melapatchakudi (R.V) Melapatchakudi (P) Ward-2  Saralapatti, 7.Melapatchakudi (R.V) Melapatchakudi (P) Ward-1  Kullampatti 999.OVERSEAS  ELECTORS"
+11,179,11,11,"Panchayat Union Elementary  School, South Facing  ,  Terraced Building, Melapatchakudi-621316",1.Melapatchakudi (R.V) Melapatchakudi (P) Ward-6  Idayapatti 2.Melapatchakudi (R.V)Melapatchakudi (P) Ward-5 Melapatchakudi 999.OVERSEAS  ELECTORS
+12,179,12,12,"Panchayat Union Elementary  School, North Facing,  Terraced Building, Kumarapatti-621316","1.Kumarapatti(R.V) Kumarapatti(P) Ward-7 Kumarapatti, 2.Kumarapatti(R.V) Kumarapatti(P) Ward-9 Ayyanthoppu 3.Kumarapatti(R.V) Kumarapatti(P) Ward-9 Thennilaipatti 4.Kumarapatti(R.V) Kumarapatti(P) Ward-9 Kurunathanpatti 5.Kumarapatti(R.V) Kumarapatti(P) Ward-9 Keelapatchakudi 999.OVERSEAS  ELECTORS"
+13,179,13,13,"Saint  Thomaiyar Primary  School,  West Facing,  South Portion,  Nazarath-621316","1.Kunnathur(R.V) Kunnathur(P) Ward-6 Gurunathanpatti 2.Kunnathur(R.V) Kunnathur(P) Ward-4 Pudunagar  Therkku 3.Kunnathur(R.V) Kunnathur(P) Ward-3 Pudunagar  Vadakku 4.Kunnathur(R.V) Kunnathur(P) Ward-7 Kalimangalam Therkku 5.Kunnathur(R.V) Kunnathur(P) Ward-8 Kalimangalam Vadakku 6.Kunnathur(R.V) Kunnathur(P) Ward-9 Duraikudi 7.Kunnathur(R.V) Kunnathur(P) Ward-6,7 Nazereth 8.Kunnathur(R.V) Kunnathur(P) Ward-4 Velankadu 9.Kunnathur(R.V) Kunnathur(P) Ward-5 Santhanathan kurichi 10.Kunnathur(R.V) Kunnathur(P) Ward-5 Soorakudipatti, 999.OVERSEAS  ELECTORS"
+14,179,14,14,"Panchayat Union Middle  School, New Terraced Building,West  Facing, South Portion,  Kunnathur-621316",1.Kunnathur  (R.V) Kunnathur (P) Ward-1 Kunnathur 2.Kunnathur  (R.V) Kunnathur (P) Ward-4 Sunaimalai 3.Kunnathur  (R.V) Kunnathur (P) Ward-3 Keelapannai 999.OVERSEAS  ELECTORS
+15,179,15,15,"Panchayat Union Middle  School,  South East Building, North  Facing, Kunnathur-621316","1.Kunnathur  (R.V) Kunnathur (P) Ward-2 Silambudayanpatti 2.Kunnathur  (R.V) Kunnathur (P) Ward-2 Alampatti 3.Kunnathur  (R.V) Kunnathur (P) Ward-3 Kolarpatti
+4.Kunnathur  (R.V) Kunnathur (P) Ward-3 Pidarampatti Pudu Colony 5.Kunnathur  (R.V) Kunnathur (P) Ward-4Pidarampatti Palaya Colony 6.Kunnathur  (R.V) Kunnathur (P) Ward-3,4,5,Pidarampatti 999.OVERSEAS  ELECTORS"
+16,179,16,16,"Panchayat Union Elementary  School, New RCC Building,  North Facing, East Portion,  Amburpatti-622515","1.Amburpatti(R.V) Avoor(P) Ward-7 Amburpatti 2.Amburpatti(R.V) Avoor(P) Ward-8 Amburpatti Nal Road 3.Amburpatti(R.V) Avoor(P) Ward-7 Othaveedu 4.Amburpatti(R.V) Avoor(P) Ward-8 Therkkupudupatti, 5.Amburpatti(R.V) Avoor(P) Ward-6 Vadakku Pudupatti, 999.OVERSEAS  ELECTORS"
+17,179,17,17,"Panchayat Union Elementary  School, Terraced Building,  East Facing,  West Building,  Mathayanapatti-622515","1.Mathayanapatti(R.V) Mathayanapatti(P) Ward-1,2,3,4 Mathayanapatti 999.OVERSEAS  ELECTORS"
+18,179,18,18,"Government Higher Secandary  School, North Side  Building,  South Facing,  West Portion,  Avoor-622515",1.Amburpatti(R.V) Avoor(P) Ward-5 Sami Ooranipatti 2.Amburpatti(R.V) Avoor(P) Ward-3 Avoor 3.Amburpatti(R.V) Avoor(P) Ward-5 Melapatti 999.OVERSEAS  ELECTORS
+19,179,19,19,"Government Higher Secandary  School, North Side  Building,  South Facing,  East Portion,  Avoor-622515",1.Sengalakudi (R.V) Avoor (P) Ward-2 S.Seethapatti 2.Sengalakudi (R.V) Avoor (P) Ward-2 S.  Melakadu 3.Sengalakudi (R.V) Avoor (P) Ward-6 S.  Melapatti 999.OVERSEAS  ELECTORS
+20,179,20,20,"Government Higher Secandary  School, North west  Building,  South Facing,  East Portion,  Avoor-622515",1.Sengalakudi (R.V) Avoor (P) Ward-2 Sengalakkudi 2.Sengalakudi (R.V) Avoor (P) Ward-9 Orandakudi 999.OVERSEAS  ELECTORS
+21,179,21,21,"Panchayat Union Elementary  School, New   R.C.C.Building, Singathakurichi-622515","1.Singathakurichi (R.V) Mandaiyur (P) Ward-2 Singathakurichi 2.Singathakurichi (R.V) Mandaiyur (P) Ward-1 Vadakku Vankarampatti 3.Singathakurichi (R.V) Mandaiyur (P) Ward-1 Pidarampatti, 4.Singathakurichi(R.V)Mandaiyur  (P) Ward-1 Pidarampatti Adidravidar  street 5.Singathakurichi (R.V) Mandaiyur (P) Ward-1 Therku Vankarampatti, 6.Singathakurichi (R.V) Mandaiyur (P) Ward-1 Sanjeevi Rayarkoil Theru, 7.Singathakurichi (R.V) Mandaiyur (P) Ward-2 Attukkaranpatti 999.OVERSEAS  ELECTORS"
+22,179,22,22,"Panchayat Union Elementary  School, Tiled Building,  South Side,  North Facing,   Kumaramangalam-622515",1.Kumaramangalam (R.V)   Kumaramangalam (P) Ward-1 Thevali 2.Kumaramangalam (R.V)   Kumaramangalam (P) Ward-2 Pudur 3.Kumaramangalam (R.V)   Kumaramangalam (P) Ward-3 Kumaramangalam 999.OVERSEAS  ELECTORS
+23,179,23,23,"Panchayat Union Elementary  School, North Side,  South Facing,  East Portion, Kumaramangalam-622515","1.Kumaramangalam (R.V)   Kumaramangalam (P) Ward-2 Vadugapatti, 2.Kumaramangalam (R.V)   Kumaramangalam (P) Ward-3 Nanjilar Nagar,"
+24,179,24,24,"Panchayat   Union   Elementary   School , West Portion, South  Facing, Ichikamalaippatti.  622515","1.Kumaramangalam (R.V)   Kumaramangalam (P),Ward-1   Itchikamalaipatti,"
+25,179,25,25,"Panchayat Union Elementary  School, North Side,  South Facing,  West Portion, Kumaramangalam-622515","1.Kumaramangalam (R.V) Kumaramangalam  (P) Ward-6 Sakthi Nagar 2.Kumaramangalam (R.V) Kumaramangalam  (P) Ward-6 Anna Nagar Merkku 3.Kumaramangalam (R.V) Kumaramangalam  (P) Ward-9 Pakkudi Salai, 4.Kumaramangalam (R.V) Kumaramangalam  (P) Ward-9 V.K.  Nagar 999.OVERSEAS  ELECTORS"
+26,179,26,26,"St.Narbet  R.C.AidedMiddle  School, Mathur-622515",1.Mathur (R.V) Mathur  (P) Ward-1 Anna Nagar 999.OVERSEAS  ELECTORS
+27,179,27,27,"St.NarbetR.C.AidedMiddle  School, South Facing,East Portion,Mathur-622515","1.Mathur (R.V) Mathur  (P) Ward-2 Dharmu  Nagar
+2.Mathur (R.V) Mathur  (P) Ward-2 Chokkalingapuram 999.OVERSEAS  ELECTORS"
+28,179,28,28,"Panchayat Union Elementary  School, Old Building,  West  Side,  FacingNorth Mathur-622515","1.Mathur (R.V) Mathur  (P) Ward-2 Chokkalingapuram  20 Veedu
+2.Mathur (R.V) Mathur  (P) Ward-2 Sundar Nagar
+3.Mathur (R.V) Mathur  (P) Ward-5 K.K.  Nagar 999.OVERSEAS  ELECTORS"
+29,179,29,29,"Panchayat Union Elementary  School, East Side, Mathur-622515","1.Mathur (R.V) Mathur  (P) Ward-6 Chithambara Nagar
+2.Mathur (R.V) Mathur  (P) Ward-2 Avoor  Salai 999.OVERSEAS  ELECTORS"
+30,179,30,30,"Panchayat Union Elementary  School, West Side, North  Facing, East Portion,Mathur-622515","1.Mathur (R.V) Mathur  (P) Ward-2 Mathur
+2.Mathur (R.V) Mathur  (P) Ward-8 Rasipuram  Salai
+3.Mathur (R.V) Mathur  (P) Ward-3 Veenas Nagar 999.OVERSEAS  ELECTORS"
+31,179,31,31,"Panchayat Union Elementary  School, Additional New Building,  East Mathur-622515","1.Mathur (R.V) Mathur  (P) Ward-9 Rasipuram
+2.Mathur (R.V) Mathur  (P) Ward-7 Mathur Kainankarai, 999.OVERSEAS  ELECTORS"
+32,179,32,32,"Government   Higher Secondary  School, West Side, East  Portion,  North  Facing, Mandaiyur.","1.Mandaiyur  (R.V) Mandaiyur (P) Ward-6,7,8 Mandaiyur, 2.Mandaiyur  (R.V) Mandaiyur (P) Ward-5 Keelamedu 999.OVERSEAS  ELECTORS"
+33,179,33,33,"Government   Higher Secondary  School, West Side, Center Portion,  North Facing,  Mandaiyur.","1.Mandaiyur  (R.V) Mandaiyur (P) Ward-5 Nathankadu 2.Mandaiyur  (R.V) Mandaiyur (P) Ward-9 Kottadikadu 3.Mandaiyur  (R.V) Mandaiyur (P) Ward-3 Nattirayankadu 4.Mandaiyur  (R.V) Mandaiyur (P) Ward-3 Navilangikadu, 5.Mandaiyur  (R.V) Mandaiyur (P) Ward-3 Kummanchettikadu 999.OVERSEAS  ELECTORS"
+34,179,34,34,"Government   Higher Secondary  School, East Side, South  Portion,  West  Facing, Mandaiyur.","1.Mandaiyur  (R.V) Mandaiyur(P) Ward-5 Vathiranmedu 2.Mandaiyur  (R.V) Mandaiyur(P) Ward-4 Vadakadu 3.Mandaiyur  (R.V) Mandaiyur(P) Ward-4 Kandiyankadu, 4.Mandaiyur  (R.V) Mandaiyur(P) Ward-4 Thirumayathankadu 5.Mandaiyur  (R.V) Mandaiyur(P) Ward-2 Arisikadu 6.Mandaiyur  (R.V) Mandaiyur(P) Ward-4 Ooranimedu 999.OVERSEAS  ELECTORS"
+35,179,35,35,"Government   Higher Secondary  School, East Side, North  Portion,  West  Facing, Mandaiyur.",1.Mandaiyur  (R.V) Mandaiyur(P) Ward-6 Mandaiyur 2.Mandaiyur  (R.V) Mandaiyur(P) Ward-7 Mandaiyur  Salai 999.OVERSEAS  ELECTORS
+36,179,36,36,"Panchayat Union Middle  School, North Facing,  East Portion, ThondamanNallur-622515","1.Lakshmanapatti(R.V) Thondaimanallur (P) Ward-1,2 E.B.  Colony 2.Lakshmanapatti(R.V) Thondaimanallur (P) Ward-1,2 Vadakku Theru 3.Lakshmanapatti(R.V) Thondaimanallur (P) Ward-1,2 Therkku Theru 4.Lakshmanapatti(R.V) Thondaimanallur (P) Ward-1,2 Adidravidar  Theru 5.Lakshmanapatti(R.V) Thondaimanallur (P) Ward-1,2 Therkku medu 999.OVERSEAS  ELECTORS"
+37,179,37,37,"Panchayat Union Middle  School, North Facing,  West Portion, ThondamanNallur-622515","1.Lakshmanapatti(R.V) Thondaimanallur (P) Ward-1  Seppilanthoppu 2.Lakshmanapatti(R.V) Thondaimanallur (P) Ward-1,2 Nadutheru 3.Lakshmanapatti(R.V) Thondaimanallur (P) Ward-1,2 Melathoppu 4.Lakshmanapatti(R.V) Thondaimanallur (P) Ward-1,2Vadakku Udayatheru 5.Lakshmanapatti(R.V) Thondaimanallur (P) Ward-1,2 Muthuraja Theru 6.Lakshmanapatti(R.V) Thondaimanallur (P) Ward-1,2 Kallar Theru 7.Lakshmanapatti(R.V)Thondaimanallur  (P) Ward-3 Keelapatti Adidravidartheru 8.Lakshmanapatti(R.V) Thondaimanallur (P) Ward-9  Kammakurichivayal 9.Lakshmanapatti(R.V) Thondaimanallur (P) Ward-9  Kalluvayal 10.Lakshmanapatti(R.V) Thondaimanallur (P) Ward-9 Porkudivayal 11.Lakshmanapatti(R.V) Thondaimanallur (P) Ward-9 Manakudipatti 999.OVERSEAS  ELECTORS"
+38,179,38,38,"Panchayat Union Elementary  School, North Facing,  West Side, Chinnapandurarpatti-622502","1.Lakshmanapatti (R.V) Lakshmanapatti (P) Ward-1 Therkku Veerampatti 2.Lakshmanapatti (R.V) Lakshmanapatti (P) Ward-1 Chithupandurarpatti 3.Lakshmanapatti (R.V) Lakshmanapatti (P) Ward-2 Panditharkudivayal 4.Lakshmanapatti (R.V) Lakshmanapatti (P) Ward-2,3 Chinnapandurararpatti 5.Lakshmanapatti (R.V) Lakshmanapatti (P) Ward-6 Thatchukarampatti 999.OVERSEAS  ELECTORS"
+39,179,39,39,"Panchayat Union Elementary  School, New R.C.C.  Building,  East  Portion, Chinnapandurarpatti-622502","1.Lakshmanapatti (R.V) Lakshmanapatti (P) Ward-2 Manamettukalam 2.Lakshmanapatti (R.V) Lakshmanapatti (P) Ward-2 Indra Nagar 3.Lakshmanapatti (R.V) Lakshmanapatti (P) Ward-2 Poosaritheru 4.Lakshmanapatti (R.V) Lakshmanapatti (P) Ward-4,5,6  Lakshmanapatti 5.Lakshmanapatti (R.V) Lakshmanapatti (P) Ward-2 Adidravidar Theru 6.Lakshmanapatti (R.V) Lakshmanapatti (P) Ward-2 Car  Colony 999.OVERSEAS  ELECTORS"
+40,179,40,40,"Panchayat Union Elementary  School, East Side  North  Facing, Thennathiraiyanpatti-622502","1.Thennathirayanpatti (R.V) Thennathirayanpatti (P) Ward-1,2,3 Alangudipatti 2.Thennathirayanpatti (R.V) Thennathirayanpatti (P) Ward-6,7,8 Thennathirayanpatti 999.OVERSEAS  ELECTORS"
+41,179,41,41,"Panchayat Union Elementary  School, West Side, North  Facing, Thennathirayanpatti-622502","1.Thennathirayanpatti (R.V) Thennathirayanpatti (P) Ward-2,3,4 Sappanipatti 2.Thennathirayanpatti (R.V) Thennathirayanpatti (P) Ward-8 Ettukkalpatti 3.Thennathirayanpatti (R.V) Thennathirayanpatti (P) Ward-5 Marungippatti 4.Thennathirayanpatti (R.V) Thennathirayanpatti (P) Ward-5 Nedunthanpatti 5.Sivakamipuram(R.V) Thennathirayanpatti (P) Ward-1  Sivakamipuram 6.Mettupatti(R.V) Thennathirayanpatti (P) Ward-1 Valayanvayal 999.OVERSEAS  ELECTORS"
+42,179,42,42,"Panchayat Union Elementary  School, North Side,  Tiled Building, Palandanpatti-622502",1.Palandanpatti (R.V) Palandanpatti (P) Ward-1 Marungipatti 2.Palandanpatti (R.V) Palandanpatti (P) Ward-4 Palayakurukkathanpatti 3.Palandanpatti (R.V) Palandanpatti (P) Ward-9 Ettukkalpatti 4.Palandanpatti (R.V) Palandanpatti (P) Ward-9 Kadapillaiyarpatti 999.OVERSEAS  ELECTORS
+43,179,43,43,"Panchayat Union Elementary  School, South Side, New Building, Palandanpatti-622502","1.Palandanpatti (R.V) Palandanpatti (P) Ward-1,2,  Karuppudayanpatti 2.Palandanpatti (R.V) Palandanpatti (P) Ward-3 Adidravidar Theru 3.Palandanpatti (R.V) Palandanpatti (P) Ward-5,6,7 Palandanpatti 4.Palandanpatti (R.V) Palandanpatti (P) Ward-3 Mathiyathuvayal 999.OVERSEAS  ELECTORS"
+44,179,44,44,"Anganvadi   New  Terraced Building,  East Facing,  Kalamavur-622502","1.Kalamavur  (R.V) Kalamavur  (P) Ward-4 Kalamavur Kallar Theru 2.Kalamavur  (R.V) Kalamavur  (P) Ward-5 Malavarar Theru 3.Kalamavur  (R.V) Kalamavur  (P) Ward-5 Gandhi Nagar, 4.Kalamavur  (R.V) Kalamavur  (P) Ward-3   Anthoniar Kovil Street 999.OVERSEAS  ELECTORS"
+45,179,45,45,"Panchayat Union Elementary  School, New RCC Building,  East  Side, South Portion,  West Facing, NamanarayaChatram,  Kalamavur-622502","1.Kalamavur  (R.V) Kalamavur  (P) Ward-9 Anna Nagar 2.Kalamavur  (R.V) Kalamavur  (P) Ward-9 Thavalaimedu 3.Kalamavur  (R.V) Kalamavur  (P) Ward-8 Porkudivayal, 4.Kalamavur  (R.V) Kalamavur  (P) Ward-2 Seethapatti, 5.Kalamavur  (R.V) Kalamavur  (P) Ward-3 Namanarayasathiram 6.Kalamavur  (R.V) Kalamavur  (P) Ward-1 Kannakkonpatti 7.Kalamavur  (R.V) Kalamavur  (P) Ward-3 Mettukalam 999.OVERSEAS  ELECTORS"
+46,179,46,46,"Panchayat Union Middle  School,
+R.C.C.  Building, Nadupatti-622502","1.Kalamavur(R.V) Naduppatti (P) Ward-5 Malampatti Konar Theru 2.Kalamavur(R.V) Naduppatti (P) Ward-5 Mallampatti kallar Theru 3.Kalamavur(R.V) Naduppatti (P) Ward-5 Kummathankadu 4.Kalamavur(R.V) Naduppatti (P) Ward-5,6 Therkupatti, 5.Kalamavur(R.V) Naduppatti (P) Ward-4 Naduppatti 999.OVERSEAS  ELECTORS"
+47,179,47,47,"Panchayat Union Middle  School,
+S.S.A.  Building, West  Portion   North Facing Nadupatti-622502",1.Kalamavur(R.V) Naduppatti (P) Ward-1 Vadakkupatti 2.Kalamavur(R.V) Naduppatti (P) Ward-2 Seethapatti Colony 999.OVERSEAS  ELECTORS
+48,179,48,48,"Panchayat Union Elementary  School, New Terraced Building,  North  Facing, East Portion, Neerpalani-622515","1.Neerpalani (R.V) Neerpalani (P) Ward-8 Karuthangippatti 2.Neerpalani (R.V) Neerpalani (P) Ward-1,2,3  Konarkadu 3.Neerpalani (R.V) Neerpalani (P) Ward-3,4,5,7 Neerpalani 4.Neerpalani (R.V) Neerpalani (P) Ward-2 Neerpalani Adidravidar Kilakku Colony
+999.OVERSEAS  ELECTORS"
+49,179,49,49,"Panchayat Union Elementary  School, New Terraced Building,  North  Portion East Facing,  Avvayarpatti -622515",1.Neerpalani (R.V) Neerpalani (P) Ward-1 Avvayarpatti 2.Neerpalani (R.V) Neerpalani (P) Ward-8 Kalathu veedu 999.OVERSEAS  ELECTORS
+50,179,50,50,"Panchayat Union Elememantary  School, New Terraced Building,  North Facing,West  Portion,  Neerpalani-622515.","1.Neerpalani(R.V)Neerpalani(P) Ward-2 Neerpalani Perumalkovil Theru 2.Neerpalani (R.V) Neerpalani (P) Ward-2 Neerpalani
+3.Neerpalani (R.V)Neerpalani (P)   Ward-5.7 Karapatti,kallukolaicolony 999.OVERSEAS  ELECTORS"
+51,179,51,51,"T.E.L.C.  Aided Elementary  School, OlDTiled Building,  West  Side, Kottaiakaranpatti-622515","1.Alangudi (R.V) Alangudi (P) Ward-7 Veppalampatti
+2.Alangudi (R.V) Alangudi (P) Ward-7 Kalathupatti
+3.Alangudi (R.V) Alangudi (P) Ward-7Alangudi
+4.Alangudi (R.V) Alangudi (P) Ward-1 Kottaikaranpatti 5.Alangudi(R.V)Alangudi (P) Ward-   6 Kottaikaranpatti Harijan  theru
+6.Alangudi (R.V)Alangudi (P) Ward- 6 Kottaikaranpatti Harijan colony
+7.Alangudi (R.V) Alangudi (P) Ward-3 Kottaikaranpatti Konar Theru
+8.Alangudi (R.V) Alangudi (P) Ward-1,2 Chithambur Therkku Theru
+9.Alangudi (R.V) Alangudi (P) Ward-1,2 Chithambur Harijan  Theru 999.OVERSEAS  ELECTORS"
+52,179,52,52,"T.E.L.C.  Aided Elementary  School,  New Terraced Building,  East Facing,  West Building,  Kottaiakaranpatti-622515","1.Alangudi (R.V) Alangudi (P) Ward-1,2 Sithambur  Vadakku Theru
+2.Alangudi (R.V) Alangudi (P) Ward-4 Kaikudipatti
+3.Alangudi (R.V) Alangudi (P) Ward-8,9 Velrampatti
+4.Alangudi (R.V) Alangudi (P) Ward-8 Velapudayanpatti, 999.OVERSEAS  ELECTORS"
+53,179,53,53,"Government High School,
+West Facing,  Norh Portion, East Terraced Bilding, Malampatti-622515","1.Perambur  (R.V) Perambur  (P) Ward-5   Malampatti
+2.Perambur  (R.V) Perambur  (P) Ward-8 Meyyanampatti, 999.OVERSEAS  ELECTORS"
+54,179,54,54,"Government High School,
+West Facing,  South  Portion,  East Terraced Bilding, Malampatti-622515","1.Perambur  (R.V) Perambur  (P) Ward-9 Therku Malampatti
+2.Perambur  (R.V) Perambur  (P) Ward-8 Melakkadu
+3.Perambur  (R.V) Perambur  (P) Ward-6 kallupatti 999.OVERSEAS  ELECTORS"
+55,179,55,55,"Panchayat Union Elementary  School, North Terraced Building,  South  Facing, West Portion, Perambur-621316","1.Perambur  (R.V) Perambur  (P) Ward-2 Perambur
+2.Perambur  (R.V) Perambur  (P) Ward-1 Sathivayal 999.OVERSEAS  ELECTORS"
+56,179,56,56,"Panchayat Union Elementary  School, West Tiled Building, North  Side,   East Facing,  Perambur-621316","1.Perambur  (R.V) Perambur  (P) Ward-3,4 Perambur 999.OVERSEAS  ELECTORS"
+57,179,57,57,"Panchayat Union Elementary  School, Terraced Building,  West Facing,  South Portion  South  side  Building, Akkalnayakkanpatti-621316","1.Kathalur (R.V)Kathalur(P) Ward-1Idayapatti,keelapachakudi,Veerampatti
+2.Kathalur (R.V) Kathalur  (P) Ward-1 Vedampatti
+3.Kathalur (R.V) Kathalur  (P) Ward-1 Kurumbar  theru,  Sevanthiandipatti
+4.Kathalur (R.V) Kathalur  (P) Ward-2 Kathalur
+5.Kathalur (R.V) Kathalur  (P) Ward-5,6 Koundanpatti
+6.Kathalur (R.V) Kathalur  (P) Ward-6 Vadakku Athupatti 999.OVERSEAS  ELECTORS"
+58,179,58,58,"Panchayat Union Elementary  School, Terraced Building,  West Facing, Akkalnayakkanpatti-621316","1.Kathalur (R.V) Kathalur  (P) Ward-5,6 Kavundanpatti 2.Akkalnayakkanpatti(R.V) Kathalur (P) Ward-6 Palapatti 3.Akkalnayakkanpatti(R.V) Kathalur (P) Ward-7 Kidavankudi 4.Akkalnayakkanpatti(R.V) Kathalur (P) Ward-3 Idayapatti 5.Akkalnayakkanpatti(R.V) Kathalur (P) Ward-4 Akkalnayakkanpatti 6.Akkalnayakkanpatti(R.V) Kathalur (P) Ward-3 Seethakattupatti 7.Akkalnayakkanpatti(R.V) Kathalur (P) Ward-3 Puthupatti 999.OVERSEAS  ELECTORS"
+59,179,59,59,"Panchayat Union Elementary  School, New Building,  West  Facing,  Mullaiyur-621316","1.Akkalnayakkanpatti(R.V) Kathalur (P) Ward-6 kidavankudi 2.Mullaiyur(R.V) Kathalur (P) Ward-7 Therkku Athupatti 3.Mullaiyur(R.V) Kathalur (P) Ward-7 Mullaiyur 4.Mullaiyur(R.V) Kathalur (P) Ward-8,9 Kulathathupatti, 5.Mullaiyur(R.V) Kathalur (P) Ward-8,9 Rottathupatti 6.Mullaiyur(R.V) Kathalur (P) Ward-9 Thulukkampatti 999.OVERSEAS  ELECTORS"
+60,179,60,60,"Panchayat Union Middle  School, East Portion, North  Facing,  Tiled Building,  Velur-621316","1.Velur  (R.V) Velur  (P) Ward-3,4,5,6 Velur 999.OVERSEAS  ELECTORS"
+61,179,61,61,"Panchayat Union Middle  School,
+New Terraced Building,  North Facing, East Portion, Velur-621316","1.Velur  (R.V) Velur  (P) Ward-1 Kathalampatti
+2.Velur  (R.V) Velur  (P) Ward-6 Boomakonpatti
+3.Velur  (R.V) Velur  (P) Ward-8 Keelachinnapalanipatti
+4.Velur  (R.V) Velur  (P) Ward-8 Melachinnapalanipatti 999.OVERSEAS  ELECTORS"
+62,179,62,62,"Panchayat Union Middle  School, West Portion, North  Facing,Tiled Building,  Velur-621316","1.Velur  (R.V) Velur  (P) Ward-2 Puduppatti
+2.Velur  (R.V) Velur  (P) Ward-1 Konnakattupatti
+3.Velur  (R.V) Velur  (P) Ward-1 Poosaripannai
+4.Velur  (R.V) Velur  (P) Ward-9 Vallakonpatti
+5.Velur  (R.V) Velur  (P) Ward-7 Keezhathottiapatti
+6.Velur  (R.V) Velur  (P) Ward-6 Melathottiapatti 999.OVERSEAS  ELECTORS"
+63,179,63,63,"Government Boys Higher  Secondary School,  North  Side  Building,  East Portion,  South Facing,  Viralimalai-621316","1.Viralimalai (R.V) Viralimalai (P) Ward-3 Eswari nagar 2.Viralimalai (R.V) Viralimalai (P) Ward-1 Periyar Nagar, 999.OVERSEAS  ELECTORS"
+64,179,64,64,"Government Boys Higher  Secondary School,   North  Building,  South Facing, Middle  Portion,  Viralimalai-621316","1.Viralimalai (R.V) Viralimalai (P) Ward-2 Kamaraj Nagar
+2.Viralimalai (R.V) Viralimalai (P) Ward-1 Sandaikku vadakku paguthi 999.OVERSEAS  ELECTORS"
+65,179,65,65,"Government Boys Higher  Secondary School,  North  Building,  South  Facing, West Portion, Viralimalai-621316",1.Viralimalai (R.V) Viralimalai (P) Ward-1 Malankulam 2.Viralimalai (R.V) Viralimalai (P) Ward-9 Ammankovil Theru 999.OVERSEAS  ELECTORS
+66,179,66,66,"Government Boys Higher  Secondary School,  West  Building,  East  Facing, North Portion, Viralimalai-621316","1.Viralimalai(R.V)Viralimalai (P) Ward-5 Annanagar,Pichaikonar  Theru Vadatheru 2.Viralimalai(R.V)Viralimalai(P) Ward-6  Manaparai Salai,(MGR Nagar) 999.OVERSEAS  ELECTORS"
+67,179,67,67,"Government Boys Higher  Secondary School,  West  Building,  East  Facing, Middle  Portion,  Viralimalai-621316",1.Viralimalai (R.V) Viralimalai (P) Ward-5 Vadakku Theru 999.OVERSEAS  ELECTORS
+68,179,68,68,"Government Boys Higher  Secondary School,  West  Building,  East  Facing, South Portion,  Viralimalai-621316","1.Viralimalai (R.V) Viralimalai (P) Ward-7 Sannadhi Theru Keela,  Therkkuratha Veethi 2.Viralimalai (R.V) Viralimalai (P) Ward-8 Theradi Theru,  BPL Tower
+999.OVERSEAS  ELECTORS"
+69,179,69,69,"Panchayat Union Elementary  School, West Southern  side  Terraced Building, West Portion, North  Facing,  Viralimalai-621316",1.Viralimalai (R.V) Viralimalai (P) Ward-10 Therkku Theru 2.Viralimalai (R.V)Viralimalai (P) Ward-11 Therkku Theru MelPaguthi 999.OVERSEAS  ELECTORS
+70,179,70,70,"Panchayat Union Elementary  School, West Southern  side  Terraced Building, East Portion, North  Facing,  Viralimalai-621316",1.Viralimalai (R.V) Viralimalai (P) Ward-12 Madurai road 999.OVERSEAS  ELECTORS
+71,179,71,71,"Panchayat Union Elementary  School, East Facing,  North  Portion,  West  Side Building,  (OldAEEOOffice),  Viralimalai-621316",1.Viralimalai (R.V) Viralimalai (P) Ward-6 kattupatti salai 2.Viralimalai (R.V) Viralimalai (P) Ward-12 Pudukkottai salai 3.Viralimalai (R.V) Viralimalai (P) Ward-5 Vadakku Theru 4.Viralimalai (R.V) Viralimalai (P) Ward-3 Trichy  Main  Road 999.OVERSEAS  ELECTORS
+72,179,72,72,"Panchayat Union Elementary  School, New R.C.C Building, South  Facing, North Building,  Viralimalai-621316",1.Viralimalai (R.V) Viralimalai (P) Ward-12 Madurai Salai 2.Viralimalai (R.V) Viralimalai (P) Ward-6 Kattupatti 3.Viralimalai (R.V) Viralimalai (P) Ward-1 EB office  road 4.Viralimalai (R.V) Viralimalai (P) Ward-1 Manamettupatti 999.OVERSEAS  ELECTORS
+73,179,73,73,"Panchayat Union Elementary  School, East Building, North  Facing,  East Portion,  Viralimalai-621316",1.Viralimalai (R.V) Viralimalai (P) Ward-9 Mathiripatti 2.Viralimalai (R.V) Viralimalai (P) Ward-9 Kalingapatti 3.Viralimalai (R.V) Viralimalai (P) Ward-12 Saralaipallam 999.OVERSEAS  ELECTORS
+74,179,74,74,"Government GirlsHigher  Secondary School,North  Terraced Building, West Portion,  South Facing, Vadugapatti-621316",1.Vadugapatti(R.V) Viralimalai (P) Ward-4 Vadugapatti 999.OVERSEAS  ELECTORS
+75,179,75,75,"Government Girls Higher Secondary School,  Middle   Terraced Building,
+South Portion,  East  Facing,  Vadugapatti-621316",1.Vadugapatti(R.V) Viralimalai (P) Ward-4 Vadugapatti 2.Vadugapatti(R.V) Viralimalai (P) Ward-1 Ramakrishnan Nagar
+76,179,76,76,"Government Girls Higher Secondary School,New Terraced West  Building, North Portion,   East  Facing, Vadugapatti-621316",1.Vadugapatti(R.V) Viralimalai (P) Ward-1 Thethampatti 2.Vadugapatti(R.V) Viralimalai (P) Ward-3 Kondamanayakanpatti 3.Vadugapatti(R.V) Viralimalai (P) Ward-6 Kurichipatti 999.OVERSEAS  ELECTORS
+77,179,77,77,"Panchayat Union Middle  School, North Building,  North Facing, Middle Portion,  Meboothakudi-621316","1.Meboothakudi (R.V) Meboothakudi (P) Ward-1,2,3,4 Meboothakudi 999.OVERSEAS  ELECTORS"
+78,179,78,78,"Panchayat Union Middle  School,
+North Building,South Facing,  East Side Meboothakudi-621316",1.Meboothakudi (R.V) Meboothakudi (P) Ward-7 Andiyapillai patti 2.Meboothakudi (R.V) Meboothakudi (P) Ward-7 Alangampatti 3.Meboothakudi (R.V) Meboothakudi (P) Ward-1 Chithakudipatti 999.OVERSEAS  ELECTORS
+79,179,79,79,"Panchayat Union   Primary  School, North Facing,  East Portion, Manamettupatti-621316",1.Meboothakudi (R.V) Meboothakudi (P) Ward-8 Puravipannai 2.Meboothakudi (R.V) Meboothakudi (P) Ward-8 Manamettupatti
+80,179,80,80,"Panchayat Union Middle  School, West Building, East  Facing,  South Portion,  Meboothakudi-621316","1.Meboothakudi (R.V) Meboothakudi (P) Ward-5,6 Kulavaipatti 999.OVERSEAS  ELECTORS"
+81,179,81,81,"Panchayat Union Elementary  School, East Building, West  Facing,  Tiled Building,  Athipallam-621316","1.Vanathirayanpatti (R.V) Vanathirayanpatti (P)Ward-2 Poosarinayakkanpatti 2.Vanathirayanpatti (R.V)Vanathirayanpatti (P)Ward-2,3 Puthukudiyanpatti Colony 3.Vanathirayanpatti (R.V) Vanathirayanpatti (P) Ward-3  Sevakattupatti 4.Vanathirayanpatti (R.V) Vanathirayanpatti (P) Ward-3  Saveriarpuram 5.Vanathirayanpatti (R.V) Vanathirayanpatti (P) Ward-2,3 Pudhukudiyanpatti 6.Vanathirayanpatti (R.V) Vanathirayanpatti (P) Ward-2  Pallikodathanpatti 7.Vanathirayanpatti (R.V) Vanathirayanpatti (P) Ward-1  Uppiliapatti 8.Vanathirayanpatti (R.V) Vanathirayanpatti (P) Ward-1  Jayamangalam 999.OVERSEAS  ELECTORS"
+82,179,82,82,"Government High School,
+West Terraced Building, East  Facing, Athippallam-621316","1.Vanathirayanpatti (R.V) Vanathirayanpatti (P) Ward-1  Seelnayakkanpatti 2.Vanathirayanpatti (R.V) Vanathirayanpatti (P) Ward-1  Jayamangalam colony 3.Vanathirayanpatti (R.V) Vanathirayanpatti (P) Ward-4  Kodanginayakanpatti 4.Vanathirayanpatti (R.V) Vanathirayanpatti (P) Ward-5 Alangampatti 5.Vanathirayanpatti (R.V) Vanathirayanpatti (P) Ward-3 Vellalar  Theru 6.Vanathirayanpatti (R.V) Vanathirayanpatti (P) Ward-6,7 Sevanampatti 999.OVERSEAS  ELECTORS"
+83,179,83,83,"Government High School,
+New Terraced Building,North Facing, East Portion, Athippallam-621316","1.Vanathirayanpatti (R.V) Vanathirayanpatti (P) Ward-4,5 Athippallam 2.Vanathirayanpatti (R.V) Vanathirayanpatti (P) Ward-6  Manavai Salai 3.Vanathirayanpatti (R.V) Vanathirayanpatti (P) Ward-7  Nariyadikonpatti 4.Vanathirayanpatti (R.V) Vanathirayanpatti (P) Ward-7  Nadupatti 999.OVERSEAS  ELECTORS"
+84,179,84,84,"Panchayat Union   Primary  School,East Terraced Building,  West Facing, Vanathirayanpatti-621316",1.Vanathirayanpatti (R.V) Vanathirayanpatti (P) Ward-9  Maruthankulam 2.Vanathirayanpatti (R.V) Vanathirayanpatti (P) Ward-3  Vanathirayanpatti 3.Vanathirayanpatti(R.V)Vanathirayanpatti (P) Ward-9 Vanathirayanpatti colony 4.Vanathirayanpatti (R.V) Vanathirayanpatti (P) Ward-8  Therkkupatti 5.Vanathirayanpatti (R.V) Vanathirayanpatti (P) Ward-8  Medukattupatti 6.Vanathirayanpatti (R.V) Vanathirayanpatti (P) Ward-8  Kallukattupatti 7.Vanathirayanpatti (R.V) Vanathirayanpatti (P) Ward-7  Manamettupatti 999.OVERSEAS  ELECTORS
+85,179,85,85,"Panchayat Union Middle  School, West Terraced Building, East  Facing, Middle  Portion,  Nambanpatti-621312","1.Nambanpatti (R.V) Nambanpatti (P) Ward-2, 3 Nambanpatti 2.Nambanpatti (R.V) Nambanpatti (P) Ward-8 Kavarapatti 999.OVERSEAS  ELECTORS"
+86,179,86,86,"Panchayat Union Middle  School, Terraced Building,  West Side,  South Portion,  East Facing, Nambanpatti-621312",1.Nambanpatti (R.V) Nambanpatti (P) Ward-7 Bagavanpatti 2.Nambanpatti (R.V) Nambanpatti (P) Ward-8 Kavarpatti paraval 3.Nambanpatti (R.V) Nambanpatti (P) Ward-8 Manthinipatti 4.Nambanpatti (R.V) Nambanpatti (P) Ward-9 Poochipatti 999.OVERSEAS  ELECTORS
+87,179,87,87,"Panchayat Union Middle  School, East Terraced Building, West  Facing, Nambanpatti-621312",1.Nambanpatti (R.V) Nambanpatti (P) Ward-1 Pudukkattupatti 2.Nambanpatti (R.V) Nambanpatti (P) Ward-1 Kollumettupatti 3.Nambanpatti (R.V) Nambanpatti (P) Ward-1 Uppiliyapatti 4.Nambanpatti (R.V) Nambanpatti (P) Ward-2 Purasampatti 5.Nambanpatti (R.V) Nambanpatti (P) Ward-4 Vellaimadaipatti 999.OVERSEAS  ELECTORS
+88,179,88,88,"Panchayat Union Middle  School,
+West Side  Building,  North Portion,  East Facing,  Terraced Building,  Nambanpatti-621312","1.Nambanpatti (R.V) Nambanpatti (P) Ward-5,6 Kodalikudi 2.Nambanpatti (R.V) Nambanpatti (P) Ward-6 Kottaikaranpatti 999.OVERSEAS  ELECTORS"
+89,179,89,89,"Panchayat Union Elementary  School, South Facing, New Tiled Building, Rajalipatti-621312",1.Rajalipatti (R.V) Rajalipatti (P) Ward-3 Ellaikkalpatti 2.Rajalipatti (R.V) Rajalipatti (P) Ward-7 Kadaikonpatti 3.Rajalipatti (R.V) Rajalipatti (P) Ward-3 Pillankulathupatti 4.Rajalipatti (R.V) Rajalipatti (P) Ward-3 Muthukavundanpatti 5.Rajalipatti (R.V) Rajalipatti (P) Ward-2 Pappapatti 6.Rajalipatti (R.V) Rajalipatti (P) Ward-2 Karungkavalanpatti 7.Rajalipatti (R.V) Rajalipatti (P) Ward-2 Arunkavalanpatti 8.Rajalipatti (R.V) Rajalipatti (P) Ward-7 Karadaikkanpatti 999.OVERSEAS  ELECTORS
+90,179,90,90,"Government High School, West Building, East  Facing Rajalipatti-621312",1.Rajalipatti (R.V) Rajalipatti (P) Ward-5 Kulavaipatti 2.Rajalipatti (R.V) Rajalipatti (P) Ward-5 Pasukaranpatti 3.Rajalipatti (R.V) Rajalipatti (P) Ward-5 Chithakalapatti 4.Rajalipatti (R.V) Rajalipatti (P) Ward-6 Andiyappatti 5.Rajalipatti (R.V) Rajalipatti (P) Ward-5 Supparayanpatti 6.Rajalipatti (R.V) Rajalipatti (P) Ward-2 Karakavundanpatti 7.Rajalipatti (R.V) Rajalipatti (P) Ward-8 Patnapatti 8.Rajalipatti (R.V) Rajalipatti (P) Ward-9 Kuttiyapatti 999.OVERSEAS  ELECTORS
+91,179,91,91,"Government High School,
+North Building,  East  Portion,  South Facing,  Rajalipatti-621312",1.Rajalipatti (R.V) Rajalipatti (P) Ward-1 Rajalipatti 2.Rajalipatti (R.V) Rajalipatti (P) Ward-7 Oonanmadai 999.OVERSEAS  ELECTORS
+92,179,92,92,"Panchayat Union   Primary  School,  East Facing,  North  Building,  South Portion, Pattanapatti-621316",1.Rajalipatti (R.V) Rajalipatti (P) Ward-7 Kallukattupatti 2.Rajalipatti (R.V) Rajalipatti (P) Ward-8 Patnapatti 3.Rajalipatti (R.V) Rajalipatti (P) Ward-4 Poosaripatti 4.Rajalipatti (R.V) Rajalipatti (P) Ward-9 Kuttiyapatti 999.OVERSEAS  ELECTORS
+93,179,93,93,"Panchayat Union Elementary  School, New Terraced West  Building,  North Facing,  Viruthapatti-621316",1.Viruthapatti (R.V) Viruthapatti (P) Ward-3 Pasumekkipatti 2.Viruthapatti (R.V) Viruthapatti (P) Ward-8 Pallakalapatti 3.Viruthapatti (R.V) Viruthapatti (P) Ward-3 Viruthapatti 999.OVERSEAS  ELECTORS
+94,179,94,94,"Panchayat Union Elementary  School, New East  Tiled Building,  North  Facing, Viruthapatti-621316","1.Viruthapatti (R.V) Viruthapatti (P) Ward-2 Anankadu 2.Viruthapatti (R.V) Viruthapatti (P) Ward-1 Serampatti, 3.Viruthapatti (R.V) Viruthapatti (P) Ward-1 Angurakulathupatti 4.Viruthapatti (R.V) Viruthapatti (P) Ward-1 Mekattampatti 5.Viruthapatti (R.V) Viruthapatti (P) Ward-1 Thalayaripatti 6.Viruthapatti (R.V) Viruthapatti (P) Ward-8 Kadaikkampatti 7.Viruthapatti (R.V) Viruthapatti (P) Ward-8 Chettiyapatti Kilakku 999.OVERSEAS  ELECTORS"
+95,179,95,95,"Panchayat Union Middle  School, West Building, North  Facing, Seralapaitti-621316","1.Viruthapatti (R.V) Viruthapatti (P) Ward-9 Chettiapatti Solai Pannai Theru 2.Viruthapatti (R.V) Viruthapatti (P) Ward-2 Chettiapatti Merkku 3.Viruthapatti (R.V) Viruthapatti (P) Ward-4 Manapatti Theru  4.Viruthapatti (R.V) Viruthapatti (P) Ward-4 Poosari Pannai Theru 5.Viruthapatti (R.V)Viruthapatti (P) Ward-4 Saralapatti Solai Pannaitheru 6.Viruthapatti (R.V) Viruthapatti (P) Ward-4 Erankadu
+7.Viruthapatti (R.V) Viruthapatti (P) Ward-4 Kasthuri Theru 8.Viruthapatti (R.V) Viruthapatti (P) Ward-5,6 Saralapatti 9.Viruthapatti (R.V) Viruthapatti (P) Ward-7 Naduvalavu 10.Viruthapatti (R.V) Viruthapatti (P) Ward-7 Renganampatti 999.OVERSEAS  ELECTORS"
+96,179,96,96,"Panchayat Union Middle  School,  south Facing,  North  Terraced Building, Seethapatti-621316",1.Poyyamani (R.V) Poyyamani (P) Ward -1 Seethapatti Vadakku 2.Poyyamani (R.V) Poyyamani (P) Ward -2 Seethapatti Therkku 3.Poyyamani (R.V) Poyyamani (P) Ward -2 Mettukadai 4.Poyyamani (R.V) Poyyamani (P) Ward -6 Athikadu 5.Poyyamani (R.V) Poyyamani (P) Ward -2 Vellakalpatti 6.Poyyamani (R.V) Poyyamani (P) Ward -8 Pothapatti 999.OVERSEAS  ELECTORS
+97,179,97,97,"Panchayat Union Elementary  School, West New Terraced Building,  East Facing,  Poyyamani-621316","1.Poyyamani (R.V) Poyyamani (P) Ward-1 Sevalpatti Vadakku 2.Poyyamani (R.V) Poyyamani (P) Ward-4 Kallankadu 3.Poyyamani (R.V) Poyyamani (P) Ward-4 Sevalpatti Therkku 4.Poyyamani (R.V) Poyyamani (P) Ward-4 Vadakki kalam 5.Poyyamani (R.V) Poyyamani (P) Ward-4,5 Poyyamani 999.OVERSEAS  ELECTORS"
+98,179,98,98,"Panchayat Union Elementary  School, Seniyapatti-621316","1.Kasavanur(R.V) Kasavanur(P) Ward-5 Kuruthankalapatti 2.Kasavanur(R.V) Kasavanur(P) Ward-5 Kakkamedu 3.Kasavanur(R.V) Kasavanur(P) Ward-6 Kandiranpatti 4.Kasavanur(R.V) Kasavanur(P) Ward-2 Manappattiyankalam 5.Kasavanur(R.V) Kasavanur(P) Ward-3,4 Seniyapatti 6.Kasavanur(R.V) Kasavanur(P) Ward-1 Navadipatti 999.OVERSEAS ELECTORS"
+99,179,99,99,"Samuthayakkoodam,
+North Facing,  Terraced Building, Idaiyappatti-621316",1.Thengaithinnipatti (R.V)Thengaithinnipatti (P) Ward-4 Idayapatti Kilakku 2.Thengaithinnipatti (R.V  Thengaithinnipatti (P)Ward-4 Idayapatti Merkku 3.Thengaithinnipatti (R.V) Thengaithinnipatti (P) Ward-9 Sevakkalpatti 4.Thengaithinnipatti (R.V) Thengaithinnipatti (P) Ward-9 Vadakku mothapatti 5.Thengaithinnipatti(R.V)Thengaithinnipatti (P) Ward-2 Othakadai Kilakku 6.Thengaithinnipatti (R.V) Thengaithinnipatti (P) Ward-2 Harijana Colony 7.Thengaithinnipatti (R.V) Thengaithinnipatti (P) Ward-2 Vellariyanpannai 999.OVERSEAS  ELECTORS
+100,179,100,100,"Panchayat Union Middle  School, Additional Building  East  Side,  West Facing,  Thengaithinnipatti-621316","1.Thengaithinnipatti (R.V) Thengaithinnipatti (P) Ward-3 Moolipannai 2.Thengaithinnipatti (R.V) Thengaithinnipatti (P) Ward-3 Nambianpanai 3.Thengaithinnipatti (R.V) Thengaithinnipatti (P) Ward-3 Perichikavundanpatti 4.Thengaithinnipatti (R.V) Thengaithinnipatti (P) Ward-3 Valarpannai 5.Thengaithinnipatti (R.V) Thengaithinnipatti (P) Ward-2 S.C.  Coloni Thengaithinnipatti 6.Thengaithinnipatti (R.V) Thengaithinnipatti (P) Ward-7 Kounder Theru 7.Thengaithinnipatti (R.V) Thengaithinnipatti (P) Ward-4 Poosari patti 8.Thengaithinnipatti (R.V) Thengaithinnipatti (P) Ward-1 Kuppampatti
+999.OVERSEAS  ELECTORS"
+101,179,101,101,"Panchayat Union Middle  School, North Building,  East  Portion,  South Facing,  Thengaithinnipatti-621316",1.Thengaithinnipatti (R.V)Thengaithinnipatti (P) Ward-2 Othakadai Merkku 2.Thengaithinnipatti (R.V)Thengaithinnipatti (P)Ward-8 Mothapati Vadakku 3.Thengaithinnipatti (R.V)Thengaithinnipatti (P) Ward-3 Varattukadu 4.Thengaithinnipatti (R.V) Thengaithinnipatti (P) Ward-2 Nadumothapatti 5.Thengaithinnipatti (R.V)Thengaithinnipatti (P) Ward-8Mothapatti therkku 6.Thengaithinnipatti(R.V)Thengaithinnipatti(P) Ward-4 Chettiarkadai Theru 7.Thengaithinnipatti (R.V) Thengaithinnipatti (P) Ward-1 Rasakadu 8.Thengaithinnipatti (R.V) Thengaithinnipatti (P) Ward-1 Karayampatti 999.OVERSEAS  ELECTORS
+102,179,102,102,"Panchayath Union Elemantary  School, Tiled Building,  North  Facing, Kalappanur-621316",1.Kodumbalur  (R.V) Kodumbalur (P) Ward-3 Kalappanur 2.Kodumbalur  (R.V) Kodumbalur (P) Ward-2 Pudukudipatti 3.Kodumbalur  (R.V) Kodumbalur (P) Ward-2 Arasakudipatti 4.Kodumbalur  (R.V) Kodumbalur (P) Ward-2 Keelapatti 999.OVERSEAS  ELECTORS
+103,179,103,103,"Panchayat Union Elementary  School, South Facing, East  Portion,  MoovarKovil Kodumbalur-621316","1.Kodumbalur  (R.V) Kodumbalur (P) Ward-9 Savukkukadu, 2.Kodumbalur  (R.V) Kodumbalur (P) Ward-9 Thalakadu 3.Kodumbalur  (R.V) Kodumbalur (P) Ward-9 Kodumbalur 4.Kodumbalur  (R.V) Kodumbalur (P) Ward-9 Kottakarai 999.OVERSEAS  ELECTORS"
+104,179,104,104,"Panchayat Union Elementary  School, East Building, West  Facing, Poolankalam   Kodumbalur-621316","1.Kodumbalur  (R.V) Kodumbalur (P) Ward-8 Poolangalam, 2.Kodumbalur  (R.V) Kodumbalur (P) Ward-8 Kuruthikalam, 3.Kodumbalur  (R.V) Kodumbalur (P) Ward-7 Malayankalam 4.Kodumbalur  (R.V) Kodumbalur (P) Ward-7 Vadiankalam, 999.OVERSEAS  ELECTORS"
+105,179,105,105,"Government Higher Secondary School, West Building, West  Portion,  North Facing,  Kodumbalur-621316",1.Kodumbalur  (R.V) Kodumbalur (P) Ward-2 Navakonpatti 2.Kodumbalur  (R.V) Kodumbalur (P) Ward-1 Vadakattupatti 3.Kodumbalur  (R.V) Kodumbalur (P) Ward-6 Sangipatti 4.Kasavanur(R.V) Kodumbalur (P) Ward-6 Kasavanur 999.OVERSEAS  ELECTORS
+106,179,106,106,"Government Higher Secondary School, North West Building,  South  Portion,East Facing
+Kodumbalur-621316",1.Kodumbalur  (R.V) Kodumbalur (P) Ward-1 Kalugumedu 2.Kodumbalur  (R.V) Kodumbalur (P) Ward-8 Poosarikalam 3.Kodumbalur  (R.V) Kodumbalur (P) Ward-9 Karadikalam 4.Kodumbalur  (R.V) Kodumbalur (P) Ward-5 Kodumbalur sathiram 5.Kasavanur(R.V) Kodumbalur (P) Ward-6 Konadipatti 999.OVERSEAS  ELECTORS
+107,179,107,107,"Panchayat Union   Primary  School,  West Terraced Building,  North  Facing,  West Portion,  Sangampatti-621316","1.Viralur  (R.V) Viralur (P) Ward-9 Kodikalpatti
+2.Viralur  (R.V) Viralur (P) Ward-8 Therkku kodikalpatti
+3.Viralur  (R.V) Viralur (P) Ward-8 Sangampatti
+4.Viralur  (R.V) Viralur (P) Ward-7 Narsanipatti 999.OVERSEAS  ELECTORS"
+108,179,108,108,"Panchayat Union Elementary  School, South Facing, North  Terraced Building, Bhagavanpatti-621316","1.Viralur  (R.V) Viralur (P) Ward-3 Parapatti
+2.Viralur  (R.V) Viralur (P) Ward-3 Purasangalpatti
+3.Viralur  (R.V) Viralur (P) Ward-3 Bhagavanpatti
+4.Viralur  (R.V) Viralur (P) Ward-3 Ponni kulathupatti
+5.Viralur  (R.V) Viralur (P) Ward-2 Pallar  natham 999.OVERSEAS  ELECTORS"
+109,179,109,109,"Panchayat Union Elementary  School, North Facing,  West Portion, New Terraced Building,  Viralur-621316","1.Viralur  (R.V) Viralur (P) Ward-2 Pallarnatham
+2.Viralur  (R.V) Viralur (P) Ward-4 Viralur
+3.Viralur  (R.V) Viralur (P) Ward-5 Vadakkipatti
+4.Viralur  (R.V) Viralur (P) Ward-2 Kaniyalampatti 999.OVERSEAS  ELECTORS"
+110,179,110,110,"Panchayat Union Middle  School, West Facing,  North Portion,  South Building,  Ramakavundapatti 621316","1.Viralur  (R.V) Viralur (P) Ward-6 Ramakoundanpatti
+2.Viralur  (R.V) Viralur (P) Ward-7 Pillampatti
+3.Viralur  (R.V) Viralur (P) Ward-5 Thesiyakalapatti
+4.Viralur  (R.V) Viralur (P) Ward-5 Nathakkadu
+5.Viralur  (R.V) Viralur (P) Ward-5 Medukatanpatti 999.OVERSEAS  ELECTORS"
+111,179,111,111,"Panchayat Union Middle  School,
+New Terraced Building,  North  Facing, East Portion, Thennampadi-621316",1.Thennampadi (R.V) Thennampadi (P) Ward-4 Thappukattanpatti 2.Thennampadi (R.V) Thennampadi (P) Ward-3 Medukattanpatti 3.Thennampadi (R.V) Thennampadi (P) Ward-3 Therkku colony 4.Thennampadi (R.V) Thennampadi (P) Ward-3 Thennambadi 999.OVERSEAS  ELECTORS
+112,179,112,112,"Panchayat Union Middle  School, SSA Building, South  Facing,  East Portion,  Thennambadi-621316",1.Thennampadi (R.V) Thennampadi (P) Ward-2 Vadakku colony 2.Thennampadi (R.V) Thennampadi (P) Ward-3 Sappani Theru 3.Thennampadi (R.V) Thennampadi (P) Ward-1 Sattikuppanpatti 4.Thennampadi (R.V) Thennampadi (P) Ward-1 Kalasangampatti 5.Thennampadi (R.V) Thennampadi (P) Ward-2 Therkkukodikalpatti 6.Thennampadi (R.V) Thennampadi (P) Ward- 2 Kalarangattupatti 7.Thennampadi (R.V) Thennampadi (P) Ward-6 Koothakudi 999.OVERSEAS  ELECTORS
+113,179,113,113,"Panchayat Union Middle  School, North Facing,  West Portion,South Building,  Rajagiri-621316","1.Rajagiri (R.V) Rajagiri (P) Ward-2 Chinnapalanipatti
+2.Rajagiri (R.V) Rajagiri (P) Ward-9 Kulakaranpatti
+3.Rajagiri (R.V) Rajagiri (P) Ward-7 Athupatti 999.OVERSEAS  ELECTORS"
+114,179,114,114,"Panchayat Union Middle  School, East Facing,  West  Building,  Rajagiri kulavaippatti- 621316","1.Rajagiri (R.V) Rajagiri (P) Ward-4 Pothiyakonpatti
+2.Rajagiri (R.V) Rajagiri (P) Ward-3 Kakkakudi
+3.Rajagiri (R.V) Rajagiri (P) Ward-3 Kulavaipatti 999.OVERSEAS  ELECTORS"
+115,179,115,115,"Panchayat Union Middle  School, South  Facing,  East  portion,East Building,  Rajagiri-621316","1.Rajagiri (R.V) Rajagiri (P) Ward-4 Koothandammankovil
+2.Rajagiri (R.V) Rajagiri (P) Ward-7 Mamarathupatti
+3.Rajagiri (R.V) Rajagiri (P) Ward-4 Karaimettupatti
+4.Rajagiri (R.V) Rajagiri (P) Ward-1 Kalkuthanpatti 999.OVERSEAS  ELECTORS"
+116,179,116,116,"Panchayat Union Middle  School, South  Facing,  West  Portion,  East Building,  Rajagiri-621316","1. Rajagiri (R.V) Rajagiri (P) Ward-8 Sukkampatti
+2. Rajagiri (R.V) Rajagiri (P) Ward-8 Kumaravadi natham
+3. Rajagiri (R.V) Rajagiri (P) Ward-5,6 Rajagiri
+4. Rajagiri (R.V) Rajagiri (P) Ward-6 Chinnarajagiri 999.OVERSEAS  ELECTORS"
+117,179,117,117,"Government High School,
+East Side, South  Facing,  Terraced Building,  Thirunallur-622102",1.Thirunallur  (R.V) Thirunallur (P) Ward-1 Thirunallur 2.Thirunallur  (R.V) Thirunallur (P) Ward-2 Nachikurichi 3.Thirunallur  (R.V) Thirunallur (P) Ward-2 Arasampatti 4.Thirunallur  (R.V) Thirunallur (P) Ward-4 Mettukalam 999.OVERSEAS  ELECTORS
+118,179,118,118,"Government High School,
+West Side, South  Facing,Terraced Building,  Thirunallur-622102",1.Thirunallur  (R.V) Thirunallur (P) Ward-4 Sethurapatti 2.Thirunallur  (R.V) Thirunallur (P) Ward-5 Kalarpatti 3.Thirunallur  (R.V) Thirunallur (P) Ward-3 Melakalam 4.Thirunallur  (R.V) Thirunallur (P) Ward-6 Atchanayakanpatti 5.Thirunallur  (R.V) Thirunallur (P) Ward-6 Salaikalam 999.OVERSEAS  ELECTORS
+119,179,119,119,"Panchayat Union Middle  School, South Facing, East  Terraced Building, Kattakudi-622102",1.Kattakudi (R.V) Kattakudi (P) Ward-5 Kattakudi 2.Kattakudi (R.V) Kattakudi (P) Ward-7 Idai Theru 999.OVERSEAS  ELECTORS
+120,179,120,120,"Panchayat Union Middle  School,South Facing,  East Terraced Building,Middle Portion  Kattakudi-622102",1.Kattakudi (R.V) Kattakudi (P) Ward-6 Kalliadaikanpatti 2.Kattakudi (R.V) Kattakudi (P) Ward-1 Alikadu 3.Kattakudi (R.V) Kattakudi (P) Ward-1 Therkupannai 4.Kattakudi (R.V) Kattakudi (P) Ward-2 Atchanayakanpatti 5.Kattakudi (R.V) Kattakudi (P) Ward-2 Sukkankalam 6.Kattakudi (R.V) Kattakudi (P) Ward-2 Nagaram 999.OVERSEAS  ELECTORS
+121,179,121,121,"Panchayat Union Middle  School,  New Terraced   Building,   South  Facing, Middle  Portion,  Murugakonpatti-622102","1.Kattakudi (R.V) Kattakudi (P) Ward-3 Pappanvayal 2.Kattakudi (R.V) Kattakudi (P) Ward-3 Chinnakurumbapatti 3.Kattakudi (R.V) Kattakudi (P) Ward-3 Velankalpatti 4.Kattakudi (R.V) Kattakudi (P) Ward-4 Periyakurumbapatti 5.Kattakudi (R.V) Kattakudi (P) Ward-4,5 Murugakonpatti 999.OVERSEAS  ELECTORS"
+122,179,122,122,"Government Higher Secondary School, Terraced Southern Building, West Portion,  North Facing,  Eluvampatti-622515","1.Suriyur  (R.V) Suriyur (P) Ward-4  Alangulam
+2.Suriyur  (R.V) Suriyur (P) Ward-9  Valathadipatti
+3.Suriyur  (R.V) Suriyur (P) Ward-9  Pichaithevanpatti
+4.Suriyur  (R.V) Suriyur (P) Ward-9  Seethapatti
+5.Suriyur  (R.V) Suriyur (P) Ward-9  Kathampatti
+6.Suriyur  (R.V) Suriyur (P) Ward-9  Pichaithevanpatti Adidravidar Theru 999.OVERSEAS ELECTORS"
+123,179,123,123,"Panchayat union  Primary  School,  East Tiled Building,  South Facing,  North Portion  Muthukrishnanpatti-622515","1.Suriyur  (R.V) Suriyur (P) Ward-1  Puduvayal
+2.Suriyur  (R.V) Suriyur (P) Ward-1  Villarodai
+3.Suriyur  (R.V) Suriyur (P) Ward-2  Villarodai Colony,
+4.Suriyur  (R.V) Suriyur (P) Ward-2,3,4  Muthukrishnanpatti 999.OVERSEAS ELECTORS"
+124,179,124,124,"Government Higher Secondary School, Terraced Southern Building, Middle Portion,  North Facing,  Eluvampatti-622515","1.Suriyur  (R.V) Suriyur (P) Ward-5  Suriyur
+2.Suriyur  (R.V) Suriyur (P) Ward-4  Eluvampatti
+3.Suriyur (R.V) Suriyur (P) Ward-4  Aruvankalpatti 999.OVERSEAS  ELECTORS"
+125,179,125,125,"Panchayat Union Elementary  School, East Facing,  Tiled building, Kongudipatti-622515",1.Kongudipatti (R.V) Kongudipatti (P) Ward-1 Kongudipatti 2.Kongudipatti (R.V) Kongudipatti (P) Ward-2 Pannipatti 3.Kongudipatti (R.V) Kongudipatti (P) Ward-1 Chinnakurumbatti 999.OVERSEAS  ELECTORS
+126,179,126,126,"Panchayat Union Middle  School,  West Facing,  Terraced Building,  Pilipatti-622102","1.Thannangudi(R.V) Kongudipatti (P) Ward-4 Pilipatti 2.Thannangudi(R.V) Kongudipatti (P) Ward-4,5 P.Mettupatti 3.Thannangudi(R.V) Kongudipatti (P) Ward-6 Thannangudi 999.OVERSEAS  ELECTORS"
+127,179,127,127,"Government High School,
+South Facing, East  Portion,  Terraced Building,  Pakkudi-622102","1.Pakkudi (R.V) Pakkudi (P) Ward-2 Mangalapatti
+2.Pakkudi (R.V) Pakkudi (P) Ward-3 Therkkukalam
+3.Pakkudi (R.V) Pakkudi (P) Ward-5 Pakudi Harijana colony
+4.Pakkudi (R.V) Pakkudi (P) Ward-5 Nedungalakudi
+5.Pakkudi (R.V) Pakkudi (P) Ward-6 Idayankalam 999.OVERSEAS  ELECTORS"
+128,179,128,128,"Panchayat Union Elementary School, North Facing, Additional New Building, Pakkudi-622102","1.Pakkudi (R.V) Pakkudi (P) Ward-3 Pakkudi
+2.Pakkudi (R.V) Pakkudi (P) Ward-1 Valathadipatti
+3.Pakkudi (R.V) Pakkudi (P) Ward-3 Arumbalipatti
+4.Pakkudi (R.V) Pakkudi (P) Ward-1 Sukkankadu 999.OVERSEAS ELECTORS"
+129,179,129,129,"Panchayat Union Elementary  School, South Facing, West  Portion,  Paiyur-622102","1.Pakkudi (R.V) Pakkudi (P) Ward-3 Paiyur Mangalapatti
+2.Paiyur  (R.V) Pakkudi (P) Ward-6 Pappankalam
+3.Paiyur  (R.V) Pakkudi (P) Ward-8,9 Vittanilaipatti
+4.Paiyur  (R.V) Pakkudi (P) Ward-9 Marapatti 999.OVERSEAS  ELECTORS"
+130,179,130,130,"Panchayat Union Middle  School, New R.C.C.  Building, South Facing, North Building,  Nariyapatti-622505",1.Vemmani(R.V) Vemmani(P) Ward-5 Periyamoolipatti 2.Vemmani(R.V) Vemmani(P) Ward-5 Chinnamoolipatti 3.Vemmani(R.V) Vemmani(P) Ward-4 Vemmani 999.OVERSEAS  ELECTORS
+131,179,131,131,"Panchayat Union Middle  School, New R.C.C.  Building,  West  Portion North Facing  Nariyapatti-622505","1.Vemmani(R.V) Vemmani(P) Ward-6 Mallampatti 2.Vemmani(R.V) Vemmani(P) Ward-1,2,5 Nariapatti 3.Vemmani(R.V) Vemmani(P) Ward-6 Nariapatti colony 999.OVERSEAS  ELECTORS"
+132,179,132,132,"Panchayat Union Elementary  School, Terraced Building,  South Facing, Mangudi-622505",1.Nangupatti (R.V) Nangupatti (P) Ward-1 Mangudi 2.Nangupatti (R.V) Nangupatti (P) Ward-3 Kalathupatti 3.Nangupatti (R.V) Nangupatti (P) Ward-3 Mettukadai 999.OVERSEAS  ELECTORS
+133,179,133,133,"Panchayat Union Elementary  School, Terraced Building,   North  Facing, Mangudi-622505",1.Nangupatti (R.V) Nangupatti (P) Ward-3 Arangudipatti 2.Nangupatti (R.V) Nangupatti (P) Ward-5 S.Nangupatti 3.Nangupatti (R.V) Nangupatti (P) Ward-4 K.Nangupatti 4.Nangupatti(R.V) Nangupatti (P) Ward-5.6 Melasithakudipatti 5.Nangupatti(R.V) Nangupatti (P) Ward-6 Keelasithakudipatti 999.OVERSEAS  ELECTORS
+134,179,134,134,"Panchayat Union Elementary  School, New Terraced Building,  South  facing, East Portion, Maruthampatti-622505","1.Maruthampatti (R.V) Nangupatti (P) Ward-2  Kanakanpatti 2.Maruthampatti(R.V) Vilapatti (P) Ward-3 Karupparmalai 3.Maruthampatti(R.V) Vilapatti(P) Ward-3 Maruthampatti 4.Maruthampatti(R.V) Vilapatti(P) Ward-4 Athanampatti 5.Maruthampatti(R.V) Vilapatti(P) Ward-4,5 Mettupatti 6.Maruthampatti(R.V) Vilapatti(P) Ward-6 Pinnankudipatti 999.OVERSEAS  ELECTORS"
+135,179,135,135,"Panchayat Union Middle  School, West Facing,  North Portion, Vilappatti-622505","1.Vilapatti(R.V) Vilapatti(P) Ward1,2,3,4  Vilappati 2.Vilapatti (R.V) Nangupatti (P) Ward-5 Itchipatti 3.Vilapatti (R.V) Nangupatti (P) Ward-5,6Thulukampatti 4.Vilapatti (R.V) Nangupatti (P) Ward-6 Mettukalam 999.OVERSEAS  ELECTORS"
+136,179,136,136,"Panchayat Union Elementary  School, South Facing, Middle  Portion, Lekkanappatti-622504","1.Lekkanapatti (R.V) Lekkanapatti (P) Ward-1 Lekkanapatti Mela theru 2.Lekkanapatti (R.V) Lekkanapatti (P) Ward-2 Lekkanapatti Asari theru 3.Lekkanapatti (R.V) Lekkanapatti (P) Ward-3 Lekkanapatti Muslim theru
+4.Lekkanapatti (R.V) Lekkanapatti (P) Ward-4 Lekkanapatti Amabalakara theru Kilakku
+5.Lekkanapatti (R.V) Lekkanapatti (P) Ward-2 Lekkanapatti Adidravidar  theru 6.Lekkanapatti (R.V) Lekkanapatti (P) Ward-2 Lekkanapatti Amabalakara theru Merkku
+7.Lekkanapatti (R.V) Lekkanapatti (P) Ward-4 Lekkanapatti Keelatheru 8.Lekkanapatti (R.V) Lekkanapatti (P) Ward-1 Soonayankalam 9.Lekkanapatti (R.V) Lekkanapatti (P) Ward-5 Thandipatti 10.Lekkanapatti (R.V) Lekkanapatti (P) Ward-5 Keelakadu 999.OVERSEAS  ELECTORS"
+137,179,137,137,"Panchayat Union Elementary  School, West Facing,  North Portion,  Pathipatti-622504",1.Pathipatti(R.V) Lekkanapatti (P) Ward-6 Therkkupatti 2.Pathipatti(R.V) Lekkanapatti (P) Ward-6 Pathipatti Therkku Theru 3.Pathipatti(R.V) Lekkanapatti (P) Ward-7 Pathipatti Melatheru 4.Pathipatti(R.V) Lekkanapatti (P) Ward-7 Pathipatti Vadakkutheru 5.Pathipatti(R.V) Lekkanapatti (P) Ward-4 Pathipatti Ambalakara Theru 6.Pathipatti(R.V) Lekkanapatti (P) Ward-4 Pathipatti Harijana Theru 7.Pathipatti(R.V) Lekkanapatti (P) Ward-8   Kurumbapatti 8.Pathipatti(R.V) Lekkanapatti (P) Ward-8 Beemampatti 9.Pathipatti(R.V) Lekkanapatti (P) Ward-8 Nadarajapuram 10.Pathipatti(R.V) Lekkanapatti (P) Ward-9 Avarangudipatti 11.Pathipatti(R.V) Lekkanapatti (P) Ward-9 Anthankudipatti 999.OVERSEAS  ELECTORS
+138,179,138,138,"Panchayat Union Elementary  School, Terraced Building,  West Portion, North Facing,  Melapuduvayal-622502",1.Melapuduvayal (R.V) Melapuduvayal (P) Ward-9 Ayangudi vayal 2.Melapuduvayal (R.V) Melapuduvayal (P) Ward-9 Veeradivayal 3.Melapuduvayal (R.V) Melapuduvayal (P) Ward-3 Therkkuthuvarayal 4.Melapuduvayal (R.V) Melapuduvayal (P) Ward-2 Poradikalam 5.Melapuduvayal (R.V) Melapuduvayal (P) Ward-4 Vadakku thuvaravayal 999.OVERSEAS  ELECTORS
+139,179,139,139,"Panchayat Union Elementary  School, Terraced Building,Melapuduvayal-622502","1.Melapuduvayal (R.V) Melapuduvayal (P) Ward-5,6,7 Melapuduvayal 2.Melapuduvayal (R.V) Melapuduvayal (P) Ward-7 Sethuravayal 3.Melapuduvayal (R.V) Melapuduvayal (P) Ward-9 Seenivayal 4.Melapuduvayal (R.V) Melapuduvayal (P) Ward-8 Udavayal 999.OVERSEAS  ELECTORS"
+140,179,140,140,"Panchayat Union Elementary  School, Terraced Building,  South
+Kulathur-622504","1.Kulathur  (R.V) Kulathur (P) Ward-2 Gandhi Nagar
+2.Kulathur  (R.V) Kulathur (P) Ward-1 Ayikudivayal Salai
+3.Kulathur  (R.V) Kulathur (P) Ward-3,4 keelatheru
+4.Kulathur (R.V) Kulathur (P) Ward-4 Nayakkar Theru 999.OVERSEAS  ELECTORS"
+141,179,141,141,"Panchayat Union Elementary  School, New Building,  East Portion, East Facing,  Kulathur-622504","1.Kulathur  (R.V) Kulathur (P) Ward-1 Melatheru
+2.Kulathur (R.V) Kulathur (P) Ward-1 Sakkiliya theru
+3.Kulathur  (R.V) Kulathur (P) Ward-6 Andi theru 999.OVERSEAS  ELECTORS"
+142,179,142,142,"Panchayat Union Elementary  School, Tiled Building,  Kulathur-622504",1.Kulathur  (R.V) Kulathur (P) Ward-3 Keela theru 999.OVERSEAS  ELECTORS
+143,179,143,143,"Panchayat Union Elementary  School, North Side,South  Facing,  West  Portion, Kulathur-622504","1.Kulathur  (R.V) Kulathur (P) Ward-3 Velar Theru
+2.Kulathur  (R.V) Kulathur (P) Ward-5 Perumal kovil Theru
+3.Kulathur  (R.V) Kulathur (P) Ward-4 Nadupatti
+4.Kulathur  (R.V) Kulathur (P) Ward-2 Paratheru 999.OVERSEAS  ELECTORS"
+144,179,144,144,"Panchayat Union Middle  School, East Portion,Illaiyavayal-622504","1.Kulathur  (R.V) Kulathur (P) Ward-7 Kallukumiyalpatti
+2.Kulathur  (R.V) Kulathur (P) Ward-7 Kovilkadu
+3.Kulathur  (R.V) Kulathur (P) Ward-8 Ilayavayal Illaya Tamil Nagar
+4.Kulathur  (R.V) Kulathur (P) Ward-8 Ilayavayal
+5.Kulathur  (R.V) Kulathur (P) Ward-8 Ilayavayal Pallar  theru
+6.Kulathur  (R.V) Kulathur (P) Ward-3 Chinnavandu Poosari theru 999.OVERSEAS  ELECTORS"
+145,179,145,145,"Panchayat Union Elementary  School, East Facing,  North  Portion, Aththirivayal-622504","1.Kulathur  (R.V) Kulathur (P) Ward-9 Udaya Malavaranpatti
+2.Kulathur  (R.V) Kulathur (P) Ward-3 Valankondar Theru
+3.Kulathur  (R.V) Kulathur (P) Ward-9 Athirivayal
+4.Kulathur  (R.V) Kulathur (P) Ward-9 Athiruvayal Car  Colony 999.OVERSEAS  ELECTORS"
+146,179,146,146,"Panchayat Union Middle  School,
+R.C.C.  Building, West  Portion, Odukkur-622504","1. Vadugapatti (R.V) Odukkur (P) Ward-2 Vadugapatti
+2. Vadugapatti (R.V) Odukkur (P) Ward-2 Kambamedu
+3. Vadugapatti (R.V) Odukkur (P) Ward-1 Kottapallam
+4. Vadugapatti (R.V) Odukkur (P) Ward-1 Kullanaripatti
+5.Odukkur (R.V) Odukkur (P) Ward-2 Veeradivayal
+6.Odukkur (R.V) Odukkur (P) Ward-3 Soottukaranpatti
+7.Odukkur (R.V) Odukkur (P) Ward-3 IIlandhavadi
+8.Odukkur (R.V) Odukkur (P) Ward-5 Idayartheru 999.OVERSEAS  ELECTORS"
+147,179,147,147,"Panchayat Union Middle  School,
+R.C.C.  Building, North  Portion, Odukkur-622504","1.Odukkur (R.V) Odukkur (P) Ward-2 Odukkur
+2.Odukkur (R.V) Odukkur (P) Ward-7,8 Adidravidar  Theru
+3.Odukkur (R.V) Odukkur (P) Ward-9 Kannampatti 999.OVERSEAS  ELECTORS"
+148,179,148,148,"Panchayat Union Elementary  School, South Facing, Additional New Building, Thayinipatti-622101","1.Thayinipatti (R.V) Thayinipatti (P) Ward-6 Thayinipatti 2.Thayinipatti(R.V) Thayinipatti(P) Ward-2 Iluppakudipatti Harijana colony 3.Thayinipatti (R.V) Thayinipatti (P) Ward-2 Iluppakudipatti Kilakku theru 4.Thayinipatti(R.V) Thayinipatti (P) Ward-1 Iluppakudipatti vadakku Theru 5.Thayinipatti (R.V) Thayinipatti (P) Ward-1 Puduvayal Paguthi
+6.Perungudipatti (R.V) Thayinipatti (P) Ward-3 kattumaruthampatti Harijana colony 7.Perungudipatti (R.V) Thayinipatti (P) Ward-3 kattumaruthanpatti 8.Perungudipatti (R.V) Thayinipatti (P) Ward-4 Sirumangalaapatti
+9.Perungudipatti (R.V) Thayinipatti (P) Ward-5 Perungudipatti 999.OVERSEAS  ELECTORS"
+149,179,149,149,"Panchayat Union Elementary  School, East Facing,  Tiled Building, Sithupatti-622101",1.Vilathupatti (R.V) Vilathupatti (P) Ward-4 Sithupatti 2.Vilathupatti (R.V) Vilathupatti (P) Ward-4 Kallampatti 3.Vilathupatti (R.V) Vilathupatti (P) Ward-5 Kattayakonpatti 999.OVERSEAS  ELECTORS
+150,179,150,150,"Panchayat Union Elementary  School, North Facing,  Tiled Building, Kalaikudippatti-622101",1.Vilathupatti (R.V) Vilathupatti (P) Ward-1 Kalaikudipatti 2.Vilathupatti (R.V) Vilathupatti (P) Ward-1 Soorakudipatti 3.Vilathupatti (R.V) Vilathupatti (P) Ward-1 Puramalai Pudur 4.Vilathupatti (R.V) Vilathupatti (P) Ward-4 Melakarupadipati 5.Vilathupatti (R.V) Vilathupatti (P) Ward-1 Vengaikurichi 999.OVERSEAS  ELECTORS
+151,179,151,151,"Panchayat Union Elementary  School, South Facing, Tiled Building, Ethinipatti-622101",1.Vilathupatti (R.V) Vilathupatti (P) Ward-2 Ethinipatti 2.Vilathupatti (R.V) Vilathupatti (P) Ward-2 Sevathuppatti 3.Vilathupatti (R.V) Vilathupatti (P) Ward-2 Keelakarupadippatti 999.OVERSEAS  ELECTORS
+152,179,152,152,"Panchayat Union   Elementary School, South Facing, Tiled Building, Vilathupatti-622101",1.Vilathupatti(R.V) Vilathupatti(P) Ward-3 Vilathupatti
+153,179,153,153,"Panchayat Union Middle  School, South Building,  East  Portion,  North Facing,  Oorapatti-622101",1.Vilathupatti(R.V) Vilathupatti(P) Ward-3 Vilathivayal 2.Vilathupatti(R.V) Vilathupatti(P) Ward-5 Paipatti 3.Vilathupatti(R.V) Vilathupatti(P) Ward-6 OOrapatti Merku 4.Vilathupatti(R.V) Vilathupatti(P) Ward-7 Oorapatti Kilakku 5.Vilathupatti(R.V) Vilathupatti(P) Ward-2 Oorapatti 999.OVERSEAS  ELECTORS
+154,179,154,154,"Panchayath Union Elemantary  School, South Facing, Terraced Building, Meivazhisalai-622101",1.Vilathupatti(R.V) Vilathupatti(P) Ward-5 Pukkudipatti 2.Vilathupatti(R.V) Vilathupatti(P) Ward-7 Meivalisalai Kilakku 3.Vilathupatti(R.V) Vilathupatti(P) Ward-6 Meivalisalai Merku 4.Vilathupatti(R.V) Vilathupatti(P) Ward-8.9 Meivalisalai Vadakku 999.OVERSEAS  ELECTORS
+155,179,155,155,"Panchayat Union Elementary  School, South Facing, Tiled Building, Keelakuruchi-622101",1.Keelakurichi (R.V) Keelakurichi (P) Ward-1 Vadakku Theru 2.Keelakurichi (R.V) Keelakurichi (P) Ward-2 Adidiravidar  Theru-1 3.Keelakurichi (R.V) Keelakurichi (P) Ward-2 Therkkutheru 4.Keelakurichi (R.V) Keelakurichi (P) Ward-2 Ambalakarar  Theru 5.Keelakurichi (R.V) Keelakurichi (P) Ward-2 Adidiravidartheru -2 999.OVERSEAS  ELECTORS
+156,179,156,156,"Panchayat Union Elementary  School, West Facing  Tiled Building, Keelakurichi-622101",1.Keelakurichi (R.V) Keelakurichi (P) Ward-6 Kallichivayal 2.Keelakurichi (R.V) Keelakurichi (P) Ward-3 Valangaiman 3.Keelakurichi (R.V) Keelakurichi (P) Ward-3 Pirampatti 4.Keelakurichi (R.V) Keelakurichi (P) Ward-5 Harijan  Theru 5.Keelakurichi (R.V) Keelakurichi (P) Ward-2 Kamabagampatti 6.Keelakurichi (R.V) Keelakurichi (P) Ward-2 Malampatti 7.Keelakurichi (R.V) Keelakurichi (P) Ward-2 Kayampatti 999.OVERSEAS  ELECTORS
+157,179,157,157,"Panchayat Union Elementary  School, North Terraced Building,west Facing, Rapoosal-622102","1.Rapposal (R.V) Rapposal (P) Ward-1 kashpa Rapposal
+2.Rapposal (R.V) Rapposal (P) Ward-2 Karumaripannai
+3.Rapposal (R.V) Rapposal (P) Ward-2 Appachipannai
+4.Rapposal (R.V) Rapposal (P) Ward-2 Kokkayi Pannai
+5.Rapposal (R.V) Rapposal (P) Ward-2 Paraikalam
+6.Rapposal (R.V) Rapposal (P) Ward-2 Kunjayi Pannai
+7.Rapposal (R.V) Rapposal (P) Ward-2 Panipatti 999.OVERSEAS  ELECTORS"
+158,179,158,158,"Panchayat Union Elementary  School, South Terraced Building,West Facing, Rapoosal-622102","1.Rapposal (R.V) Rapposal (P) Ward-1 Merkathiyan pannai
+2.Rapposal (R.V) Rapposal (P) Ward-1 Pathikaran Pannai
+3.Rapposal (R.V) Rapposal (P) Ward-1 Marichukatti
+4.Rapposal (R.V) Rapposal (P) Ward-1 KalingIpatti
+5.Rapposal (R.V) Rapposal (P) Ward-1 Kurumpatti
+6.Rapposal (R.V) Rapposal (P) Ward-1 Kallukkadu
+7.Rapposal (R.V) Rapposal (P) Ward-2 Keelakalam
+8.Rapposal (R.V) Rapposal (P) Ward-3 Ayingudipatti
+9.Rapposal (R.V) Rapposal (P) Ward-3 Kovilmedu 10.Rapposal (R.V) Rapposal (P) Ward-3 Theethanpannai 11.Rapposal (R.V) Rapposal (P) Ward-3 Puliyampatti 999.OVERSEAS  ELECTORS"
+159,179,159,159,"Panchayat Union Middle  School,  South Building,  Middle  Portion,  East Facing, Erukkumanipatti-622102","1.Rapposal (R.V) Rapposal (P) Ward-5 Sevakalam
+2.Rapposal (R.V) Rapposal (P) Ward-5 Pariyari Theru
+3.Rapposal (R.V) Rapposal (P) Ward-5 Kandanpannai
+4.Rapposal (R.V) Rapposal (P) Ward-5 Pattaiyarkalam Vadatheru
+5.Rapposal (R.V) Rapposal (P) Ward-5 Pattaiyarkalam Therkkutheru
+6.Rapposal (R.V) Rapposal (P) Ward-3 Servarayankalam
+7.Rapposal (R.V) Rapposal (P) Ward-5 Pollipannai
+8.Rapposal (R.V) Rapposal (P) Ward-6 Kulavaipatti Thenpagam
+9.Rapposal (R.V) Rapposal (P) Ward-6 Kulavaipatti Vadapagam 999.OVERSEAS  ELECTORS"
+160,179,160,160,"Panchayat Union Middle  School,  North Building,   East  Facing,  South Portion, Erukkumanipatti-622102","1.Rapposal (R.V) Rapposal (P) Ward- 7 Erukkumanipatti Vadapagam
+2.Rapposal (R.V) Rapposal (P) Ward-8 ErukkumaniPatti Thenpagam
+3.Rapposal (R.V) Rapposal (P) Ward-9 Kuppathupatti 999.OVERSEAS  ELECTORS"
+161,179,161,161,"Panchayat Union Middle  School,
+New Terraced Building,  South  Facing, East Portion,Vettukadu-622102","1.Vettukadu (R.V) Vettukadu (P) Ward-4,5 Polampatti 2.Vettukadu (R.V) Vettukadu (P) Ward-6 Paraikalam 3.Vettukadu (R.V) Vettukadu (P) Ward-2 Vadugapatti 999.OVERSEAS  ELECTORS"
+162,179,162,162,"Panchayat Union Elementary  School, New Terraced Building,  West Facing,V.Udaiyampatti-622102","1.Vettukadu (R.V) Vettukadu (P) Ward-9 Thottiyampatti 2.Vettukadu (R.V) Vettukadu (P) Ward-3 Udayampatti 3.Vettukadu (R.V) Vettukadu (P) Ward-1,  2,  3 Mahudupatti 999.OVERSEAS  ELECTORS"
+163,179,163,163,"Government High School,
+Terraced Building,  East Portion, North Facing,  Irundirapatti-622102",1.Irundirapatti (R.V) Irundirapatti (P) Ward-6 Irundirapatti 2.Irundirapatti (R.V) Irundirapatti (P) Ward-5 Mettupatti 3.Irundirapatti (R.V) Irundirapatti (P) Ward-4 Thannangudi 999.OVERSEAS  ELECTORS
+164,179,164,164,"Government High School,
+New Building,  North  Facing,  Middle Portion,  Irundirapatti-622102",1.Irundirapatti (R.V) Irundirapatti (P) Ward-4 Karaimedu 2.Irundirapatti (R.V) Irundirapatti (P) Ward-8 Sathampatti 3.Irundirapatti (R.V) Irundirapatti (P) Ward-9 Panipatti 4.Irundirapatti (R.V) Irundirapatti (P) Ward-8 Thimmayampatti 5.Irundirapatti (R.V) Irundirapatti (P) Ward-8 Vagavayal 999.OVERSEAS  ELECTORS
+165,179,165,165,"Panchayat Union Elementary  School, Terraced Building,Kurumpatti-622102","1.Irundirapatti (R.V) Irundirapatti (P) Ward-2,3 kurumpatti 2.Irundirapatti (R.V) Irundirapatti (P) Ward-4 Othakadai 3.Irundirapatti (R.V) Irundirapatti (P) Ward-1 Idayarkalam 4.Irundirapatti (R.V) Irundirapatti (P) Ward-1 Karanthapatti 5.Irundirapatti (R.V) Irundirapatti (P) Ward-1 Marapatti 6.Irundirapatti (R.V) Irundirapatti (P) Ward-8 kallupatti 999.OVERSEAS  ELECTORS"
+166,179,166,166,"Panchayat Union Middle  School,   Old Terraced Building,  West Facing,  South Portion,  Eswarankovil-622102","1.Eswarankovil (R.V) Eswarankovil (P) Ward-5 Govindanayakkanpatti
+2.Eswarankovil (R.V) Eswarankovil (P) Ward-6,  7,  8, 9  Vadakku Eruthupatti,  Therkku Eruthupatti
+999.OVERSEAS  ELECTORS"
+167,179,167,167,"Panchayat Union Middle  School,  East Portion,  South Facing, New Terraced Building,   Eswarankovil-622102",1.Eswarankovil (R.V) Eswarankovil (P) Ward-1 Seethapatti 2.Eswarankovil (R.V) Eswarankovil (P) Ward-1 Valluvar nagar 3.Eswarankovil (R.V) Eswarankovil (P) Ward-2 Sulukkipatti 4.Eswarankovil (R.V) Eswarankovil (P) Ward-4 kurichipatti 5.Eswarankovil (R.V) Eswarankovil (P) Ward-4 Seeganvayal 999.OVERSEAS  ELECTORS
+168,179,168,168,"Government Higher Secondary School, South Facing, South  East  Terraced Building,  West Portion,  Malaikudipatti-622102","1.Kothirappatti (R.V) Kothirappatti (P) Ward-5,6 Malaikudipatti 999.OVERSEAS  ELECTORS"
+169,179,169,169,"Panchayat Union Middle  School, North Facing,  Terraced Building, Kothirappatti-622102",1.Kothirappatti (R.V) Kothirappatti (P) Ward-7 Keelakothirapatti 2.Kothirappatti (R.V) Kothirappatti (P) Ward-8 Melakothirapatti 3.Kothirappatti (R.V) Kothirappatti (P) Ward-9 Therkupatti 4.Kothirappatti (R.V) Kothirappatti (P) Ward-9 Itchangudi 5.Kothirappatti (R.V) Kothirappatti (P) Ward-9 Saralapatti 6.Kothirappatti (R.V) Kothirappatti (P) Ward-8 Vadakkipatti 7.Kothirappatti (R.V) Kothirappatti (P) Ward-8 Sakkiliyakudi 999.OVERSEAS  ELECTORS
+170,179,170,170,"Government Higher Secondary School, Middle  Portion,  East Facing, Malaikudipatti-622102","1.Kothirappatti (R.V) Kothirappatti (P) Ward-5,  6 Malaikudipatti 999.OVERSEAS ELECTORS"
+171,179,171,171,"Government Higher Secondary School, Southern Side  East Facing, Malaikudipatti-622102",1.Kothirappatti (R.V) Kothirappatti (P) Ward-7 Seethamedu 2.Kothirappatti (R.V) Kothirappatti (P) Ward-1 Pulavanpatti 999.OVERSEAS  ELECTORS
+172,179,172,172,"AnganwadiCentre  North  Terraced Building,  South Facing  Mettupatti (Theravur)-621316","1.Theravur (R.V) Theravur (P) Ward-3 Theravur
+2.Theravur (R.V) Theravur (P) Ward-3 Keelatheravur
+3.Theravur (R.V) Theravur (P) Ward-4 Karuthangalpatti
+4.Theravur (R.V) Theravur (P) Ward-9 Vellalapatti 999.OVERSEAS  ELECTORS"
+173,179,173,173,"Panchayat Union Middle  School, Additional Building,   North  Facing, South Building,  Mettupatti (Theravur)-621316","1.Theravur (R.V) Theravur (P) Ward- 7 Kottamarathupunjai
+2.Theravur (R.V) Theravur (P) Ward- 9 Annasamuthiram
+3.Theravur (R.V) Theravur (P) Ward-8   Keelakadu
+4.Theravur (R.V) Theravur (P) Ward-1 Mathirappatti
+5.Theravur (R.V) Theravur (P) Ward-8 Annavikavundanpatti
+6.Theravur (R.V) Theravur (P) Ward-8 Nedunkattupatti 999.OVERSEAS  ELECTORS"
+174,179,174,174,"Panchayat Union Middle  School, East Terraced Building, West  Facing, South Portion,  Mettuppatti Theravur-621316","1.Theravur (R.V) Theravur (P) Ward-7 Mettupatti
+2.Theravur (R.V) Theravur (P) Ward-8 Annavikoundanpatti
+3.Theravur (R.V) Theravur (P) Ward-8 Nedunkattupatti
+4.Theravur (R.V) Theravur (P) Ward-8 Vannarapatti 999.OVERSEAS  ELECTORS"
+175,179,175,175,"Panchayat Union   Primary  School,  West Terraced Building,  East Facing,  South Portion,   Melaimbampatti -621316",1.Agarapatti (R.V) Agarapatti (P) Ward-6  Keelaimbampatti 2.Agarapatti (R.V) Agarapatti (P) Ward-5  Melaimbampatti 999.OVERSEAS  ELECTORS
+176,179,176,176,"Panchayat Union Elementary  School, North Building,  East  Portion ,South Facing,  Agarapatti-621305","1.Agarapatti (R.V) Agarapatti (P) Ward-3  Adidravidarcolony 2.Agarapatti (R.V)Agarapatti (P) Ward-3 Keela Melakavunder Theru 3.Agarapatti (R.V) Agarapatti (P) Ward-4  Mela Agarapatti
+4.Agarapatti(R.V) Agarapatti(P) Ward-4Agarapatti Therkku kavunder  Theru 999.OVERSEAS  ELECTORS"
+177,179,177,177,"Panchayath Union Elementary  School, East Facing,  New Terraced Building, Chellampatti-622305","1.Agarapatti (R.V)Agarapatti (P) Ward-7,8Chellampatti Adidravidar Theru 2.Agarapatti (R.V) Agarapatti (P) Ward-7,8 Chellampatti kavunder  Theru 3.Agarapatti (R.V) Agarapatti (P) Ward-9  Kayampatti Adidravidar  Theru 999.OVERSEAS  ELECTORS"
+178,179,178,178,"Panchayat Union Middle  School, East Building, South  Facing, Lanjamedu Agarapatti-621305","1.Agarapatti (R.V) Agarapatti (P) Ward-1  lanjamedu Adidravidar  Theru  2.Agarapatti (R.V) Agarapatti (P) Ward-2  lanjamedu kuravar Theru,  Kounder Theru 999.OVERSEAS  ELECTORS"
+179,179,179,179,"Panchayat Union Primary  School, North Side,Terraced Building, South Facing,  Meenaveli-622305",1.Meenaveli (R.V) Meenaveli (P) Ward-1 Annathanapatti 2.Meenaveli (R.V) Meenaveli (P) Ward-9 Perichipatti 999.OVERSEAS  ELECTORS
+180,179,180,180,"Panchayat Union Primary  School, West Facing,  East  Terraced Building, Meenaveli-622305","1.Meenaveli (R.V) Meenaveli (P) Ward-2,  3,4 Chitirampatti 999.OVERSEAS  ELECTORS"
+181,179,181,181,"Panchayat Union Primary  School, North Facing,  South Terraced Building, Meenaveli-622305","1.Meenaveli (R.V) Meenaveli (P) Ward-7,8  Meenaveli 999.OVERSEAS  ELECTORS"
+182,179,182,182,"Panchayat Union   Elementary School, Terraced Building,  South Fcing,  West Portion,  Vellayakavundanpatti -621316","1.Meenaveli (R.V) Meenaveli (P) Ward-4,5,  Vellayakavundanpatti 999.OVERSEAS  ELECTORS"
+183,179,183,183,"Panchayat Union Elementary  School, South Facing, New Terraced Building, West Portion, M.Udaiyampatti-622102","1.Ennai (R.V) Ennai (P) Ward-1 Sankirapatti
+2.Ennai (R.V) Ennai (P) Ward-2 Udayanpatti
+3.Ennai (R.V) Ennai (P) Ward-3 Mathirampatti
+4.Ennai (R.V) Ennai (P) Ward-2 U.  Pudu Nagar
+5.Ennai (R.V) Ennai (P) Ward-7 Melapatti Anna Nagar 999.OVERSEAS  ELECTORS"
+184,179,184,184,"Panchayat Union Middle  School, Terraced Building,  South Portion,  East Facing,  Melapatti-622102","1.Ennai (R.V) Ennai (P) Ward-4 Melapatti
+2.Ennai (R.V) Ennai (P) Ward-4 Poonaikuthipatti 999.OVERSEAS  ELECTORS"
+185,179,185,185,"Panchayat Union Middle  School, East Facing,  North  SSA Building, Melapatti-622102","1.Ennai (R.V) Ennai (P) Ward-6 Salaipatti
+2.Ennai (R.V) Ennai (P) Ward-6 Valayapatti
+3.Ennai (R.V) Ennai (P) Ward-6 M.kurumbapatti 999.OVERSEAS  ELECTORS"
+186,179,186,186,"AdiDravidar  Welfare  Elemantary School, South Facing, Middle  Portion,  New Terraced Building,  Meyyakoundanpatti-622102","1.Ennai (R.V) Ennai (P) Ward-5 Meiyakavoundanpatti
+2.Ennai (R.V) Ennai (P) Ward-5 Melapannai
+3.Ennai (R.V) Ennai (P) Ward-5 Senakovil
+4.Ennai (R.V) Ennai (P) Ward-5 Kalingikalam
+5.Ennai (R.V) Ennai (P) Ward-8 Medu kattupatti
+6.Ennai (R.V) Ennai (P) Ward-5 Mettukalam
+7.Ennai (R.V) Ennai (P) Ward-5 Purasankalpatti 999.OVERSEAS ELECTORS"
+187,179,187,187,"Panchayat Union Middle  School, North Building,  South  Facing, Ennai-622102","1.Ennai (R.V) Ennai (P) Ward-8 Thattangudi
+2.Ennai (R.V) Ennai (P) Ward-9 Pattiyantheru
+3.Ennai (R.V) Ennai (P) Ward-9 Keela Ennai
+4.Ennai (R.V) Ennai (P) Ward-7 Santhanapuram
+5.VEnnai (R.V) Ennai (P) Ward-7 Muslim  Theru 999.OVERSEAS  ELECTORS"
+188,179,188,188,"Panchayat Union Middle  School,  South Building,  North Facing,  Middle  Portion, Ennai-622102","1.Ennai (R.V) Ennai (P) Ward-8 Veerankadu
+2.Ennai (R.V) Ennai (P) Ward-9 Kavoundar  Theru
+3.Ennai (R.V) Ennai (P) Ward-8 Ennai
+4.Ennai (R.V) Ennai (P) Ward-8 Thiruvannakovilpatti 999.OVERSEAS  ELECTORS"
+189,179,189,189,"Government Higher Secondary School, West Facing,  North Terraced Building,Middle  Portion,  Illuppur-622102","1.Illuppur  (R.V) Illuppur (SP) Ward-15 Navampatti
+2.Illuppur  (R.V) Illuppur (SP) Ward-2 Poomaruthanpatti
+3.Illuppur  (R.V) Illuppur (SP) Ward-12 Hospital Road
+4.Illuppur  (R.V) Illuppur (SP) Ward-14 Vadugar  Theru -1
+5.Illuppur  (R.V) Illuppur (SP) Ward-14 Vadugar  Theru -2
+6.Illuppur  (R.V) Illuppur (SP) Ward-14 Vadugar  Theru -3
+7.Illuppur  (R.V) Illuppur (SP) Ward-14 Vadugar  Theru -4 999.OVERSEAS  ELECTORS"
+190,179,190,190,"Government Higher Secondary School, West Facing,  North Terraced Building,South  Portion,  Illuppur-622102","1.Illuppur  (R.V) Illuppur (SP) Ward-8 Sivan kovil Theru -1
+2.Illuppur  (R.V) Illuppur (SP) Ward-8 Sivan kovil Theru-2 999.OVERSEAS  ELECTORS"
+191,179,191,191,"Government Higher Secondary School, Terraced Building,  South Facing,  East Portion,  West Building, Illuppur-622102","1.Illuppur(R.V) Illuppur(SP)Ward -15Navampatti 2-nd Veethi
+2.Illuppur  (R.V) Illuppur (SP) Ward -2 Vilapatti
+3.Illuppur  (R.V) Illuppur (SP) Ward -15 Navampatti 999.OVERSEAS  ELECTORS"
+192,179,192,192,"Government Higher Secondary School, Terraced Building,  South Facing,  West Portion,  West Building, Illuppur-622102","1.Illuppur  (R.V) Illuppur (SP) Ward -12 Kodikkal Theru
+2.Illuppur  (R.V) Illuppur (SP) Ward -12 Vannaratheru
+3.Illuppur  (R.V) Illuppur (SP) Ward -12 Kammalatheu
+4.Illuppur  (R.V) Illuppur (SP)Ward -12 Chinnakadai Veethi -1
+5.Illuppur  (R.V) Illuppur (SP) Ward-12 Chinnakadai Veethi -2
+6.Illuppur  (R.V) Illuppur (SP) Ward-11 Harijana Colony
+7.Illuppur  (R.V) Illuppur (SP) Ward-11 R.C.  High School Salai 999.OVERSEAS  ELECTORS"
+193,179,193,193,"Government Higher Secondary School, Terraced Building,  North  Faching,  East Portion,  Last  Room,  Illuppur-622102","1.Illuppur  (R.V) Illuppur (SP) Ward-4 Anthoniyar kovil 1st Theru
+2.Illuppur  (R.V) Illuppur (SP) Ward-4 Anthoniyar Kovil 2nd  Theru
+3.Illuppur  (R.V) Illuppur (SP) Ward-4 Anthoniyar kovil 3rd Theru
+4.Illuppur  (R.V) Illuppur (SP) Ward-4 Anthoniyar kovil Theu Karadikadu 999.OVERSEAS  ELECTORS"
+194,179,194,194,"Government Higher Secondary School, Terraced Building,  North  Facing East Portion,  Illuppur-622102","1.Illuppur  (R.V) Illuppur(SP)Ward-5 Palaniyandavarkovil Theru
+2.Illuppur  (R.V) Illuppur (SP) Ward-10 Adidiravidar 1st  Theru
+3.Illuppur  (R.V) Illuppur (SP) Ward-10 Adidiravidar 2nd Theru
+4.Illuppur  (R.V) Illuppur (SP) Ward-5 Jeeva Nagar
+5.Illuppur  (R.V) Illuppur (SP) Ward-11 R.C.Road
+6.Illuppur  (R.V) Illuppur (SP) Ward-2 Samathanapuram 999.OVERSEAS  ELECTORS"
+195,179,195,195,"Government Girls Higher Secondary School,  Terraced Building, West  Facing, South Portion,  Illuppur-622102","1.Illuppur  (R.V) Illuppur (SP) Ward-7 kannara Theru 1-st  Theru
+2.Illuppur  (R.V) Illuppur (SP) Ward-7 Kannara Theru   2 -nd Theru
+3.Illuppur  (R.V) Illuppur (SP) Ward-7 Kannara Theru 3 -rd Theru
+4.Illuppur  (R.V) Illuppur (SP) Ward-7 Palaya Sandaipettai1-stTheru
+5.Illuppur  (R.V) Illuppur (SP) Ward-7 Palaya Sandaipettai 2 -nd Theru
+6.Illuppur  (R.V) Illuppur (SP) Ward-7 Agraharam
+7.Illuppur  (R.V) Illuppur (SP) Ward-7 Periyakadai Veethi
+8.Illuppur  (R.V) Illuppur (SP) Ward-9 Chetti theru
+9.Illuppur  (R.V) Illuppur (SP) Ward- 3 Sowrasthtra ul theru 10.Illuppur (R.V) Illuppur (SP) Ward-6 Kottai theru -1 999.OVERSEAS  ELECTORS"
+196,179,196,196,"Government Girls Higher Secondary School,  Terraced Building, West  Facing, South Portion,  Last  Room,  Illuppur-622102","1.Illuppur  (R.V) Illuppur (SP) Ward-6 Kottai theru -1st  ul Theru
+2.Illuppur  (R.V) Illuppur (SP) Ward-6 Kottai theru -12 -nd ul theru
+3.Illuppur  (R.V) Illuppur (SP) Ward-6 Kottai theru -13 -rd u l theru
+4.Illuppur  (R.V) Illuppur (SP) Ward-6 Kottai theru 2- nd  theru
+5.Illuppur  (R.V) Illuppur (SP) Ward-6 Kottai theru -3 1-st  ul theru
+6.Illuppur  (R.V) Illuppur (SP) Ward-6 Kottai theru -3 1-st  ul theru
+7.Illuppur  (R.V) Illuppur (SP) Ward-6 Kottai theru -4,
+8.Illuppur  (R.V) Illuppur (SP) Ward-6 4-th  Kottai theru1-st ul theru
+9.Illuppur  (R.V) Illuppur (SP) Ward-6 4-th  Kottai theru 2- nd ul theru   10.Illuppur (R.V) Illuppur  (SP) Ward -10 Adidiravidar 2- nd  theru
+11.Illuppur (R.V) Illuppur (SP) Ward -10 Adidiravidar  1-st ul theru 12.Illuppur (R.V) Illuppur (SP) Ward -4 Anthoniyar  3- rd theru
+999.OVERSEAS  ELECTORS"
+197,179,197,197,"Government Girls Higher Secondary School,  Terraced Building, West Faching,  North Portion,  Last  Room, Illuppur-622102","1.Illuppur  (R.V) Illuppur (SP) Ward-1 Sowrashtra Theru
+2.Illuppur  (R.V) Illuppur (SP) Ward-3 Sowrashtratheru 1-st  ultheru
+3.Illuppur  (R.V) Illuppur (SP) Ward-5 Sowrashtratheru 2-nd ultheru
+4.Illuppur  (R.V) Illuppur (SP)Ward-5 Sowrashtratheru 3- rd ultheru
+5.Illuppur  (R.V) Illuppur (SP) Ward-5 Sowrashtratheru 4-th  ultheru 999.OVERSEAS  ELECTORS"
+198,179,198,198,"Government Girls Higher Secondary School,Terraced Building,West Facing,North  Portion,Illuppur-622102","1.Illuppur  (R.V) Illuppur (SP) Ward-5 Sowrashtratheru 5-th  ultheru
+2.Illuppur  (R.V) Illuppur (SP) Ward-5 Sowrashtratheru 6-th  ultheru
+3.Illuppur  (R.V) Illuppur (SP) Ward-5 Sowrashtratheru 7-th  ultheru
+4.Illuppur  (R.V) Illuppur (SP) Ward-5 Sowrashtratheru 8-th  ultheru
+5.Illuppur  (R.V) Illuppur (SP) Ward-5 Sowrashtratheru 9-th  ultheru
+6.Illuppur  (R.V) Illuppur (SP)Ward-5 Sowrashtratheru10-th  ultheru
+7.Illuppur  (R.V) Illuppur (SP) Ward-5 Sowrashtratheru 2-nd
+8.Illuppur  (R.V) Illuppur (SP) Ward-5 Sowrashtratheru 3-rd
+9.Illuppur  (R.V) Illuppur (SP) Ward-1 Pappankudi 10.Illuppur (R.V) Illuppur (SP) Ward-1 Pappankudi -1 11.Illuppur (R.V) Illuppur (SP) Ward-1 Pappankudi -2 999.OVERSEAS  ELECTORS"
+199,179,199,199,"Panchayat Union Elementary  School, New Asbestos Building,  West  Facing, South portion,  East  Building,  Kodikkal Street,  Illuppur-622102","1.Illuppur  (R.V) Illuppur (SP) Ward-8 Pallivasal kadu 1-st  Theru
+2.Illuppur  (R.V) Illuppur (SP) Ward-8 Pallivasal kadu 2-nd Theru
+3.Illuppur  (R.V) Illuppur (SP) Ward-13 Pallivasal kadu 3-rd Theru
+4.Illuppur  (R.V) Illuppur (SP) Ward-13 Pallivasal kadu 4-th  Theru 999.OVERSEAS  ELECTORS"
+200,179,200,200,"Panchayat Union Elementary  School, New Asbestos Building,  West  Facing, North portion,  East Building,  Kodikkal Street,  Illuppur-622102","1.Illuppur  (R.V) Illuppur (SP) Ward-13 Pallivasal kadu 5th  Theru
+2.Illuppur  (R.V) Illuppur (SP) Ward-13 Pallivasal kadu 6-th  Theru
+3.Illuppur  (R.V) Illuppur (SP) Ward-13 Pallivasal kadu 7-th  Theru
+4.Illuppur  (R.V) Illuppur (SP) Ward-8 Mohamathiyar 1-st  Melatheru
+5.Illuppur  (R.V) Illuppur (SP) Ward-8 Mohamathiyar 2-nd Melatheru
+6.Illuppur  (R.V) Illuppur (SP) Ward-8 Mohamathiyar 3-rd Melatheru
+7.Illuppur  (R.V) Illuppur (SP) Ward-10 Kamaraj Nagar 999.OVERSEAS  ELECTORS"
+201,179,201,201,"Government Higher Secondary School, Terraced Building,  North  Facing West Portion,  Illuppur-622102","1.Illuppur  (R.V) Illuppur (SP) Ward-1 Mathirampatti
+2.Illuppur  (R.V) Illuppur (SP) Ward-10 Veshakara theru
+3.Illuppur  (R.V) Illuppur (SP) Ward-5 Sowrashtra 3- rd  theru
+4.Illuppur  (R.V) Illuppur (SP) Ward-10 Kothanar  12 -nd theru
+5.Illuppur  (R.V) Illuppur (SP) Ward-10Sayakkara 1st theru
+6.Illuppur  (R.V) Illuppur (SP) Ward-10 Sayakkara 2-nd theru
+7.Illuppur  (R.V) Illuppur (SP) Ward-10 Sayakkara 3-rd theru 999.OVERSEAS  ELECTORS"
+202,179,202,202,"Panchayat Union Elementary  School, New Terraced Building,  North  Side Room,  South  Facing,  Kodikkal Street, Illuppur-622102","1.Illuppur  (R.V) Illuppur (SP) Ward-10 Sayakkara 4-th theru
+2.Illuppur  (R.V) Illuppur (SP) Ward-10 Marutthuva theru
+3.Illuppur  (R.V) Illuppur (SP) Ward-9 Mohamathiyar 1st  ul theu
+4.Illuppur  (R.V) Illuppur (SP) Ward-9 Mohamathiyar 3-rd ul theu
+5.Illuppur  (R.V) Illuppur (SP) Ward-9 Mohamathiyar 5-th ul theu
+6.Illuppur  (R.V) Illuppur (SP) Ward-9 Mohamathiyar 4-th Melatheu
+7.Illuppur  (R.V) Illuppur (SP) Ward-9 Mohamathiyar 5-th Melatheu
+8.Illuppur  (R.V) Illuppur (SP) Ward-9 Uppukayichitheru 999.OVERSEAS  ELECTORS"
+203,179,203,203,"Panchayat Union Elementary  School, South Facing, Tiled Building, Punginipatti-622102","1.Punginipatti (R.V) Punginipatti (P) Ward-4 Anna nagar
+2.Punginipatti (R.V) Punginipatti (P) Ward-4 Sathiyanathapuram  Colony  B.C.  Colony 3.Punginipatti (R.V)Punginipatti (P) Ward-1 Sathiyanathapuram  A.T Colony 4.Punginipatti (R.V) Punginipatti (P) Ward-5 Sathiyanathapuram  Asaritheru 5.Punginipatti (R.V) Punginipatti (P) Ward-5 Sathiyanathapuram  Melatheru 6.Punginipatti (R.V) Punginipatti (P) Ward-5 Sathiyanathapuram  Keelatheru 7.Punginipatti (R.V) Punginipatti (P) Ward-3 Punginipatti Ammavayal 999.OVERSEAS  ELECTORS"
+204,179,204,204,"Panchayat Union Elementary  School, South Facing,Terraced Building, Punginipatti-622102","1.Punginipatti (R.V) Punginipatti (P) Ward-2 Punginipatti Melatheru 2.Punginipatti (R.V) Punginipatti (P) Ward-1 Jeeva Nagar
+3.Punginipatti (R.V) Punginipatti (P) Ward-2 Punginipatti Vadakkutheru 4.Punginipatti (R.V) Punginipatti (P) Ward-3 Punginipatti Therkkutheru 5.Punginipatti (R.V) Punginipatti (P) Ward-6 Punginipatti Pappankalam 6.Punginipatti (R.V) Punginipatti (P) Ward-6 Mullipatti
+999.OVERSEAS  ELECTORS"
+205,179,205,205,"Panchayat Union Elementary  School, West New Building,  South  Facing, Vellanjar-622103","1.Vellanjar  (R.V) Vellanjar (P) Ward-2 Vadugapatti 2.Vellanjar  (R.V) Vellanjar (P) Ward-1 Vellanjar 3.Vellanjar  (R.V) Vellanjar (P) Ward-1 Keelapatti 4.Vellanjar  (R.V) Vellanjar (P) Ward-3 Rasampatti
+5.Vellanjar  (R.V) Vellanjar (P) Ward-2 Puthiya Adidravidar Colony 6.Vellanjar  (R.V) Vellanjar (P) Ward-3 Palaya Harijan  Theru 999.OVERSEAS  ELECTORS"
+206,179,206,206,"Panchayat Union Elementary  School, Vathirippatti-622103",1.Vellanjar  (R.V) Vellanjar (P) Ward-4 Vathiripatti 2.Vellanjar  (R.V) Vellanjar (P) Ward-6 Malavarayanpatti 3.Vellanjar  (R.V) Vellanjar (P) Ward-6 Solayampatti 4.Vellanjar  (R.V) Vellanjar (P) Ward-6 OOranikulam 5.Vellanjar  (R.V) Vellanjar (P) Ward-6 Veppavayal 6.Vellanjar  (R.V) Vellanjar (P) Ward-6 Vadakki kalam 999.OVERSEAS  ELECTORS
+207,179,207,207,"Government Higher Secondary School,Main  Building,  West Portion, South Facing, Annavasal-622101","1.Annavasal (R.V) Annavasal (SP) Ward-1 1- st  Idayar Theru 2.Annavasal (R.V) Annavasal (SP) Ward-2 2- nd Idayar Theru 3.Annavasal (R.V) Annavasal (SP) Ward-2 3- rd Idayar  Theru 4.Annavasal (R.V) Annavasal (SP) Ward-1 Vadakadu 5.Annavasal (R.V) Annavasal (SP) Ward-3 Maruthuva Theru
+6.Annavasal (R.V)Annavasal (SP)Ward-6Pattanamkattubava Ravuther  Theru 999.OVERSEAS  ELECTORS"
+208,179,208,208,"Government Higher Secondary School, East Building, West  Facing,  South Portion,  Annavasal-622101","1.Annavasal (R.V) Annavasal (SP) Ward-10 Thulukka Oorani 2.Annavasal (R.V) Annavasal (SP) Ward-15 Viralimalai Salai 3.Annavasal (R.V) Annavasal (SP) Ward-7 Pattani Pallivasal Theru 4.Annavasal (R.V) Annavasal (SP) Ward-7 Palaya kadai Theru 5.Annavasal (R.V) Annavasal (SP) Ward-7 Keeranur salai 6.Annavasal (R.V) Annavasal (SP) Ward-7 Pathima Colony 7.Annavasal (R.V) Annavasal (SP) Ward-7 Sekkadi
+8.Annavasal (R.V) Annavasal (SP) Ward-7 Maithana Theru 9.Annavasal (R.V) Annavasal (SP) Ward-8 Mathakovil Theru 10.Annavasal (R.V) Annavasal (SP) Ward-10 Harijan  Theru 999.OVERSEAS  ELECTORS"
+209,179,209,209,"Government Higher Secondary School,East  Building,West  Facing, North Portion,  Annavasal-622101","1.Annavasal (R.V) Annavasal (SP) Ward-8 Nallammal Chatram Salai 2.Annavasal (R.V) Annavasal (SP) Ward-10 Pudu theru -1 3.Annavasal (R.V) Annavasal (SP) Ward-10 Harijana theru -  1 4.Annavasal (R.V) Annavasal (SP) Ward-12 Viralimalai road
+5.Annavasal (R.V) Annavasal (SP) Ward-10 Bahavathi Amman Koviltheru. 6.Annavasal (R.V) Annavasal (SP) Ward-10 Harijana theru-2
+7.Annavasal (R.V) Annavasal (SP) Ward-10 Thulukkan  Oorani Theru 8.Annavasal (R.V) Annavasal (SP) Ward-2 Keelaratha Veethi 9.Annavasal (R.V) Annavasal (SP) Ward-3 Sivankovil Therkku 999.OVERSEAS  ELECTORS"
+210,179,210,210,"Government High School,
+East Building, West  Facing,  Middle Portion,  Annavasal-622101",1.Annavasal (R.V) Annavasal (SP) Ward-3 Sannathi Veethi 2.Annavasal (R.V) Annavasal (SP) Ward-3 Muthuraja Theru 3.Annavasal (R.V) Annavasal (SP) Ward-2 Keeranur Salai 4.Annavasal (R.V) Annavasal (SP) Ward-3 Kuyavar  Theru 5.Annavasal (R.V) Annavasal (SP) Ward-9 Golden  Nagar -1 6.Annavasal (R.V) Annavasal (SP) Ward-9 Golden  Nagar -2 7.Annavasal (R.V) Annavasal (SP) Ward-9 Golden  Nagar - 3 8.Annavasal (R.V) Annavasal (SP) Ward-9 Golden  Nagar -4 9.Annavasal (R.V) Annavasal (SP) Ward-9 Bazheer  Nagar 10.Annavasal (R.V) Annavasal (SP) Ward-10 Pudutheru -2 999.OVERSEAS  ELECTORS
+211,179,211,211,"Panchayat Union Elementary  School, New Terraced Building,  West  Portion, North Facing,  Annavasal-622101",1.Annavasal (R.V) Annavasal (SP) Ward-10 Harijanatheru 3-rd Veethi 2.Annavasal (R.V) Annavasal (SP) Ward-13 Harijanatheru 4-th Veethi 3.Annavasal (R.V) Annavasal (SP) Ward-13 Harijanatheru 5-th Veethi 4.Annavasal (R.V) Annavasal (SP) Ward-11 Harijanatheru 6-th Veethi 999.OVERSEAS  ELECTORS
+212,179,212,212,"Panchayat Union Elementary  School, New Terraced Building,  Middle  Portion, North Facing,  Annavasal-622101",1.Annavasal (R.V) Annavasal (SP) Ward-11 Colonytheru 2.Annavasal (R.V) Annavasal (SP) Ward-12 Kodikal Theru 3.Annavasal (R.V) Annavasal (SP) Ward-12 Viralimalai Road 999.OVERSEAS  ELECTORS
+213,179,213,213,"Panchayat Union Elementary  School, New Terraced Building,  East  Portion, North Facing,  Annavasal-622101","1.Annavasal (R.V) Annavasal (SP) Ward-11 Harijantheru -3 2.Annavasal (R.V) Annavasal (SP) Ward-11 Harijantheru -2 3.Annavasal (R.V) Annavasal (SP) Ward-11 Bahavathi Amman Theru 4.Annavasal (R.V) Annavasal (SP) Ward-5 Palaya Hospital Road
+5.Annavasal(R.V)Annavasal (SP) Ward-6 Pattanamkattubava Rawther Theru 6.Annavasal (R.V) Annavasal (SP) Ward-5 Sannathi Veethi
+7.Annavasal (R.V) Annavasal (SP) Ward-6 Natharkan Veethi 8.Annavasal (R.V) Annavasal (SP) Ward-6 Viralimalai Salai 9.Annavasal (R.V) Annavasal (SP) Ward-6 Pattani Pallivasaltheru 999.OVERSEAS  ELECTORS"
+214,179,214,214,"Panchayat Union Elementary  School, New Terraced Building,  Eastern  Portion, Annavasal-622101","1.Annavasal (R.V) Annavasal (SP) Ward-5 Palayakadai Veethi 2.Annavasal (R.V) Annavasal (SP) Ward-5 Kasappukadai Veethi 3.Annavasal (R.V) Annavasal (SP) Ward-5 Palayaperumalkovil Theru 4.Annavasal (R.V) Annavasal (SP) Ward-3 Kammala Theru 5.Annavasal (R.V) Annavasal (SP) Ward-4 Kunjanvayal
+6.Annavasal (R.V) Annavasal (SP) Ward-4 Chinnasengapatti 7.Annavasal (R.V) Annavasal (SP) Ward-4 Nallan vayal 999.OVERSEAS  ELECTORS"
+215,179,215,215,"Panchayat Union Middle  School,
+D.P.E.P. Building, Eastern  Side,  North Facing,  Chittannavasal-622101","1.Chithannavasal (R.V) Chithannavasal (P) Ward-1,2 Chithannavasal Vadakku Paguthi 2.Chithannavasal (R.V) Chithannavasal (P) Ward-3,4 Chithannavasal Therkku Paguthi 999.OVERSEAS  ELECTORS"
+216,179,216,216,"Panchayat Union Middle  School, East Portion, North  Facing, Chittannavasal-622101","1.Chithannavasal (R.V) Chithannavasal (P) Ward-5,6 Nallammal Chatram 999.OVERSEAS  ELECTORS"
+217,179,217,217,"Panchayat Union Primary  School, South Terraced Building, North Facing,Mathiyanallur-622101",1.Mathiyanallur  (R.V) Mathiyanallur  (P) Ward-5Adidravidar  (Pallar) Colony 2.Mathiyanallur  (R.V) Mathiyanallur(P) Ward-6Adidravidar(Parayar) Colony 3.Mathiyanallur  (R.V) Mathiyanallur  (P) Ward-2 Ellayapatti 4.Mathiyanallur  (R.V) Mathiyanallur  (P) Ward-2 Chokkanathanpatti 5.Mathiyanallur  (R.V) Mathiyanallur  (P) Ward-2 Kalaikurichivayal 999.OVERSEAS  ELECTORS
+218,179,218,218,"Panchayat Union   Elementary School, North Tiled Bulding,  South Facing,-Mathiyanallur-622101",1.Mathiyanallur  (R.V) Mathiyanallur  (P) Ward-3 Mathiyanallur 2.Mathiyanallur  (R.V) Mathiyanallur  (P) Ward-2 Kallampatti 999.OVERSEAS  ELECTORS
+219,179,219,219,"Government Higher Secondary School,South  facing, West  Portion,  New Terraced Building,  Maruthandalai-622101",1.Panampatti (R.V) Panampatti (P) Ward-1 Panampatti 2.Panampatti (R.V) Panampatti (P) Ward-1 Karayanpatti 3.Panampatti (R.V) Panampatti (P) Ward-3 Manikkampatti 4.Panampatti (R.V) Panampatti (P) Ward-3 Katheripatti 5.Panampatti (R.V) Panampatti (P) Ward-3 Pidarampatti 999.OVERSEAS  ELECTORS
+220,179,220,220,"Government Higher Secondary School,South  facing, East  Portion,  New Terraced Building,  Maruthandalai-622101",1.Panampatti (R.V) Panampatti (P) Ward-2 Maruthanthalai 2.Panampatti (R.V) Panampatti (P) Ward-3 Vagaipatti 999.OVERSEAS  ELECTORS
+221,179,221,221,"Governement Adidravidar Welfare Elementary  School,  South Facing, Terraced Building,  Kurukkalaiyapatti-622002",1.Thiruvengaivasal(R.V) Thiruvengaivasal(P) Ward-5 Kurukkailayapatti 2.Thiruvengaivasal(R.V)Thiruvengaivasal(P)Ward-8 Sellukudi kovundar Theru 999.OVERSEAS  ELECTORS
+222,179,222,222,"Panchayat Union Elementary  School, North Facing,  East Terraced Building, Sellukudi-622002","1.Thiruvengaivasal(R.V) Thiruvengaivasal(P) Ward-9 Sellukudi Vadakkutheru 2.Thiruvengaivasal(R.V) Thiruvengaivasal(P) Ward-9Sellukudi Adidiravidar Theru 3.Thiruvengaivasal(R.V) Thiruvengaivasal(P) Ward-8 Sellukudi Therkkutheru 4.Thiruvengaivasal(R.V) Thiruvengaivasal(P) Ward-8 Kilapatti 5.Thiruvengaivasal(R.V) Thiruvengaivasal(P) Ward-8 Konavayal 6.Thiruvengaivasal(R.V) Thiruvengaivasal(P) Ward-9 Sirunjunai Vadakkutheru 7.Thiruvengaivasal(R.V) Thiruvengaivasal(P) Ward-9 Sirunjunai AdidravidarTherkkutheru
+999.OVERSEAS  ELECTORS"
+223,179,223,223,"Panchayat Union Middle  School, West Terraced Building, East  Faching Perunjunai-622002","1.Perunjunai (R.V) Thiruvengaivasal(P) Ward-2 Perunjunai Adidravidar Kilakkutheru 2.Perunjunai (R.V) Thiruvengaivasal(P) Ward-1 Perunjunai Adidravidar Merkutheru 3.Perunjunai (R.V) Thiruvengaivasal(P) Ward-1 Perunjunai B.C.  Theru
+4.Perunjunai (R.V) Thiruvengaivasal(P) Ward-1 Perunjunai B.C.  Kovundartheru 5.Thiruvengaivasal(R.V)Thiruvengaivasal(P)Ward-3ThiruvengaiVasalSC Theru 999.OVERSEAS  ELECTORS"
+224,179,224,224,"Panchayat Union Elementary  School, West Facing,  North Terraced Building, Annathurani,  Ayinkudi-622002","1.Thiruvengaivasal(R.V)Thiruvengaivasal(P) Ward-3 Thiruvengaivasal BC.Theru 2.Thiruvengaivasal(R.V) Thiruvengaivasal(P) Ward-3 Valayanvayal
+3.Ayingudi (R.V) Thiruvengaivasal(P) Ward-4 Annathoorani
+4.Ayingudi (R.V) Thiruvengaivasal(P) Ward-4 S.C Vadamalapur S.C.Theru
+5.Ayingudi (R.V) Thiruvengaivasal(P) Ward-4 Vadamalappur  B.C .Theru
+6.Ayingudi (R.V) Thiruvengaivasal(P) Ward-4 Nilayavayal
+7.Ayingudi (R.V) Thiruvengaivasal(P) Ward-5 Kurukkalayapatti 999.OVERSEAS  ELECTORS"
+225,179,225,225,"Panchayat Union Elementary  School, New Terraced Building,  North  Facing, Marayapatti-622104",1.Marayapatti(R.V) Thiruvengaivasal(P) Ward-7 Uyyakudipatti 2.Marayapatti(R.V) Thiruvengaivasal(P) Ward-7 Velankudipatti 3.Marayapatti(R.V) Thiruvengaivasal(P) Ward-7 Marayapatti 999.OVERSEAS  ELECTORS
+226,179,226,226,"Panchayat Union Middle  School, New Terraced Building, Mettupatti-622104",1.Marayapatti(R.V) Thiruvengaivasal(P) Ward-6 Mettupatti 2.Marayapatti(R.V) Thiruvengaivasal(P) Ward-1 Andipatti 999.OVERSEAS  ELECTORS
+227,179,227,227,"Panchayat Union Elementary  School, New Terraced Building,  East  Facing, South Portion,  Ariyur-622101","1.Ariyur (R.V) Ariyur (P) Ward-1 Ariyur
+2.Ariyur (R.V) Ariyur (P) Ward-1 Adidravidar  Kudiyeruppu
+3.Ariyur (R.V) Ariyur (P) Ward-2 Alagapuri
+4.Ariyur (R.V) Ariyur (P) Ward-1 Ambethkar  Nagar
+5.Ariyur (R.V) Ariyur (P) Ward-6 Puduvayal 999.OVERSEAS  ELECTORS"
+228,179,228,228,"Panchayat Union Elementary  School, North Facing,  West side, Mannavelampatti-622101","1.Panangudi(R.V) Mannavelampatti (P) Ward-1,2 Panangudi 2.Mangudi(R.V) Mannavelampatti (P) Ward -9 Mannavelampatti Kilakku 3.Mangudi(R.V) Mannavelampatti (P) Ward-8 Mannavelampatti Therkku 999.OVERSEAS  ELECTORS"
+229,179,229,229,"Panchayat Union Elementary  School, North Facing,  East Side, SSA Building, Mannavelampatti-622101",1.Mangudi(R.V) Mannavelampatti (P) Ward-6 Mannavelampatti Vadakku 2.Mangudi(R.V) Mannavelampatti (P) Ward-3 Ayipatti Vadakku 3.Mangudi(R.V) Mannavelampatti (P) Ward-4 Ayipatti Therkku 4.Mangudi(R.V) Mannavelampatti (P) Ward-5 Keela Agarapatti 999.OVERSEAS  ELECTORS
+230,179,230,230,"Panchayat Union Elementary  School, East Facing,  South  Portion, Thachampatti-622101","1.Thachampatti (R.V) Thachampatti (P) Ward-1,2 Vadakkipatti 2.Thachampatti (R.V) Thachampatti (P) Ward-2 Thachampatti 3.Thachampatti (R.V) Thachampatti (P) Ward-5 Therkku Thachampatti 4.Thachampatti (R.V) Thachampatti (P) Ward-6 Nadupatti 5.Thachampatti (R.V) Thachampatti (P) Ward-6  Kambalakadu 999.OVERSEAS  ELECTORS"
+231,179,231,231,"Panchayat Union Elementary  School, North Facing,  Tiled Building,  Pudur-622103","1.Pudur (R.V) Pudur (P) Ward-4 Pudur
+2.Pudur (R.V) Pudur (P) Ward-3 Athampatti
+3.Pudur (R.V) Pudur (P) Ward-1,2,  Pudur Colony
+4.Pudur (R.V) Pudur (P) Ward-9 Kattuppatti (Kilakku) 999.OVERSEAS  ELECTORS"
+232,179,232,232,"Panchayat Union Elementary  School, New CSIDS  Building,  East Facing,  North Portion,  Pudur-622103","1.Pudur (R.V) Pudur (P) Ward-8 kattuppatti (Merku)
+2.Pudur (R.V) Pudur (P) Ward-5,6,7 Kulavaippatti 999.OVERSEAS  ELECTORS"
+233,179,233,233,"Government Higher Secondary School,Old Building, South  Side, West Portion,  Mukkannamalaipatti-622103","1.Veerapatti (R.V) Mukkanamalaipatti (P) Ward-1 Pulavanpatti 2.Veerapatti (R.V) Mukkanamalaipatti (P) Ward-4 Madakoil 3.Veerapatti (R.V) Mukkanamalaipatti (P) Ward-1 Velampatti
+4.Veerapatti (R.V)Mukkanamalaipatti (P) Ward-9 Mukkanamalaipatti Kilakku 999.OVERSEAS  ELECTORS"
+234,179,234,234,"Government Higher Secondary School, Old Building,  South  Side,  East  Portion, Mukkannamalaipatti-622103",1.Veerapatti (R.V)Mukkanamalaipatti(P) Ward-2Mukkanamalaipatti Vadakku 999.OVERSEAS  ELECTORS
+235,179,235,235,"Government Higher Secondary School, Old Building,  North  Side, East  Portion, Mukkannamalaipatti-622103","1.Veerapatti (R.V) Mukkanamalaipatti (P) Ward-3 Mukkanamalaipatti Nadutheru,Therkkutheru
+999.OVERSEAS  ELECTORS"
+236,179,236,236,"Government Higher Secondary School, Old Building,  North  Side, West  Portion, Mukkannamalaipatti-622103","1.Veerapatti (R.V) Mukkanamalaipatti (P) Ward-4 Pallivasal    Theru Padayachi theru 2.Veerapatti (R.V) Mukkanamalaipatti (P) Ward-3 Mettupatti
+3.Veerapatti (R.V) Mukkanamalaipatti (P) Ward-3 Velankulam 999.OVERSEAS  ELECTORS"
+237,179,237,237,"Panchayat Union Middle  School, North Facing,  West Portion, Veerapatti-622103","1.Veerapatti (R.V) Veerapatti (P) Ward-2,3 Veerapatti 2.Veerapatti (R.V) Veerapatti (P) Ward-3 Mettukalam 999.OVERSEAS  ELECTORS"
+238,179,238,238,"Panchayat Union Middle  School, North Facing,  East Building, Veerapatti-622103","1.Veerapatti (R.V) Veerapatti (P) Ward-1 Sennappanayakkanpatti 2.Veerapatti (R.V) Veerapatti (P) Ward-7 Vavvaneri
+3.Veerapatti (R.V) Veerapatti (P) Ward-7 Poikadipatti 999.OVERSEAS  ELECTORS"
+239,179,239,239,"Panchayat Union Middle  School,
+North Facing  Terraced Building,  Middle Portion,  Kaladippatti-Veerapatti-622103","1.Veerapatti (R.V) Veerapatti (P) Ward-4,5 Kaladipatti 2.Veerapatti (R.V) Veerapatti (P) Ward-8 Therkukalam 3.Veerapatti (R.V) Veerapatti (P) Ward-6,  7 Kaladipatti chatram 999.OVERSEAS  ELECTORS"
+240,179,240,240,"Panchayat Union Middle  School,  East Facing,  West  Building  , South  Portion-Idayapatti-622102",1.Idayapatti (R.V) Idayapatti (P) Ward-1 Veliyangudi 2.Idayapatti (R.V) Idayapatti (P) Ward-2 Pothaiyampatti 3.Idayapatti (R.V) Idayapatti (P) Ward-1 Kurumbatheru 4.VIdayapatti (R.V) Idayapatti (P) Ward-1 Kasiyapuram 5.VIdayapatti (R.V) Idayapatti (P) Ward-3 Idayapatti 6.Idayapatti (R.V) Idayapatti (P) Ward-4 Velankadu 999.OVERSEAS  ELECTORS
+241,179,241,241,"Panchayat Union Middle  School,  West Facing,  East Building  ,  South  Portion-Idayapatti-622102","1.Idayapatti (R.V) Idayapatti (P) Ward-4 Chinna Koovattupatti 2.Idayapatti (R.V) Idayapatti (P) Ward-6 Koovattupatti Harijantheru 3.Idayapatti (R.V) Idayapatti (P) Ward-4 Koovattupatti Kilakku 4.Idayapatti (R.V) Idayapatti (P) Ward-6 Koovattupatti Merku 5.Idayapatti (R.V) Idayapatti (P)Ward-5 KoovattupattiAmbalakarar Theru 6.Idayapatti (R.V) Idayapatti (P) Ward-6 karampatti
+999.OVERSEAS  ELECTORS"
+242,179,242,242,"Panchayat Union Middle  School, North Facing,  Middle  portion, Alathur-622102","1.Alathur  (R.V) Alathur (P) Ward-1 kurichipatti Vadakku Theru
+2.Alathur  (R.V) Alathur (P) Ward-4 Kurichipatti Therkkutheru
+3.Alathur  (R.V) Alathur (P) Ward-1 Alathur Palaya Adidravidar Kudiyeruppu
+4.Alathur  (R.V) Alathur (P) Ward-3 Alathur Merku 999.OVERSEAS  ELECTORS"
+243,179,243,243,"Panchayat Union Middle  School, North Facing,  West Portion, Alathur-622102","1.Alathur  (R.V) Alathur (P) Ward-5 Alathur Kilakku
+2.Alathur  (R.V) Alathur (P) Ward-5 Alathur Puthiya Adidravidar  Colony
+3.Alathur  (R.V) Alathur (P) Ward-6 Kanchiranpatti
+4.Alathur  (R.V) Alathur (P) Ward-6 Chokkanpatti 999.OVERSEAS  ELECTORS"
+244,179,244,244,"Panchayat Union Middle  School,
+New Terraced Building,  North Portion, West Facing,  Kathavampatti-622102","1.Kathavampatti (R.v) Kathavampatti (p) Ward-4,5,6kadavampati 2.Kathavampatti (R.v) Kathavampatti (P) Ward-3 Soriyampatti 3.Kathavampatti (R.v) Kathavampatti (P) Ward-2,3 Neivaipatti 4.Kathavampatti (R.v) Kathavampatti (P) Ward-1 Thirunadu Kilakku
+5.Thalinji (RV) Thalinji (P) Ward-6 Thirunadu Merku 999.OVERSEAS  ELECTORS"
+245,179,245,245,"Panchayat Union Elementary  School, New Terraced Building,  South  Portion, East Facing,  Thalinji-622102","1.Thalinji (RV) Thalinji (P) Ward-4,5 Thalinji
+2.Thalinji (RV) Thalinji(P) Ward-2 Keelapatti
+3.Thalinji (RV) Thalinji (P) Ward-2 Melapatti
+4.Thalinji (RV) Thalinji (P) Ward-1 Ariyakonpatti
+5.Thalinji (RV) Thalinji (P) Ward-1 Solagampatti
+6.Thalinji (RV) Thalinji (P) Ward-3 OOthukadu
+7.Thalinji (RV) Thalinji (P) Ward-1 Itchangudi 999.OVERSEAS  ELECTORS"
+246,179,246,246,"Government High School,
+SSA Building, South  Facing,  West Portion,  Kilikudi-622102",1.Gudalur(R.V) Kilikudi (P) Ward-1 Ellaipatti 2.Gudalur(R.V) Kilikudi (P) Ward- 1 Perumalpatti 3.Gudalur(R.V) Kilikudi (P) Ward-2 Koodalur 999.OVERSEAS  ELECTORS
+247,179,247,247,"Panchayat Union Elementary  School, North Facing,  East Portion, Peyal-622102",1.Peyal(R.V) Kilikudi (P) Ward-8 Valayapatti 2.Peyal(R.V) Kilikudi (P) Ward- 7 Vairampatti 3.Peyal(R.V) Kilikudi (P) Ward- 7 Peyal 999.OVERSEAS  ELECTORS
+248,179,248,248,"Panchayat Union Elemenrary  School, New Terraced Building,  North  Facing, East Portion, Mampatti-622102",1.Mampatti(R.V) Kilikudi (P) Ward-3 Chokkampatti 2.Mampatti(R.V) Kilikudi (P) Ward-3 Seethapatti 3.Mampatti(R.V) Kilikudi (P) Ward-3 Solaicheripartti 4.Mampatti(R.V) Kilikudi (P) Ward-4 Mampatti 5.Mampatti(R.V) Kilikudi (P) Ward-4 Konakurichipatti 999.OVERSEAS  ELECTORS
+249,179,249,249,"Government High School,
+SSA Building, South  Facing,  East Portion,   Kilikudi-622102","1.Kilikudi (R.V) Kilikudi (P) Ward-5 Veppanganipatti
+2.Kilikudi (R.V) Kilikudi (P) Ward-9 Vilavayal Colony
+3.Kilikudi (R.V) Kilikudi (P) Ward-9 Villampatti
+4.Kilikudi (R.V) Kilikudi (P) Ward-6 Kilikudi
+5.Kilikudi (R.V) Kilikudi (P) Ward-1 Chettiyapatti 999.OVERSEAS  ELECTORS"
+250,179,250,250,"Government Higher Secondary School, New Terraced Building,  West  Facing, North Portion,  Parambur-622102",1.Parambur (R.V) Parambur  (P) Ward-7 Parambur  Vadakku 999.OVERSEAS  ELECTORS
+251,179,251,251,"Government Higher Secondary School, New Terraced Building,  West  Facing, Middle  Portion,  Parambur-622102","1.Parambur (R.V) Parambur  (P) Ward-7 Parambur  Vadakku   -2
+2.Parambur (R.V) Parambur  (P) Ward-9 Parambur  Keelpagam 999.OVERSEAS  ELECTORS"
+252,179,252,252,"Panchayat Union Elementary  School, South Facing  Terraced Building,  West Portion,  Karasoorampatti-622104","1.Oonaiyur  (P) Ward-2 Kappakudi
+2.Vannarapatti (R.V) Parambur  (P) Ward-12 Vannarapatti 3.Vannarapatti (R.V) Parambur  (P) Ward- 12 Pudupatti 4.Vannarapatti (R.V) Parambur  (P) Ward-12 Karasooranpatti 5.Kavinaripatti(R.V) Oonaiyur (P) Ward-2 Kavinaripatti 6.Kavinaripatti(R.V) Oonaiyur (P) Ward-2 Perichikudipatti 7.Puthakudi(R.V) Oonaiyur  (P) Ward-12 Puthakudi 999.OVERSEAS  ELECTORS"
+253,179,253,253,"Government Higher Secondary School, New Terraced South  Building,  North Facing,  East portion  Parambur-622104","1.Parambur (R.V) Parambur  (P) Ward-5 Mettupatti
+2.Parambur (R.V) Parambur  (P) Ward-2 Kunniyapatti 3..Parambur  (R.V) Parambur  (P) Ward-10 Poolampatti
+4.Parambur (R.V) Parambur  (P) Ward-10 Vettukadu
+5.Parambur (R.V) Parambur  (P) Ward-6 Kallampatti Senthankarai
+6.Parambur (R.V) Parambur  (P) Ward-5 Veeraperumalpatti 999.OVERSEAS  ELECTORS"
+254,179,254,254,"Panchayath Union Elemantary  School, South Facing, North  Terraced Building, East Portion, Anaippatti-622104","1.Pinnangudi(R.V) Parambur  (P) Ward-11 Anaipatti 2.Pinnangudi(R.V) Parambur  (P) Ward-11 Seegampatti
+3.Pinnangudi(R.V) Parambur  (P) Ward-11 Pinnangudi 999.OVERSEAS  ELECTORS"
+255,179,255,255,"Panchayat Union Elementary  School, New Terraced Building,  East  Facing, South Portion,  Parambur-622104",1.Parambur (R.V) Parambur  (P) Ward-8 Parambur  Therkku 999.OVERSEAS  ELECTORS
+256,179,256,256,"Government Higher Secondary School, New Terraced Building,  West  Facing, South Portion,  Last  Room,  Parambur-622104","1.Parambur (R.V) Parambur  (P) Ward-2 Panampatti Therkku
+2.Parambur (R.V) Parambur  (P) Ward-2 Panampatti Vadakku
+3.Parambur (R.V) Parambur  (P) Ward-2 Puliyampatti"
+257,179,257,257,"Panchayat Union Elementary  School, New SSA Building,  Western  Side Kadambarayanpatti-622103",1.Kadambarayanpatti (R.V)Parambur (P) Ward-3 Kadambarayanpatti Merku 2.Kadambarayanpatti(R.V)Parambur  (P) Ward-3 Kadambarayanpatti Kilakku 3.Kadambarayanpatti (R.V) Parambur  (P) Ward-1 Usilampatti 4.Kadambarayanpatti (R.V) Parambur  (P) Ward-1 Solaicheripatti 5.Kadambarayanpatti (R.V) Parambur  (P) Ward-1 Kanniyapatti 6.Kadambarayanpatti (R.V) Parambur  (P) Ward-3 Rayapatti (Thalampatti) 999.OVERSEAS  ELECTORS
+258,179,258,258,"Government High School,
+North Facing  Terraced Building,  Middle Portion,  Kudumiyanmalai-622104","1.Kudumiyanmalai (R.V) Kudumiyanmalai (P) Ward-2 Aariyamuthupatti 2.Kudumiyanmalai (R.V) Kudumiyanmalai (P) Ward-2 Marungipatti 3.Kudumiyanmalai (R.V) Kudumiyanmalai (P) Ward-3 Keelaparaikalam 4.Kudumiyanmalai (R.V) Kudumiyanmalai (P) Ward-1,2 Urugampatti 999.OVERSEAS  ELECTORS"
+259,179,259,259,"Panchayat Union Elementary  School, South Facing, West  Portion, Kudumiyanmalai-622104","1.Kudumiyanmalai (R.V) Kudumiyanmalai (P) Ward-5 Kudumiyanmalai Vadapagam 2.Kudumiyanmalai (R.V) Kudumiyanmalai (P) Ward-8 Anna Nagar 3.Kudumiyanmalai (R.V) Kudumiyanmalai (P) Ward-8 Visalikalam
+999.OVERSEAS  ELECTORS"
+260,179,260,260,"Panchayat Union Elementary  School, North Portion,  East Facing, Kudumiyanmalai-622104",1.Kudumiyanmalai (R.V) Kudumiyanmalai (P) Ward-6 Kudimiyanmalai Thenpagam 2.Kudumiyanmalai (R.V) Kudumiyanmalai (P) Ward-4 Ochapatti 3.Kudumiyanmalai (R.V) Kudumiyanmalai (P) Ward-4 Melaparaikalam 4.Kudumiyanmalai (R.V) Kudumiyanmalai (P) Ward-4 Puramalai 5.Kudumiyanmalai (R.V) Kudumiyanmalai (P) Ward-4 Uppuparai (Seegampatti) 999.OVERSEAS  ELECTORS
+261,179,261,261,"Panchayat Union Elemenrary  School, Terraced Building,  East Facing  South Portion,  Visalur-622104","1.Visalur (R.V) Kudumiyanmalai (P) Ward-9 Eluvichipatti
+2.Visalur (R.V) Kudumiyanmalai (P) Ward-7   Visalur 999.OVERSEAS  ELECTORS"
+262,179,262,262,"Government Higher Secondary School, North Facing,  East Portion, Terraced Building,  Vayalogam-622104","1.Vayalogam  (R.V) Vayalogam  (P) Ward-1 Panankadu 2.Vayalogam  (R.V) Vayalogam  (P) Ward-1 Keelakalam 3.Vayalogam  (R.V) Vayalogam  (P) Ward-1, 2 Agarapatti 4.Vayalogam  (R.V) Vayalogam  (P) Ward-1 Annapannai 5.Vayalogam  (R.V) Vayalogam  (P) Ward-3 Vayalogam  Therkku 999.OVERSEAS  ELECTORS"
+263,179,263,263,"Government Higher Secondary School, North Facing,  Middle  Portion,Terraced Building,  Vayalogam-622104",1.Vayalogam  (R.V) Vayalogam  (P) Ward-9 Kanattampatti 2.Vayalogam  (R.V) Vayalogam  (P) Ward-9 Velampatti 3.Vayalogam  (R.V) Vayalogam  (P) Ward-8 Muthalipatti 999.OVERSEAS  ELECTORS
+264,179,264,264,"Government Higher Secondary School, North Facing,  West Middle Portion,Terraced Building,  Vayalogam-622104",1.Vayalogam  (R.V) Vayalogam  (P) Ward-7 Vayalogam  Keelpagam 2.Vayalogam  (R.V) Vayalogam  (P) Ward-4 Vayalogam  Vadakkupaguthi 999.OVERSEAS  ELECTORS
+265,179,265,265,"Panchayat Union Elementary  School, South Facing,   Tiled building,   Mangudi-622101","1.Mangudi (R.V) Mangudi (P) Ward-1 Velar  Theru,  Muslim  theru
+2.Mangudi (R.V) Mangudi (P) Ward-1 Adidravidar Theru"
+266,179,266,266,"Panchayat Union Elementary  School, West Facing,  North Portion,  Terraced Building,  Mangudi-622101","1.Mangudi (R.V) Mangudi (P) Ward-2 Mangudi Therkku
+2.Mangudi (R.V) Mangudi (P) Ward-2 Mangudi Vadakku
+3.Mangudi (R.V) Mangudi (P) Ward-1 Kannattampatti 999.OVERSEAS  ELECTORS"
+267,179,267,267,"Panchayat Union Elementary  School, North West Building,  East  Facing, Perumanadu-622104",1.Perumanadu (R.V) Perumanadu (P) Ward-13 Perumanadu 999.OVERSEAS  ELECTORS
+268,179,268,268,"Panchayat Union Elementary  School, South Facing, West  Portion South Terraced Building,  Perumanadu-622104",1.Perumanadu (R.V) Perumanadu (P) Ward-13 Perumanadu 999.OVERSEAS  ELECTORS
+269,179,269,269,"Panchayath Union Elementary School,South  Facing,  North  East Terraced Building,  East Portion, Perumanadu-622104","1.Perumanadu (R.V) Perumanadu (P) Ward-7 Pudukilapatti 2.Perumanadu (R.V) Perumanadu (P) Ward-3 Mailapatti 3.Perumanadu (R.V) Perumanadu (P) Ward- 4,  9 Melapaluvanji 999.OVERSEAS  ELECTORS"
+270,179,270,270,"Government High School, Terracced Building, South  Facing, Pulvayal-622104","1.Pulvayal (R.V) Pulvayal (P) Ward-2 Kandupatti
+2.Pulvayal (R.V) Pulvayal (P) Ward-2 Alavayal
+3.Pulvayal (R.V) Pulvayal (P) Ward-2 Kollampatti
+4.Pulvayal (R.V) Pulvayal (P) Ward-4 Sandapatti 999.OVERSEAS  ELECTORS"
+271,179,271,271,"Panchayat Union Elementary  School, West Facing,East Portion,  Pulvayal-622104",1.Pulvayal (R.V) Pulvayal (P) Ward-2 Pulvayal 999.OVERSEAS  ELECTORS
+272,179,272,272,"Panchayat Union Elementary  School, North Facing,  Terraced Building, Sundarapatti-622104",1.Sundarapatti(R.V) Pulvayal (P) Ward-6 Mappilaiapatti 2.Sundarapatti(R.V) Pulvayal (P) Ward-6 Thiruvalluvar Nagar 3.Sundarapatti(R.V) Pulvayal (P) Ward-5 Thethinapatti 4.Sundarapatti(R.V) Pulvayal (P) Ward-9 Nerigipatti 5.Sundarapatti(R.V) Pulvayal (P) Ward-9 Kamaraj Nagar 6.Sundarapatti(R.V) Pulvayal (P) Ward-9 Pillayapatti 7.Sundarapatti(R.V) Pulvayal (P) Ward-9 Sundarapatti 8.Sundarapatti(R.V) Pulvayal (P) Ward-8 Annai Nagar 9.Sundarapatti(R.V) Pulvayal (P) Ward-6 Kadayapatti 999.OVERSEAS  ELECTORS
+273,179,273,273,"Panchayat Union Elementary  School, North Facing,  East Portion, New Terraced Building,  Nilaiyapatti-622104","1.Pulvayal (R.V) Pulvayal (P) Ward-7 Pakkuruchipatti
+2.Pulvayal (R.V) Pulvayal (P) Ward-1 Nilayapatti 999.OVERSEAS  ELECTORS"
+274,179,274,274,"Panchayat Union Elementary  School, East Facing,  North  Portion,  New Terraced Building,  Senthamangalam-622104",1.Gothandaramapuram  (R.V) Gothandaramapuram  (P) Ward-4 Senthamangalam 999.OVERSEAS  ELECTORS
+275,179,275,275,"Government High School West  terreced Building,  North,  Facing, Keelapaluvanji - 622104",1.Gothandaramapuram  (R.V) Gothandaramapuram  (P) Ward-6 Keelapaluvanji 999.OVERSEAS  ELECTORS
+276,179,276,276,"Panchayat Union Elementary  School, East Facing,  Terraced Building, MurugarajNagar-622104",1.Gothandaramapuram  (R.V) Gothandaramapuram  (P) Ward-2 Kilapatti 2.Gothandaramapuram  (R.V) Gothandaramapuram  (P) Ward-1 Kunnakudipatti 3.Kurukkapatti(R.V) Gothandaramapuram (P) Ward-2 Kurukkapatti 4.Gothandaramapuram  (R.V) Gothandaramapuram  (P) Ward-1 Murugaraj Nagar 999.OVERSEAS  ELECTORS

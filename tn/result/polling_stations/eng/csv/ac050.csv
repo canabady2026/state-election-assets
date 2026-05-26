@@ -1,0 +1,689 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+-1,50,-2,-3,-4,-5
+1,50,1,"Panchayat Union Elementary School, Facing South, North Building Room No.01 Gummidikanpatti 635901","1.Gumudikanpatti (P), Badanvadi (R.V) Ward 1 Gumudikanpatti, 999.OVERSEAS ELECTORS",All Voters
+2,50,2,"Panchayat Union Middle School, Facing East, West Building Kodiyur 635653","1.Gumudikanpatti (P), Badanvadi (R.V) Ward 1 Poonganur, 999.OVERSEAS ELECTORS",All Voters
+3,50,3,"Panchayat Union Elementary School, Facing South, North Building Room No.02 Gummidikanpatti 635901","1.Gumudikanpatti (R.V) And (P) Ward 1 Kannanur, 2.Gumudikanpatti (R.V) And (P) Ward 1 Aanikanur, 999.OVERSEAS ELECTORS",All Voters
+4,50,4,"Panchayat Union Elementary School, Facing South, North Building Narsampatti 635653","1.Narsampatti (R.V.) & (P) Ward 1 Narsampatti, 999.OVERSEAS ELECTORS",All Voters
+5,50,5,"Panchayat Union Elementary School, East Facing Building, Narsampatti - 635653","1.Narsampatti (P) Ward 1 Thonaiyan Vattam, 2.Narsampatti (P) Ward 1 Thannikenaru Vattam, 3.Narsampatti (P) Ward 2 Koilur,
+999.OVERSEAS ELECTORS",All Voters
+6,50,6,"Panchayat Union Middle School, Facing South, North Building Badanavadi Mottur 635901","1.Mottur (R.V.) And (P) Ward 1 Mottur,
+2.Mottur (R.V.) And (P) Ward 1 Thonganur,
+3.Mottur (R.V.) And (P) Ward 1 Eringkizur, 999.OVERSEAS ELECTORS",All Voters
+7,50,7,"Panchayat Union Middle School, Facing North, South Building Badanavadi Mottur 635901","1.Mottur (R.V.) And (P) Ward 1 Karadi Goundanur,
+2.Mottur (R.V.) And (P) Ward 2 Mutthampatti,
+3.Mottur (R.V.) And (P) Ward 2 Anikanur,
+4.Mottur (R.V.) And (P) Ward 2 Pulliyampatti, 999.OVERSEAS ELECTORS",All Voters
+8,50,8,"Panchayat Union Middle School, Facing North, Middle Building Paradesipatti 635901","1.Badanavadi (R.V), Paradesipatti (P) Ward 1 Paradesipatti, 2.Badanavadi (R.V), Paradesipatti (P) Ward 1 Soullur, 3.Badanavadi (R.V), Paradesipatti (P) Ward 1 Chandakuppam, 999.OVERSEAS ELECTORS",All Voters
+9,50,9,"Panchayat Union Elementary School, Facing East, West Building Erampatti 635654","1.Errampatti (R.V) And (P) Ward 1 Errampatti, 999.OVERSEAS ELECTORS",All Voters
+10,50,10,"Panchayat Union Middle School, Facing West,East Building KolKanur 635654","1.Errampatti (R.V) And (P) Ward 2 Kolkanur, 999.OVERSEAS ELECTORS",All Voters
+11,50,11,"Government Higher Secondary School, Facing South, North Building Room No.01 Periyakannalampatti 635654","1.Periyakannalapatti (R.V) & (P) Ward 4 Periyakannalampatti, 2.Periyakannalapatti (R.V) & (P) Ward 1 Rajavur, 999.OVERSEAS ELECTORS",All Voters
+12,50,12,"Government Higher Secondary School, Facing
+South, North Building Room No. 02 Periyakannalampatti 635654","1.Periyakannalapatti (R.V) & (P) Ward 1 Kollakottai,
+2.Periyakannalapatti (R.V) & (P) Ward 2 Chinnakannalampatti, 999.OVERSEAS ELECTORS",All Voters
+13,50,13,"Panchayat Union Elementary School, East Facing, West Building East , East Bathanavadi 635901","1.East Bathanavadi (P), Bathanavadi (R.V) Ward 1 East Pathanavadi,
+2.East Bathanavadi (P), Bathanavadi (R.V) Ward 1 Puttapanur,
+3.East Bathanavadi (P), Bathanavadi (R.V) Ward 1 Kottavur Vattam,
+4.East Bathanavadi (P), Bathanavadi (R.V) Ward 1 Thailanthoppu Vattam,
+999.OVERSEAS ELECTORS",All Voters
+14,50,14,"Panchayat Union Middle School, Facing West, Noth
+Building Aravamatrappalli 635901","1.East Bathanavadi (P), Bathanavadi (R.V) Ward 2 Pallalapalli,
+999.OVERSEAS ELECTORS",All Voters
+15,50,15,"Panchayat union Middle School, Facing South East Building, Aravamatrapalli - 635901","1.East Bathanavadi (P), Bathanavadi (R.V) Ward 2 Kurumber Vattam,
+2.East Bathanavadi (P), Bathanavadi (R.V) Ward 2 Vellai Mooinchiyan Vattam,
+3.East Bathanavadi (P), Bathanavadi (R.V) Ward 2 Amatta Eari Vattam,
+4.East Bathanavadi (P), Bathanavadi (R.V) Ward 3 Mottur Kolla Kottai,
+5.East Bathanavadi (P), Bathanavadi (R.V) Ward 3 Kondappanur, 999.OVERSEAS ELECTORS",All Voters
+16,50,16,"Panchayat Union Middle School, Facing East Building Room No.01 Pallathur 635901","1.Pallathur (P), Badanavadi (R.V) Ward 1 Pallathur, 2.Pallathur (P), Badanavadi (R.V) Ward 1 Kurumampatti,
+999.OVERSEAS ELECTORS",All Voters
+17,50,17,"Panchayat Union Middle School, Facing East Building Room No. 02 Pallathur 635901","1.Pallathur (P), Badanavadi (R.V) Ward 3 Kerugavanapalli, 2.Pallathur (P), Badanavadi (R.V) Ward 3 Anumanpatti,
+999.OVERSEAS ELECTORS",All Voters
+18,50,18,"Panchayat Union Elementary School, Facing West Building Koondapanayacken patti 635901","1.Kondapa naickan patti Manavalli (P) Nariyaneri (R.V) Kondappanaickenpatti,
+2.Nariyaneri (R.V) And (P) Ward 2 Manavalli Kollakottai, 3.Nariyaneri (R.V) And (P) Ward 2 Manavalli Kollakottai,
+999.OVERSEAS ELECTORS",All Voters
+19,50,19,"Panchayat Union Middle School, West Facing Building, Telungu Matrapalli - 635901","1.Kondapa naickan patti Manavalli (P) Nariyaneri (R.V) Telengu Matrapalli,
+999.OVERSEAS ELECTORS",All Voters
+20,50,20,"Panchayat Union Middle School, Facing South
+Building Nariyaneri 635901","1.Nariyaneri (R.V) And (P) Ward 1 Nariyaneri,
+999.OVERSEAS ELECTORS",All Voters
+21,50,21,"Panchayat Union Elementary School, Facing North
+South Building Kariyampatti 635901","1.Nariyaneri (R.V) And (P) Ward 2 Mangkuppam,
+999.OVERSEAS ELECTORS",All Voters
+22,50,22,"Panchayat Union Elementary School, Facing West Kariyampatti - 635901","1.Nariyaneri (R.V) And (P) Ward 2 Kariyampatti,
+2.Nariyaneri (R.V) And (P) Ward 2 Kariyampatti, 999.OVERSEAS ELECTORS",All Voters
+23,50,23,"Panchayat Union Elementary School, Facing East,
+West Building, Manavalli 635901","1.Nariyaneri (R.V), Manavalli (P) Ward 1 Manavalli,
+999.OVERSEAS ELECTORS",All Voters
+24,50,24,"Panchayat Union Elementary School, Facing West
+Building, Manavalli - 635901","1.Nariyaneri (R.V), Manavalli (P) Ward 2 Gundumedu,
+999.OVERSEAS ELECTORS",All Voters
+25,50,25,"Panchayat Union Middle School, Facing South Building Room No. 02 Lakkinaickenpatti 635654","1.Lakinayakampatti (R.V) And (P) Ward 2 Komalipatti, 2.Lakinayakampatti (R.V) And (P) Ward 2 Anna Nagar,
+999.OVERSEAS ELECTORS",All Voters
+26,50,26,"Panchayat Union Middle School, Facing South
+Building Room No. 02 Lakkinaickenpatti 635654","1.Lakinayakampatti (R.V) And (P) Ward 1 Jalliyur,
+999.OVERSEAS ELECTORS",All Voters
+27,50,27,"Anganwadi Center, East Facing Middle Wing, Lakkinaickenpatti - 635654","1.Lakinayakampatti (R.V) And (P) Ward 2 Jaliyur, 2.Lakinayakampatti (R.V) And (P) Ward 2 Vaniyar Vattam,
+999.OVERSEAS ELECTORS",All Voters
+28,50,28,"Panchayat Union Middle School, Facing South, North Building Kunichi Mottur 635601","1.Kunichi (R.V) And (P) Ward 6 Kunichi Mottur,
+2.Kunichi (R.V) And (P) Ward 6 Rajamanikam Vattam,
+3.Kunichi (R.V) And (P) Ward 6 Balaraman Vattam,
+4.Kunichi (R.V) And (P) Ward 6 Adi dravidar Colony, 999.OVERSEAS ELECTORS",All Voters
+29,50,29,"Government Higher Secondary School, Facing South, North Building Room No.01 Kunichi 635601","1.Kunichi (R.V) And (P) Ward 1 Kunichi,
+2.Kunichi (R.V) And (P) Ward 2 Kunichi Adi dravidar Colony, 999.OVERSEAS ELECTORS",All Voters
+30,50,30,"Government Higher Secondary School, Facing South, North Building Room No.03 Kunichi - 635601","1.Kunichi (R.V) And (P) Ward 2 Kunichi Kolla Kottai,
+2.Kunichi (R.V) And (P) Ward 2 Kurumber Vattam,
+3.Kunichi (R.V) And (P) Ward 4 Ponniyamman Koil Vattam,
+4.Kunichi (R.V) And (P) Ward 5 Ponniyamman Kovil Vattam, 999.OVERSEAS ELECTORS",All Voters
+31,50,31,"Government Higher Secondary School, Facing South, North Building Room No.04 Kunichi 635601","1.Kunichi (R.V) And (P) Ward 2 Anna Nagar,
+2.Kunichi (R.V) And (P) Ward 2 Periyar Vattam,
+3.Kunichi (R.V) And (P) Ward 3 Kuraver Colony,
+4.Kunichi (R.V) And (P) Ward 3, Selvanur,
+5.Kunichi (R.V) And (P) Ward 3, Naidu Vattam, 999.OVERSEAS ELECTORS",All Voters
+32,50,32,"Panchayat Union Elementary School, Facing East, West Building Kunichi 635601","1.Kunichi (R.V) And (P) Ward 3 Naidu Vattam,
+2.Kunichi (R.V) And (P) Ward 7 Molakarampatti,
+3.Kunichi (R.V) And (P) Ward 4 Chinna Kunichi, 999.OVERSEAS ELECTORS",All Voters
+33,50,33,"Government Higher Secondary School, Facing East,
+West Building Kunichi 635601","1.Kunichi (R.V) And (P) Ward 5 Chinna Kunichi,
+999.OVERSEAS ELECTORS",All Voters
+34,50,34,"Panchayat Union Elementary School, Facing East, West Building Room No.01 Kasinayackenpatti
+635901","1.Kasinayakanpatti (R.V) And (P) Ward 1 Kil Kudiirupu, 2.Kasinayakanpatti (R.V) And (P) Ward 1 Ammanpuram,
+999.OVERSEAS ELECTORS",All Voters
+35,50,35,"Panchayat Union Elementary School, Facing East,
+West Building Room No.02 Kasinayackenpatti 635901","1.Kasinayakanpatti (R.V) And (P) Ward 1 Mel Kudiirupu,
+2.Kasinayakanpatti (R.V) And (P) Ward 1 Kasinayakanpatti, 999.OVERSEAS ELECTORS",All Voters
+36,50,36,"Panchayat Union Middle School, Facing North,South Building Chinna kasinayackenpatti
+635901","1.Kasinayakanpatti (R.V), Chinna Kasinayakanpatti (P) Ward 1 Chinna Kasinayakanpatti,
+999.OVERSEAS ELECTORS",All Voters
+37,50,37,"Panchayat Union Middle School, Facing South, North Building Chinna kasinayackenpatti 635901","1.Kasinayakanpatti (R.V), Chinna Kasinayakanpatti (P) Ward 2 Kollakottai,
+999.OVERSEAS ELECTORS",All Voters
+38,50,38,"Panchayat Union Elementary School, Facing East, West Building Room No. 03 Kasinayackenpatti
+635901","1.Kasinayakanpatti (R.V) And (P) Ward 2 Kollakottai, 999.OVERSEAS ELECTORS",All Voters
+39,50,39,"Panchayat Union Elementary School, Facing East, West Building Room No. 04 Kasinayackenpatti
+635901","1.Kasinayakanpatti (R.V) And (P) Ward 3 Venkateshpuram, 999.OVERSEAS ELECTORS",All Voters
+40,50,40,"Panchayat Union Elementary School, Facing East,
+West Building, Room No.05 Kasinaickenpatti - 635901","1.Kasinayakanpatti (R.V) And (P) Ward 3 Kasinayakanpatti,
+2.Kasinayakanpatti (R.V) And (P) Ward 3 Kamaraj Nagar, 999.OVERSEAS ELECTORS",All Voters
+41,50,41,"Municipal Elementary School, Southern Building Facing North Room No.01 Valluvar Nagar 635601","1.Tirupattur Village (R.V) and (P) Ward 5 Samiyar Kottai, 2.Tirupattur Village (R.V) and (P) Ward 5 Bharathi Nagar,
+999.OVERSEAS ELECTORS",All Voters
+42,50,42,"Municipal Elementary School, Southern Building Facing North Room No.02 Valluvar Nagar 635601","1.Tirupattur Village (R.V) and (P) Ward 5 Valluvar Nagar, 2.Tirupattur Village (R.V) and (P) Ward 5 Bharathidasan Nagar,
+999.OVERSEAS ELECTORS",All Voters
+43,50,43,"Lions Matriculation Hr.Sec. school, Northern Building, Facing West Roon No:11 Tirupattur 635601","1.Tirupattur Village (R.V) & (P) Ward 1 P. U. S. Nagar, 2.Tirupattur Village (R.V) and (P) Ward 1 Kollakkottai, 3.Tirupattur Village (R.V) and (P) Ward 1 Vengateshan Nagar,
+999.OVERSEAS ELECTORS",All Voters
+44,50,44,"Government Most Backward Class Boys Hostel ,
+Facing East Building TNHB Phase-1, Tirupattur 635601","1.Tirupattur Village (R.V) and (P) Ward 2 T.N.H.B. (Phase 1), 999.OVERSEAS ELECTORS",All Voters
+45,50,45,"Government Most Backward Class Boys Hostel , Facing East Building TNHB Phase_1, Tirupattur
+635601",1.Tirupattur Village (R.V) and (P) Ward 2 T.N.H.B. (Phase 1) 999.OVERSEAS ELECTORS,All Voters
+46,50,46,"Intergrated Child Development Service Centre,
+Facing North, TNHB Phase - I 635601","1.Tirupattur Village (R.V) and (P) Ward 2 T.N.H.B. (Phase 1)
+999.OVERSEAS ELECTORS",All Voters
+47,50,47,"Municipal Elementary School, South Portion,Facing West Building Avai Nagar, Tirupattur 635601",1.Tirupattur Village (R.V) and (P) Ward 4 Avai Nagar 999.OVERSEAS ELECTORS,All Voters
+48,50,48,"Municipal Elementary School, Centre Portion,Facing West Building Avai Nagar, Tirupattur 635601","1.Tirupattur Village (R.V) and (P) Ward 4 Avai Nagar,
+2.Tirupattur Village (R.V) and (P) Ward 4 Maruthuvar Nagar 999.OVERSEAS ELECTORS",All Voters
+49,50,49,"Municipal Elementary School, North Portion,Facing West Building Avai Nagar, Tirupattur 635601","1.Tirupattur Village (R.V) and (P) Ward 4 Chandran Nagar, 2.Tirupattur Village (R.V) and (P) Ward 4 Rajeev Gandhi Nagar, 3.Tirupattur Village (R.V) and (P) Ward 4 Sivasakthi Nagar
+999.OVERSEAS ELECTORS",All Voters
+50,50,50,"Municipal Middle School, Facing West, Northern Building Vellan Nagar,Room no.01 Tirupattur
+635601",1.Tirupattur Village (R.V) and (P) Ward 3 Vealan Nagar 999.OVERSEAS ELECTORS,All Voters
+51,50,51,"Municipal Middle School, Facing West, Northern Building Vellan Nagar, Room no.02Tirupattur
+635601",1.Tirupattur Village (R.V) and (P) Ward 3 Indra Nagar 999.OVERSEAS ELECTORS,All Voters
+52,50,52,"Municipal Yoga Centre, South Facing North
+Building, TNHB Phase 2 Tirupattur 635601","1.Tirupattur Village (R.V) and (P) Ward 2 T.N.H.B 2 Quaters
+999.OVERSEAS ELECTORS",All Voters
+53,50,53,"Holly Cross Matriculation Higher Secondary School, Central room, Room no.01 Facing North South
+Building S.Pallipattu 635601",1.S.Pallipattu (R.V) And (P) Ward 1 S.Pallipattu 999.OVERSEAS ELECTORS,All Voters
+54,50,54,"Holly Cross Matriculation Higher Secondary School, Central Room No.03 Facing North South Building Room No.03 S.Pallipattu - 635601",1.S.Pallipattu (R.V) And (P) Ward 1 S.Pallipattu 2.S.Pallipattu (R.V) And (P) Ward 2 S.Pallipattu 999.OVERSEAS ELECTORS,All Voters
+55,50,55,"Holly Cross Matriculation Higher Secondary School, Central room, Room no.04 Facing North South
+Building S.Pallipattu 635601","1.S.Pallipattu (R.V) And (P) Ward 1 T.N.H.B. Phase 2, 999.OVERSEAS ELECTORS",All Voters
+56,50,56,"Holly Cross Matriculation Higher Secondary School,
+East Division, Facing East West Building S.Pallipattu 635601",1.S.Pallipattu (R.V) And (P) Ward 3 S.Pallipattu 999.OVERSEAS ELECTORS,All Voters
+57,50,57,"Holly Cross Matriculation Higher Secondary School, Facing South, Main Building S.Pallipattu 635601",1.S.Pallipattu (R.V) And (P) Ward 3 T.N.H.B. Phase 2 999.OVERSEAS ELECTORS,All Voters
+58,50,58,"Pachayat Union Primary School, Facing South,
+North Building Adiyur 635602","1.Adiyur (R.V) And (P) Ward 4 Adiyur Village
+999.OVERSEAS ELECTORS",All Voters
+59,50,59,"Pachayat Union Primary School, Facing
+North,South Building Adiyur 635602","1.Adiyur (R.V) And (P) Ward 4 Pallipattu
+999.OVERSEAS ELECTORS",All Voters
+60,50,60,"Adidravidar Welfare Middle School, Facing North ,
+South Building Adiyur 635602","1.Adiyur (R.V) And (P) Ward 5 Adiyur Colony,
+999.OVERSEAS ELECTORS",All Voters
+61,50,61,"Panchayat Union Middle School, Facing North
+South Building Room No.01 Pullikuttai - 635602","1.Adiyur (R.V) And (P) Ward 5 Pulikuttai
+999.OVERSEAS ELECTORS",All Voters
+62,50,62,"Panchayat Union Middle School, Facing South, North Building Room no.01 Ravuthampatti 635602","1.Pullikuttai, Adiyur (R.V) And (P) Ward 3 Ravuthampatti, 2.Pullikuttai, Adiyur (R.V) And (P) Ward 3 Ravuthampatti, Adi dravidar Colony
+999.OVERSEAS ELECTORS",All Voters
+63,50,63,"Panchayat Union Middle School, Facing West,East Building Ravuthampatti 635602","1.Pullikuttai, Adiyur (R.V) And (P) Ward 3 Adiyur, Odai, 2.Pullikuttai, Adiyur (R.V) And (P) Ward 3 Panchanampatti, 3.Pullikuttai, Adiyur (R.V) And (P) Ward 3 Salathar Vattam, 4.Pullikuttai, Adiyur (R.V) And (P) Ward 3 Timmavaram, 5.Pullikuttai, Adiyur (P) Ward 3 Chettykara Street
+999.OVERSEAS ELECTORS",All Voters
+64,50,64,"Panchayat Union Middle School, Facing South, North Building Room no.02 Ravuthampatti 635602","1.Pullikuttai, Adiyur (R.V) And (P) Ward 3 Adiyur Salai,
+2.Pullikuttai, Adiyur (R.V) And (P) Ward 3 Adiyur Panchanampatti (a) Aalamarathu Kottai,
+3.Pullikuttai, Adiyur (R.V) And (P) Ward 3 Adiyur Kollakottai, 4.Pullikuttai, Adiyur (R.V) And (P) Ward 3 Adiyur Village
+999.OVERSEAS ELECTORS",All Voters
+65,50,65,"Panchayat Union Middle School, Facing North,
+Room no. 02 South Building PulliKuttai 635602","1.Aathiyur (R.V) And (P) Ward 9 Aathiyur Kollakottai
+999.OVERSEAS ELECTORS",All Voters
+66,50,66,"Panchayat Union Elementary School, North Facing East West Building Adisakthi Nagar 635602","1.Aathiyur (R.V) And (P) Ward 4 Adisakthi Nagar,
+2.Aathiyur (R.V) And (P) Ward 4 Kagitha Pattarai,
+3.Aathiyur (R.V) And (P) Ward 8 Aruthathiyer Kudiirupu 999.OVERSEAS ELECTORS",All Voters
+67,50,67,"Anganwadi Centre, Facing West,East Building PulliKuttai 635602","1.Pullikuttai, Adiyur (R.V) And (P) Ward 2 Pullikuttai,Adiyur, 2.Pullikuttai, Adiyur (R.V) And (P) Ward 2 Adiyur,Pandian polytechnic, 3.Pullikuttai, Adiyur (R.V) And (P) Ward 2 Backside Vattam, 4.Pullikuttai, Adiyur (R.V) And (P) Ward 2 Adiyar,Kurumber Kudiirupu 999.OVERSEAS ELECTORS",All Voters
+68,50,68,"Dominic Savio Higher Secondary School , Northern Building Facing South, Room no.01 London Mission Road, Tirupattur 635601","1.Tirupathur (M) Ward 2 Palaniswamy Road Main Part 231 To 313 & 2, 2.Tirupathur (M) Ward 2 Sivarajpettai Kaliappan Layout,
+3.Tirupathur (M) Ward 2 Sivaraj Pettai Koilur Road) 1,
+4.Tirupathur (M) Ward 2 Annumanda Ubasakarpettai 1st Street (Anand Layout),
+5.Tirupathur (M) Ward 2 Annumantha Ubasakarpettai 2nd Street, 6.Tirupathur (M) Ward 2 Annumantha UbasakarPettai 3rd Street, 7.Tirupathur (M) Ward 2 Annumantha Ubasakar Pattai 4th Street, 8.Tirupathur (M) Ward 2 Annumantha Ubasakarpettai 5th Street, 9.Tirupathur (M) Ward 2 Anumantha Ubasakarpettai 6th Street 999.OVERSEAS ELECTORS",All Voters
+69,50,69,"Dominic Savio Higher Secondary School , Northern Building Facing South, Room no.02 London Mission Road, Tirupattur 635601","1.Tirupathur (M) Ward 2 Sakthi Nagar 1st Street, 2.Tirupathur (M) Ward 2 Sakthi Nagar 2nd Street, 3.Tirupathur (M) Ward 2 Sakthi Nagar 3rd Street, 4.Tirupathur (M) Ward 2 Sakthi Nagar 4th Street, 5.Tirupathur (M) Ward 2 Sakthi Nagar 5th Street, 6.Tirupathur (M) Ward 2 Sakthi Nagar 6th Street, 7.Tirupathur (M) Ward 2 Sakthi Nagar 7th Street, 8.Tirupathur (M) Ward 2 Sakthi Nagar 8th Street 999.OVERSEAS ELECTORS",All Voters
+70,50,70,"Dominic Savio Higher Secondary School , Northern Building Facing South, Room no.03 London Mission Road, Tirupattur 635601","1.Tirupathur (M) Ward 4 Gandhipettaimariamman Kovil street 1, 2.Tirupathur (M) Ward 4 GandhipettaiMariamman Kovil Street 2, 3.Tirupathur (M) Ward 4 Kasturibai Street 2nd Street Part
+999.OVERSEAS ELECTORS",All Voters
+71,50,71,"Dominic Savio Higher Secondary School , Northern Building Facing South, Room no.04 London Mission Road, Tirupattur 635601","1.Tirupathur (M) Ward 4 Gandhipettai Piliyar Kovil Street Main, 2.Tirupathur (M) Ward 4 Gandhipettai Piliyar Kovil Street 1st Lane, 3.Tirupathur (M) Ward 4 Gandhipettai Piliyarkovil Street 2nd lane 999.OVERSEAS ELECTORS",All Voters
+72,50,72,Samuthaya Koodam East Facing Building Bosco Nagar 635601,"1.Tirupathur (M) Ward 3 Sivaraj Pettai Bose Nagar 1st Street, 2.Tirupathur (M) Ward 3 Sivarajpettai Bose Nagar 2nd Street, 3.Tirupathur (M) Ward 3 Sivarajpettai Bose Nagar 3rd Street, 4.Tirupathur (M) Ward 3 Sivarajpettai Bose Nagar 4th Street, 5.Tirupathur (M) Ward 3 Sivarajpettai Bose Nagar 5th Street, 6.Tirupathur (M) Ward 3 Sivarajpettai Bose Nagar 6th Street, 7.Tirupathur (M) Ward 3 Sivarajpettai Bose Nagar 7th Street, 8.Tirupathur (M) Ward 3 Sivarajpettai Bose Nagar 8th Street 999.OVERSEAS ELECTORS",All Voters
+73,50,73,"Janaki Ponnusamy Aided Elementary School, Northern Building Class Room 2 rd, Facing South Sivarajpet, Tirupattur 635601","1.Tirupathur (M) Ward 3 Sivarajpettai(Part) New Colony 1st Street, 2.Tirupathur (M) Ward 3 Sivarajpettai(part) New Colony 2nd Street, 3.Tirupathur (M) Ward 3 Sivarajpettai(Part)New Colony 3rd Street, 4.Tirupathur (M) Ward 3 Kasturibai 1st Street,
+5.Tirupathur (M) Ward 3 Kasturibai 2nd Street D.No.5to35 4 to 31. 6.Tirupathur(M) Ward 3 Sivarajpetti Koilur Road Ekilalio Layout, 999.OVERSEAS ELECTORS",All Voters
+74,50,74,"Municipal Community hall, Facing North Building Sivarajpet, Tirupattur 635601","1.Tirupathur (M) Ward 3 Sivarajpettai(Part)Old Colony 1st Street, 2.Tirupathur (M) Ward 3 Sivarajpettai(Part)Old Colony 2nd Street, 3.Tirupathur (M) Ward 3 Sivarajpettai(Part) Old Colony 3rd Street, 4.Tirupathur (M) Ward 3 Sivarajpetai(Part)Old Colony 4th Street, 5.Tirupathur (M) Ward 3 Sivarajpettai(Part)Old Colony 6th Street, 6.Tirupathur (M) Ward 3 Sivarajpettai(Part) Old Colony 6th Street, 7.Tirupathur (M) Ward 3 Sivarajpettai(Part)Old Colony 7th Street, 8.Tirupathur (M) Ward 3 Sivarajpettai(Part)Old Colony 8th Street, 9.Tirupathur (M) Ward 3 Sivarajpettai(P)Koil Road 999.OVERSEAS ELECTORS",All Voters
+75,50,75,"Janaki Ponnusamy Aided Elementary School, Southern Building Facing North Kovilur Road, Tirupattur 635601","1.Tirupathur (M) Ward 3 Sivarajpettai(P) Koilur Road, 2.Tirupathur (M) Ward 3 Sivarajpettai Koilur Road, 3.Tirupathur (M) Ward 3 Sivarajpettai Kovilur Road 3rd Street, 4.Tirupathur (M) Ward 3 Sivaraj Pettai Karapanur Road,
+5.Tirupathur (M) Ward 3 Sivarajpettai Karapanur Road 1st Cross, 6.Tirupathur (M) Ward 3 Dapathar Muthusamipettai Ambedkar Nagar 1, 7.Tirupathur (M) Ward 3 Dabathar Muthuswamy Pettai Ambatkar Nagar 2,
+8.Tirupathur (M) Ward 3 Dabathar Muthusami Pettai Ambatkar Nagar 3 999.OVERSEAS ELECTORS",All Voters
+76,50,76,"Our Lady's Matriculation School, West Facing East Building LKG A, London Mission Road, Tirupattur 635601","1.Tirupttur (M) Ward 1 Irataimalai Srinivasan Pettai Main, 2.Tirupattur (M) Ward 1 Irathamalai Srinivasan Pettai 1st Street, 3.Tirupathur (M) Ward 1 Iratamalai Srinivasan Petai 2nd Street, 4.Tirupathur (M) Ward 1 Iratamalai Srinivasan Pettai 3rd Street, 5.Tirupathur (M) Ward 1 Iratamalai Srinivasan Pettai 4th Street
+999.OVERSEAS ELECTORS",All Voters
+77,50,77,"Our Lady's Matriculation School, West Facing East Building LKG B, London Mission Road, Tirupattur 635601","1.Tirupathur (M) Ward 1 Iratamalai Srinivasan Pettai 5th Street, 2.Tirupathur (M) Ward 1 Iratamalai Srinivasan Pettai 6th Street, 3.Tirupathur (M) Ward 1 Landan Mission Road Part ( 1 to 77 & 2 to 76), 4.Tirupathur(M) Ward 1 Landan Mission Road 1st street (1 to 5 & 2 to 14)
+999.OVERSEAS ELECTORS",All Voters
+78,50,78,"Our Lady's Matriculation School, West Facing East Building UKG A, London Mission Road, Tirupattur 635601","1.Tirupathur (M) Ward 6 Soukathali Pettai 1st Street, 2.Tirupathur (M) Ward 6 Southalipettai 2nd Street, 3.Tirupathur (M) Ward 6 Soukathalipettai 3rd Street, 4.Tirupathur (M) Ward 6 Soukathali Pettai 4th Street, 5.Tirupathur (M) Ward 6 Soukathalipettai 5th Street
+999.OVERSEAS ELECTORS",All Voters
+79,50,79,"C.K.S. Mani Municipal Elementary School, Eastern Building Facing West Sama Nagar Tirupattur 635601",1.Tirupathur (M) Ward 7 Gandhi Road 999.OVERSEAS ELECTORS,All Voters
+80,50,80,"C.K.S. Mani Municipal Elementary School, Western Building Facing East Sama Nagar Tirupattur 635601","1.Tirupathur (M) Ward 7 Sama Nagar Main, 2.Tirupathur (M) Ward 7 Samanagar 1st Lane
+999.OVERSEAS ELECTORS",All Voters
+81,50,81,"Municipal Elementary School, Facing North East Portion Sowkathali pettai 635601","1.Tirupathur (M) Ward 5 Palaniswamy Road 1st Street, 2.Tirupathur (M) Ward 5 Palaniswamy Road 2nd Street,
+3.Tirupathur (M) Ward 5 Palaniswamy Road 3rd Street (Rajeev Gandhi Nagar),
+4.Tirupathur (M) Ward 5 Dabathar Muthusamipettai 1st Street, 5.Tirupathur (M) Ward 5 Dabathar Muthuswamy Pettai 2nd Street, 6.Tirupathur (M) Ward 5 Dabathar Muthuswamypettai 3rd Street 999.OVERSEAS ELECTORS",All Voters
+82,50,82,"Municipal Elementary School, Facing North,Center Portion Soukathili PettaiTirupattur 635601",1.Tirupathur (M) Ward 5 Ponniyamman Kovil 1st Street 999.OVERSEAS ELECTORS,All Voters
+83,50,83,"Municipal Elementary School, Facing North,Westion Portion Vaithyar Chinna Moorthy st, Tirupattur 635601","1.Tirupathur (M) Ward 8 Ponniyamman Kovil 2nd Street, 2.Tirupathur (M) Ward 8 Vaithiyar Cheena Moorthi Street, 3.Tirupathur (M) Ward 8 Dhandabani Kovil Street, 4.Tirupathur (M) Ward 8 Thiyagi Chithambaranar Street
+999.OVERSEAS ELECTORS",All Voters
+84,50,84,"Sriramanilayam Muncipal Elementary School, Main Building Facing North Chairman Shanmuganar St, Tirupattur 635601","1.Tirupattur (M) Ward 14 Dharmaraja Kovil 1st Street, 2.Tirupattur (M) Ward 14 Dhermaraja Kovil 2nd Street, 3.Tirupattur (M) Ward 14 Dharamaraja Kovil 3rd Street, 4.Tirupattur (M) Ward 14 Dharmaraja Kovil 4th Street, 5.Tirupattur (M) Ward 14 Dharmaraja Kovil 5th Street, 6.Tirupattur (M) Ward 14 Dharamaraja Kovil 6th Street, 7.Tirupattur (M) Ward 14 Dharmaraja Kovil 7th Street, 8.Tirupattur (M) Ward 14 Dhermaraja Kovil 8th Street, 9.Tirupattur (M) Ward 14 Dharamaraja Kovil 9th Street, 10.Tirupattur (M) Ward 14 Dharmaraja Kovil 10th Street, 11.Tirupattur (M) Ward 14 Dharamaraja Kovil 11th Street,1 12.Tirupattur (M) Ward 14 Jinnaroad 1,1
+13.Tirupattur (M) Ward 14 T.P Puran street 1
+999.OVERSEAS ELECTORS",All Voters
+85,50,85,"Ubaibas Girls Elementary School, Facing North Building Adbul Hameed St, Tirupattur 635601","1.Tirupathur (M) Ward 9 Jinna Road 3, 2.Tirupathur (M) Ward 9 Jinnaroad 3 1st Lane, 3.Tirupathur (M) Ward 9 Jinna Road 3 2nd Lane, 4.Tirupathur (M) Ward 9 Ikbal Street, 999.OVERSEAS ELECTORS",All Voters
+86,50,86,"Ubiyas Girls Elementary School, Facing South North Building Adbul Hameed St, Tirupattur 635601","1.Tirupathur (M) Ward 9 Ellamman Kovil Street 2nd Street, 2.Tirupathur (M) Ward 9 Ellamman Kovil 3rd Street Main, 3.Tirupathur (M) Ward 9 Ellamman Kovil Street 3 1st lane, 4.Tirupathur (M) Ward 9 Ellamman Kovil Street 3rd Street 2nd Lane, 5.Tirupathur (M) Ward 9 Ellamman Kovil Street 3rd Street 3rd Lane, 6.Tirupathur (M) Ward 9 Ellamman Kovil Street 3rd Street 4th Lane, 7.Tirupathur (M) Ward 9 Ellamman Kovil Street 3rd Street 5th Lane 999.OVERSEAS ELECTORS",All Voters
+87,50,87,"Municipal Old Musslim boys Middle School, West wing,Main Building, Facing North, Room no.01 Darga Street, Tirupattur 635601","1.Tirupathur (M) Ward 10 Abdul Ameeth Street,
+2.Tirupattur (M) Ward 10 Ellammman Kovil Street 1st Street, 3.Tirupattur (M) Ward 10 Condactor Sayeed Sayabu Street 2, 4.Tirupattur (M) Ward 10 Dhrga Street Main,
+5.Tirupathur (M) Ward 10 Condactor Sayeed Sayabu 1
+999.OVERSEAS ELECTORS",All Voters
+88,50,88,"Municipal Old Musslim boys Middle School, West wing,Main Building, Facing North, Room no.02 Darga Street, Tirupattur 635601","1.Tirupathur (M) Ward 10 Kottai Street, 2.Tirupathur (M) Ward 10 Kottai Street 1st Lane, 3.Tirupattur (M) Ward 10 Darga Street 1st Lane, 4.Tirupattur (M) Ward 10 Darga Street 2nd Lane, 5.Tirupattur (M) Ward 10 Darga Street 3rd Lane
+999.OVERSEAS ELECTORS",All Voters
+89,50,89,"Municipal Old Musslim girls middle School, West wing,Main Building, Facing North, Room no.03 Darga Street, Tirupattur 635601","1.Tirupattur ( M ) Ward 11 T.M.Sulaimaan Street, 2.Tirupattur (M) Ward 11 Hajimeyan Street,
+3.Tirupattur (M) Ward 11 Varadaraja Perumal Koil Street
+999.OVERSEAS ELECTORS",All Voters
+90,50,90,"Municipal Old Musslim girls middle School, West wing,Main Building, Facing North, Room no.04 Darga Street, Tirupattur 635601","1.Tirupattur (M) Ward 11 Chikanthar Back Street, 2.Tirupathur (M) Ward 11 Kulam Razul Street (Main), 3.Tirupattur (M) Ward 11 Kulam Razul Street 1st Lane, 4.Tirupattur (M) Ward 11 Kulam Razul Street 2nd Street, 5.Tirupattur (M) Ward 11 Peralam Abdul Kuthus Street
+999.OVERSEAS ELECTORS",All Voters
+91,50,91,"Municipal Elementary School, Southern Building, Facing North, Room no. 01 Kadai Street, Tirupattur 635601","1.Tirupattur (M) Ward 23 Shop Street 167 to 305 & 174 to 32, 2.Tirupattur (M) Ward 23 Krishanaswayar Street,
+3.Tirupattur (M) Ward 23 Devangar Street 1, 4.Tirupattur (M) Ward 23 Devangar Street 2, 5.Tirupattur (M) Ward 23 Venugopalsamy Kovil Street
+999.OVERSEAS ELECTORS",All Voters
+92,50,92,"Municipal Elementary School, Southern Building, Facing North, Room no. 02 Kadai Street, Tirupattur 635601","1.Tirupattur(M) Ward 23 Thiruneelagandar Street, 2.Tirupattur (M) Ward 23 Puttappannar Street, 3.Tirupattur (M) Ward 23 Counsilar Abdul Malik Street
+999.OVERSEAS ELECTORS",All Voters
+93,50,93,"Municipal Elementary School, Southern Building, Facing North, Room no. 03 Kadai Street, Tirupattur
+635601","1.Tirupattur (M) Ward 24 Parampet Chotae bai Street, 2.Tirupattur (M) Ward 24 Khan Street
+999.OVERSEAS ELECTORS",All Voters
+94,50,94,"Municipal Elementary School, Southern Building, Facing North, Room no. 04 Kadai Street, Tirupattur
+635601","1.Tirupattur (M) Ward 24 Santhimiyan Street 1, 2.Tirupattur (M) Ward 24 Immam Street
+999.OVERSEAS ELECTORS",All Voters
+95,50,95,"Ramakrishana Vidyalaya Matriculation Higher Sec School, class Room,8, LKG - B Eastern Building Facing West Subramaniyasamy Koil St, Tirupattur 635601","1.Tirupattur (M) Ward 12 Shop Street (Part) 69to165&54to172, 2.Tirupattur (M) Ward 12 Babulal Abdul Ajise Street, 3.Tirupathur (M) Ward 12 Chairman Abdula Ak Street 2, 4.Tirupathur (M) Ward 12 Pudur Mariyamman Street
+999.OVERSEAS ELECTORS",All Voters
+96,50,96,"Ramakrishana Vidyalaya Matriculation Higher Sec School, class Room,6, LKG - B Eastern Building Facing West Subramaniyasamy Koil St, Tirupattur 635601","1.Tirupathur (M) Ward 12 Mathran Abdul Kathar Street, 2.Tirupattur (M) Ward 12 Akthar Babamiyan Street, 3.Tirupattur (M) Ward 12 Ragimaniya Street, 4.Tirupattur (M) Ward 12 Poora Majith Street, 5.Tirupattur (M) Ward 12 Allabagash Street
+999.OVERSEAS ELECTORS",All Voters
+97,50,97,"Ramakrishana Vidyalaya Matriculation Higher Sec School, class Room,8, LKG - B Eastern Building Facing West Subramaniyasamy Koil St, Tirupattur 635601","1.Tirupattur (M) Ward 22 Veerapathiraswami Koil Street, 2.Tirupattur (M) Ward 22 Bharathi Road,
+3.Tirupattur (M) Ward 22 Subiramani Kovil Street, 4.Tirupattur (M) Ward 22 Thajaiyamman Kovil Street 1, 5.Tirupattur (M) Ward 22 Thanjaiamman Kovil Street 2, 6.Tirupattur (M) Ward 22 Nethaji Road Main, 7.Tirupattur (M) Ward 22 Naethaji Road 2nd Street, 8.Tirupattur (M) Ward 22 Naethaji Road 3rd lane, 9.Tirupattur (M) Ward 22 Naethaji Road 4th Lane, 10.Tirupattur (M) Ward 22 Nethaji Road 5th Lane, 11.Tirupattur (M) Ward 22 Nethaji Road 6ht Street,1 12.Tirupattur (M) Ward 22 Nethaji Road 7th Lane,1 13.Tirupattur (M) Ward 22 Nethaji Road 8th Lane,1 14.Tirupattur (M) Ward 22 Swamy Street
+999.OVERSEAS ELECTORS",All Voters
+98,50,98,"Osmania Higher Secondary School , Western Building, North Portion, Facing East, Room No.1 , Rajan St, Tirupattur 635601","1.Tirupattur (M) Ward 21 Kaliyamman Street, 2.Tirupattur (M) Ward 21 Karuthapper Street, 3.Tirupattur (M) Ward 21 Noolmandi Street, 4.Tirupattur (M) Ward 21 Kumaraswamy Kovil Street
+999.OVERSEAS ELECTORS",All Voters
+99,50,99,"Osmania Higher Secondary School , Western Building,North Portion, Facing East, Room No.2 ,
+Rajan St, Tirupattur 635601",1.Tirupattur (M) Ward 21 T.A.Annamalaiyar Street(Chetti Street) 999.OVERSEAS ELECTORS,All Voters
+100,50,100,"Osmania Higher Secondary School, Western Building,North Portion, Facing East, Room No.03 Rajan St, Tirupattur 635601","1.Tirupattur (M) Ward 13 Chairman Peiryar Samuganar Street, 2.Tirupathur (M) Ward 13 Muthukara Street,
+3.Tirupattur (M) Ward 13 Jinna Road 2, 4.Tirupattur (M) Ward 13 Kuppaiyar Street
+999.OVERSEAS ELECTORS",All Voters
+101,50,101,"Osmania Higher Secondary School, , Southern Building, Facing North, Rajan St, Tirupattur 635601","1.Tirupattur (M) Ward 13 Dhandapani Kovil 2nd Street Main, 2.Tirupattur (M) Ward 13 Dhandapani Kovil 2nd Sttreet 1st lane, 3.Tirupattur (M) Ward 13 Munikualam Street,
+4.Tirupattur (M) Ward 13 Rajan Street
+999.OVERSEAS ELECTORS",All Voters
+102,50,102,"Aringnar anna Municipal Elementary School, Middle Class Room,Southern Building,Facing North Katcheri St, Tirupattur 635601","1.Tirupattur (M) Ward 20 T.P. Puran Street 2, 2.Tirupattur (M) Ward 20 Katcheri Street, 3.Tirupattur (M) Ward 20 Arasamarath Street
+999.OVERSEAS ELECTORS",All Voters
+103,50,103,"Government Boys Higher Secondary School, Southern Building,Facing North Chairman Durai Samiyar Road, Tirupattur 635601","1.Tirupattur (M) Ward 19 Chairmen Duraiswamyiar Road1 1 to 2 99& 2to1,
+2.Tirupattur (M) Ward 19 I.G. Sanjeeviyar Street, 3.Tirupattur (M) Ward 18 Duvaragapiliyar Street, 4.Tirupattur (M) Ward 19 Sivanar Street, 5.Tirupattur (M) Ward 19 E.L. Ragavanar Street,
+6.Tirupattur (M) Ward 19 Chinnakulam Mariyamman Kovil Street
+999.OVERSEAS ELECTORS",All Voters
+104,50,104,"Govt.Meenatchi Girls Higher Secondary School, Eastern Building,Facing West Room No. 01 Government Garden, Tirupattur 635601","1.Tirupattur (M) Ward 15 Railway Colony,
+2.Tirupathur (M) Ward 15 Ari Street (Part) 45to51&54to74,
+3.Tirupattur (M) Ward 15 Government Poonga(Tamil Nadu Government Quters),
+4.Tirupattur (M) Ward 17 Chairman Kullapanar Street
+999.OVERSEAS ELECTORS",All Voters
+105,50,105,"Govt.Meenatchi Girls Higher Secondary School, Eastern Building,Facing West Room No.02 Government Garden, Tirupattur 635601","1.Tirupattur (M) Ward 17 Extensen Piliyar Kovil Street, 2.Tirupattur (M) Ward 17 Dr. Srinivasan Street, 3.Tirupattur (M) Ward 17 Chairman Visvanathan Street, 4.Tirupattur (M) Ward 17 Gangatharan Street
+999.OVERSEAS ELECTORS",All Voters
+106,50,106,"T.M.S. Elementary School, Room No.2, Sounthern Building, Facing North, West Portion Pudupet Road Tirupattur 635601","1.Tirupattur (M) Ward 1 Thiru.V.K. Road Main, 2.Tirupattur (M) Ward 16 Thiru.V.K. Road.1st Lane, 3.Tirupattur (M) Ward 16 Thiru. V. K. Road 2nd Lane, 4.Tirupattur (M) Ward 16 Thiru. V. K. Road 3rd Lane, 5.Tirupattur (M) Ward 16 Lakshmiammal Street, 6.Tirupattur (M) Ward 16 Arith Street 1 to43 & 2to52 999.OVERSEAS ELECTORS",All Voters
+107,50,107,"T.M.S. Elementary School, Southern Building
+Centre Postion, Facing North Pudupet Road Tirupattur 635601","1.Tirupattur (M) Ward 16 Pudupettai Road Main 63to171,
+2.Tirupattur (M) Ward 16 Rajapather Street 999.OVERSEAS ELECTORS",All Voters
+108,50,108,"T.M.S. Elementary School, Room No.4, Southern Building East Postion, Facing North Pudupet Road Tirupattur 635601","1.Tirupattur (M) Ward 18 Pudupettai Road Main (Part) to 61&2, 2.Tirupattur (M) Ward 18 Chairmen Ranganathan Street, 3.Tirupattur (M) Ward 18 E.T. Govindaraj Street,
+4.Tirupattur (M) Ward 18 Chairmen Veerapathinar Street, 5.Tirupathu r(M) Ward 18 Ponnukrishanasamiyar Street, 6.Tirupattur (M) Ward 18 Vada Agraharam Street, 7.Tirupathur (M) Ward 18 South Akraharam Street, 8.Tirupattur (M) Ward 18 Lakhmanan Street
+999.OVERSEAS ELECTORS",All Voters
+109,50,109,T M S Higher Secondary School Room No 7 Eastern Side Centre Postion Facing Wast Pudupet Road Tirupattur,"1.Tirupattur (M) Ward 28 Kamaraj Nagar (C.K.C. Nagar) main, 2.Tirupattur (M) Ward 28 Kamaraj Nagar (C.K.C) Nagar 1 Lane, 3.Tirupattur (M) Ward 28 Sathasivanar Street Main,
+4.Tirupattur (M) Ward 28 Sathasivanar Street 1st Lane, 5.Tirupattur (M) Ward 28 Rammkkapettai 1st Street, 6.Tirupattur (M) Ward 28 Ramakapettai 2nd Street
+999.OVERSEAS ELECTORS",All Voters
+110,50,110,"T. M. S. Higher Secondary School, Room No.8, Eastern Side Centre Postion,Facing Wast Pudupet Road Tirupattur 635601","1.Tirupattur (M) Ward 28 Pudupettai Road 1st Street, 2.Tirupattur (M) Ward 28 Pudupettai Road 2nd Street, 3.Tirupattur (M) Ward 28 Pudupettai Road 7th Street, 4.Tirupattur (M) Ward 28 Gandhi Nagar 1st Street, 5.Tirupattur (M) Ward 28 Gandhi Nagar 2nd Street, 6.Tirupattur (M) Ward 28 Gandhi Nagar 3rd Street, 7.Tirupathur (M) Ward 28 Gandhi Nagar 4th lane, 8.Tirupattur (M) Ward 28 Gandhi Nagar 5th Street, 9.Tirupattur (M) Ward 28 Gandhi Nagar 6th Lane, 10.Tirupattur (M) Ward 28 Gandhi Nagar 7th Lane, 11.Tirupattur (M) Ward 28 Gandhi Nagar 8th Lane 999.OVERSEAS ELECTORS",All Voters
+111,50,111,"T. M. S. Higher Secondary School, Room No.10, Eastern Side South Postion, Facing Wast Pudupet
+Road Tirupattur 635601","1.Tirupathur (M) Ward 29 Pudupettai Road 3rd Street, 2.Tirupattur (M) Ward 29 Pudupettai Road 4th Street
+999.OVERSEAS ELECTORS",All Voters
+112,50,112,"T. M. S. Higher Secondary School, Room No.12, Western Building Facing East Pudupet Road Tirupattur 635601","1.Tirupattur (M) Ward 29 Pudupettai Road 5th Street, 2.Tirupattur (M) Ward 29 Pudupettai Road 6th Street, 3.Tirupattur (M) Ward 29 Pudupettai Road1st Lane
+999.OVERSEAS ELECTORS",All Voters
+113,50,113,"Lions Mettriculation Higher Secondary School, Northern Building Facing West Room No.12 Advocate Ramannathan Nagar Tirupattur 635601","1.Tirupattur (M) Ward 30 Kamaraj Nagar 1 (1st Street), 2.Tirupattur (M) Ward 30 Kamaraj Nagar 1 3rd Street, 999.OVERSEAS ELECTORS",All Voters
+114,50,114,"Lions Matriculation Higher Secondary School, Northern Building, Facing West Room No.13 Advocate Ramannathan Nagar Tirupathur - 635601","1.Tirupattur (M) Ward 30 Kamaraj Nagar 1 3rd Street, 2.Tirupattur (M) Ward 30 Kamaraj Nagar I (4th Street), 3.Tirupattur (M) Ward 30 Kamraj Nagar 1 (5th Street), 4.Tirupattur (M) Ward 30 Kamaraj Nagar 2 (1st Street)
+999.OVERSEAS ELECTORS",All Voters
+115,50,115,"Lions Mettriculation Higher Secondary School, Sothern Building Facing West Room No.13 Advocate Ramannathan Nagar Tirupattur 635601","1.Tirupattur (M) Ward 30 Chairman Duraiswamiyar Road 2 (31to735 & 2to360)
+999.OVERSEAS ELECTORS",All Voters
+116,50,116,"Lions Mettriculation Higher Secondary School, Sothern Building Facing West Room No.14 Advocate Ramannathan Nagar Tirupattur 635601","1.Tirupattur (M) Ward 30 Chairman Duraiswamiyar Road 2 (31to735 & 2to360)
+999.OVERSEAS ELECTORS",All Voters
+117,50,117,"V. S. Veerapathinar Elementary School , Western Building Facing East Arasamara Street Tirupattur 635601","1.Tirupattur (M) Ward 27 North Muthaippar Street, 2.Tirupattur (M) Ward 27 Poongavathaman Kovil Street 3.Tirupattur (M) Ward 27 South Muthapper Street
+999.OVERSEAS ELECTORS",All Voters
+118,50,118,"Municipal Elementary School, Northern Building West Portion Facing South Gowthampet, Tirupattur 635601","1.Tirupattur (M) Ward 31 Municipal Labarer Colony, 2.Tirupattur (M) Ward 31 Chairmen Arumuganar Street,
+3.Tirupattur (M) Ward 31 Chairmen Arumuganar Street (Anna Nagar), 999.OVERSEAS ELECTORS",All Voters
+119,50,119,"Municipal Elementary School, Northern Building Centeral Portion Facing South Gowthampet, Tirupattur 635601","1.Tirupattur (M) Ward 31 Chairman Arumuganar Street (Anna Nagar), 2.Tirupattur (M) Ward 31 Chairman Arumuganar Street (Kalanjar Nagar),
+3.Tirupattur (M) Ward 31 Chairman Arumuganar Street (Telephone Exchange),
+4.Tirupattur (M) Ward 31 Chairman Arumuganar Street, 999.OVERSEAS ELECTORS",All Voters
+120,50,120,"Municipal Elementary School, Northern Building East Portion Facing South Gowthampet, Tirupattur 635601","1.Tirupattur (M) Ward 32 Gouthampettai 1st Street, 2.Tirupattur (M) Ward 32 Gouthampettai 2nd Street, 3.Tirupattur (M) Ward 32 Gouthampettai 3rd Street, 4.Tirupattur (M) Ward 32 Gouthampettai 4th Street, 5.Tirupattur (M) Ward 32 Gouthampettai 5th Street, 6.Tirupattur (M) Ward 32 Gouthampettai 6th Street, 7.Tirupattur (M) Ward 32 Gouthampettai 7th Street,
+999.OVERSEAS ELECTORS",All Voters
+121,50,121,"Municipal Community Hall , Facing East Building Gowthampet, Tirupattur 635601","1.Tirupattur (M) Ward 32 Gouthamapettai 8th Street, 2.Tirupattur (M) Ward 32 Gouthamapettai 9th Street, 3.Tirupattur (M) Ward 32 Gouthamapettai Main road,
+999.OVERSEAS ELECTORS",All Voters
+122,50,122,"Municipal New Musslim Boys Elementary School, Northern Building West Wing Portion Facing South CKC Road, Tirupattur 635601","1.Tirupattur (M) Ward 26 Chinnamathar (Part)15 to 79 & 8 to 8), 2.Tirupattur(M) Ward 26 Sulthanmiyan Street,
+3.Tirupattur(M) Ward 26 Annuthin Street, 4.Tirupattur (M) Ward 26 M.M.Abdul Rahim Street, 5.Tirupattur (M) Ward 26 C. K. Chinnaraji Road,
+999.OVERSEAS ELECTORS",All Voters
+123,50,123,"Municipal New Musslim Boys Elementary School, Northern Building East Wing Portion Facing South CKC Road, Tirupattur 635601","1.Tirupattur (M) Ward 33 Bheerbal Nanumiyan 1st Street, 2.Tirupattur (M) Ward 33 Bheerbal Nanumiyan 2nd Street, 3.Tirupattur (M) Ward 33 Bheerpal Nanumiyan 3rd Street, 4.Tirupattur (M) Ward 33 Bheerpal Nanumiyan New Street 1st Lane, 5.Tirupattur (M) Ward 33 Beerpal Nanumiyan New Street 2nd Lane, 6.Tirupattur (M) Ward 33 Beerpal Nanumiyan New Street 3rd Lane, 7.Tirupattur (M) Ward 33 Ramaswamiyar 1st Street,
+8.Tirupattur (M) Ward 33 Ramasamiyar 2nd Street, 9.Tirupattur (M) Taluk Police Line, 999.OVERSEAS ELECTORS",All Voters
+124,50,124,"Municipal Community Hall , East wing Facing East Abbai Street Georgepet 635601","1.Tirupattur (M) Ward 25 Santhamiyan Street 2, 2.Tirupattur (M) Ward 25 Katharmoithin Street, 3.Tirupattur (M) Ward 25 Nattanmy Muniswamy Pettai, 4.Tirupattur (M) Ward 25 George Pettai Main Road, 5.Tirupattur (M) Ward 25 Grorge Pettai Road 1st Lane, 6.Tirupattur (M) Ward 25 Georgepettai Road 2nd Lane, 7.Tirupattur (M) Ward 25 Georgepettai Road 3rd Lane, 999.OVERSEAS ELECTORS",All Voters
+125,50,125,"Municipal Community Hall , West wing Facing West Abbai Street Georgepet 635601","1.Tirupattur (M) Ward 25 Appai Street 3rd Lane, 2.Tirupattur (M) Ward 25 Appai Street Main, 3.Tirupattur (M) Ward 25 Appai Street 1st Street, 4.Tirupattur (M) Ward 25 Appaistreet 2nd Lane,
+5.Tirupattur (M) Ward 25 Chinnamathar Street (Part 1 to 13& 2),
+999.OVERSEAS ELECTORS",All Voters
+126,50,126,"Anganwadi Centre, East Facing Middle Building, Vengalapuram 635653","1.Vengalapuram (R.V) And (P) Ward 2 New Colony, (Door No: 124 to 711)
+2.Vengalapuram (R.V) And (P) Ward 1 Kamaraj Nagar,
+999.OVERSEAS ELECTORS",All Voters
+127,50,127,"Panchayat Union Elementary School, West Facing East Building, Room No- 1, Vengalapuram 635653","1.Vengalapuram (R.V) And (P) Ward 1 Vengalapuram ,",All Voters
+128,50,128,"Panchayat Union Elementary School, West Facing North Portion Samathuvapuram, Vengalapuram 635653","1.Vengalapuram (R.V) And (P) Ward 1 Vengalapuram , 2.Vengalapuram (R.V) And (P) Ward 1 Kodiyur, 3.Vengalapuram (R.V) And (P) Ward 2 E.B Colony,
+999.OVERSEAS ELECTORS",All Voters
+129,50,129,"Panchayat Union Elementary School , West Facing East Building Room No - 2,, Vengalapuram 635653","1.Vengalapuram (R.V) And (P) Ward 3 Vengalapuram Adi dravidar Colony, (Door No: E1 to 123)
+999.OVERSEAS ELECTORS",All Voters
+130,50,130,"Municipal Middle School, Southern Building Facing North Room No.01 Thirumal Nagar Tirupattur
+635601","1.Tirupattur Village (R.V) & (P) Ward 1 Thirumal Nagar, 999.OVERSEAS ELECTORS",All Voters
+131,50,131,"Municipal Middle School, Southern Building Facing North Room No.02 Thirumal Nagar, Tirupathur -
+635601","1.Tirupattur Village (R.V) & (P) Ward 1 Kullachari Vattam, 999.OVERSEAS ELECTORS",All Voters
+132,50,132,"Noor Huda Nursery and Primary School, Eastern Building Facing North Wing Facing West Arif Nagar,
+Tirupattur 635601","1.Tirupattur Village (R.V) & (P) Ward 1 Arif Nagar, 999.OVERSEAS ELECTORS",All Voters
+133,50,133,"Noor Huda Nursery and Primary School, Facing South North Building Arif Nagar, Tirupathur 635601","1.Tirupattur Village (R.V) & (P) Ward 1 Arif Nagar,
+2.Tirupattur Village (R.V) & (P) Ward 1 Government Proamboku, 999.OVERSEAS ELECTORS",All Voters
+134,50,134,"Noor Huda Nursery and Primary School, Eastern Building Facing North South Building Arif Nagar,
+Tirupattur 635601","1.Tirupattur Village (R.V) & (P) Ward 1 Arif Nagar, 999.OVERSEAS ELECTORS",All Voters
+135,50,135,"Panchayat Union Elementary School , Western Side
+Facing South Madavalam 635653","1.Madapalli (R.V) And (P) Ward 1 Madapalli Village,
+999.OVERSEAS ELECTORS",All Voters
+136,50,136,"Panchayat Union Elementary School , Facing South
+Building Madavalam 635653","1.Madapalli (R.V) And (P) Ward 1 Madapalli Village,
+999.OVERSEAS ELECTORS",All Voters
+137,50,137,"Panchayat Union Elementary School , Facing North
+South Building Madapalli 635653","1.Madapalli (R.V) And (P) Ward 2 Madapalli Adidravidar Colony,
+999.OVERSEAS ELECTORS",All Voters
+138,50,138,"Panchayat Union Elementary School , Facing South
+North Building Madapalli 635653","1.Madapalli (R.V) And (P) Ward 2 Madapalli Adidravidar Colony,
+999.OVERSEAS ELECTORS",All Voters
+139,50,139,"Government Girls Higher Secondry School, Facing
+Room 18 West Madavalam 635653","1.Madapalli (R.V) And (P) Ward 3 Madavalam Village,
+999.OVERSEAS ELECTORS",All Voters
+140,50,140,"RCM Middle School, Facing South Building Room
+No.01 Kovilur 635653","1.Madapalli (R.V), Pudukottai (P) Ward 1 Pudukottai,
+999.OVERSEAS ELECTORS",All Voters
+141,50,141,"RCM Middle School, Facing South Building Room No. 02 Kovilur 635653","1.Madapalli (R.V), Pudukottai (P) Ward 1 Pudukottai,
+2.Madapalli (R.V), Pudukottai (P) Ward 1 Pudukottai (Kollakottai), 999.OVERSEAS ELECTORS",All Voters
+142,50,142,"RCM Middle School, Facing North Building Kovilur 635653","1.Madapalli (R.V), Pudukottai (P) Ward 2 Kovilur, 2.Madapalli (R.V), Pudukottai (P) Ward 2 Samuvattam,
+3.Madapalli (R.V), Pudukottai (P) Ward 2 Soulur Adidravidar Colony, 999.OVERSEAS ELECTORS",All Voters
+143,50,143,"Panchayat Union Elementary School , Facing West East Building Periyavengayapalli 635653","1.Madapalli (R.V), Pudukottai (P) Ward 3 Peiryavangayapalli, 2.Madapalli (R.V), Pudukottai (P) Ward 3 Pudukottai(Earikodi),
+999.OVERSEAS ELECTORS",All Voters
+144,50,144,"Panchayat Union Elementry School, Facing West. East Building Periyavengayapalli 635653","1.Madapalli (R.V), Pudukottai (P) Ward 3 Kalathur , 2.Madapalli (R.V), Pudukottai (P) Ward 3 Ganamanthur, 3.Madapalli (R.V), Pudukottai (P) Ward 3 Thiruvaluvar Nagar,
+999.OVERSEAS ELECTORS",All Voters
+145,50,145,"Panchayat Union Elementry School, Facing North East wing Room No.01 Somalapuram 635653","1.Thathavalli (R.V), Chinnasamuthiram (P) Ward 3 Kurambakaeri, 2.Thathavalli (R.V), Chinnasamuthiram (P) Ward 3 Somalapuram, 3.Thathavalli (R.V), Chinnasamuthiram (P) Ward 3 Rajigounder Vattam,
+4.Thathavalli (R.V), Chinnasamuthiram (P) Ward 3 Somalapuram, 999.OVERSEAS ELECTORS",All Voters
+146,50,146,"Panchayat Union Elementry School, Facing North East wing Room No. 02 Somalapuram 635653","1.Thathavalli (R.V), Chinnasamuthiram (P) Ward 3 Sozanur, 2.Thathavalli (R.V), Chinnasamuthiram (P) Ward 3 Kuttai Kollai, 3.Thathavalli (R.V), Chinnasamuthiram (P) Ward 3 Rajigounder Vattam,
+999.OVERSEAS ELECTORS",All Voters
+147,50,147,"Panchayat Union Middle School, Facing South Middle room Building, Pichanur 635653","1.Thathavalli (R.V), Chinnasamuthiram (P) Ward 1 Chinna Samuthiram,
+999.OVERSEAS ELECTORS",All Voters
+148,50,148,"Panchayat Union Middle School, Facing South Pichanur 635653","1.Thathavalli (R.V), Chinnasamuthiram (P) Ward 2 Samuthiram, 2.Thathavalli (R.V), Chinnasamuthiram (P) Ward 2 Jeeva Nagar,
+999.OVERSEAS ELECTORS",All Voters
+149,50,149,"Village Panchayat Service Centre , South Facing
+North Building , Krishnapuram 635653","1.Thathavalli (R.V), T Krishanapuram (P) Ward 1 Thathavalli,
+999.OVERSEAS ELECTORS",All Voters
+150,50,150,"Panchayat Union Middle School, Eastern Building, Facing South Krishnapuram 635653","1.Thathavalli (R.V), T Krishanapuram (P) Ward 2 T.Krishanapuram Village,
+999.OVERSEAS ELECTORS",All Voters
+151,50,151,"Panchayat Union Middle School, Facing East
+Kavariyoor 635653","1.Madapalli (R.V) And (P) Ward 4 Kavarayur,
+999.OVERSEAS ELECTORS",All Voters
+152,50,152,"Panchayat Union Middle School, Facing South Building Kavariyoor 635653","1.Madapalli (R.V) And (P) Ward 4 Annanagar, 2.Madapalli (R.V) And (P) Ward 4 Petaiyan Vattam, 3.Madapalli (R.V) And (P) Ward 4 M.G.R. Nagar, 4.Madapalli (R.V) And (P) Ward 4 Kavarayur,
+999.OVERSEAS ELECTORS",All Voters
+153,50,153,"Panchayat Union Elementary School, Facing South Building Kalathiyur 635653","1.Madapalli (R.V) And (P) Ward 5 Kavapattarai, 2.Madapalli (R.V) & (P) Ward 5 Kalathiyur,
+999.OVERSEAS ELECTORS",All Voters
+154,50,154,"Government Boys Higher Secondry School, Facing
+North Building Madavalam 635653","1.Madapalli (R.V) & (P) Ward 5 Kalathiyur Kolla Kottai,
+999.OVERSEAS ELECTORS",All Voters
+155,50,155,"Panchayat Union Middle School, Facing East
+Agaram 635653","1.Kathirampatti (R.V), Agaram (P) Ward 1 Agaram,
+999.OVERSEAS ELECTORS",All Voters
+156,50,156,"Panchayat Union Middle School, Facing South Agaram 635653","1.Kathirampatti (R.V), Agaram (P) Ward 1 Adidravidar Colony,
+2.Kathirampatti (R.V), Agaram (P) Ward 1 Agaram Kollakottai, 999.OVERSEAS ELECTORS",All Voters
+157,50,157,"Panchayat Union Elementry School, Facing North South Building Selanthampalli 635653","1.Kathirampatti (R.V), Selanthampalli (P) Ward 1 Selanthampalli, 999.OVERSEAS ELECTORS",All Voters
+158,50,158,"Panchayat Union Elementry School, Facing South Selanthampalli 635653","1.Kathirampatti (R.V), Selanthampalli (P) Ward 2 Adidravidar Colony, 999.OVERSEAS ELECTORS",All Voters
+159,50,159,"Panchayat Union Middle School, Facing East Anneri 635653","1.Rachamangalam (R.V), Anneri (P) Ward 1 Anneri Village (Sl.No 1 to 600)
+999.OVERSEAS ELECTORS",All Voters
+160,50,160,"Panchayat Union Middle School, Facing North Anneri 635653","1.Rachamangalam (R.V), Anneri (P) Ward 1 Anneri Village 2.Rachamangalam (R.V), Anneri (P) Ward 2 Adidravidar Colony, 3.Rachamangalam (R.V), Anneri (P) Ward 2 Eari Vattam, 4.Rachamangalam (R.V), Anneri (P) Ward 2 Kasi Vattam,
+5.Rachamangalam (R.V), Anneri (P) Ward 2 Arunthiyar Colony ,",All Voters
+161,50,161,"Panchayat Union Elementry School, Facing South Room No.01 Rachamangalam 635653","1.Rachamangalam (R.V), & (P) Ward 1 Rachamangalam, 2.Rachamangalam (R.V), & (P) Ward 1 Namakara Vattam, 3.Rachamangalam (R.V), & (P) Ward 2 Arunthathiyar Colony,
+999.OVERSEAS ELECTORS",All Voters
+162,50,162,"Panchayat Union Elementry School, Facing South Room No.02 Rachamangalam 635653","1.Rachamangalam (R.V), & (P) Ward 2 Selathar Vattam, 2.Rachamangalam (R.V), & (P) Ward 2 Boiyar Vattam, 3.Rachamangalam (R.V), & (P) Ward 2 Kalikapuram,
+999.OVERSEAS ELECTORS",All Voters
+163,50,163,"Panchayat Union Middle School, Facing East Building Vinaiyagapuram - 635653","1.Rachamangalam (R.V), & (P) Ward 2 Vinaiyagapuram,
+2.Rachamangalam (R.V), & (P) Ward 2 Purathar Vattam, 999.OVERSEAS ELECTORS",All Voters
+164,50,164,"Panchayat Union Middle School, Facing North
+Building Pasilikuttai 635653","1.A.K.Mottur (R.V), Thimmanamuthur (P) Ward 3 Pasalikuttai,
+999.OVERSEAS ELECTORS",All Voters
+165,50,165,"Panchayat Union Middle School, Facing South Pasilikuttai 635653","1.A.K.Mottur (R.V), Pasali Kuttai Thimanamathur (P) Ward 3 Chinnapasalikuttai,
+999.OVERSEAS ELECTORS",All Voters
+166,50,166,"Panchayat Union Middle School, Facing East Pasilikuttai - 635653","1.A.K.Mottur (R.V), Pasali Kuttai Thimanamathur (P) Ward 3 Bambakuttai,
+999.OVERSEAS ELECTORS",All Voters
+167,50,167,"Panchayat Union Elementry School, Facing North East Room Thimanamuthur 635653","1.A.K.Mottur (R.V), Thimmanamuthur (P) Ward 1 Thimmanamuthur, 999.OVERSEAS ELECTORS",All Voters
+168,50,168,"Panchayat Union Elementry School, Facing North,West wing Thimanamuthur 635653","1.A.K.Mottur (R.V), Thimmanamuthur (P) Ward 1 Thimmanamuthur, 999.OVERSEAS ELECTORS",All Voters
+169,50,169,"Panchayat Union Elementry School, Facing South
+East Wing, Thimanamuthur 635653","1.A.K.Mottur (R.V), Thimmanamuthur (P) Ward 2 Kusthampalli,
+999.OVERSEAS ELECTORS",All Voters
+170,50,170,"Panchayat Union Middle School, North Portion Facing South P Muthampatti 635653","1.Vengalapuram (R.V), Paramuthampatti (P) Ward 1 Durkkan Vattam, 2.Vengalapuram (R.V), Paramuthampatti (P) Ward 2 Paramuthampatti, 3.Vengalapuram (R.V), Paramuthampatti (P) Ward 4 Paramuthampatti Colony,
+4.Vengalapuram (R.V), Paramuthampatti (P) Ward 3 Selathar Vattam, 999.OVERSEAS ELECTORS",All Voters
+171,50,171,"Panchayat Union Elementry School, Facing East Building Thippasamuthiram 635653","1.Vengalapuram (R.V), Paramuthampatti (P) Ward 3 Thippasamuthiram,
+999.OVERSEAS ELECTORS",All Voters
+172,50,172,"Panchayat Union Middle School, Eastern Building, Facing West P Muthampatti 635653","1.Vengalapuram (R.V), Paramuthampatti (P) Ward 2 Paramuthampatti, 2.Vengalapuram (R.V), Paramuthampatti (P) Ward 3 Colony, 3.Vengalapuram (R.V), Paramuthampatti (P) Ward 3 Aandi Vattam, 999.OVERSEAS ELECTORS",All Voters
+173,50,173,"Panchayat Union Middle school, Facing North,
+South Building, Sirangampatti-635653","1.Kathirampatti (R.V) & (P) Ward 2 Seerangapatti,
+999.OVERSEAS ELECTORS",All Voters
+174,50,174,"Anganwadi Center, South Facing, Sirangampatti - 635653","1.Kathirampatti (R.V) & (P) Ward 2 Sirangampatti Adidravidar Colony, 2.Kathirampatti (R.V) & (P) Ward 2 Kamabalikuppam, 999.OVERSEAS ELECTORS",All Voters
+175,50,175,"Government Adidravidar Welfare Primary School, Facing East West Building Room No.01
+Sowdewkuppam 635653","1.Rachamangalam (R.V), Soudakuppam (P) Ward 1 Soudakuppam, 999.OVERSEAS ELECTORS",All Voters
+176,50,176,"Government Adidravidar Welfare Primary School,
+Facing East West Building Room No.02 Sowdewkuppam 635653","1.Rachamangalam (R.V), Soudakuppam (P) Ward 1 Soudakuppam, 999.OVERSEAS ELECTORS",All Voters
+177,50,177,"Panchayat Union Elementry School, Facing North Thathanavalasai 635653","1.Boommikuppam (R.V), Thathanavalasai (P) Ward 1 Thathanavalasai, 2.Boommikuppam (R.V), Thathanavalasai (P) Ward 2 Adidravidar Colony,
+3.Boommikuppam (R.V), Thathanavalasai (P) Ward 2 Annanagar, 4.Boommikuppam (R.V), Thathanavalasai (P) Ward 2 Naethaji Nagar, 5.Boommikuppam (R.V), Thathanavalasai (P) Block 2 Gandhi Nagar, 999.OVERSEAS ELECTORS",All Voters
+178,50,178,"Panchayat Union Elementry School, East
+FacingNorthan Kathirampatti 635653","1.Kathirampatti (R.V) & (P) Ward 1 Kathirampatti,
+999.OVERSEAS ELECTORS",All Voters
+179,50,179,"Panchayat Union Elementry School, Facing west
+Kathirampatti 635653","1.Kathirampatti (R.V) & (P) Ward 1 Adidravidar Colony,
+999.OVERSEAS ELECTORS",All Voters
+180,50,180,"Panchayat Union Elementry School, Facing North
+Konerikuppam 635653","1.Kathirampatti (R.V) & (P) Ward 1 Konerikuppam,
+999.OVERSEAS ELECTORS",All Voters
+181,50,181,"Panchayat Union Middle School, Facing East
+Koodapattu 635653","1.Koodapattu (R.V) And (P) Ward 4 Koodapattu,
+999.OVERSEAS ELECTORS",All Voters
+182,50,182,"Panchayat Union Middle School, West Facing Koodapattu 635653","1.Koodapattu (R.V) And (P) Ward 4 Koodapattu Adidravidar Colony, 2.Koodapattu (R.V) And (P) Ward 4 Valluvar Colony,
+3.Koodapattu (R.V) And (P) Ward 4 Koodapattu Arunthathiyar Vattam, 999.OVERSEAS ELECTORS",All Voters
+183,50,183,"Panchayat Union Elementry School, Facing North
+Karambur 635653","1.Koodapattu (R.V), Karambur (P) Agram 3 Karambur,
+999.OVERSEAS ELECTORS",All Voters
+184,50,184,"Panchayat Union Elementary School, Facing West
+Building, Agaram Pudur-635653","1.Koodapattu (R.V), Karambur (P) Akaram 3 Agram Pudur,
+999.OVERSEAS ELECTORS",All Voters
+185,50,185,"Panchayat Union Middle School , Facing East Building , Kakanampalayam 635653","1.Koodapattu (R.V), Kakanampalayam (P) Ward 1 Kakanampalayam, 2.Koodapattu (R.V), Kakanampalayam (P) Ward 1 Kollakottai, 999.OVERSEAS ELECTORS",All Voters
+186,50,186,"Panchayat Union Middle School , Facing North South Building, , Kakanampalayam 635653","1.Koodapattu (R.V), Kakanampalayam (P) Ward 1 Adidravidar Colony, 2.Koodapattu (R.V), Kakanampalayam (P) Ward 1 Chunambukalay, 999.OVERSEAS ELECTORS",All Voters
+187,50,187,"Panchayat Union Elementry School, Facing North Rajapalayam 635653","1.Koodapattu (R.V), Kakanampalayam (P) Ward 2 Rajapalayam, 2.Koodapattu (R.V), Kakanampalayam (P) Ward 2 Kakanampalayam, 999.OVERSEAS ELECTORS",All Voters
+188,50,188,"Village Panchayat Service Centre, Facing West Building, Rajapalayam-635653","1.Koodapattu (R.V), Kakanampalayam (P) Ward 2 Singam Palaym, 2.Koodapattu (R.V), Kakanampalayam (P) Ward 2 Arunthathiyar Colony,
+999.OVERSEAS ELECTORS",All Voters
+189,50,189,"Government High School , West FacingEast
+Building, Room No.1, Kodumampalli 635653","1.Koodapattu (R.V), Kodumampalli (P) Ward 1 Kodumampalli,
+999.OVERSEAS ELECTORS",All Voters
+190,50,190,"Government High School , East Facing West
+Building,Room No.2, , Kodumampalli 635653","1.Koodapattu (R.V), Kodumampalli (P) Ward 1 Kodumampalli,
+999.OVERSEAS ELECTORS",All Voters
+191,50,191,"Government High School , East Facing West Building, Room No.3 , Kodumampalli 635653","1.Koodapattu (R.V), Kodumampalli (P) Ward 1 Kodiyur,
+2.Koodapattu (R.V), Kodumampalli (P) Ward 1 Pudupalayam, 999.OVERSEAS ELECTORS",All Voters
+192,50,192,"Panchayat Union Elementry School, Facing East Bommikuppam 635653","1.Bommikuppam (R.V) & (P) Ward 1 New Athikuppam, 2.Bommikuppam (R.V) & (P) Ward 1 Anna Nagar,
+999.OVERSEAS ELECTORS",All Voters
+193,50,193,"Government Higher School, South Facing
+Bommikuppam 635653","1.Bommikuppam (R.V) & (P) Ward 2 Bommikuppam,
+999.OVERSEAS ELECTORS",All Voters
+194,50,194,"Government Higher School, Facing North South Side East Wing Bommikuppam 635653","1.Bommikuppam (R.V) & (P) Ward 2 Bommikuppam Eari,
+2.Bommikuppam (R.V) & (P) Ward 2 Bommikuppam Colony, 999.OVERSEAS ELECTORS",All Voters
+195,50,195,"Panchayat Union Elementry School, West Facing
+South Wing Building Room No 01Jondarampalli 635653","1.Bommikuppam (R.V) & (P) Ward 1 Jondram Palli, 999.OVERSEAS ELECTORS",All Voters
+196,50,196,"Panchayat Union Elementary School, West Facing South Wing Building Room No.02 Jondarampalli -
+635653","1.Bommikuppam (R.V) & (P) Ward 1 Nethaji Nagar, 2.Bommikuppam (R.V) & (P) Ward 1 Gandhi Nagar,
+999.OVERSEAS ELECTORS",All Voters
+197,50,197,"Panchayat Union Elementry school, Facing west North Wing Room No.01 Indira Nagar
+Bommikuppam -635653","1.Bommikuppam (R.V) & (P) Ward 1 Palathottam, 2.Bommikuppam (R.V) & (P) Ward 1 Indira Nagar,
+999.OVERSEAS ELECTORS",All Voters
+198,50,198,"Panchayat Union Elementary School, Facing West North Wing Room No.2 Indira Nagar Bommikuppam
+- 635653","1.Bommikuppam (R.V) & (P) Ward 1 Omsakthi Nagar, 2.Bommikuppam (R.V) & (P) Ward 1 M.G.R. Nagar, 3.Bommikuppam (R.V) & (P) Ward 1 Ambatkar Nagar,
+999.OVERSEAS ELECTORS",All Voters
+199,50,199,"Panchayat union Middle School, Facing West North Wing Athikuppam 635653","1.Bommikuppam (R.V) & (P) Old Athikuppam Ward 3 Old Athikuppam, 2.Bommikuppam (R.V) & (P) Ward 3 Kamaraj Nagar,  3.Bommikuppam (R.V) & (P) Ward 3 Eizaruvi,
+999.OVERSEAS ELECTORS",All Voters
+200,50,200,"Forest Middle School, Facing South North Building
+Room No.1, Perumpalli 635655","(1) - Pungampattu Nadu (R.V) And (P), Blok 2 Ward 2 Perumpalli   999
+- OVERSEAS ELECTORS",All Voters
+201,50,201,"Panchayat Union Elementary School,South Facing North Buliding Belur - 635655","(1) - Pungampattu Nadu (R.V) And (P), Block 3 Belur
+(2) - Pungampattu Nadu (R.V) And (P), Block 2 Ward 2 Perumalkovil
+(3) - Pungampattu Nadu (R.V) And (P), Block 2 Ward 2 Kothanur 999. OVERSEAS ELECTORS",All Voters
+202,50,202,"Forest Middle School, Facing South North Building Room No.3, Perumpalli 635655","(1) - Pungampattu Nadu (R.V) And (P), Block 2 Ward 2 Saerkanur 999. OVERSEAS ELECTORS",All Voters
+203,50,203,"Panchayat Union Elementry School,North Face
+South Building East wing - Kizanur - 635655","(1) - Pungampattu Nadu (R.V) And (P), Block 2 Ward 2 Kizanur
+999. OVERSEAS ELECTORS",All Voters
+204,50,204,"Panchayat Union Elementry School, Facing North
+South Building Chinnavatannur 635655","(1) - Pungampattu Nadu (R.V) And (P), Block 1 Chinnavattanur
+999. OVERSEAS ELECTORS",All Voters
+205,50,205,"Panchayat Union Elementary School, Facing South West Building, Chinnavatannur - 635655","(1) Pungampattu Nadu (R.V) And (P), Block 1 Kallavur
+(2) Pungampattu Nadu (R.V) And (P), Block 1 Kudagumalai 999. OVERSEAS ELECTORS",All Voters
+206,50,206,"Government Tribal Residential Middle School, Facing East West Building, Arasamarathukollai-635655","(1) - Pungampattu Nadu (R.V) And (P), Block 4 Naduvur
+(2) - Pungampattu Nadu (R.V) And (P), Block 4 Kambakudi Part(1to76) 999. OVERSEAS ELECTORS",All Voters
+207,50,207,"Forest Elementary School, Facing South North Building Vasanthapuram 635655","(1) - Pungampattu Nadu (R.V) And (P), Block 4 Naduvur
+(2) - Pungampattu Nadu (R.V) And (P), Block 4 Vasanthapuram  (3) - Pungampattu Nadu (R.V), Vasanthapuram (P), Block 4 Kamabakudi (Door No 77 to last)
+999. OVERSEAS ELECTORS",All Voters
+208,50,208,"Forest Middle School, Facing North South Building,
+Room No.3 , Thagarakuppam 635655","(1) - Pungampattu Nadu (R.V) And (P), Block 3 Thagarakuppam  999.
+OVERSEAS ELECTORS",All Voters
+209,50,209,"Govt Tribal Residential Primary School, East facing South wing, Rangasamuthiram - 635655","(1) - Pungampattu Nadu (R.V) And (P), Block 3 Rangasamuthiram (999)-OVERSEAS ELECTORS
+999. OVERSEAS ELECTORS",All Voters
+210,50,210,"Forest Middle School, Facing North South Building, Room No 5Thagarakuppam - 635655","(1) - Pungampattu Nadu (R.V) And (P), Block 3  Oldpalayam  999. OVERSEAS ELECTORS",All Voters
+211,50,211,"Forest Higher Secondary School, Facing South
+North Building Room No.01 Pudur Nadu 635655","(1) - Pudurnadu (R.V) & (P), Ward 1 Pudur
+999. OVERSEAS ELECTORS",All Voters
+212,50,212,"Forest Higher Secondary School, Facing South North Building Room No.02 Pudur Nadu 635655","(1) - Pudurnadu (R.V) & (P), Ward 1 Mozhalai  (2) - Pudurnadu (R.V) & (P), Ward 3 Arumalpattu (part)  999. OVERSEAS ELECTORS",All Voters
+213,50,213,"Forest Higher Secondary School, Facing South
+North Building Room No.03 Pudur Nadu 635655","(1) - Pudurnadu (R.V) & (P), Ward 2 Chittur (Part)  999. OVERSEAS
+ELECTORS",All Voters
+214,50,214,"Panchayat Union Elementry School, Facing North
+Room No.01 Building A K Mottur 635653","1.A.K. Mottur (R.V) & (P) Ward A. K. Mottur,
+999.OVERSEAS ELECTORS",All Voters
+215,50,215,"Panchayat Union Elementary School, Facing North Building, Room No.02 A K Mottur - 635653","1.A.K. Mottur (R.V) & (P) Ward A. K. Mottur,
+2.A.K. Mottur (R.V) & (P) Ward 2 A.K.Mottur, 999.OVERSEAS ELECTORS",All Voters
+216,50,216,"Panchayat Union Middle School, Facing South
+Building Pudupoonulam 635653","1.PuduPoongulam A.K.Mottur (R.V) & (P) Ward 3 A.K.Mottur,
+999.OVERSEAS ELECTORS",All Voters
+217,50,217,"Panchayat Union Middle school, Facing South Jammanapudur-635652","1.A.K.Moottur (R.V), Jammanapudur (P) Ward 1 Jammanapudur, 999.OVERSEAS ELECTORS",All Voters
+218,50,218,"Panchayat Union Elementry School, Facing West Pudurpoonulam 635652","1.A.K.Moottur (R.V), Jammanapudur (P) Ward 2 Jammanapudur, 999.OVERSEAS ELECTORS",All Voters
+219,50,219,"Panchayat Union Elementry School, West Facing Pudurpoonulam 635652","1.A.K.Moottur (R.V), Jammanapudur (P) Ward 2 Pudupoongulam, 2.A.K.Moottur (R.V), Jammanapudur (P) Ward 2 Kumaran Nagar, 999.OVERSEAS ELECTORS",All Voters
+220,50,220,"Panchayat Union Elementry School, Facing South
+Thammanoor 635652","1.A.K.Moottur (R.V), Jammanapudur (P) Ward 3 Thamanur,
+999.OVERSEAS ELECTORS",All Voters
+221,50,221,"Panchayat Union Middle School, Facing East West
+Building Merkathiyanur 635652","1.Matrapalli (R.V), Merkathiyanur (P) Ward 3 Merkathiyanur,
+999.OVERSEAS ELECTORS",All Voters
+222,50,222,"Panchayat Union Middle School, Facing East West Building Merkathiyanur 635652","1.Matrapalli (R.V), Merkathiyanur (P) Ward 3 Panathoppu, 2.Matrapalli (R.V), Merkathiyanur (P) Ward 3 Panathoppu, 3.Matrapalli (R.V), Merkathiyanur (P) Ward 3 Mulabavundu, Malaiadivaram ,
+4.Merkathiyanur,Matrapalli (R.V) & (P) Ward 3 Kollakottai, 5.Merkathiyanur,Matrapalli (R.V) & (P) Ward 3 Poyar Colony,
+999.OVERSEAS ELECTORS",All Voters
+223,50,223,"Panchayat Union Primary School, Facing East Building West Pudupattu 635652","1.Merkathiyanur,Matrapalli (R.V) & (P) Ward 4 Kadavalli Eri, 2.Merkathiyanur,Matrapalli (R.V) & (P) Ward 4 KurumberVattam, 3.Merkathiyanur,Matrapalli (R.V) & (P) Ward 4 Adidravidar Colony, 4.Merkathiyanur,Matrapalli (R.V) & (P) Ward 4 Gandhi Nagar, 5.Merkathiyanur,Matrapalli (R.V) & (P) Ward 4 Pudupattu, 6.Merkathiyanur,Matrapalli (R.V) & (P) Ward 4 Beeman Vattam, 7.Merkathiyanur,Matrapalli (R.V) & (P) Ward 4 Anna Nagar, 999.OVERSEAS ELECTORS",All Voters
+224,50,224,"Government Higher Secondary School, Facing North South Building Matrapalli 635652","1.Matrapalli (R.V) & (P) Ward 1 Matrapalli Village, 2.Matrapalli (R.V) & (P) Ward 1 Venkatesan Vattam, 3.Matrapalli (R.V) & (P) Ward 1 Arunthathiyar Colony,
+999.OVERSEAS ELECTORS",All Voters
+225,50,225,"Panchayat Union Primary School, Facing East West Building Matrapalli 635652",1.Matrapalli (R.V) & (P) Ward 2 Matrapalli Adidravidar Colony 999.OVERSEAS ELECTORS,All Voters
+226,50,226,"Panchayat Union Primary School, South Facing North Building, Matrapalli - 635652","1.Matrapalli (R.V) & (P) Ward 2 Ambedker Nagar, 2.Matrapalli (R.V) & (P) Ward 2 Matrapalli Kollakottai,
+999.OVERSEAS ELECTORS",All Voters
+227,50,227,"Panchayat Union Middle School, Facing South North Building Ragupathiyur 635652","1.Ragupathiyur Udayamuthur (R.V) & (P) Ward 1 Periya Udayamuthur, 2.Ragupathiyur Udayamuthur (R.V) & (P) Ward 1 Saraswathi Nagarn, 3.Ragupathiyur Udayamuthur (R.V) & (P) Ward 1 Goundatchiyur, 999.OVERSEAS ELECTORS",All Voters
+228,50,228,"Panchayat Union Middle School, Facing West East Building Ragupathiyur 635652","1.Ragupathiyur Udayamuthur (R.V) & (P) Ward 1 Thaneerpanthal, 2.Ragupathiyur Udayamuthur (R.V) & (P) Ward 1 Ragupathiyur, 3.Ragupathiyur Udayamuthur (R.V) & (P) Ward 1 Anna Nagar, 4.Ragupathiyur Udayamuthur (R.V) & (P) Ward 1 Kattiyanur, 5.Ragupathiyur Udayamuthur (R.V) & (P) Ward 1 Kullanur, 6.Ragupathiyur Udayamuthur (R.V) & (P) Ward 2 Pallathur, 999.OVERSEAS ELECTORS",All Voters
+229,50,229,"Panchayat Union Middle School, Facing West East Building Samathuvapuram 635652","1.Ragupathiyur Udayamuthur (R.V) & (P) Ward 2 Veppalampatti, 2.Ragupathiyur Udayamuthur (R.V) & (P) Ward 2 Nagakuttai,
+999.OVERSEAS ELECTORS",All Voters
+230,50,230,"Panchayat Union Middle School, Facing North South Building Samathuvapuram - 635652","1.Ragupathiyur Udayamuthur (R.V) & (P) Ward 2 Chinna Udayamuthur,
+2.Ragupathiyur Udayamuthur (R.V) & (P) Ward 2 Samathuvapuram,
+3. Ragupathiyur Udayamuthur (R.V) & (P) Ward 2 Chinna Udayamuthur Colony,
+999.OVERSEAS ELECTORS",All Voters
+231,50,231,"Panchayat Union Elementry School, Facing South North Building Kilkuppam 635652","1.Ragupathiyur Udayamuthur (R.V) & (P) Jangumampuram,
+2.Kil kuppam, Odayamuthur (R.V) & (P) Ward 3 Kurumber Street, 999.OVERSEAS ELECTORS",All Voters
+232,50,232,"Panchayat Union Elementary School, Facing West East Building, Kilkuppam - 635652","1.Kil kuppam, Odayamuthur (R.V) & (P) Ward 3 Kilkuppam,
+2.Kil kuppam, Odayamuthur (R.V) & (P) Ward 3 Mangkuppam, 999.OVERSEAS ELECTORS",All Voters
+233,50,233,"Government Higher Secondary School, Facing
+South North Building Koratti 635602","1.Korati (R.V) & (P) Ward 1 Korati Village,
+999.OVERSEAS ELECTORS",All Voters
+234,50,234,"Government Higher Secondary School, Facing
+South North Building Koratti 635602","1.Korati (R.V) & (P) Ward 1 Korati Village,
+999.OVERSEAS ELECTORS",All Voters
+235,50,235,"Government Higher Secondary School, Facing South North Building, Room no. 03 Koratti 635602","1.Korati (R.V) & (P) Ward 2 Adidravidar Colony,
+2.Korati (R.V) & (P) Ward 2 Main Road,
+3.Korati (R.V) & (P) Ward 3 Thandukanur Colony,
+4.Korati (R.V) & (P) Ward 3 Vaniyambadian Vattam,
+5.Korati (R.V) & (P) Ward 3 Poyar Vattam, 999.OVERSEAS ELECTORS",All Voters
+236,50,236,"Government Higher Secondary School, Facing
+West East Building Koratti 635602","1.Korati (R.V) & (P) Ward 3 Thandukanur,",All Voters
+237,50,237,"Panchayat Union Middle School, Facing East West
+Building Chelarapatti 635602","1.Elavampatti (R.V), Chelarapati (P) Ward 3 Chelarapatti,
+999.OVERSEAS ELECTORS",All Voters
+238,50,238,"Panchayat Union Middle School, Facing West East
+Building Chelarapatti 635602","1.Elavampatti (R.V), Chelarapati (P) Ward 4 Maika Medu,
+999.OVERSEAS ELECTORS",All Voters
+239,50,239,"Panchayat Union Elementary School, Facing South North Building, Jeevanandapuram - 635602","1.Elavampatti (R.V), Chelarapati (P) Ward 5 Jeevanandapuram, 999.OVERSEAS ELECTORS",All Voters
+240,50,240,"Panchayat Union Elementry School, Facing North South Building, Room no. 01 Elavampatti 635602","1.Elavampatti (R.V) & (P) Ward 1 Elavampatti, 999.OVERSEAS ELECTORS",All Voters
+241,50,241,"Panchayat Union Elementry School, Facing North South Building, Room no. 02 Elavampatti 635602","1.Elavampatti (R.V) & (P) Ward 2 Chinna Elvampatti, 999.OVERSEAS ELECTORS",All Voters
+242,50,242,"Government High School, Facing West East Building Sevathur 635654","1.Sevathur (R.V) & (P) Ward 1 Chevathur,
+2.Sevathur (R.V) & (P) Ward 1,Chevathur Adidravidar Colony, 999.OVERSEAS ELECTORS",All Voters
+243,50,243,"Government High School, Facing South North
+Building Sevathur 635654","1.Sevathur (R.V) & (P) Ward 1, Periyar Nagar,
+999.OVERSEAS ELECTORS",All Voters
+244,50,244,"Government High School, Facing East West Building, Room no. 01 Sevathur 635654","1.Sevathur (R.V) & (P) Ward 2 Mottur,
+2.Sevathur (R.V) & (P) Ward 2 Saalur, 999.OVERSEAS ELECTORS",All Voters
+245,50,245,"Government High School, Facing East West Building, Room No.02 Sevvathur - 635654","1.Sevathur (R.V) & (P) Ward 1, Kamaraj Nagar,
+2.Sevathur (R.V) & (P) Ward 2 Kamaraj Nagar,
+3.Sevathur (R.V) & (P) Ward 2 Maika Medu,
+4.Sevathur (R.V) & (P) Ward 2 Mankuttai, 999.OVERSEAS ELECTORS",All Voters
+246,50,246,"Panchayat Union Middle School, Facing South Kakangarai 635654","1.Kakkangarai (R.V) & (P) Ward 1 Kakkangarai, 2.Kakkangarai (R.V) & (P) Ward 1 Kakangarai Colony, 3.Kakkangarai (R.V) & (P) Ward 2 Kakangarai Colony,
+999.OVERSEAS ELECTORS",All Voters
+247,50,247,"Panchayat Union Middle School, Southern Building Facing West Kakangarai 635654","1.Kakkangarai (R.V) & (P) Ward 2 Chemanguli Medu, 2.Kakkangarai (R.V) & (P) Ward 3, Narayanapuram, 3.Kakkangarai (R.V) & (P) Ward 3, Rajavur, 4.Kakkangarai (R.V) & (P) Ward 3, Ismail Pettai, 5.Kakkangarai (R.V) & (P) Ward 3, Mari Vattam,
+999.OVERSEAS ELECTORS",All Voters
+248,50,248,"Panchayat Union Elementry School, East Facing,
+East Building Avalnayakkanpatti 635654","1.Aavalnayakanpatti (R.V) & (P) Ward 1 Aavalnayakanpatti,
+999.OVERSEAS ELECTORS",All Voters
+249,50,249,"Panchayat Union Elementary School, North Facing,
+Krishnapuram - 635654","1.Aavalnayakanpatti (R.V) & (P) Ward 2 Krishnapuram,
+999.OVERSEAS ELECTORS",All Voters
+250,50,250,"Panchayat Union Elementry School, Southern
+Building Facing North Room no 01 Sundarampalli 635654","1.Sundrampalli (R.V) & (P) Ward 1 Sundrampalli, 999.OVERSEAS ELECTORS",All Voters
+251,50,251,"Panchayat Union Elementry School, Northern
+Building Facing South Sundarampalli 635654","1.Sundrampalli (R.V) & (P) Ward 2 Sundrampalli,
+999.OVERSEAS ELECTORS",All Voters
+252,50,252,"Panchayat Union Elementry School, Sourthern Building Facing North Room no 02 Sundarampalli
+635654","1.Sundrampalli (R.V) & (P) Ward 2 Sundrampalli Adi Dravidar Colony, 999.OVERSEAS ELECTORS",All Voters
+253,50,253,"Panchayat Union Elementry School, Sourthern
+Building Facing East Sundarampalli 635654","1.Sundrampalli (R.V) & (P) Ward 2 Pudupatti,
+999.OVERSEAS ELECTORS",All Voters
+254,50,254,"Panchayat Union Middle School, Eastern Building Facing West Naravindampatti 635654","1.Naravindampatti (R.V), Nattham (P) Ward 4 Chinna Chokkanampatti, 2.Naravindampatti (R.V), Nattham (P) Ward 4 Karungalipatti, 999.OVERSEAS ELECTORS",All Voters
+255,50,255,"Panchayat Union Middle School, Southern Building
+Facing North Naravindampatti 635654","1.Naravindampatti (R.V), Nattham (P) Ward 4 Naravindampatti,
+999.OVERSEAS ELECTORS",All Voters
+256,50,256,"Panchayat Union Elementry School, West Facing Sourthern Building Natham 635654","1.Natham (R.V) & (P) Ward 1 Natham Eswaran Kovil Street,
+2.Natham (R.V) & (P) Ward 1 Pallikuda Street, 999.OVERSEAS ELECTORS",All Voters
+257,50,257,"Adidravidar Welfare Middle School, Facing North,
+South Building, Natham Colony 635654","1.Natham (R.V) & (P) Ward 2 Natham Colony,
+999.OVERSEAS ELECTORS",All Voters
+258,50,258,"Adidravidar Welfare Middle School, Facing North
+West Building, Natham Colony - 635654","1.Natham (R.V) & (P) Ward 2 Natham Colony,
+999.OVERSEAS ELECTORS",All Voters
+259,50,259,"Panchayat Union Elementary School West Facing
+Building Chokkanmpatti 635654","1.Natham (R.V) & (P) Ward 2 Kenginayakanpatti,
+999.OVERSEAS ELECTORS",All Voters
+260,50,260,"Panchayat Union middle School , Facing West East
+Building Goundapannur 635654","1.Goundapanur, Chevathur (R.V) & (P) Ward 4 Goundapanur,
+999.OVERSEAS ELECTORS",All Voters
+261,50,261,"Panchayat Union middle School , Facing South
+North Building Goundapannur 635654","1.Goundapanur, Chevathur (R.V) & (P) Ward 4 Goundapanur,
+999.OVERSEAS ELECTORS",All Voters
+262,50,262,"Panchayat Union middle School , Facing South North Building Sevathur Pudur 635654","1.Pudur, Chevathur (R.V) & (P) Ward 3 Chevathur Pudur, 2.Pudur, Chevathur (R.V) & (P) Ward 3 Karampur,
+999.OVERSEAS ELECTORS",All Voters
+263,50,263,"Panchayat Union Middle School, Facing East West Building Sevathur Pudur 635654","1.Pudur, Chevathur (R.V) & (P) Ward 3 Ambedkar Nagar, 2.Pudur, Chevathur (R.V) & (P) Ward 3 Chevathur Pudur Colony, 999.OVERSEAS ELECTORS",All Voters
+264,50,264,"Panchayat Union Elementry School, Facing East West Building Thoronampathi 635602","1.Chinnarampatti (R.V), Thoranampathi (P) Ward 1 Thoranampathi, 999.OVERSEAS ELECTORS",All Voters
+265,50,265,"Panchayat Union Elementary School, Facing North South Building, Thoronampathi - 635602","1.Chinnarampatti (R.V), Thoranampathi (P) Ward 2 Mottur, 2..Chinnarampatti (R.V), Thoranampathi (P) Ward 2 Kumarampatti, 999.OVERSEAS ELECTORS",All Voters
+266,50,266,"Panchayat Union Elementary school, Facing North south Building Room No: 2 Thoronampathi -635602","1.Chinnarampatti (R.V), Thoranampathi (P) Ward 1 Thathakullanur, 999.OVERSEAS ELECTORS",All Voters
+267,50,267,"Panchayat Union Middle School, Facing East West Building Naiyakanur 635602","1.Chinnarampatti (R.V) & (P) Ward 1 Naikanur,
+2.Chinnarampatti (R.V) & (P) Ward 3 Karakaran Kottai, 999.OVERSEAS ELECTORS",All Voters
+268,50,268,"Panchayat Union Middle School, Facing South North Building Naiyakanur 635602","1.Chinnarampatti (R.V) & (P) Ward 2 Mangalapalli, 2.Chinnarampatti (R.V) & (P) Ward 3 Chinnarampatti,
+999.OVERSEAS ELECTORS",All Voters
+269,50,269,"Panchayat Union Elementry School, Facing North South Building Chinna perampattu 635652","1.Chinnaperampet, Perampet (R.V) & (P) Ward 3 Kottavur, 2.Chinnaperampet, Perampet (R.V) & (P) Ward 3 P.U.S. Nagar, 3.Chinnaperampet, Perampet (R.V) & (P) Ward 3 Chinna Perampattu, 4.Chinnaperampet, Perampet (R.V) & (P) Ward 3 Sagadevan Vattam, 5.Chinnaperampet, Perampet (R.V) & (P) Ward 3 Kadaiyan Pallam, 999.OVERSEAS ELECTORS",All Voters
+270,50,270,"Government Higher Secondary School, Facing West East Building Perampattu 635652","1.Chinnaperampet, Perampet (R.V) & (P) Ward 3 Sagadevan Vattam, 2.Chinnaperampet, Perampet (R.V) & (P) Ward 3 Kadaiyan Pallam, 3.Chinnaperampet, Perampet (R.V) & (P) Ward 3 Kottavur, 4.Chinnaperampet, Perampet (R.V) & (P) Ward 3 P.U.S. Nagar, 999.OVERSEAS ELECTORS",All Voters
+271,50,271,"Panchayat Union Elementry School, Facing South North Building, Room No.1, Vishamangalam 635652","1.Vishamangalam (R.V) & (P) Ward 1 Vishamangalam Village, 999.OVERSEAS ELECTORS",All Voters
+272,50,272,"Panchayat Union Elementry School, Facing East
+West Building , Vishamangalam 635652","1.Vishamangalam (R.V) & (P) Ward 1 Vishamangalam Village,
+999.OVERSEAS ELECTORS",All Voters
+273,50,273,"Panchayat Union Elementry School , Facing South North Building, Room No.2 Vishamangalam 635652","1.Vishamangalam (R.V) & (P) Ward 1 Vishamangalam Colony, 2.Vishamangalam (R.V) & (P) Ward 1 Anumandampatti, 3.Vishamangalam (R.V) & (P) Ward 1 Nagarajan Patti,
+999.OVERSEAS ELECTORS",All Voters
+274,50,274,"Panchayat Union Middle School, Facing West East
+Building Chitteri 635652","1.Chitteri, Vishamangalam (R.V) & (P) Ward 2 Chitteri,
+999.OVERSEAS ELECTORS",All Voters
+275,50,275,"Panchayat Union Elementry School, Facing West
+East Building Perampattu 635652","1.Parampattu (R.V) & (P) Ward 1 Parampattu Pudur Street,
+999.OVERSEAS ELECTORS",All Voters
+276,50,276,"Government Adidravidar Welfare Primary School, Facing North West East Building, Perampattu-
+635652","1.Perampet (P) Ward 2 Perampet Colony Kil Street, 999.OVERSEAS ELECTORS",All Voters
+277,50,277,"Government Adidravidar Welfare Primary School, Facing North, North Building, Perampattu - 635652","1.Perampet (P) Ward 2 Perampet Colony Mel Street, 999.OVERSEAS ELECTORS",All Voters
+278,50,278,"Panchayat Union Elementry School, Facing North South Building Puluganavalasai 635652","1.Simmnapudur (R.V) & (P) Ward 1 Puluganavalasai,
+2.Simmnapudur (R.V) & (P) Ward 2 Kodiyur, 999.OVERSEAS ELECTORS",All Voters
+279,50,279,"Panchayat Union Elementry School, Facing
+East,West Building Thatharamanur 635652","1.Simmnapudur (R.V) & (P) Ward 2 Thatharamanur,
+999.OVERSEAS ELECTORS",All Voters
+280,50,280,"Adidravidar Welfare Middle School, Facing west
+East Building Kurumberi 635652","1.Kurumberi (R.V) & (P) Ward 1 Adidravidar colony,
+999.OVERSEAS ELECTORS",All Voters
+281,50,281,"Panchayat Union Elementary School, North Facing South Building,Room no. 01 Kurumberi 635652","1.Kurumberi (R.V) & (P) Ward 1 Kurumberi, 2.Kurumberi (R.V) & (P) Ward 1 Mandaivelli Vattam,
+999.OVERSEAS ELECTORS",All Voters
+282,50,282,"Panchayat Union Elementary School, North Facing South Building, Room No.02 Kurumberi - 635652","1.Kurumberi (R.V) & (P) Ward 1 Kurumberi, 2.Kurumberi (R.V) & (P) Ward 1 Mandaivelli Vattam,
+999.OVERSEAS ELECTORS",All Voters
+283,50,283,"Panchayat Union Elementry School , Facing East West Building, Kurumberi 635652","1.Kurumberi (R.V) & (P) Ward 1 Arunachala Vattam, 2.Kurumberi (R.V) & (P) Ward 1 Kilakupakka Street, 3.Kurumberi (R.V) & (P) Ward 1 Palani Vattam,
+999.OVERSEAS ELECTORS",All Voters
+284,50,284,"Government Higher Secondary School, Facing East West Building Kurumberi 635652","1.Kurumberi (R.V) & (P) Ward 3 Kollakottai, Daivanithi Vattam, 2.Kurumberi (R.V) & (P) Ward 3 Kalarpathi Vattam, 3.Kurumberi (R.V) & (P) Ward 3 Gounder Vattam,  4.Kurumberi (R.V) & (P) Ward 3 Kurumber Vattam,
+999.OVERSEAS ELECTORS",All Voters
+285,50,285,"Government Higher Secondary School, Facing West East Building Kurumberi 635652","1.Kurumberi (R.V) & (P) Ward 3 Gounder Vattam, 2.Kurumberi (R.V) & (P) Ward 3 Pusari Street, 3.Kurumberi (R.V) & (P) Ward 3 Vanniar Vattam, 4.Kurumberi (R.V) & (P) Ward 3 Murangkatti Vattam, 5.Kurumberi (R.V) & (P) Ward 3 Dharumaraj Vattam, 6.Kurumberi (R.V) & (P) Ward 3 Periyapaiyan Vattam, 7.Kurumberi (R.V) & (P) Ward 3 Bharatha Koil Vattam, 999.OVERSEAS ELECTORS",All Voters
+286,50,286,"Panchayat Union Elementry School, Facing East West Building Anganathavalasai 635652","1.Anganathavalasai, Vishamangalam (R.V) & (P) Ward 3 Anganathavalasai,
+999.OVERSEAS ELECTORS",All Voters
+287,50,287,"Panchayat Union Elementry School, Facing West East Building Anganathavalasai 635652","1.Anganathavalasai, Vishamangalam (R.V) & (P) Ward 3 Kodiyur, 999.OVERSEAS ELECTORS",All Voters
+288,50,288,"Panchayat Union Middle School, Facing West East
+Building Mambakkam 635652","1.Mambakkam, Kurumberi (R.V) & (P) Ward 4 Mambakkam,
+999.OVERSEAS ELECTORS",All Voters
+289,50,289,"Panchayat Union Middle School, Facing North
+South Building Simanapudur 635652","1.Kettaiyanur,Chimnapudur (R.V) & (P) Ward 3 Kettaiyanur,
+999.OVERSEAS ELECTORS",All Voters
+290,50,290,"Panchayat Union Elementry School, Facing North Building Chenna Krishnanur 635652","1.Kettaiyanur,Chimnapudur (R.V) & (P) Ward 4 Chinna Krishnanur, 2.Kettaiyanur,Chimnapudur (R.V) & (P) Ward 4 Chinnu Vattam, 999.OVERSEAS ELECTORS",All Voters
+291,50,291,"Panchayat Union Middle School, Facing South North Building Valuthalam pattu 635655","(1) - Vazhuthalampattu PudurNadu (R.V), & (P), Ward1 Vazhuthalampattu
+999. OVERSEAS ELECTORS",All Voters
+292,50,292,"Panchayat Union Middle School, Facing South East Building, Valuthalampattu - 635655","(1) - Vazhuthalampattu PudurNadu (R.V), & (P), Ward 2 Chithur
+(2) - Vazhuthalampattu PudurNadu (R.V), & (P), Ward 3  Arumalpattu 999. OVERSEAS ELECTORS",All Voters
+293,50,293,"Panchayat Union Middle School, Facing North
+South Building, Room no. 01 Kilur 635655","(1) - Pudur Nadu (R.V) & (P), Ward 1 Vilankuppam
+999. OVERSEAS ELECTORS",All Voters
+294,50,294,"Panchayat Union Middle School, Facing North
+South Building Room no. 02 Kilur 635655","(1) - Kizhur Pudur Nadu (R.V) & (P), Ward 2 Kizhur
+999. OVERSEAS ELECTORS",All Voters
+295,50,295,"Panchayat Union Middle School, Facing South East
+wing Melur - 635655","(1) - Melur Pudur Nadu (R.V) & (P), Ward 2 Melur
+999. OVERSEAS ELECTORS",All Voters
+296,50,296,"Government High School , Facing North, South
+Building, Puliyur 635655","(1) - Nellivasal Nadu (R.V) & (P), Block 2 Puliyur
+999. OVERSEAS ELECTORS",All Voters
+297,50,297,"Panchayat Union Middle School, Facing North West
+Building, Valasai - 635655","(1) - Nellivasal Nadu (R.V) & (P), Block 2 Valasai
+999. OVERSEAS ELECTORS",All Voters
+298,50,298,"Panchayat Union Elementry School , Facing North,
+South Building,, Malai Tirupattur 635655","(1) - Nellivasal Nadu (R.V) & (P), Block 2 Malai Tirupathur
+999. OVERSEAS ELECTORS",All Voters
+299,50,299,"Forest Higher Secondary school, Facing South North Building, Room No.1 Nellivasal Nadu-635655","(1) - Nellivasal Nadu (R.V) & (P), Block 1 Nellivasal Nadu  999. OVERSEAS ELECTORS",All Voters
+300,50,300,"Govt Tribal Welfare Primary School, East Facing
+West Building, Nellipattu - 635655","(1) - Nellivasal Nadu (R.V) & (P), Block 1 Nellipattu
+999. OVERSEAS ELECTORS",All Voters
+301,50,301,"Panchayat Union Middle School, Facing East Building Room No 1 Melpattu 635655","(1) - Nellivasal Nadu (R.V) & (P), Block 2 Melpattu Reserve Forest 999. OVERSEAS ELECTORS",All Voters
+302,50,302,"Govt Tribal Residential Primary School, Facing West , East Building Sembarai 635655","(1) - Nellivasal Nadu (R.V) & (P), Block 2 Sambarai Kovindapuram Reserve Forest  (2) - Nellivasal Nadu (R.V) & (P), Block 2 Mambakam Reserve Forest
+999. OVERSEAS ELECTORS",All Voters
+303,50,303,"Panchayat Union Elementry School, Facing North
+South Building Malayandipatti 635655","(1) - Nellivasal Nadu (R.V) & (P), Block 2 Malaiyandipatti
+999. OVERSEAS ELECTORS",All Voters

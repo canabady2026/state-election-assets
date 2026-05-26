@@ -1,0 +1,942 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+1,171,2,,3,4
+1,171,1,,"Panchayat Union  Elementary  School (South  Facing Building),Athiyur  - 612503","1.Athiyur  (R.V)  AND  (P)  Athiyur keezha kudiyana  Streetwd-1  ,
+2.Athiyur  (R.V)  AND  (P)  Atthiyur  puthukudisai  wd-1  ,
+3.Athiyur  (R.V)  AND  (P)  Atthiyur  melaadithiravidar  Street wd-1 ,
+4.Athiyur  (R.V)  AND  (P)  Atthiyur  kudiyana  theru wd-1  ,
+5.Athiyur  (r.v) and  (p) Atthiyurkeezhaa  adithiravidar  theru wd-1  ,
+6.Athiyur  (R.V)  AND  (P)  Atthiyur  manaikollai  theru wd-1 999.OVERSEAS  ELECTORS"
+2,171,2,,"Bharathamadha  Aided  Primary School,  West Portion, Anoor,  Athiyur 612503","1.Athiyur  (R.V)  AND  (P)  Kurukoor  adithiravidarl theru wd-2  ,
+2.Athiyur  (r.v) and  (p) Gurukhoor  kudiyanatheru ward-2 ,
+3.Athiyur  (R.V)  AND  (P)  Kurukoor  mettu theru wd-2  ,
+4.Athiyur  (R.V)  AND  (P)  Kurukor  vadakku theru wd-2  ,
+5.Athiyur  (R.V)  AND  (P)  Anoor kudiyanatheruwd-3  ,
+6.Athiyur  (R.V)  AND  (P)  Avanur  valluvatheru wd-3  ,
+7.Athiyur  (R.V)  AND  (P)  Anuradithiravidar  theruwd-3 999.OVERSEAS  ELECTORS"
+3,171,3,,"Government High  School,  (S  S  A Building) Northern  Building Eastern wing,  7thClass Room,  Cholapuram West-612503","1.Sholapuram (TP) Keezha  Street wd-1  , 2.Sholapuram (TP) Chetti street wd-14 999.OVERSEAS  ELECTORS"
+4,171,4,,"Government High  School,  (S  S  A Building,  Northern  Building  Western wing,  8th  Class  Room,  Cholapuram West-612503",1.Sholapuram (TP) Keezha  veethi  wd-1 2.Sholapuram (TP) Kamarajar Street wd-13 3.Sholapuram (TP) Middle Street wd-2 4.Sholapuram (TP) Middle agraharam wd-2 999.OVERSEAS  ELECTORS
+1,171,2,,3,4
+5,171,5,,"Panchayat Union  Elementary  School (North Facing  Building), Cholapuram(West)-612503","1.Sholapuram (tp)  Mariyamman  koil  street wd-13  , 2.Sholapuram (TP) Keezha  Muslim Street North  Street wd-3 , 3.Sholapuram (TP) Anna  Nagar-4  ,
+4.Sholapuram (TP) D.S.P  Nagar wd-3 , 5.Sholapuram (TP) Dawood  Nagar wd-3 , 6.Sholapuram (TP) Ayyanar koil  Street wd-13  , 7.Sholapuram (TP) Maharajapuram  Road  wd-13 , 8.Sholapuram (TP) Uppukara  Street wd-4 999.OVERSEAS  ELECTORS"
+6,171,6,,"Panchayat Union  Elementary  School (North Facing  Building, West Portion)
+,Cholapuram 612503","1.Sholapuram (TP) Ramanujapuram kudiyana  Street wd-8 , 2.Sholapuram (TP) Chinna Agraharam wd-8 , 3.Sholapuram (TP) Majeethu Nagar wd-3
+999.OVERSEAS  ELECTORS"
+7,171,7,,"Panchayat Union  Elementary  School (North Facing  Building, East Portion) Cholapuram 612503","1.Sholapuram (TP) Ramanujarpuram Adi  Dravidar  Street wd-9  , 2.Sholapuram (TP) Ramanujapuram Valluvar  Street wd-10 , 3.Sholapuram (TP) Mela  Muslim Street wd-5  ,
+999.OVERSEAS  ELECTORS"
+8,171,8,,"Panchayat Union  Primary  School, South  Building,  Cholapuram West-612503","1.Sholapuram (TP) Thirumbipar Street wd-6  , 2.Sholapuram (TP) West Muslim Street wd-5  , 3.Sholapuram (TP) Thoppu Street wd-7  , 4.Sholapuram (TP) Main Road  wd-2  , 5.Sholapuram (TP) New  Street wd-15  , 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+9,171,9,,"Anganvadi Building,  North  facing Building,  Melanamedu,  Cholapuram-612503","1.Sholapuram (TP) MelanameduKudiyana  Street wd-11  , 2.Sholapuram (TP) Melana  Medu Adi Dravidar  Street wd-12  , 3.Sholapuram (TP) Melana  MeduValluvar Street wd-12 999.OVERSEAS  ELECTORS"
+10,171,10,,"Government Higher  Secondary School,  North  facing  East side New building,  Cholapuram @ Vilanthakandam-612503.","1.Vilanthakandam (R.V) AND  (P)  Rahmaniya  theru main  road  wd-1 ,
+2.Vilanthakandam (R.V) AND  (P)  Kudiyana  theru main  roadwd-2
+999.OVERSEAS  ELECTORS"
+11,171,11,,"Government Higher  Secondary School,  North  Facing  West corner Building,  Cholapuram @ Vilanthakandam-612503.","1.Vilanthakandam (R.V) AND  (P)  Thulukkaveli theru wd-2  , 2.Vilanthakandam (R.V) AND  (P)  Rajanga  nallur mela  theru wd-1  , 3.Vilanthakandam ( R.V)  AND  (P) Thulukkka velicolony  theru wd-2  , 4.Vilanthakandam (R.V) AND  (P)  Vilanthakandam melatheru wd-2 , 5.Vilanthakandam (R.V) AND  (P)  Nijamnagar  wd-1  , 6.Vilanthakandam (R.V) AND  (P)  Rajanganallur  Keezha  theru wd-1 , 7.Vilanthakandam (R.V) AND  (P)  Majitthu nagar wd-1 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+12,171,12,,"Panchayat Union  Elementary  School, Western portion,  North Facing, Kumarankudi  - 612503","1.Kumarankudi  (R.V)  AND  (P)  Kumarngudi kudiyanatheruwd-1  ,
+2.Kumarankudi  (R.V)  AND  (P)  Patharakudi  wd-1  , 3.Kumarankudi  (R.V)  AND  (P)  Rehunathapuram East,adidrividar.theru wd-1  ,
+4.Kumarankudi  (R.V)  AND  (P)  Kumarangudi  keezha theru wd-1  ,
+5.Kumarankudi  (R.V)  AND  (P)  Kumarangudi  melatheru wd-1  ,
+6.Kumarankudi  (R.V)  AND  (P)  Devancheri  salaiwd-2  , 999.OVERSEAS  ELECTORS"
+13,171,13,,"Panchayat Union Primary School, East  portion,  North  Facing  , Keezhathukurichi -  612503","1.Kumarankudi  (R.V)  AND  (P)  Keezhakurichi  mela  theru wd-2  , 2.Kumarankudi  (R.V)  AND  (P)  Panthapuru therukutheru wd-2 999.OVERSEAS  ELECTORS"
+14,171,14,,"Panchayat Union Elementary  School (Addl.building), Uthamathani 612503.","1.Uthamathani (R.V)  AND  (P) Utthamathani vadakku theru  wd-1  , 2.Uthamathani (R.V)  AND  (P) Utthamathani
+kudiyanatheru wd-1  ,
+3.Uthamathani (R.V)  AND  (P) Utthamathani melatheru wd-1  , 4.Uthamathani (R.V)  AND  (P) Urudaiyanattham kudiyanatheruwd-2  ,
+5.Uthamathani (R.V)  AND  (P) Orudaiyanattham therkkutheru wd-2  ,
+6.Uthamathani (R.V)  AND  (P) Urudaiyanattham colonytheru -wd-2  ,
+7.Uthamathani (R.V)  AND  (P) Panthapurakazhukkanivattam wd-2 , 8.Uthamathani (R.V)  AND  (P) Pavanacheri  wd-2 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+15,171,15,,"Aided  Middle  School,  South Building Room No.2,  Devananchery 612501","1.Devanancheri (R.V)  AND  (P)  Pillaiyar koil  theruwd-2 , 2.Devanancheri (R.V)  AND  (P)  Manalmedu wd-2  , 3.Devanancheri (R.V)  AND  (P)  Vadakazhukkani vattam-
+kudiyanatheruwd-1  ,
+4.Devanancheri (R.V)  AND  (P)  Vadakazhukkanivattam Adidravidar theru wd-1 ,
+5.Devanancheri (R.V)  AND  (P)  Enaipiriyal vattam kudiyanatheru wd-1  ,
+6.Devanancheri (R.V)  AND  (P)  Enaipiriyal vattam Adithiravidar  theru wd-1  ,
+7.Devanancheri (R.V)  AND  (P)  Satthiya  colony  wd-1 999.OVERSEAS  ELECTORS"
+16,171,16,,"Sri Rama  Kirshna  Aided  Elementary School (  North  Facing  Room No.
+II),Devananchery  612501","1.Devanancheri (R.V)  AND  (P)  Melaatheru wd-2  , 2.Devanancheri (R.V)  AND  (P)  Pillaiyar koil  theru wd-2  , 3.Devanancheri (R.V)  AND  (P)  Kadai theru wd-3  , 4.Devanancheri (R.V)  AND  (P)  Keezhatheru wd-3  , 999.OVERSEAS  ELECTORS"
+17,171,17,,"Sri Rama  Kirshna  Aided  Elementary School,  ( North  Facing,  East Portion, Additional Building  Back  side,  Room No.I) Devananchery  612501","1.Devanancheri (R.V)  AND  (P)  Main  road  wd-4  , 2.Devanancheri (R.V)  AND  (P)  Kaliammankoil theru wd-4  , 3.Devanancheri (R.V)  AND  (P)  Amman  koil theru wd-4  , 4.Devanancheri (R.V)  AND  (P)  Keezhaadithiravidar  theru wd-4  , 5.Devanancheri (R.V)  AND  (P)  Kalavaykkari  theru wd-4  , 6.Devanancheri (R.V)  AND  (P)  Melaadithiravidar  theru wd-4 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+18,171,18,,"Panchayat Union Primary School, South  facing  North  building,  East Portion,  Melathukurichi-612501","1.Neerathanallur  (R.V) AND  (P)  Neelatthanallur  udaiyar Street wd-3  , 2.Neerathanallur  (R.V) AND  (P)  Melatthukku kurichi
+mariyamman  koil Street wd-3  ,
+3.Neerathanallur  (R.V) AND  (P)  Neelatthanallur  South  Street  wd-3  , 4.Neerathanallur  (R.V) AND  (P)  Melatthukuricchi
+vadakku Street wd-4 999.OVERSEAS  ELECTORS"
+19,171,19,,"Panchayat Union Primary School, South  facing  North  building,  West Portion,  Melathukurichi-612501","1.Neerathanallur  (r.v)  and  (p)  Melatthukurichi west street wd-4 , 2.Neerathanallur  (r.v)  and  (p)  Melatthu kurichi  udaiyar  street wd-4  , 3.Neerathanallur  (R.V) AND  (P)  Melatthukurichi East Street wd-4  , 4.Neerathanallur  (R.V) AND  (P)  Melatthukurichi pillaiyar
+koil  Street wd-4 999.OVERSEAS  ELECTORS"
+20,171,20,,"Panchayat Union Primary School (S.S.A Building,  South  Facing Eastern  Building),  Neerathanallur 612501","1.Neerathanallur  (R.V) AND  (P)  Keezha  ,mela,vadakku kudiyana  Street,  Kavarkoodam ,
+2.Neerathanallur  (R.V) AND  (P)  Neelatthanallur  North  Street wd-2 999.OVERSEAS  ELECTORS"
+21,171,21,,"Government Higher  Secondary School,  South  Facing  Addl Building, Neerathanallur-612501","1.Neerathanallur  (R.V) AND  (P)  Neelatthanallur  main  road  wd-2 , 2.Neerathanallur  (R.V) AND  (P)  Kavarkoodammain road wd-1  , 3.Neerathanallur  (R.V) AND  (P)  Amalakkara  Street wd-1 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+22,171,22,,"Panchayat Union Elementary  School (South  Side Building),  Kudithangi 612303","1.Kothankudi  (R.V)  AND  (P)  Kudithanki colony  Street wd-1 , 2.Kothankudi  (R.V)  AND  (P)  Kudithanki New  Street wd-2  , 3.Kothankudi  (R.V)  AND  (P)  Kudithanki mainroad -3 , 4.Kothankudi  (R.V)  AND  (P)  Kudithankilinekarai wd-4  , 5.Kothankudi  (R.V)  AND  (P)  Kudithanki North  Street wd-5  , 6.Kothankudi  (R.V)  AND  (P)  Kudinthanki  West Street  wd-6  , 7.Kothankudi  (R.V)  AND  (P)  Kudinthanki  South Street wd-7 999.OVERSEAS  ELECTORS"
+23,171,23,,"Sri Suntharaganesha  Aided Elementary  School,  Kothankudi 612303","1.Kothankudi  (R.V)  AND  (P)  South Street wd-1  , 2.Kothankudi  (R.V)  AND  (P)  North  Street wd-2  , 3.Kothankudi  (R.V)  AND  (P)  New  Street wd-3  , 4.Kothankudi  (R.V)  AND  (P)  East Street wd-4  , 5.Kothankudi  (R.V)  AND  (P)  Pahaiya  colony  Street wd-5  , 6.Kothankudi  (R.V)  AND  (P)  Kozhipannai  colony  Street wd-6 999.OVERSEAS  ELECTORS"
+24,171,24,,"Kamarajar  Panchayar Union  Primary School,  Kothankudi  Thattimal-612303",1.Kothankudi  Thattimal  (R.V)  Kothankudi  (P) Thattumal padukai wd-7 999.OVERSEAS  ELECTORS
+25,171,25,,"Panchayat Union Elementary  School (South  Building  Southern  Portion West Facing), Thirupurambiyam - 612303","1.Thirupurambiam (R.V)  AND  (P)  Melaveethi wd-2  , 2.Thirupurambiam (R.V)  AND  (P)  Velalar  theru wd-2  , 3.Thirupurambiam (R.V)  AND  (P)  Puthutheru -2 , 4.Thirupurambiam (R.V)  AND  (P)  Vadakku veethi wd-2  , 5.Thirupurambiam (R.V)  AND  (P)  Kudithanki  salai wd-2 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+26,171,26,,"Panchayat Union Elementary  School (South  Building  North  Portion  West Facing),  Thirupurambiyam- 612303","1.Thirupurambiam (R.V)  AND  (P)  Anna  Ricemill  colony  wd-2  , 2.Thirupurambiam (R.V)  AND  (P)  Sokkapanai santhu wd-2  , 3.Thirupurambiam (R.V)  AND  (P)  madavilakam wd-2  , 4.Thirupurambiam (R.V)  AND  (P)  Main  road  wd-2  , 5.Thirupurambiam (R.V)  AND  (P)  Kotthakai  theru wd-2  , 6.Thirupurambiam (R.V)  AND  (P)  Utthiraiadithiravidar  theru wd-2 , 7.Thirupurambiam (R.V)  AND  (P)  Kulatthakankarai theru wd-2 999.OVERSEAS  ELECTORS"
+27,171,27,,"Panchayat Union  Elementary  School, West facing  Middle  Building,  South Portion,  Thirupurambiyam-612303","1.Thirupurambiam (R.V)  AND  (P)  Palakkarai mainroad wd-3, 2.Thirupurambiam (R.V)  AND  (P)  Mathakoil  theru wd-3, 3.Thirupurambiam (R.V)  AND  (P)  Palakkarai melatheru wd-3, 4.Thirupurambiam (R.V)  AND  (P)  Ponpethi road wd-3, 999.OVERSEAS  ELECTORS"
+28,171,28,,"Panchayat Union  Elementary  School, West facing  Middle  Building,  North Portion,  Thirupurambiyam-612303","1.Thirupurambiam (R.V)  AND  (P)  Uchikattalai wd-3, 2.Thirupurambiam (R.V)  AND  (P)  Kannangudi  road  wd-3, 3.Thirupurambiam (R.V)  AND  (P)   Alamankurichi  main  road  wd-  , 4.Thirupurambiam (R.V)  AND  (P)  Utthiraikiramam wd-3 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+29,171,29,,"Panchayat Union Middle School, (East South  Side  IIIrd  Building  North Facing) - Thirupurambiyam 612303","1.Thirupurambiam (R.V)  AND  (P)  Sindan theru wd-1 , 2.Thirupurambiam (R.V)  AND  (P)  Yazhppanamadatthu santhu wd-1  , 3.Thirupurambiam (R.V)  AND  (P)
+Ponniyammankoilsanthuwd-1 ,
+4.Thirupurambiam (R.V)  AND  (P)  Keezhaveethi wd-1  , 5.Thirupurambiam (R.V)  AND  (P)  Sannathi theru wd-1 , 6.Thirupurambiam (R.V)  AND  (P)  Therkku veethi wd-1  , 7.Thirupurambiam (R.V)  AND  (P)  Melaveethi santhu wd-1 999.OVERSEAS  ELECTORS"
+30,171,30,,"Panchayat Union Primary School, North Facing  Building,  Parattai, Valapuram-612501","1.Valapuram (R.V)  AND  (P)  Keezhaparattai  main  road  wd-1  , 2.Valapuram (R.V)  AND  (P)  Keezhaparattaiadithiravidar  theru wd-1  , 3.Valapuram (R.V)  AND  (P)  Valapuram adithiravidar  theru wd-1  , 4.Valapuram (R.V)  AND  (P)  Valapuram kudiyanatheru wd-1  , 5.Valapuram (R.V)  AND  (P)  Valapuram melaparattai theru wd-1  , 6.Valapuram (R.V)  AND  (P)  Mutthiyapuramadithiravidar  theru wd-1  , 7.Valapuram (R.V)  AND  (P)  Mutthiyapuram asar
+natthamtheru wd-1 999.OVERSEAS  ELECTORS"
+31,171,31,,"E-Service  center,  South  Facing buliding  East  side room East portion, Valapuram-612501","1.Valapuram (R.V)  AND  (P)  Mutthiyapuram kudiyanatheru wd-2  , 2.Valapuram (R.V)  AND  (P)  Alaman  kurichi adidrividartheru wd-2  , 3.Valapuram (R.V)  AND  (P)  Alamonkurichi main  road  wd-2 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+32,171,32,,"""E-Service center,  South  facing buliding  Middle  portion, Valapuram-612501  ""","1.Valapuram (R.V)  AND  (P)  Alamankurichi  keezha  wd-3  , 2.Valapuram (R.V)  AND  (P)  Alamankurichi  therkku theru wd-3  , 3.Valapuram (R.V)  AND  (P)  Alamankurichi.melatheru wd-3 , 4.Valapuram (R.V)  AND  (P)  Alamankurichi  vadakku theru wd-3  , 5.Valapuram (R.V)  AND  (P)  Alamankurichi  main  road  wd-3  , 6.Valapuram (R.V)  AND  (P)  Alamankurichi  udaiyar  theru  wd-3  , 7.Valapuram (R.V)  AND  (P)
+Alamankurichiadi.thidiravidar.theru wd-3  , 8.Valapuram (R.V)  AND  (P)  Alamankurichi
+melaadidravidari.  theru wd-3 999.OVERSEAS  ELECTORS"
+33,171,33,,"Sri Ram Aided  Elementary School
+,Kadichampadi 612501","1.Kadichampadi  (R.V)  AND  (P)  Agraharam   wd-1  , 2.Kadichampadi  (R.V)  AND  (P)  Melatheru wd-2  , 3.Kadichampadi  (R.V)  AND  (P)  Manalmettu theru wd-2 ,
+4.Kadichampadi  (R.V)  AND  (P)  Thirupurambiyam main  road  wd-2  , 5.Kadichampadi  (R.V)  AND  (P)  Vadakku adidravidar  theru wd-2 999.OVERSEAS  ELECTORS"
+34,171,34,,"Minerva  Primary  School (B  Block Building  North  Facing), Kadichampadi 612501","1.Kadichampadi  (R.V)  AND  (P)  Koilpatthu adidravidar.theru wd-1  , 2.Kadichampadi  (R.V)  AND  (P)  Neeratthanallurmain  road  wd-1  , 3.Kadichampadi  (R.V)  AND  (P)  Keezha  theru wd-1  , 4.Kadichampadi  (R.V)  AND  (P)  Udaiyar theru wd-1  , 5.Kadichampadi  (R.V)  AND  (P)  Koil  patthu theru wd-1 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+35,171,35,,"Panchayat Union  Elementary  School, Agarathur  612501","1.Agarathur (R.V)  AND  (P)  Melaadithiravidar  theru wd-1  , 2.Agarathur (R.V)  AND  (P)  Keezha  adithiravidar  theruwd-1  , 3.Agarathur (R.V)  AND  (P)  Vadakku theru wd-1  , 4.Agarathur (R.V)  AND  (P)  Naduttheru wd-1&2  , 5.Agarathur (R.V)  AND  (P)  Ayyanarkoil theruwd-2  , 6.Agarathur (R.V)  AND  (P)  Therkku theruwd-2  , 7.Agarathur (R.V)  AND  (P)  kotthavasal wd-2  ,
+8.Agarathur (R.V)  AND  (P)  Satthangudi  adithiravidar  theru wd-2&3 , 9.Agarathur (R.V)  AND  (P)  Satthangudi  kudiyanatheru wd-3  , 10.Agarathur (R.V)  AND  (P)  Satthakudi perumal  koil theru wd-3 999.OVERSEAS  ELECTORS"
+36,171,36,,"Panchayat Union  Elementary  School, East  facing  Western  Building, Thirunallur-612501","1.Thirunallur (R.V)  AND  (P)  Main  road  wd-1  , 2.Thirunallur (R.V)  AND  (P)  Adithiravidar  theru wd-2  , 3.Thirunallur (R.V)  AND  (P)  Pillaiyar koil  maintheru wd-1  , 4.Thirunallur (R.V)  AND  (P)  Agraharamwd-1 999.OVERSEAS  ELECTORS"
+37,171,37,,"Panchayat Union middle  School (West Building) ,Kallur 612503","1.Kallur (R.V)  AND  (P) Melakallur melatheru wd-1 ,
+2.Kallur (R.V)  AND  (P) Kallur vadakku theru wd-2  ,
+3.Kallur (R.V)  AND  (P) Kallur Agraharam theru wd-3  ,
+4.Kallur (R.V)  AND  (P) Kallur Annanagar  wd-4  ,
+5.Kallur (R.V)  AND  (P) Kallur main  road  wd-5  ,
+6.Kallur (R.V)  AND  (P) Kallur keezhakulamtheru wd-6  ,
+7.Kallur (R.V)  AND  (P) Mattiyur  melatheru wd-7 ,
+8.Kallur (R.V)  AND  (P) Mattiyur  main  road  wd-8  ,
+9.Kallur (R.V)  AND  (P) Mattiyur  keezhatheru wd-9 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+38,171,38,,"Panchayat Union Elementary School,Serugudi  612503","1.Kallur (R.V)  AND  (P) Serukudi  Pazhaiya  Theru wd-2  ,
+2.Kallur (R.V)  AND  (P) Serukudi  puthu theru wd-2 ,
+3.Kallur (R.V)  AND  (P) Serukudi  manthakarai wd-2 ,
+4.Kallur (R.V)  AND  (P) Serukudi  therkku theru wd-2 ,
+5.Kallur (R.V)  AND  (P) Serukudi  vadakku theru wd-2  ,
+6.Kallur (R.V)  AND  (P) Atrankarai theru wd-3 , 999.OVERSEAS  ELECTORS"
+39,171,39,,"Anganwadi Building,  West Facing, Kalambaram,  Kallur-612503","1.Kallur (R.V)  AND  (P) Main  road  wd-3  ,
+2.Kallur (R.V)  AND  (P) Manikulam theru wd-3 ,
+3.Kallur (R.V)  AND  (P) Kalambaram kudiyana  theru wd-3 ,
+4.Kallur (R.V)  AND  (P) Kalamparamadithiravidar  theru wd-3 999.OVERSEAS  ELECTORS"
+40,171,40,,"Panchayat Union Middle School,  Old Building,  ABL  Class Room, Kovilacheri-  612503","1.Kovilacheri  (R.V)  and  (P)  Nattham kudiyana  theru wd-2, 2.Kovilacheri  (R.V)  and  (P)  natthammela  adithiravidar  theru wd-4  , 3.Kovilacheri  (R.V)  and  (P)  Natham valluvar  theru wd-2 , 4.Kovilacheri  (R.V)  and  (P)  Natham main  road  wd-1
+5.Kovilacheri  (R.V)  and  (P)  Muzhalai wd-2, 999.OVERSEAS  ELECTORS"
+41,171,41,,"Panchayat Union Middle School, South  building  East facing, Kovilacheri-612503","1.Kovilacheri  (R.V)  and  (P)  Kovilacheri keezhaadithiravidar  theru wd-1  ,
+2.Kovilacheri  (R.V)  and  (P)  Kovilacheri kudiyanatheru wd-1  , 3.Kovilacheri  (R.V)  and  (P)  Kovilacheri main  road  wd-1  , 4.Kovilacheri  (R.V)  and  (P)  Vadakku adithiravidar theru wd-1  , 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+42,171,42,,"Panchayat Union elementary  School
+,Kallappuliyur  612501","1.Kallapuliyur (R.V)  AND  (P)  Kallapuliyur  melatheru wd-1 , 2.Kallapuliyur (R.V)  AND  (P)  Kallapuliyur  Keezhatheru wd-1  , 3.Kallapuliyur (R.V)  AND  (P)  Kallapuliyur  vadakku theru wd-1  , 4.Kallapuliyur (R.V)  AND  (P)  Kallapuliyur
+Thennamthopputheru wd-1 ,
+5.Kallapuliyur (R.V)  AND  (P)  Kallapuliyur  Seenuvasarao  theru wd-1  , 6.Kallapuliyur (R.V)  AND  (P)  Kallapuliyur  Bharathiyar  theru wd-1  , 7.Kallapuliyur (R.V)  AND  (P)  Kallapuliyur  Therkku
+Sambaveli  thidal wd-1  ,
+8.Kallapuliyur (R.V)  AND  (P)  Kallapuliyur  Gandhi nagar  wd-1  , 9.Kallapuliyur (R.V)  AND  (P)  Pookollai theru wd-1  , 10.Kallapuliyur  (R.V)  AND  (P)  Kondankudi theru wd-1  , 11.Kallapuliyur  (R.V)  AND  (P)  Chennai salai wd-1  , 12.Kallapuliyur  (R.V)  AND  (P)  Karuvai  thoppu wd-1 999.OVERSEAS  ELECTORS"
+43,171,43,,"Raman  Aided  Primary  School, sounth  Facing  Building,  Manancheri
+,Kallappuliyur-  612501","1.Kallapuliyur (R.V)  AND  (P)  Manancheri Thirumanjanaveethi wd-2  ,
+2.Kallapuliyur (R.V)  AND  (P)  Agraharam wd-2  , 3.Kallapuliyur (R.V)  AND  (P)  Therkku theru wd-2  , 4.Kallapuliyur (R.V)  AND  (P)  Pajanaimadatthu theru wd-2  , 5.Kallapuliyur (R.V)  AND  (P)  Poompukar  salai wd-2 , 6.Kallapuliyur (R.V)  AND  (P)  Pillaiyar koil  theru wd-2  , 7.Kallapuliyur (R.V)  AND  (P)  Manancheri  puthu theru wd-2 , 8.Kallapuliyur (R.V)  AND  (P)  Manancheri  melatheru wd-2 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+44,171,44,,"Aided  Elementary  School (South Portion),  Koranattukaruppur  (Periya Karuppur  ) 612501","1.Koranattu karuppur  (R.V) and (P) Sannathi theru wd-1  , 2.Koranattu karuppur  (R.V) and (P) Chinna  veedhi  wd-1  , 3.Koranattu karuppur  (R.V) and (P) Keezhatheru wd-1 999.OVERSEAS  ELECTORS"
+45,171,45,,"Karthi  Vidyalaya Matric Higher secondary  School, (South  Wing, North facing  East side  room), Byepass Road,  Koranattukaruppur-612501","1.Koranattu karuppur  (R.V) and (P) Therkku veethi  wd-1  , 2.Koranattu karuppur  (R.V) and (P) Melaveedhi wd-1  , 3.Koranattu karuppur  (R.V) and (P) Chennai salai wd-1 , 999.OVERSEAS  ELECTORS"
+46,171,46,,"Aided  Elementary  School (North Portion),  Koranattukaruppur  (Periya Karuppur  ) 612501","1.Koranattu karuppur  (R.V) and (P) K.Karuppur  natham wd-1  , 2.Koranattu karuppur  (R.V) and (P) Thondan  kulam wd-2  , 3.Koranattu karuppur  (R.V) and (P) Chennai salai theru wd-2  ,
+4.Koranattu karuppur  (R.V) and (P) Manikkanacchiyar koil  therukkal wd-2 , 5.Koranattu karuppur  (R.V) and (P) Thoppu theru wd-2
+999.OVERSEAS  ELECTORS"
+47,171,47,,"Panchayat Office (Front Portion), Koranattukaruppur  612501","1.Koranattu karuppur  (R.V) and (P) Amman  koil theru wd-2  , 2.Koranattu karuppur  (R.V) and (P) Amman  koil melatheru wd-2 , 3.Koranattu karuppur  (R.V) and (P) Amman  koil vadakku theru wd-2  , 4.Koranattu karuppur  (R.V) and (P) Manjamavadi wd-2  ,
+5.Koranattu karuppur  (R.V) and (P) Chinnakaruppur  wd-2  , 6.Koranattu karuppur  (R.V) and (P) Atrankarai theru wd-4 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+48,171,48,,"Karthi  Vidyalaya Matric Higher secondary  School (South  Building, North facing  Room No  4),  Byepass Road,Koranattukaruppur-  612501","1.Koranattu karuppur  (R.V) and (P) Thaikkal  wd-4  ,
+2.Koranattu karuppur  (R.V) and (P) Poompukar salai nadartheru wd-4  , 3.Koranattu karuppur  (r.v)  and  (p)  Poompukar  salai wd-4 ,
+4.Koranattu karuppur  (R.V) and (P) Renga nagar  wd-4 999.OVERSEAS  ELECTORS"
+49,171,49,,"Government Aided  Middle  School, East  facing  building,  Koranattu karupur-612501","1.Koranattu karuppur  (R.V) and (P) Pallivasal theru wd-3 , 2.Koranattu karuppur  (R.V) and (P) Rahmaniya  theru wd-3  , 3.Koranattu karuppur  (R.V) and (P) Vaiyapuri theru wd-5  , 999.OVERSEAS  ELECTORS"
+50,171,50,,"Anganwadi Building,  (South Facing Building) Santhanalpuram, Koranattukaruppur-2,  612501","1.Koranattu karuppur  (R.V) and (P) Sanathanalpuram keni theru  vadakku theru wd-5  ,
+2.Koranattu karuppur  (R.V) and (P) Santhanal mathakoil theru kurukku theru nadu theru ,
+3.Koranattu karuppur  (R.V) and (P) Santhanalpuram ottha theru wd-5  , 4.Koranattu karuppur  (R.V) and (P) Santhanalpuram puthu theru wd-5 999.OVERSEAS  ELECTORS"
+51,171,51,,"Ayyan  Thiruvalluvar  Library,  East facing  building,  Koranattu karupur-612501","1.Koranattu karuppur  (R.V) and (P) K.Karuppur  thirumanjana  veethi wd-3 , 2.Koranattu karuppur  (R.V) and (P) Chinna  muslim theru wd-3  , 3.Koranattu karuppur  (R.V) and (P) Rice mill theru wd-3,
+4.Koranattu karuppur  (R.V) and (P) Rejak  colony wd-3  , 5.Koranattu karuppur  (R.V) and (P) Yathavar  theru wd-3 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+52,171,52,,"Panchayat Union E-Service  Building (East Facing Building),Koranattukaruppur-612501","1.Koranattu karuppur  (R.V) and (P) Sathiram karuppur  yathavar  theru wd-5  , 2.Koranattu karuppur  (R.V) and (P) Satthiram karuppur  chettitheru wd-5  , 3.Koranattu karuppur  (R.V) and (P) Satthiram karuppur  muslim theru wd-5  , 4.Koranattu karuppur  (R.V) and (P) Satthiram karuppur  vadakku theru wd-5  , 5.Koranattu karuppur  (R.V) and (P) Satthiram karuppu vanuva  theru wd-5  , 6.Koranattu karuppur  (R.V) and (P) Satthiram karuppur  Angalamman koil theruwd-5
+999.OVERSEAS  ELECTORS"
+53,171,53,,"Panchayat Union Middle School, (North Side New Building  South Facing  West Side Room),  Asoor-612501","1.Asoor (R.V)  AND  (P)  Keezhatheru vadakku wd-1  ,
+2.Asoor (R.V)  AND  (P)  Vadakku theru wd-1  ,
+3.Asoor (R.V)  AND  (P)  Melatheru wd-1  ,
+4.Asoor (R.V)  AND  (P)  Kalisanthu wd-1  ,
+5.Asoor (R.V)  AND  (P)  Keezhatheru therkku wd-2  ,
+6.Asoor (R.V)  AND  (P)  Pillaiyar koil  theru wd-2  ,
+7.Asoor (R.V)  AND  (P)  Therkku theru wd-2  ,
+8.Asoor (R.V)  AND  (P)  Jallikollai theru wd-2  ,
+9.Asoor (R.V)  AND  (P)  Manthai veli wd-2  ,
+10.Asoor  (R.V)  AND  (P)  Main  road  wd-2  ,
+11.Asoor  (R.V)  AND  (P)  Annacolony  wd-2 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+54,171,54,,"Panchayat Union Middle School, (New Building) North  Facing, East Portion,  Asoor-612501","1.Asoor (R.V)  AND  (P)  Velakudi   wd-3  ,
+2.Asoor (R.V)  AND  (P)  Kamraj  nagar  3rd  Street wd-3  ,
+3.Asoor (R.V)  AND  (P)  Kamaraj nagar  4th  street wd-3  ,
+4.Asoor (R.V)  AND  (P)  Adithiravidar  theru wd-4  ,
+5.Asoor (R.V)  AND  (P)  Valluvar   thidal wd-4 ,
+6.Asoor (R.V)  AND  (P)  Chettikulam wd-2  , 999.OVERSEAS  ELECTORS"
+55,171,55,,"Panchayat Union Middle School, (New Building) North  Facing, West Portion,  Asoor-612501","1.Asoor (R.V)  AND  (P)  Sarathi  thidal Sarathi  nagar  wd-4  ,
+2.Inam Asoor  (R.V) Asoor  (P) Police colony  wd-4 , 999.OVERSEAS  ELECTORS"
+56,171,56,,"Aided  Elementary  School ( Northern Portion),Eraharam 612503","1.Eraharam (R.V)  AND  (P)  Vadakku theru wd-1  ,
+2.Eraharam (R.V)  AND  (P)  Keezhatheru wd-1  ,
+3.Eraharam (R.V)  AND  (P)  Melatheru wd-1  ,
+4.Eraharam (R.V)  AND  (P)  Annacolony  wd-1 ,
+5.Eraharam (R.V)  AND  (P)  Mettu theru wd-1  ,
+6.Eraharam (R.V)  AND  (P)  Therkku theru wd-1 999.OVERSEAS  ELECTORS"
+57,171,57,,"Grama  E-Seva  Building  (East Facing,South  Side),  Anbu Nagar Eragaram- 612503","1.Moopakoil  (R.V)  Eraharam (P)  Moopakoil  adithiravidar  theru wd-2  , 2.Melacauvery  (R.V) Eraharam (P) Pattakal  ambethkarnagar mettu theru wd-2  , 3.Melacauvery  (R.V) Eraharam (P) Erakaram vazhi nadappu wd-2 4.Melacauvery  (R.V) Eraharam (P) Jamiya  nagar (House no  2/301  to 357) wd-2 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+58,171,58,,"Grama  E-Seva  Building  (East Facing, North Side),  Anbu Nagar Eragaram-612503","1.Melacauvery  (R.V) Eraharam(P) Jamiya  Nagar (House No  2/358  to 2/456) ward-2  (Sl.no  1 to 608)
+999.OVERSEAS  ELECTORS"
+59,171,58(A),,"Grama  E-Seva  Building  (South  facing North Side),  Anbu Nagar Eraharam-612503","1.Melacauvery  (R.V) Eraharam(P) Jamiya  Nagar (House No  2/358  to 2/456) ward-2  (Sl.no  609  to 1212)
+999.OVERSEAS  ELECTORS"
+60,171,59,,"Panchayat Union Elementary  School ( Northern  Portion),Innambur 612303","1.Innambur  (R.V)  AND  (P)  Therkku theru wd-1  ,
+2.Innambur  (R.V)  AND  (P)  Melatheru wd-1  ,
+3.Innambur  (R.V)  AND  (P)  Agraharam theru wd-1  ,
+4.Innambur  (R.V)  AND  (P)  Puthutheru wd-1  ,
+5.Innambur  (R.V)  AND  (P)  Thopputheru wd-1 ,
+6.Innambur  (R.V)  AND  (P)  Vadakku theru wd-1  ,
+7.Innambur  (R.V)  AND  (P)  Gandhi nagar  wd-3 999.OVERSEAS  ELECTORS"
+61,171,60,,"Panchayat Union Elementary  School (Southern  Portion),  Innambur 612303","1.Innambur  (R.V)  AND  (P)  Mainroad wd-2  ,
+2.Innambur  (R.V)  AND  (P)  Puliyampadi  kudiyanatheru wd-2  ,
+3.Innambur  (R.V)  AND  (P)  Thiruvalluvar theru wd-3 ,
+4.Innambur  (R.V)  AND  (P)  Puliyampadi  colony  wd-2 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+62,171,61,,"Anganwadi Building,  East Facing, Baburajapuram 612302","1.Baburajapuram (R.V)  AND  (P)  Amman  koil theru wd-2 , 2.Baburajapuram (R.V)  AND  (P)  Sivankoil theru ward-2, 3.Baburajapuram (R.V)  AND  (P)  Baburajapuram agraharam wd-3  , 4.Baburajapuram (R.V)  AND  (P)  Thoppu theru wd-3  , 5.Baburajapuram (R.V)  AND  (P)  Kutthanikulatheru layankarai wd-3 , 6.Baburajapuram (R.V)  AND  (P)  Pallivasal theru wd-3  ,
+7.Baburajapuram (R.V)  AND  (P)  Vadakku adithiravidavalluvar theru wd-2 999.OVERSEAS  ELECTORS"
+63,171,62,,"Panchayat Union Primary School (West Facing  South Portion), Baburajapuram-612302","1.Baburajapuram (R.V)  AND  (P)  Mangalam nagar wd-4, 2.Baburajapuram (R.V)  AND  ( P) New parma  nagar , 3.Baburajapuram (R.V)  AND  (P)  Baburajapuram main  road  wd-3, 999.OVERSEAS  ELECTORS"
+64,171,63,,"Library  Building,  South  Facing, Thimmakudi,  Baburajapuram-612302","1.Thimmakudi  (R.V)  Baburajapuram (P)   Thimmakudi  adithiravidar  theru wd-1, 2.Thimmakudi  (R.V)  Baburajapuram (P) Manaveli  theru wd-1,
+3.Thimmakudi  (R.V)  Baburajapuram (P) Aruljothi nagar agraharam wd-1, 4.Thimmakudi  (R.V)  Baburajapuram (P) Kongurayar kulatheru wd-1 5.Thimmakudi  (R.V)  Baburajapuram (P) Thimmakudi main  road  linekarai  wd-2 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+65,171,64,,"Panchayat Union Primary School, Middle  Portion, Baburajapuram - 612302","1.Baburajapuram (R.V)  AND  (P)  Puliyancheri  main  road  wd-3 , 2.Baburajapuram (R.V)  AND  (P)  Puliyacherju pillaiyar  koil theru wd-4 , 3.Baburajapuram (R.V)  AND  (P)  Melakottaiyur adithiravidar theru ,main  road  , 4.Baburajapuram (R.V)  AND  (P)  Keezhakottaiyur  Adithiravidar  theru wd-5  , 5.Baburajapuram (R.V)  AND  (P)  Mathavapuram wd-1
+999.OVERSEAS  ELECTORS"
+66,171,65,,"National  Vidhyalaya C.B.  S.E School (Room No1) Auto  Nagar,  Chennai Salai, Perumandi 612002","1.Perumpandi  (C.T) Jebamalai Puram  wd-4  , 2.Perumpandi  (C.T) Balaji nagar wd- 5  , 3.Perumpandi  (C.T) Krishna  Nagar  wd  5 , 4.Perumpandi  (C.T) Upputhidal wd  4  , 5.Perumpandi  (C.T) Chinnamal kallarai wd  5  , 6.Perumpandi  (C.T) Kavibharathi  Nagar  wd  5  , 7.Perumpandi  (C.T) I.H.F.D  Nagar  wd  5 999.OVERSEAS  ELECTORS"
+67,171,66,,"National  Vidhyalaya C.B.S.E School,(Room No  2),  Auto Nagar, Chennai Salai,  Perumandi -  612302","1.Perumpandi  (C.T) Thirunagar wd  -4  , 2.Perumpandi  (C.T) Auto Nagar wd  -4,5  , 3.Perumpandi  (C.T) Maruthi  Nagar  wd- 5 999.OVERSEAS  ELECTORS"
+68,171,67,,"National  Vidhyalaya C.B.S.E School (Room No  3),  Auto  Nagar,  Chennai Salai, Perumandi -  612302","1.Perumpandi  (C.T) Arul Nagar  wd-5  , 2.Perumpandi  (C.T) Maruthamuthu nagar wd- 5  , 3.Perumpandi  (C.T) Palanisamy  nagar  wd-  5  , 4.Perumpandi  (C.T) Sethuram nagar wd- 5  , 5.Perumpandi  (C.T) Indira  nagar wd  5 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+69,171,68,,"Grama  Seva  Center Building, West facing,  Rethinapuri Nagar, Neerathanallur Road,  Perumandi - 612002","1.Perumpandi  (C.T) Lakshmi  nagar  wd 2  , 2.Perumpandi  (C.T) Ramnagar  wd-  2  , 999.OVERSEAS  ELECTORS"
+70,171,69,,"Anganwadi Building,  North  Facting, Rethinapuri  Nagar,  Neerathanallur Road,  Perumandi -  612002",1.Perumpandi  (C.T) New  ram nagar wd- 2 999.OVERSEAS  ELECTORS
+71,171,70,,"Panchayat Union Elementary  School ( West Building,  West Portion)  , Perumandi -612002","1.Perumpandi  (C.T) Sakaji  nayakkan  Thoppu wd  2  , 2.Perumpandi  (C.T) Ganapathi  Nagar  wd  2  , 3.Perumpandi  (C.T) Main Road  wd  -2  , 4.Perumpandi  (C.T) Raja  Nagar  wd  -1 999.OVERSEAS  ELECTORS"
+72,171,71,,"Panchayat Union Elementary  School (New West Building), Eastern  Portion
+,Perumandi-  612002","1.Perumpandi  (C.T) Mathakoil  Street  wd  -1  , 2.Perumpandi  (C.T) Kamaraj 1st Street wd- 1  , 3.Perumpandi  (C.T) Kamaraj 2nd Street wd- 1  , 4.Perumpandi  (C.T) Kamarajnagar  7th Street wd  -3 999.OVERSEAS  ELECTORS"
+73,171,72,,"Panchayat Union Elementary  School (New West Building  West Portion)
+,Perumandi-  612002","1.Perumpandi  (C.T) Kamaraj 5th  Street wd- 2  , 2.Perumpandi  (C.T) Kamarajnagar  5-th  Street wd  -2  , 3.Perumpandi  (C.T) Kamaraj Nagar  6th  Street wd  -2  ,3 , 4.Perumpandi  (C.T) G.T.Naidu Street ,
+5.Perumpandi  (C.T) V.O.C Street wd  -2  , 6.Perumpandi  (C.T) Nehru Nagar wd  -2 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+74,171,73,,"Govt Girls  Higher Secondary  School Room No 11,  Kumbakonam,  Ullur-612001","1.Ullur (C.T)  Vattipillaiyar  kovil main road wd-2  ,
+2.Ullur (C.T)  Kannikampal Nagar wd-2 ,
+3.Ullur (C.T)  Kallukadai Lane  wd-2 999.OVERSEAS  ELECTORS"
+75,171,74,,"Govt Girls  Higher Secondary  School Room No 8,  Kumbakonam,  Ullur-612001","1.Ullur (C.T)  Indira  Nagar  wd-2 ,
+2.Ullur (C.T)  Muthaiya  Nagar  wd-2  ,
+3.Ullur (C.T)  Murugan Colony  wd-2 ,
+4.Ullur (C.T)  Chiruthuraja  Nagar wd-2 ,
+5.Ullur (C.T)  Musthapa Nagar wd-2 999.OVERSEAS  ELECTORS"
+76,171,75,,"Government Girls  Higher Secondary School(Southern  building,Room No.6),  Ullur  -612001","1.Ullur (C.T)  Ananth  Nagar  wd-2  ,
+2.Ullur (C.T)  Sriram Nagar wd-2 ,
+3.Ullur (C.T)  Srinagar  Colony  wd-2  ,
+4.Ullur (C.T)  Kuppankulam,  Sekkankanni,  Ezhil  Nagar  wd-2 999.OVERSEAS  ELECTORS"
+77,171,76,,"Government Girls  Higher Secondary School(Southern  building,Room No.5),  Ullur  -612001","1.Ullur (C.T)  Kodaiyan  Thottam wd-3  ,
+2.Ullur (C.T)  Sangaraiyar Thottam wd-3 999.OVERSEAS  ELECTORS"
+78,171,77,,"Government Girls  Higher Secondary School (Southern building,Room No.7),Ullur  -612001","1.Ullur (C.T)  Naduthoppu Morikarai wd-2  ,
+2.Ullur (C.T)  Gurusamy  Nagar  wd-2  ,
+3.Ullur (C.T)  Chinnakarai  wd-3 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+79,171,78,,"Grama  Seva  Center Building, North facing,  East Portion, Chettimandapam,  Ullur-612001","1.Ullur (C.T)  Chettimandapam Main  Road  (door.no 71-150) wd-1  ,
+2.Ullur (C.T)  Vengatesan  nagar wd-1 ,
+3.Ullur (C.T)  Soudambika  Nagar wd-1 ,
+4.Ullur (C.T)  Chettimandapam Ganapathi  Nagar  wd-1 999.OVERSEAS  ELECTORS"
+80,171,79,,"Grama  Seva  Center Building, North facing,  West Portion, Chettimandapam,  Ullur-612001","1.Ullur (C.T)  Radha  Nagar wd-1 ,
+2.Ullur (C.T)  Moopanar nagar wd-1 ,
+3.Ullur (C.T)  Rajiv Nagar wd-1 999.OVERSEAS  ELECTORS"
+81,171,80,,"Panchayat Union Primary School, Northern  New Building,  Western Portion,Ullur,  Chettymandapam Ullur  612001","1.Ullur (C.T)  Chettimandapam Main  Road  (Door  No 151-250) wd-1  ,
+2.Ullur (C.T)  Mullai  Nagar  wd-2 999.OVERSEAS  ELECTORS"
+82,171,81,,"Government Girls  Higher Secondary School,  (New Northern  Building South  Facing  Room No  2),  Ullur  - 612001","1.Ullur (C.T)  Chinnakattu Karai wd-3  ,
+2.Ullur (C.T)  Rukmani Ammal  Nagar  wd-3  ,
+3.Ullur (C.T)  Ganesh  nagar  wd-3 999.OVERSEAS  ELECTORS"
+83,171,82,,"Panchayat Union Primary School, Northern  New Building,  Eastern Portion,  Ullur,  Chettymandapam Ullur  612001","1.Ullur (C.T)  Uthayam Nagar wd-3  ,
+2.Ullur (C.T)  Radhakrishnan  Nagar  wd-3  ,
+3.Ullur (C.T)  Layan  karai  wd-3
+4.Ullur (C.T)  North  Street wd-1  , 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+84,171,83,,"Government Girls  Higher Secondary School,  (Room No.  4  East  Facing), Chettymandapam Ullur  612001","1.Ullur (C.T)  Subbulakshmi Nagar,  Annai anjugam Nagar
+Main  Road,  Government girls  Higher Secondary  school Road,  wd-3
+2.Ullur (C.T)  Annai Therasa  Nagar,  Annai  anjugam Nagar  Ext.,  SS  Nagar,  Bismilla  Nagar,  wd-3
+999.OVERSEAS  ELECTORS"
+85,171,84,,"Government Girls  Higher Secondary School,  (New Building  1st Room, South  Facing,  North Portion), Chettymandapam ,Ullur 612001","1.Ullur (C.T)  Pillaiyar Kovil Street wd-3
+2.Ullur (C.T)  Thiru.Vi.Ka  Nagar,  Government girls  Higher Secondary  school Back side  wd-3
+999.OVERSEAS  ELECTORS"
+86,171,85,,"New Panchayat Building,  East facing,  Ammachathiram-612103","1.Ammachathiram (R.V)  and  (P)  Santhanaganapathi  Theru wd-1  , 2.Ammachathiram (R.V)  and  (P)  Keezhasatthiram Main Road  wd-1, 3.Ammachathiram (R.V)  and  (P)  Thirumanjanaveethi wd-1, 999.OVERSEAS  ELECTORS"
+87,171,86,,"Anganwadi Building,  North  Facing, Ammachathiram-  612103","1.Ammachathiram (R.V)  and  (P)  Vaniya  Theru wd-2, 2.Ammachathiram (R.V)  and  (P)  Annanagar  wd-2, 3.Ammachathiram (R.V)  and  (P)  Saliya  Theru wd-2, 4.Ammachathiram (R.V)  and  (P)  Chetti Theru wd-2, 999.OVERSEAS  ELECTORS"
+88,171,87,,"New Panchayat Union  Middle  School, Southern  Building  East Facing, Northern  end,  Ammachathiram-612103","1.Ammachathiram (R.V)  and  (P)  Sivankoil Vadakku Veedhi wd-3, 2.Ammachathiram (R.V)  and  (P)  Sivankoil Melaveedhi wd-3, 3.Ammachathiram (R.V)  and  (P)  Sivankoil Keezha  Veedhi  wd-3, 4.Ammachathiram (R.V)  and  (P)   Sivankoil Therkku Veedhi wd-3, 5.Ammachathiram (R.V)  and  (P)  Sornambal Nagar  wd-2, 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+89,171,88,,"New Panchayat Union  Middle  School, Southern  Building  East Facing, Southern  End,  Ammachathiram-612103","1.Ammachathiram (R.V)  and  (P)  Puthu Agraharam wd-3, 2.Ammachathiram (R.V)  and  (P)  Cholan  Nagar  wd-3, 3.Ammachathiram (R.V)  and  (P)  Sivan  Sannathi Theru wd-3, 4.Ammachathiram (R.V)  and  (P)  Melasatthiram Main  Road  wd-3 999.OVERSEAS  ELECTORS"
+90,171,89,,"Library  Building  Near Panchayat Office,  Maruthadi 612103","1.Ammachattram (R.V)  Umamageshvarapuram (P) Sarangapani  Pettai wd-4  , 2.Ammachattram (R.V)  Umamageshvarapuram (P) Maruthadi Enam wd-4 999.OVERSEAS  ELECTORS"
+91,171,90,,"Thiagarajar  Aided  Middle School (Northern  Portion),  Sannapuram-612204","1.Sannapuram (R.V)  Thirunageshwaram (P) Thiruvidaimarudur  Salai  wd-1  , 2.Sannapuram (R.V)  Thirunageshwaram (P) Sannapuram Kudiyana  Street wd-1  , 999.OVERSEAS  ELECTORS"
+92,171,91,,"Thiyagarajar Aided  Middle  School (Northern  Portion  south side), sannapuram 612204","1.Sannapuram (R.V)  Thirunageshwaram (P) Sannapuram Adi  Dravidar  Street  wd-1  ,
+2.Sannapuram (R.V)  Thirunageshwaram (P) Muslim Street wd-2 3.Sannapuram (R.V)  Thirunageshwaram (P) Vellalar Street wd-1  , 4.Sannapuram (R.V)  Thirunageshwaram (P) Sengunthar Street wd-2 , 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+93,171,92,,"Thiagarajar  Guruvidhyalaya  Nursery and Primary  School,  West Building Sheet Building  Sannapuram.  612204","1.Sannapuram (R.V)  Thirunageshwaram (P) Pananthoppu wd-1  , 2.Sannapuram (R.V)  Thirunageshwaram (P)
+Sannapuram Mariyamman  Koil Street wd-2 ,
+3.Sannapuram (R.V)  Thirunageshwaram (P) Nethaji  Street  wd-4  ,
+4.Sannapuram (R.V)  Thirunageshwaram (P) Thirunageswaram Main  Road  wd-4 , 5.Sannapuram (R.V)  Thirunageshwaram (P) Keezha Pudhu Theru wd-4  , 6.Sannapuram (R.V)  Thirunageshwaram (P) Arasamara Lane wd-4 , 7.Sannapuram (R.V)  Thirunageshwaram (P) Ponnukuttai  Bharathidasan Nagar wd-4
+999.OVERSEAS  ELECTORS"
+94,171,93,,"Government Higher  Secondary School,  (North  Facing  1st New Building,  East  Portion), Thirunageswaram 612204","1.Thirunageshwaram (T.P)  Thiroupathiamman Koil  Street wd-5  , 2.Thirunageshwaram (T.P)  Thoppu Street wd-6  , 3.Thirunageshwaram (T.P)  Muslim Street wd-6  , 4.Thirunageshwaram (T.P)  Muslim Lane wd-6  , 5.Thirunageshwaram (T.P)  Pallivasal Street wd-6 999.OVERSEAS  ELECTORS"
+95,171,94,,"Government Higher  Secondary School,  (North  Facing  1st New Building,  Middle  Portion), Thirunageswaram 612204",1.Thirunageshwaram (T.P)  Pudhu theru wd-5 999.OVERSEAS  ELECTORS
+1,171,2,,3,4
+96,171,95,,"Government Higher  Secondary School,  (North  Facing  1st New Building,  West Portion), Thirunageswaram-612204","1.Thirunageshwaram (T.P)  Arthajama  Kattalai  Street wd-15 , 2.Thirunageshwaram (T.P)  Kachar  Kula  Street wd-15  , 3.Thirunageshwaram (T.P)  Keela  Vadampokki Street wd-15  , 4.Thirunageshwaram (T.P)  Sivan  Koil Keela  Veethi wd-3  , 5.Thirunageshwaram (T.P)  Keela  Madavilagam wd-13 , 6.Thirunageshwaram (T.P)  North  Madavilagam wd-13  , 7.Thirunageshwaram (T.P)  Mattakanni  Adidravidar Street wd-7 , 8.Thirunageshwaram (T.P)  Sivan  Sannathi Street wd-13 999.OVERSEAS  ELECTORS"
+97,171,96,,"Panchayat Union Primary School, Andhamangalam,  Thirunageswaram-612204","1.Thirunageshwaram (T.P)  Anthamangalam Main Road  wd-3  , 2.Thirunageshwaram (T.P)  Anthamangalam Mela  Veethi wd-3  , 3.Thirunageshwaram (T.P)  Anthamangalam Keela  Veethi  wd-3  , 4.Thirunageshwaram (T.P)  Anthamangalam Mathakoil Street wd-3 999.OVERSEAS  ELECTORS"
+98,171,97,,"Govt Higher  Secondary  School, (Northfacing  SSA Building,  East Portion),  Thirunageswaram 612204","1.Thirunageshwaram (T.P)  Uppliyappan  Koil Thirumanjana  Veethi wd-8  , 2.Thirunageshwaram (T.P)  Mariyamman  Koil Sannathi  Street West wd-8  , 3.Thirunageshwaram (T.P)  Mariyamman  Koil Sannathi  Street East  wd-8  , 4.Thirunageshwaram (T.P)  Pazhaya Seda  Street (Abisegakattali)Wd-8 , 5.Thirunageshwaram (T.P)  Uppliyappan  Koil Kudiyana  Street wd-8  , 6.Thirunageshwaram (T.P)  Old  Chetti  Street wd-8  ,
+7.Thirunageshwaram (T.P)  Devanar  Vilagam wd-8 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+99,171,98,,"Govt Higher  Secondary  School, (Northfacing  SSA Building,  West Portion),  Thirunageswaram 612204","1.Thirunageshwaram (T.P)  Chinna  Devanar  Vilagam wd-8  , 2.Thirunageshwaram (T.P)  Sempiyamalai  Seniya  Street wd-8  , 3.Thirunageshwaram (T.P)  Sempiyamalai  Vaniya  Street wd-8  , 4.Thirunageshwaram (T.P)  Devanar  Vilagam Adidravidar Street wd-8 999.OVERSEAS  ELECTORS"
+100,171,99,,"Aided  Primary  School,  (Southern Portion),Thirunageswaram 612204","1.Thirunageshwaram (T.P)  Mela  Vadampokki Street wd-12  , 2.Thirunageshwaram (T.P)  Mela  Madavilagam wd-12 , 3.Thirunageshwaram (T.P)  Keela  Veethi  wd-12 , 4.Thirunageshwaram (T.P)  Palanth Street wd-12  , 5.Thirunageshwaram (T.P)  South  Madavilagam wd-12  , 999.OVERSEAS  ELECTORS"
+101,171,100,,"Aided  Primary  School,  (Southern side,  East  Facing  Thirunageswaram. 612204","1.Thirunageshwaram (T.P)  Kumbakonam Salai  wd-12  , 2.Thirunageshwaram (T.P)  Mela  Veethi  wd-12 , 3.Thirunageshwaram (T.P)  Vijayalakshmi Nagar wd-12 999.OVERSEAS  ELECTORS"
+102,171,101,,"Government Higher  Secondary School,  North  facing  building,  West side  Room,  Thirunageswaram-612204","1.Thirunageshwaram (T.P)  Vadakku Veethi  wd-14  , 2.Thirunageshwaram (T.P)  Railway  Station  Salai  wd-14, 3.Thirunageshwaram (T.P)  Thirumalai   Nagar wd-14, 999.OVERSEAS  ELECTORS"
+103,171,102,,"Panchayat Union  Primary  School (Northern  Building  East Portion), Thirunageswaram-612204","1.Thirunageshwaram (T.P)  Eda  Street wd-11  , 2.Thirunageshwaram (T.P)  R.V. Nagar West  wd-14  , 3.Thirunageshwaram (T.P)  R.V.Nagar  East  wd-14  , 4.Thirunageshwaram (T.P)  Indira  Nagar wd-14  , 5.Thirunageshwaram (T.P)  Mettu Street wd-14  , 6.Thirunageshwaram (T.P)   Srinivasanagar wd-14, 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+104,171,103,,"Panchayat Union  Primary  School (Southern Building),Thirunageswaram 612204","1.Thirunageshwaram (T.P)  Uppliyappan  Koil North Veethi wd-9  , 2.Thirunageshwaram (T.P)  Kallukara Street wd-9  , 3.Thirunageshwaram (T.P)  Uppliyappan  Koil Sannathi Street wd-9  , 4.Thirunageshwaram (T.P)  Pillaiyar  Koil  Street wd-9  , 5.Thirunageshwaram (T.P)  Uppliyappan  Koil Seda  Street wd-9 , 6.Thirunageshwaram (T.P)  Uppiliyappan  Mela Veethi  wd-9  , 7.Thirunageshwaram (T.P)  Sivan  Thirumanjana  Veethi wd-9  , 8.Thirunageshwaram (T.P)  Manal Mettu Street wd-9 9.Thirunageshwaram (T.P)  Kirikujampal   Nagarwd-12  , 999.OVERSEAS  ELECTORS"
+105,171,104,,"Government Higher  Secondary School,  North  facing  building,  East side  Room,  Thirunageswaram-612204","1.Thirunageshwaram (T.P)  South  Veethi  wd-11  , 2.Thirunageshwaram (T.P)  Chetti  Street  wd-10  , 3.Thirunageshwaram (T.P)  Pavundu Street wd-10  , 4.Thirunageshwaram (T.P)  Maruthuvar  Street wd-10  , 5.Thirunageshwaram (T.P)  Middle  Pattarai Street wd-10 999.OVERSEAS  ELECTORS"
+106,171,105,,"Panchayat Union  Primary  School (Main  Building),  Srinivasanallur 612204",1.Srinivasanallur (R.V)  and  (P) Anna  Nagar -wd-1 999.OVERSEAS  ELECTORS
+107,171,106,,"Aringar  Anna  thirumana  mandabam, North facing,  Srinivasanallur-612204","1.Srinivasanallur (R.V)  and  (P) Nagaraj  Nagar  wd-1  , 2.Srinivasanallur (R.V)  and  (P) Karaikal  Main  Road  wd-1 , 3.Srinivasanallur (R.V)  and  (P) East Street wd-2  , 4.Srinivasanallur (R.V)  and  (P) West  Street  -wd-2 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+108,171,107,,"Part Time  Public  Disribution  System Building,  West Facing,  Amutham Nagar,  Palavathankattalai-612401","1.Palavathan  katalai (R.V) and (P) Pilancheri wd-1  , 2.palavathan  katalai (R.V) and (P) Kuppankula keeastreet wd-1 999.OVERSEAS  ELECTORS"
+109,171,108,,"Panchayat Union  Middle  School, Northern  Side South  Facing  New Building  Western  Portion, Muthupillai  Mandapam, Pazhavathan Kattalai  612401","1.palavathan  katalai (R.V) and (P) V.O.C  Nagar  wd-1  , 2.palavathan  katalai (R.V) and (P) Karmel matam wd-1  , 3.palavathan  katalai (R.V) and (P) Moorthi thottam wd-1  , 4.palavathan  katalai (R.V) and (P) Isvarya  nagar  wd-1  , 5.palavathan  katalai (R.V) and (P) Kelaret  nagar  wd-1  ,
+6.palavathan  katalai (R.V) and (P) Muthupillai  Mantapam main  road  south street 999.OVERSEAS  ELECTORS"
+110,171,109,,"Panchayat Union  Middle  School, Northern  Facing  New  Building,  East Portion ,  Muthupillai  Mandapam, Pazhavathankattalai-612401","1.palavathan  katalai (R.V) and (P) Muthupullai mantapammuthalanavai  wd-2, 2.palavathan  katalai (R.V) and (P) Karaikal main  roat wd-2
+3.palavathan  katalai (R.V) and (P) Komalavalli pattai wd-4  , 999.OVERSEAS  ELECTORS"
+111,171,110,,"Panchayat Union  Middle  School, Northern  Facing  New  Building,  West Portion ,  Muthupillai  Mandapam, Pazhavathankattalai-612401","1.palavathan  katalai (R.V) and (P) kaveri  nagar  wd-4, 2.palavathan  katalai (R.V) and (P) Balaji  nagar  wd-4, 3.palavathan  katalai (R.V) and (P) Indhira  nagar  wd-4, 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+112,171,111,,"Panchayat Union  Middle  School, Agaram Library  Building,  West facing,  North  Portion,  Muthupillai Mandapam,  Pazhavathanattalai 612401","1.palavathan  katalai (R.V) and (P) Anisnagar wd-4  ,
+2.palavathan  katalai (R.V) and (P) Dhuya  iruthaya  antavar  streetg  wd-4  , 3.palavathan  katalai (R.V) and (P) Ganesh nagar  wd-4  ,
+4.palavathan  katalai (R.V) and (P) Arokiya  annai nagar wd-4  , 5.palavathan  katalai (R.V) and (P) Amma  thottam wd-5  , 6.palavathan  katalai (R.V) and (P) South  street wd-5  , 7.palavathan  katalai (R.V) and (P) Nachiyan  thottam wd-5 999.OVERSEAS  ELECTORS"
+113,171,112,,"Library  Building  (Branch), Vivekananthar Nagar, Pazhavathankattalai,  Kumbakonam-612001",1.palavathan  katalai (R.V) and (P) Vevekananthar Nagar  wd-3 999.OVERSEAS  ELECTORS
+114,171,113,,"Panchayat Union  Middle  School, South  Facing,  North Western Building,  Pazhavathankattalai, Kumbakonam-612001","1.palavathan  katalai (R.V) and (P) Ambethkar nagar wd-3 , 2.palavathan  katalai (R.V) and (P) melatheru wd-3  , 3.palavathan  katalai (R.V) and (P) Othaitheru wd-3  , 4.palavathan  katalai (R.V) and (P) Netamangalam road wd-3 999.OVERSEAS  ELECTORS"
+115,171,114,,"Panchayat Union  Middle  School, East  Building  West Facing  North Portion,  Pazhavathankattalai, Kumbakonam-612001","1.palavathan  katalai (R.V) and (P) Sathiya  nagar  wd-2  , 2.palavathan  katalai (R.V) and (P) South  bharathi nagar wd-2  , 3.palavathan  katalai (R.V) and (P) Ambethkar nagar wd-3 , 4.palavathan  katalai (R.V) and (P) Balaji  nagar  wd-3 999.OVERSEAS  ELECTORS"
+116,171,115,,"Panchayat Union  Middle  School, East  Building  West Facing  South Portion,  Pazhavathankattalai, Kumbakonam-612001","1.palavathan  katalai (R.V) and (P) Main  road  wd-2 ,
+2.palavathan  katalai (R.V) and (P) P.W.D. Aluvalarkal kudieruppu wd-2  , 3.palavathan  katalai (R.V) and (P) North bharthi  nagr wd-3 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+117,171,116,,"Panchayat Union  Middle  School,(1,2 Class  rooms) East Facing, Malaiyappanallur-612401","1.Malaiyappanallur  (R.V)  and  (P)  Keelatheru wd-1  , 2.Malaiyappanallur  (R.V)  and  (P)  Srirengarajapuram wd-1  , 3.Malaiyappanallur  (R.V)  and  (P)  Natham N.S.K.  Nagar  wd-1  , 4.Malaiyappanallur  (R.V)  and  (P)  Andakudaiyan  wd-1 999.OVERSEAS  ELECTORS"
+118,171,117,,"Panchayat Union  Middle  School (East Facing South Building) 3,4 Class  rooms,  Malaiyappanallur  - 612401","1.Malaiyappanallur  (R.V)  and  (P)  Salai  street wd-1  , 2.Malaiyappanallur  (R.V)  and  (P)  South street wd-1 , 3.Malaiyappanallur  (R.V)  and  (P)  Melastreet wd-1  , 4.Malaiyappanallur  (R.V)  and  (P)  Mathakoil  street wd-1  , 5.Malaiyappanallur  (R.V)  and  (P)  Nadueruppu wd-1 999.OVERSEAS  ELECTORS"
+119,171,118,,"St.Antonys Matriculation Higher Secondary  School,  South  Building Room No GF-3, Sakkottai-612401","1.Karupur (R.V)  Sakkottai  (P) Pathinoru veli  muthaliyana  wd-3 ,
+2.Karupur (R.V)  Sakkottai  (P) Neetamangalam main  road  wd-3  , 3.Sakkottai  (R.V)  and  (P)  KOttaishivan kovil  street wd-4 ,
+4.Karupur (R.V)  Sakkottai  (P) Reddystreet wd-3  ,
+5.Karupur (R.V)  Sakkottai  (P) Manal metutheru wd-3 999.OVERSEAS  ELECTORS"
+120,171,119,,"St.Antonys Matriculation Higher Secondary  School,  South  Building Room No GF-4, Sakkottai-612401","1.Sakkottai  (R.V)  and  (P)  Rajampalayastreet wd-4  ,
+2.Karupur (R.V)  Sakkottai  (P) karuppur-Maruthanallur salai wd-2 ,
+3.Karupur (R.V)  Sakkottai  (P) Arivoli kelatheru wd-2  ,
+4.Karupur (R.V)  Sakkottai  (P) Ariveli melatheru wd-2 ,
+5.Karupur (R.V)  Sakkottai  (P) Vadapakkam wd-2 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+121,171,120,,"Rational Primary  Aided  School,  West facing,  North  Portion,  East Building, Sakkottai-612401","1.Sakkottai  (R.V)  and  (P)  Kelatheru wd-5 , 2.Sakkottai  (R.V)  and  (P)  Vantikaratheru wd-5 , 3.Sakkottai  (R.V)  and  (P)  Sakkottai  Main  road  wd-5  , 4.Sakkottai  (R.V)  and  (P)  Melatheru wd-5 , 5.Sakkottai  (R.V)  and  (P)  Raja  thottam wd-5  , 6.Sakkottai  (R.V)  and  (P)  Ishbactory  santhu  wd-5  , 7.Sakkottai  (R.V)  and  (P)  Shitharam nagar  wd-5  , 8.Sakkottai  (R.V)  and  (P)  Pillaiyar kovil  street wd-5 999.OVERSEAS  ELECTORS"
+122,171,121,,"Rational Primary  Aided  School,  West facing,  South  Portion,  East Building, Sakkottai -612401","1.Sakkottai  (R.V)  and  (P)  M.M.Nagar  melatheru wd-5  , 2.Sakkottai  (R.V)  and  (P)  Annanagar  wd-5
+3.Sakkottai  (R.V)  and  (P)  K.M.S.S.S.Colony  wd-5  , 4.Sakkottai  (R.V)  and  (P)  Nachiyarkovil  mainroad wd-5  , 5.Sakkottai  (R.V)  and  (P)  Ravujunagar wd-5 , 999.OVERSEAS  ELECTORS"
+123,171,122,,"St.Antonys Matriculation Higher Secondary  School,  North  Building Room No GF-5, Sakkottai-612401","1.Sakkottai  (R.V)  and  (P)  Sri rangarajapuram wd-1  , 2.Sakkottai  (R.V)  and  (P)  Elil nagar wd-1 , 3.Sakkottai  (R.V)  and  (P)  Lakshmi  nagar  wd-2  ,
+4.Sakkottai  (R.V)  and  (P)  pathinoru veli  mainroad wd-2  , 5.Sakkottai  (R.V)  and  (P)  Kosimanai nagar wd-2  , 6.Sakkottai  (R.V)  and  (P)  Co.Opertive  nagar  wd-1 999.OVERSEAS  ELECTORS"
+124,171,123,,"New Panchayat office Building,  East facing,  South  Portion, Annalagraharam-612401","1.Annalakrakaram (R.V) and  (P) Melaathithiravidar  street wd-3  , 2.Annalakrakaram (R.V) and  (P) kaliyamman  kovil street wd-3  , 3.Annalakrakaram (R.V) and  (P) Perumal kovil street wd-1 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+125,171,124,,"V.A.O  Office,  North Facing  Building, Panchayat office Campus, Annalagraharam-612401","1.Annalakrakaram (R.V) and  (P) Melanagathoppu wd-1  , 2.Annalakrakaram (R.V) and  (P) Muthalamman  nagar wd-1 , 3.Annalakrakaram (R.V) and  (P) Main  road  vellalth theru wd-1  , 4.Annalakrakaram (R.V) and  (P) Vaeikankaraitheru wd-1 , 5.Annalakrakaram (R.V) and  (P) Kolipannai  colony  wd-1, 6.Annalakrakaram (R.V) and  (P) Mariamman  koil theru-ward 1  , 7.Annalakrakaram (R.V) and  (P) kelanagathoppu wd-5 999.OVERSEAS  ELECTORS"
+126,171,125,,"Mahalir Panik  koodam, Annalagraharam-612401","1.Annalakrakaram (R.V) and  (P) Korgaimain road wd-2  , 2.Annalakrakaram (R.V) and  (P) Ariyathital,North  street  wd-2  , 999.OVERSEAS  ELECTORS"
+127,171,126,,"Grama  seva  center,  East portion, Annalagraharam-612401","1.Annalakrakaram (R.V) and  (P) kalimuthu nagar wd-2 , 2.Annalakrakaram (R.V) and  (P) T.N.H.Board Bharathidasan  nagar  Balaji 999.OVERSEAS  ELECTORS"
+128,171,127,,"New Liabrary  Building,  Tamilnadu Housing  Unit,  Annalakraharam-612401","1.Annalakrakaram (R.V) and  (P) Uthirapathi nagar wd-2  , 2.Annalakrakaram (R.V) and  (P) Ariyathidal Annadhana
+sivan  koil st,Amman sannathi  st,  W.2 ,
+3.Annalakrakaram (R.V) and  (P) Ariyathital ganapathi  nagr wd-2  , 4.Annalakrakaram (R.V) and  (P) Ariyathital south  street wd-2  , 5.Annalakrakaram (R.V) and  (P) keelaathithiravidar  street wd-2 999.OVERSEAS  ELECTORS"
+129,171,128,,"Community  Organisation  Building, South  Facing  Annalagraharam.
+612401","1.Annalakrakaram (R.V) and  (P) Pookollai  , AmbethkarNagar,  Thiruvalluvar Nagar ,
+999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+130,171,129,,"Panchayat Office,  (Iyyan Thiruvalluvar Padipakam Building), Annalagraharam 612401","1.Annalakrakaram (R.V) and  (P) Puthupillaiyar  kovil street wd-3  , 2.Annalakrakaram (R.V) and  (P) Melalayan street kannaiya  nagar  wd-3 999.OVERSEAS  ELECTORS"
+131,171,130,,"Grama  seva  Center, South  facing west portion, Annalagraharam-612401","1.Annalakrakaram (R.V) and  (P) Mela  street wd-3  , 2.Annalakrakaram (R.V) and  (P) Ganesh  nagar  wd-2  , 3.Annalakrakaram (R.V) and  (P) Kollan  thital wd-2 , 4.Annalakrakaram (R.V) and  (P) Mela  athithiravidar  street wd-3  , 5.Annalakrakaram (R.V) and  (P) Keelalayan street wd-3 , 999.OVERSEAS  ELECTORS"
+132,171,131,,"Samuthaya  Koodam,  Periyar  Nagar, Sakkottai-612401","1.Annalakrakaram (R.V) and  (P) Thiru maignanam keelatheru wd-4 , 2.Annalakrakaram (R.V) and  (P) shithamparanatha  muthalithottam wd-4  , 3.Annalakrakaram (R.V) and  (P) nachiyar  kovil main  road  wd-4  , 4.Annalakrakaram (R.V) and  (P) Thanthai  periyr nagar wd-4 , 5.Annalakrakaram (R.V) and  (P) Ramaiyanagar ganesh  kartan wd-4  , 6.Annalakrakaram (R.V) and  (P) Rajameena  nagar T-Ganapathinagar  wd-4  , 7.Annalakrakaram (R.V) and  (P) Netamangalam mainroad thirumeignanam , 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+133,171,132,,"Integrated Child  Development Program Office,(Rural),Sakkottai-612401","1.Annalakrakaram (R.V) and  (P) Mukuntanallur athithiravida keelatheru melatheru ,
+2.Annalakrakaram (R.V) and  (P) Mugunthanallur  athithiravidar  nadutheru wd-4  , 3.Annalakrakaram (R.V) and  (P) Karuvaithopputheru wd-4,
+4.Annalakrakaram (R.V) and  (P) Aliyan  karaitheru wd-4  , 5.Annalakrakaram (R.V) and  (P) Sutharsananagar  thirumalai nagar  wd-4 6.Annalakrakaram (R.V) and  (P) R.V.Nagar wd-4
+999.OVERSEAS  ELECTORS"
+134,171,133,,"Anganvadi Buidling,Main Road
+,Mathi,  Annalagraharam 612401","1.Mathi  (R.V)  Annalakrakaram(P) Mathi wd-5  , 999.OVERSEAS  ELECTORS"
+135,171,134,,"Village  Administrative  Office,West Facing  Annalagraharam.  612401","1.Mathi  (R.V)  Annalakrakaram(P) Shanthapillai thottam wd-5  ,
+2.Mathi  (R.V)  Annalakrakaram(P) Mathi main  road  wd-5 ,
+3.Mathi  (R.V)  Annalakrakaram(P) R.K.Nagar  wd-5 999.OVERSEAS  ELECTORS"
+136,171,135,,"Panchayat Union  Primary  School, (New Eastern  Building  South Portion),  Darasuram-612702","1  - Kumbakonam (C)  M.G.R..  nagar  ward-31
+2  - Kumbakonam (C)  Old  Agraharam ward-35
+3  - Kumbakonam (C)  New  Agraharam ward-31
+4  - Kumbakonam (C)  Amman  sannathi ward-35
+5  - Kumbakonam (C)  Mallapalayam ward-31
+6  - Kumbakonam (C)  Puliyanthoppu ward-31 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+137,171,136,,"Panchayat Union  Primary  School, (New Western  Building  South Portion),  Darasuram-612702","1  - Kumbakonam (C)  Layankarai ward-31
+2  - Kumbakonam (C)  Attrankarai street ward-31
+3  - Kumbakonam (C)  Kavarai street ward-32
+4  - Kumbakonam (C)  South Vellalar Street ward-32
+5  - Kumbakonam (C)  Railway  colony  ward-33
+6  - Kumbakonam (C)  Railyadi  Athi Dravidar Street ward-33 999.OVERSEAS  ELECTORS"
+138,171,137,,"Panchayat Union  Primary  School, (New Western  Building  (1)  North Portion),  Darasuram-612702","1  - Kumbakonam (C)  Vadakku veethi melpagam ward-32
+2  - Kumbakonam (C)  Kamachi  amman  colony  ward-32
+3  - Kumbakonam (C)  Maravar  street ward-31 999.OVERSEAS  ELECTORS"
+139,171,138,,"Panchayat Union  Primary  School, (New Western  Building  (2)), Darasuram -  612702","1  - Kumbakonam (C)  Kammalar street ward-32
+2  - Kumbakonam (C)  Santhi  nagar  ward-34
+3  - Kumbakonam (C)  Thamarai Kulam Street ward-32 999.OVERSEAS  ELECTORS"
+140,171,139,,"Vai.  Govindhasami Memorial Higher Secondary  School,(  Room No.  5), Darasuram-612702","1  - Kumbakonam (C)  Kalaignar  Colony  ward-33
+2  - Kumbakonam (C)  Ranuva  Colony  ward-33 999.OVERSEAS  ELECTORS"
+141,171,140,,"Vai.  Govindhasami Memorial Higher Secondary  School,  Nabard  Building Room No.1  North  Facing,Darasuram-612702","1  - Kumbakonam (C)  Rajarajan  nagar  ward-33
+2  - Kumbakonam (C)  Thirumanjana  Veethi wd-31
+3  - Kumbakonam (C)  Sriram Nagar wd-31
+4  - Kumbakonam (C)  Periyar Colony  Umachipadugai ward-31 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+142,171,141,,"Vai.  Govindasami Memorial  Higher Secondary  School,  Room No.4, Darasuram-612702","1  - Kumbakonam (C)  Swami  Sannathi ward-33
+2  - Kumbakonam (C)  Vadakku Veethi  Kelpagam ward-35 999.OVERSEAS  ELECTORS"
+143,171,142,,"Vai  Govindasamy  Memorial  Higher Secondary  School,  ( Addl.  Building North Facing,  South  Portion  Fourth Room),Darasuram-612702","1  - Kumbakonam (C)  Nehru Colony  -1  ward-33
+2  - Kumbakonam (C)  Rajiv colony  ward-33
+3  - Kumbakonam (C)  Nehru colony  -2  ward-33
+4  - Kumbakonam (C)  Nerhu Colony  ward-33
+5  - Kumbakonam (C)  Palanivel  nagar  ward-31
+6  - Kumbakonam (C)  Railway  Station Road  ward-32 999.OVERSEAS  ELECTORS"
+144,171,143,,"Vai.  Govindasami Memorial  Higher Secondary  School,Room No.  7, Darasuram-612702","1  - Kumbakonam (C)  Thirukulam Melkarai ward-33
+2  - Kumbakonam (C)  Thirukulam Vadakarai ward-35
+3  - Kumbakonam (C)  Indhira Nagar ward-33 999.OVERSEAS  ELECTORS"
+145,171,144,,"Vai  Govindasamy  Memorial  Higher Secondary  School (  Addl.  Building North Facing,  South  Portion  First Room),Darasuram-612702","1  - Kumbakonam (C)  Pathinalu manai street ward-35
+2  - Kumbakonam (C)  Chakkarayi Amman  Sandhu ward-35
+3  - Kumbakonam (C)  Keelatheru ward  -33 999.OVERSEAS  ELECTORS"
+146,171,145,,"Thiru.Vi.Ka.  Aided  Primary  School, (Northern  Side,  South  Facing Building),  Elumichangapalayam, Darasuram-612702","1  - Kumbakonam (C)  Karpagam Metal colony  ward-31
+2  - Kumbakonam (C)  Kathar  colony  ward-34
+3  - Kumbakonam (C)  Arasalaru Vazhi Natappu ward-35
+4  - Kumbakonam (C)  Elumichangapalayam Factory  Road  ward-34
+5  - Kumbakonam (C)  Selva  Colony  ward-35 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+147,171,146,,"Thiru.Vi.Ka.  Aided  Primary  School, (North Facing  Southern  Side Building,  East  Portion), Elumichangapalayam,Darasuram 612702","1  - Kumbakonam (C)  Ponnimman  Kovil Street ward-34
+2  - Kumbakonam (C)  Kalimuthu Nagar ward-34
+3  - Kumbakonam (C)  Elumichangapalayam Melatheru ward-34 999.OVERSEAS  ELECTORS"
+148,171,147,,"Vai  Govindasamy  Memorial  Higher Secondary  School,  (Old  Building Southern  side  Building  North Facing Western Side Last Room), Darasuram-612702","1  - Kumbakonam (C)  Machine  Street ward-35
+2  - Kumbakonam (C)  Lakhmi  nagar  ward-34 999.OVERSEAS  ELECTORS"
+149,171,148,,"Thiru Vi  Ka  Aided  Primary  School, (North Facing  Building  West Portion), Elumichangapalayam,Darasuram 612702","1  - Kumbakonam (C)  Elumichangapalayam Keelatheru ward-34
+2  - Kumbakonam (C)  Thirivalluvar  Nagar  ward-34
+3  - Kumbakonam (C)  Elumichangapalayam Bharathi  Nagar  ward-35 999.OVERSEAS  ELECTORS"
+150,171,149,,"Panchayat Union  Elementary  School, ( New  West Facing  Eastern  Building Northern  Portion  ),Darasuram 612702","1  - Kumbakonam (C)  Ponniyamman  koil theru ward-34
+2  - Kumbakonam (C)  Darasuram Keezhaveethi ward-35
+3  - Kumbakonam (C)  Darasuram Vadakku Veethi  ward-35
+4  - Kumbakonam (C)  Pathinangu Manai  theru ward  - 35
+5  - Kumbakonam (C)  Sami  Sannathi ward-33
+6  - Kumbakonam (C)  Vinayagar colony  wd-34 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+151,171,150,,"Panchayat Union  Primary  School, (West Facing  Last East Building),Darasuram 612702","1  - Kumbakonam (C)  Gurunathar pillai colony  ward-33
+2  - Kumbakonam (C)  Vani  Nagar ward-33
+3  - Kumbakonam (C)  Vellalar theru ward-32
+4  - Kumbakonam (C)  Railway  Colony  ward-32
+5  - Kumbakonam (C)  Maravar  Theru ward-31
+6  - Kumbakonam (C)  M.G.R Nagar  ward-31 999.OVERSEAS  ELECTORS"
+152,171,151,,"Panchayat Union  Middle  School, (South  Building),  Cholan  Maligai 612703","1.Solan  malaigai  (R.V) and  (P)  Kelastreet wd-3  ,
+2.Solan  malaigai  (R.V) and  (P)  Nadustreet wd-2  ,
+3.Solan  malaigai  (R.V) and  (P)  South street wd-2 , 999.OVERSEAS  ELECTORS"
+153,171,152,,"Panchayat Union  Middle  School, (South  Facing,  North side  Second Building),  Cholan  Maligai  612703","1.Solan  malaigai  (R.V) and  (P)  Melastreet wd-2  ,
+2.Solan  malaigai  (R.V) and  (P)  North  street  wd-3  ,
+3.Solan  malaigai  (R.V) and  (P)  Kalaignar  colony  wd-3 999.OVERSEAS  ELECTORS"
+154,171,153,,"Panchayat Union  Middle  School, (Eastern  Building-  West facing, Cholan  Maligai-612703","1.Solan  malaigai  (R.V) and  (P)  Arichandhirapuram wd-1  ,
+2.Solan  malaigai  (R.V) and  (P)  Periyar nagar wd-1  ,
+3.Solan  malaigai  (R.V) and  (P)  Anna  nagar wd-1  ,
+4.Solan  malaigai  (R.V) and  (P)  Kelastreet wd-1  ,
+5.Solan  malaigai  (R.V) and  (P)  Dhurairethinam pillaistreet wd-1 999.OVERSEAS  ELECTORS"
+155,171,154,,"Panchayat Union  Primary  School, West Facing  East Building Pambapadaiyur-612703","1.Ariyapadai  veedu (R.V)  and  (P)  Mulaiur wd-2  , 2.Ariyapadai  veedu (R.V)  and  (P)  Samuthuvapuram wd-3  ,
+3.Ariyapadai  veedu (R.V)  and  (P)  Pampapataiur kalaignar  colony  wd-1 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+156,171,155,,"Panchayat Union  Primary  School, East  Facing  Middle Room, Pambapadaiyur-612703","1.Ariyapadai  veedu (R.V)  and  (P)  Indhiracolony  wd-2  ,
+2.Ariyapadai  veedu (R.V)  and  (P)  Pampapataiur kutiyanastreet wd-1 999.OVERSEAS  ELECTORS"
+157,171,156,,"Panchayat Union  Primary  School, East  Facing  North  Side  Room.
+Pambapadaiyur-612703","1.Cholan  Maligai (R.V)  and  (P)  Vallalar  kovil street wd-3  ,
+2.Ariyapadaiveedu (R.V)And(P)  Thennur  Kudiyana  Street Adidravidar  Street Wd  1 999.OVERSEAS  ELECTORS"
+158,171,157,,"Panchayat Union  Primary  School, New building,  Ariyapadaiveedu-612703","1.Ariyapadai  veedu (R.V)  and  (P)  Ariyapatai vedu,athithiravidar street wd-3  , 2.Ariyapadai  veedu (R.V)  and  (P)  Ariyapatai vedu kutiyanatheru wd-3 999.OVERSEAS  ELECTORS"
+159,171,158,,"Panchayat Union  Primary  School, (West Facing  South Side Room), Keelakorukkai-612401","1.Mela  Korukkai  (R.V)  Korukkai  (P) Puthucheri  wd-2  ,
+2.Mela  Korukkai  (R.V)  Korukkai  (P) Dhuraiur  vilvarayanallur wd-3  ,
+3.Mela  Korukkai  (R.V)  Korukkai  (P) Reddypalayam,akkaraivilvarayanallur  wd-3 999.OVERSEAS  ELECTORS"
+160,171,159,,"Panchayat Union  Primary  School, West Facing  Building,  Keelakorukkai-612401","1.Mela  Korukkai  (R.V)  Korukkai  (P) Melakorukkai south  street,  wd-1 ,
+2.Mela  Korukkai  (R.V)  Korukkai  (P) Vellalar street wd-2  ,
+3.Mela  Korukkai  (R.V)  Korukkai  (P) Udaiyar  theru ward-2  ,
+4.Mela  Korukkai  (R.V)  Korukkai  (P) Pattiesvaram main  road  wd-1 ,
+5.Mela  Korukkai  (R.V)  Korukkai  (P) Bharathi nagar  wd-2  ,
+6.Mela  Korukkai  (R.V)  Korukkai  (P) Pannerselvam colonywd-2 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+161,171,160,,"Panchayat Union  Primary  School, (West Facing  North  Side  Room), Keelakorukkai-612401","1.Keela  Korukkai  (R.V)  Korukkai  (P) Korugai thottam  wd-4  ,
+2.Keela  korukkai  (r.v) korukkai (p)  Shivan  nadutheru wd-4  ,
+3.Keela  Korukkai  (R.V)  Korukkai  (P) Patesvaaram main  road  wd-4 999.OVERSEAS  ELECTORS"
+162,171,161,,"Panchayat Union  High School,  New East  Building  South  facing,  East portion,  Keelakorukkai-612401","1.Keela  Korukkai  (R.V)  Korukkai  (P) Kumbakonam main  road  wd-4  ,
+2.Keela  Korukkai  (R.V)  Korukkai  (P) Akraharam wd-4  ,
+3.Keela  Korukkai  (R.V)  Korukkai  (P) Perumal koeil street wd-4 ,
+4.Keela  Korukkai  (R.V)  Korukkai  (P) Kelatheru wd-4  ,
+5.Keela  Korukkai  (R.V)  Korukkai  (P) Porkollakudi  wd-1 999.OVERSEAS  ELECTORS"
+163,171,162,,"Panchayat Union  Primary  School, Old  South  Building,  South  facing, Karuvilacheri-612402","1.Maruthanallur  (R.V)  and  (P)  NOrth  street wd-1  , 2.Maruthanallur  (R.V)  and  (P)  Kulathankarai street wd-1  , 3.Maruthanallur  (R.V)  and  (P)  Kelatheru wd-1 , 4.Maruthanallur  (R.V)  and  (P)  Melatheru wd-2 , 5.Maruthanallur  (R.V)  and  (P)  Shenivasapuram wd-2 ,
+6.Maruthanallur  (R.V)  and  (P)  Seenivasapuram colony  street wd-2 999.OVERSEAS  ELECTORS"
+164,171,163,,"Aided  Primary  School (South portion),  Maruthanallur  - 612402","1.Maruthanallur  (R.V)  and  (P)  Shivan  koeil street wd-3 , 2.Maruthanallur  (R.V)  and  (P)  Mainroad wd-3  , 3.Maruthanallur  (R.V)  and  (P)  Karikulam street wd-3 , 4.Maruthanallur  (R.V)  and  (P)  Akraharam street wd-3  , 5.Maruthanallur  (R.V)  and  (P)  South street wd-3  , 6.Maruthanallur  (R.V)  and  (P)  kaliyamman  koeil street wd-3 , 7.Maruthanallur  (R.V)  and  (P)  Melpathi  wd-4  999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+165,171,164,,"Aided  Primary  School,  (North Portion),  Maruthanallur  - 612402","1.Maruthanallur  (R.V)  and  (P)  Nanthivanam main  road  wd-4 , 2.Maruthanallur  (R.V)  and  (P)  Perumal  kovil street wd-4, 3.Maruthanallur  (R.V)  Korukkai  (P) nanthivanam colony  wd-4 999.OVERSEAS  ELECTORS"
+166,171,165,,"Vai  Narayanan  Memorial Government High School,  (South facing  Building,  Middle  portion  Room no :  3),  Thippirajapuram -  612402","1.Thippirajapuram (R.V)  and  (P)  Keelachethistreet wd-1  , 2.Thippirajapuram (R.V)  and  (P)  Kathirikalam wd-1 999.OVERSEAS  ELECTORS"
+167,171,166,,"Vai  Narayanan  Memorial Government High School,  (South facing  Building,  East  portion  Room no :  7),  Thippirajapuram -  612402","1.Thippirajapuram (R.V)  and  (P)  Senniyamangalam wd-2  , 2.Thippirajapuram (R.V)  and  (P)  Thippirajapuram East wd-2  , 3.Thippirajapuram (R.V)  and  (P)  Kuchipalayam street  wd-1 999.OVERSEAS  ELECTORS"
+168,171,167,,"Panchayat Union  Primary  School, (South  Facing New  Building  North Portion),Thippirajapuram -  612402",1.Thippirajapuram (R.V)  and  (P)  Akraharam wd-3 999.OVERSEAS  ELECTORS
+169,171,168,,"Panchayat Union  Primary  School, (East Facing 5th  Class  Room,  West Portion),Thippirajapuram -  612402",1.Thippirajapuram (R.V)  and  (P)  Main  road  wd-4 999.OVERSEAS  ELECTORS
+170,171,169,,"Panchayat Union  Primary  School, Western facing  Additional  East building,  Rettipalayam,  Seshambadi-612703","1.Sheshampadi (R.V) and  (P) Sesampadi kutiyanastreet  wd-1  , 2.Sheshampadi (R.V) and  (P) Sesampadi south  street wd-1  , 3.Sheshampadi (R.V) and  (P) Antithoppu wd-1  ,
+4.Sheshampadi (R.V) and  (P) Reddypalayam athithiravidar street wd-1  , 5.Sheshampadi (R.V) and  (P) Reddypalayam kutiyanavar street wd-1 , 6.Sheshampadi (R.V) and  (P) Moopakovil  athithiravidar  street wd-2 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+171,171,170,,"Panchayat Union  Middle  School, (Additional New Building  west portion),Nathankoil 612703","1.Sheshampadi (R.V) and  (P) Moopakovil  kutiyanavar street wd-2 , 2.Sheshampadi (R.V) and  (P) Nathankovil North  veethi wd-2  , 3.Sheshampadi (R.V) and  (P) Nathankovil south  veethi  wd-2  , 4.Sheshampadi (R.V) and  (P) Nathankovil keelaveethi  wd-2  , 5.Sheshampadi (R.V) and  (P) Nathankovil melaveethi  wd-2  , 6.Sheshampadi (R.V) and  (P) Nathankovil atrangaraistreet   wd-2  , 7.Sheshampadi (R.V) and  (P) Nathankovilcolony  street wd-2 999.OVERSEAS  ELECTORS"
+172,171,171,,"Village  Panchayat Seva  Center Building,  Keelapalayar-612703","1.Keelapalaiyar  (R.V)  and  (P)  Kelapalaiyar keelaathithiravidar street wd-1 , 2.Keelapalaiyar  (R.V)  and  (P)  Keelapalaiyar Main road wd-1  , 3.Keelapalaiyar  (R.V)  and  (P)  Keelapalaiyar Kelatheu vallalar street wd-1-1  , 4.Keelapalaiyar  (R.V)  and  (P)  Keelapalaiyar melastreet wd-1  ,
+5.Keelapalaiyar  (R.V)  and  (P)  Keezhapazhayar south  st.,  Somalinga  nagar,W.1  , 6.Keelapalaiyar  (R.V)  and  (P)  Kelapalaiyar annanagar  kaliyamman  koil street , 999.OVERSEAS  ELECTORS"
+173,171,172,,"Community  Hall,  Mandagamedu, Keelapalayar  612703","1.Keelapalaiyar  (R.V)  and  (P)  Mantakamedu kela athithiravidar  street wd-2  , 2.Keelapalaiyar  (R.V)  and  (P)  Mantagamedu kutiyanastreet wd-2  , 3.Keelapalaiyar  (R.V)  and  (P)  Mantagamedu puthutheru wd-2 , 4.Keelapalaiyar  (R.V)  and  (P)  Melapalayar athithiravidar  street wd-2  , 5.Keelapalaiyar  (R.V)  and  (P)  melapalayar  kutiyanatheru wd-2  , 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+174,171,173,,"Panchayat Union  Middle  School, (VIIth  Class East Facing), Thenampadugai -612703","1.Thenampadugai  Thattimal  (R.V)  Thenampadugai (P) Thopputheru wd-1  , 2.Thenampadugai  Thattimal  (R.V)  Thenampadugai (P)
+Athithiravidar  street,  Nadustreet wd-1  , 3.Thenampadugai  Thattimal  (R.V)  Thenampadugai (P)
+Athithiravidar  street North  street wd-1  , 4.Thenampadugai  Thattimal  (R.V)  Thenampadugai (P)
+Athithiravidar  colony  street wd-1  ,
+5.Thenampadugai  Thattimal  (R.V)  Thenampadugai (P) Kotiyapadugai  wd-2  , 6.Thenampadugai  Thattimal  (R.V)  Thenampadugai (P)
+Kotiyapadugai athithiravidar  street wd-2 999.OVERSEAS  ELECTORS"
+175,171,174,,"Panchayat Union  Middle  School, (West Building),Thenampadugai - 612703","1.Thenampadugai  Thattimal  (R.V)  Thenampadugai (P) Mottalamaram wd-2  , 2.Thenampadugai  Thattimal  (R.V)  Thenampadugai (P) Thaddumalpadugai  wd-2  , 3.Thenampadugai  Thattimal  (R.V)  Thenampadugai (P) Thenampadugai melatheru, nadutheru kelatheru wd-1
+999.OVERSEAS  ELECTORS"
+176,171,175,,"Panchayat Union  Primary  School, West facing  East  Building  (Library Backside),  Udaiyalur-612804","1.Udaiyalur  (R.V) and (P) Antithoppu wd-1  , 2.Udaiyalur  (R.V) and (P) Anna nagar puthutheu wd-1 ,
+3.Udaiyalur  (R.V) and (P) Annanagar  north,  Annanagar south  wd-1  , 4.Udaiyalur  (R.V) and (P) Mannatitheru wd-2
+999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+177,171,176,,"Panchayat Union  Primary  School, West facing  Library  Building, Udaiyalur-612804","1.Udaiyalur  (R.V) and (P) Thiroupathi  amman  koeil street wd-2 , 2.Udaiyalur  (R.V) and (P) Ottanthoppu wd-2  ,
+3.Udaiyalur  (R.V) and (P) Kangeyampattai mainroad  wd-2  , 4.Udaiyalur  (R.V) and (P) Kankeyampattai  athithiravidar street wd-2  , 5.Udaiyalur  (R.V) and (P) Atrangarai street wd-2
+999.OVERSEAS  ELECTORS"
+178,171,177,,"Panchayat Union  Primary  School, North facing  South  Building, Udaiyalur-612804","1.Udaiyalur  (R.V) and (P) Rajaveethi  wd-1  , 2.Udaiyalur  (R.V) and (P) Melatheru wd-1 , 3.Udaiyalur  (R.V) and (P) Kataitheu wd-2 ,
+4.Udaiyalur  (R.V) and (P) Kulathngarai street karuvaithoppu wd-3  , 5.Udaiyalur  (R.V) and (P) Akraharam street wd-3  ,
+6.Udaiyalur  (R.V) and (P) Kelatheru,Sekkatitheru,  Potrankulam wd-3 999.OVERSEAS  ELECTORS"
+179,171,178,,"Aided  Middle School,  ( North Side Front Portion),Madagudi  612402","1.Thillaiyambur  (R.V)  and  (P)  Madakuddi,Visalur  Road,Ward-1  , 2.Thillaiyambur  (R.V)  and  (P)  Madakudi main  road  wd-1 , 3.Thillaiyambur  (R.V)  and  (P)  Matakudi  vellalar street wd-1 , 4.Thillaiyambur  (R.V)  and  (P)  Matakudi  athithiravidar  street wd-1 999.OVERSEAS  ELECTORS"
+180,171,179,,"Aided  Middle School,  ( North Side Back  Portion),  Madagudi  612402","1.Thillaiyambur  (R.V)  and  (P)  Madakudi sanaratheru wd-1  , 2.Thillaiyambur  (R.V)  and  (P)  Madakudi chinnathangarai wd-2  , 3.Thillaiyambur  (R.V)  and  (P)  Madakudi seniyatheru wd-2  , 4.Thillaiyambur  (R.V)  and  (P)  Madakudi neduvalistreet wd-2  , 5.Thillaiyambur  (R.V)  and  (P)  Madakudi antithoppu wd-2 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+181,171,180,,"Panchayat Union  Primary  School, (Eastern  Building) ,  Thillaiyambur 612804","1.Thillaiyambur  (R.V)  and  (P)  Pillaiyar kovil  street wd-3 , 2.Thillaiyambur  (R.V)  and  (P)  Thillaiyampur  main  road  wd-3  , 3.Thillaiyambur  (R.V)  and  (P)  Thillaiyampur  akrakaram wd-3  , 4.Thillaiyambur  (R.V)  and  (P)  Thillaiyampur  ambalakarastreet wd-3  , 5.Thillaiyambur  (R.V)  and  (P)  Thillaiyampur  pudhutheu wd-3  , 6.Thillaiyambur  (R.V)  and  (P)  Thillaiyampur  Athithiravidar  Street wd-3 , 7.Thillaiyambur  (R.V)  and  (P)  Thillaiyampur  layam wd-3 999.OVERSEAS  ELECTORS"
+182,171,181,,"Mydeen Matriculation Higher Secondary  School,  Room No.3  East Street,  Melacauvery  612002","1.Kumbakonam (C)  Mohamathiyar  North  Street wd-3  , 2.Kumbakonam (C)  Mohamathiyar  Pallivasal Street wd-3  , 3.Kumbakonam (C)  Mohamathiyar  New  Street wd-3  , 4.Kumbakonam (C)  Esmp  Nagar  wd-3
+5.Kumbakonam (C)  Mohamathiyar  Main  Road  (Door  no 61  to 120) wd-3  , 999.OVERSEAS  ELECTORS"
+183,171,182,,"Mydeen Matriculation Higher Secondary  School,  Room No.4  East Street,  Melacauvery  612002","1.Kumbakonam (C)  Mohamathiyar  Main  Road  (Door  no 1  to 60)  wd-3  , 2.Kumbakonam (C)  Mohamadhu Serip Nagar ward-5
+999.OVERSEAS  ELECTORS"
+184,171,183,,"North  Corporation  Elementary School,(West Facing  New  Building), EastkudiyanaStreet,  Melacauvery 612002","1.Kumbakonam (C)  Melacauvery  North Street wd-3  , 2.Kumbakonam (C)  1st street (Muthalistreet)wd-3  , 3.Kumbakonam (C)  Melacauvery  North Street wd-3 999.OVERSEAS  ELECTORS"
+185,171,184,,"North  Corporation  Elementary School,(West Facing  North  Side  New Building) Keela  Kudiyana  Street Melacauvery-612002","1.Kumbakonam (C)  Melacauvaery  First street wd-3  , 2.Kumbakonam (C)  Melacauvery  2nd  street wd-3 , 3.Kumbakonam (C)  Melacauvery  kalaiyamman koil  Street  wd-3  , 4.Kumbakonam (C)  melacauvery  2nd  Main Road  wd-3  , 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+186,171,185,,"Government Arts College (Autonomous),  North  Building  MA Tamil Dept,  Karuppur  road, Kumbakonam -  612002","1.Kumbakonam (C)  Saminathan Nagar wd-6 , 2.Kumbakonam (C)  College Road  wd-6 , 3.Kumbakonam (C)  Karuppur  Salai  wd-6  , 4.Kumbakonam (C)  Cholan  Nagar  wd-6  , 5.Kumbakonam (C)  Attrankarai  Salai  wd-7  , 6.Kumbakonam (C)  Pagametu Thital wd-6 999.OVERSEAS  ELECTORS"
+187,171,186,,"Government Arts College (Autonomous),  I  C  T  - 3  East Side Building,  Karuppur  road, Kumbakonam -  612002","1  - Kumbakonam (C),  M.M.R Nagar  wd-6
+2  - Kumbakonam (C),  Udaiyar  Palayam Road  wd-6
+3  - Kumbakonam (C),  Karuppur  Road  wd-6
+4  - Kumbakonam (C),  Chennai Salai  wd-6
+5  - Kumbakonam (C),  K.P.R.  Nagar  wd-6
+6  - Kumbakonam (C),  Palakarai Kadaitheru ward-6 999.OVERSEAS  ELECTORS"
+188,171,187,,"Government Arts College (Autonomous),  MCA II  Dept South facing  building,  Karuppur  road, Kumbakonam -  612002","1  - Kumbakonam (C),  M.G.R.Nagar wd-6
+2  - Kumbakonam (C),  Palakarai New  Street wd-6
+3  - Kumbakonam (C),  Perumandi Road  wd-6
+4  - Kumbakonam (C),  Old  Palakkarai Kallaputhu Theru wd-6 999.OVERSEAS  ELECTORS"
+189,171,188,,"Government Arts College (Autonomous),  I  C  T  - 3  south  Side Building  west facing,  Karuppur road, Kumbakonam -  612002","1  - Kumbakonam (C),  Palakarai Thidal  ward-6
+2  - Kumbakonam (C),  Perumandi south  street ward-5
+3  - Kumbakonam (C),  Ayyanar  kovil Vali Nadappu wd-6 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+190,171,189,,"Government Arts College (Autonomous),  MCA III  Dept South facing  building,  Karuppur  road, Kumbakonam -  612002","1  - Kumbakonam (C),  Madhakoil  Street wd-5
+2  - Kumbakonam (C),  Perumandi Street wd-5
+3  - Kumbakonam (C),  Pattakal East Street wd-5
+4  - Kumbakonam (C),  Perumandi Middle Street wd-5 999.OVERSEAS  ELECTORS"
+191,171,190,,"TAN ACADEMY matric  Higher Secondary  School,  ( East Building, West facing  south portion)  Srinagar colony 1-main road,  Kumbakonam - 612001","1  - Kumbakonam (C),  Doctor Moorthi Road  (House no.  1-46) Muthalanavai  Ward-8
+2  - Kumbakonam (C),  Periyar  Nagar  ward-8
+3  - Kumbakonam (C),  Cauvery  Nagar  wd-7 999.OVERSEAS  ELECTORS"
+192,171,191,,"TAN ACADEMY matric  Higher Secondary  School,  ( East Building, West facing  middle portion) Srinagar colony 1-main road,  Kumbakonam - 612001","1  - Kumbakonam (C),  Sellam Nagar wd-7
+2  - Kumbakonam (C),  Periyathambi  Nagar  wd-7
+3  - Kumbakonam (C),  Sabari  nagar  wd-7
+4  - Kumbakonam (C),  Sangar Ayyar  Thottam wd-7
+5  - Kumbakonam (C),  Cauvery  karai  Street wd-7
+6  - Kumbakonam (C),  Sri  Sakkara  Nagar wd-7 999.OVERSEAS  ELECTORS"
+193,171,192,,"TAN ACADEMY matric  Higher Secondary  School,  ( North Building, South  facing  East portion) Srinagar colony 1-main road,  Kumbakonam - 612001","1  - Kumbakonam (C),  Thiruvalluvar Nagar wd-7
+2  - Kumbakonam (C),  Periya  Thambi  Nagar  wd-7 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+194,171,193,,"TAN ACADEMY matric  Higher Secondary  School,  ( West Building, East  facing  North  portion) Srinagar colony 1-main road,  Kumbakonam - 612001","1  - Kumbakonam (C),  Subramaniyapuram nagar ward-8
+2  - Kumbakonam (C),  Arokkiya  Annai  Nagar  ward-8
+3  - Kumbakonam (C),  Ayyappan Nagar ward -20
+4  - Kumbakonam (C),  Kamaraj Colony  ward-8
+5  - Kumbakonam (C),  Housing  Unit ward-8
+6  - Kumbakonam (C),  Durga Nagar ward-8 999.OVERSEAS  ELECTORS"
+195,171,194,,"Saraswathi  Pada  Sala  Girls  Higher Secondary  School,  lakshmi block, East  portion,  Banadurai  Road, Kumbakonam 612001","1  - Kumbakonam (C),  Baktha  Puri Street ward-9
+2  - Kumbakonam (C),  Mydeen Colony  ward-9
+3  - Kumbakonam (C),  Tholaipesi  Paniyalar  kudiruppu ward-9
+4  - Kumbakonam (C),  Pakthapuri Back  Side ward-9
+5  - Kumbakonam (C),  Shagojee Back-Side ward-9 999.OVERSEAS  ELECTORS"
+196,171,195,,"Saraswathi  Pada  Salai  Girls Higher Secondary  School,  Lakshmi Block, Room No.  4, Banadurai Road,Kumbakonam 612001","1.Kumbakonam (C)  15th  Street  (Panadurai Kuyavan  Salai Street) ward-8  , 2.Kumbakonam (C)  16th  Street  (Panadurai kuyavan  Street ) ward-8  , 3.Kumbakonam (C)  Panadurai  Pathukattu Street  wd-19
+999.OVERSEAS  ELECTORS"
+197,171,196,,"Kamarajar  Muncipal  high  School, New Building  Room No.4,  South Facing  East Side,Mohamed  Ali road, Melacauvery  -  612002","1  - Kumbakonam (C),  Melacauvery  3rd Street wd-3
+2  - Kumbakonam (C),  Melacauvery  East Street ward-4
+3  - Kumbakonam (C),  Vaikol  kattukara  Street ward-4
+4  - Kumbakonam (C),  Birmeshdirapuram Street wd-5 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+198,171,197,,"Kamarajar  Muncipal  Elementary School,  New Building  North Facing East  Portion  Room No  2,  Mohamed ali  road,  Melacuvery, Kumbakonam-612002,  Kumbakonam-612002","1  - Kumbakonam (C),  Mohamed  Ali Road wd-4
+2  - Kumbakonam (C),  Rakoji Street wd-4
+3  - Kumbakonam (C),  Chekkadi  Street wd-4 999.OVERSEAS  ELECTORS"
+199,171,198,,"Kamarajar  Muncipal  high  School, New Building  South  facing  Room No.2, Mohamed  Ali road, Melacauvery  -  612002","1  - Kumbakonam (C),  Birmeshdirapuram Vali Nadappu ward-5
+2  - Kumbakonam (C),  Perumandi North  Street wd-5
+3  - Kumbakonam (C),  Perumandi West  Street  wd-5
+4  - Kumbakonam (C),  Perumandi Mariyamman  koil Street wd-5
+5  - Kumbakonam (C),  Sakojee  Street wd-4
+6  - Kumbakonam (C),  Melacauvery  Road wd-4 999.OVERSEAS  ELECTORS"
+200,171,199,,"City  Municipal Corporation Middle School,  South  facing  North  Building, East  Portion,  Room No.9, Keezhakottaiyur  - 612002","1  - Kumbakonnam (C),  Swamimalai Main  Road wd-1
+2  - Kumbakonnam (C),  Melakottaiyur  Middle  Street wd-1
+3  - Kumbakonnam (C),  Kuttikalyanaraman  Nagar  wd-1 999.OVERSEAS  ELECTORS"
+201,171,200,,"City  Municipal Corporation Middle School,  South  facing  Northern Building,  Eastern  side,  Room No.10, Keezhakottaiyur  - 612002","1  - Kumbakonam (C),  Melakotaiyur  Melaveedhi wd-1
+2  - Kumbakonnam (C),  Melakottaiyur  North  Street wd-1
+3  - Kumbakonnam (C),  Melakottaiyur  Muduku Street wd-1
+4  - Kumbakonnam (C),  Melakottaiyur  South  Street wd-1
+5  - Kumbakonnam (C),  South  Ottha  Street wd-1
+6  - Kumbakonnam (C),  Melakottaiyur  West Street wd-1
+7  - Kumbakonnam (C),  Melakottaiyur  Thoppu Street wd-1 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+202,171,201,,"City  Municipal Corporation Middle School,  North  side  Building  (Room No.1),  Keezhakottaiyur  - 612002","1  - Kumbakonam (C),  Krishnan  koil West Street wd-1
+2  - Kumbakonam (C),  Krishnan  koil Sannathi  Street wd-1
+3  - Kumbakonam (C),  Krishnan  koil Vali  Nadappu wd-1
+4  - Kumbakonam (C),  Kodeeswaran  South  Street wd-1
+5  - Kumbakonam (C),  Kodeeswaran  North  Street wd-1
+6  - Kumbakonam (C),  Kodeeswaran  Sannathi wd-1
+7  - Kumbakonam (C),  Kodeeswaran  keela  veethi  wd-1
+8  - Kumbakonam (C),  Kottaiyur South  Street wd-1
+9  - Kumbakonam (C),  Moopakkoil South  Street ward-2 999.OVERSEAS  ELECTORS"
+203,171,202,,"City  Municipal Corporation Middle School,  North  side  Building  (Room No.4),  Keezhakottaiyur  - 612002","1  - Kumbakonam (C),  Krishnan  koil North wd-1
+2  - Kumbakonam (C),  Moopakoil North  Street ward-2
+3  - Kumbakonam (C),  Moopakoil Babukulam Vali  Nadappu wd-2
+4  - Kumbakonam (C),  Kottaiyur West Street wd-1
+5  - Kumbakonam (C),  Sarvamaniya  kottaiyur  North  Street wd-1
+6  - Kumbakonam (C),  Sarvamaniya  kottaiyur  East Street wd-1 999.OVERSEAS  ELECTORS"
+204,171,203,,"Vallalar Higher  Secondary  School, west Building,south  Portion,  Room No 9  (9A),  Keelakottaiyur-612002","1.Kumbakonam(C) Moopakoil Street wd-2  , 2.Kumbakonam(C) Erakaram vali Natappu Street wd-2  , 3.Kumbakonam(C) Korukkai Thottam wd-2  , 4.Kumbakonam(C) Kuppusami Street wd-2  , 5.Kumbakonam (C)  Amarentherapura  Street wd-2 , 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+205,171,204,,"Vallalar Higher  Secondary  School, (East Facing west Building  First Block South  side  Room), Keelakottaiyur-612002","1  - Kumbakonam(C),  Melacauvery  Swamimalai Main  Road  ward-4
+2  - Kumbakonam(C),  Melacauvery  Mariyamman  koil  Street ward-4
+3  - Kumbakonam(C),  Moopakovil Mela  Street -B  wd-2
+4  - Kumbakonam(C),  Moopakoil West Street -A wd-2
+5  - Kumbakonam(C),  Thaikkal  Lane wd-2
+6  - Kumbakonam (C),  Nahoor  Andavar  Nagar  wd-2
+7  - Kumbakonam (C),  Puliyanthoppu wd-2
+8  - Kumbakonam (C),  Anjalakara Street ward-4
+9  - Kumbakonam (C),  Arivoli Nagar wd-2 999.OVERSEAS  ELECTORS"
+206,171,205,,"Vallalar Higher  Secondary  School, East  Wing,  Middle  Portion,  Room No.19 (11A),  Keelakottaiyur-612002","1.Kumbakonam (C)  Sarvamanya  mela  street ward-4  , 2.Kumbakonam (C)  Sarvamaniya  East Street ward-4  , 3.Kumbakonam (C)  Yanaiyadi  Ayyanar Koil Street ward-2  , 4.Kumbakonam (C)  Moopakoil West  Street  ward-2  ,
+5.Kumbakonam (C)  Chetti Lane (Sharvamaniya  East Street) ward-4  , 6.Kumbakonam (C)  Kailasanadhar  Sannathi  Street  ward-4 999.OVERSEAS  ELECTORS"
+207,171,206,,"Solaiappa  Municipal  Primary  School, North Facing  New  Building  East Side Room No.4,  Narayanan Street, Kumbakonam-612002",1.Kumbakonam (C)  Solaiyappan Street (Door  no 11 to 191)  wd-13 999.OVERSEAS  ELECTORS
+1,171,2,,3,4
+208,171,207,,"Solaiappa  Municipal  Primary  School North Facing  New  Building,  Middle Portion Room No.3,  Narayanan Street,  Kumbakonam-612002","1.Kumbakonam (C)  Visvanathar Colony  ward-13  , 2.Kumbakonam (C)  8-Padidurai  ward-13  , 3.Kumbakonam (C)  Layankarai ward-13 , 4.Kumbakonam (C)  4th padidurai ward-13  , 5.Kumbakonam (C)  Kamakodi  Nagar  ward-13
+6.Kumbakonam (C)  Solaiyappan Street (Door  no 1  to 10)  Govintha  Deetchitar thottam ward-13
+999.OVERSEAS  ELECTORS"
+209,171,208,,"Solaiyappa Municipal Elementary School West  Building, Narayanan Street,Kumbakonam-612002","1  - Kumbakonam (C),  Sethu Bava  Swami Street wd-12
+2  - Kumbakonam (C),  Krishnan  Street wd-12
+3  - Kumbakonam (C),  Kumbeshwarar  Thirumanjana  Veethi wd-12
+4  - Kumbakonam (C),  Kumbeshvarar  keela  Lane  wd-12
+5  - Kumbakonam (C),  6th  Street (Reddyrayarkulam North)  wd-12
+6  - Kumbakonam (C),  Cauvery  karai  Street wd-12
+7  - Kumbakonam (C),  Narayanan  Street wd--12 999.OVERSEAS  ELECTORS"
+210,171,209,,"Solaiyappa Municipal Elementary School,  North  facing,  New  building, West side  Room No.2,  Narayanan Street,Kumbakonam-612002","1  - Kumbakonam (C),  Varagakulam East  ward-13
+2  - Kumbakonam (C),  7th  Street (Reddyrayarkulam West) Ward-13
+3  - Kumbakonam (C),  9th  Street (Reddyrayarkulam East)ward-13
+4  - Kumbakonam (C),  Varagakulam North  ward-13
+5  - Kumbakonam (C),  Viyasar  Street ward-13
+6  - Kumbakonam (C),  8th  street (  reddyrayar  kulam south) ward-13
+7  - Kumbakonam (C),  Varagakulam South  ward-13 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+211,171,210,,"Sri  Sankara  vidyalaya  Primary  And Nursery  School,  Venkatraman  Street Room No.3,  Kumbakonam-612002","1.Kumbakonam (C)  4th Street (East ayyan  street )  ward-12  , 2.Kumbakonam (C)  Appukuti  Lane ward-12 , 3.Kumbakonam (C)  Vengatraman Street ward-12 , 4.Kumbakonam (C)  Balu Street ward-11  ,
+5.Kumbakonam (C)  5th Street ward-12 6.Kumbakonam (C)  Rengar  Street ward-10  , 7.Kumbakonam (C)  Dapir West Street ward-11 , 8.Kumbakonam (C)  Udaiyar Colony  ward-10  , 999.OVERSEAS  ELECTORS"
+212,171,211,,"Native Higher  Secondary  School,  XII-A Room No.11,  Kumbakonam-612001","1  - Kumbakonam (C),  Chakkarapani Thirumanchana  Veethi ward--12
+2  - Kumbakonam (C),  Yaga  Salai  Street  wd--12
+3  - Kumbakonam (C),  Chakkarapani Mela  Sannathi  ward-12
+4  - Kumbakonam (C),  Chakkarapani East Street ward--11
+5  - Kumbakonam (C),  Chakkarapani Keela Sananthi ward-11
+6  - Kumbakonam (C),  Karnakollai North  Street ward-11
+7  - Kumbakonam (C),  Chakkarapani koil  Mela Madavilagam wd-12 999.OVERSEAS  ELECTORS"
+213,171,212,,"Native Higher  Secondary  School, Room No.9,  Staff  Room,  western wing,  middle  of  the  place, Kumbakonam-612001",1.Kumbakonam (C)  Kamachi  Josiyar  Street wd-11 999.OVERSEAS  ELECTORS
+1,171,2,,3,4
+214,171,213,,"Municipal Town  Elementary  School, 1st,2nd,3rd  Class Room,  Kamatchi Josier  Street,Kumbakonam-612001","1.Kumbakonam (C)  Govindhappan  Street ward-11  , 2.Kumbakonam (C)  Dapir New  Street ward-10 , 3.Kumbakonam (C)  Dapir Middle Street ward-10 , 4.Kumbakonam (C)  Subash Colony  ward-10 , 5.Kumbakonam (C)  Ram Colony  ward-10  , 6.Kumbakonam (C)  Mungil kollai  Nagar  ward-10 999.OVERSEAS  ELECTORS"
+215,171,214,,"Banathurai  Higher Secondary School,  Back  Side  East  Portion,  New Building  Room No.10  ,  Banathurai South  Street,Kumbakonam 612001","1.Kumbakonam (C)  Pillayar  koil  Street ward-10  , 2.Kumbakonam (C)  Tapir  East  Street ward-10  , 3.Kumbakonam(C) Panadurai Mela  Veethi  ward-19  , 999.OVERSEAS  ELECTORS"
+216,171,215,,"Banathurai  Higher Secondary School,  Back  Side  East  Portion,  New Building  Room No.12,  Banathurai South  Street,Kumbakonam -612001","1  - Kumbakonam (C),  Kasiraman Street wd-9
+2  - Kumbakonam (C),  Sakojee  Street wd-9 999.OVERSEAS  ELECTORS"
+217,171,216,,"Banathurai  Higher Secondary School,  West Wing,Front Portion,Room No.3 ,Banathurai South  Street,Kumbakonam 612001","1  - Kumbakonam (C),  Padugai  Street ward-17
+2  - Kumbakonam (C),  Kumarappan  Street ward-11
+3  - Kumbakonam (C),  Karnakollai West Street ward-11
+4  - Kumbakonam (C),  Karnakollai East Street ward-11
+5  - Kumbakonam (C),  Karnakollai South Street ward-17 999.OVERSEAS  ELECTORS"
+218,171,217,,"Banadurai  Higher Secondary  School, West Side  New Building, Banathurai South  Street,Kumbakonam-612002","1.Kumbakonam (C)  Panadurai  South Veethi ward-19  , 2.Kumbakonam(C) Panadurai Vadakku Veethi ward-9 3.Kumbakonam (C)  Kasiraman  Street Erataivaikkal  Privu wd-9 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+219,171,218,,"Banathurai  Municipal Elementary School West  Portion  Back  Side
+,Banathurai  South Street,Kumbakonam-612002","1  - Kumbakonam (C),  Panadurai  Lane ward-19
+2  - Kumbakonam(C),  Panadurai  Road  ward-19
+3  - Kumbakonam(C),  Panadurai  Keela Veethi  ward-19 999.OVERSEAS  ELECTORS"
+220,171,219,,"Banathurai  Municipal Elementary School,  (West Facing  South  Portion, Room No:5),  Banathurai South Street,  Kumbakonam-612002","1  - Kumbakonam(C),  Panadurai  14th Street wd- 8
+2  - Kumbakonam(C),  Panadurai  Sannathi Steet ward-19
+3  - Kumbakonam(C),  Panadhurai  Thirumanjana  Veethi ward-9 999.OVERSEAS  ELECTORS"
+221,171,220,,"Sri  Saraswathi Padasala  Girls  Higher Secondary  school, Lakshmi  Block, East  Portion,  Room No.  6, Kumbakonam-612001","1.Kumbakonam (C)  Doctor  Zaheer Hussain  Street ward-24  , 2.Kumbakonam(C) Hajiyar street ward-24  , 3.Kumbakonam(C) Ayikulam road ward-25 , 4.Kumbakonam(C) Beeman  street ward-25 , 5.Kumbakonam(C) Uppukaratheru wd-25
+6.Kumbakonam (C)  Panadurai  New Street ward-8  , 999.OVERSEAS  ELECTORS"
+222,171,221,,"Sri  Saraswathi Padasala  Girls  Higher Secondary  school, Sri Durga Block, East  Building  North Portion,  Room No-35,  Kumbakonam-612001","1  - Kumbakonam (C),  Ullikkan Lane (House  No 1-88)  ward-24
+2  - Kumbakonam(C),  A.R.R.colony  ward-24 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+223,171,222,,"Little Flower  Higher  Secondary School Old Building  West facing Room no 26,10th  C class room, Kumbakonam -  612001","1  - Kumbakonam(C),  No.2.salai ward-20
+2  - Kumbakonam(C),  Pidarikulam road ward-20
+3  - Kumbakonam(C),  State  bank  colony  ward-20
+4  - Kumbakonam(C),  State  bank  colony  Extn.  ward-20
+5  - Kumbakonam(C),  Bairagi Thoppu ward-20
+6  - Kumbakonam(C),  Noor  Nagar  ward-20 999.OVERSEAS  ELECTORS"
+224,171,223,,"St.Anees Metriculation  School, Gandhi nagar,  Eastern  side auditoriumblock,  Kumbakonam-612001","1  - Kumbakonam(C),  Vatti  Pillaiyar Koil Main  Street ward-21
+2  - Kumbakonam(C),  V.P..Koil  kanniga  Nagar  Vali  nadappu  ward-21
+3  - Kumbakonam(C),  Vatti  Pillaiyar koil  kallukadai Lane ward-21
+4  - Kumbakonam(C),  Vatti  Pilliyar  Koil First Cross Street ward-21
+5  - Kumbakonam(C),  Vatti  pillaiyar Kovil  Senthil Nathan Nagar ward-21
+6  - Kumbakonam(C),  Vatti  Pilliyar  Koil Main Ramanujam Nagar  ward-21
+7  - Kumbakonam(C),  Thiruvidaimaruthur  Road  ward-21
+8  - Kumbakonam(C),  Police  Quarters ward-21
+9  - Kumbakonam(C),  Vatti  Pilliyar  Kovil Sri  Nivas  Nagar ward-21 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+225,171,224,,"St.Anees Metriculation  School, Gandhi nagar,  western  side auditoriumblock,  Kumbakonam-612001","1  - Kumbakonam(C),  Srinagar  main  Road  ward-21
+2  - Kumbakonam(C),  Srinagar  Colony 2nd  Street ward-21
+3  - Kumbakonam(C),  Srinagar  colony  1st Cross Street ward-21
+4  - Kumbakonam(C) srinagar ,  Srinagar Colony  4th  Street ward-21
+5  - Kumbakonam(C),  Srinagar  Colony Valampuri Vinayagar  Street ward-21
+6  - Kumbakonam(C),  Srinagar  colony  3rd  Cross  Street  ward-21
+7  - Kumbakonam(C),  Srinagar  colony  5th  Cross Street ward-21
+8  - Kumbakonam(C),  Srinagar  Colony 6th  Cross Street ward-21
+9  - Kumbakonam(C),  Srinagar  7th Cross  Street ward-21
+10  -  Kumbakonam(C),  Srinagar  Colony  3rd  Cross Extension  ward-21
+11  -  Kumbakonam(C),  Srinagar  Colony  Swami Nagar ward-21
+12  -  Kumbakonam(C),  Srinagar  Colony  Thangavilas Nagar  ward-21
+13  -  Kumbakonam(C),  Srinagar  Colony  Theetchathar thottam ward-21 999.OVERSEAS  ELECTORS"
+226,171,225,,"Little Flower  Higher  Secondary School,  New Building  North facing Room no 32,  Kumbakonam -  612001","1  - Kumbakonam (C),  Thirunarayanapuram east ward-22
+2  - Kumbakonam(C),  Arokkiyasami nagar ward-21
+3  - Kumbakonam(C),  Thirunarayanapuram First Cross  Street ward-22
+4  - Kumbakonam(C),  Raja  sandhu ward-22
+5  - Kumbakonam(C),  Sivakurunathan  street ward-20
+6  - Kumbakonam(C),  Ponnusami nagar ward-20 999.OVERSEAS  ELECTORS"
+227,171,226,,"Little Flower  Higher  Secondary School,  Western  side  building  North facing,  Room no  114, Thiruvidaimaruthur  road, Kumbakonam -  612001","1  - Kumbakonam(C),  Bharath  nagar  ward-20
+2  - Kumbakonam(C),  Police  Quarters ward-21
+3  - Kumbakonam(C),  Sivakurunathan  West Street ward-20
+4  - Kumbakonam(C),  Shivakurunthan  East Street ward-20 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+228,171,227,,"Little Flower  Higher  Secondary School,  East  Building  North Portion Room No.102,  Kumbakonam - 612001","1  - Kumbakonam (C),  Thirunarayanapuram north  street ward-23
+2  - Kumbakonam(C),  Krushnappan  north  street wd-23
+3  - Kumbakonam(C),  Krushnappan  East Street ward-23
+4  - Kumbakonam(C),  Krishnappan West Street ward-23
+5  - Kumbakonam(C),  Town  Exstension ward-22 999.OVERSEAS  ELECTORS"
+229,171,228,,"St.Anees Metriculation  School East Building  Middle  Portion,  Gandhi Nagar,  Kumbakonam-612001","1.Kumbakonam (C)  Theyperumanallur  road  Sekkankanni  (Include)  Wd-22 , 999.OVERSEAS  ELECTORS"
+230,171,229,,"St.Anees Metriculation  School,  (West Facing  East Portion  2nd  Room), Gandhi Nagar  Kumbakonam-612001","1  - Kumbakonam(C),  Gomathi  nagar  ward-22
+2  - Kumbakonam(C),  Sri Ragavendra  nagar ward-22
+3  - Kumbakonam(C),  Sriram nagar ward-22 999.OVERSEAS  ELECTORS"
+231,171,230,,"Little Flower  Higher  Secondary School Old Building  West facing Room no 28,  10th  E Section, Kumbakonam -  612001","1  - Kumbakonam (C),  Hajiyar street kakkan  colony  Ward-24
+2  - Kumbakonam(C),  Mothilal  street  (House No  1 -  212) wd-23
+3  - Kumbakonam(C),  Mothilal  Cross Lane wd-23 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+232,171,231,,"St.  Agusthinar  Middle  school New Building  North  Facing  8th  std  Class Room,  Church  road,Kumbakonam-612001","1  - Kumbakonam (C),  Railway  New  Road  ward-22
+2  - Kumbakonam(C),  Mothilal  main  street wd-23
+3  - Kumbakonam(C),  Mothilal  1st Cross  street wd-23
+4  - Kumbakonam(C),  Mothilal  2nd  Cross street ward-23
+5  - Kumbakonam(C),  Mothilal  3rd  Cross Street wd-23
+6  - Kumbakonam(C),  Mothilal  4th Cross  Street wd-23
+7  - Kumbakonam(C),  Vengatramam Nagar ward-22
+8  - Kumbakonam(C),  Railwaystation  Compound  ward-45
+9  - Kumbakonam(C),  Abeemukkthieswarar  Keela Veethi  ward-44 999.OVERSEAS  ELECTORS"
+233,171,232,,"St.Agustinar Middle School,  South Building  West Portion Room No.4, Kumbakonam-612001","1  - Kumbakonam (C),  Church  Road  ward-23
+2  - Kumbakonam(C),  Pathimapuram ward-24 999.OVERSEAS  ELECTORS"
+234,171,233,,"St.Agustinar Middle School,  South Building,  North Facing,  Computer Room (Next to H  M  Room), Kumbakonam-612001","1.Kumbakonam(C) John  Selvaraj Nagar  (Eli vetti  Thital)wd-23 , 999.OVERSEAS  ELECTORS"
+235,171,234,,"St.Joseph  Girls Higher  Secondary school,  Eastern  Side West  Facing Room no.3,  Kumbakonam-612001","1  - Kumbakonam (C),  kamaraj Road 1to  177   ward-44,45
+2  - Kumbakonam(C),  Arasalaru vali  Natappu 2 to 278  ward-45
+3  - Kumbakonam(C),  Kamaraj Road  First Cross Road ward-45
+4  - Kumbakonam(C),  Kamaraj Road  2nd Cross  Road  ward-45
+5  - Kumbakonam(C),  kamaraj Road 3rd Cross  Road  ward-45
+6  - Kumbakonam(C),  Kamaraj Road  4th  Cross Road ward-45
+7  - Kumbakonam(C),  Kamaraj Road  5th  Cross Road ward-45
+8  - Kumbakonam(C),  kamaraj Road 7th  Cross Road ward-45 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+236,171,235,,"St Joseph  Girls Higher  Secondary School,  Southern  Main  Building  6A Class  room,  Kumbakonam-612001","1.Kumbakonam (C)  Lalbahadur  Sastri  Road  2  to  129  wd-44,45 , 999.OVERSEAS  ELECTORS"
+237,171,236,,"R.C Morning  Star Primary  School, North Side,  Thiruvalluvar  Kuzhu Room,  Kumbakonam-612001","1.Kumbakonam (C)  Nageshvaran  East Street  ward-25 , 2.Kumbakonam(C) Nageshvaran  Sannathi Street ward-25 , 3.Kumbakonam(C) Nageshvaran  South  Street ward-25  , 4.Kumbakonam(C) Kaliyamman Koil  Street ward-25  , 5.Kumbakonam(C) Sekkadi Lane ward-24 , 6.Kumbakonam(C) Nageshvaran  South  First Lane  ward-25 999.OVERSEAS  ELECTORS"
+238,171,237,,"R.C Morning  Star Primary  School, North Side,Middle  Portion, Kamarajar  Kuzhu Room, Kumbakonam-612001","1.Kumbakonam (C)  Uppukara  Street ward-25  ,
+2.Kumbakonam(C) Nagesvaran  Keela Vadampokki Street ward-24  , 3.Kumbakonam(C) Ullikan Lane  Police Colony  (H.No.  89)  ward-  24  , 4.Kumbakonam(C) Head  Post Office Road  ward-41 , 5.Kumbakonam(C) Gouthamesvarar  North  madavilagam ward-41  , 6.Kumbakonam(C) Kasi Visvanathar North Veethi  ward-41 , 7.Kumbakonam(C) Kasi Visvanathar Sannathi  ward-41  , 8.Kumbakonam(C) kasi Visvanathar  Keela  Veethi ward-44  , 9.Kumbakonam(C) Magamagakulam Vadakarai ward-41  , 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+239,171,238,,"MGR Memorial Corporation Middle School,  South  Portion,  Sarangapani Sannathi  Street  , Kumabakonam-612001","1  - Kumbakonam(C),  Sarangapani keela  vatampokki  street  ward-18
+2  - Kumbakonam(C),  sarangapani  kovil  keelaveethi santhu ward-18
+3  - Kumbakonam(C),  kankeyankulam west street ward-18
+5  - Kumbakonam(C),  Sarangapani sannathi street ward-25
+6  - Kumbakonam(C),  Sarangapani keela  veethi  ward-25
+7  - Kumbakonam(C),  Nageshwara  swami north  street ward-25
+8  - Kumbakonam(C),  Nageshwara  swami melatheru ward-26
+9  - Kumbakonam(C),  North  mathappa  santhu ward-25 999.OVERSEAS  ELECTORS"
+240,171,239,,"MGR Memorial Corporation Middle School,  (South Facing  Western  Side Class  Room 1A),  Kumbakonam-612001","1  - Kumbakonam(C),  Kutisai mattru variyam veedugal  ward-26 , 999.OVERSEAS  ELECTORS"
+241,171,240,,"Town  Higher Secondary  School,  Main Building  Room No-16 North  Portion, Kumbakonam-612001","1  - Kumbakonam(C),  Mori Vaikkal Street ward-18
+2  - Kumbakonam(C),  Karnakollai  street ward-18
+3  - Kumbakonam(C),  Lakshmi  vilas street ward-18
+4  - Kumbakonam(C),  Dr.  Besant road  ward-18
+5  - Kumbakonam(C),  Nageshwaran  Thirumanganaveethi ward-18 999.OVERSEAS  ELECTORS"
+242,171,241,,"Town  Higher Secondary  School,  Main Building  Room No-34 South Portion , Kumbakonam-612001","1  - Kumbakonam(C),  P.Kothantapani Street ward-18
+2  - Kumbakonam(C),  Lakshmi  Vilas Jublie  colony  ward-18
+3  - Kumbakonam(C),  Pachaiyppa  street ward-10 999.OVERSEAS  ELECTORS"
+243,171,242,,"Native Higher  Secondary  School, South  Portion  New Building  Room No 1  ,Kumbakonam-612001",1.Kumbakonam (C)  Dhukkampalaiya Street Part 1  wd-17 999.OVERSEAS  ELECTORS
+1,171,2,,3,4
+244,171,243,,"Native Higher  Secondary  School, Northern  wing,  Eastern  portion, Kumbakonam-612001","1  - Kumbakonam(C),  Dhukkampalaya Street Part 2  ward-17
+2  - Kumbakonam(C),  Dhukkampalaiya  Street Part 3  ward-17
+3  - Kumbakonam(C),  Dhukkampalaya Street Part 4  ward-17
+4  - Kumbakonam(C),  Dhukkampalaya Street Part 5  wd-17
+5  - Kumbakonam(C),  Dhukkampalaya Street Part 6  ward-17
+6  - Kumbakonam(C),  Dhukkampalaya Street Part 7  ward-17
+7  - Kumbakonam(C),  Dhukkampalaya Street Part 8  ward-17
+8  - Kumbakonam(C),  Dhukkampalaya Street Part 9  ward-17 999.OVERSEAS  ELECTORS"
+245,171,244,,"Native Higher  Secondary  School, South  Portion  New Building  Room No 2,  Kumbakonam-612002","1  - Kumbakonam (C),  Dhukkampalaya  street (H.No 142-160)  ward-17
+2  - Kumbakonam(C),  Chakkarani South  Street  ward-12
+3  - Kumbakonam(C),  Govinthappa  Lane ward-12
+4  - Kumbakonam(C),  Chakkarapani  South vadam Pokki  Street ward-17
+5  - Kumbakonam(C),  V.S.Kunchithapatham Street ward-18
+6  - Kumbakonam(C),  Dhukkampalaya West  Street ward-17
+7  - Kumbakonam(C),  Dhukkampalaya Street (East) ward-17
+8  - Kumbakonam(C),  Dhukkampalaya Street Mori  vaikkal ward-17 999.OVERSEAS  ELECTORS"
+246,171,245,,"Native Higher  Secondary  School, West Old  Building  Room No-7, Kumbakonam-612002","1  - Kumbakonam (C),  P.  Shanmugam Street ward-12
+2  - Kumbakonam (C),  Chakkarapani South  Madavilagam ward-12
+3  - Kumbakonam (C),  Chakkarapani North  madavilagam ward-12
+4  - Kumbakonam (C),  Thiyaki Ramasami Street ward-12
+5  - Kumbakonam (C),  Chakkarapani North  Veethi  ward-12
+6  - Kumbakonam (C),  G.K.Vengatraman Street wd-12 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+247,171,246,,"Kumbeswarar  Thirumanjana  Veethi Higher  Secondary  School  -9th Section  Room no 3,  South  Side, Kumbakonam-612002","1.Kumbakonam (C)  Kumbeshwarar  Thirumanjana  Veethi ward-16 , 2.Kumbakonam (C)  12th  Street  (Patrachariyar Street )  ward-16  , 3.Kumbakonam (C)  13th  street (satharatheru) ward-16  , 4.Kumbakonam (C)  Moorthi  Street  ward-16 ,
+5.Kumbakonam (C)  Periya  kadai Street ward-16 999.OVERSEAS  ELECTORS"
+248,171,247,,"Sir  C.P.Ramasamy  Iyyer  Memorial Nursery  &  primary  School Building East  Portion,  Mettu Street,Kumbakonam-612002","1  - Kumbakonam (C),  G.K.M.Street ward-15
+2  - Kumbakonam (C),  Mettu Street ward-15
+3  - Kumbakonam (C),  Kuttiyam Palaiya  Street ward-16 999.OVERSEAS  ELECTORS"
+249,171,248,,"Sir  C.P.Ramasamy  Iyyer  Memorial Nursery  &  primary  School,  Centre Portion South  Facing  Building,  Mettu Street,  Kumbakonam-612002","1  - Kumbakonam (C),  Singaram Street ward-15
+2  - Kumbakonam (C),  Kumbeshvarar  Mela  Veethi ward-15
+3  - Kumbakonam (C),  Mathakadi Street ward-28
+4  - Kumbakonam (C),  Kumbeshvarar  vadam Pokki  Street ward-16 999.OVERSEAS  ELECTORS"
+250,171,249,,"Sir  C.P.Ramasamy  Iyyer  Memorial Nursery  &  Primary  School Building West Portion,  Mettu Street
+,Kumbakonam-612002","1  - Kumbakonam (C),  G.Karuppaiya  Street ward-15
+2  - Kumbakonam (C),  K.G.K.Lane ward-16
+3  - Kumbakonam (C),  Vannagkanni ward-15 999.OVERSEAS  ELECTORS"
+251,171,250,,"Arignar  Anna  Govt Higher Secondary School,  South  Building  Middle Wing, Room No-4,  Thiruvannamalai Mutt Street ,Kumbakonam-612001","1  - Kumbakonam (C),  Mounasami Madathu Theru ward-28
+2  - Kumbakonam(C),  K.G.K.  street ward-16
+3  - Kumbakonam(C),  A.R.R Road (House No  46  to  158)  ward  37 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+252,171,251,,"Arignar  Anna  Govt Higher Secondary School,  (South Facing  North Building,  5th  Room), Thiruvannamalai Mutt Street , Kumbakonam-612001","1  - Kumbakonam(C),  Puliyadi  Lane ward-36
+2  - Kumbakonam (C),  Andiyappar Street( Including  Bharathiyar  Nagar)  Ward-36
+3  - Kumbakonam (C),  A.R.R Road (  House No 1  to 44) ward -36 999.OVERSEAS  ELECTORS"
+253,171,252,,"Arignar  Anna  Govt Higher Secondary School,  South  Building  Room No.1, Thiruvannamalai Mutt Street, Kumbakonam-612001","1  - Kumbakonam (C),  Kampatta  Viswanathar melaveethi ward-29
+2  - Kumbakonam(C),  Kampatta  Viswanathar north  veethi  ward-29
+3  - Kumbakonam(C),  Kampatta  Viswanathar sannathi  street ward-29
+4  - Kumbakonam(C),  Kampatta  Viswanathar south  veethi  ward-29
+5  - Kumbakonam(C),  Thiruvannamalai madathu theru ward-29 999.OVERSEAS  ELECTORS"
+254,171,253,,"Arignar  Anna  Govt Higher Secondary School,  Room No.1,  South  facing new Building,  Northern  side, Kumbakonam-612001","1  - Kumbakonam(C),  Pakkiyanathan  street ward-29
+2  - Kumbakonam(C),  20th street (Kavaraitheru) ward-28 999.OVERSEAS  ELECTORS"
+255,171,254,,"Kumbeshwarar  Thirumanjana  Veethi High School  Room 1, Thirumanjanaveedhi,Kumbakonam-612002","1.Kumbakonam (C)  Padmanabhan Street ward-16 , 2.Kumbakonam(C) Kumbeswarar  South  Street  ward-27 , 3.Kumbakonam(C) Kumbeswarar  Sannathi ward-27 , 4.Kumbakonam(C) kumbeshvarar  North Street ward-16 , 5.Kumbakonam(C) Ramasamy  koil  West Street ward-26 , 6.Kumbakonam(C) Ramasamy  Koil  South Street ward-26 , 7.Kumbakonam(C) Ramasamy  Koil  Keela  Theru ward-26 8.Kumbakonam (C)  Jeevappan  Street ward-16  , 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+256,171,255,,"Rani Subbaiya  Corporation Middle School,  South  facing  West  portion, Room No:  1, 22nd  Street(Padayachi Street),  Kumbakonam -612001","1  - Kumbakonam (C),  Gandhiadigal salai (House.No131-156) ward-26
+2  - Kumbakonam(C),  South mathappa  santhu ward-41
+3  - Kumbakonam(C),  Gouthameswarar Sannathi  Street ward-41
+4  - Kumbakonam(C),  Magamagakulam melkarai ward-41 999.OVERSEAS  ELECTORS"
+257,171,256,,"Rani Subbaiya  Corporation Middle School,  South  facing  East portion, Room No:  3, 22nd  Street(Padayachi Street),  Kumbakonam -612001","1  - Kumbakonam (C),  Sekkadi  Street ward-40
+2  - Kumbakonam(C),  23rd  street (Yadhavar street )ward-42
+3  - Kumbakonam(C),  Jaganathapillaiyar  Kovil Melatheru,14manaitheru ward-42 999.OVERSEAS  ELECTORS"
+258,171,257,,"Idhaya  College  for  women,  East building  southside  west face  Tamil Department  Room No.2,Kumbakonam-612001",1.Kumbakonam (C)  Mariamman Kovil  Door no 1 to 53  Street wd-46 999.OVERSEAS  ELECTORS
+259,171,258,,"Idhaya  College  for  women,  Science building  North face  west side  Room No.9, Kumbakonam-612001",1.Kumbakonam (C)  Mariamman Kovil  Street Door  no 54 to 87  wd-47 999.OVERSEAS  ELECTORS
+260,171,259,,"Idhaya  College  for  women,  East building  southside  west face  Tamil Department  Room No.4, Kumbakonam-612001","1  - Kumbakonam (C),  29th  street (South  Valluvar  Street ) ward-47
+2  - Kumbakonam(C),  30th street (Kuyavan  Santhu) ward-46
+3  - Kumbakonam(C),  Pathadi Palam ward-46 999.OVERSEAS  ELECTORS"
+261,171,260,,"Idhaya  College  for  women,  (North Facing  South  Side  Building  East Portion),Kumbakonam - 612001","1  - Kumbakonam(C),  Anaikaran palaiyam ward-47
+2  - Kumbakonam(C),  Mariyamman  Kovil 1st Street ward-46 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+262,171,261,,"Pattu Metric Higher  Secondary School,  Main  Building  West portion 11Std  Room,  Kumbakonam-612001","1  - Kumbakonam (C),  Srinivasa  Nagar ward-48
+2  - Kumbakonam(C),  pmsm nagar  ward-48
+3  - Kumbakonam(C),  Kasthuri bai  road  ward-48 999.OVERSEAS  ELECTORS"
+263,171,262,,"Pattu Metric Higher  Secondary School,  Main  Building  West portion 9th  Std  Room,  Kumbakonam-612001","1.Kumbakonam (C)  Needamangalam road wd-48  , 999.OVERSEAS  ELECTORS"
+264,171,263,,"Pattu Matric Higher  Secondary School,  Main  building  North facing building  Eastern  side 10th Std  Class room Needamangalam road, Kumbakonam-612001","1  - Kumbakonam(C),  Elango nagar ward-47
+2  - Kumbakonam(C),  Nattar  thalaipu ward-48
+3  - Kumbakonam(C),  Nathan nagar  ward-47
+4  - Kumbakonam(C),  Dhurai  nagar  ward-47 999.OVERSEAS  ELECTORS"
+265,171,264,,"Christ the  King  Matriculation  Higher Secondary  School,  C Block,  East Facing  South  Side  1st Room,  L.B.S Road,  Kumbakonam-612001","1.Kumbakonam (C)  Alagappan  street  ward-43 , 2.Kumbakonam(C) Gopu nagalingam street ward-45 , 3.Kumbakonam(C) Periya  Appavu Street ward-45  , 4.Kumbakonam(C) Paruthikara  Street ward-43  , 5.Kumbakonam(C) Paruthikara  Keelatheru ward-43 999.OVERSEAS  ELECTORS"
+266,171,265,,"Christ the  King  Matriculation  Higher Secondary  School,  C Block,  South Facing  West Side 1st Room,  L.B.S Road,  Kumbakonam-612001","1.Kumbakonam(C) Veerapantiya kattapomman  street ward-45 , 2.Kumbakonam(C) 27th  street (Vellapandara  street ) ward-43 , 3.Kumbakonam(C) Panchukara mela  street ward-43 , 4.Kumbakonam(C) K.K.Neelamegam theru ward-43 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+267,171,266,,"Christ the  King  Matriculation  Higher Secondary  School,  (South Facing North Building  East Side Last  Room C Block),  Kumbakonam-612001","1.Kumbakonam (C)  M.C.S.R.Street ward-45 , 999.OVERSEAS  ELECTORS"
+268,171,267,,"R.c.  Pattu nool Primary  School, North Portion  East facing  Building, Keezharaja  Veethi ,  Kumbakonam-612001","1  - Kumbakonam (C),  28th  street (north  valluvar street ) ward-45
+2  - Kumbakonam(C),  Otha  Kadai theru ward-45
+3  - Kumbakonam(C),  Nachiyar kovil vali nadappu theru ward-45 999.OVERSEAS  ELECTORS"
+269,171,268,,"R.c.  Pattu nool Primary  School, South  Portion  East  facing  Building, Keezharaja  Veethi,  Kumbakonam-612001","1  - Kumbakonam (C),  Mahamahakulam Then karai ward-41
+2  - Kumbakonam(C),  Ellaiya  street ward-44
+3  - Kumbakonam(C),  kaliya  street ward-45
+4  - Kumbakonam(C),  Bharathiyar  street ward-44 999.OVERSEAS  ELECTORS"
+270,171,269,,"Kalaivani  Nursary  and  Primary School,  Selvasarangapani Street,Kumbakonam 612001","1  - Kumbakonam (C),  Sowrastira  periya  street ward-40
+2  - Kumbakonam(C),  Pirman koil  street ward-40
+3  - Kumbakonam(C),  Sowrastira  Nadu Theru ward-39 999.OVERSEAS  ELECTORS"
+271,171,270,,"Sembodai St.  Xavior  High School, (West Facing  Back side Building), Kumbakonam-612001","1  - Kumbakonam (C),  Pirman  koil Arasalaru vali  nadappu  ward-40
+2  - Kumbakonam(C),  Pirman Koil  Kadai Theru ward-40
+3  - Kumbakonam(C),  Gandhiyadigal Salai  (House No  60-130)  ward-41
+4  - Kumbakonam(C),  Attrangarai  vali nadappu ward-40
+5  - Kumbakonam(C),  North  eruthukara  Street 37 ward-40 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+272,171,271,,"Sembodai St.  Xavior  High School, (South  Facing,  West Portion North Building),Kumbakonam-612001","1  - Kumbakonam(C),  Manchakara  Street 37,ward-40
+2  - Kumbakonam(C),  21st street (Maruthuvar Street) ward-40
+3  - Kumbakonam(C),  Palaniyandavar Street ward-41 999.OVERSEAS  ELECTORS"
+273,171,272,,"R.C.  Morning  Star High  School,  East Portion,  Gandhi  Adigal  Salai, Kumabkonam-612001","1.Kumbakonam (C)  Sarangapani North Madavilagam ward-18 , 2.Kumbakonam(C) T.S.R.Big  Street ward-18 , 3.Kumbakonam(C) Someswarar  Sannathi  Street  ward-26 , 4.Kumbakonam(C) Pottramarai South  Veethi ward-18  , 5.Kumbakonam(C) Pottramarai North  Veethi  ward-18 , 6.Kumbakonam(C) Pottramarai Keela  Veethi ward-18 , 7.Kumbakonam(C) Pattam  Lane Street ward-26  , 8.Kumbakonam(C) Sarangapani  South Street ward-26 , 9.Kumbakonam(C) Kallukadai Lane ward-26 10.Kumbakonam(C) Veerapathirarsuvami Koil Lane ward-41 , 11.Kumbakonam(C) Gouthamesvarar  koil Back-Side  ward-41 999.OVERSEAS  ELECTORS"
+274,171,273,,"R.C.  Morning  Star High  School, (West Side),  Gandhi Adigal  Salai, Kumabkonam-612001","1.Kumbakonam (C)  Vijayenthirasami  Madathu Street ward-27  , 2.Kumbakonam(C) kumbeshvarar  Kovil South  vadam Pokki  Street ward  -27, 3.Kumbakonam(C) Ramasamy  koil  Sannathi ward-26  ,
+4.Kumbakonam(C) Thirumalainambi Street ward-40 , 5.Kumbakonam(C) Ramachandrapura  Street ward-39 6.Kumbakonam(C) Kannaki Then  Kottam -  ward 25 , 999.OVERSEAS  ELECTORS"
+275,171,274,,"R.C.  Morning  Star High  School, South  Side,  balar std  thiruvalluvar kulu,  Gandhiadigal Salai, Kumabkonam 612001","1  - Kumbakonam(C),  Someswaran Therkku Veethi  ward-26
+2  - Kumbakonam(C),  Gandhiyadikal Salai (House No  1-59) ward-41
+3  - Kumbakonam(C),  17  th  Street (Ayyangar  Street ) ward-26 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+276,171,275,,"Kambatta  Vishwanathar  Municipal primary  School,  (East Building  South Portion),  Nanayakara  Street, Kumbakonam-612002","1.Kumbakonam (C)  Mettu Street Cauvery  Lane ward-14 , 2.Kumbakonam (C)  Mettu Street ward-15
+3  - Kumbakonam (C),  Malluga  Street (Door  no 1  to 20) ward-30 4.Kumbakonam (C)  Pettai North  Keela  Veethi (Door  no 1  to 27) ward-14  , 999.OVERSEAS  ELECTORS"
+277,171,276,,"Kambatta  Vishwanathar  Municipal Primary  School  (East Building  north portion),  Nanayakara  Street, Kumbakonam 612002","1.Kumbakonam (C)  Kalasanthi kattalai Street ward-14  , 2.Kumbakonam (C)  Ganapathi Nagar  ward-14 , 3.Kumbakonam (C)  Pettai North  EB  Colony  ward-14 , 4.Kumbakonam (C)  Pettai North  Sivakami  Nagar  ward-14  , 5.Kumbakonam (C)  Muthu kannan Nagar ward-36 6.Kumbakonam (C)  Alaiyadi  Road  ward-14 999.OVERSEAS  ELECTORS"
+278,171,277,,"Kambatta  Vishwanathar  Municipal Elementary  School North  Building East  Portion,Nanayakara Street,Kumbakonam-612002","1  - Kumbakonam (C),  Malluga  Street (Door  no 21 to 123)  ward-30 2.Kumbakonam (C)  Kuttiyan  Street ward-30 ,
+3.Kumbakonam (C)  Pettai North  Street ward-14  , 999.OVERSEAS  ELECTORS"
+279,171,278,,"Kambatta  Vishwanathar  Municipal Elementary  School South  Building West Portion,  Nanayakara Street,Kumbakonam-612002","1.Kumbakonam (C)  Pettai North  Keela  Veethi (Door  no 28 to 100)  ward-14 , 2.Kumbakonam (C)  Poiyatha  Pillaiyar  koil Street ward-30 ,
+3.Kumbakonam (C)  Nanayakara  Street ward-29 999.OVERSEAS  ELECTORS"
+280,171,279,,"C P  Vidya  Mandir Matriculation Higher  Secondary  School, Westerning  Facing, L  K G  A Section, Kumbakonam-612001","1  - Kumbakonam (C),  A.R.R Road (House No  155  to 267 )  ward-27
+2  - Kumbakonam (C),  A.R.R Road (House No  1 to 39  ) ward-36
+3  - Kumbakonam (C),  ARR road (House No  41  to  153  ) ward-37 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+281,171,280,,"C P  Vidya  Mandir Matriculation Higher  Secondary  School, Westerning  Facing, L  K G  c  Section, Kumbakonam-612001","1  - Kumbakonam (C),  Quayethe Milleth  Ismail Street (HouseNo  56  to  96)  ward-27
+2  - Kumbakonam(C),  V.P.V.  Colony  ward-27
+3  - Kumbakonam(C),  Kampatta  Viswanathar Keela  Veethi ward-29
+4  - Kumbakonam(C),  Mathakadi  Street ward-2 999.OVERSEAS  ELECTORS"
+282,171,281,,"C P  Vidya  Mandir Matriculation Higher  Secondary  School, Westerning  Facing, U  K G  A Section, Kumbakonam-612001","1.Kumbakonam (C)  Palaya  Aranmanai  Street wd-28  , 999.OVERSEAS  ELECTORS"
+283,171,282,,"C P  Vidya  Mandir Matriculation Higher  Secondary  School, Westerning  Facing, U  K G  C Section, Kumbakonam-612001","1  - Kumbakonam(C),  Chetti New Street ward-36
+2  - Kumbakonam(C),  11th street (chekkadi street )  ward-27
+3  - Kumbakonam(C),  Nakojiyappa  santhu ward-27
+4  - Kumbakonam(C),  kaliyamman  kovil santhu ward-27
+5  - Kumbakonam(C),  Thiyakarasa  nanthavanam ward-27
+6  - Kumbakonam(C),  Srinivasa  nanthavanam ward-27 999.OVERSEAS  ELECTORS"
+284,171,283,,"Gopu Sivagurunathan  Municipal Elementary  School,  west side Building,  East  facing  Room no-2, Kumbakonam-612001","1  - Kumbakonam (C),  Vinai thirthan Street ward-30
+2  - Kumbakonam(C),  Thanjavur  main  road  ward-30
+3  - Kumbakonam(C),  Nellukadai theu ward-30
+4  - Kumbakonam(C),  Pettai  Panchukara  Theru ward-30 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+285,171,284,,"Gopu Sivagurunathan  Municipal Elementary  School,west side Building,  East  facing  Room no-3, Kumbakonam-612001","1  - Kumbakonam (C),  Pettai Viyapari theru ward-30
+2  - Kumbakonam(C),  Pettai  Kudisai Street ward-30
+3  - Kumbakonam(C),  Pettai  theru ward-36
+4  - Kumbakonam(C),  Pettai  Atrankarai vali  natappu ward-36
+5  - Kumbakonam(C),  Pettai  Yathavar  Street ward-36
+6  - Kumbakonam(C),  Pettai  Anna Nagar 1st street ward-36
+7  - Kumbakonam(C),  Pettai  Anna Nagar 2nd Street ward-36
+8  - Kumbakonam(C),  Pettai  Anna Nagar 3rd Street ward-36 999.OVERSEAS  ELECTORS"
+286,171,285,,"Gopu Sivagurunathan  Municipal Elementary  School,  West Building, East  facing,  Room.No.1,  Thanjavur Main  Road,  Kumbakonam-612001","1  - Kumbakonam (C),  Arumugam Sandhu ward-36
+2  - Kumbakonam (C),  Pettai Kadai theru ward-30
+3  - Kumbakonam(C),  Pasikkaran 1st  street ward-36 999.OVERSEAS  ELECTORS"
+287,171,286,,"Gopu Sivagurunathan  Municipal Elementary  School,  West Facing  East side  Building  1st Room),  Thanjavur Main  Road,Kumbakonam-612001","1  - Kumbakonam(C),  Mukannar Street ward-36
+2  - Kumbakonam(C),  Pasikaran  2nd  santhu ward-36
+3  - Kumbakonam(C),  Pasikaran  3rd  sandhu ward-36
+4  - Kumbakonam(C),  Pasikaran  4th  santhu ward-36
+5  - Kumbakonam(C),  Pasikaran  5th  santhu ward-36 999.OVERSEAS  ELECTORS"
+288,171,287,,"A.R.R.municipal Higher  Secondary School,  Front  Portion  New Building, Room No.15,  Kumbakonam-612001","1  - Kumbakonam (C),  Andiappan  street ward-36
+2  - Kumbakonam(C),  Thuvarankurichi  North  street ward-37
+3  - Kumbakonam(C),  Anna  Colony  ward-37 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+289,171,288,,"A.R.R.Municipal Higher Secondary School,  Front  Portion  New Building, Room No 14,Kumbakonam-612001","1  - Kumbakonam (C),  Thurvarankuruchi 14  manai theru ward-37
+2  - Kumbakonam (C),  Singarathoppu Araslaru Padugai ward-38
+3  - Kumbakonam(C),  Thurvarankuruchi pudhu theru ward-37 999.OVERSEAS  ELECTORS"
+290,171,289,,"A.R.R.Municipal Higher Secondary School ,  South  Building  Eastern Block (new  hall),  Kumbakonam 612001","1  - Kumbakonam(C),  Thurvarankuruchi nadutheru ward-37
+2  - Kumbakonam(C),  Thurvarankuruchi Thilagar thital  melatheru Ward-37
+3  - Kumbakonam(C),  Thurvarankuruchi Nethaji  Colony  ward-37
+4  - Kumbakonam(C),  Thurvarankuruchi M.G.R.  Colony  ward-37 999.OVERSEAS  ELECTORS"
+291,171,290,,"A.R.R.Municipal Higher Secondary School,  Main  Building,  Room No-13,Kumbakonam-612001","1.Kumbakonam (C)  Thuvarankuruchi  Keela  Theru ward-37  , 2.Kumbakonam(C) Othai theru ward-38
+3.Kumbakonam(C) Amman koil  Street  ward-27 , 999.OVERSEAS  ELECTORS"
+292,171,291,,"A.R.R.Municipal Elementary  School, West Portion,  Thuvarankurichi  East Street,  Kumbakonam 612001","1  - Kumbakonam (C),  Quatheymillath Ismail  Street (House  No 1-55) ward-27
+2  - Kumbakonam(C),  Selva  Sarangapani  Street ward-27
+3  - Kumbakonam (C),  19th  Street Kothan  Street  ward-27
+4  - Kumbakonam(C),  18th Street KothanChetti Street ward-27
+5  - Kumbakonam(C),  Sembodai Scavangers Colony  Ward-38
+6  - Kumbakonam(C),  Thoppu Street Layankarai House No.8 to 88 Ward-39 999.OVERSEAS  ELECTORS"
+293,171,292,,"A.R.R.  Municipal Higher  Secondary School,  Main  Building,  East  Portion, Room No-12,  Kumbakonam-612001","1.Kumbakonam (C)  Sempodai Street ward-38 , 2.Kumbakonam(C) Sempodai A.R.R.Nagar ward-38 999.OVERSEAS  ELECTORS"
+1,171,2,,3,4
+294,171,293,,"St.Xavier Aided  High School,10 th std Class Room west Building,  east facing  north portion,  Amman Kovil Arasalaru Vazhinadappu, Kumabkonam-612001","1  - Kumbakonam (C),  Thoppu Street ward-39
+2  - Kumbakonam(C),  Singarathoppu Street ward-38
+3  - Kumbakonam(C),  Amman  Koil Arasalaru vali nadappu ward-39 999.OVERSEAS  ELECTORS"
+295,171,294,,"St.Xavier Aided  Middle  School,  East Building,  South  Portion,  Room No-8A,  Amman  Kovil Arasalaru Vazhinadappu,  Kumabkonam-612001","1  - Kumbakonam(C),  Ayyanar Koil Street ward-39
+2  - Kumbakonam(C),  Nadana Gopalar Street ward-40
+3  - Kumbakonam(C),  Birman  Koil Rengar Street ward-40
+4  - Kumbakonam(C),  Garudalaya  Street ward-40 999.OVERSEAS  ELECTORS"
+296,171,295,,"St..  Xavier  Aided  High  school,  9  th std class  Room,west building,east facing  souhern  Portion,  Ammankovil Arasalaru Vazhi  Nadappu, Kumabkonam-612001","1  - Kumbakonam (C),  Sowrastira  New Street ward-39
+2  - Kumbakonam(C),  22nd  street (Padaiyachi Street )  ward-40
+3  - Kumbakonam(C),  Nehru colony,  Gandhi  colony, lion  karai ward-40,39 999.OVERSEAS  ELECTORS"
+297,171,296,,"Government Womens College (Autonomous),  Entrance building south facing,  Room no-2, Kumbakonam-612001","1  - Kumbakonam (C),  South  Eruthukara  Street ward-40
+2  - Kumbakonam(C),  Mummoorthi vinayagar sananthi  street ward-40
+3  - Kumbakonam(C),  Poonka  street ward-42
+4  - Kumbakonam(C),  Pattabiraman  sandhu ward-42
+5  - Kumbakonam(C),  Kumaran street ward-42 999.OVERSEAS  ELECTORS"
+298,171,297,,"Government Womens College (Autonomous),  North  Facing  South Portion New  Building  (Commerce Hall),  Kumbakonam 612001","1  - Kumbakonam(C),  Indhiragandhi  salai  ward-42
+2  - Kumbakonam(C),  Amman  colony  (Kumaran  Street ) ward-42 999.OVERSEAS  ELECTORS"
+1,171,2,3,,4
+299,171,298,"Government Womens College (Autonomous),  Maths  Department Building,  south facing  Class  Room, Kumbakonam-612001",,"1  - Kumbakonam (C),  24th  Street Kadu Vetti Street ward-42
+2  - Kumbakonam(C),  Vati Gurukkal Street ward-42 999.OVERSEAS  ELECTORS"
+300,171,299,"Government College  for  women (Autonomous),  Entrance Building backside,  Geograpy Department East portion class  Room,  Kumbakonam-612001",,"1  - Kumbakonam(C) 26th  street  (Seethareddy  Street) Ward-43
+2  - Kumbakonam(C) Kanmani nagar ward-43
+3  - Kumbakonam(C) Sadasayee  madathu street ward-43 999.OVERSEAS  ELECTORS"
+301,171,300,"Government College  for  women (Autonomous),  Entrance Building south facing  Room No-5, Kumbakonam-612001",,"1  - Kumbakonam (C),  Mahamahakulam keelkarai wd-41
+2  - Kumbakonam(C) Vadivaikkal Street wd-43
+3  - Kumbakonam(C) Jaganathapilliyar koil  keela  Street ward-43 999.OVERSEAS  ELECTORS"

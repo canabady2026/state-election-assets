@@ -1,0 +1,569 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+1,208,1,"Panchayat  Union  Middle  School, New  Building,  Eastern  facing, Mangulam-  626106","1.Mangulam(R.V),  Mangulam  (P)  Ward  1  Mangulam  ,  2.Mangulam(R.V), Mangulam  (P)  Ward  2  Udikulam",All  Voters
+2,208,2,"Panchayat  Union  Primary  School, West  Portion  old  building,  Kurandi-626106","1.Kurandi(R.V),  Kurandi  (P)  Ward  1  Kurandi  , 2.Kurandy(R.V),  Kurandy  (P)  Ward  2  Kurandy",All  Voters
+3,208,3,"Govt.High  School,  Easternside
+Add.Building,  South  Portion, Kurandi-  626106","1.Kurandy(R.V),  Kurandy  (P)  Ward  3  Kurandy  , 2.Kurandy(R.V),  Kurandy  (P)  Ward  4  Kurandy",All  Voters
+4,208,4,"Panchayat  Union  Middle  School, Melakallangulam","1.K.Alangulam(R.V),  Melakallankulam(P)  Ward  1  Melakallankulam  , 2.K.Alangulam(R.V),  Melakallankulam  (P)  Ward  3  Melakallankulam  , 3.K.Alangulam(R.V),  Melakallankulam  (P)  Ward  2  Melakallankulam",All  Voters
+5,208,5,"Panchayat  union  primary  school, East  side  building,  west  facing, Nasarpuliyankulam","1.K.Alangulam(R.V),  Mustakuruchi  (P)  Nasarpuliyankulam",All  Voters
+6,208,6,"Panchayat  Union  Primary  School, SSA  Additional  Class  Room Building,  East  facing,  south  side Room,  K.Alangulam","1.K.alangulam(R.V),  Melakallankulam  (P)  K.alangulam",All  Voters
+7,208,7,"Panchayat  Union  Middle  School,
+Soth  Portion,  New  Building, Thimmapuram-  626106","1.Thimmapuram(R.V),  Thimmapuram  (P)  Ward  1  Thimmapuram  , 2.Thimmapuram(R.V),  Thimmapuram  (P)  Thimmapuram",All  Voters
+8,208,8,"Panchayat  Union  Elementary  School North  building  North  Portion,
+Mustakurutchi-  626106","1.Mustakuruchi(R.V),  Mustakuruchi  (P)  Mustakuruchi",All  Voters
+9,208,9,"Panchayat  Union  Elementary School,  west  building,  South  side class  room  facing  east,
+Mustakurutchi","2.Mustakuruchi(R.V),  Mustakuruchi  (P)  Petharenthal  , 3.Mustakuruchi(R.V),  Mustakuruchi  (P)  Naganenthal 4.Mustakuruchi(R.V),  Mustakuruchi  (P)  Kesiganenthal  ,
+5.Mustakuruchi(R.V),  Mustakuruchi  (P)  Kottankulam",All  Voters
+10,208,10,"Panchayat  Union  Middle  School, North  portion,  old  building, Arasakulam-  626106","1.Arasakulam(R.V),  Arasakulam  (P)  Ward  1  arasakulam  , 2.Arasakulam(R.V),  Arasakulam  (P)  Ward  2  Arasakulam 3.Arasakulam(R.V),  Arasakulam  (P)  Rayarpatti",All  Voters
+11,208,11,"Panchayat  Union  Middle  School,  Old building  South  portion,  Arasakulam-
+626106","1.Arasakulam(R.V),  Arasakulam  (P)  Ward  3  Arasakulam  , 2.Arasakulam(R.V),  Arasakulam  (P)  Ward  4  Arasakulam  ,
+3.Arasakulam(R.V),  Aviyoor  (P)  Seeganendal",All  Voters
+12,208,12,"Govt  Higher  Sec  School,  New  East Building,  XII  class  Computer  Room,
+Aviyoor","1.Aviyoor(R.V),  Aviyoor  (P)  Ward  1  Aviyoor",All  Voters
+13,208,13,"Govt  Higher  Sec  School,  New  East Building,  XII  Calss  Maths  Room,
+Aviyoor","1.Aviyoor(R.V),  Aviyoor  (P)  Ward  1  Aviyoor",All  Voters
+14,208,14,"Panchayat  Union  Primary  School, South  Portion,  Aviyur-626106","1.Aviyoor(R.V),  Aviyoor  (P)  Ward  2  Aviyoor",All  Voters
+15,208,15,"Panchayat  Union  Primary  School, SSA  Building,  East  Portion,  Aviyur-626106","1.Aviyoor(R.V),  Aviyoor  (P)  Ward  5  &  6  Aviyoor",All  Voters
+16,208,16,"Panchayat  Union  Primary  School, SSA  Building,  West  Portion,  Aviyur-626106","1.Aviyoor(R.V),  Aviyoor  (P)  Ward  6  Aviyoor  , 2.Aviyoor(R.V),  Aviyoor  (P)  Ward  3  &  4  Aviyoor  , 3.Aviyoor(R.V),  Aviyoor  (P)  Ward  2  Aviyoor",All  Voters
+17,208,17,"Panchayat  Union  Primary  School, Old  Building,  D.  Kadambangulam","1.D.Kadambankulam(R.V),  D.Kadambankulam  (P)  D.kadambankulam",All  Voters
+18,208,18,"Panchayat  Union  Primary  School, East  Side  Building,  Pullur","1.D.Kadambankulam(R.V),  D.Kadanpankulam  (P)  Thoduvampatti. Thoduvampatti  ,
+2.D.Kadambankulam(R.V),  D.Kadambankulam  (P)  pullur
+Pullur",All  Voters
+19,208,19,"Panchayat  Union  Elementary School,  Keela  upplikundu-625022","1.D.Kadambankulam(R.V),  D.Kadambankulam  (P)  Ward  2  uppilikundu  , 2.D.Kadambankulam(R.V),  D.Kadambankulam  (P)  Ward  3  Uppilikundu  , 3.D.Kadambankulam(R.V),  D.Kadambankulam  (P)  Ward  3  Uppilikundu",All  Voters
+20,208,20,"Panchayat  Union  Primery  School, New  Building,  North  Side,  South Facing,  West  Room,  S.Kaluppatti.","1.S.Kallupatti(R.V),  S.Kallupatti  (P)  S.Kallupatti",All  Voters
+21,208,21,"Panchayat  Union  Primery  School, New  Building,  North  Side,  South Facing,  East  Room,  S.Kaluppatti.","1.S.Kallupatti(R.V),  S.Kallupatti  (P)  Chinnakallupatti  , 2.S.Kallupatti(R.V),  Kambikudi  (P)  Pitchampatti  ,  3.S.Kallupatti(R.V), Kambikudi  (P)  Puliyankulam",All  Voters
+22,208,22,"Panchayat  Union  Middle  School, East  Building  (Old  Building), Kambikudi-626106","1.Kambikudi(R.V),  Kambikudi  (P)  Kambikudi  ,  2.Kambikudi(R.V), Kambikudi  (P)  Kambikudi",All  Voters
+23,208,23,"Panchayat  Union  Primary  School,
+Tharaganendal-626106","1.Kambikudi(R.V),  Kambikudi  (P)  Kanjamanaickenpatti  ,
+2.Arasakulam(R.V),  Kambikudi  (P)  Tharaganendal",All  Voters
+24,208,24,"P.U.PRIMARY  SCHOOL,  North
+Building,west  side,   class  Room.","1.Kambikudi(R.V),  Kambikudi  (P)  Manthiriodai  (S.No.  1  to  600)",All  Voters
+25,208,25,"P.U.PRIMARY  SCHOOL,  East
+Building  (North  side)  facing  west Manthiriodai  -  626106","1.Kambikudi(R.V),  Kambikudi  (P)  Manthiriodai  (S.No.  601  to  1237)",All  Voters
+26,208,26,"Panchayat  Union  Middle  School, Meenatchipuram, Gopalakrishnapuram","1.Kambikudi(R.V),  Kambikudi  (P)  Meenatchipuram",All  Voters
+27,208,27,"Panchayat  Union  Middle  School, New  Building  ,  Pappanam","1.Pappanam(R.V),  Pappanam  (P)  Ward  1  Pappanam  ,  2.Pappanam(R.V), Pappanam  (P)  Ward  2  Pappanam  ,  3.Pappanam(R.V),  Pappanam  (P)  Ward 3  Pallavarendal  ,  4.Pappanam(R.V),  Pappanam  (P)  Sakkarakottai",All  Voters
+28,208,28,"Panchayat  Union  Middle  School, New  Building,  V.Nangoor","1.V.Nangoor(R.V),  V.Nangoor  (P)  Ward  1  V.Nangoor  , 2.Anmaiperukki(R.V),  V.Nangoor  (P)  Anmaiperukki  , 3.Anmaiperukki(R.V),  V.Nangoor  (P)  Anmaiperukki  , 4.Anmaiperukki(R.V),  V.Nangoor  (P)  Kooranendal  ,  5.Anmaiperukki(R.V), V.Nangoor  (P)  Vitilarendal",All  Voters
+29,208,29,"Panchayat  Union  Middle  School,
+East  side  New  Building,  T Veppankulam","1.T.Veppankulam(R.V),  T.Veppankulam  (P)  T.Veppankulam",All  Voters
+30,208,30,"Panchayat  Union  Middle  School, South  Side  Building,  East  Facing,  A Thotiyankulam","1.1.T.Veppankulam  (V.R)  T.Veppankulam  (P)  A.Thottiyankulam A.Thottiyankulam  ,
+2.T.Veppankulam(R.V),  T.Veppankulam  (P)  Ward  4  A.Thottiankulam  , 3.M.Iluppaikulam(R.V),  T.Veppankulam  (P)  M.Iluppaikulam",All  Voters
+31,208,31,"Panchayat  Union  Primary  School, M.Iluppaikulam-  626106","1.T.Veppankulam(R.V),  T.Veppankulam  (P)  Ward  3  A.Thottiankulam  , 2.Mudukkankulam(R.V),  Mudukkankulam  (P)  N.Nedunkulam  , 3.Mudukkankulam(R.V),  T.Veppankulam  (P)  Kurinjakulam",All  Voters
+32,208,32,"Government  High  School,  RMSA Additional  Double  class  Room,  West Facing  9th  Std  B,  Mudukkankulam-
+626106","1.Mudukkankulam(R.V),  Mudukkankulam  (p)  Ward  1  Mudukkankulam",All  Voters
+33,208,33,"Government  High  School,  Eastern portion  Building  ,  Mudukkankulam","1.Mudukkankulam(R.V),  Mudukkankulam  (P)  Ward  2  Mudukkankulam  , 2.Mudukkankulam(R.V),  Mudukkankulam  (P)  Ward  2  Mudukkankulam  , 3.Sirukulam(R.V),  Mudukkankulam  (P)  Ward  3  Sirukulam  , 4.Sirukulam(R.V),  Mudukkankulam  (P)  Ward  3  Sirukulam",All  Voters
+34,208,34,"Panchayat  Union  Elementary School,  North  Building,  North Portion,  Sokkanenthal","1.Sokkanenthal(R.V),  Mudukkankulam  (P)  Sokkanenthal  ,
+2.Peria  alangulam(R.V),  Mudukkankulam  (P)  Peria  alangulam  ,  3.Chinna Alangulam(R.V),  Mudukkankulam  (P)  Chinna  Alangulam  4.1.Sooranoor (R.V)  Sooranoor  (P)  K.Nedunkulam,  Thenoor  ,  5.1.Thenoor  (R.V) Sooranoor  (P)  Thenoor  Thenoor  ,  6.1.Koovarkulam  (R.V)  Sooranoor  (P) ward  3  Koovarkulam  Thenoor",All  Voters
+35,208,35,"Panchayat  Union  Middle  School
+,New  Building,  South  Portion Thenoor","1.Thenoor(R.V),  Sooranoor  (P)  Thenoor  ,
+2.Sokkanendal  (R.V)  Mudukkankulam  (P)  Sokkanendal  Sokkanendal  ,
+3.Peria  Alangulam  (R.V)  Mudukkankulam  (P)  Peria  Alangulam Sokkanendal  ,
+4.Peria  Alangulam  (R.V)  Mudukkankulam  (P)  Chinna  Alangulam Sokkanendal",All  Voters
+36,208,36,"Panchayat  Union  Middle  School
+,West  Building,  middle  class  room, Thenoor","1.Sooranoor(R.V),  Sooranoor  (P)  Sooranoor  K.Nedunkulam  , 3.Koovarkulam(R.V),  Sooranoor  (P)  Ward  3  Koovarkulam",All  Voters
+37,208,37,"Govt  Higher  Secendary  School  S Maraikulam,  East  Portion,
+S.Maraikulam-626607","1.Maraikulam(R.V),  Maraikulam  (P)  Ward  1  Maraikulam  , 2.Maraikulam(R.V),  Maraikulam  (p)  Sitthanenthal",All  Voters
+38,208,38,"Govt  Higher  Secendary  School  S
+Maraikulam,  East  Portion, S.Maraikulam-626607","1.Maraikulam(R.V),  Maraikulam  (P)  Ward  2  Maraikulam  ,
+2.Maraikulam(R.V),  Maraikulam  (P)  Ward  3Maraikulam  , 3.Maraikulam(R.V),  Maraikulam  (P)  Ward  4  Maraikulam",All  Voters
+39,208,39,"Government  High  School,  Main Block  North  Portion,  West  Corner Room,  Vallappanpatti-626106","1.Allalaperi(R.V),  Allalaperi  (P)  Ward  1  Allalaperi  ,  2.Allalaperi(R.V), Allalaperi  (P)  Vallapanpatti  ,
+3.Veetrilai  murianpatti(R.V),  Allalaperi  (P)  Veetrilai  murianpatti  ,
+4.Allalaperi(R.V),  Allalaperi  (P)  Ward  2  Allalaperi",All  Voters
+40,208,40,"Panchayat  Union  Primary  School, North  Building, Sathirapuliyankulam-626106","1.Satthiram  Puliyankulam(R.V),  Satthiram  Puliyankulam  (P)  Ward 1Satthiram  Puliyankulam  ,
+2.Satthiram  Puliyankulam(R.V),  Satthiram  Puliyankulam  (P)  Chinna kadambankulam  ,
+3.Satthiram  Puliyankulam(R.V),  Satthiram  Puliyankulam  (P)  Ward  2 Chatthiram  Puliyankulam  ,
+4.Satthiram  Puliyankulam(R.V),  Satthiram  Puliyankulam  (P)  Ward 3Satthiram  Puliyankulam  ,
+5.Satthiram  Puliyankulam(R.V),  Satthiram  Puliyankulam  (P)  Ward  4 Satthiram  Puliyankulam  ,
+6.Satthiram  Puliyankulam(R.V),  Satthiram  Puliyankulam  (P)  Ward  5 Satthiram  Puliyankulam",All  Voters
+41,208,41,"Panchayat  Union  Middle  School,
+Wes.t  Building,  Thoppur-626106","1.Thoopur(R.V),  Thoopur  (P)  Ward  1  Thoopur  ,  2.Thoopur(R.V),  Thoopur
+(P)  Thammapuram",All  Voters
+42,208,42,"Panchayat  Union  Middle  School, SSA  ,  Southern  side  of  the  Weastern portion  of  the  Building  ,  Thoppur-626106","1.Thoopur(R.V),  Thoopur  (P)  Ward  2  Thoopur",All  Voters
+43,208,43,"Panchayat  Union  Primary School,east  building  facing  west
+,kaluvanacheri.","1.Kaluvanacheri(R.V),  Thoopur  (P)  Ward  4  Kaluvanacheri",All  Voters
+44,208,44,"Panchayat  Union  Primary School,North  side  building,  west portion,  facing  south  kaluvanacheri.","2.Kaluvanacherri(R.V),  Thoopur  (P)  Ward  5  Kaluvanacherri",All  Voters
+45,208,45,"Govt  Primary  School,  East  Building, West  Facing  middle  class  Room, Kariapatti-626106","1.Kariapatti  (S.P)  Pallivasal  North  Steert  , 2.Kariapatti  (S.P)  kaliamman  Kovil  Steert  , 3.Kariapatti  (S.P)  Pallivasal  Middle  Steert  , 4.Kariapatti  (S.P)  Pallivasal  1st  lane  , 5.Kariapatti  (S.P)  Pallivasal  2nd  Lane  , 6.Kariapatti  (S.P)  Pallivasal  3rd  Lane  , 7.Kariapatti  (S.P)  Pallivasal  4th  Lane  , 8.Kariapatti  (S.P)  Pallivasal  5th  Lane  , 9.Kariapatti  (S.P)  Colony  Middle  street  , 10.Kariapatti  (S.P)  Colony  North  Street",All  Voters
+46,208,46,"Govt  Primary  School,  North  East Building,  South  Facing  middle  class
+room  ,  Kariapatti-626106","1.Kariapatti  (S.P)  Madurai  Thoothukudi  Salai  , 2.Kariapatti  (S.P)  Colony  South  Street  ,
+3.Kariapatti  (S.P)  Thoguppu  Veedukal",All  Voters
+47,208,47,"Govt  Primary  School  ,  North Building  west  block  middle  class room,  facing  South  Kariapatti-626106","1.Kariapatti  (S.P)  Jeegajeevaram  street  , 2.Kariapatti  (S.P)  Colony  Big  street  , 3.Kariapatti  (S.P)  Jegajeevan  ram  colony",All  Voters
+48,208,48,"Govt.Girls  Higher  Secondary  School, North  Middle  side  building,  west portion,  Kariapatti-626106","1.kariapatti  (S.P)  Ward  3  Madurai  Tuticorin  Road  2.kariapatti  (S.P) Annanagar  1st  street  ,
+3.kariapatti  (S.P)  Annanagar  2nd  Street  ,
+4.Kariapatti  (S.P)  Annanagar  3rd  Street",All  Voters
+49,208,49,"Govt  Girl.  Higher  Secondary  School, North  middle  building,  east  portion, Kariapatti-626106","1.kariapatti  (S.P)  Annanagar  4th  street  , 2.Kariapatti  (S.P)  Annanagar  5th  Street  ,
+3.Pampatti  (P)  Panickanendal",All  Voters
+50,208,50,"Govt.  Girls  Higher  Secondary School,  South  side  East  block  west side  class  Room  ,  Kariapatti-626106","1.Kariapatti  (S.P)  Pillayarkoil  Peria  Street  , 2.Kariapatti  (S.P)  Pillayarkoil  First  lane  , 3.Kariapatti  (S.P)  Pillayarkoil  Second  lane  , 4.Kariapatti  (S.P)  Pillayarkoil  Third  lane  ,
+5.Kariapatti  (S.P)  Subbiramaniyar  kovil  street  ,  6.Kariapatti  (S.P) Subbiramaniyar  First  street  ,  7.Kariapatti  (S.P)  Subbiramaniyar  Kovil Second  street",All  Voters
+51,208,51,"Govt.  Girls  Higher  Secondary School,  North  West  Building,  south side  class  room  Kariapatti-626106","1.Kariapatti  (S.P)  Market  Street  , 2.Kariapatti  (S.P)  Panchayat  office  street  , 3.Kariapatti  (S.P)  Panchayat  union  street  ,
+4.Kariapatti  (S.P)  Panchayat  Union  1st  Street  , 5.Kariapatti  (S.P)  Ward  4  Madurai  Tuticorin  salai  ,
+6.Kariapatti  (S.P)  Pandiyan  nagar  fifth  street",All  Voters
+52,208,52,"Govt.Girls  Higher  Secondary  School, South  Side  building  West  Block  (one class  room  building)  west  class room,  Kariapatti-626106","1.Kariapati  (Spl  P)  Muthalamman  Kovil  North  Street. 2.kariapatti  (S.P)  Muthdalamman  koil  1st  street, 3.kariapatti  (S.P)  Muthdalamman  koil  2nd  Street 4.kariapatti  (S.P)  Muthdalamman  koil  East  street",All  Voters
+53,208,53,"Govt.Girls  Higher  Secondary  School, Noth  west  building  north  portion facing  east  Kariapatti-626106","1.kariapatti  (S.P)  Muthdalamman  koil  street  ,
+2.kariapatti  (S.P)  Muthdalamman  koil  southstreet  1st  lane  , 3.kariapatti  (S.P)  Muthdalamman  koil  west  street 4.kariapatti  (S.P)  Muthdalamman  koil  Union  ,
+5.kariapatti  (S.P)  Thevar  street",All  Voters
+54,208,54,"Govt.Girls  Higher  Secondary  School, Additional  six  class  room  building, east  side  class  room,  Kariapatti-626106","1.kariapatti  (S.P)  Adhithiravidar  street  -1  , 2.kariapatti  (S.P)  Muthdalamman  koil  1st  lane  , 3.kariapatti  (S.P)  Muthdalamman  koil  2nd  lane  ,
+4.kariapatti  (S.P)  Muthdalamman  koil  west  street  1st  lane  ,  5.kariapatti (S.P)  Adhithiravidar  street-2  ,
+6.Kariapatti  (S.P)  A.Nedunkulam  , 7.kariapatti  (S.P)  Pandiyan  nagar  3rd  lane",All  Voters
+55,208,55,"Amala  High  School,  North  New Building,  East  Portion  Room  No  4, Kariapatti-626106","1.kariapatti  (S.P)  Madurai  Tuticorin  Road  ward-6  Street-1  ,  2.kariapatti (S.P)  Madurai  Tuticorin  Road  ward-11  street-1  ,
+3.kariapatti  (S.P)  Madurai  Tuticorin  Road  Ward-11  Street-2  , 4.kariapatti  (S.P)  Thiruchuli  -  Kallikudi  Road  Ward-6  Street  -1  , 5.kariapatti  (S.P)  Thiruchuli  -  Kallikudi  Road  Ward-6  Street  -2  ,
+6.kariapatti  (S.P)  Thiruchuli  -  Kallikudi  Road  Ward-6  Street  -4",All  Voters
+56,208,56,"Amala  High  School,  North  New Building,  East  Portion  Room  No  3, Kariapatti-626106","1.kariapatti  (S.P)  Thiruchuli  -  Kallikudi  Road  Ward-11  Street-1  , 2.kariapatti  (S.P)  Govt.Employee  housing  board  ward-11  Street-2  , 3.kariapatti  (S.P)  Govt.employee  housing  board  Ward-11  Street-6",All  Voters
+57,208,57,"Amala  High  School  ,North  Western New  building  Emmerich  Hall  ""C"" Block  ,East  portion,  Kariapatti  - 626106","1.kariapatti  (S.P)  Pandiyan  nagar  ward  6  Street-1  , 2.kariapatti  (S.P)  Pandiyan  nagar  Ward-6  Street  -2  , 3.kariapatti  (S.P)  Pandiyan  nagar  Ward  -6  Street  -3  , 4.kariapatti  (S.P)  Pandiyan  nagar  ward  6  Street-4  ,
+5.kariapatti  (S.P)  Pandiyan  nagar  ward-6  Street-5  , 6.kariapatti  (S.P)  Pandiyan  nagar  ward-6  Street-6  ,",All  Voters
+58,208,58,"Amala  High  School,  North  Eastern New  Building  ,  Room  No  1, Kariapatti-626106","1.kariapatti  (S.P)  Pandiyan  nagar  ward-12  Street-2  , 2.kariapatti  (S.P)  Pandiyan  nagar  Ward-12  Street-3",All  Voters
+59,208,59,"Amala  High  School,  North  Western, New  building  Emmerich  Hall  ""C"" Block  west  portion,  Kariapatti  - 626106","1.kariapatti  (S.P)  Pandiyan  nagar  ward-12  street-4  , 2.kariapatti  (S.P)  Pandiyan  nagar  Ward-12  Street-5  , 3.kariapatti  (S.P)  Pandiyan  nagar  ward-12  street-6",All  Voters
+60,208,60,"Amala  High  School,  North  New Building,  East  Portion,  Room  2, Kariapatti-626106","1.kariapatti  (S.P)  E.P.colony  ward-11  Street-2  ,
+2.Kariapatti  (S.P)  Primary  Health  Centre  Quaters  Ward  11  Street  4 3.Kariapatti  (S.P)  Primary  Health  Centre  Quaters  ward  11  street  5  , 4.Kariapatti  (S.P)  PRIMARY  HEALTH  CENTRE  QUATERS  WARD  11 STREET  6",All  Voters
+61,208,61,"Panchayat  Union  Primary  School, Eastern  Portion,  K.Sevalpatti-626106","1.kariapatti  (S.P)  MADURAI  ,  TUTICORIN  ROAD  1ST  STREET  WARD-9  ,
+2.kariapatti  (S.P)  MADURAI,  TUTICORIN  ROAD  2ND  STREET  WARD-9  ,
+3.kariapatti  (S.P)  pillaiyar  koil  1st  street  , 4.kariapatti  (S.P)  Kaliyamman  koil  2nd  Street  , 5.kariapatti  (S.P)  Kaliyammankoil  3rd  Street  ,
+6.kariapatti  (S.P)  Kaliyamman  koil  4th  Street  ,  7.kariapatti  (S.P) Kaliyamman  koil  5th  Street  ,  8.kariapatti  (S.P)  Sennampatti  Anaikattu thitta  kutiyeeruphu",All  Voters
+62,208,62,"Panchayat  Union  Primary  School, west  Portion,  K.Sevalpatti-  626106","1.kariapatti  (S.P)  Colony  Street  ,
+2.kariapatti  (S.P)  4-5th  Pillaiyar  koil  street-1  ,
+3.kariapatti  (S.P)  Madurai,  Tuticorin  Road  1st  Street  ward-10  , 4.kariapatti  (S.P)  Periyar  nagar  ,
+5.kariapatti  (S.P)  Kaliyamman  koil  street  , 6.kariapatti  (S.P)  Sevalpatti  ,
+7.kariapatti  (S.P)  Ambathgar  nagar",All  Voters
+63,208,63,"Adi  Dravidar  Primary  School, K.Karisalkulam-  622106","1.kariapatti  (S.P)  Pillaiyar  koil  street  , 2.kariapatti  (S.P)  Amman  koil  street  1st  lane  , 3.kariapatti  (S.P)  Amman  koil  street  2nd  lane  , 4.kariapatti  (S.P)  Pudhapandiyan  street  , 5.kariapatti  (S.P)  Doctor  Ambathgar  2  &  1st  lane  ,
+6.kariapatti  (S.P)  Doctor  Ambathgar  3  &  2nd  lane  , 7.kariapatti  (S.P)  Doctor  Ambathgar  4  &  3rd  lane  , 8.kariapatti  (S.P)  Doctor  Ambathgar  5  &  4th  lane  , 9.kariapatti  (S.P)  Doctor  Ambathgar  6  &  5th  lane  , 10.kariapatti  (S.P)  Doctor  Ambathgar  7  &  6th  lane  , 11.kariapatti  (S.P)  Pillaiyar  koil  street-2  , 12.kariapatti  (S.P)  K.karisalkulam",All  Voters
+64,208,64,"Govt  High  School,  New  building, Pambatti","1.Pambatti(R.V),  Pambatti  (P)  Ward  1  Pambatti  , 2.Pambatti(R.V),  Pambatti  (P)  Ward  2  Pambatti  , 3.Panjar(R.V),  Pambatti  (P)  Panjar",All  Voters
+65,208,65,"Panchayat  Union  Primary  School, Pisindi-  626106","1.Pichindi(R.V),  Pichindi  (P)  Ward  1  Pichindi  ,
+2.Pichindi(R.V),  Pichindi  (P)  Ward  2  Pichindi  , 3.Vadakarai(R.V),  Pichindi  (P)  Vadakarai",All  Voters
+66,208,66,"Panchayat  Union  Middle  School,
+Achankulam.","1.Achankulam(R.V),  Pichindi  (P)  Achankulam",All  Voters
+67,208,67,"Govt.  High  School,  North  side  first Room,  East  Facing,  Manthoppu-
+626106","1.Manthoppu(R.V),  Manthoppu  (P)  Ward  1Manthoppu  , 2.Manthoppu(R.V),  Manthoppu  (P)  Ward  2  Manthoppu  ,
+3.Manthoppu(R.V),  Manthoppu  (P)  Ward  3  Manthoppu",All  Voters
+68,208,68,"Panchayat  Union  Middle  School, SSA  New  building,  Northern  side western  portion,  Puthuvaiampattii","1.Vaiyampatti(R.V),  Manthoppu  (P)  Old  Vaiyampatti  New  Vaiyampatti",All  Voters
+69,208,69,"Govt  Higher  Secondary  School,  New Building  Middle  Portion, Alagiyanalloor-  626001","1.Alagiya  Nalloor(R.V),  Alagiya  Nalloor  (P)  Ward  1  Alagiya  Nalloor  ,
+2.Alagiya  Nalloor(R.V),  Alagiya  Nalloor  (P)  Ward  2  Kila  Alagiya  Nalloor",All  Voters
+70,208,70,"Panchayat  Union  Middle  School, SSA  Central  portion  of  New Building,  KeelaAlagiyanalloor","1.Alagiya  Nalloor(R.V),  Alagiya  Nalloor  (P)  Ward  2  Alagiya  Nalloor  ,
+2.Alagiya  Nalloor(R.V),  Alagiya  Nalloor  (P)  Ward  3  Kila  Alagiya  Nalloor",All  Voters
+71,208,71,"Govt  Primary  School,  East  portion South  facing,  Keppilingampatti-626001","1.Keppilingampatti(R.V),  Alagiya  Nalloor  (P)  Ward  4  Keppilingampatti",All  Voters
+72,208,72,"Govt  Primary  School,  West  portion south  focing  Building, Keppilingampatti-  626001","1.Keppilingampatti(R.V),  Alagiya  Nalloor  (P)  Ward  5  Keppilingampatti",All  Voters
+73,208,73,"Govt  Middle  School,  East  Side  New Building,  Solaikuoundanpatti-626001","1.Solaikavundanpatti(R.V),  Alagiya  Nalloor  (P)  Ward  6 Solaikavundanpatti  ,
+2.Solaikavundanpatti(R.V),  Alagiya  Nalloor  (P)  Ward  7  Solaikavundanpatti",All  Voters
+74,208,74,"Panchayat  Union  Middle  School, North  Building,  West  Side, Melathulukkankulam-626109","1.Nandhikundu(R.V),  Nandhikundu  (P)  Ward  2  &  3  Kilathulukkankulam  ,
+2.Nanthi  kundu(R.V),  Nanthi  kundu  (P)  Ward  5  Melathulukkankulam",All  Voters
+75,208,75,"Panchayat  Union  Middle  School, NorthBuilding,  East  Side, Melathulukkankulam-626109.","1.Nanthikundu(R.V),  Nanthikundu  (P)  Ward  4  Mela  Thulukkankulam",All  Voters
+76,208,76,"Hindu  Kannappar  primary  School,
+Nanthikundu-  626104","1.Nandikundu(R.V),  Nandikundu  (P)  Nandikundu",All  Voters
+77,208,77,"Panchayat  Union  Middle  School, South  portion  Old  Building, Thandiyenthal-  626104","1.Vadakku  Puliyampatti(R.V),  Thandiyanendal  (P)  Ward  1 Thandiyanendal  ,
+2.Vadakku  Puliyampatti(R.V),  Thendiyenandal  (P)  Periya  Puliyampatti",All  Voters
+78,208,78,"Panchayat  Union  Middle  School, Beraignar  Anna  Memorial Annversary  Building  SSA  Northern Portion  of  the  New  Building, Thandiyenthal-  626104","1.Vakku  Puliyampatti(R.V),  Thendiyanendal  (P)  Ward  2  Thendiyanendal",All  Voters
+79,208,79,"Panchayat  Union  primary  School
+,North  building  east  portion  facing south  Thonugal-  626104","1.Dhonukal(R.V),  Dhonukal  (P)  Ward  1  &  2  Dhonukal",All  Voters
+80,208,80,"Panchayat  Union  primary  School
+,North  building  middle  portion facing  south  Thonugal-  626104","1.Dhonukal(R.V),  Dhonukal  (P)  Ward  5  Dhonukal  ,
+2.Vadakku  Puliyampatti(R.V),  Dhonukal  (P)  Puliyampatti",All  Voters
+81,208,81,"Panchayat  Union  Middle  School, SSA  New  Building,  South  Portion, Vakkanangundu-626104","1.Vakkankundu  (R.V),  Vakkanankundu  Ward  1  vakkanankundu  , 2.Vakkankundu  (R.V),  Vakkanankundu  Ward  2  Vakkanankundu",All  Voters
+82,208,82,"Panchayat  Union  Middle  School, south  building  south  Portion, Kariyanendal-626104","1.Johilpatti(R.V)  Johilpatti  (U)  Ward  4  &  5  Kariyanendal  ,  2.Allikulam (R.V),  Jokilpatti  (U)  Kannakkanandal",All  Voters
+83,208,83,"Government  High  School, Chithumoondradaippu-626106","1.Sidhumoondradaippu  (R.V),  Vakkanankundu  (U)  Ward  3  Sidhu moondradaipu  ,
+2.Sidhumoondradaippu  (R.V),  Vakkanankundu  (U)  Ward  4  sidhu
+Moondradaipu",All  Voters
+84,208,84,"Panchayat  Union  Primary  School, New  building,  Allikulam-626106","1.Athikulam  (R.V),  Thoppur  (U)  Athikulam  ,  2.Allikulam  (R.V), Vakkanankundu  (U)  Allikulam",All  Voters
+85,208,85,"Panchayat  Union  Primary  School,
+West  Portion,  New  building, Kilavaneri-626106","1.Kilavaneri  (R.V),  Kilavaneri  (U)  Kilavaneri",All  Voters
+86,208,86,"Panchayat  Union  Primary  School  , Thulukkankulam-626129","1.Thulukkankulam  (R.V),  Thulukkankulam  (U)  Thulukkankulam  , 2.Karaikulam  (R.V),  Thulukkankulam  (U)  Karaikulam  ,  3.Manakathan (R.V),  Thulukkankulam  (U)Sivaperumanendal  Pudur,
+4.Manakathan(  R.V),  Suranoor  (U)  Ward  4  Uvarkulam",All  Voters
+87,208,87,"Government  High  School,  East Portion,  Kambali-626129","1.Thulukkankulam  (R.V),  Thulukkankulam(U)  Kambali  ,  2.Kundukulam (R.V)  Thulukkankulam  (U)  Kundukulam  ,  3.Thulukkankulam  (R.V),
+Thulukkankulam  Keel  Edaiyankulam",All  Voters
+88,208,88,"Panchayat  Union  Middle  School  , new  building  facing  west
+,Thamaraikulam","1.T.Chettikulam  (R.V),  T.  Chettikulam  (U)  Esalimadai  , 2.Thamaraikulam  (R.V),  Thulukkankulam  (U)  Thamaraikulam",All  Voters
+89,208,89,"Panchayat  Union  Middle  School, North  side  building  west  portion facing  south,  Thamaraikulam","1.T.Chettikulam  (R.V),  T.  chettikulam  (u)  Ward  1  t.chettikulam  , 2.Kilakanjeerankulam  (R.V),  T.  Chettikulam  (U)  Ward  2 Kilakanjeerankulam  ,
+3.Manaiviyandeal  (R.V),  Thulukkankulam  Manaiviyandhal",All  Voters
+90,208,90,"Panchayat  Union  Middle  School, Chokkampatti-626129","1.sokkampatti  (  R.V),  panikurippu  sokkampatti  ,
+2.1.Panikkurippu  (R.V)  Panikkurippu  (P)  Chokkampatti  Panikkurippu  , 3.1.Panikkurippu  (R.V)  Panikkurippu  (P)  Panikurippu  Panikkurippu  , 4.1.Panikkurippu  (R.V)  Panikkurippu  (P)  Kallamperambu  Panikkurippu  , 5.1.Panikkurippu  (R.V)  Panikkurippu  (P)  Murugaiyapuram  Panikkurippu",All  Voters
+91,208,91,"Panchayat  Union  Primary  School, panikurippu-626129","1.Panikurippu  (R.V)  Panikurippu  (P)  Panikurippu  , 2.Panikurippu  (R.V)  Panikurippu  (P)  kallabarambu  , 3.Panikurippu  (R.V)  Panikurippu  (P)  murugaiahpuram  ,
+4.1.Chokkampatti  (R.V)  Panikkurippu  (P)  Chokkampatti  Chokkampatti",All  Voters
+92,208,92,"Panchayat  Union  Primary  School, Pandenendal-626104","1.Pananendal  (R.V),  Pandanendal  (U)  Namasivayapuram  ,  2.Pandanendal (R.V),  Pandanendal  (U)  Pandanendal",All  Voters
+93,208,93,"Government  High  School  ,SSA  New Building,  east  side  building  South side  class  Room  West  facing, Kalkurichi-626104","1.Kalkuruich  (R.V),  Kalkurichi  (U)  Ward1  kalkurichi",All  Voters
+94,208,94,"Panchayat  Union  Primary  School
+,East  building  facing  west, Kalkuruichi-  626104","1.Kalkurichi  (R.V),  Kalkurichi  (U)  Samathduvapuram  , 2.Kalkurichi  (R.V),  Kalkurichi  (U)  Ward  5  Kalkurichi,  ,
+3.Kalkurichi  (R.V),  Kalkurichi  (U)  Ward  5  Kalkurichi  (Come  from  Part
+No.97,Section  2nd  )",All  Voters
+95,208,95,"Govt  Higher  Secondary  School,  AVT
+Hall,  Johilpatti-626104","1.Jokilpatti  (R.V),.  Jokilpatti  (U)  Ward  1  Jokilpatti  ,  2.Jokilpatti  (.R.V),
+Jokilpatti  (U)  Ward  2  Jokilpatti",All  Voters
+96,208,96,"Government  High  School,  Main Building  Middle  portion,  Kalkurichi-
+626104","1.Kalkurichi  (R.V),  Kalkurichi  (U)  Ward  2  Kalkurichi  ,  2.Kalkurichi  (.R.V), Kalkurichi  (U)  Ward  3  kalkurichi",All  Voters
+97,208,97,"Panchayat  Union  Primary  School
+,East  building  south  side  class  room facing  west,  Kalkuruichi-  626104","1.Kalkurichi  (R.V),  Kalkurichi  (U)  Ward  4  Kalkurichi",All  Voters
+98,208,98,"Panchayat  Union  Elementry  School, Main  Building,  South  Facing, Chandrankulam","1.Chandrankulam  (R.V),  Dhonukal(U)  Ward  3  chandrakulam Valayyankulam  part",All  Voters
+99,208,99,"Panchayat  Union  Primary  School, West  building  South  block  west  side class  Room,  Mallankinar-626109","1.Mallankinar  (s.p)  Melaratha  veethi  , 2.Mallankinar  (S.P)  Sannathi  Street  , 3.Mallankinar  (S.P)  Sennamaiya  street  , 4.Mallankinar  (S.P)  Chettiyar  Street  , 5.Mallankinar  (S.P)  Vinayagar  koil  street  , 6.Mallankinar  (S.P)  Naidu  east  Street",All  Voters
+100,208,100,"Panchayat  Union  Primary  School, West  building  North  block  east  side class  Room,  Mallankinar-626109","1.Mallankinar  (S.P)  ward  9  Timmanpatti  west  Street  , 2.Mallankinar  (S.P)  ward  9  Timmanpatti  East  street  , 3.Mallankinar  (S.P)  ward  13  Koilpatti  west  street  , 4.Mallankinar  (S.P)  koilpatti  center  street  , 5.Mallankinar  (S.P)  Koilpatti  vatakku  street  , 6.Mallankinar  (S.P)  Koilpatti  east  street  ward-13  ,
+7.Mallankinar  (S.P)  Timmanpatti",All  Voters
+101,208,101,"M.S.P.Senthilkumar  Nadar Hr.Sec.School,  Main  South  Building, East  Portion,  Mallankinar-626109","1.Mallankinar  (S.P)  Kattapomman  Street  , 2.Mallankinar  (S.P)  Madathdu  street  , 3.Mallankinar  (S.P)  O.P.R.  Street  , 4.Mallankinar  (S.P)  Kaliyamman  koil  Street-4  , 5.Mallankinar  (S.P)  Muthdalamman  koil  Street  ,
+6.Mallankinar  (S.P)  Muthdalamman  koil  street",All  Voters
+102,208,102,"Government  Primary  school, Northern  side  of  the  Building, Ayannreddiyapatti","1.Mallankinar  (S.P)  Doctor  Ambathkar  street  , 2.Mallankinar  (S.P)  Colony  street  , 3.Mallankinar  (S.P)  Mallankinar  , 4.Mallankinar  (S.P)  Surampatti  , 5.Mallankinar  (S.P)  Rettiyapatti  ,
+6.Mallankinar  (S.P)  Kaliyamman  koil  Street  -5  , 7.Mallankinar  (S.P)  Kaliyamman  koil  street-6  ,
+8.Mallankinar  (R.V)  Mallankinar  (P)  Kattapomman  Street  Mallankinar",All  Voters
+103,208,103,"M.S.P.Senthilkumar  Nadar Hr.Sec.School,  Main  South  Building, middle  Portion,  Mallankinar-626109","1.Mallankinar  (S.P)  Palavesakkaran  Street  , 2.Mallankinar  (S.P)  Muthunagammal  Street  , 3.Mallankinar  (S.P)  Easunathar  street  ,
+4.Mallankinar  (S.P)  ward  2  Virudhunagar  -  Kalkurichi  Road  , 5.Mallankinar  (S.P)  Pattirakaliyamman  koil  Street  , 6.Mallankinar  (S.P)  K.P.M.Minnadi  nadar  street  , 7.Mallankinar  (S.P)  Mariyamman  koil  Street  ,
+8.Mallankinar  (S.P)  M.S.P.  senthilkumar  Street",All  Voters
+104,208,104,"M.S.P.Senthilkumar  Nadar Hr.Sec.School,  West  Building,room no  3,  Mallankinar-626109","1.Mallankinar  (S.P)  Sanka  street  , 2.Mallankinar  (S.P)  Pillaiyar  koil  street  , 3.Mallankinar  (S.P)  Vickiramathidan  Street  , 4.Mallankinar  (S.P)  Karuppasamy  koil  street  , 5.Mallankinar  (S.P)  Alagarsamy  koil  street  , 6.Mallankinar  (S.P)  Nagappasamy  koil  street  ,
+7.Mallankinar  (S.P)  Virudhunagar  -  Kalkurichi  Road  ward-3",All  Voters
+105,208,105,"Panchayat  Union  Primary  School, West  building  South  block  east  side class  Room,  Mallankinar-626109","1.Mallankinar  (S.P)  Mallankinar  koilpatti  Road  , 2.Mallankinar  (S.P)  Kalaivanar  Street  , 3.Mallankinar  (S.P)  Thandai  periyar  Street  , 4.Mallankinar  (S.P)  Thiyagarajabhagavather  Road  ,
+5.Mallankinar  (S.P)  Gandhi  nagar",All  Voters
+106,208,106,"Panchayat  Union  Primary  School, West  building  South  block  middle class  Room,  Mallankinar-626109","1.Mallankinar  (S.P)  Nethaji  Street  , 2.Mallankinar  (S.P)  V.V.Nagar",All  Voters
+107,208,107,"Panchayat  Union  Primary  School, West  building  North  block  west  side class  Room,  Mallankinar-626109","1.Mallankinar  (S.P)  Thergu  street  , 2.Mallankinar  (S.P)  Mallankinar  Jokilpatti  Road",All  Voters
+108,208,108,"M.S.P.Senthilkumar  Nadar Hr.Sec.School,  West  Building,  Room
+No  4,  Mallankinar-626109",1.Mallankinar  (S.P)  Anna  Nagar,All  Voters
+109,208,109,"M.S.P.Senthilkumar  Nadar Hr.Sec.School,  West  Building,  room
+5,  Mallankinar-626109","1.Mallankinar  (S.P)  Virudhunagar  -  Kalkurichi  Road  , 2.Mallankinar  (S.P)  Kattapomman  Street",All  Voters
+110,208,110,"Panchayat  Union  Primary  School, East  building,  south  facing, Valaiyankulam  -  626109","1.Mallankinar  (S.P)  West  street  Valayyankulam  part  , 2.Mallankinar  (S.P)  East  street  Valayankulam  part  ,
+3.Mallankinar  (S.P)  Gandhinagar  (paraiyar  street)  Valayankulam  part",All  Voters
+111,208,111,"Govt.  High  School,  West  middle building  North  last  room  , Mallankinar-  626109","1.Mallankinar  (S.P)  Thevar  center  street  ward-  11  , 2.Mallankinar  (S.P)  Krishnar  street  ward-11  , 3.Mallankinar  (S.P)  Mallankinar  ,
+4.Mallankinar  (S.P)  Mudiyanoor  ,
+5.Mallankinar  (S.P)  ward-4  Thevar  centre  street  , 6.Mallankinar  (S.P)  East  street  ,
+7.Mallankinar  (S.P)  Nadu  street  , 8.Mallankinar  (S.P)  Vadakku  street  , 9.Mallankinar  (S.P)  Thevar  east  street",All  Voters
+112,208,112,"Panchayat  Union  Middle  School, West  Building,  Varalotti-626001","1.Valotti  (R.V),  Varalotti  (U)  Ward  1  varalotti  , 2.Varalotti  (R.V),  Varalotti  (U)  Ward  2  Varalotti  ,
+3.Panchayat  Union  Middle  School  Varalotti",All  Voters
+113,208,113,"Panchayat  Union  Middle  School, South  Building,  Varalotti-  626001","1.Varalotai(R.V),  Varalotti  (U)  Ward  3  Varalotti",All  Voters
+114,208,114,"Hidnu  Primary  School,  New
+Building,  Valukkalotti","1.Valukkalotti  (R.V),  Valukkalotti  (U)  Ward  1  &  2  Valukkalotti",All  Voters
+115,208,115,"Hidnu  Primary  School,  Old  Building, Valukkalotti","1.Valukkalotti(R.V),  Valukkalotti  (U)  Ward  3  &  4  Valukkalotti",All  Voters
+116,208,116,"GANDHI  KALVI  NILAYAM, NAGAMPATTI  -626001","1.Varalottai  (R.V),  Varalotti  (U)  Nagampatti  ,",All  Voters
+117,208,117,"PANCHAYAT  UNION  Primary
+SCHOOL,  Karuvakkudi",1.Thirusuzhi  (ta)  Melarangiam  (R  V)  Karuvakkudi,All  Voters
+118,208,118,"PANCHAYAT  UNION  Primary
+SCHOOL,  Boombidagai.",1.Boompidakai  (p)  (R  V)  Boompidakai,All  Voters
+119,208,119,"Govt.  E-  Serveice  Centre  ,  North
+Facing  ,  S.Nankoor","1.Boompidakai  (p)  (R  V)  Nangkooor  ,
+2..Boompidakai  (p)  (R  V)  Peekkulam",All  Voters
+120,208,120,"Panchayat  Union  Primary  School, South  facing  East  Side,  Kallumadai
+Poolangulam","2.Kallumadai  boolangulam  (p)  Boombidagai  (R  V) Kallumadai,Poolangulam  ,",All  Voters
+121,208,121,"PANCHAYAT  UNION  PRIMARY SCHOOL,  West  WING,
+PILLAYARKULAM",1.Pillaiyarkulam  (p)  (R  V)  Pillaiyarkulam  ward  1 2.Pillaiyarkulam  (p)  (R  V)  Pillaiyarkulam  ward  2,All  Voters
+122,208,122,"PANCHAYAT  UNION  PRIMARY SCHOOL,  NORTH  PORTION,
+PILLAYARKULAM",1.Pillaiyarkulam  (p)  (R  V)  Pillaiyarkulam  ward  3,All  Voters
+123,208,123,"PANCHAYAT  UNION  PRIMARY SCHOOL,  NORTH  WING, PILLAYARKULAM","1.Pillaiyarkulam  (p)  (R  V)  Surakkulam  ward  4  , 2.Pillaiyarkulam  (p)  (R  V)  Surakkulam  ward  5  , 3.Pillaiyarkulam  (p)  (R  V)  Idaiyappatti  ,
+4.Pillaiyarkulam  (p)  (R  V)  Kalaththur  , 5.Pillaiyarkulam  (p)  (R  V)  Udaikanjirangulam",All  Voters
+124,208,124,"PANCHAYAT  UNION  Primary
+SCHOOL,  New  Building, V.Karisalkulam",1.V.  karisalgulam  (p)  (R  V)  V.karisalkulam,All  Voters
+125,208,125,"PANCHAYAT  UNION  Primary SCHOOL,  TIRUVIDAINALOOR","1.Alaththur  (p)  Thiruvidainallur  (R  V)  Alaththur  ,
+2.Alaththur  (p)  Thiruvidainallur  (R  V)  Rettakkulam  ,  3.Thiruvidainaillur
+(p)  (R  V)  Thiruvidainallur  ward  1  ,  4.Thiruvidainaillur  (P)  (R  V) Thiruvidainallur  ward  2",All  Voters
+126,208,126,"PANCHAYAT  UNION  MIDDLE
+SCHOOL,  New  Building, Thachanethal","1.V.  karisalgulam  (p)  Thiruvidainallur  (R  V)  Thamaraikkulam  ,
+2.V.  karisalgulam  (p)  Thiruvidainallur  (R  V)  Thachanenthal",All  Voters
+127,208,127,"PANCHAYAT  UNION  Primary
+SCHOOL,  New  Building  west Portion,  Eluani","1.Ezhuvani  (p)  (R  V)  Ezhuvani  ,
+2.Ezhuvani  (p)  (R  V)  Senthanathi  , 3.Azhagapuri  (p)  (R  V)  Vanthavasi",All  Voters
+128,208,128,"PANCHAYAT  UNION  PRIMARY
+SCHOOL,  North  WING  building, PULVAIKARAI","1.Thimmapuram  (p)  Pulvaikarai  (R  V)  Erumaikulam  ,  2.Thimmapuram  (p) Pulvaikarai  (R  V)  Kottakarai  ,
+3.Pulavaikarai  (p)  (R  V)  Nerthiyayiruppu  , 4.Pulavaikarai  (p)  (R  V)  Pulvaikarai  ward  3  , 5.Pulavaikarai  (p)  (R  V)  Pulvaikarai  ward  1  ,
+6.Thiruvidanaillur  (p)  Pulvaikarai  (R  V)  K.  nedungulam  ,  7.Pulavaikarai
+(p)  (R  V)  Pulvaikarai  ward  4",All  Voters
+129,208,129,"PANCHAYAT  UNION  PRIMARY
+SCHOOL,  North  side  building, PULVAIKARAI","1.Pulavaikarai  (p)  (R  V)  Pulvaikarai  ,
+2.Thimmapuram  (p)  Pulvaikkarai  (R  V)  Manakkulam  ,  3.Pulavaikarai  (p) (R  V)  Pulvaikarai  ward  3  ,
+4.Pulavaikarai  (p)  (R  V)  Pulvaikarai  ward  4",All  Voters
+130,208,130,"P.K.M.I  GOVT  HIGHER  SECONDARY SCHOOL,  NORTH  WING  NEW
+BUILDING  East  Portion,
+A.MUKKULAM","1.A.mukkulam  (R  V)  A.  mukkulam  ward  1  , 2.A.mukkulam  (R  V)  A.  mukkulam  ward  2  , 3.A.mukkulam  (R  V)  A.  mukkulam  ward  3  , 4.A.mukkulam  (R  V)  A.  mukkulam  ward  4",All  Voters
+131,208,131,"P.K.M.I  GOVT  HIGHER  SECONDARY
+SCHOOL,  South  Building  East Portion,  A.Mukkulam","1.A.mukkulam  (R  V)  A.mukkulam  , 2.A.mukkulam  (R  V)  U.  kidakulam  ward  2  , 3.A.mukkulam  (R  V)  U.  kidakulam  ward  3  ,
+4.A.mukkulam  (R  V)  U.  kidakulam  ward  4",All  Voters
+132,208,132,"Panchayat  Union  Primary  School,
+Siruvanoor","1.Azhagapuri  (p)  M.Pudukulam  Siruvanur  (R  V)  M.  puthukulam  ,
+2.Kundukulam  (R.V)  Alagapurai  (P)  Siruvanur",All  Voters
+133,208,133,"SIVASUBRAMANIAN  Primary
+SCHOOL,  ALAGAPURI","1.Azhagapuri,a.mukkulam  (p)  Kundukulam  (R  V)  Azhagapuri  ,
+2.Azhagapuri,A.mukkulam  (p)  Kundukulam  (R  V)  Kundugulam",All  Voters
+134,208,134,"KADAMBA  VINAYAGAR  Primary SCHOOL,  NEW  BUILDING KURAVAIKULAM","1.1azhagapuri  (p)  M.Pudhukulam  (R  V)  Guravakkulam  ,  2.Azhagapuri  (p)
+M.  Pudukulam  (R  V)  Kattalangulam",All  Voters
+135,208,135,"Panchayat  Union  Primary  School, Naloor  -  626607","1.Naloor  (R.V),  Naloor  (U)  Ward  1  Block  1  Naloor  ,
+2.Naloor  (R.V),  Naloor  (U)  Ward  1  block  2  Naloor",All  Voters
+136,208,136,"Government  High  School,  Naloor  - 262607","1.Naloor  (R.V),  Naloor  (U)  Ward  2  Block  3  Naloor  ,
+2.Naloor  (R.V),  Naloor  (U)  Ward  2  Naloor  block  4  ,
+3.Naloor  (R.V),  Naloor  Ward  3  Sinimadai  ,
+4.Naloor  (R.V),  Naloor  (P)  Ward  4,  Ottankulam  ,
+5.Naloor  R.V),  Naloor  (P)  Ward  4  Katukkaikulam",All  Voters
+137,208,137,"Govt.  Primary  SCHOOL,  West
+Building,  ULUTHIMADAI","1.Uluthimadai  (p)  Attikulam  (R  V)  Uluthimadai  ,
+2.Uluthimadai  (p)  Attikulam  (R  V)  Atthikulam",All  Voters
+138,208,138,"Govt.  Primary  School,  East Building,  Ulithimadai","1.Uluthimadai  (p)  Attikulam  (R  V)  Sengamadai  , 2.Uluthimadai  (p)  Attikulam  (R  V)  Puthayanendhal  , 3.Arasagulam  (p)  (R  V)  Seeniyenthal",All  Voters
+139,208,139,"PANCHAYAT  UNION  PRIMARY
+SCHOOL  ,  P  Puliyankulam","1.Uluthimadai  (p)  P.  Vagaikulam  (R  V)  P.  puliyangulam  ,  2.Uluthimadai
+(p)  P.Vagaikulam  (R  V)  P.  utchinattham  ,  3.Uluthimadai  (p)  P.  Vagaikulam  (R  V)  P.  vagaikulam  ,  4.Uluthimadai  (p)  P.  Vagaikulam  (R  V) Pattanenthal  ,  5.Thanjakur,Ulutthimadai  (p)  P.Vagaikulam  (R  V)  Mugavur",All  Voters
+140,208,140,"Government  Hr,Sec.School,  North Building  West  Portion,  Kattanoor.",1.Kattanur  (p)  Pottapacheri  (R  V)  Pottapacheri,All  Voters
+141,208,141,"GOVT  HIGHER  SECONDARY SCHOOL,  North  BUILDING  East
+PORTION,  KATTANOOR","1.Kattanur,arasagulam  (p)  Kattanur  (R  V)  Kattanur  ward  1",All  Voters
+142,208,142,"GOVT  HIGHER  SECONDARY
+SCHOOL,  North  new  building  west portion,  Kattanoor","1.Kattanur,Arasagulam  (p)  Kattanur  (R  V)  Kattanur  ward  2  , 2.Kattanur,Arasagulam  (p)  Kattanur  (R  V)  Kattanur  ward  3",All  Voters
+143,208,143,"Panchayat  Union  Primary  School,
+New  Building  West  portion, Ulakkudi  -  626607","1.Ulakkudi  R.V),  Ulakkudi  (U)  Ward  1  Ulakkudi",All  Voters
+144,208,144,"Panchayat  Union  Primary  School, Southweast  Building,  Ulakkudi  - 626607","1.Ulakkudi  (R.V),  Ulakkudi  (U)  Ward  2  Ulakkudi  ,
+2.Ulakkudi  (R.V),  Ulakkudi  (P)  Ward  3,  Thirumanickanendal",All  Voters
+145,208,145,"Govt.  High  School,  Ground  floor 10th  std  Class  Room,  Irunjirai  - 626612","1.Irunjirai  (R.V),  Irunsirai  (U)  Ward  1,  Irunsirai  , 2.Irunjirai  (R.V),  Irunjirai  (P)  Ward  2,  Irunjirai  , 3.Irunjirai  (R.V),  Irunjirai  (P)  Ward  3,  Irunjirai  ,
+4.Irunjirai  (R.V),  Irunjirai  (P)  Ward  4,  Sengamadai",All  Voters
+146,208,146,"Panchayat  Union  Primary  School, Vadakumadai  -  626612","1.Irunjirai  (R.V),  Irunchirai  (U)  Ward  5  Orusingamadai  ,
+2.Irunjirai  (R.V),  Irunchirai  (U)  Ward  6  Singanathapuram  ,  3.Irunjirai (R.V),  Erunchirai  (U)  Wward  6  Sempodai  ,
+4.Irunjirai  (R.V),  Irunchirai  (U)  Ward  7  Vadakkumadai  ,  5.Irunjirai(R.V),
+Irunchirai  (U)  Ward  8  Manner  mudiyendal",All  Voters
+147,208,147,"Panchayat  Union  Primary  School, Additional  Building,  Dharmam  -
+626612","1.Theli  (R.V),  Irunchirai  (p)  Ward  4  Tharmam  ,
+2.Theli  (R.V),  Tharmam  (U)  Ward  5  Tharmam",All  Voters
+148,208,148,"Panchayat  Union  Primary  School, New  Building,  Kottakaichiyendal  - 623608","1.Theli  (R.V),  Kottakatchiyendal  (U)  Ward  1  Kottakatchiyendal  ,
+2.Theli  (R.V),  Kottakachiyandal  (U)  Ward  2  Kottakachiyandal  ,
+3.Theli  (R.V),  Kottakachiyandal  (U)  Ward  3  Kanaiyamarithan  ,
+4.Theli  (R.V),  Kottakachiyandal  (U)  Ward  4  Kanaiyamarithan  ,
+5.Theli  (R.V),  Kottakachiyandal  (U)  WARD  4  Puvakani",All  Voters
+149,208,149,"Panchayat  Union  Primary  School, Kilavikulam","1.Kadambankulam  (p)  Velaneri  (R  V)  Seenikaranenthal  , 2.Kadambankulam  (p)  Sorikulam  (R  V)  Pirandangulam  ,  3.Sorikkulam (R.V),  Kilakondraikulam  (U)  Ward  1  Kilakondraikulam,
+4.Sorikkulam  (R.V),  Kilakondraikulam  (U)  Ward  2  and  3  Theli  , 5.Sorikkulam  (R.V),  T.  Kadampankulam  (U)  Ward  3  Nattakulam  , 6.Sorikkulam  (R.V),  T.  Kadambankulam  (U)  Ward  2  and  3  Kilavikulam  ,
+7.Theli  (R.V),  T.Kadambankulam  (P)  Ward  1  T.Kadambankulam",All  Voters
+150,208,150,"Govt.  E-  Service  Centre  ,  North Facing,  Velaneri  -  623608","1.Velaneri  (R.V),  Velaneri  (U)  Ward  1  Velaneri  , 2.Velaneri(R.V),  Velaneri  (U)  Ward  2  Velaneri  ,
+3.Velaneri  (R.V),  Velaneri  (U)  Ward  2  Umaiyan  Alankulam  ,  4.Velaneri
+(R.V),  Velaneri  (U)  Ward  3  Mulligudi",All  Voters
+151,208,151,"Panchayat  Union  Primary  School, Vallakkulam  -  623608","1.Andiyendal  (R.V),  Andiyenthal  (U)  Ward  1  Andiyenthal  ,  2.Andiyendal (R.V),  Andiyenthal  (U)  Ward  1  V.  Pudur  ,
+3.Andiyuendal  (R.V),  Andiyenthal  (U)  Ward  2  Kilasambakulam  , 4.Usilankualam  (R.V),  Andiyenthal  (U)  Ward  2  Vathdappattai  , 5.1.Sathiseri  (R.V)  Andiyendal  (P)  Ward  3  S.Vallakulam,
+6.Sathieri  (R.V)  Andiyendal  (P)  ward  3  Sathiseri. 7.Usilankulam  (R.v)  Andiyendal  (P)  ward  2  Kila  S.Vallakulam  , 8.Sathiseri  (R.V)  Andiyendal  (P)  ward  3  Sathiseri  , 9.Usilankulam  (R.V)  Andiyendal  (P)  ward  2  Kilakkulam",All  Voters
+152,208,152,"Panchayat  Union  Elimentary School,  V.Pudhur  -  623608","1.Sathiseri  (R.V),  Andiyenthal  (U)  Ward  3,  Vallakkulam  , 2.Sathiseri  (R.V),  Vathdappattai  (U)  Ward  3  Sathiseri  ,
+3.Usilankulam  (R.V),  Andiyendal  P  Ward  2  kilakulam  ,  4.1.Andiyendal (R.V)  Andiyendal  (P)  ward  1  V.Puthur  ,  5.1.Andiyendal  (R.V)  Andiyendal
+(P)  ward  2  Keelasambakulam  ,  6.1.Usilankulam  (R.V)  Andiyendal  (P)  ward 2  Vathapettai",All  Voters
+153,208,153,"Panchayat  Union  Middle  School, North  Building,  T.  Velankudi  - 623608","1.T.Velangudi  (R.V),  T.  velangudi  (p)  Ward  1  T.  Velangudi  ,  2.T.Velangudi (R.V.),  T.  Velangudi  (U)  Ward  2  T.  Velangudi  ,
+3.T.Velangudi  (R.v),  T.  Velangudi  (U)  Ward  2  Pattamankalam  , 4.T.Velangudi  (R.V),  T.  Velangudi  (U)  Ward  3,  Pattamankalam  , 5.T.Velangudi  (R.V),  T.  Velangudi  (U)  WARD  3  Chinnamulgudi  ,
+6.Mayaleri  (R.V),  T.  Velangudi  (U)  Ward  3  Manikattiyandal  ,  7.Velangudi (R.V),  Velangudi  Ward  4  Puthdanandal  ,
+8.T.Velangudi  (R.V),  Velangudi  Ward  4  Nayanendal",All  Voters
+154,208,154,"Panchayat  Union  Middle  School  , West  Building,  East  Faceing,
+Maraiyur  -  626607","1.Athithanendal  (R.V),  Maraiyur  (U)  Ward  1,  Maraiyur  ,  2.Athithanendal (R.V),  Maraiyur  Ward  2  Maraiyur",All  Voters
+155,208,155,"Panchayat  Union  Middle  School, West  Building,  Maraiyur  -  626607","1.Athithanendal  (R.V),  Maraiyur  (U)  Ward  3  Sethurayanendal  , 2.Athithanendal  (R.V),  Maraiyur  (U)  Ward  4  Neduganendal  ,  3.Mayaleri
+(R.V),  Maraiyur  Ward  5  Mayaleri",All  Voters
+156,208,156,"Panchayat  Union  Middle  School, Addtitional  Building,  West  Portion,
+Manoor  -  626607","1.Manoor  (R.V)  Manoor  (p)  Ward  1  manoor  ,
+2.Manoor  (R.V),  Manoor  (U)  Ward  2  Manoor  ,
+3.Mayaleri  (.R.V)  ,  Manoor  (U)  Ward  3  Kuruviyandal",All  Voters
+157,208,157,"Panchayat  Union  Primary  School, New  Building  North  Side,  Salai Illuppaikulam  -  626607","1.Salai  iluppaikulam  (R.V),  Salai  Eluppaikulam  (U)  Ward  1,  Salai Eluppaikulam  ,
+2.Salai  illuppaikulam  (R.V),  Salai  Iluppaikulam  (U)  Ward  2  Manickanendal",All  Voters
+158,208,158,"Panchayat  Union  Primary  School, New  Building  South  Side, SalaiIlupaikulam","1.Sottamuri  R.V),  Salai  Eluppaikulam  (U)  Ward  3  Sottamuri  ,  2.Salai iluppaikulam  (R.V),  Salai  Eluppaikulam  (U)  Ward  6  Eruvarkulam  , 3.Sottamuri  (R.V),  Salai  iluppaikulam  Ward  4  Thuyanoor  , 4.1.Salaiiluppaikulam  (R.V)  Salailluppaikulam  (P)  ward  3 Uvarpuliyankulam.",All  Voters
+159,208,159,"Panchayat  Union  Primary  School, New  Building  South  Portion, Kandukondanmanickam","1.Sottamuri  (R.V),  Salai  Eluppaikulam  (U)  Ward  3  Uvarpuliyankulam  ,
+2.Mayaleri  (R.V),  Kandukondan  Manickam  (U)  Ward  1  Kandukondan Manickam  ,
+3.Mayaleri  (R.V),  Kandukondan  Manickam  (U)  Ward  2  Kandukondan Manickam",All  Voters
+160,208,160,"Katchi  Vinayagar  Hindu  Aided Primary  School,  West  Building,  Isali
+-  626607","1.ISALI  (  R.V  )  ISALI  (P)  WARD  1  ISALI  ,
+2.ISALI  (  R.V  )  ISALI  (P)  ward  1  Isali  ,
+3.1.Isali  (R.V)  Isali  (P)  ward  3  Inakkaneri",All  Voters
+161,208,161,"Panchayat  Union  Middle  School, Melakumilankulam  -  626607","1.ISALI  (  R.V  )  ISALI  (P)  Ward  3  Ianakkaneri  ,
+2.ISALI  (  R.V  )  ISALI  (P)  Ward  2  Melakumilankulam  ,
+3.ISALI  (  R.V  )  ISALI  (P)  Ward  2  Melakumilankulam",All  Voters
+162,208,162,"Roman  Catholic  Primary  School, Pannaikudi  -  626607","1.Panaikudi  (R.V),  Panaikudi  (U)  Ward  1  Panaikudi  , 2.Panaikudi  (R.V),  Panaikudi  (U)  Ward  2  Panaikudi  , 3.Panaikudi  (R.V),  Panaikudi  (U)  Ward  3  Panaikudi  ,
+4.Panaikudi  (R.V),  Panaikudi  (U)  Ward  3  Andukondan",All  Voters
+163,208,163,"Government  Higher  Secondary School,  North  Side  West  Building  ,
+Narikudi  -  626607","1.ATHITHANENDAL  (R.V),  Narikudi  (u)  Ward  1  Narikudi  ,  2.Athithanendal (R.V),  Narikudi  (U)  Ward  6  Athidanendal  ,  3.Veerakkudi  (R.V),  Narikudi
+(U)  Ward  7  Vembankudi",All  Voters
+164,208,164,"Panchayat  Union  Primary  School, New  Building,  West  facing,  North Portion,  Narikudi-626607","1.Athithanendal  (R.V),  Narikudi  Ward  2  Narikudi  ,
+2.Athithanendal  (R.V),  Narikudi  (U)  Ward  3  Narikudi  ,  3.Athithanendal (R.V),  Narikudi  Ward  4  Narikudi  ,
+4.Athithanendal  (R.V),  Narikudi  Ward  5  Narikudi",All  Voters
+165,208,165,"Panchayat  Union  Primary  School, New  Building  West  Side  South Facing  Room-Veerakudi  -  626607","1.Veerakkudi  (R.V),  N.  mukkulam  (u)  Ward  1  N.  Mukkulam  , 2.Veerakkudi  (R.V),  N.  Mukkulam  (U)  Ward  2  N.  Mukkulam  , 3.Veerakkudi  (R.V),  N.  Mukkulam  (U)  Ward  2  Veerakudi  ,  4.Veerakkudi
+(R.V),  N.  Mukkulam  (U)  Ward  3  Veerakudi",All  Voters
+166,208,166,"Panchayat  Union  Middle  School, New  Building,  Varisaiyur  -  626612","1.Varisaiyur  (R.V),  Varisaiyur  (U)  Ward  1  Varisaiyur  , 2.Varisaiyur  (R.V),  Varisaiyur  (U)  Ward  2  Varisaiyur  ,
+3.Usilankulam  (R.V),  Varisaiyur  (U)  Ward  3  Usilankulam  ,  4.Varisaiyur
+(R.V),  Varisaiyur  (U)  Ward  4  Sammanendal",All  Voters
+167,208,167,"Panchayat  Union  Middle  School, Melaparuthiyur  -  626612","1.Melaparuthiyur  (R.V),  Melaparuthiyur  (u)  Ward  1  melaparuthiyur, 2.Melaparuthiyur  (R.V),  Melaparuthiyur  (U)  Ward  2  Melaparuthiyur, 3.Melaparuthiyur  (R.V)  Melaparuthiyur  (U)  Ward  3  Vilakkuseri  , 4.Melaparuthiyur  (R.V),  Melaparuthiyur  (U)  Ward  4  K.  Alankulam",All  Voters
+168,208,168,"Panchayat  Union  Middle  School, East  Building  West  portion, Veerasolan","1.Veerasolan  (R.V),  Veerasolan  (U)  Ward  1  Veerasolan",All  Voters
+169,208,169,"Panchayat  Union  middle  School, East  building  Middle  Portion,
+Veerasolan(West)  -  626612","1.Veerasolan  (R.V),  Veerasolan  (U)  Ward  2  Veerasolan  ,  2.Veerasolan (R.V),  Veerasolan  (U)  Ward  3  Veerasolan",All  Voters
+170,208,170,"Panchayat  Union  middle  School  , East  Building,  veerasolan  -626612","1.Veerasolan  (R.V),  Veerasolan  (U)  Ward  4  Veerasolan  ,  2.Veerasolan (R.V),  Veerasolan  (U)  Ward  5  Veerasolan  ,  3.Veerasolan  (R.V),  Veerasolan
+(U)  Ward  6  Veerasolan",All  Voters
+171,208,171,"Panchayat  Union  Primary  School, South  Building  East  Portion, Veerasolan  (East  )-  626612","1.Veerasolan  (R.V),  Veerasolan  (U)  Ward  8  Veerasolan  ,  2.Veerasolan (R.V),  Veerasolan  (U)  Ward  9  Veerasolan",All  Voters
+172,208,172,"Panchayat  Union  Primary  School, South  Building  West  Portion, Veerasolan  (East)  -  626612","1.Veerasolan  (R.V),  Veerasolan  (U)  Ward  10  Veerasolan  ,  2.Veerasolan (R.V),  Veerasolan  (U)  Ward  11  Veerasolan",All  Voters
+173,208,173,"Panchayat  Union  Primary  School, North  Building,  East  Side, Veerasolan-626612","1.Veerasolan  (R.V),  Veerasolan  (p)  Ward  12  Veerasolan  ,  2.Veerasolan (R.V),  Veerasolan  (U)  Ward  13  Veerasolan  ,  3.Veerasolan  (R.V),  Veerasolan
+(U)  Ward  14  Veerasolan",All  Voters
+174,208,174,"Panchayat  Union  Primary  School, North  Building  West  Side, Veerasolan  (East)-626612","1.Veerasolan  (R.V),  Veerasolan  (U)  Ward  15  Veerasolan  ,  2.Veerasolan (R.V),  Veerasolan  (U)  Ward  16  Veerasolan  ,",All  Voters
+175,208,175,"Panchayat  Union  middle  School, West  Facting  North  Portion, Ottankulam","1.Veerasolan  (R.V),  Veerasolan  (U)  Ward  17  Ottankulam",All  Voters
+176,208,176,"Panchayat  Union  Primary  School, New  Building  East  Portion, Pappankulam  -  626612","1.Meenakulam  (R.V),  Meenakulam  (u)  Ward  3  pappankulam  , 2.Meenakulam  (R.V),  Meenakulam  (U)  Ward  4  Pathanakurichi",All  Voters
+177,208,177,"Panchayat  Union  Middle  School, New  Building  ,  South  Faceing,  East side,  Minnakulam  -  623601","1.Meenakulam  (R.V),  Meenakulam  (U)  Ward  1  Minakulam  , 2.Meenakulam  (R.V),  Meenakulam  (U)  Ward  2  Minakulam",All  Voters
+178,208,178,"Panchayat  Union  Middle  School, New  Building  ,  South  Faceing,  West side,  Minnakulam  -  623601","1.Meenakulam  (R.V),  Meenakulam  (U)  Ward  5  Kilasembur  , 2.Meenakulam  (R.V),  Meenakulam  (U)  Ward  6  Nambiyendal",All  Voters
+179,208,179,"Panchayat  Union  Primary  School, New  Building,  Kuraiyaravasithan  - 626607","1.Agathakulam  (R.V),  Agathakulam  (p)  Ward  1  Agathakulam  , 2.Agathakulam  (R.V),  Agathakulam  (U)  Ward  3  Kamali  puliyankulam  , 3.Kuraiyaravasithan  (R.V),  Agathakulam  (U)  Ward  4  Chitta  vannan  kulam
+,
+4.1.Kuraiyaravasithan  (R.V)  Agathakulam  (P)  ward  4  Chittavannankulam
+,
+5.1.Kuraiyaravasithan  (R.V)  Agathakulam  (P)  ward  5  Chittavannankulam Puthur  ,
+6.1.Agathakulam  (R.V)  Agathakulam  (P)  ward  6  Pulichikulam  , 7.1.Kuraiyaravasithan  (R.V)  Agathakulam  (P)  ward  7  Kuraiyaravasithan",All  Voters
+180,208,180,"Panchayat  Union  Middle  School, North  facing  East  side,  Muthaneri  - 626607","1.Kuraiyaravasithan  (R.V),  Agathakulam  (U)  Ward  5  Chitta  vannan  kulam Pudur  ,
+2.Agathakulam  (R.V),  Agathakulam  (U)  Ward  6  Pulicha  kulam  , 3.Kuraiyaravasithan  R.V),  Agathakulam  (U)  Ward  7  Kuraiyara  vashithan  , 4.Agathakulam  (R.V),  Agathakulam  (U)  Ward  2  Muthdaneri  , 5.1.Agathakulam  (R.V)  Agathakulam  (P)  ward  1  Agathakulam  , 6.1.Agathakulam  (R.V)  Agathakulam  (P)  ward  2  Muthaneri  , 7.1.Agathakulam  (R.V)  Agathakulam  (P)  ward  3  Kamalipuliyankulam",All  Voters
+181,208,181,"Government  Adi  Drividar  Welfare primary  School,  Nallukuruchi  - 626612","1.Nallukuruchi  (R.V),  Nallukuruchi  (U)  Ward  1  Nallukuruchi  , 2.Nallukuruchi  (R.V),  Nallukuruchi  (U)  Ward  2  Nallukuruchi  , 3.Nallukuruchi  (R.V),  Nallukuruchi  (U)  Ward  3  Alangulam",All  Voters
+182,208,182,"Panchayat  Union  Middle  School, Sullankudi  -  626612","1.Nallukkuruchi  (R.V),  Nallukkurichi  (p)  Ward  4  Colony  ,  2.Nallukuruchi (R.V),  Nallukuruchi  (U)  Ward  4  Sullankudi  ,  3.Nallukkuruchi  (R.V), Nallukuruchi  (U)  Ward  4  Kongalakudi  ,  4.Nallukuruchi  (R.V), Nallukkuruchi  (P)  Ward  4  Melappuliyandar  Kottai",All  Voters
+183,208,183,"Bharatha  Hindu  Aided  Primary School,  Nathakulam  -  626129","1.Nathakulam  (R.V),  Nathdakulam  (p)  Ward  1  Nathdakulam  , 2.Nathakulam  (R.V),  Nathdakulam  (U)  Ward  2  Poyirandipuram  , 3.Nathakulam  (R.V),  Nathdakulam  (U)  Ward  3  Muduraimolinthan  , 4.Nathakulam  (R.V),  Nathdakulam  (U)  Ward  2  Nattakulam",All  Voters
+184,208,184,"Panchayat  Union  Middle  School, New  Building  West  Portion, Chellaiyapuram  -  626129","1.Regunathamadai  (R.V),  Regunathamadai  (U)  Ward  1  Regunathamadai  , 2.Regunathamadai  (R.V),  Regunathamadai  (U)  Ward  2  Kulalikulam  , 3.Regunathamadai  (R.V),  Regunathamadai  (U)  Ward  1  Meenachipuram  , 4.Regunethamadai  (R.V),  Regunathamadai  (U)  Ward  4  Kurundakulam",All  Voters
+185,208,185,"Panchayat  Union  Middle  School, New  Building  East  Side, Chellaiyapuram  -  626129","1.Regunathamadai  (R.V),  Regunathamadai  (p)  Ward  2  semponnerunchi  , 2.Regunathamadai  (R.V),  Regunathamadai  (U)  Ward  4  Chellaiahpuram  , 3.Regunathamadai  (R.V),  Regunathamadai  (U)  Ward  5  Nellikulam",All  Voters
+186,208,186,"Panchayat  Union  Primary  School, North  Side,  Panaiyur  -  626129","1.Pillaiyarnatham  (R.V),  Pillaiyarnattam  (U)  Ward  1  panaiyoor  , 2.Pillaiyarnatham  (R.V),  Pillaiyarnattam  (U)  Ward  2  Panaiyoor  ,
+3.Pillaiyarnatham  (R.V),  Pillaiyarnattam  (U)  Ward  3  Panaiyoor",All  Voters
+187,208,187,"T.E.L.C  Elemintary  School, Pillaiyarnatham  -  626129","1.Pillaiyarnatham  (R.V),  Pillaiyarnattam  (U)  Ward  4  Pillaiyarnattam  , 2.Pillaiyarnatham  (R.V),  Pillaiyarnattam  (U)  Ward  5  T.Karisalkulam",All  Voters
+188,208,188,"Panchayat  Union  Primary  School,
+Sethupuram  -  626129","1.Sethuouram  (R.V),  Sethupuram  (p)  Ward  1  Sethupuram  ,  2.Sethupuram
+(R.V),  Sethupuram  (U)  Ward  2  Rengaiyanpatti",All  Voters
+189,208,189,"Panchayat  Union  Primary  School, North  side,  Anaikulam  -  626129","1.Anaikulam  (R.V),  Anaikulam  (U)  Ward  1  Anaikulam  ,  2.Anaikulam  (R.V),
+Anaikulam  (U)  Ward  2  Anaikulam  ,  3.Anaikulam  (R.V),  Anaikulam  (U) Ward  3  Anaikulam",All  Voters
+190,208,190,"Panchayat  Union  Primary  School, West  Building,  Anaikulam  -  626129","1.Anaikulam  (R.V),  Anaikulam  (U)  Ward  4  Annalakshmipuram  , 2.Naduvapatcheri  (R.V),  Anaikulam  (U)  Ward  5  Naduvappaseri  , 3.Naduvapatcheri  (R.V),  Anaikulam  (U)  Ward  5  Senkamadai",All  Voters
+191,208,191,"Panchayat  Union  Primary  School  , East  building,  South  Facing  Room, Muthuramalingapuram  -  626129","1.Poomalaipatti  (R.V),  Poomalaipatti  (U)  Ward  3  Muthuramalingapuram  , 2.Poomalaipatti  (R.V),  Poomalaipatti  (U)  Ward  4  Muthuramalingapuram",All  Voters
+192,208,192,"Governement  High  School,  Main building,  South  portion,  East  facing 1st  room,  Muthuramalingapuram-626129","1.Poomalaipatti  (R.V),  Poomalaipatti  (U)  Ward  5  Muthuramalingapuram  , 2.Poomalaipatti  (R.V),  Poomalaipatti  (U)  Ward  6  Muthuramalingapuram",All  Voters
+193,208,193,"Church  of  South  India  Aided Primary  School,  Poomalaipatti  - 626129","1.Poomalaipatti  (R.V),  Poomalaipatti  (p)  Ward  1  Poomalaipatti  , 2.Poomalaipatti  (R.V),  Poomalaipatti  (U)  Ward  2  Poomalaipatti  , 3.Poomalaipatti  (R.V),  Poomalaipatti  (U)  Ward  3  Dametharapuram  , 4.Poomalaipatti  (R.V),  Poomalaipatti  (U)  Ward  3  Muthuramalingapuram",All  Voters
+194,208,194,"Nadar  K.V.  Sala  School,  Main Building,  Iluppaiyur  -  626129","1.Illuppaiyur  (R.V),  Iluppaiyur  (p)  Ward  1  eluppaiyur  , 2.Illuppaiyur  (R.V),  Iluppaiyur  (U)  Ward  2  Iluppaiyur  , 3.Illuppaiyur  (R.V),  Iluppaiyur  (U)  Ward  3  Iluppaiyur  , 4.Illuppaiyur  (R.V),  Iluppaiyur  (U)  Ward  4  Iluppaiyur  , 5.Illupaiyur  (R.V),  Iluppaiyur  (U)  Ward  5  Silampatti",All  Voters
+195,208,195,"PANCHAYAT  UNION  PRIMARY
+SCHOOL,  East  Portion  New  Building, Kathanpatti","1.Illupaiyur  (R.V),  Eluppaiyur  (U)  Ward  6  Silampatti  , 2.Illuppaiyur  (R.V),  Illuppaiyur  (U)  Ward  7  Kadanpatti  , 3.Illuppaiyur  (R.V),  Iluppaiyur  (U)  Ward  8  Kadanpatti",All  Voters
+196,208,196,"Panchayat  Union  Middle  School, North  Portion  New  Building, Udaiaservaikaranpatti  -  626129","1.Velanoorani  (R.V),  Velanoorani(U)  Ward  4  Udaiyaservaikaranpatti  , 2.Velanoorani  (R.V),  Velanoorani(U)  Ward  5  Udaiya  servaikaranpatti",All  Voters
+197,208,197,"Panchayat  Union  Middle  School, South  Building, Udaiaservaikaranpatti  -  626129","1.Velanoorani  (R.V),  Velanoorani(U)  Ward  1  Velanoorani  ,  2.Velanoorani (R.V),  Velanoorani(U)  Ward  2  Velanoorani  ,  3.Velanoorani  (R.V), Velanoorani(U)  Ward  3  Ulagathevanpatti  ,  4.Velanoorani  (R.V), Velanoorani(U)  Ward  6  Valaiyappatti",All  Voters
+198,208,198,"Panchayat  Union  Primary  School, Ammanpatti  -  626129","1.Velanoorani  (R.V),  Velanoorani(U)  Ward  7  Ammanpatti  ,  2.Velanoorani (R.V),  Velanoorani(U)  Ward  8  Ammanpatti  ,  3.Velanoorani  (R.V),
+Velanoorani(U)  Ward  9  Ammanpatti",All  Voters
+199,208,199,"Panchayat  Union  Primary  School, Old  Building,  P.  Puthupatti  -  626129","1.P.Pudupatti  (R.V),  P.pudupatti  (p)  Ward  1  P.Pudupatti  ,  2.P.Pudupatti (R.V),  P.Pudupatti  (U)  Ward  2  P.Pudupatti  ,  3.P.Pudupatti  (R.V), P.Pudupatti  (U)  Ward  3  P.Pudupatti  ,  4.P.Pudupatti  (R.V),  P.Pudupatti Ward  4  Perunjali",All  Voters
+200,208,200,"INDHU  PRIMARY  SCHOOL.  MIDDLE PORTION, PANNAIMOOONDRADAIPPU","1.PannaiMoondradaippu(R.V),  PannaiMoondradaipu  (U)  Ward  1 PannaiMoondradaipu  ,
+2.Pannaimoondradaippu  (R.V),  PannaiMoondradaipu  (U)  Ward  2
+PannaiMoondradaipu  ,",All  Voters
+201,208,201,"Panchayat  Union  Middle  School, North  Building,  P.M.  Puthupatti  - 626129","1.Pannaimoondradaippu  (R.V),  PannaiMoondradaipu  (U)  Ward  2  P.M. Pudupatti
+2.  Pannaimoondradaippu  (R.V),  PannaiMoondradaipu  (U)  Ward  3 P.M.Pudupatti  ,
+3.Pannaimoondradaippu  (R.V),  PannaiMoondradaipu  (U)  Ward  3 Errampatti  ,
+4.Pannaimoondradaippu  (R.V),  PannaiMoondradaipu  (U)  Ward  4 Errampatti",All  Voters
+202,208,202,"Panchayat  Union  Primary  School, East  Portion,  K.  Pudur  -  626129","1.Kutchampatti  (R.V),  Kutchampatti  Pudur  (U)  Ward  1  K.Pudur  , 2.Kutchampatti  (R.V),  Kutchampatti  Pudur  (U)  Ward  2  Kutchampatti  , 3.Kutchampatti  (R.V),  Kutchampatti  Pudur  (U)  Ward  3  K.Pudur  , 4.Kutchampatti  (R.V),  Kutchampatti  Pudur  (U)  Ward  4  Udaiyaranthal",All  Voters
+203,208,203,"Panchayat  Union  Primary  School  , North  facing  west  portion, kadampankulam","1.Kutchampatti  (R.V),  Kutchampatti  Pudur  (U)  Ward  5  Nochikulam, 2.Kutchampatti  (R.V),  Kutchampatti  Pudur  (U)  Ward  6  Kadamankulam",All  Voters
+204,208,204,"PANCHAYAT  UNION  PRIMARY
+SCHOOL,  West  Building  West
+Portion,  East  Facing  Room, Udaiyanampatti  -  626129","1.Udaiyanampatti  (R.V),  Udaiyanampatti  (p)  Ward  1  udaiyanampatti, 2.Udaiyanampatti  (R.V),  Udaiyanampatti  (U)  Ward  2  Udaiyanampatti",All  Voters
+205,208,205,"Panchayat  Union  Primary  School, New  Building,  Sennilaikudi  -  626129","1.Sennilaikudi  (R.V),  Sennilaikudi  (U)  Ward  1  sennilaikudi  , 2.Sennilaikudi  (R.V),  Sennilaikudi  (U)  Ward  2  Sennilaikudi  , 3.Sennilaikudi  (R.V),  Sennilaikudi  (U)  Ward  3  Kethanaickenpatti",All  Voters
+206,208,206,"Mukkulathor  Kalvi  Nilayam  ,  South building,  Puliyankulam  -  626129","1.Mithilaikulam  (R.V),  Mithilaikulam  (p)  Ward  1  Eluppaikulam  , 2.Mithilaikulam  R.V),  Mithilaikulam  (U)  Ward  2  Mithilaikulam",All  Voters
+207,208,207,"Mukkulathor  Kalvi  Nilayam,  East building,  Puliyankulam  -  626129","1.Ambaner  i(R.V),  Mithilaikulam  (U)  Ward  3  puliyankulam  ,  2.Ambaneri (R.V),  Mithilaikulam  (U)  Ward  5  Anikkalakkiyandal",All  Voters
+208,208,208,"Panchayat  Union  Middile  School, Velayuthapuram  -  626129","1.Ambaneri  (R.V),  Mithilaikulam  (U)  Ward  4  Ambaneri  ,
+2.Ambaner  i  (R.V),  Mithilaikulam  (U)  Ward  5  Ambaneri  ,  3.Mithilaikulam (R.V),  Mithilaikulam  (U)  Ward  5  Velayuthapuram  ,
+4.Sootchaneri  (R.V),  Mithilaikulam  (U)  Ward  5  Kallathikulam",All  Voters
+209,208,209,"Panchayat  Union  primary  School vidathakulam,  New  Building,  North side,  Vidathakulam  -  626607","1.Vidathakulam  (R.V),  Vidathakulam  (u)  Ward  1  vidathakulam",All  Voters
+210,208,210,"Govt  High  School,  Old  Building, East  facing,  South  Side,
+Vidathakulam  -  626607","1.Vidathakulam  (R.V),  Vidathakulam  (p)  Ward  2  Mailandal  , 2.Vidathakulam  (R.V),  Vidathakulam  (U)  Ward  3  Nallatharai  &  Pudupatti",All  Voters
+211,208,211,"Panchayat  Union  Middle  School, North  Building,  Karendal  -  626129","1.Karendal  (R.V),  Pallimadam  (p)  Ward  3  karendal  ,
+2.Karendal  (R.V),  Pallimadam  (U)  Ward  4  Kokkulam  ,
+3.Karendal  (R.V),  Pallimadam  (U)  Ward  4  Nadakulam  ,  4.Sootchaneri (R.V),  Mithilaikulam  (U)  Ward  4  Suchaneri  ,  5.Sootchaneri  (R.V), Mithilaikulam  (U)  Ward  4  suchaneripatti",All  Voters
+212,208,212,"Panchayat  Union  Primary  School,
+Pallimadam  -  626129","1.Pallimadam  (R.V),  Pallimadam  (u)  Ward  1  pallimadam  ,  2.1.Pallimadam
+(R.V)  Pallimadam  (P)  ward  2  Colony  Pallimadam",All  Voters
+213,208,213,"Panchayat  Union  Primary  School  , New  building,  East  facing  south side,  Maile  -  626129","1.Pallimadam  (R.V),  Pallimadam  (U)  Ward  2  Colony  , 2.Pallimadam  (R.V),  Pallimadam  (U)  Ward  2  Maile",All  Voters
+214,208,214,"T.E.L.C.Primary  School, Pallapatcheri  -  626129","1.Thiruchuli  (R.V),  Tamilpadi  (U)  Ward  4  pallapatchari  ,  2.Thiruchuli (R.V),  Tamilpadi  (U)  Ward  5  Pallapatchari  ,  3.Thiruchuli  (R.V),  Tamilpadi
+(U)  Ward  6  Pallapatchari",All  Voters
+215,208,215,"T.U.N.S.V.  Higher  Secondary  School, South  west  building,  West  portion, Thiruchuli  -  626129","1.Thiruchuli  (R.V),  Thiruchuli  (p)  Ward  1  thiruchuli",All  Voters
+216,208,216,"T.U.N.S.V.  Higher  Secondary  School, Southwest  side  building,  East portion,  Thiruchuli  -  626129","1.Thiruchuli  (R.V),  Thiruchuli  (U)  Ward  2  Thiruchuli  , 2.Thiruchuli  (R.V),  Thiruchuli  (U)  Ward  3  Thiruchuli",All  Voters
+217,208,217,"T.U.N.S.V.  Higher  Secondary  School, North  Building  East  side,  Thiruchuli
+-  626129","1.Thiruchuli  (R.V),  Thiruchuli  (u)  Ward  4  Thiruchuli",All  Voters
+218,208,218,"T.U.N.S.V.  Higher  Secondary  School, North  Building  west  Portion,
+Thiruchuli  -  626129","1.Thiruchuli  (R.V),  Thiruchuli  (U)  Ward  5  Thiruchuli  , 2.Thiruchuli  (R.V),  Thiruchuli  (U)  Ward  5  Thiruchuli",All  Voters
+219,208,219,"T.U.N.S.V.  Higher  Secondary  School,
+North  Building,  East  Side, Thiruchuli  -  626129","1.Thiruchuli  (R.V),  Thiruchuli  (U)  Ward  5  Thiruchuli  (  Door  No.  5/1  to 5/576)",All  Voters
+220,208,220,"T.U.N.S.V.  Higher  Secondary  School, East  Building,  West  Faceing,
+Thiruchuli  -  626129","1.Thiruchuli  (R.V),  Thiruchuli  (U)  Ward  5  Thiruchuli  (  Door  No.  5/577  to 5/738)",All  Voters
+221,208,221,"Panchayat  Union  Primary  School, North  Building,  Tamilpadi  -  626129","1.Thiruchuli  (R.V),  Tamilpadi  (u)  Ward  1  Tamilpadi",All  Voters
+222,208,222,"Panchayat  Union  Primary  School, New  Building,  East  faceing, Tamilpadi  -  626129","1.Thiruchuli  (R.V),  Tamilpadi  (U)  Ward  2  Tamilpadi",All  Voters
+223,208,223,"Panchayat  Union  Primary  School, North  Building,  South  Facing  Room, Tamilpadi  -  626129","1.Thiruchuli  (R.V),  Tamilpadi  (U)  Ward  3  samynattam  , 2.Thiruchuli  (R.V),  Tamilpadi  (U)  Ward  2  Tamilpadi  , 3.Thiruchuli  (R.V),  Tamilpadi  (U)  Ward  4  samynattam",All  Voters
+224,208,224,"Panchayat  Union  Primary  School, South  building,  North  facing,  Centre portion,  Chithalakundu-626129.","1.Kilakandamankulam  (R.V),  Kilakandamangalam  (U)  Ward  1  Paraikulam
+,
+2.Kilakandamankulam  (R.V),  Kilakandamangalam  (U)  Ward  1  Kottam  , 3.Kilakandamankulam  (R.V),  Kilakandamangalam  (U)  Ward  2 Kilakandamangalam",All  Voters
+225,208,225,"Panchayat  Union  Primary  School, South  building,  North  facing,  East portion,  Chithalakundu-626129.","1.Kilakandamalukam  (R.V),  Kilakandamangalam  (U)  Ward  3 Sidhalakundu  ,
+2.1.Keelakandamangalam(R.V)  Keelakandamangalam  (P)  ward  4
+Chithalakundu",All  Voters
+226,208,226,"Panchayat  Union  Elimentary School,  Konappanendal  -  626129","1.Kilakandamankulam  (R.V),  Kilakandamankulam  Ward  4  Sithalakundu  , 2.Kilakandamankulam  (R.V),  Kilakandamangalam  Ward  4  Konappanendal  ,
+3.Kilakandamankulam  (R.V),  Kilakandamangalam  (U)  Ward  5 Konappanendal",All  Voters
+227,208,227,"Panchayat  Union  Middle  School, Norh  Building,  Pulikuruchi  -  626129","1.Pulikurichi  (R.V),  Pulikurichi  (U)  Ward  1  pulikurichi",All  Voters
+228,208,228,"Nadar  Magajana  Sangam  Sermathai Vasan  Primary  School, Manavarayanendal","1.Pulikurichi  (R.V),  Pulikurichi  (U)  Ward  2  Mulakaraipatti  vadapalai  , 2.Manavarayanendal  (R.V),  Pulikurichi  (U)  Ward  2  Manvarayanendal",All  Voters
+229,208,229,"Panchayat  Union  Primary  School, North  building  West  side, P.Thottiyankulam  -  626129","1.Pulikurichi  (R.V),  Pulikurichi  (U)  Ward  3  P.  Thottiyankulam  , 2.1.Pulikuruchi  (R.V)  Pulikuruchi  (P)  ward  5  P.Thottiyankulam",All  Voters
+230,208,230,"Panchayat  Union  Primary  School, South  building,  P.Thottiyankulam  - 626129","1.Pulikurichi  (R.V),  Pulikurichi  (U)  Ward  4  P.Thottiyankulam",All  Voters
+231,208,231,"Gandhi  Kalvi  Nilaya  Primary  School, Krishnapuram  -  626129","1.Pulikurichi  (R.V),  Pulikurichi  (U)  Ward  5  P.  Thottiyankulam  , 2.Pannaimoondradaippu  (R.V),  Pantrimoondradaipu  (U)  Ward  4 Krishnapuram",All  Voters
+232,208,232,"Panchayat  Union  Middle  School, Additional  Building,  Faceing  West, Meelakandamangulam-626159",1.melakandamankalam  (R.V)  gulasekara  nallur  (P)  Ward  3 melakkandamankalam,All  Voters
+233,208,233,"Panchayat  Union  Middle  School, New  Additional  Building,  North  East Cornor  Building,  Facing  South,  west Portion,  Melakandamankulam",1.melakandamankalam  (R.V)  gulasekara  nallur  (P)  Ward  3 melakkandamankalam  T  R  S  Mill  Quarters,All  Voters
+234,208,234,"Panchayat  Union  Primary  School,
+Mangulam  -  626106","1.Mangulam(R.V)  Muthuramalingapuram  (P)  Ward  5,  Mangulam",All  Voters
+235,208,235,"Govt  High  School,  South  Facing West  Side  Room-NO  9-Kulasekaranallur-626159",1.Kulasekaranalloor  (RV)  Kulasekaranallor  (P)  kulasekaranalloor,All  Voters
+236,208,236,"Govt  High  School,  South  Facing, East  Side  Room-NO  10-Kulasekaranallur-6.26159",1.Kulasekaranalloor  (RV)  Kulasekaranallor  (P)  kulasekaranalloor,All  Voters
+237,208,237,"Panchayat  Union  Middile  School, Additional  Building  Facing  West, Madathupatti","1.Kulasekaranalloor  (RV)  Kulasekaranallor  (P)  madathupatti  , 2.Kulasekaranalloor  (RV)  Kulasekaranallor  (P)  manjampatti",All  Voters
+238,208,238,"C.S.I  Primary  School,  North  Portion,
+Aladipatti-  626129",1.Aladipatti(R.V)  Aladipatti  (P)  Ward  1  Aladipatti,All  Voters
+239,208,239,"C.S.I  Primary  School,  South Portion,  Aladipatti-  626129","1.Aladipatti(R.V)  Aladipatti  (P)  Ward  2  Aladipatti  , 2.Aladipatti(R.V)  Aladipatti  (P)  Ward  3  Aladipatti",All  Voters
+240,208,240,"Panchayat  Union  Primary  School, West  Portion  Savaspuram  -  626159","1.Sawaspuram(R.V)  Sawaspuram  (P)  Ward  1,  Sawaspuram  , 2.Sawaspuram(R.V)  Sawaspuram  (P)  Ward  2,  Sawaspuram",All  Voters
+241,208,241,"Panchayat  Union  Primary School,East  Portion  Savaspuram  - 626159","1.Savaspuram(R.V)  Savaspuram  (P)  Ward  3,  Savaspuram  , 2.Savaspuram(R.V)  Savaspuram  (P)  Ward  3,  Savaspuram",All  Voters
+242,208,242,"Panchayat  Union  Elementary School,  Kullampatti  -  626106","1.Kullampatti(R.V)  Kullampatti  (P)  Ward  1,  Kullampatti  , 2.Kullampatti(R.V)  Kullampatti  (P)  Ward  2,  Kullampatti  , 3.Kullampatti(R.V)  Kullampatti  (P)  Ward  3  Kullampatti",All  Voters
+243,208,243,"SBK  Higher  Secondary  School,  West building,  East  Facing,  South poriotn,  Kalloorani  -  626105","1.Kalloorani(R.V)  Kalloorani  (P)  Ward  1  Kalloorani  ,  2.Kalloorani(R.V) Kalloorani  (P)  Ward  2,  Kalloorani  ,  3.Kalloorani(R.V)  Kalloorani  (P)  Ward 3,  Kalloorani",All  Voters
+244,208,244,"SBK  Higher  Secondary  School,  West building,  East  Facing,  North poriotn,  Kalloorani  -  626105","1.Kalloorani(R.V)  Kalloorani  (P)  Ward  4,  Kalloorani  ,  2.Kalloorani(R.V) Kalloorani  (P)  Ward  5,  Kalloorani",All  Voters
+245,208,245,"SBK  Higher  Secondary  School, Administrative  Building  Room  No. 24,  25,  Kalloorani  -  626  105","1.Kallurani(R.V)  Kallurani  (P)  Ward  1  Kallurani  , 2.Kallurani(R.V)  Kallurani  (P)  Ward  2  Kallurani  , 3.Kallurani(R.V)  Kallurani  (P)  Ward  3  Kallurani  , 4.Kallurani(R.V)  Kallurani  (P)  Ward  4  Kallurani  ,
+5.Kallurani(R.V)  Kallurani  (P)  Ward  5  Kallurani",All  Voters
+246,208,246,"Panchayat  Union  Primary  School, New  building  south  portion, Meelakurunaikulam-626105",2.Kurunaikulam(R.V)  Aladipatti  (P)  Ward  5  Melakurunaikulam,All  Voters
+247,208,247,"Panchayat  Union  Primary School,West  Portion,Facing  North, K.Meenatchipuram","1.Aladipatti(R.V)  Aladipatti  (P)  Ward  4  Ramasamypatti  ,  (Split  from  PS No.233)
+1.Konganakuruchi(R.V)  Aladipatti  (P)  Ward  7  Konganakuruchi  ,
+2.Konganakurichi(R.V)  Aladipatti  (P)  Ward  8  Konganakurichi  .",All  Voters
+248,208,248,"Panchayat  Union  Primary  School, North  Portion,  Keelakurunaikulam-62610",3.Kurunaikulam(R.V)  Aladipatti  (P)  Ward  6  Keelakurunaikulam,All  Voters
+249,208,249,"Government  Higher  Secondary School,  Western  building  East  Side, Muthuramalingapuram  -  626105","1.Muthuramalingapuram(R.V)  Muthuramalingapuram  (P)  Ward  1 Muthuramalingapuram  ,
+2.Narthampatti(R.V)  Muthuramalingapuram  (P)  Ward  4  Narthampatti",All  Voters
+250,208,250,"Government  Higher  Secondary School,  Western  building  west  Side, Muthuramalingapuram  -  626105","1.Muthuramalingapuram(R.V)  Muthuramalingapuram  (P)  Ward  1 Muthuramalingapuram  ,
+2.Muthuramalingapuram(R.V)  Muthuramalingapuram  (P)  Ward  2 Muthuramalingapuram  ,
+3.Muthuramalingapuram(R.V)  Muthuramalingapuram  (P)  Ward  3 Muthuramalingapuram",All  Voters
+251,208,251,"Hindu  Primary  School  Main
+Building,  Bommakottai  -  626106","1.Pommakottai(R.V)  Pommakottai  (P)  Ward  1  Pommakottai  ,
+2.Pommakottai(R.V)  Pommakottai  (P)  Ward  2  Pommakottai",All  Voters
+252,208,252,"Panchayat  Union  Primary  School, West  Building,  West  Portion, Kalaiyarkarisalkulam  -626105",1.Kalaiyar  karisalkulam(R.V)  Kalaiyar  karisalkulam  (P)  Kalaiyar karisalkulam  (East),All  Voters
+253,208,253,"CSI  Primary  School,  East  Building, south  portion,  Kalaiyarkarisalkulam
+-626105",1.Kalaiyar  karisalkulam(R.V)  Kalaiyar  karisalkulam  (P)  Kalaiyar karisalkulam  (East),All  Voters
+254,208,254,"CSI  Primary  School,  East  Building South  side,  Kalaiyarkarisalkulam  -
+626105",1.Kalayar  Karisalkulam(R.V)  Kalayar  Karisalkulam(P)  Kalayar Karisalkulam  (West),All  Voters
+255,208,255,"Govt.High.School,  East  side  bilding, South  portion,  West  facing, Kathalampatti","1.Kalyanasundarapuram(R.V)  R.Kallumadam(P) Ward1,Kalyanasundarapuram  ,
+2.R.  kallumadam(R.V)  R.  kallumadam  (P)  Ward  2  R.  Kallumadam  ,
+3.R.  kallumadam(R.V)  R.  kallumadam  (P)  Ward  3  Kattalampatti 4.Erracinnampatti(R.V)  R.  kallumadam  (P)  Ward  4  Erracinnampatti",All  Voters
+256,208,256,"Aided  Primary  School,  South Portion,  R.Kallumadam-626118",1.R.  kallumadam(R.V)  R.  kallumadam  (P)  Ward  2  R.  Kallumadam   2.R. kallumadam(R.V)  R.  kallumadam  (P)  Ward  3  Kathdalampatti,All  Voters
+257,208,257,"Kamavar  Primary  School,  New building  East  Portion,  Vedanatham-626118","1.Vedanattam(R.V)  Vedanattam  (P)  Ward1  Vedanatham  kelapatti 2.Vedanattam(R.V)  Vedanattam  (P)  Ward2 Vedanathamkelapattimelapatti  ,
+3.Parattanattam,  Thamanaickanpatti(R.V)  Vedanattam  (P)  Ward  3,4
+Parattanattam,  Thamanaickanpatti",All  Voters
+258,208,258,"CSI  Primary  School,  Mandapasalai  -
+626118",1.Mandapasalai(R.V)  Mandapasalai  (P)  Mandapasalai,All  Voters
+259,208,259,"Government  Higher  Secondary School,  West  Portion,  South  Side Facing  East,  M.Reddiapatti  -  626118","1.Mandapasalai(R.V)  Mandapasalai  (P)  Ward  2,  Silukkapatti  , 2.Mandapasalai(R.V)  Mandapasalai  (P)  Ward  2,  Pudur  , 3.Mandapasalai(R.V)  Mandapasalai  (P)  Ward  2,  Lakshmipuram",All  Voters
+260,208,260,"Government  Higher  Secondary School,  West  Portion,North  Side, East  Facing,  M.Reddiapatti  -  626118","1.Mandapasalai(R.V)  Mandapasalai  (P)  Ward  4,  Lakshmipuram  , 2.Mandapasalai(R.V)  Mandapasalai  (P)  Ward  5  Lakshmipuram  , 3.Mandapasalai(R.V)  Mandapasalai  (P)  Ward  2,  Lakshmipuram",All  Voters
+261,208,261,"Panchayat  Union  Primary  School, North  Building  East  Portion,  M.
+Reddiapatti  -  626118","1.Mandapasalai(R.V)  Mandapasalai  (P)  Ward  6,  Rettiyapatti  , 2.Mandapasalai(R.V)  Mandapasalai  (P)  Ward  8  M.  Rettiyapatti",All  Voters
+262,208,262,"Panchayat  Union  Primary  School, North  Building,  East  side  North Portion,  M.  Reddiapatti  -  626118","1.Mandapasalai(R.V)  Mandapasalai  (P)  Ward  7  M.  Rettiyapatti  , 2.Mandapasalai(R.V)  Mandapasalai  (P)  Ward  9  M.  Rettiyapatti",All  Voters
+263,208,263,"Panchayat  Union  Primary  School, Tiled  building,  West  Portion,  Facing north,  Maravarperungudi  -  626118","1.Maravar  perungudi(R.V)  Maravar  perungudi  (P)  Ward  1,  Meenachipuram
+,
+2.Maravar  perungudi(R.V)  Maravar  perungudi  (P)  Ward  6,  Vellaiyapuram",All  Voters
+264,208,264,"Panchayat  Union  Primary  School, Tiled  building,  East  Portion,  Facing north,  Maravarperungudi  -  626118","1.Maravar  perungudi(R.V)  Maravar  perungudi  (P)  Ward  2,  Maravar perungudi  ,
+2.Maravar  perungudi(R.V)  Maravar  perungudi  (P)  Ward  3,  Maravar perungudi  ,
+3.Maravar  perungudi(R.V)  Maravar  perungudi  (P)  Ward  4,  Maravar perungudi  ,
+4.Maravar  perungudi(R.V)  Maravar  perungudi  (P)  Ward  5,  Maravar perungudi",All  Voters
+265,208,265,"Panchayat  Union  Primary  School, West  Side,  Suthamadam  -  626114","1.Suddamadam(R.V),  Suddamadam  (P)  Ward  No.1,  Suddamadam  , 2.Suddamadam(R.V),  Suddamadam  (P)  Ward  1,  Suddamadam  , 3.Suddamadam(R.V),  Suddamadam  (P)  Ward  2,  Suddamadam  , 4.Suddamadam(R.V),  Suddamadam  (P)  Ward  4,  Krishnapuram",All  Voters
+266,208,266,"Panchayat  Union  Primary  School, Thirumalaipuram  -  626114","1.Thirumalaipuram(R.V),  Suddamadam  (P)  Ward  3,  Thirumalaipuram  , 2.Thirumalaipuram(R.V),  Suddamadam  (P)  Ward  No.3,  Thirumalaipuram",All  Voters
+267,208,267,"Panchayat  Union  Primary  School, West  Portion,  Salukkuvarpatti  - 626118","1.Salukkuvarpatti(R.V),  Salukkuvarpatti  (P)  Ward  1,  Kallupatti  , 2.Salukkuvarpatti(R.V)  Salukkuvarpatti  (P)  Ward  3,  Pungamarathupatti  , 3.Salukkuvarpatti(R.V),Salukkuvarpatti  (P)  Ward  2,  Salukkuvarpatti  , 4.Salukkuvarpatti(R.V),  Salukkuvarpatti  (P)  Ward2,  Salukkuvarpatti  , 5.Salaukkuvarpatti(R.V),  Salaukkuvarpatti  (P)  Ward  4  Kanjampatti",All  Voters
+268,208,268,"Panchayat  Union  Primary  School, East  Side,  Thummuchinnampatti  - 626118","1.Thummusinnampatti(R.V)  Thummusinnampatti  (P)  Ward  1, Thummusinnampatti  ,
+2.Thummusinnampatti(R.V)  Thummusinnampatti  (P)  Ward  2, Thummusinnampatti  ,
+3.Thummusinnampatti(R.V),  Thummusinnampatti  (P)  Ward  3, Thummusinnampatti  ,
+4.Thummusinnampatti(R.V),  Thummusinnampatti  (P)  Ward  4, Thummusinnampatti",All  Voters
+269,208,269,"Panchayat  Union  Primary  School, West  Side,  Thummuchinnampatti  - 626118","1.Thummusinnampatti(R.V),  Thummusinnampatti  (P)  Ward  4 Thummusinnampatti  ,
+2.Thummusinnampatti(R.V),  Thummusinnampatti  (P)  Ward  1 Thummusinnampatti  ,
+3.Thummusinnampatti(R.V),  Thummusinnampatti  (P)  Ward  2, Thummusinnampatti  ,
+4.Thummusinnampatti(R.V),  Thummusinnampatti  (P)  Ward  3, Thummusinnampatti",All  Voters
+270,208,270,"Sermathai  Vasan  Middle  School, New  Building,  North  Facing,  East portion,   Thooppalakarai  -  626114","1.Thoppalakarai(R.V),  Thoppalakarai  (P)  Ward  1,  Thoppalakarai  , 2.Thoppalakarai(R.V),  Thoppalakarai  (P)  Ward  2,  Thoppalakarai",All  Voters
+271,208,271,"Sermathai  Vasan  Middle  School, New  Building,  North  Facing,  West Portion,  Thooppalakarai  -  626114","1.Thoppalakarai(R.V),  Thoppalakarai  (P)  Ward  3,  Thoppalakarai  , 2.Thoppalakarai(R.V),  Thoppalakarai  (P)  Ward  4,  Thoppalakarai  , 3.Thoppalakarai(R.V),  Thoppalakarai  (P)  Ward  5,  Thoppalakarai",All  Voters
+272,208,272,"Panchayat  Union  Middle  School, Rajagopalapuram  -  626114","1.Rajagopalapuram(R.V),  Rajagopalapuram  (P)  Ward  1,  Rajagopalapuram  , 2.Rajagopalapuram(R.V),  Rajagopalapuram  (P)  Ward  2,  Rajagopalapuram  , 3.Thoppalakarai(R.V),  Rajagopalapuram  (P)  Ward  3,  Pothampatti",All  Voters
+273,208,273,"Hindu  Nadar  Sathiriya  Vidyasala Primary  School,  South  side, Pullanaickenpatti  -  626114","1.Therkkunatham(R.V),  Ranisethupuram  (P)  Ward  1  Ranisethupuram 2.Pullanaickanpatti(R.V),  Pullanaickanpatti  (P)  Ward  2  Pullanaickanpatti
+,
+3.Pullanaickanpatti(R.V),  Pullanaickanpatti  (P)  Ward  3 Pommanaickanpatti",All  Voters
+274,208,274,"Hindu  Nadar  Sathiriya  Vidyasala Primary  School,  East  side,  Middle Portion,  Pullanaickenpatti  -  626114","1.Pullanaickanpatti(R.V),  Pullanaickanpatti  (P)  Ward  1,  Pullanaickanpatti
+,
+2.Pullanaickanpatti(R.V),  Pullanaickanpatti  (P)  Ward  2,  Pullanaickanpatti
+,
+3.Pullanaickanpatti(R.V),  Pullanaickanpatti  (P)  Ward  3, Bommanaickanpatti",All  Voters
+275,208,275,"Govt  High  School,  New  Building, Vadakunatham  -  626114","1.Vadakku  nattam(R.V),  Vadakku  nattam  (P)  Ward  1,  Vadakku  nattam  ,
+2.Vadakku  nattam(R.V),  Vadakku  nattam  (P)  Ward  2,  Vadakku  nattam  ,
+3.Vadakku  nattam(R.V),  Vadakku  nattam  (P)  Ward  3.  Vadakku  nattam  ,
+4.Therkku  nattam(R.V),  Vadakku  nattam  (P)  Ward  4,  Therkku  nattam",All  Voters
+276,208,276,"Government  Higher  Secondary School,  Main  Building  Class  Room 11,  Melaparalachi  -  626114","1.Mailaiyur(R.V),  Mailaiyur  (P)  Ward  no.1  Mailaiyur  , 2.Mailaiyur(R.V),  Mailaiyur  (P)  Ward  2,  Mailaiyur  , 3.Mailaiyur(R.V),  Mailaiyur  (P)  Ward  3,  Mailaiyur",All  Voters
+277,208,277,"Panchayat  Union  Primary  School, North  new  building,  East  portion facing  south,  Nallankulam","1.Kanakki(R.V),  Nallankulam  (P)  Ward  1  Nallankulam  , 2.Kanakki(R.V),  Nallankulam  (P)  Ward  2  Vannathiyandal",All  Voters
+278,208,278,"Panchayat  Union  Primary  School, North  portion,  K.  Chettikulam  - 626114","1.K.  chettikulam(R.V),  K.  chettikulam  (P)  Ward  1,  K.  Chettikulam",All  Voters
+279,208,279,"Panchayat  Union  Primary  School, New  Building  Middle  portion,  K. Chettikulam  -  626114","1.K.  Chettikulam(R.V),  K.  Chettikulam  (P)  Ward  2,  Nedunkulam  ,
+2.K.  Chettikulam(R.V),  K.  Chettikulam  (P)  Ward  3,  Melaparaikulam",All  Voters
+280,208,280,"Anganvadi  Center,  West  Facing, K.chettikulam","1.Kanakki(R.V),  K.  Chettikulam  (P)  Ward  5,  Kilaparaikulam  , 2.Kanakki(R.V),  K.  Chettikulam  (P)  Ward  5  Kanakki  ,
+3.K.  Chettikulam(R.V),  K.  Chettikulam  (P)  Ward  4,  Udaiyanathapuram  , 4.Kanakki(R.V),  K.  Chettikulam  (P)  Ward  5,  Usilankulam",All  Voters
+281,208,281,"CSI  Primary  School,  East  Portion,
+Paralachi  -  626114","1.Paralachi(R.V),  Paralachi  (P)  Ward  1,  Paralachi  ,
+2.Paralachi(R.V),  Paralachi  (P)  Ward  2,  Paralachi",All  Voters
+282,208,282,"CSI  Primary  School,  West  Portion,
+Paralachi  -  626114","1.Paralachi(R.V),  Paralachi  (P)  Ward  3,  Paralachi",All  Voters
+283,208,283,"Panchayat  Union  Primary  School, New  Building,  West  side,  K. Vagaikulam  -  626114","1.Purasaloor(R.V),  K.  Vagaikulam  (P)  Vadaku  K.Vagaikulam  , 2.Purasaloor(R.V),  K.  Vagaikulam  (P)  Ward  2  Therkku  Vagaikulam  , 3.Purasaloor(R.V),  K.  Vagaikulam  (P)  Ward  2  Pasikulam, 4.Purasaloor(R.V),  K.  Vagaikulam  (P)  Ward  3,  K  Vagaikulam  , 5.Purasaloor1.Purasaloor(R.V),  K.  Vagaikulam  (P)  Ward  3  Periyasolandi  ,",All  Voters
+284,208,284,"Panchayat  Union  Primary  School, Purasalur-623603","1.Purasaloor(R.V),  K.  Vagaikulam  (P)  Ward  5,  Purasaloor 2.Purasaloor(R.V),  K.  Vagaikulam  (P)  Ward  5, 3.Purasaloor1.Purasaloor(R.V),  K.  Vagaikulam  (P)  Ward  3  Periyasolandi  ,",All  Voters
+285,208,285,"Panchayat  Union  Middle  School, Western  side  Building,South Portion,  Facing  East,  Sengulam  - 626114","1.Senkulam(R.V),  Senkulam  (P),  Ward  1,  Senkulam",All  Voters
+286,208,286,"Panchayat  Union  Middle  School, Western  side  Building,North Portion,  Facing  East,  Sengulam  -
+626114","2.Paralachi(R.V),  Senkulam  (P)  Ward  2,  P.  Vagaikulam  , 3.Senkulam(R.V),  Senkulam  (P)  Ward  3,  Senkulam",All  Voters
+287,208,287,"Panchayat  Union  Primary  School, South  Side  New  Building,  Poolangal  - 626114","1.Poolankal(R.V),  Poolankal  (P)  Ward  2,  Poolankal  , 2.Pulankal(R.V),  Pulankal  (P)  Ward  4,  Pulankal",All  Voters
+288,208,288,"Panchayat  Union  Primary  School, North  Side  New  Building,  Poolangal  - 626114","1.Pulankal(R.V),  Pulankal  (P)  Ward  3,  Pulankal",All  Voters
+289,208,289,"Panchayat  Union  Primary  School, North  side,  New  Building,Facing South,  Poolangal  -  626114","1.Poolankal(R.V),  Poolankal  (P)  Ward  5,  Pudukiramam, 2.Pulankal(R.V),  Pulankal  (P)  Ward  6,  Pallappatti.",All  Voters
+290,208,290,"Panchayat  Union  Primary  School, Eastern  Side  New  Building,Facing West  Poolangal  -  626114","3.Pulankal(R.V),  Pulankal  (P)  Ward  7,  Vamapuram  , 4.Pulankal(R.V),  Pulankal  (P)  Ward  5,  Pulankal",All  Voters
+291,208,291,"Panchayat  Union  Primary  School, South  Building,  Keelgudi  -  626114","1.Keelgudi(R.V),  K.  Vagaikulam  (P)  Ward  1,  Keelgudi  , 2.Keelkudi(R.V),  K.  Vagaikulam  (P)  Ward  1,  Ettikulam  , 3.Kallakkari(R.V),  K.  Vagaikulam  (P)  Ward  4,  Kilakallakkari",All  Voters
+292,208,292,"Panchayat  Union  Primary  School, Additional  Building,  Keelgudi  -
+626114","1.Kallakkari(R.V),  K.  Vagaikulam  (P)  Ward  5,  Melakallakkari  , 2.Keelgudi(R.V),  K.  Vagaikulam  (P)  Ward  3,4,  Keelgudi",All  Voters

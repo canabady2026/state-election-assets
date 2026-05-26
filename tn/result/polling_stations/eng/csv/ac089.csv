@@ -1,0 +1,826 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+1,89,1,,"CSI Polytechnic College, Yercaud Main Road, Salem-636007, East Facing Room No-112 West building
+South portion","1.Salem (C), D.7.Bharathi Nagar (Yercaud Road)"
+2,89,2,,"CSI Polytechnic College, Yercaud Main Road, Salem-636007, East Facing Room No-113 west building
+middle portion","1.Salem (C), D.7.Bharathi Nagar (Yercaud Road)
+2.Salem (C), D 8 Lakshmipuram"
+3,89,3,,"Anderson Matric Higher Secondary School, Sengodagounder salai, Salem - 636008. West
+Terraced Building East Facing Middle Wing","1.Salem (C), D.7,Attukadu (Backside of Collector Bungalow),
+2.Salem (C), D.7,Sengodagounder Salai"
+4,89,4,,"CSI Polytechnic College, Yercaud Main Road, Salem-636007, Terraced Building Facing East North wing
+Hall No 114","1.Salem (C), D.7,TamilnaduHousing Unit,
+2.Salem (C), D.7,ThiruNagar"
+5,89,5,,"CSI Polytechnic College, Yercaud Main Road, Salem-636007, Terraced Building Facing North South
+Building Hall No DHG 1","1.Salem(C), D 7 Meenakshi Nagar, 2.Salem(C), D 7 Meenakshi Nagar TVS Nagar"
+6,89,6,,"CSI Polytechnic College, Yercaud Main Road, Salem-636007, Terraced Building Facing North South
+Building Hall No DHG 3, East Portion","1.Salem(C), D 7 Kallikadu (Kudisai Area), 2.Salem(C), D 7 Kallikkadu,
+3.Salem (C), D 7, Kannankurichi Main Road"
+7,89,7,,"CSI Polytechnic College, Yercaud Main Road, Salem-
+636007, Terraced Building Facing West East Wing Hall 115","1.Salem (C), D.7,Kambarstreet"
+8,89,8,,"SCMC Elementary School, Ayyanthirumaligai Salem-636007, New Terraced Class Room Building Facing North East Room","1.Salem (C), D.7,Pallakkadu,
+2.Salem (C), D.7,Backside of S.P.Bungalow,
+3.Salem (C), D.8,Vasanthapuram,
+4.Salem (C), D.7,Kambarstreet (Pachudayarkadu)"
+9,89,9,,"CSI Hobert Girls High School Hasthampatty Salem-636007, Facing South Terraced Building West Portion","1.Salem (C), D.13,Central Jail Backside,
+2.Salem (C), D.13, Seetharam Avenue,
+3.Salem (C), D.13, Saradha College Road"
+10,89,10,,"CSI Hobert Girls High School Hasthampatty Salem-636007, Facing South Terraced Building Middle
+Portion","1.Salem (C), D.13,Central Jail Backside,
+2.Salem (C), D.13,Central Jail Backside 999 - Overseas Elector"
+11,89,11,,"CSI Hobert Girls High School Hasthampatty Salem-636007, Facing South Terraced Bulding East Wing","1.Salem (C), D 13, Hasthampatti Mariamman Koil Street,
+2.Salem (C), D 13, Christian Pet, Adaikala Nagar, 3.Salem(C), D.13, Central Jail QuartersHousing Unit,
+4.Salem (C), D.13, Anna Nagar"
+12,89,12,,"SCMC Elementary School, Ayyanthirumaligai-636007, Terraced Building Facing North West Building West
+Portion","1.Salem (C), D.7,IyyenThirumaligai
+2.Salem (C), D.7,Kuzhandaigal Nala Kappaga Street 999 - Overseas Elector"
+13,89,13,,"SCMC Elementary School, Ayyanthirumaligai Salem-636007, Terraced Building Facing North Middle Building West Portion","1.Salem (C), D.7,First Street,
+2.Salem (C), D.7,Nadustreet,
+3.Salem (C), D.7,Second Street,
+4.Salem (C), D.7,Keel Street,
+5.Salem (C), D.7,Syndicate Bank Colony,
+6.Salem (C), D.7,Vallalar Nagar,
+7.Salem (C), D.7,Housing Unit Itteri Road"
+14,89,14,,"SCMC Elementary School, Ayyanthirumaligai, Salem-636007, Terraced Building Facing North East Building","1.Salem (C), D.7,Housingunit IyyenThirumaligai,
+2.Salem (C), D.7,Housingunit IyyenThirumaligai,
+3.Salem (C), D.7,Yercaud Road Housing Unit,
+4.Salem (C), D.7,YercaudRoad,
+5.Salem (C), D.7,Collector Bungalow Backside Housing Unit"
+15,89,15,,"Mountmarys Matriculation School, Periyar Nagar Chinnakollapatty, Terraced Building, Facing South East Wing Room No 3","1.Salem(C), D 6, ThiruvalluvarNagar 2.Salem(C), D 6, Jeevathstreet 3.Salem(C), D 6, Gandhistreet
+4.Salem(C), D 6 Yercaud Main Road, Gandhi Nagar East, Jeeva Street"
+16,89,16,,"Mountmarys Matriculation School, Periyar Nagar Chinnakollapatty, Salem - 636008. Terraced Building Facing South, East Wing Room No.4","1.Salem(C), D 6, AnnaiindiraNagar 2.Salem(C), D 6 Rajaganapathy Nagar 3.Salem(C), D 6 SanthiNagar"
+17,89,17,,"Mountmarys Matriculation School, Periyar Nagar Chinnakollapatty, Terraced Building, Facing South
+East Wing","1.Salem(C), D 6 AnnaiIndiraNagar 999 - Overseas Elector"
+18,89,18,,"SCMC Middle School, Chinna Kollapatty, Salem-636008, Terraced Building, Facing South West Wing","1.Salem(C), D 6 Annasalai
+2.Salem(C), D 6 Thiruvalluvar street (south) 3.Salem(C), D 6 Iyanarkoilkattuvalavu"
+19,89,19,,"SCMC Middle School, ChinnaKollapatty, Salem-636008. Terraced Building Facing South, East Wing","1.Salem(C), D 6 SaraswathiNagar 2.Salem(C), D 6 Boyarstreet 3.Salem(C), D 6 G.K.V.Nagar
+4.Salem(C), D 6 Varmagarden"
+20,89,20,,"SCMC Middle School, Chinnakollapatty, Building Facing South West Wing","1.Salem(C), D 6 KaliammanNagar, 2.Salem(C), D 6 Pazhaniappakounder Nagar,
+3.Salem(C), D6 Yercaudmainroad"
+21,89,21,,"SCMC Middle School, Chinnakollapatty, Facing South, East Wing","1.Salem(C), D 6 K.K.Nagar, 2.Salem(C), D 6 PonnNagar East,
+3.Salem(C), D 6 Yercaud Main Road West, 4.Salem(C), D 6 Ponn Nagar West,
+5.Salem(C), D 6 K.K.Nagar West"
+22,89,22,,"Mountmarys Matriculation School, Periyar Nagar Chinnakollapatty, Terraced Building Facing South,
+Middle Wing","1.Salem(C), D 6 Periyar Nagar"
+23,89,23,,"Mountmarys Matriculation School, Periyar Nagar Chinnakollapatty, Terraced Building Facing South
+West Wing","1.Salem(C), D 6 Periyar Nagar, 2.Salem(C), D 6 Ayyankadu"
+24,89,24,,"Mountmarys Matriculation School, Periyar Nagar Chinnakollapatty, Terraced Building Facing East,
+North Wing","1.Salem(C), D 6 N.G.G.O.Colony 2.Salem(C), D 6 Kundathumedu"
+25,89,25,,"SCMC Elementary School, Periyakollapatty, Terraced Building Facing South West Wing","1.Salem(C), D 6 Mariammankoil Street, 2.Salem(C), D 6 Subramaniar koil Street,
+3.Salem(C), D 6 Angalamman koil street"
+26,89,26,,"Government Higher Secondary School, Kannankurichi, Terraced Building Facing West A Block
+North Portion","1.Salem(C), D 6 Kattuvalavu, 2.Salem(C), D 6 Housingunit"
+27,89,27,,"SCMC Elementary School, Periyakollapatty, Facing
+North Terraced Building East Wing","1.Salem(C), D 6 GandhiNagar and new colony periyakollappatty
+999 - Overseas Elector"
+28,89,28,,"Government Industrial Training Institute, Gorimedu, Asbestos Building Facing North Room No 17","1.Salem(C), D 6 Prakasam Nagar mariammankoil melvattam
+2.Salem (C), D.7,MalStreet 999 - Overseas Elector"
+29,89,29,,"Government Industrial Training Institute, Gorimedu, Salem-636008, Asbestos Building Facing North, East
+Wing Room No 8","1.Salem(C), D 6 Kannankurichi Main Road and vijay Nagar 2.Salem(C), D 6 Judge road Indira Nagar
+3.Salem(C), D 8, IndiraNagar"
+30,89,30,,"Government Industrial Training Institute, Gorimedu, Asbestos Building Facing North Room No 19","1.Salem (C), D 6. Syndicate Colony Kurnichi Nagar 1,2 SakthiNagar Annex,
+2.Salem(C), D 6 Ramasamy Nagar IInd Cross,
+3.Salem(C), D 6 Ramanathapuram ,Kannankurichi main road"
+31,89,31,,"Government Industrial Training Institute, Gorimedu, Terraced Building Facing North Hundai building west
+portion","1.Salem (C), D 6. Patchiamman Kovil, Kamarajar Road Jallikadu 999 - Overseas Elector"
+32,89,32,,"Government Industrial Training Institute, Gorimedu, Terraced Building Facing North Hundai building East portion","1.Salem(C), D 6 Ramasamy Nagar Ist Cross 2.Salem(C), D 6 Perumal koil thottam 3.Salem(C), D 6 Kalyani Nagar1,2
+4.Salem(C), D 6 Nataraj Nagar and judge road south side"
+33,89,33,,"Panchayat Union Middle School, Kannankurichi, Salem-636008, New Terraced Building Facing west North Wing","1.Kannankurichi (TP), Ward4, Venkatachalam Street 2.Kannankurichi (TP), Ward4, Karuppannan Street 3.Kannankurichi (TP), Ward4, Natarajan Street, 4.Kannankurichi (TP), Ward4, Desaichinnaponnustreet 5.Kannankurichi (TP), Ward4, PannaiarSubbarayan Street 6.Kannankurichi (TP), Ward4, Gopal Street 7.Kannankurichi (TP), Ward5, Muthusamy Street, 8.Kannankurichi (TP), Ward5, T.K.V. Rajagopal Street, 9.Kannankurichi (TP), Ward5, Dasaramarimuthu Street, 10.Kannankurichi (TP), Ward5, Selvam Street, 11.Kannankurichi (TP), Ward5, V.K.Perumal Street, 12.Kannankurichi (TP), Ward5, StreetNo.6, 13.Kannankurichi (TP), Ward5, Narayanan Street,
+14.Kannankurichi (TP), Ward5, StreetNo.8,"
+34,89,34,,"Panchayat Union Middle School, Kannankurichi Salem-636008, Terraced Building Facing West, South Side of South Wing","1.Kannankurichi (TP), Ward3, KurichaNarayanan Street 2.Kannankurichi (TP), Ward3, Arumugam Street 3.Kannankurichi (TP), Ward3, R.K.Ramanujam Street 4.Kannankurichi (TP), Ward3, Natarajan Street 5.Kannankurichi (TP), Ward3, Sundaram Street 6.Kannankurichi (TP), Ward3, Subbarayan Street
+7.Kannankurichi (TP), Ward3, AC Gopal Stree"
+35,89,35,,"Panchayat Union Middle School, Kannankurichi Salem-636008, Terraced Building Facing West, South
+Side of South Wing","1.Kannankurichi (TP), Ward3, L.B.Chetty Street 2.Kannankurichi (TP), Ward2, Saravana Nagar"
+36,89,36,,"Panchayat Union Middle School, Kannankurichi, Terraced Building Facing North","1.Kannankurichi (TP), Ward6, Kannia Street 2.Kannankurichi (TP), Ward6, K.V.Annamalai Street 3.Kannankurichi (TP), Ward6, K.S.Arumugam Street 4.Kannankurichi (TP), Ward5, StreetNo.5 5.Kannankurichi (TP), Ward7, Poomalai Street 6.Kannankurichi (TP), Ward7, Santhastreet 7.Kannankurichi (TP), Ward9, Sathyacolony"
+37,89,37,,"Panchayat Union Middle School, Kannankurichi, Terraced Building Facing East, North Wing","1.Kannankurichi (TP), Ward12, Salem Road, 2.Kannankurichi (TP), Ward12, Mahalakshmi Nagar,
+3.Kannankurichi (TP), Ward12, M.G.R.Nagar"
+38,89,38,,"Panchayat Union Middle School, Kannankurichi, Terraced Builiding Facing West New Building Middle Portion","1.Kannankurichi (TP), Ward12, Karpagam Nagar (RajNagar), 2.Kannankurichi (TP), Ward12, Venkateswara Nagar, 3.Kannankurichi (TP), Ward12, Arumugam Ayyer Street,
+4.Salem (C), D 8, Yercaud Road"
+39,89,39,,"Panchayat Union Middle School, Kannankurichi, Terraced Building Facing West, South Wing","1.Kannankurichi (TP), Ward7, K.S.Arumugam Street 2.Kannankurichi (TP), Ward7, Arumugam Street 3.Kannankurichi (TP), Ward7, Ammaiappan Street 4.Kannankurichi (TP), Ward7, Kandasamy Street 5.Kannankurichi (TP), Ward7, Seerangan Street 6.Kannankurichi (TP), Ward6, K.R.Ezhumalai Street 7.Kannankurichi (TP), Ward6, Subbu Street 8.Kannankurichi (TP), Ward6, Kunjan Street 9.Kannankurichi (TP), Ward6, Thambu Street
+10.Kannankurichi (TP), Ward6, Chinna Mariamman Koil Street"
+40,89,40,,"Goverment Higher Secondary School, Kannankurichi, Terraced Builiding Facing North West Wing Agri Lab","1.Kannankurichi (TP), Ward9, Yerappan Street 2.Kannankurichi (TP), Ward9, Chinnannan Street 3.Kannankurichi (TP), Ward8, Selvam Street 4.Kannankurichi (TP), Ward8, Govindan Street 5.Kannankurichi (TP), Ward8, Kaliammankoil Street 6.Kannankurichi (TP), Ward8, Arunachalam Street
+7.Kannankurichi (TP), Ward8, PerumalKoil Stree"
+41,89,41,,"Goverment Higher Secondary School, Kannankurichi, Terraced Builiding Facing East C Block Middle Portion","1.Kannankurichi (TP), Ward1, Kattuvattam"
+42,89,42,,"Goverment Higher Secondary School, Kannankurichi, Salem - 636008. Terraced Building Facing East, Middle Wing, Office Room E-Block","1.Kannankurichi (TP), Ward1, Kattuvattam -1 2.Kannankurichi (TP), Ward1, SeviColony"
+43,89,43,,"Goverment Higher Secondary School, Kannankurichi, Salem-636008, Terraced Builiding Facing West South
+Wing (A-BLOCK)","1.Kannankurichi (TP), Ward14, PacharoadYercaudmain Road"
+44,89,44,,"Goverment Higher Secondary School, Kannankurichi, Salem-636008, Terraced Builiding Facing West North
+Wing (A-BLOCK)","1.Kannankurichi (TP), Ward14, Pacharoad Yercaud main Road"
+45,89,45,,"Goverment Higher Secondary School, Kannankurichi , Terraced Builiding Facing East South Wing Staff
+Room E-BLOCK","1.Kannankurichi (TP), Ward2, PachiammanNagar"
+46,89,46,,"Goverment Higher Secondary School, Kannankurichi, Salem - 636008, Terraced Building Facing North East
+Wing Agriculture Lab","1.Kannankurichi (TP), Ward2, PachiammanNagar"
+47,89,47,,"Goverment Higher Secondary School, Kannankurichi, Salem-636008, Terraced Builiding Facing East Middle Wing Staff Room E-BLOCK","1.Kannankurichi (TP), Ward13, Govindasamy Street, 2.Kannankurichi (TP), Ward13, MarimuthuStreet, 3.Kannankurichi (TP), Ward13, PethanStreet,
+4.Kannankurichi (TP), Ward13, Kandasamy Street"
+48,89,48,,"Goverment Higher Secondary School, Kannankurichi, Salem-636008, Terraced Building Facing East Wester
+Middle Wing E-BLOCK","1.Kannankurichi (TP), Ward13, Govindasamy Colony"
+49,89,49,,"Panchayat Union Middle School, Thamarai Nagar, Kannankurichi, Terraced Builiding Facing North East
+Wing","1.Kannankurichi (TP), Ward15,Thamari Nagar"
+50,89,50,,"Panchayat Union Middle School, Thamarai Nagar, Kannankurichi, Salem - 636008. Terraced Builiding
+Facing East, Middle Wing","1.Kannankurichi (TP), Ward15,Thamari Nagar 999 - Overseas Elector"
+51,89,51,,"Panchayat Union Middle School, Kannankurichi,
+Terraced Builiding Facing East South Wing","1.Kannankurichi (TP), Ward11, KesavanNagar"
+52,89,52,,"Panchayat Union Middle School, Kannankurichi, Salem - 636008. New Terraced Building Facing West,
+North Wing","1.Kannankurichi (TP), Ward11, Melmottankurichi"
+53,89,53,,"Panchayat Union Elementary School, Motankurichi Kannakurichi, Asbestas Building Facing West, North
+Wing","1.Kannankurichi (TP), Ward10, MottankurichiErikadu1"
+54,89,54,,"Panchayat Union Elementary School, Motankurichi Kannakurichi, Salem -636008 Asbestos Building
+Facing North, West Wing","1.Kannankurichi (TP), Ward10, MottankurichiErikadu1"
+55,89,55,,"Panchayat Union Middle School, Kannankurichi, Salem - 636008. Terraced Building Facing East, North
+Wing","1.Kannankurichi (TP), Ward10, Mottankurichimurugankoil2"
+56,89,56,,"SCMC Elementary School, Ramanathapuram, Kannankurichi, Salem-636008, West Portion of South Facing New Terraced Building","1.Salem(C), D8,NithiyaNagar 1st Street 2.Salem(C), D 8, NithyaNagar2nd Street
+3.Salem(C), D 8, NithyaNagar2nd Street Extension 4.Salem(C), D 8, Santhiavenue
+5.Salem(C), D 8, Bungalow Nagar 6.Salem(C), D 8, Pandianstreet
+7.Salem(C), D 8, Athayammal 1st Stree"
+57,89,57,,"SCMC Elementary School, Ramanathapuram, Kannankurichi, Salem-636008, East Portion of South
+Facing New Terraced Building","1.Salem(C), D 8, Ramanathapuram 2.Salem(C), D 8, BalajiNagar"
+58,89,58,,"Jairam High School, Chinnathiruppathi, Terraced
+Building Facing West Room No.11","1.Salem (C), D 8, GandhiNagar
+2.Salem(C), D.8.Meenachi Nagar"
+59,89,59,,"Jairam High School, Chinnathiruppathi, Terraced Building Facing South Room No.3","1.Salem(C), D 8, KamarajNagar 2.Salem(C), D 8, KamatchiNagar
+3.Salem(C), D 8, Kattabommanstreet, Karnan street
+999 - Overseas Elector"
+60,89,60,,"Jayalakshmi Vidayalaya Primary School, Near Housing Board, Pallakkadu, Terraced Building Facing West North Portion","1.Salem(C), D 8, QueensCircle
+2.Salem(C), D 8, Sivajisalai, Sibistreet (Prince Circle) 3.Salem(C), D 8, S.C.C.B. Colony
+4.Salem(C), D 8, Kambar Street 5.Salem(C), D 8, Paristreet 6.Salem(C), D 8, Asokansalai 7.Salem(C), D 8, Subbarayansalai 8.Salem(C), D 8, Kalingasalai 9.Salem(C), D.8.Cholan Street"
+61,89,61,,"Anderson Matric Higher Secondary School, Sengodagounder salai Salem, West Building Facing East North Portion 10th Std Class","1.Salem (C), D 8 Yercaud Road,
+2.Salem (C), D 8 Pandiyan street,
+3.Salem (C), D 8 Atthukadu,
+4.Salem (C), D 8 Atthukadu,karadu"
+62,89,62,,"Anderson Matric Higher Secondary School, Sengodagounder salai Salem, Facing South Terraced Building west Portion building North","1.Salem (C), D 8Anbu Nagar,
+2.Salem (C), D 8 Rathinapuri,
+3.Salem (C), D 8 Sengodagounder Salai ,North,
+4.Salem (C), D 8 Jayapal line,
+5.Salem (C), D 8 Rajeev Nagar,
+6.Salem (C), D 8 Seetha Garden,
+7.Salem (C), D 8 Mepillavar Garden"
+63,89,63,,"Jayalakshmi Vidayalaya High School, Near Housing Board, Pallakkadu, Terraced Building Facing East
+South Portion Main Building","1.Salem (C), D 8 Pallakkadu
+2.Salem (C), D 8 Bharathi Nagar
+3.Salem (C), D 8 Vishwankadu"
+64,89,64,,"Jairam High School,Chinnathiruppathi, Terraced Building Facing South West Wing.Room No 1","1.Salem(C), D 8 Thiruvalluvar Salai 2.Salem(C), D 8 Srinivasan Nagar 3.Salem(C), D 8 Solan Street 4.Salem(C), D 8 Seran Street
+5.Salem(C), D 8 Iyyam Perumal Street"
+65,89,65,,"Jairam High School,Chinnathiruppathi, Terraced Building Facing South Middle Wing.Room No 2","1.Salem(C), D 8 Abirami Garden 2.Salem(C), D 8 Varatharajan Nagar 3.Salem(C), D 8 Rajaganapathi Nagar 4.Salem(C), D 8, Sri Ganapathi Nagar 5.Salem(C), D 8 , Lakashmi Nagar
+999 - Overseas Elector"
+66,89,66,,"Jairam High School, Chinnathiruppathi, Salem - 636008. Terraced Building Facing West, Middle Wing. Room No.7","1.Salem(C), D 8 Pandiyan Street 2.Salem(C), D 8 SrinivasaNagar 3.Salem(C), D 8 Srivishnupathy Nagar
+4.Salem(C), D 8 Amman Nagar"
+67,89,67,,"Jairam High School,Chinnathiruppathi, Terraced Building Facing West North Portion Room No5","1.Salem(C), D 8 Gurukkal Colony,
+2.Salem(C), D 8 Sevigounder Street, Thiruvalluvar salai, 3.Salem(C), D 8 P.T.Colony,
+4.Salem(C), D 8, Saraswathi Nagar"
+68,89,68,,"Jairam High School,Chinnathiruppathi, Terraced Building Facing West Middle Portion Room No 6","1.Salem(C), D 8 Indiragandhi Street 2.Salem(C), D 8 Mariyamman Kovil Street 3.Salem(C), D 8 Chandran Gardan 4.Salem(C), D 8 Rani Anna Nagar
+5.Salem(C), D 8 Rani AnnaNagar Kattuvalavu"
+69,89,69,,"SCMC Middle School, Chinnathirupathi, Terraced
+Building Facing South,west Wing west portion","1.Salem(C), D 8 Annasalai
+999 - Overseas Elector"
+70,89,70,,"Jairam Higher Secondary School Chinnathirupathi, West Facing Terraced Building middlewing Room No 9","1.Salem(C), D 8 SanthiNagar 2.Salem(C), D 8 Santhosh Nagar 3.Salem(C), D 8, Vaishnavi Garden 4.Salem(C), D 8, Ishwariya Garden
+999 - Overseas Elector"
+71,89,71,,"SCMC Middle School, Chinnathirupathi, Salem-636008, Terraced Building Facing west North wing","1.Salem(C), D 8 KamarajarNagar 1st street, 2.Salem(C), D 8 KamarajarNagar2nd street, 3.Salem(C), D 8 Kamrajar 1st street, 4.Salem(C), D 8 Kamarajar 2nd street, 5.Salem(C), D 8 Kamarajar 3 street,
+6.Salem(C), D 8, Yerikarai Road"
+72,89,72,,"Jairam Higher Secondary School Chinnathirupathi, West Facing Terraced Building Room No 10","1.Salem(C), D 8 Ayyanarkoil kadu"
+73,89,73,,"SCMC Middle School, Chinnathirupathi, New Building Facing South, east portion","1.Salem(C), D 8 ,Annamalai Nagar, 2.Salem(C), D 8 Maruthi Nagar, 3.Salem(C), D 8 Vettukadu,
+4.Salem(C), D 8 ,Ashok Nagar"
+74,89,74,,"SCMC Middle.School, Chinnathirupathi, Terraced Building Facing West South Porton","1.Salem(C), D 8, Mookaneri Adikerai Porampoku 2.Salem(C), D 8, N.G.G.O.Colony
+999 - Overseas Elector"
+75,89,75,,"SCMC Middle School, Chinnathirupathi, Salem-636008, New Building Facing South, West Portion","1.Salem(C), D 8, N.G.G.O.Colony Annexue 2.Salem(C), D 8, Kannakurichi Main Road
+3.Salem(C), D 8,Annasalai East"
+76,89,76,,"SCMC Middle School, Chinnathirupathi, Salem-636008. Terraced Building Facing South, East Wing","1.Salem(C), D 8, M.G.R.Nagar 2.Salem(C), D 8, MullaiNagar 3.Salem(C), D 8, Athayammal IInd Street 4.Salem(C), D 8, Ragavan Street 5.Salem(C), D 8, Gogul Nagar
+6.Salem(C), D 8, Logu Nagar"
+77,89,77,,"SCMC Kamaraj Girls Higher Secondary School, Court Road, Manakkadu, Terraced Building Facing North of East Side Building","1.Salem (C), D.13,Johnsonpet West Street1,
+2.Salem (C), D.13,Johnsonpet West Street2,
+3.Salem (C), D.13,Johnsonpet West Street3,
+4.Salem (C), D.13,Johnsonpet West Street4,
+5.Salem (C), D.13,Johnsonpet West Street5,
+6.Salem (C), D.13,Johnsonpet West Street6,
+7.Salem (C), D.13,Johnsonpet West Street7,"
+78,89,78,,"SCMC Kamaraj Girls Higher Secondary School, Court Road, Manakkadu, Terraced Building Facing South East wing Room No 8","1.Salem (C), D.13,Manakkadu Itteri Road,
+2.Salem (C), D.13,Johnsonpet West Street9,
+3.Salem (C), D.13, Subbarayan Layout 999 - Overseas Elector"
+79,89,79,,"Bharathi Vidyalaya Higher Secondary School Maravaneri, Terraced Building Facing South West
+Portion Room No 35","1.Salem (C), D.12, CourtRoad (K.A.S.Nagar) 999 - Overseas Elector"
+80,89,80,,"Bharathi Vidyalaya Higher Secondary School Maravaneri, Terraced Building Facing North south
+side building Room No 56","1.Salem (C), D.12, GandhiNagarmaravaneri, 2.Salem(C), D.12, Courtroad Pilliar Nagar
+999 - Overseas Elector"
+81,89,81,,"Bharathi Vidyalaya Higher Secondary School Maravaneri, Terraced Building Facing North south
+side building Room No 58","1.Salem (C), D.12, Court Road Pilliar Nagar1"
+82,89,82,,"Bharathi Vidyalaya Higher Secondary School Maravaneri, Salem - 636007. Terraced Building
+Facing East, Middle Wing Room No.4","1.Salem (C), D.12, Court Road Pilliar Nagar2
+2.Salem (C), D.12,Court Road"
+83,89,83,,"SCMC Kamaraj Girls Higher Secondary School, Court Road, Manakkadu, The New Terraced Building Facing
+South Room No 2","1.Salem (C), D.12, Johnsonpet East Street8
+2.Salem (C), D.12, Courtmain Road"
+84,89,84,,"SCMC Kamaraj Girls Higher Secondary School, Court Road, Manakkadu, Salem - 636007. Terraced Building Facing East, South Wing Room 8B","1.Salem (C), D.12, Johnsonpet East Street9
+2.Salem (C), D.12, Johnsonpet East Street 9(Kudisai Paguthi)"
+85,89,85,,"SCMC Kamaraj Girls Higher Secondary School, Court Road, Manakkadu, Salem-636007, South Facing New Terraced Building Room No 5","1.Salem (C), D.12,Pilliar Nagar 3,
+2.Salem (C), D.12,Court Road (Pilliar Kovil Street),
+3.Salem (C), D.12,Chinnathirupathy Road 999 - Overseas Elector"
+86,89,86,,"SCMC Kamaraj Girls Higher Secondary School, Court Road, Manakkadu, Salem-636007, Terraced Building Facing North West Portion Room No 11","1.Salem (C), D.12,Johnsonpet east street5
+2.Salem (C), D.12,Johnsonpet east street6
+3.Salem (C), D.12,Johnsonpet east street7 999 - Overseas Elector"
+87,89,87,,"SCMC Kamaraj Girls Higher Secondary School, Court Road, Manakkadu, Salem-636007, Terraced Building Facing West North Portion Room No 12","1.Salem (C), D.12,Johnsonpet east street4,
+2.Salem (C), D.12,Johnsonpet east street3,
+3.Salem (C), D.12,Johnsonpeteast street2,
+4.Salem (C), D.12,Johnsonpet east street1"
+88,89,88,,"Bharathi Vidyalaya Higher Secondary School Maravaneri, Terraced Building Facing South Room
+No 36","1.Salem (C), D.12,Court Road Colony
+2.Salem (C), D.12,Kakkayankadu"
+89,89,89,,"SCMC Kamaraj Girls Higher Secondary School, Court
+Road, Manakkadu, Salem-636007 , East Portion of West Facing New PT Terraced Building","1.Salem (C), D.12,RajaNagar
+2.Salem (C), D.13,Pazhaniappa Nagar 999 - Overseas Elector"
+90,89,90,,"SCMC Kamaraj Girls Higher Secondary School, Court Road, Manakkadu, Salem-636007 Terraced Building Facing East, North Wing Room 8A","1.Salem (C), D.12,Kakkayankadu, Court road, Colony"
+91,89,91,,"SCMC Kamaraj Girls Higher Secondary School, Court Road, Manakkadu, Salem-636007 , South Portion of
+West Facing New Terraced Building","1.Salem (C), D.12,RajaGanapathi Nagar 999 - Overseas Elector"
+92,89,92,,"SCMC Elementary School, Manakkadu, Terraced Building Facing West Eastern side of South Wing","1.Salem (C), D.12,Manakkadu East Street
+2.Salem (C), D.12,Court Road (Manakkadu) 999 - Overseas Elector"
+93,89,93,,"SCMC Elementary School, Manakkadu, Salem - 636007 Terraced Building Facing South, East Wing","1.Salem (C), D.12,Manakkadu Mariamman Koil Street"
+94,89,94,,"SCMC Elementary School, Manakkadu, Terraced
+Building Facing South, West wing","1.Salem (C), D.12,Manakkadu East Street
+999 - Overseas Elector"
+95,89,95,,"SCMC Elementary School, Manakkadu, Facing North Terraced Building , South West Portion Near Kitchen","1.Salem (C), D.12,Manakkadu East Street 999 - Overseas Elector"
+96,89,96,,"SCMC Elementary School, Manakkadu, Terraced
+Building Facing West, Eastern side of North Wing","1.Salem (C), D.13,Manakadu South Street,
+2.Salem (C), D.13,Manakkadu West Vinayakar Street"
+97,89,97,,"C.S.I. Hobert Elementary School, Hasthampatty, Salem-636007, Middle Portion of South Side East Facing Terraced Building","1.Salem (C), D.13,Kullar street
+2.Salem (C), D.13, Rajamanickam Street
+3.Salem (C), D.13, Uma Nagar
+4.Salem (C), D.13, Vivekananda Nagar
+5.Salem (C), D.13, M.D.S.Nagar"
+98,89,98,,"C.S.I. Hobert Elementary School, Hasthampatty, Salem-636007, Terraced Building Facing East Middle Wing","1.Salem (C), D.13,Govindan Extension
+2.Salem (C), D.13,Johnsonpet Itteri road
+3.Salem (C), D.13,Hasthampatty main road
+4.Salem (C), D.13,Kalaivanar Street 999 - Overseas Elector"
+99,89,99,,"Goverment High School A.R.Line, Kumarasamipatty, Cherry Road, Salem-636007, Terraced Building Facing West, Middle South Room No 5","1.Salem (C), D.14,Sulthanline
+2.Salem (C), D.14,Kumarasamypatty cherry road"
+100,89,100,,"Goverment High School A.R.Line, Kumarasamipatty, Cherry Road, Salem-636007, Terraced Building North Side Facing West (Room No.6) North Wing","1.Salem (C), D.14,Reserve Line,
+2.Salem (C), D.14,Kumarasamypatty East Street"
+101,89,101,,"SCMC Elementary School, Kumarasamypatty,Cherry Road, Salem-636007, Facing West Terraced Building North Wing","1.Salem (C), D.14,Kumarasamypatty west street3
+2.Salem (C), D.14,Angalamman Kovil Street
+3.Salem (C), D.14,Manickam Street
+4.Salem (C), D.14,Kumarasamypatty West Street2"
+102,89,102,,"SCMC Elementary School, Kumarasamypatty,Cherry Road, Salem-636007. Terraced Building Facing West,
+South Wing","1.Salem (C), D.15, Seerangapalayam Main Road,
+2.Salem (C), D.15, Raja Extension"
+103,89,103,,"SCMC Elementary School, Kumarasamypatty,Cherry Road, Salem-636007. Terraced Building Facing East (Anganvadi Building)","1.Salem (C), D.14, Setu Extension,
+2.Salem (C), D.14, Venkatesapuram"
+104,89,104,,"SCMC Girls High School, Sagadevapruam-636007, Terraced Building Facing South, East Wing","1.Salem (C), D.14, Natesan Colony,
+2.Salem (C), D.14, Udayappa Colony, 3.Salem(C), D.14,Sagadevapuram"
+105,89,105,,"SCMC Girls High School, Sagadevapruam-636007, Terraced Building Facing South South Wing Middle
+Portion","1.Salem (C), D.14,Mulluvadi Makkan Street"
+106,89,106,,"SCMC Girls High School, Sagadevapruam-636007, IInd Terraced building facing south Middle Wing","1.Salem (C), D.14,Rajaram Nagar 999 - Overseas Elector"
+107,89,107,,"SCMC Girls High School, Sagadevapruam-636007, New Terraced Building Western Building Facing South","1.Salem (C), D.14,Rajaram Nagar,
+2.Salem (C), D.14,Shankar Nagar (OdaiArea)"
+108,89,108,,"SCMC Girls High School, Sagadevapruam-636007, New Terraced Building Facing East Wing of South
+Portion","1.Salem (C), D.14, Shankar Nagar (Swarna Upartment),
+2.Salem (C), D.14, Shankar Nagar,
+3.Salem (C), D.14,Chennakrishnapuram"
+109,89,109,,"SCMC Girls High School, Sagadevapruam-636007, New Terraced Building Middle Wing Facing East","1.Salem (C), D.14, Shankar Nagar,
+2.Salem (C), D.14, Shankar Nagar (Temporary House),
+3.Salem (C), D.14, Shankar Nagar (Temporary House)"
+110,89,110,,"SCMC Girls High School, Sagadevapruam-636007, New Terraced Building North Side Building Facing East","1.Salem (C), D.14,Cherararajan Road,
+2.Salem (C), D.14,Maravaneri Cross Street1, 3.Salem(C), D.14,Maravaneri Cross Street2,
+4.Salem (C), D.14,Maravaneri Cross Street3,
+5.Salem (C), D.14,Maravaneri Cross Street4,
+6.Salem (C), D.14,Maravaneri Cross Street5,
+7.Salem (C), D.14,Maravaneri CrossStreet6,
+8.Salem (C), D.14, Maravaneri Cross Street7,"
+111,89,111,,"Sarada BalaMandir Boys Matric Higher Secondary School, Rajaji Road, Salem - 636007. North Facing Terraced Building East Wing, Block C, I-STD-C","1.Salem (C), D.15,Kumarasamypatty West Street1"
+112,89,112,,"Sri Sarada Balamanthir Goverment Aided Primary School , Terraced Builing Facing South East Portion","1.Salem (C), D.15,RamNagar,
+2.Salem (C), D.15,RamNagar Odai Area,
+3.Salem (C), D.15,RamNagar Odai (Temporary Houses)"
+113,89,113,,"SCMC 15th Division Sanitary Inspectors Office Sivasamypuram No 2 Srirangapalayam Salem-636007, East Portion of West Facing Main Building","1.Salem (C), D.15,Seerangapalayam East Street,
+2.Salem (C), D.15,Seerangapalayam
+3.Salem (C), D.15,Rajagopalachariar Road"
+114,89,114,,"SCMC 15th Division Sanitary Inspectors Office Sivasamypuram No 2 Srirangapalayam Salem-
+636007, Middle Portion of South Facing Building","1.Salem (C), D.15,Seerangapalayam West Street
+2.Salem (C), D.15,Peramanoor Main Road 999 - Overseas Elector"
+115,89,115,,"Cluny Matriculation Higher Secondary School, Pudur Extension, Salem-636007 Terraced Building Facing
+South, East Wing","1.Salem (C), D.15,Subramaniapuram"
+116,89,116,,"SCMC 15th Division Sanitary Inspectors Office Sivasamypuram No 2 Srirangapalayam Salem-
+636007, West Portion of South Facing Building","1.Salem (C), D.15, Peramanoor East Street"
+117,89,117,,"SCMC Elementary School, Sivasamypuram No-2, Srirangapalayam, Salem-636007, East Portion of west
+Facing Anganwadi Terraced Building","1.Salem (C), D.15, Peramanoor East Street,
+2.Salem (C), D.15,Vijayaragavachariar Road"
+118,89,118,,"Sarada BalaMandir Boys Matric Higher Secondary School, Rajaji Road, Salem - 636007. Terraced
+Building Facing West Block B","1.Salem (C), D.15, Vidhyalaya Road
+2.Salem (C), D.15, Ramakrishna Road 999 - Overseas Elector"
+119,89,119,,"Sarada BalaMandir Boys Matric Higher Secondary
+School, Rajaji Road, Salem - 636007. West Facing Terraced Building, Block B, LKG-A","1.Salem (C), D.15,Gandhi Road,
+2.Salem (C), D.15,Lakshmipuram 999 - Overseas Elector"
+120,89,120,,"Cluny Matriculation Higher Secondary School, Pudur Extension, Salem 636007, Terraced Building Facing
+South, West Portion XII Std A","1.Salem (C), D.16, Chinnapudur 999 - Overseas Elector"
+121,89,121,,"Cluny Matriculation Higher Secondary School, Pudur Extension, Salem-636007, Terraced Building Facing
+South, Middle Portion, XII Std C","1.Salem (C), D.16, Chinnapudur,
+2.Salem (C), D.15, Puthur Extension"
+122,89,122,,"Cluny Matriculation Higher Secondary School, Pudur Extension, Terraced Building Facing North, East
+Portion","1.Salem (C), D.16, Nagammal Thottam,
+2.Salem (C), D.16, Pudur Kallanguthu 999 - Overseas Elector"
+123,89,123,,"Cluny Matriculation Higher Secondary School, Pudur Extension,Salem-636007, Terraced Building Facing
+North, Middle Portion","1.Salem (C), D.16, Chinnapudur"
+124,89,124,,"Cluny Matriculation Higher Secondary School, Pudur Extension, Salem 636007 Terraced building North
+Facing West Portion X-B","1.Salem (C), D.16,Ambedkar Street"
+125,89,125,,"Cluny Matriculation Higher Secondary School, Pudur Extension, Salem-636007, North Facing Building West
+Side","1.Salem (C), D.16,Narayanan Street 999 - Overseas Elector"
+126,89,126,,"SCMC Integrated Child Development Centre - 311, Kamarajar Nagar Colony, South Facing Building East
+Side","1.Salem (C), D.16,Peramanoor Narayanasamy Street, 2.Salem(C), D.16,Peramanoor Narayanasamy Street
+999 - Overseas Elector"
+127,89,127,,"Cluny Matriculation Higher Secondary School, Pudur Extension, Salem-636007, Centre Portion of the Terraced Building Facing North, west portion","1.Salem (C), D.16, Peramanoor Narayanasamy Street 999 - Overseas Elector"
+128,89,128,,"Cluny Matriculation Higher Secondary School, Pudur Extension, Salem-636007, Centre Portion of the Terraced Building Facing North West portion 6th
+Room X-C1","1.Salem (C), D.16, Peramanoor Narayanasamy Street 999 - Overseas Elector"
+129,89,129,,"SCMC Anganvadi Centre - 311, Kamarajar Colony,
+Salem, Terraced Building Facing West","1.Salem(C), D.16,Govindakounder Thottam"
+130,89,130,,"SCMC Elementary School, Kamraj Colony Peramanur, New Terraced Building Southern Portion Facing West","1.Salem (C), D.16, Peramanoor Perumal Koil Street,
+2.Salem (C), D.16,Iyanarappan Koil Street,
+3.Salem (C), D.15, Peramanoor Kamarajar Colony 999 - Overseas Elector"
+131,89,131,,"SCMC Elementary School, Kamraj Colony Peramanur, New Terraced Building Facing West middle portion","1.Salem (C), D.16.Peramanoor Mariamman Koil Street,
+2.Salem (C), D.16.Peramanoor (Chari Area), 3.Salem(C), D.16,Govt.Housing Board"
+132,89,132,,"Little Flower Matriculation School, Chariman Thammannan Road, Salem-636009, West Portion of
+South Facing Terraced Building","1.Salem (C), D.27, Omalur Road (Rathinasamipuram) 999 - Overseas Elector"
+133,89,133,,"Little Flower Metriculation School, Chairman Thammannan Road, Salem-636009, South Facing 2nd Room from East Side","1.Salem (C), D.27,Omalur Road (Rathinasamipuram)
+2.Salem (C), D.27, Omalur Road
+3.Salem (C), D.27Seetharaman Street
+4.Salem (C), D.27. Seetharaman Street (Slump Area)"
+134,89,134,,"Little Flower Metriculation School, Chairman Thammannan Road, Salem-636009, Facing North
+South Building East wing room No.25","1.Salem (C), D.27,Chairman Thammannan Road"
+135,89,135,,"Little Flower Metriculation School, Chairman Thammannan Road, Salem-636009, Facing North
+South Building East wing Rom No : 26","1.Salem (C), D.27,Chairman Thammannan Road Mullakkadu,
+2.Salem (C), D.27,Chairman Thammannan Road Thailangadu"
+136,89,136,,"Anganwadi Center, Velasamy Street (Near Library), Salem - 636009. Terraced Building Facing East, North
+Wing","1.Salem (C), D.27,Pavendar Street"
+137,89,137,,"SCMC Suramangalam Zonal Branch Office (Library) Velasamy Street, South Facing Terraced Building Ground Floor Near Computer Lab","1.Salem (C), D,27,Sulukku Pilliar Koil street,
+2.Salem (C), D.27,Longly Road,
+3.Salem (C), D.27,Arisipalayam Main Road,
+4.Salem (C), D.27,Velasamy Street"
+138,89,138,,"SCMC Suramangalam Zonal Branch Office (Library) Velasamy Street, East portion of the Terraced
+Building Facing North East wing","1.Salem (C), D.27,Chinnappan Street,
+2.Salem (C), D.27,Nagalingam Street"
+139,89,139,,"SCMC Suramangalam Zonal Branch Office (Library) Velasamy Street, Western Portion of The Terrached
+Building Facing North west wing","1.Salem (C), D.27,Chinnappan Street,
+2.Salem (C), D.27,Mariamman koil Street"
+140,89,140,,"SCMC Middle School, Damodharan Street, Arisipalayam, New Terraced Building East Portion
+Facing South","1.Salem (C), D.26,Kabinistreet
+2.Salem (C), D.26,Govindan Street
+3.Salem (C), D.26,Muthialu Street"
+141,89,141,,"SCMC Middle School, Damodharan Street, Arisipalayam, New Terraced Building North Portion Facing West east Building","1.Salem (C), D.26,Muthusamy Street
+2.Salem (C), D.26,Syedkapur Street
+3.Salem (C), D.26,Syed Azhad Street
+4.Salem (C), D.26,Syedrahim street
+5.Salem (C), D.26,Krishnan Street
+6.Salem (C), D.26,Syedalistreet"
+142,89,142,,"SCMC Middle School, Damodharan Street, Arisipalayam, Salem - 636009 New Terraced Building Facing North, East Wing","1.Salem (C), D.26,Pappaian Street
+2.Salem (C), D.26,Gunabalaramasamy Street
+3.Salem (C), D.26,Madhaian Street
+4.Salem (C), D.26,Veeraragavan Street
+5.Salem (C), D.26,Damodaran Street
+6.Salem (C), D.26,Christian pet
+7.Salem (C), D.26,Perumal Stree"
+143,89,143,,"St. Mary Elementary School, Arisipalayam , Terraced
+Building facing west south Portion","1.Salem (C), D.26,R.D.Paul Street
+999 - Overseas Elector"
+144,89,144,,"St. Marys Girls Higher Secondary School, Arisipalayam , 1st Room From the Main Building of
+Facing North east wing","1.Salem (C), D.26, Syed kadhar Street,
+2.Salem (C), D.26, Syedjaffer Street,
+3.Salem (C), D.26,Malli Street"
+145,89,145,,"St. Marys Girls Higher Secondary School, Arisipalayam , IInd Room From The Main Building Facing North middle wing","1.Salem (C), D.27,Arisipalayam main road,
+2.Salem (C), D.27, Omalur Main Road,
+3.Salem (C), D.27, Parvathipuram Layout,
+4.Salem (C), D.27,Leighbazaar Street Railwaycolony"
+146,89,146,,"St.Marys Girls Higher Secondary School, Arisipalayam, IIIrd Room FromThe Main South Building East Side,Facing North","1.Salem (C), D.27,Chinnababustreet,
+2.Salem (C), D.27, Narayanasamipuram St,Elango St, (Housing Unit),
+3.Salem (C), D.27,Veeran Nilam"
+147,89,147,,"St.Marys Girls Higher Secondary School, Arisipalayam
+, IVth Room from the Main Building East Side, Facing North Middle wing Room no 4","1.Salem (C), D.27,Narayanasamipuram,
+2.Salem (C), D.27,Bajanai madam Street,
+3.Salem (C), D.27,Lada kuppu street"
+148,89,148,,"St.Marys CBSC School, Rajakannu Road, Arisipalayam, Salem - 636009. Terraced Building Facing West,
+South Wing (Junior KG A)","1.Salem (C), D.26,Maruthanayagam Street
+2.Salem (C), D.26.Periakinaru Street"
+149,89,149,,"St Marys CBSC School, Rajakannu Road, Arisipalayam, Salem - 636009. Terraced Building
+Facing West, Middle Wing (Senior KG A)","1.Salem (C), D.26,Dr. Rathinam Street
+2.Salem (C), D.26,Arthanari Street
+3.Salem (C), D.26,Gowramma Colony"
+150,89,150,,"St.Marys CBSC School, Rajakannu Road, Arisipalayam, Salem - 636009. Terraced Building Facing West,
+North Wing (Senior KG B)","1.Salem (C), D.26.Vaithilingam Street
+2.Salem (C), D.26, Manickam Street"
+151,89,151,,"St.Marys CBSC School, Rajakannu Road, Arisipalayam, Salem - 636009. Terraced Building Facing West, South Wing Grade-IA","1.Salem (C), D.26,Rajakannu Street,
+2.Salem (C), D.26,Annamalai Street,
+3.Salem (C), D.26,Anthonysamy Street,
+4.Salem (C), D.26,Saminathapuram Main Road"
+152,89,152,,"St.Marys CBSC School, Rajakannu Road, Arisipalayam, Salem - 636009. Terraced Building Facing East, South
+Wing (Junior KG B)","1.Salem (C), D.26,Rajendramill Colony
+2.Salem (C), D.26,Saminathapuram (Alraj Street)"
+153,89,153,,"Sri Vasavi Balamandir Matriculation School, Bangaru Street, Shevapet, Salem - 636002 East Facing North Side RCC Building","1.Salem (C), D.28, Kasi Viswanathan Street
+2.Salem (C), D.28, Angalamman Koil Street
+3.Salem (C), D.28, Mari Street
+4.Salem (C), D.28, Police Petrol Road
+5.Salem (C), D.28, Chairman Ayyasamy Street"
+154,89,154,,"Sri Vasavi Balamandir Matriculation School, Bangaru Street, Shevapet, Salem - 636002 South Facing South Side RCC Building","1.Salem (C), D.28,Shevapet Agraharam
+2.Salem (C), D.28,Longly Road
+3.Salem (C), D.28, Venkatraman Street"
+155,89,155,,"SCMC Elementary School, Narasimman Road Shevapet 636002, New Terraced Building Facing East
+Northern portion","1.Salem (C), D.28,Narasimman Road,
+2.Salem (C), D.28,Narasimman Road (Soukku Thoppu)"
+156,89,156,,"SCMC Elementary School, Narasimman Road Shevapet 636002, Terraced Building Facing East
+Middle portion","1.Salem (C), D.28,Narasimman Road"
+157,89,157,,"SCMC Middle School, Narasimman Road, Shevapet,-636002, New Terraced Building Facing East Southern
+Portion","1.Salem (C), D.28,Narasimman Road (Appartments),
+2.Salem (C), D.28,Narasimman Road(Kudisai Paguthi),
+3.Salem (C), D.28,Narasimman Road"
+158,89,158,,"Jayarakini Boys Middle School, Santhaipetti Main Road-636002, Terraced Building Facing South, East
+Wing","1.Salem (C), D.28,Narasimman Road 999 - Overseas Elector"
+159,89,159,,"Jeyarakini Boys Middle School, Santhaipettai Main Road-636002, Northern Side building IInd Room From West Side Facing South","1.Salem (C), D 28, Chinnamaran Street,
+2.Salem (C), D 28, Subramanian Street,
+3.Salem (C), D 28, Chairman Madurai Street,
+4.Salem (C), D.28,Appasamy Street,
+5.Salem (C), D.28,Rajavadhani Street,
+6.Salem (C), D.28,Vela Street"
+160,89,160,,"Jayarakini Boys Middle School, Santhaipetti Main Road, Facing South, Middle portion","1.Salem (C), D.28,Chairman Rathinasamy Street,
+2.Salem (C), D.28,Old Market Street,
+3.Salem (C), D.28,Madhakoil Street"
+161,89,161,,"St. Patricks Primary Girls School ABL, I-A, Shevapet, Salem-636002, Facing South Terraced Building West
+Portion Middle Wing","1.Salem (C), D.28,Deivanayagam Street,
+2.Salem (C), D.28,Chairman Jaganathan Street,
+3.Salem (C), D.28,Sandaipet Main road"
+162,89,162,,"St.Patricks Primary Gilrs School ABL, I-D, , Shevapet, Salem-636002, Facing South Terraced Building Middle Wing","1.Salem (C), D.28,Gandhi Nagar (Appartment House),
+2.Salem (C), D.28,GandhiNagar Kudisai Paguthi,
+3.Salem (C), D.28, Gandhi Nagar,
+4.Salem (C), D.28,Singarapet"
+163,89,163,,"Manurkula Devanga Elementary School, Vasagasalai Street, Eastern Portion Facing South Terraced Building","1.Salem (C), D.28,Longly Road StreetNo.2,
+2.Salem (C), D.28,Longly Road StreetNo.3,
+3.Salem (C), D.28,Chennakrishnan Street,
+4.Salem (C), D.28,NallaThangal Street,
+5.Salem (C), D.28,Kuppusamy Street 999 - Overseas Elector"
+164,89,164,,"Manurkula Devanga Elementary School, Vasagasalai Street-636002, Terraced Building South Facing Middle Portion","1.Salem (C), D.29,Navalar Nedunchezhian Salai,
+2.Salem (C), D.29,Muniappan Koil Street,
+3.Salem (C), D.29,Rudrappan Street,
+4.Salem (C), D.29,Lakshmi Iyer Street,
+5.Salem (C), D.29,Managuru Gopalsamy Street,
+6.Salem (C), D.29,Govindan Street"
+165,89,165,,"Thiyagarajar Nursury Primary School Shevapet-636002, West wing facing north","1.Salem (C), D 29, Arunachalam Street,
+2.Salem (C), D 29, Vasagasalai Street,
+3.Salem (C), D 29, Devanga Pilliar Koil Street,
+4.Salem (C), D 29, Sambalinga Moorthy Street,
+5.Salem (C), D 29, Arthanari Street"
+166,89,166,,"Manurkula Devanga High School Shevapet-636002, East Wing Facing North Terraced Building","1.Salem (C), D.29,Kumarasamy Street,
+2.Salem (C), D.29,Thottuchandraiar street,
+3.Salem (C), D.29,Rendala Govindan Street,
+4.Salem (C), D.29,Madurai Kuppaiar Street,
+5.Salem (C), D.29,Vaithi Street,
+6.Salem (C), D.29,Pethapai Sandu"
+167,89,167,,"Manurkula Devanga Elementary School, Vasagasalai Street, Terraced Building Facing South, Western Wing","1.Salem (C), D.29.Jambulingam Street,
+2.Salem (C), D.29.Devangapuram Newstreet,
+3.Salem (C), D.29.Devangapuram Extension,
+4.Salem (C), D.29.Chairman Venkadappan Road,
+5.Salem (C), D.29.Devangapuram Street (G.H.Backside)"
+168,89,168,,"Vasavi Elementary School, Andal Street, Shevapet, Salem-636002, East Facing Room No.1 North Portion
+of Terraced Building","1.Salem (C), D.30,Pilliar Koil Street,
+2.Salem (C), D.30,Mariamman Koil Street,
+3.Salem (C), D.30,Muthusamy Street"
+169,89,169,,"Vasavi Elementary School, Andal Street, Shevapet, Salem-636002, South Portion Room No.2 of East Facing Terraced Building","1.Salem (C), D.30,Thiruvalluvar Street,
+2.Salem (C), D.30,Thandan Street,
+3.Salem (C), D.30,Andal Street,
+4.Salem (C), D.30,Narayanan Street"
+170,89,170,,"SCMC High School, Appu Street-636002, Terraced Building Facing South 3rd Room from Eastern Side","1.Salem (C), D.30, Madhavarayan Street,
+2.Salem (C), D.30, Venkatakrishnan Street"
+171,89,171,,"SCMC High School, Appu Street, Shevapet, Salem-636002, East Side 2nd Room of South Facing
+Terraced Building","1.Salem (C), D 30, Sundaram Street,
+2.Salem (C), D 30, Appustreet"
+172,89,172,,"SCMC High School, Appu Street, Shevapet, Salem-636002, Terraced Building Facing North 2nd Room From East Side","1.Salem (C), D 30, Nagaier Street,
+2.Salem (C), D 30, Karikalan Street,
+3.Salem (C), D.30, Syedkadhar Street,
+4.Salem (C), D.30, Mukdhumstreet,
+5.Salem (C), D.30, Majeeth Street,
+6.Salem (C), D.30, Baikara Street"
+173,89,173,,"SCMC High School, Appu Street, Salem-636002, West
+Portion of North Facing Terraced Building","1.Salem (C), D.30, Kabilar Street,
+2.Salem (C), D.30, Bharathidasan Street"
+174,89,174,,"Sowrastra Vidhayala Middle School, Manickam Street, Shevapet, Salem-636002, First Portion of East Facing Terraced Building","1.Salem (C), D.30,Adhiraman Nandavanam Street,
+2.Salem (C), D.30,Mannar Nandavanam Street,
+3.Salem (C), D.30,Muthavalli Ibrahim Street,
+4.Salem (C), D.30,Kandasamy Pillai Street1,
+5.Salem (C), D.30,Kandasamy Pillai Street2,
+6.Salem (C), D.30,Panduranganathar Koil Street"
+175,89,175,,"Sowrastra Vidhayala Middle School,Manickam Street, Shevapet-636002, Facing East tiled Third Portion","1.Salem (C), D 30, Manickam Street,
+2.Salem (C), D 30, Syedmathar Street,
+3.Salem (C), D 30, Arokiyanathar Street,
+4.Salem (C), D 30, Seshasalam Street,
+5.Salem (C), D 30, Muthansubbaiar Street"
+176,89,176,,"Goverment Blind School, Bungalow Street, Shevapet Salem-636002, South Facing East Side Terraced
+Building","1.Salem (C), D.30,Bungalow Street,
+2.Salem (C), D.30,Nandavanam Street"
+177,89,177,,"Goverment Blind School, Bungalow Street, Shevapet Salem-636002, Centre Portion of South Facing New
+Terraced Building","1.Salem (C), D.30,Vasulu street,
+2.Salem (C), D.30,Saibaba Street"
+178,89,178,,"Goverment Blind School, Shevapet Salem-636002, Northern Building Facing South Middle Building East Portion","1.Salem (C), D 30, Thandavarayan Street,
+2.Salem (C), D 30, Venkatraman Street,
+3.Salem (C), D 30, Adhiraman Street,
+4.Salem (C), D 30, Achuraman Street,
+5.Salem (C), D 30, Adhivenkatachalapathy Street"
+179,89,179,,"Government Girls Higher Secondary School, (Near Thiruvalluvar Statue), Terraced Building facing west
+middle portion Room No 3","1.Salem (C), D 31, Jalalkhan Street
+2.Salem (C), D 31, Janian Street"
+180,89,180,,"Government Girls Higher Secondary School, (Near Thiruvalluvar Statue), Salem - 636001. Terraced Building Facing West, North Wing","1.Salem (C), D 31, Mohammad Kasim Street
+2.Salem (C), D.31,Varadhappan Street
+3.Salem (C), D.31,Paul Street
+4.Salem (C), D.31.Sannathi Street"
+181,89,181,,"Government Girls Higher Secondary School, (Near Thiruvalluvar Statue), Terraced Building facing west middle portion Room No 5","1.Salem (C), D.31,Thuppakkisalai
+2.Salem (C), D.31,Christian Pet
+3.Salem (C), D.31,Ram Nagar(Cristianpet)
+4.Salem (C), D 31, Syedjalalkhan Street"
+182,89,182,,"SCMC Boys Higher Secondary School, Navalar Nedunzhilian Road, Fort, Salem-636001, Terraced Building Facing West Middle Wing Room No.4","1.Salem (C), D.31, Backside of Gosha Hospital (Anna Nagar)
+2.Salem (C), D.31,Navalar Nedunchezhian Salai
+3.Salem (C), D.31,Thalaivetti Muniappan Koil Street
+4.Salem (C), D.31,Church Compound (Market Street)"
+183,89,183,,"SCMC Boys Higher Secondary School, Navalar Nedunzhilian Road, Fort, Salem-636001, Terraced Building Facing West Middle Wing Room No.20","1.Salem (C), D.31, Backside of Gosha Hospital (Anna Nagar),
+2.Salem (C), D.31,Market Street"
+184,89,184,,"SCMC Boys Higher Secondary School, Navalar Nedunzhilian Road, Fort, Salem-636001, Terraced Building Facing North middle wing Room No.19","1.Salem (C), D.31,Venkatasamy Street,
+2.Salem (C), D.31,Dubal Ahamad Street"
+185,89,185,,"SCMC Boys Higher Secondary School, Navalar Nedunzhilian Road, Fort, Salem-636001, Terraced Building Facing North East wing Room No.23","1.Salem (C), D.31,Habeebstreet,
+2.Salem (C), D.31.Chinnasamynaidu Street,
+3.Salem (C), D.31.Syedkasim Street"
+186,89,186,,"Gokulanatha Hindu Mahajana Higher Secondary School, Salem-636001 , Terraced Main Building Facing North, Eastern Portion Hall No 1","1.Salem (C), D 29, Maraimalai Adikal Street,
+2.Salem (C), D 29, Bretts Road,
+3.Salem (C), D 29, Mulluvadi 1,
+4.Salem (C), D 29, ThiagiVeeraiya Street Mulluvadi 2"
+187,89,187,,"Gokulanatha Hindu Mahajana Higher Secondary School, Salem Town-636001, Terraced Main Building South Building Facing North middle wing Room 2","1.Salem (C), D.29Town Railway Station Road,
+2.Salem (C), D.29,Dr.Ramanathan Street,
+3.Salem (C), D.29,Sornambigai Street,
+4.Salem (C), D.29,SivaSami Street,
+5.Salem (C), D.29, Serarajan St. Appartments"
+188,89,188,,"Gokulanatha Hindu Mahajana Higher Secondary School, Salem-636001, Terraced Main Building Facing North, West Wing Hall No 3","1.Salem (C), D.29,Srinivasan Street,
+2.Salem (C), D.29,Andal Street,
+3.Salem (C), D.29,Kannan Street,
+4.Salem (C), D.29,Mettu Pilliar Koil Street,
+5.Salem (C), D.29,Somu Street"
+189,89,189,,"Gokulanatha Hindu Mahajana Higher Secondary School . Salem, Terraced Main Building Facing North, Middle wing Room No 4","1.Salem (C), D 29, Dr. Subbarayan Road,
+2.Salem (C), D 29, Parkstreet,
+3.Salem (C), D 29, Mettu Agraharam 999 - Overseas Elector"
+190,89,190,,"Gokulanatha Hindu Mahajana Higher Secondary School, Salem-636001, Terraced Main Building Facing
+North, West Wing Hall No 4","1.Salem (C), D 29, Cherarajan Road,
+2.Salem (C), D 29, MettuMariyamman Koil Street,
+3.Salem (C), D 29, Pandiarajan Street"
+191,89,191,,"Thippu Islamiya High School, New Terraced Building facing east 4th Room","1.Salem (C), D 32, Mettu Musjith Street,
+2.Salem (C), D 32, Mettu Makkan Street, 999 - Overseas Elector"
+192,89,192,,"Thippu Islamiya High School, New Terraced Building facing east Room No 7","1.Salem (C), D 32, First Agraharam River Side Street,
+2.Salem (C), D 32, Chairman Rajarathinam Street,
+3.Salem (C), D 32 , Angalaman koil street,
+4.Salem (C), D 32, First Agraharam,
+5.Salem (C), D 32, Mariamman Koil Street"
+193,89,193,,"SCMC Middle School, Car Street, 2nd Agraharam-636001, North Hall East Side Room Facing south","1.Salem (C), D 32, Sankaralayam Road,
+2.Salem (C), D 32, Kasimuniappan Koil Street,
+3.Salem (C), D 32, Arasamaram Pilliar Koil Street"
+194,89,194,,"SCMC Middle School Employees Thirft Co Op Society Car Street 2ndAgraharam, Facing East North Portion","1.Salem (C), D 32, Arasamaram Pilliar Koil North Street,
+2.Salem (C), D 32, Kutti vaithiar Street,
+3.Salem (C), D 32, Riverside Street"
+195,89,195,,"SCMC Middle School, Car Street, 2nd Agraharam, Salem-636001, East Facing Anganwadi Terraced Building","1.Salem (C), D 32, Second Agraharam,
+2.Salem (C), D 32, Narayanan Street,
+3.Salem (C), D 32, Sidhanstreet,
+4.Salem (C), D 32, Milakaikara Street,
+5.Salem (C), D 32, Car Street"
+196,89,196,,"Sindhu Hindu Elementary School, Narayana nagar, Salem - 636001, Terraced Middle Room Building
+Facing South","1.Salem (C), D 33, Athiaman Street"
+197,89,197,,"SCMC Elementary School, Arunachalam Street, New Terraced Building First Room East wing Facing North","1.Salem (C), D32, Sewage Faram,
+2.Salem (C), D 32, Land behind the Jumma Musjith,
+3.Salem (C), D 32, Bazaar Street,
+4.Salem (C), K 32, Arunachalam Street,
+5.Salem (C), D 32, Chenna krishnan Street 999 - Overseas Elector"
+198,89,198,,"SCMC Elementary School, Arunachalam Street, New Terraced Building 3rd Room Facing North","1.Salem (C), D 32, Musjith Street,
+2.Salem (C), D 32, Periyar Street,
+3.Salem (C), D 32, Govindan Street"
+199,89,199,,"SCMC Elementary School, Market Street, terraced
+Building Facing North East Wing","1.Salem (C), D 33, Muthavallimohammad Yahoobstreet"
+200,89,200,,"Sindhu Hindu Elementary School, Narayana nagar, Salem - 636001, Terraced Building Facing East Room no 2","1.Salem (C), D 33, Valmeegi Street,
+2.Salem (C), D 33, Mohammadpura Street3,
+3.Salem (C), D 32, Kamarajar Street, 999 - Overseas Elector"
+201,89,201,,"Sindhu Hindu Elementary School, Narayana nagar, Salem - 636001, Terraced Building Facing East Room
+no 3","1.Salem (C), D 33, Muthavallimohammad yahoob street,
+2.Salem (C), D33, Market Street 999 - Overseas Elector"
+202,89,202,,"SCMC Elementary School, Market Street, Salem - 636001. Terraced New Building Facing South Anganwadi Building.","1.Salem (C), D 33, Azhad Street,
+2.Salem (C), D 33, Mohammad Pura Street1,
+3.Salem (C), D 33, Mohammad Pura Street Sandu2,
+4.Salem (C), D 33, Mohammad PuraStreet Sandu1"
+203,89,203,,"SCMC Urudhu Elementary School,Paavadi Vellakuttai-636001, Terraced Building South wing Facing East","1.Salem (C), D 33, Subramanian Street,
+2.Salem (C), D 33, Kallanguthu Street,
+3.Salem (C), D 33, BazaarStreet"
+204,89,204,,"SCMC Urudhu Elementary School,Paavadi Vellakuttai, Salem-636001, Anganvadi Building South Facing Terraced Building","1.Salem (C), D 33, Devendrapuram Street1,
+2.Salem (C), D 33, Devendrapuram Street2,
+3.Salem (C), D 33, Devendrapuram Street3,
+4.Salem (C), D 33, Chittupilliar Koil Street,
+5.Salem (C), D 33, Pochin Road,
+6.Salem (C), D 33, Mohammad Pura Street2"
+205,89,205,,"SCMC Elementary School, Bazaar Street, Salem -
+636001. Anna Pavazha Vizha Building Facing East Terraced building","1.Salem (C), D 34, Krishnan Koil Street,
+2.Salem (C), D 34, Krishnan Koil Sandhu"
+206,89,206,,"Salem City SSV Nursery School, Murari Varadaiyar Street, Salem - 636001. Terraced Building Facing
+North, East Wing","1.Salem (C), D 34, Murarivaradhaiar Street,
+2.Salem (C), D 34, Bungalow Street"
+207,89,207,,"Salem City SSV Nursery School, Murari Varadaiyer Street, Terraced Building Facing East, West wing","1.Salem (C), D 34, Poochangottai Street,
+2.Salem (C), D 34, Pennadam Venkatraman Street"
+208,89,208,,"SCMC Elementary School, Paramakudi Nannusamy Street, Salem-636001, Ground Floor Facing North, East Wing From East 2nd Room.","1.Salem (C), D 34, Paramakudi Nannusamy Street,
+2.Salem (C), D 34, Third Agraharam, 999 - Overseas Elector"
+209,89,209,,"SCMC Elementary School, Paramakudi Nannusamy Street, Salem-636001. Terraced Building Facing East,
+South Wing Anganwadi","1.Salem (C), D 34, Putta Nagaier Street"
+210,89,210,,"SCMC Elementary School, Paramakudi Nannusamy Street, Terraced Building Facing North West Portion","1.Salem (C), D 35, Thambi Kaliamman Koil Street 999 - Overseas Elector"
+211,89,211,,"SCMC Middle School, Paramakudi Nannusamy Street, Salem-636001, Terraced Building Facing North
+Middle Portion","1.Salem (C), D 34, KaNagaraj Ganapathy Street,
+2.Salem (C), D 34, Natesan Street"
+212,89,212,,"Sowrastra Primary School, Chairman Sadagopan Street, Salem-636001. Main Hall of Terraced Building
+North Facing East","1.Salem (C), D 34, Chairman Sadagopan Street,
+2.Salem (C), D 35, Pillaiyar koil street 2 999 - Overseas Elector"
+213,89,213,,"SCMC Elementary School, Paramakudi Nannusamy street, Salem-636001, Terraced Building Facing North Western Side Last Room Anganwadi Center","1.Salem (C), D 34, Pillaiyar koil street 1 999 - Overseas Elector"
+214,89,214,,"Indian Institute of Handloom Technology, Ponnammapet, Terraced Building South Facing G-1
+West wing","1.Salem (C), D 11, Vasagasalai Street1,
+2.Salem (C), D 11, Vasagasalai Street2 (Singarapet) 999 - Overseas Elector"
+215,89,215,,"Indian Institute of Handloom Technology, Ponnammapet, South Facing New terraced Building G-1 middle wing","1.Salem (C), D 11, Anairoad,
+2.Salem (C), D 11, ThillaiNagar Main Road,
+3.Salem (C), D 11, I.I.H.T.Quarters,
+4.Salem (C), D 11, ThillaiNagar 1st cross"
+216,89,216,,"Indian Institute of Handloom Technology, Ponnammapet, Terraced Building South Facing G2
+Middle Wing","1.Salem (C), D 11, Vasagasalai Street Main Road,
+2.Salem (C), D 11, Vasagasalai Street3 999 - Overseas Elector"
+217,89,217,,"Indian Institute of Handloom Technology, Ponnammapet, Salem-636001, Addl New Building
+Facing North West wing","1.Salem (C), D 11, ThillaiNagar Street2,
+2.Salem (C), D 11, ThillaiNagar 3rd Cross,
+3.Salem (C), D 11, Vasagasalai Street4"
+218,89,218,,"Indian Institute of Handloom Technology, Ponnammapet, Salem-636001, North Facing Middle
+wing","1.Salem (C), D 11, Pandam Ramasamy Street,
+2.Salem (C), D 11, Kuppu Street"
+219,89,219,,"Indian Institute of Handloom Technology, Ponnammapet, Salem-636001, Terraced Building East
+wing Facing North","1.Salem (C), D 11, Malli Street,
+2.Salem (C), D 11, Thillai Nagar Road 5,
+3.Salem (C), D 11, Mariyamman Koil Street"
+220,89,220,,"SCMC Middle School,Sengal Anai Road, Puthumariyamman Kovil Street, Salem-636001, North
+Facing Terraced Building East Portion","1.Salem (C), D 10, P.L.Gopal Street"
+221,89,221,,"SCMC Middle School,Sengal Anai Road, Puthumariyamman Kovil, Salem-636001, North
+Facing Terraced Building West Portion","1.Salem (C), D 10, P.L.Gopal Street,
+2.Salem (C), D 10, Puthumariamman koil Street 3 (Pandian Street)"
+222,89,222,,"SCMC High. School, Sengal Anai Road, Puthumariyamman KovilSalem-636001, Western Side
+Terraced Building Facing South","1.Salem (C), D 10, Veeranam Main Road,
+2.Salem (C), D 10, Railway line north street2"
+223,89,223,,"SCMC Elementary School, Sengal Anai Road, Puthumariyamman Kovil, Salem-636001, South
+Facing Terraced Building East Portion","1.Salem (C), D 10, Railwayline North Street3,
+2.Salem (C), D 10, Railway line North Street4,
+3.Salem (C), D 10, Railwayline North Street1"
+224,89,224,,"SCMC High School,Sengal Anai Road, Puthumariyamman Kovil, Salem-636001, New Terraced Building Western Wing Facing South Middle Building","1.Salem (C), D 10, Desiapunaramaippu Colony,
+2.Salem (C), D 10, Vasagasalai Street"
+225,89,225,,"SCMC High School, Sengal Anai Road,
+Puthumariyamman Kovil Salem-636001, North Facing New RMSA Building Room no 4","1.Salem (C), D 10, Puthumariamman Koil Street1,
+2.Salem (C), D 10, Sengal Anai Road"
+226,89,226,,"SCMC High School, Sengal Anai Road, Puthumariyamman Kovil Salem-636001, North Facing New RMSA Building Room no 5","1.Salem (C), D 10, Puthumariamman Koil Street1 999 - Overseas Elector"
+227,89,227,,"SCMC High School,Sengal Anai Road, Puthumariyamman Kovil, Salem-636001, New Terraced Building Facing South, East Wing Middle
+Building","1.Salem (C), D 10, Puthumariamman Koil Street2"
+228,89,228,,"New India Discovery Higher Secondary School, Veeranam Main Road, Salem - 636001. South Facing
+Terraced Building West Wing","1.Salem (C), D 10, Puthu mariamman koil Street2 (Thandavan Nagar)"
+229,89,229,,"New India Discovery Higher Secondary School, Veeranam Main Road, Salem - 636001. South Facing
+Terraced Building Facing South East Wing","1.Salem (C), D 10, Puthumariamman koil Street2 (Sakthi Nagar)
+2.Salem (C), D.9, Seelavari Tamilnadu Housing Board"
+230,89,230,,"New India Discovery Higher Secondary School, Veeranam Main Road, Salem - 636001. South Facing
+Terraced Building Middle Wing","1.Salem (C), D 10, Puthumariamman Koil Street3"
+231,89,231,,"SCMC High School, Sengal Anai Road, Puthumaiyamman Kovil, Salem-636001, South Facing
+Terraced Building East wing First Room","1.Salem (C), D 10, Puthumariamman Koil Street3,
+2.Salem (C), D.9, Modern Buildings, 999 - Overseas Elector"
+232,89,232,,"Sowrastra High School, Chairman Ramalingam Street, Salem-636001, East Portion of East Facing New
+Terraced Building","1.Salem (C), D 34, Kulasekara Azhwar Street,
+2.Salem (C), D 34, Newstreet1"
+233,89,233,,"Sowrastra Primary School, Chairman Sadagopan Street, Salem 636001. Main Hall of Terraced Building
+North Facing West wing","1.Salem (C), D 35, Pudu Street 2,
+2.Salem (C), D 35, Railwayline South Street"
+234,89,234,,"Sowrasthra High School, Chairman Sadagopan Street, Salem-636001, Terraced Building Main Centre Hall Facing South West wing","1.Salem (C), D 35, Carpet Street,
+2.Salem (C), D 35, Railwayline South Street"
+235,89,235,,"Sowrasthra High School, Chairman Sadagopan Street-636001, Terraced building west wing facing south","1.Salem (C), D 35, Railway Line South Street 999 - Overseas Elector"
+236,89,236,,"Sowrasthra High School, Chairman Ramalingam Street-636001, Terraced building west middle wing facing south","1.Salem (C), D 35, Newstreet3,
+2.Salem (C), D 34, Theerthagiri Road"
+237,89,237,,"Angayarkanni Aided Middle School, TVK Road, Ammapet, Salem - 636003. South Facing Building","1.Salem (C), D 35, Jothi Talkies South Street1,
+2.Salem (C), D 35, Jothi Talkies South Street 1 (Balaji Nagar 1st Cross),
+3.Salem (C), D 35, Jothi Talkies South Street1 (Karthik Nivas),
+4.Salem (C), D 35, Jothi Talkies South Street1, (Balaji Nagar 4th Cross),
+5.Salem (C), D 35, Jothi Talkies South Street1 (Balaji Nagar Main Road),
+6.Salem (C), D 35, Jothi Talkies South Street2,
+7.Salem (C), D 35, Jothitalkies west street(Pallukuchi Street),
+8.Salem (C), D 35, Jothi Talkies South Street2 (Balaji Nagar 4th Cross)"
+238,89,238,,"Angayarkanni Aided Middle School, TVK Road, Ammapet, Salem - 636003. North Facing Terraced Building","1.Salem (C), D 35, Jothi Talkies South Street2 (Balaji Nagar 2, 3rd Cross),
+2.Salem (C), D 35, Jothi Talkies South Street3, (Angalamman Street),
+3.Salem (C), D 35, Jothi Talkies Road, 999 - Overseas Elector"
+239,89,239,,"SCMC Elementary School, T.V.K. Road, Salem-636003, Terraced Building facing North, west Wing","1.Salem (C), D 35, Jothi Talkies Road (Bharathiar Street),
+2.Salem (C), D 35, Kumaran Colony,
+3.Salem (C), D 35, Devangar Street,"
+240,89,240,,"SCMC Elementary School, T.V.K. Road, Salem-636003, West Portion of East Facing Old Terraced Building","1.Salem (C), D 35, Mariudayar Street,
+2.Salem (C), D 35, Jothi talkies Road"
+241,89,241,,"SCMC Elementary School, TVK Road, Salem-636003, Terraced New Building Facing South West Wing","1.Salem (C), D 35, Jothitalkies west street 999 - Overseas Elector"
+242,89,242,,"SCMC Elementary School, TVK Road, Salem-636003, Terraced Building Class Room Building Facing North
+East Wing","1.Salem (C), D 35, Jothitalkies west street,
+2.Salem (C), D 35, Sanikuttai Street"
+243,89,243,,"SCMC Elementary School, T.V.K.Road, Terraced
+Building Facing West North wing","1.Salem (C), D35, Rajaganapathy Street"
+244,89,244,,"SCMC Elementary School, TVK Road, Salem - 636003. Terraced Building Facing West Middle Wing","1.Salem (C), D 36, Govindarajan Street,
+2.Salem (C), D 36, Shanmugam Street,
+3.Salem (C), D 36, Pidariamman Koil Street"
+245,89,245,,"Village Chavadi, TVK.Road, Salem-636003, East
+Facing Terraced Building","1.Salem (C), D 35, Jothitalkies road east street,
+2.Salem (C), D 35, Market Street1"
+246,89,246,,"Village Chavadi, TVK.Road-636003, Tiled Building
+Facing south","1.Salem (C), D 35, Market Street2"
+247,89,247,,"SCMC Middle School, Ellappan Street, Salem-636003, Terraced Building Facing South Eastern Wing","1.Salem (C), D 36, Desigan Street,
+2.Salem (C), D 36, Venkatachalam Street,
+3.Salem (C), D 36, Azhagappan Street"
+248,89,248,,"SCMC Elementary School, Marimuthu Street, Salem,
+Terraced Building North Facing West wing","1.Salem (C), D.36,Krishnan Pudur"
+249,89,249,,"SCMC Elementary School, Marimuthu Street, East
+Facing Terraced Building South Wing","1.Salem (C), D.36,Krishnan Pudur"
+250,89,250,,"SCMC Middle School, Ellappan Street , Facing west Terraced Building middle Wing","1.Salem (C), D 36, Military Street,
+2.Salem (C), D 36, Kandasamy Street,
+3.Salem (C), D 36, Achimuthu Street,
+4.Salem (C), D 36, Kanagasabapathy Street"
+251,89,251,,"SCMC Middle School, Ellappan Street, Salem-636003, West Facing Terraced Building North wing","1.Salem (C), D 36, Venkatachalam Street,
+2.Salem (C), D 36, Kandappan Street,
+3.Salem (C), D 36, Adhiselvaganapathy Street,
+4.Salem (C), D 36, Adhiselvan Street,
+5.Salem (C), D 36, Muniappan Koil Street"
+252,89,252,,"SCMC Middle School, Ellappan Street, Terraced Anganwadi Building facing south east wing","1.Salem (C), D 36, Sankaran Kadu,
+2.Salem (C), D 36, Narayanan Street,
+3.Salem (C), D 36, Sundaraganapathy Street,
+4.Salem (C), D 36, Vyapuri Street,
+5.Salem (C), D 35, Kaveri Street"
+253,89,253,,"SCMC Middle School, Ellappan Street, Salem-636003, Facing East middle Wing Terraced Building","1.Salem (C), D 36, Kolandan Street,
+2.Salem (C), D 36, Ellappan Street,
+3.Salem (C), D 36, PandariNathar Street1,
+4.Salem (C), D 36, Pandarinathar Street2 999 - Overseas Elector"
+254,89,254,,"SCMC Indiragandhi Higher Secondary School, T.V.K. Road, Terraced Building Facing East Room No 24","1.Salem (C), D 36, Nanjampatty Slum,
+2.Salem (C), D 36, Nanjampatty Sekkizhar Street"
+255,89,255,,"SCMC Indiragandhi Higher Secondary School, T.V.K. Road - 636003. Terraced Building Facing East Middle
+Wing","1.Salem (C), D 36, Nanjampatty sekkilar street (Parisumudaliarkadu)"
+256,89,256,,"SCMC Indiragandhi Higher Secondary School, T.V.K. Road, North Portion Terraced Building Facing East
+South Portion Room No.18","1.Salem (C), D 36, Nanjampatty Sekkizhar Street"
+257,89,257,,"SCMC Adhiselvan Elementary School, Ammapet, Salem-636003, Terraced Building Facing North west wing 1st Room","1.Salem (C), D 36,CuddaloremainRoad NorthExtension(Bharathi St),
+2.Salem (C), D 36, Cuddalore Main Road North Extension"
+258,89,258,,"SCMC Adhiselvan Elementary School, Ammapet, Salem-636003, Terraced Building Facing North
+Middle Portion","1.Salem (C), D 36, Cuddalore Main Road North Extension"
+259,89,259,,"SCMC Elementary School, Adhiselvan Street, Ammapet, Salem-636003, East wing North Facing
+New Terraced Building","1.Salem (C), D36, Cuddalore main road south extension 999 - Overseas Elector"
+260,89,260,,"AVS Engineering College, (Near Sakthikailash Womens College) Ammapet, Salem-636003. Terraced
+Building Facing East South wing.","1.Salem (C), D.9, Sathya Nagar"
+261,89,261,,"AVS Engineering College, (Near Sakthikailash Womens College) Ammapet, Salem-636003. Terraced
+Building Facing East North wing.","1.Salem (C), D.9, Sathya Nagar"
+262,89,262,,"Shri Sakthikailassh Women's College Millitary Road,
+Ammapet, Salem-636003, Treeaced Building Facing South West Wing Room No. G8","1.Salem (C), D,9, M.G.R. Nagar,
+2.Salem (C), D.9, Seelavari Earikarai,
+3.Salem (C), D.9, Indira Nagar"
+263,89,263,,"Shri Sakthikailassh Women's College Millitary Road, Ammapet, Salem-636003, Treeaced Building Facing
+East, North Wing Room No G.42","1.Salem (C), D,9, S.K.Township"
+264,89,264,,"SCMC Elementary School, Vaikkalpattarai Ammapet North, Salem-636003 , Terraced Building Facing
+South East Wing","1.Salem (C), D.9, Vaikalpattarai,
+2.Salem (C), D.9, Ramamoorthy pudur"
+265,89,265,,"SCMC Elementary School, Vaikkalpattarai North Ammapet, Salem-636003. Terraced Building Facing South, West Wing","1.Salem (C), D.9, Puduvalaivu
+2.Salem (C), D.9, Valkadu
+3.Salem (C), D.9,Kondon Thoppu
+4.Salem (C), D,9, Chinna Ammapattai"
+266,89,266,,"New Indian Discovery Higher Secondary School, Veeranam Main Road, Salem - 636001. North Facing
+Building Middle Room","1.Salem (C), D.9, N.G.G.O. Colony"
+267,89,267,,"New India Discovery Higher Secondary School, veeranam Main Road, North Facing Building West
+Side","1.Salem ©, D.9. Sengal anai road,
+2.Salem (C), D.9, Thathampatty"
+268,89,268,,"New India Discovery Higher Secondary School, veeranam Main Road, North Facing Building East Side","1.Salem (C), D.9. Sengal anai road,
+2.Salem (C), D.9,Seelavari Erattaikinaru"
+269,89,269,,"AVS Engineering College, (Near Sakthikailash Womens College) Ammapet, Salem-636003. Terraced Building Facing South West wing Meera Bhai Hall","1.Salem (C), D.9, Krishnapudur koyyathoppu"
+270,89,270,,"AVS Engineering College, (Near Sakthikailash Womens College) Ammapet, Salem-636003. Terraced Building Facing South East wing.Meera Bhai Hall","1.Salem (C), D.9, Krishnapudur koyyathoppu 999 - Overseas Elector"
+271,89,271,,"SCMC Elementary School, Vaikkalpattarai Ammapet North, Salem-636003 , East Facing Building South
+Side","1. Salem ©, D.9, Ramamoorthy Pudur 999 - Overseas Elector"
+272,89,272,,"SCMC Middle School, Thathampatty , Facing South Western Terraced Building West Wing","1.Salem (C), D,9, Manmatharajan street,
+2.Salem (C), D,9. Kannadiar street,
+3.Salem (C), D,9, Bajanai madam street,
+4.Salem (C), D,9, Kandasamy kovil street,
+5.Salem (C), D,9, Mariamman kovil street,
+6.Salem (C), D,9, Samy Nagar"
+273,89,273,,"SCMC Middle School, Thathampatty, Salem - 636003. Facing South East Wing","1.Salem (9), D,9, Tank street,
+2.Salem (C), D,9, Society street,
+3.Salem (C), D,9, Periyanna Udayar street,
+4.Salem (C), D.9. Soolakara Udayar street,
+5.Salem (C), D,9, Eari street"
+274,89,274,,"SCMC Middle School, Allikuttai, Salem-636003, South Facing Terraced Building Near Toilet Portion","1.Salem (C), D,9, kangapudur,
+2.Salem (C), D,9, Gangapudur"
+275,89,275,,"SCMC Middle School, Allikuttai, Salem-636003,
+Terraced Building Facing West South Wing","1.Salem (C), D,9, venkatachalam colony"
+276,89,276,,"SCMC Middle School, Allikuttai, Salem-636003
+Terraced Building Facing West North Wing","1.Salem (C), D,9, venkatachalam colony
+2.Salem (C), D,9, seloan colony, ganapathi Nagar"
+277,89,277,,"SCMC Middle School, Allikuttai, Salem-636003,
+Terraced Building Facing West North Wing","1.Salem (C), DIV9, alikuttai main road"
+278,89,278,,"SCMC Middle School, Allikuttai, Salem-636003.
+Terraced Building Facing West South Wing","1.Salem (C), DIV9, alikuttai main road
+2.Salem (C), D,9, Allikuttai"
+279,89,279,,"Kavi Bharathi Primary School, Allikuttai, Salem-636003, Terraced Building Facing East North wing","1.Salem (C), DIV9, mariamman kovil street,
+2.Salem (C), DIV,9, Allikuttai"
+280,89,280,,"Kavi Bharathi Primary School, Allikuttai, Salem - 636003, Terraced Building Facing East South Wing","1.Salem (C), D,9, Valluvar colony"
+281,89,281,,"Kavi Bharathi Primary School, Allikuttai, Salem - 636003, East Facing Building Centre Portion","1.Salem (C), D,9,Poyar Street Aalamarathur, Allaikuttai,
+2.Salem (C), DIV9, Aasari kadu,
+3.Salem (C), D,9, Muthugoundan Street, Allikuttai"
+282,89,282,,"SCMC Middle School, Allikuttai, Salem-636003,
+Terraced Building Facing South Middle Portion","1.Salem (C), D,9, Sootaiya goundar street"
+283,89,283,,"SCMC High School, Vaikkalpattarai Ammapet North, Salem-636003, Terraced Building Facing North, East
+Wing","1.Salem (C), DIV9, Gandhi Nagar 999 - Overseas Elector"
+284,89,284,,"SCMC Elementary School, Vaikkalpattarai Ammapet North, Salem-636003, Facing East North wing","1.Salem (C), D,9, Gandhi Nagar,
+2.Salem (C), D.9,Poonjolai Village,
+3.Salem (C), DIV9, Ramamurthi pudur"
+285,89,285,,"SCMC High School, Vaikkalpattarai Ammapet North, Salem-636003, Terraced Building Facing North
+Middle Wing 1st Room","1.Salem (C), D,9, Jai matric school,
+2.Salem (C), D,9, Narasinman kovil street"
+286,89,286,,"SCMC Middle School, Allikuttai, Salem-636003, New
+terraced building facing North East Portion","1.Salem (C), D,9,Mannarpalayam X Road,Allikuttai,
+2.Salem (C), D.9, Mannarpalayam"

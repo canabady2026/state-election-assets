@@ -1,0 +1,658 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+1,23,1,"Corporation Assistant Engineer Office, Complex IInd Cross Street Raghavan Colony Chennai-600083","1 - Jafferkhanpet, Ward No.139 Raghavan colony 1st Link Street
+2 - Jafferkhanpet, Ward No.139 Raghavan Colony 2nd Link Street
+3 - Jafferkhanpet, Ward No.139 Raghavan Colony West Street
+4 - Jafferkhanpet, Ward No.139 M.I.G Apartments
+5 - Jafferkhanpet, Ward No.139 Raghavan Colony 1st Street
+6 - Jafferkhanpet, Ward no.139 Raghavan colony 2nd Cross Street
+7 - Jafferkhanpet, Ward No.139 Raghavan Colony 4th Street
+8 - Jafferkhanpet, Ward No.139 Raghavan Colony 3rd Street 999 - Overseas Elector",All Voters
+2,23,2,"Corporation Assistant Engineer Office, Complex IInd Cross Street Raghavan Colony Chennai-600083","1 - Jafferkhanpet, Ward No.139 Raghavan colony 1st cross street
+2 - Jafferkhanpet, Ward No.139 Raghavan Colony 2nd Street
+3 - Jafferkhanpet, Ward No.139 Raghavan Colony East Street
+4 - Jafferkhanpet, Ward No.139 Kuppusamy street
+5 - Jafferkhanpet, Ward No.139 Mahadevan Street",All Voters
+3,23,3,"Chennai Primary School, -1A West Jones Road Saidapet Chennai-15","1.West Saidapet.Ward No.139 Munusamy Street
+2.West Saidapet.Ward No.139 Punniyakodi Street
+3.West Saidapet.Ward No.139 Gangai Amman Koil Street (Huts)",All Voters
+4,23,4,"Chennai primary School, 1B Jones Road Saidapet Chennai- 15","1.West saidapet.Ward No.139 murahari salai
+2.West Saidapet.Ward No.139 Amman Kannamma Street",All Voters
+5,23,5,ICDS Building R R Colony Jafferkhanpet Chennai-600083,1.Jafferkhanpet.Ward No.139 vathiyar subburaya muthali thottam street,All Voters
+6,23,6,ICDS Building R R Colony Jafferkhanpet Chennai-600083,1.Jafferkhanpet.Ward No.139 vathiyar subburaya muthali thottam street,All Voters
+7,23,7,ICDS Building R R Colony Jafferkhanpet Chennai-600083,"1.Jafferkhanpet.Ward No.139 Homes India Apartments 2.Jafferkanpet.Ward No.139 Arumugam Street
+3.Jafferkanpet.Ward No.139 Lakshmi Street 4.Jafferkanpet.Ward No.139 Appadurai Street
+5.Jafferkanpet.Ward No.139 Vaathiyar Subbaraya 2nd Street",All Voters
+8,23,8,"Corporation Assistant Engineer Office Complex, Shuttle court IInd Cross Street Raghavan Colony
+Chennai-600083","1.West Saidapet.Ward No.139 Mani Street
+2.West Saidapet.Ward No.139, Gandhi Street",All Voters
+9,23,9,"Chennai High School, I Pillaiar Koil Street R V Nagar Jafferkhanpet, Chennai-83",1.Jafferkhanpet.Ward No.139 Veethi Mariyamman Koil Street 2.Jafferkanpet.Ward No.139 Veethi Maariamman Koil 1st Street 3.Jafferkhanpet.Ward No.139 Veethi Mariyamman Koil 2nd Street,All Voters
+10,23,10,"Chennai High School, Pillaiyar Koil Street II R V Nagar Jafferkhanpet, Chennai-83 East Face Room 4A",1.Jafferkhanpet.Ward No.139 Alaya Mesthiri Thottam 2..Jafferkhanpet.Ward No.139 Balasubramaniyam Street 3.Jafferkanpet.Ward No.139 Kannammal Street,All Voters
+11,23,11,"Chennai High School, 1B Class Room Pillaiar Koil Street R V Nagar Jafferkhanpet, Chennai-
+83 East Face Room","1.Jafferkhanpet.Ward No.139 Vadivel Street 2..Jafferkanpet.Ward No.139 Balakrishnan Street
+3.Jafferkanpet.Ward No.139 Appaiya Maistry Street 4.Jafferkanpet.Ward No.139 vadivel naickan street 5.Jafferkanpet.Ward No.139 Nakiran Street
+6.Jafferkanpet.Ward No.139 Thilakar Street",All Voters
+12,23,12,"Chennai High School, Pillaiar Koil Street R V Nagar Jafferkhanpet, Chennai-
+83 East Face Room",1.Jafferkhanpet.Ward No.139 Guindy Rathinam Street 2.Jafferkhanpet.Ward No.139 Sivanandham Street 3.Jafferkhanpet.Ward No.139 Poongavanam Street 4.Jafferkhanpet.Ward No.139 Govindhasamy Street,All Voters
+13,23,13,"Chennai High School,2BClass Room Pillaiar Koil Street R V Nagar Jafferkhanpet, Chennai-
+83 East Face Room",1.Jafferkhanpet.Ward No.139 Gangai Amman Koil Street,All Voters
+14,23,14,"Chennai High School, 2A Class Room Pillaiar Koil Street R V Nagar Jafferkhanpet, Chennai-
+83 East Face Room","1.Jafferkanpet.Ward No.139 Sundaramoorthy Street 2.Jafferkanpet.Ward No.139 Gopal Street
+3.Jafferkanpet.Ward No.139 munusamy street 4.Jafferkanpet.Ward No.139 Arumugam Street 5.Jafferkanpet.Ward No.139 Seetha Street 6.Jafferkanpet.Ward No.139 Kamber Street (Bharathi Block)
+7.Jafferkanpet.Ward No.139 New Errikarai Gangai Amman Street",All Voters
+15,23,15,Mani Megalai Vidhayala Nursery primary school No.3A Murgesan street Muthurangan street Jafferkhanpet Chennai-600083 Room no 2,1.Jafferkhanpet.Ward No.139 Janakiraman Street 2.Jafferkhanpet.Ward No.139 Subramaniyam Street 3.Jafferkhanpet.Ward No.139 Palaniyappan Street 4.Jafferkanpet.Ward No.139 Ragavan Street,All Voters
+16,23,16,Mani Megalai Vidhayala Nursery primary school No.3A Murgesan street Muthurangan street Jafferkhanpet Chennai-600083 Room no 1,1.Jafferkhanpet.Ward No.139 Venkatachalam Street 2.Jafferkanpet.Ward No.139 Elango Adigal Street 3.Jaffarkhanpet.Ward No.139 V K Krishnan Street 4.Jaffarkhanpet.Ward No.139 Devarajan Street 5.Jaffarkhanpet.Ward No.139 Arunachalam Street,All Voters
+17,23,17,"Chennai High School, Pillaiar Koil Street R V Nagar Jafferkhanpet, Chennai-83 East Face Room V class","1.Jafferkanpet.Ward No.139 Sivaguru Street 2.Jafferkanpet.Ward No.139 Ganesan Street ""3.Jafferkanpet.Ward No.139
+S.V. Chindambaram Street""
+4.Jafferkanpet.Ward No.139 Murugesan Street 5.Jafferkanpet.Ward No.139 Manickam Street",All Voters
+18,23,18,ICDS Building Pillayar koil street R V nagar Jafferkhanpet Chennai-600083 Room no 1,1.Jaffarkhanpet.Ward No.139 Arumugam Street 2.Jaffarkhanpet.Ward No.139 Mahadevan Street 3.Jaffarkhanpet.Ward No.139 Kanniyappan Street 4.Jaffarkhanpet.Ward No.139 Bhaskaran Street 5.Jaffarkhanpet.Ward No.139 Murasolimaran Street 6.Jaffarkhanpet.Ward No.139 rajabhadhar street,All Voters
+19,23,19,"Corporation Assistant Engineer Office Complex, Shuttle court IInd Cross Street Raghavan Colony
+Chennai-600083",1.Jafferkanpet.Ward No.139 Subramani Street 2.Jafferkanpet.Ward No.139 Suseela Street 3.Jafferkanpet.Ward No.139 deiva nambi street,All Voters
+20,23,20,"Corporation Assistant Engineer Office, IInd Cross Street Raghavan Colony, Chennai-83 Room no 2","1.Saidapet.Ward No.139 New Colony Main Road
+2.West Saidapet.Ward No.139 New Colony 1st street 3.Saidapet.Ward No.139 New Colony 2nd Street
+3.Saidapet.Ward No.139 New Colony 3rd cross Street",All Voters
+21,23,21,"Corporation Assistant Engineer Office, IInd Cross Street Raghavan Colony, Chennai-83 Room no3","1.Jafferkanpet.1.Jafferkanpet.Ward No.139 Natarajan Street 2.Saidapet.Ward No.139 New Colony 4th Cross Street
+3.Saidapet.Ward No.139 New Colony 4th Street",All Voters
+22,23,22,"Corporation Assistant Engineer Office Complex, Shuttle court IInd Cross Street Raghavan Colony
+Chennai-600083","1.Saidapet.Ward No 139 Valluvar Street
+2.Saidapet.NewWard No 139 Sambasivan Street 3.Saidapet.Ward No 139 Kothandan Street
+4.Saidapet.Ward No 139 Anna Street
+5.Saidapet.Ward No 139 Kamarajar Street",All Voters
+23,23,23,"Chennai primary School, Class Room-4B West Jones Road Saidapet Chennai- 15 North Face Room","1.Ward No 139 Vijaya Raghavan Street
+2.West saidapet.Ward No.139 west jones road",All Voters
+24,23,24,"Chennai primary School, Class Room-4C West Jones Road Saidapet Chennai- 15 North Face Room",1.West Saidapet.Ward No.139 Venugopal Street,All Voters
+25,23,25,Multipurpose Building RR Colony 2nd cross street jafferkhanpet chennai-600083.,1.Saidapet.Ward No.139 Selva Vinayagar Koil Street 2.Saidapet.Ward No.139 rajambal street,All Voters
+26,23,26,"Chennai girls Higher Sec. School , 3A West Jones Road, Chennai- 15 North Face Room","1.West Saidapet.Ward No.139 Perumal Kovil West Mada Street
+2.West saidapet.Ward No.139 vinayagar koil street",All Voters
+27,23,27,"Chennai girls Higher Sec. School , 3C West Jones Road, Chennai- 15 North Face Room",1.Saidapet.Ward No.139 perumal koil maistry street 2.Saidapet.Ward No.139 Perumal Koil Extension,All Voters
+28,23,28,"Chennai girls Higher Sec. School, 3B West Jones Road, Chennai- 15 North Face Room",1.Saidapet.Ward No.139 Devu Street,All Voters
+29,23,29,ICDS Building Pillayar koil street R V nagar Jafferkhanpet Chennai-600083 Room no 2,"1.Jafferkhanpet.Ward No.139 tamil nadu slum cleareance board tenaments 2.Jafferkhanpet.Ward No.139 A Block Tamil Nadu Slum Cleareance Board Tenaments
+3.Jafferkhanpet.Ward No.139 b block tamil nadu slum cleareance board tenaments
+4.Ward No.139 C Block Tamil Nadu Slum Cleareance Board Tenaments 5.Jafferkhanpet.Ward No.139 D Block Tamil Nadu Slum Cleareance Board Tenaments
+6.Jafferkhanpet.Ward No.139 E Block Tamil Nadu Slum Cleareance Board Tenaments
+7.Jafferkhanpet.Ward No.139 F Block Tamil Nadu Slum Cleareance Board Tenaments
+8.Jafferkhanpet,R.V.Nagar.Ward No.139 K Bock Tamil Nadu Slum Cleareance Board Tenaments
+9.Jafferkhanpet,R.V.Nagar.Ward No.139 M Block Tamil Nadu Slum Cleareance Board Tenaments
+10.Jafferkhanpet R.V.Nagar.Ward No.139 N Block Tamil Nadu Slum Clereance Board Tenaments
+11.Jafferkhanpet, R.V.Nagar.Ward No.139 O Block Tamil Nadu Slum Cleareance Board Tenaments
+12.Jafferkhanpet, R.V.Nagar.Ward No.139 R Block Tamil Nadu Slum
+Cleareance Board Tenaments",All Voters
+30,23,30,"ICDS Building, Room3 Jafferkhanpet,Chennai- 83 South Face Room","1.Jafferkhanpet, R.V.Nagar.Ward No.139 S Block Tamil Nadu Slum Cleareance Board Tenaments
+2.Jafferkhanpet,R.V.Nagar.Ward No.139 T Block Tamil Nadu Slum Cleareance Board Tenaments
+3.Jafferkhanpet, r v.nagar.Ward No.139 v block t n s c b tenaments 4.Jafferkhanpet.Ward No.139 W Block T N S C B Tenaments 5.Jafferkhanpet.Ward No.139 X Block T N S C B Tenaments 6.Jafferkhanpet.Ward No.139 Y Block T N S C B Tenaments 7.Jafferkhanpet.Ward No.139 Z Block T N S C B Tenaments 8.Jafferkhanpet.Ward No.139 AA Block T N S C B Tenaments
+9.Jafferkanpet.Ward No.139 U Block TNSCB Tenaments",All Voters
+31,23,31,"ICDS Building, Room 4 Jafferkhanpet,Chennai- 83 South Face Room",1.Jafferkanpet.Ward No.139 69th Street T N S C B Tenaments 2.Jafferkanpet.Ward No.139 66th Street T N S C B Tenaments 3.Jafferkanpet.Ward No.139 69th A Street T N S C B Tenaments,All Voters
+32,23,32,"ICDS Building, Room 5 Jafferkhanpet,Chennai- 83 South Face Room 1","1.Jafferkanpet.Ward No.139 76th Street T N S C B Tenaments 2.Jafferkanpet.Ward No.139 72nd Street T N S C B Tenaments 3.Jafferkanpet.Ward No.139 74th Street T N S C B Tenaments 4.Jafferkanpet.Ward No.139 75th Street T N S C B Tenaments 5.Jafferkhanpet, R.V.Nagar.Ward No.139 P Block Tamil Nadu Slum Cleareance Board Tenaments
+6.Jafferkhanpet, R.V.Nagar.Ward No.139 Q Block Tamil Nadu Slum Cleareance Board Tenaments",All Voters
+33,23,33,Chennai primary school Rv nagar School street ch-83 Room no 2,"1Jafferkhanpet.Ward No.139 Lakeview Street
+2.Jafferkhanpet.Ward No.139 R.V.Nagar 67th Street 3.Jafferkhanpet.Ward No.139 R.V.Nagar 68th Street 4.Jaffarkhanpet.Ward No.139 Pillaiyar Koil Street",All Voters
+34,23,34,Chennai primary school Rv nagar School street ch-83 Room no 2,1.Jaffarkhanpet.Ward No.139 School Main Street 2.Jaffarkhanpet.Ward No.139 School 1st Cross Street 3.Jafferkhanpet.Ward No.139 School 2nd Cross Street 4.Jaffarkhanpet.Ward No.139 School 4th Cross Street 5.Jaffarkhanpet.Ward No.139 School 5 Cross Street 6.Jaffarkhanpet.Ward No.139 School 6th Cross Street 7.Jaffarkhanpet.Ward No.139 School 7th Cross Street 8.Jaffarkhanpet.Ward No.139 School 8th Cross Street,All Voters
+35,23,35,"Chennai Middle School,6A Class Room Mettupalyam 23 Perumal Koil Street, Chennai-33 South Face Room",1.West mambalam.WardNo.140 pushpavathi ammal street,All Voters
+36,23,36,"Chennai Middle School, Class Room no 7 Mettupalyam 23 Perumal Koil Street, Chennai-33 South Face Room","1.West Mambalam.WardNo.140 Pushpavathi Ammal Street
+2.West Mambalam.WardNo.140 Lake View Road 2nd Lane",All Voters
+37,23,37,"Chennai Middle School,6B Class Room Mettupalyam 23 Perumal Koil Street, Chennai-33 South Face Room","1.West Mambalam.Ward No 140 Nagarathinammal Colony
+2.West mambalam.WardNo.140 bharma kanagkambal street
+3.West Mambalam.WardNo.140 Victory Flats (Perumal Koil Street)
+4.West Mambalam.WardNo.140 L.I.C Colony",All Voters
+38,23,38,"Chennai Middle School, 6D Class Room Mettupalyam, 23 Perumal Koil Street, Chennai-33 South Face Room","1.West Mambalam.WardNo.140 Lake View Road
+2.West Mambalam.WardNo.140 Lake View Road Extn West Mambalam,
+3.West Mambalam.WardNo.140 Kodampakkam Road West(East Jayaram Street)
+4.West mambalam.WardNo.140 Krishnan Street
+5.West Mambalam.WardNo.140 Ashok nagar 11th Avenue",All Voters
+39,23,39,"Chennai Middle School, (7A Class Room) Mettupalayam 23, Perumal Koil Street, Chennai-33 South Face Room","1.West Mambalam.WardNo.140 Sri Venkateshwar Flats
+2.West Mambalam.WardNo.140 Rangaiya Chetty Garden
+3.West mambalam.WardNo.140 sruthi flats (rangaiya chetty thottam)+
+4.West Mambalam.WardNo.140 Thalaiyar Street And Huts Area",All Voters
+40,23,40,"Chennai Middle School,(7 B Class Room) Mettupalayam 23, Perumal Koil Street, Chennai-33 South Face Room","1.West mambalam.WardNo.140 raghavan colony
+2.West Mambalam.WardNo.140 Kodambakkam Road
+3.West Mambalam.WardNo.140 West Kavarai Street
+4.West Mambalam.WardNo.140 Kala Brindavan Flat Door No15 to 17",All Voters
+41,23,41,"Chennai Middle School,1Std.A Class Room Mettupalyam, 23 Perumal Koil Street, Chennai-33 South Face Room","1.West Mambalam.WardNo.140 South Kavarai Street
+2.West Mambalam.WardNo.140 Perumal Koil Street",All Voters
+42,23,42,"Chennai Middle School,1Std. B Class Room Mettupalyam, 23 Perumal Koil Street, Chennai-33 South Face Room","1. west Mambalam ward 140 Nagathamamn koil street
+2.West mambalam ward no 140 Nagathamman koil extn
+3.West mamabalam ward no 140 Venteraman street
+4.West Mambalam.New Ward No.140 T N S C B A Block
+5.West Mambalam.New Ward No.140 T N S C B B Block",All Voters
+43,23,43,"Chennai Middle School,8A Class Room Mettupalyam 23 Perumal Koil Street, Chennai-33 South Face Room","1.West Mambalam.WardNo.140 North Kavarai Street
+2.West Mambalam.WardNo.140 Sembada Street",All Voters
+44,23,44,"Chennai Middle School, 8B Class Room Mettupalyam 23 Perumal Koil Street, Chennai-33 South Face Room",1.West Mambalam.WardNo.140 Adikesava Perumal Koil Street,All Voters
+45,23,45,"Oxford Matriculation Higher Sec. School,Class Room 1 South K.R. Koil Street, Chennai-600033 South Face Room",1.West Mambalam.WardNo.140 Padavattamman Koil 1st Street,All Voters
+46,23,46,"Oxford Matriculation Higher Sec. School,Class Room2 South K.R. Koil Street, Chennai-600033 South Face Room","1.West Mambalam.WardNo.140 Vandikaran Street
+2.West Mambalam.WardNo.140 Thiruveethiamman Koil Street",All Voters
+47,23,47,"Oxford Matriculation Higher Sec. School,Class Room 3 South K.R. Koil Street, Chennai-600033 South Face Room","1.West Mambalam.WardNo.140 Padavattamman Koil Huts Sections
+2.West Mambalam.WardNo.140 Padavattamman Koil 2nd Street
+3.West Mambalam.WardNo.140 Palmore street",All Voters
+48,23,48,"Oxford Matriculation Higher Sec. School,Class Room 4 South K.R. Koil Street, Chennai-600033 South Face Room","1.West mambalam.WardNo.140 govindan road
+2.West Mambalam.WardNo.140 Anand Square Apartment",All Voters
+49,23,49,"Chennai Higher Sec School, Class Room-1 No.14 K.R. Koil Street, West Mambalam, Chennai-33 South Face Room","1.West Mambalam.WardNo.140 Kodhandaramar Koil Street
+2.West Mambalam.WardNo.140 V.S Apartment
+3.West Mambalam.WardNo.140 Kothandaraman Swamy Koil Street",All Voters
+50,23,50,"Chennai Higher Sec School,Class Room-2 No.14 K.R. Koil Street, West Mambalam, Chennai-33 South Face Room","1.West Mambalam.WardNo.140 Sambangi South Street (Srinivasan 1st Street)
+2.West Mambalam.WardNo.140 Jothiramalingam 2nd Street ""3.West Mambalam.WardNo.140 A Block T.N.S.C.B
+Valaithoppu""
+""4.West Mambalam.WardNo.140 B Block T.N.S.C.B Valaithoppu"" ""5.West Mambalam.WardNo.140 C Block T.N.S.C.B Valaithoppu"" ""6.West Mambalam.WardNo.140 D Block T.N.S.C.B Valaithoppu"" ""7.West Mambalam.WardNo.140 E Block T.N.S.C.B. Valaithoppu""
+8.West mambalam.WardNo.140 f block t.n.s.c.b valaithoppu ""9.West Mambalam.WardNo.140 G Block T.N.S.C.B
+Valaithoppu""
+""10.West Mambalam.WardNo.140 H Block T.N.S.C.B. Valaithoppu""",All Voters
+51,23,51,Sri Ahobila math oriental hr sec school No.116 K R koil street West mamblam Ch-33. Room no.1,"1.West mambalam.WardNo.140 srinivasan street
+""2.West Mambalam.WardNo.140 I Block T.N.S.C.B. Valaithoppu"" ""3.West Mambalam.WardNo.140 J Block T.N.S.C.B.
+Valaithoppu""",All Voters
+52,23,52,Sri Ahobila math oriental hr sec school No.116 K R koil street West mamblam Ch-33. Room no2,"1.West Mambalam.WardNo.140 Sambangi Street
+""2.West Mambalam.WardNo.140 M Block T.N.S.C.B. Valaithoppu""
+3.West Mambalam.WardNo.140 Ellaiyammam Koil Street",All Voters
+53,23,53,Sri Ahobila math oriental hr sec school No.116 K R koil street West mamblam Ch-33. Room no.3,"1.West Mambalam.WardNo.140 Mangadu Apartment
+2.West Mambalam.WardNo.140 Femina Homes
+3.West Mambalam.WardNo.140 Rain Bow Apartment
+4.West Mambalam.Word No 140 Ramaiyah Street
+5.West Mambalam.WardNo.140 Vadivelpuram
+6.West Mambalam Ward No 140 K Block T.N.S.C.B. Valaithoppu ""7.West Mambalam.WardNo.140 L Block T.N.S.C.B
+Valaithoppu""",All Voters
+54,23,54,"Oxford Matriculation Higher Sec. School, Class Room-4 South
+K.R. Koil Street, Chennai-33 South Face Room","1.West Mambalam.WardNo.140 South K.R. Koil Street
+2.West mambalam.WardNo.140 devanathan colony",All Voters
+55,23,55,"Oxford Matriculation Higher Sec. School,Class Room-5 South K.R. Koil Street, Chennai-600033 South Face Room","1.West Mambalam.WardNo.140 Kurinji Flats
+2.West Mambalam.WardNo.140 Reddikuppam Salai
+3.West Mambalam.WardNo.140 Susmitha Flat
+4.West Mambalam.WardNo.140 Shanthi Apartment",All Voters
+56,23,56,Sri Ahobila math oriental hr sec school No.116 K R koil street West mamblam Ch-33. Room no.4,"1.West Mambalam.WardNo.140 Jothi Ramalingam Street
+2.West Mambalam.WardNo.140 Arangappan Street",All Voters
+57,23,57,"Anna Poorani Ammal Middle School, Class Room-1A Old Mambalam Road, Chennai-33 North Face Room","1.Saidapet.Ward No.140 Kumaran Colony 2nd Street
+""2.West Mambalam.WardNo.140 School New Street New No. 1 to""
+3.West mambalam.WardNo.140 saradambal street",All Voters
+58,23,58,"Anna Poorani Ammal Middle School, Class Room-1B Old Mambalam Road, Chennai-33 North Face Room","1.West Mambalam.WardNo.140 Kumaran Colony 1st Street
+2.West Mambalam.WardNo.140 Reddy Salai
+3.West Mambalam.WardNo.140 Vatsalyam Apartment Door. No 7 to 8",All Voters
+59,23,59,"Anna Poorani Ammal Middle School, 6A- Class Room 99, Old Mambalam Road, Chennai-33 North Face Room",1.Saidapet.Ward No.140 Nethaji Street 2.Saidapet.Ward No.140 rajaji street 3.Saidapet.Ward No.140 Vijaya Shanthi Flats,All Voters
+60,23,60,"Anna Poorani Ammal Middle School,6B Class Room No.17 Old Mambalam Road, Chennai-33 North Face Room",1.West Mambalam.WardNo.140 Dhanapal Street Door no 1 to 50,All Voters
+61,23,61,"Anna Poorani Ammal Middle School,6C Class Room No.17 Old Mambalam Road, Chennai-33 North Face Room","1.West Mambalam.WardNo.140 Dhanapal Street Door no 51 to 100
+2.West Mambalam.WardNo.140 Saibaba Street (Dhanapal Lane)",All Voters
+62,23,62,"Anna Poorani Ammal Middle School, 7A Class Room No.17 Old Mambalam Road, Chennai-33 North Face Room",1.Saidapet.Ward No.140 sadaiyappan street Door No 1 to 50,All Voters
+63,23,63,"Anna Poorani Ammal Middle School, 7B Class Room No.17 Old Mambalam Road, Chennai-33 North Face Room",1.Saidapet.Ward No.140 sadaiyappan street Door No 51 To End,All Voters
+64,23,64,"Chennai Boys Hr Sec School , Class Room- 1A Kodambakkam Road, Chennai-33 South Face Room","1.West Mambalam.WardNo.140 Karunanidhi Cross Street
+2.West Mambalam.WardNo.140 Kalaingar Karunanidhi 2nd Street
+3.West Mambalam.WardNo.140 Kalaingar Karunanidhi First Street",All Voters
+65,23,65,"Chennai Boys Hr Sec School , Class Room- 1A Kodambakkam Road, Chennai-33 South Face Room",1.West mambalam.WardNo.140 kodambakkam road,All Voters
+66,23,66,"Anna Poorani Ammal Middle School, 8A Class Room No.17 Old Mambalam Road, Chennai-33 North Face Room",1.Saidapet.Ward No.140 old mambalam road,All Voters
+67,23,67,"Anna Poorani Ammal Middle School, 8B Class Room No.17 Old Mambalam Road, Chennai-33 North Face Room",1.West mambalam.WardNo.140 old mambalam salai,All Voters
+68,23,68,"Chennai Boys Hr Sec School, Room 1 Kodambakkam Road, Chennai-33 South Face Room",1.West Mambalam.WardNo.139 Annamalai Nagar 2nd Street,All Voters
+69,23,69,"Chennai Boys Hr Sec School, Room 2Kodambakkam Road, Chennai-33 South Face Room",1.West Mambalam.WardNo.139 Annamalai Nagar 1st Street,All Voters
+70,23,70,"Chennai Boys Higher
+Secondary School, South Face Room 3 Manthope Kodambakkam Road, Chennai-600033 South Face Room","1.West mambalam.WardNo.139 annamalai nagar 3rd street
+2.West Mambalam.WardNo.139 Vasuki Street New No. 1 to 8",All Voters
+71,23,71,"Chennai Boys Higher Secondary School, Class Room-1B Manthope Kodambakkam Road, Chennai-600033 South Face Room","1.West Mambalam.WardNo.139 V.O.C. Street New No. 1 to 24 ""2.West Mambalam.WardNo.139 Jayamram Street New No.
+1 to 28""
+3.West Mambalam.WardNo.139 Avvai Street",All Voters
+72,23,72,"Chennai Boys Higher Secondary School, Class Room-2A No:2,Manthope Kodambakkam Road, Chennai-33 South Face Room","1.West Mambalam.WardNo.139 Anna Street
+2.West Mambalam.WardNo.139 Pillaiyar Kovil Street West
+3.West Mambalam.WardNo.139 Thiru vi ka Street West Mambalam",All Voters
+73,23,73,"Chennai Boys Higher Secondary School,Class Room-2B No:2,Manthope Kodambakkam Road, Chennai-33 South Face Room","1.West mambalam.WardNo.139 periyar ramasamy street new no. 1 to
+2.West Mambalam.WardNo.139 Kamaraj Street",All Voters
+74,23,74,"Chennai Boys Higher Secondary School, Class Room-3A 26, Manthope Kodambakkam Road, Chennai-33 South Face Room",1.Saidapet.Ward No.140 krishnappa naickan street,All Voters
+75,23,75,"Chennai Boys Higher Secondary School, Class Room-3B 26, Manthope Kodambakkam Road, Chennai-33 South Face Room",1.Saidapet.Ward No.140 Vishaka Thottam New No 1 to 88,All Voters
+76,23,76,"Chennai Boys Higher Secondary School, Class Room-3C 26, Manthope Kodambakkam Road, Chennai-33 South Face Room",1.Saidapet.Ward No.140 jones salai,All Voters
+77,23,77,"Chennai Boys Higher Secondary School, Class Room-4A 26, Manthope Kodambakkam Road, Chennai-33 South Face Room",1.Saidapet.Ward No.140 Temple View Apartments 2.Saidapet.Ward No.140 karani thottam 1 st street 3.Saidapet.Ward No.140 Karani Thottam 2nd Street,All Voters
+78,23,78,"Chennai Boys Higher Secondary School, Class Room-4B 26, Manthope Kodambakkam Road, Chennai-33 South Face Room",1.Saidapet.Ward No.140 karanithottam 3rd street 2.Saidapet.Ward No.140 karani thottam main road,All Voters
+79,23,79,"Chennai Girls Higher Sec School, Class Room-3C West Jones Road, Chennai-15 North Face Room",1.Saidapet.Ward No.142 West Jones Road,All Voters
+80,23,80,"Chennai Girls Higher Sec School , Class Room-3D West Jones Road, Chennai-15 North Face Room",1.Saidapet.Ward No.142 Thirumurugan Street 2.Saidapet.Ward No 142 Saidai Sambanandan Salai,All Voters
+81,23,81,"Chennai Girls Higher Sec School , Class Room-4A West Jones Road, Chennai-15 North Face Room",1.Saidapet.Ward No.142 thiruvalluvar street 2.Saidapet.Ward No.142 Natarasan Street,All Voters
+82,23,82,"Chennai Girls Higher Sec School , Class Room-4B West Jones Road, Chennai-15 North Face Room","1.Saidapet.Ward No.142 jayaram street
+2.Saidapet.Ward No.142 kootthadum pillaiyar koil street",All Voters
+83,23,83,"Chennai Girls Higher Sec School, 4C West Jones Road, Chennai- 15 North Face Room","""1. saidapet Ward no 142 Koothadum pillayar koil street 51End"" ""2. saidapet Ward no 142 Koothadum pillayar koil street 51End""
+3.Saidapet.Ward No.142 Koothadum Pillaiyar Kovil Street Right side",All Voters
+84,23,84,"Annai Velankanni Matriculation Higher Sec. School, Class Room-1A V.G.P Salai Chennai-15 South Face Room","1.Saidapet.Ward No.142 bharathiyar street 2.Saidapet.Ward No.142 ramanujam street
+3.Saidapet.Ward No.142 ramapuram ramasamy street 4.Saidapet.Ward No.142 Anupuvi Foundation
+5.Saidapet.Ward No.142 mosque ditch 2nd street",All Voters
+85,23,85,"Annai Velankanni Matriculation Higher Sec. School,Class Room-1B V.G.P Salai Chennai-15 South Face Room","1.Saidapet.Ward No.142 Rajagopal Street
+2.Saidapet.Ward No. 142 Karunakaran Street 3.Saidapet.Ward No.142 Chinnammal Street
+4.Saidapet.Ward No.142 Dhanasekaran Street",All Voters
+86,23,86,"Annai Velankanni Matriculation Higher Sec. School,Class Room-2A V.G.P Salai Chennai-15 South Face Room",1.Saidapet.Ward No.142 Mosque Lane 2.Saidapet.Ward No. 142 Mosque 1st Street,All Voters
+87,23,87,"Chennai Girls Higher Sec School, West Jones Road, Saidapet, Chennai-600015( ICDS Centre)","1.Saidapet.Ward No.142 masuthi street
+2.Saidapet.Ward No.142 Kanagatara Flats 3.Saidapet.Ward No.142 Darsan Flats",All Voters
+88,23,88,"Chennai Girls Higher Sec School, West Jones Road, Saidapet, Chennai-600015( ICDS Centre)",1.Saidapet.Ward No.142 perumal koil street,All Voters
+89,23,89,"Chennai Girls Higher Sec School, Class Room5A No.8 West facing West Jones Road, Chennai-15 North Face Room",1.Saidapet.Ward No.142 divan bhasyam street,All Voters
+90,23,90,"Chennai Girls Higher Sec School,Class Room 5B No.8 West facing West Jones Road, Chennai-15 North Face Room",1.Saidapet.Ward No 142 Vaniyar Street 2.Saidapet.Ward No.142 Elaiyalwar Koil Street,All Voters
+91,23,91,"Chennai Girls Higher Sec School,Class Room5C No.8 West facing West Jones Road, Chennai-15 North Face Room","1.Saidapet.Wardno.142 kavarai street
+2.Saidapet.Ward No.142 Senthil Apartments 3.Saidapet.Ward No.142 Eluzmalai Street
+4.Saidapet.Ward No.142 Kamkodi Street
+5.Saidapet.Ward No.142 Balakrishnan Street",All Voters
+92,23,92,"Chennai Girls Higher Sec School,Class Room 6A No.8 West facing West Jones Road, Chennai-15 North Face Room",1.Saidapet.Ward No.142 Kambar Street 2.Saidapet.Ward No.142 Thadirathnam Street 3.Saidapet.Ward No.142 Rengabashyam Street,All Voters
+93,23,93,"Chennai Girls Higher Sec School, Class Room 6B No.8 West facing West Jones Road, Chennai-15 North Face Room","1.Saidapet.Ward No.142 Subramaniya Salai 2.Saidapet.Ward No.142 Adikesavan Street 3.Saidapet.Ward No.142 Kumarasumy Street 4.Saidapet.Ward No.142 munusamy street
+5.Saidapet.WardNo 142 Ramasamy Street",All Voters
+94,23,94,"Fathima CBSE SCHOOL ,Class Room- 1A Police Line Alandur Road Chennai-15 West Face Room",1.Saidapet.Ward No.168 Aalandur Road Chetty Thottam,All Voters
+95,23,95,"Fathima CBSE SCHOOL ,Class Room- 1A Police Line Alandur Road Chennai-15 West Face Room",1.Saidapet.Ward No.168 Jothi Thottam 2.Saidapet.Ward no 168 jothiammal nagar 101-end,All Voters
+96,23,96,"Fathima CBSE SCHOOL ,Class Room- 1B Police Line Alandur Road Chennai-15 West Face Room",1.Saidapet.Ward no 168 jothiammal nagar (Door No),All Voters
+97,23,97,"Fathima CBSE SCHOOL , Class Room- 2A Police Line Alandur Road Chennai-15 West Face Room",1.Saidapet.Ward No.168 Chetty Thottam,All Voters
+98,23,98,"Fathima CBSE SCHOOL, Class Room- 2B Police Line Alandur Road Chennai-15 West Face Room",1.Saidapet.Ward No.168 neruppu medu,All Voters
+99,23,99,"Fathima CBSE SCHOOL, Class Room- 3A Police Line Alandur Road Chennai- 15 West Face Room","1.Saidapet.Ward No.142 alanthur road ""2.Saidapet.Ward No.142
+S.N.R. Flats""
+3.Saidapet.Ward No.142 Kamarajar Street (Abith Colony) 4.Saidapet.Ward No.142 Nagalingam Street (Abith Colony) 5.Saidapet.Ward No.142 Gandhi Street
+6.Saidapet.Ward No.142 Kannagi Street",All Voters
+100,23,100,"Fathima CBSE SCHOOL, Class Room- 3B Police Line Alandur Road Chennai- 15 West Face Room","1.Saidapet.Ward No.142 Abith Colony
+2.Saidthapet.Ward No.142 Gragalakshmi Appartment 3.Saidapet.Ward No.142 Sun View Nest
+""4.Saidapet.Ward No.142
+V.O.C Street""
+5.Saidapet.Ward No.142 Kambar StreetWard No 135 Kambar Street 6.Saidapet.Ward No.142 bharathiar street
+7.Saidapet.Ward No.142 Thiruvalluvar Street",All Voters
+101,23,101,"CSI Matriculation School, UKG A Class Room Mohamed Ali Police Lane Alandur Road,Saidapet, Chennai-15 West Face Room",1.Saidapet.Ward No.142 samiyar thottam Door no 1 to 50,All Voters
+102,23,102,"CSI Matriculation School, UKG B Class Room Mohamed Ali Police Lane Alandur Road,Saidapet, Chennai-15 West Face Room",1.Saidapet.Ward No.142 samiyar thottam Door no 51 to100,All Voters
+103,23,103,"CSI Matriculation School,UKG C Class Room Mohamed Ali Police Lane Alandur Road,Saidapet, Chennai-15 West Face Room","1.Saidapet.Ward No.142 Police Quarters Colony
+2.Saidapet.Ward No.142 varasakthi vinagar koil street 3.Saidapet.Ward No.142 brahmin street
+4.Saidapet.Ward No.142 Brahmin Lane",All Voters
+104,23,104,"CSI Matriculation School, LKG Class Room Mohamed Ali Police Lane Alandur Road,Saidapet, Chennai-15 West Face Room","1.Saidapet.Ward No.142 Bujangarao Street 2.Saidapet.Ward No.142 Om AppartmentS
+3. Saidapet.Ward No.142 Chetty Street
+4.Saidapet.Ward No.142 Mathangi Flats",All Voters
+105,23,105,"Annai Velankanni Matriculation Higher Sec. School, Class Room-2C V.G.P Salai Chennai-15 South Face Room",1.Saidapet.Ward No.168 hospital salai (v.g.p salai) Door no 1 to 70,All Voters
+106,23,106,"Annai Velankanni Matriculation Higher Sec. School, Class Room-2B V.G.P Salai Chennai-15 South Face Room",1.Saidapet.Ward No.168 hospital salai (v.g.p salai) Door no 71 to 150,All Voters
+107,23,107,"Annai Velankanni Matriculation Higher Sec. School, Class Room-3A V.G.P Salai Chennai-15 South Face Room","1.Saidapet.Ward No.168 parsan nagar (hospital salai) 2.Saidapet.Ward No.168 Customs Colony
+3.Saidapet.Ward No.168 Customs Colony
+4.Saidapet.Ward No.168 central excise colony",All Voters
+108,23,108,"Annai Velankanni Matriculation Higher Sec. School,Class Room-3B V.G.P Salai Chennai-15 South Face Room","1.Saidapet.Ward No.168 anjaneyar koil street
+2.Saidapet.Ward No.168 Hospital Salai 1st Lane 3.Saidapet.Ward No.168 Hospital Salai 2nd Lane",All Voters
+109,23,109,"Ganapathi National Middle School, (Class Room1) V.S M Street, Chennai-15 East Face Room","1.Saidapet.Ward No.142 Sempada Street
+2.Saidapet.Ward No.142 subburamaiya samy koil west lane 3.Saidapet.Ward No.142 subburamaniya samy east lane
+4.Saidapet.Ward No.142 Sundareswar Koil Street
+5.Saidapet.Ward No.142 sivasubramaniyam koil street (othavada street)",All Voters
+110,23,110,"Ganapathi National Middle School, (Class Room 2) V.S M Street, Chennai-15 East Face Room",1.Saidapet.Ward No.142 sivasubramaniyam koil street (othavada street),All Voters
+111,23,111,"Ganapathi National Middle School, (Class Room 3) V.S M Street, Chennai-15 East Face Room",1.Saidapet.Ward No.142 vathiyar subburayan mudali street,All Voters
+112,23,112,"Fathima CBSE SCHOOL, Class Room- 4A Police Line Alandur Road Chennai- 15",1.Saidapet.Ward No.142 subramaniya mudali street,All Voters
+113,23,113,"Fathima CBSE SCHOOL,Class Room- 4B Police Line Alandur Road Chennai- 15 West Face Room",1.Saidapet.WardNo.142 Subramaniya mudali Street ( 51 To End),All Voters
+114,23,114,"Fathima CBSE SCHOOL, Class Room- 4C Police Line Alandur Road Chennai- 15 West Face Room","1.Saidapet.Ward No.142 Mathangi Apartments 2.Saidapet.Ward No.142 Tank Square Street
+3.Saidapet.Ward No.142 Karaneeswarar Koil Street 4.Saidapet.Ward No.142 Nanda Flats
+5.Saidapet.Ward No.142 Eswar Appartments 6.Saidapet.Ward No.142 Railway Colony",All Voters
+115,23,115,"Annai Velankanni Matriculation Higher Sec School,Class Room- 4A V.T Mahesh Memorial Hall V.G.P Road Chennai-15 South Face Room",1.Saidapet.Ward No.142 kothavalsavadi street,All Voters
+116,23,116,"Annai Velankanni Matriculation Higher Sec School,Class Room- 4B V.T Mahesh Memorial Hall V.G.P Road Chennai-15 South Face Room","1.Saidapet.Ward No.142 Arun Flats
+2.Saidapet.Ward No.142 Suvaraj Apartments 3.Saidapet.Ward No.142 Srinivasa Flats
+4.Saidapet.Ward No.142 Subam Flats
+5.Saidapet.Ward No.142 kothaval chavadi street",All Voters
+117,23,117,"Annai Velankanni Matriculation Higher Sec School, 5A
+V.T Mahesh Memorial Hall
+V.G.P Road Chennai- 15 South Face Room","1.Saidapet.Ward No.142 Narayanasamy Street 2nd and 3rd 2.Saidapet.Ward No.142 Rathna Garden 1st Street
+3.Saidapet.Ward No.142 Narayanasamy 1st street",All Voters
+118,23,118,"Annai Velankanni Matriculation Higher Sec. School , Class Room-5B V.G.P Salai Chennai-15 South Face Room",1.Saidthapet.Ward No.168 vinayagapuram street,All Voters
+119,23,119,"Annai Velankanni Matriculation Higher Sec. School , Class Room-5B V.G.P Salai Chennai-15 South Face Room","1.Saidapet.Ward No.142 tamil nadu slum clearance board kudiyiruppu a block
+2.Saidapet.Ward No. 142 Tamil Nadu Slum Cleareance Board Quaters B Block 3.Saidapet.Ward No.142 Tamil Nadu Slum Clearance Board Quaters C Block
+4.Saidapet.Ward No.142 Sasthri Nagar TNSCB Kudiyiruppu Kudiyiruppu",All Voters
+120,23,120,"Annai Velankanni Matriculation Higher Sec. School. 5C
+V.G.P Salai Chennai-15 South Face Room",1.Saidapet.Ward No.142 Duraisamy Thottam,All Voters
+121,23,121,"Annai Velankanni Matriculation Higher Sec. School,Class Room-6A V.G.P Salai Chennai-15 South Face Room","1.Saidapet.Ward No.142 TNSCB Kudiyiruppu
+2.Saidapet.Ward No.142 TNSCB G Block Kudiyiruppu 3.Saidapet.Ward No.142 TNSCB Kudiyiruppu
+4.Saidapet.Ward No.142 tnscb kudiyiruppu 5.Saidapet.Ward No.142 TNSCB Kudiyiruppu
+6.Saidapet.Ward No.142 TNSCB Kudiyiruppu Block 6 7.Saidapet.Ward No.142
+TNSCB Kudiyiruppu Block 7",All Voters
+122,23,122,"Chennai Corporation Middle School, Class Room1, Abdul Rasaq Thideer Nagar, Saidapet, Chennai-15 West Face Room",1.Saidapet.Ward No.142 karunanith street huts old no 2.Saidapet.Ward No.142 Marx Land New No. 1 to 21 3.Saidapet.Ward No.142 Bazaar Road 4.Saidapet.Ward No.142 thideer nagar 4th street (huts)  5.Saidapet.Ward No.142 Thideer Nagar 5th Street (Huts),All Voters
+123,23,123,"Chennai Corporation Middle School, Class Room2, Abdul Rasaq Thideer Nagar, Saidapet, Chennai-15 West Face Room",1.Saidapet.Ward No.142 thideer nagar new no 1 to 300,All Voters
+124,23,124,"Chennai Corporation Middle School, Class Room3, Abdul Rasaq Thideer Nagar, Saidapet, Chennai-15 West Face Room",1.Saidapet.Ward No.142 thideer nagar new no 301 to 430 2.Saidapet.Ward No.142 Anna Nagar Washing Department,All Voters
+125,23,125,"Corporation Gym Building ,-1 Police Boys Club, Kothamedu , Saidapet, Chennai-15 South Face Room",1.Saidapet.Ward No.142 kothamedu (old blocks) t.n.s.c.b,All Voters
+126,23,126,"Corporation Gym Building , -2 Police Boys Club, Kothamedu
+, Saidapet, Chennai-15 South Face Room",1.Saidapet.Ward No.142 kothamedu (old blocks 6 to 10) t.n.s.c.b 2.Saidapet.Ward No.142 Kalnaar Houses,All Voters
+127,23,127,"Chennai Corporation Middle School ,Class Room 3, Abdul Rasaq Thideer Nagar, Saidapet, Chennai-15 West Face Room",1.Saidapet.Ward No.142 kothamedu tnhb new blocks 1 to 17,All Voters
+128,23,128,"Chennai Corporation Middle School , Class Room 4, Abdul Rasaq Thideer Nagar, Saidapet, Chennai-15 West Face Room",1.Saidapet.Ward No.142 kothamedu tnhb new blocks 18 to 35,All Voters
+129,23,129,"Chennai Corporation Middle School,Class Room 5, Abdul Rasaq Thideer Nagar, Saidapet, Chennai-15 West Face Room","1.Saidapet.Ward No.142 Vinayagampettai
+2.Saidapet.Ward No.142 Mahalakshmi Appartments 3.Saidapet.Ward No.142 abdul razack street
+4.Saidapet.Ward No.142 Mahalakshmi Apparments 5.Saidapet.Ward No.142 Srivari Flats
+6.Saidapet.Ward No.142 Vinayagampettai Street
+7.Saidapet.Ward No.142 Abdul Razack Thottam Kalnar Veedugal 1",All Voters
+130,23,130,"Chennai Corporation Middle School, Class Room 6, Abdul Rasaq Thideer Nagar, Saidapet, Chennai-15 West Face Room No 1",1.Saidapet.Ward No.142 anna nagar (iyerland) huts part 2.Saidapet.Ward No.142 Abdul Razack 2nd Street,All Voters
+131,23,131,"Chennai Corporation Middle School ,Class Room 7, Abdul Rasaq Thideer Nagar, Saidapet, Chennai-15 West Face Room No 2",1.Saidapet.Ward No.142 Salavaiyalar colony 1St Street 2.Saidapet.Ward No.142 Salavaiyalar colony 2nd Street 3.Saidapet.Ward No.142 Salavaiyalar Colony 3rd Street 4.Saidapet.Ward No.142 Abdul Razack 1st Street,All Voters
+132,23,132,"Geetha Matriculation Hr.Sec School. No.34 Seshachalam Street, Saidapet, Chennai- 600015 East Face Room No 1",1.Saidapet.Ward No.169 mosque thottam Door no 1 to 100,All Voters
+133,23,133,"Geetha Kinder garden No.1 Pilliyar koil street Saidapet, Chennai- 600015 East Face Room No 1","1.Saidapet.Ward No.169 mosque thottam Door no 101 to 200 2.Saidapet.Ward No.169 Chinnaiya Thottam 1st Street
+3.Saidapet.Ward No.169 Chinnaiya Thottam 2nd Street",All Voters
+134,23,134,"Geetha Kinder garden No.1 Pilliyar koil street Saidapet, Chennai- 600015 East Face Room No 2","1.Saidapet.Ward No.142 Jeeyer Lane
+2.Saidapet.Ward No.142 Dharmaraja Koil Lane 3.Saidapet.Ward No.142 dharmaraja koil street 4.Saidapet.Ward No.142 Jenees Salai 5.Saidapet.Ward No.142 pillayar koil street
+6.Saidapet.Ward No.142 Krishna pillai Thottam 2nd Street",All Voters
+135,23,135,"Geetha Matriculation Hr.Sec School. No.34 Seshachalam Street, Saidapet, Chennai- 600015 East Face Room No 3",1Saidapet.Ward No.142 Seshachalam Street 2.Saidapet.Ward No.142 Arun Flats,All Voters
+136,23,136,"Geetha Matriculation Hr.Sec School. No.34 Seshachalam Street, Saidapet, Chennai- 600015 East Face Room No 4","1.Saidapet.Ward No.142 east jones road old no 1 to 76 2.Saidapet.Ward No.142 Kala Appartments
+3.Saidapet.Ward No.142 Thirisul Srisakthi Home
+4.Saidapet.Ward No.142 Jeenis Road Old No 1 to 18 5.Saidapet.Ward No.142 Jeenis Appartments
+6.Saidapet.Ward No.142 Maragatham Appartments 7.Saidapet.Ward No.142 Krishna Pillai Thottam 1st Street",All Voters
+137,23,137,"Alpha Matriculation Higher Sec School, Class Room-1A
+C.I.T Nagar West 3rd Cross Street, Chennai-35 West Face Room",1.Saidapet.Ward No.169 Railway Border 1st Street 2.T.Nagar.Ward No.169 J Flats,All Voters
+138,23,138,"Alpha Matriculation Higher Sec School, Class Room-1
+C.I.T Nagar West 3rd Cross Street, Chennai-35 West Face Room",1.Saidapet.WardNo.169 Hospital Road ( Railway Border 3rd Street) 2.Saidapet.Ward No.169 Gandhipuram 1st Street,All Voters
+139,23,139,"Alpha Matriculation Higher Sec School, Class Room-1B
+C.I.T Nagar West 3rd Cross Street, Chennai-35 West Face Room No 2",1.Saidapet.Ward No.169 gandhi street 3.Saidapet.Ward No.169 railway border 2nd street 3.Saidapet.Ward No.169 Anna Street (Kaveri Nagar),All Voters
+140,23,140,"Alpha Matriculation Higher Sec School, Class Room-2A
+C.I.T Nagar West 3rd Cross Street, Chennai-35 West Face Room No 3","1.Saidapet.Ward No.169 Anna 1st Cross Street 1.Saidapet.Ward No.169 Anna 2nd Cross Street 3.Saidapet.Ward No.169 Bharathi Street
+4.Saidapet.Ward No.169 kasthuribai street
+5.Saidapet.Ward No.169 70 Feet Road Subbu Pillai Thottam D.No.1 to 15",All Voters
+141,23,141,"Alpha Matriculation Higher Sec School, 2B
+C.I.T Nagar West 3rd Cross Street, Chennai- 35 West Face Room No 4",1.Saidapet.Ward No.169 Gandhipuram 2st Street 2.Saidapet.Ward No.169 Gandhipuram 3rd Street,All Voters
+142,23,142,"Alpha Matriculation Higher Sec School,Class Room-3A
+C.I.T Nagar West 3rd Cross Street, Chennai- 35 West Face Room No 6","1.Nandhanam.Ward No.169 east street west c.i.t. nagar ""2.Nandhanam.Ward No.169
+K.D.S. Flats""
+3.Nandhanam West.WardNo.169 Nandhiloop Street 4.Nandhanam.Ward No.169 west street west c.i.t. nagar",All Voters
+143,23,143,"Alpha Matriculation Higher Sec School, Class Room-3B
+C.I.T Nagar West 3rd Cross Street, Chennai-35 West Face Room No 7","1.Nandhanam.Ward No.169 Anandh Flats, 2.Nandhanam.Ward No.169 Chaithanya Flats, Chennai
+3.Saidapet.Ward No.169 Subbupillai Thottam S.C.B.Quarters C Block 4.Saidapet.Ward No.169 Subbupillai Thottam S.C.B.Quarters D Block 5.Saidapet.Ward No.169 Subbupillai Thottam S.C.B.Quarters G Block 6.Saidapet.Ward No.169 Subbupillai Thottam S.C.B.Quarters G Block
+7.C I T Nagar.Ward No.169 West C.I.T Nagar Loop Street,",All Voters
+144,23,144,"Alpha Matriculation Higher Sec School, Class Room-3C
+C.I.T Nagar West 3rd Cross Street, Chennai-35 West Face Room No 7","1.Saidapet.Ward No.169 Subbupillai Thottam S.C.B.Quarters E Block 2.T.nagar.Ward No.169 h i g block t.n.h.b.qtrs
+3.Nandhanam.Ward No.169 north street c.i.t. nagar",All Voters
+145,23,145,"Alpha Matriculation Higher Sec School,  C.I.T Nagar West 3rd Cross Street, Chennai-35 West Face Room No 7",1.Saidapet.Ward No.142 Subbupillai Thottam S.C.B. A Block Quarters 2.Saidapet.Ward No.142 Subbupillai Thottam S.C.B. Quarters B Block 3.Saidapet.Ward No.169 Subbupillai Thottam S.C.B.Quarters C Block 4.Saidapet.Ward No.169 Subbupillai Thottam S.C.B.Quarters D Block 5.Saidapet.Ward No.169 Subbupillai Thottam S.C.B.Quarters E Block 6.Saidapet.Ward No.169 Subbupillai Thottam S.C.B.Quarters G Block 7.Saidapet.Ward No.169 Subbupillai Thottam S.C.B.Quarters G Block 8.Saidapet.Ward No.169 Subbupillai Thottam S.C.B.Quarters H Block 9.Saidapet.Ward No.169 subbupillai thottam s.c.b.quarters i block 10.Saidapet.Ward No.169 Subbupillai Thottam S.C.B.Quarters J Block 11.Saidapet.Ward No.169 Subbupillai Thottam S.C.B. Quarters K Block 12.Saidapet.Ward No.169 Subbupillai Thottam S.C.B.Quarters L Block 13.Saidapet.Ward No.169 Subbupillai Thottam S.C.B.Quarters M Block 14.Saidapet.Ward No.169 Subbupillai Thottam S.C.B.Quarters N Block 15.Saidapet.Ward No.169 Subbupillai Thottam S.C.B.Quarters 16.Saidapet.Ward No.169 Subbupillai Thottam S.C.B.Quarters,All Voters
+146,23,146,"Anganwadi School, GCC 1 Kaveri Nagar Saidapet, Chennai -15 South Face Room - 2",1.Saidapet.Ward No.169 soodiammanpet street,All Voters
+147,23,147,"Anganwadi School, GCC 1 Kaveri Nagar Saidapet, Chennai -15",1.Saidapet.Ward No.169 Sasthri Nagar 2nd Cross Street 2.Saidapet.Ward No.169 Bharathidasan 1st cross Street,All Voters
+148,23,148,"Alpha Matriculation Higher Sec School, Class Room-1B
+C.I.T Nagar West 3rd Cross Street, Chennai-35 East Face Room No 8",1.Saidapet.Ward No.169 Bharathidasan 2nd Cross Street 2.Saidapet.Ward No.169 Bharathidasan 3rd Cross Street 3.Saidapet.Ward No.169 Bharathidasan street,All Voters
+149,23,149,"Alpha Matriculation Higher Sec School, Class Room-2B
+C.I.T Nagar West 3rd Cross Street, Chennai-35 East Face Room No 9","1.Saidapet.Ward No.169 Sasthiri Nagar 1st Cross Street
+2.Saidapet.Ward No.169 70 Feet Road II Cross Street (Indra Gandhi Salai)",All Voters
+150,23,150,"Alpha Matriculation Higher Sec School, Class Room-3B
+C.I.T Nagar West 3rd Cross Street, Chennai-35 East Face Room No 10","1.Saidapet.Ward No.169 Sasthiri Nagar 3rd Cross Street 2.Saidapet.Ward No.169 TNSCB U Block
+3.Saidapet.Ward No.169 Aranganathan Salai",All Voters
+151,23,151,"Geetha Matriculation Hr.Sec School. No.34 Seshachalam Street, Saidapet, Chennai- 600015 West Face Room No 5",1.Saidapet.NewWardno 142 balaji singh street 2.Saidapet.Ward No.142 Kuyavar Veedi,All Voters
+152,23,152,"Chennai Primary School, Class Room1A Chitra Nagar Kotturpuram Chennai- 85 South Face Room",1.Kotturpuram.Ward No.170 A Block Chitra Nagar Slum Clearance Board 2.Kotturpuram.Ward No.170 Block B Chitra Nagar Slum Clearance Board6 3.Kotturpuram.Ward No.170 Block C Chitra Nagar Slum Clearance Board 4.Kotturpuram.Ward No.170 Block D Chitra Nagar Slum Clearance Board 5.Kotturpuram.Ward No.170 Block E Chitra Nagar Slum Clearance Board 6.Kotturpuram.Ward No.170 F Block Chitra Nagar Slum Clearance Board 7.Kotturpuram.Ward No.170 Block G Chitra Nagar Slum Clearance Board 8.Kotturpuram.Ward No.170 Block H Chitra Nagar Slum Clearance Board 9.Kotturpuram.Ward No.170 I Block Chitra Nagar Slum Clearance Board 10.Kotturpuram.Ward No.170 Block J Chitra Nagar Slum Clearance Board,All Voters
+153,23,153,"Chennai Primary School, Class Room 1B Chitra Nagar Kotturpuram Chennai- 85 South Face Room",1.Kotturpuram.Ward No.170 Block K Chitra Nagar Slum Clearance Board 2.Kotturpuram.Ward No.170 L Block Chitra Nagar Slum Clearance Board 3.Kotturpuram.Ward No.170 M Block Chitra Nagar Slum Clearance Board 4.Kotturpuram.Ward No 170 N Block Chitra Nagar Slum Clearance Board 5.Kotturpuram.Ward No 170 O Block Chitra Nagar Slum Clearance Board 6.Kotturpuram.Ward No 170 P Block Chitra Nagar Slum Clearance Board 7.Kotturpuram.Ward No.170 Q Block Chitra Nagar Slum Clearance Board 8.Kotturpuram.Ward No.170 Block R Chitra Nagar Slum Clearance Board 9.Kotturpuram.Ward No 170 S Block Chitra Nagar Slum Clearance Board 10.Kotturpuram.Ward No.170 Block T Chitra Nagar Slum Clearance Board 11.Kotturpuram.Ward No.170 Block U Chitra Nagar Slum Clearance Board,All Voters
+154,23,154,"Chennai Primary School, Class Room2A Chitra Nagar Kotturpuram Chennai- 85 South Face Room","1.Kotturpuram.Ward No.170 Block V Chitra Nagar Slum Clearance Board 2.Kotturpuram.Ward No.170 Block W Chitra Nagar Slum Clearance Board 3.Kotturpuram Chitra Nagar.Ward No.170 C Block TNSCB 4.3.Kotturpuram.Ward No 170 D Block TNSCB 5.Kotturpuram ChitraNagar.Ward No.170 E Block TNSCB
+6.3.Kotturpuram.Ward No 170 K Block TNSCB",All Voters
+155,23,155,"AMM Mat Hr sec schl,Room-3A Gandhi Mandapam Road Kotturpuram Chennai - 85 West Face Room","1.Kotturpuram.Ward No.170 Ambedkar Nagar Huts 2.Kotturpuram.Ward No.170 Muthumariyamman Koil Huts 3.Kotturpuram.Ward No.170 Water Tank Colony Huts 4.Kotturpuram.Ward No.170 TNSCB R Block 78 82 and 88 ""5.Kotturpuram.Ward No.170
+T.N.S.C.B Kudiyiruppu Block 74""",All Voters
+156,23,156,"AMM Mat Hr sec schl,Room-3A Gandhi Mandapam Road Kotturpuram Chennai - 85 West Face Room","""1.Kotturpuram.Ward No.170
+T.N.S.C B Kudiyiruppu Block 77""
+""2.Kotturpuram.Ward No 170 T.N.S.C.B Kudiyiruppu Block 79"" ""3.Kotturpuram.Ward No.170
+T.N.S.C.B Kudiyiruppu Block 80"" ""4.Kotturpuram.Ward No.170
+T.N.S.C.B Kudiyiruppu Block 81""
+""5.Kotturpuram.Ward No 170 T.N.S.C.B Kudiyiruppu Block 83"" ""6.Kotturpuram.Ward No 170 T.N.S.C.B Kudiyiruppu Block 85"" ""7.Kotturpuram.Ward No.170
+T.N.S.C.B Kudiyiruppu Block 86""
+""8.Kotturpuram.Ward No 170 T.N.S.C.B Kudiyiruppu Block 87"" ""9.Kotturpuram.Ward No.170
+T.N.S.C.B Kudiyiruppu Block 1"" ""10.Kotturpuram.Ward No.170
+T.N.S.C.B Kudiyiruppu Block 2""
+11.Kotturpuram.Ward No.170 ambedkar nagar (huts ) ""12.Kotturpuram.Ward No.170
+T.N.S.C.B Kudiyiruppu Block 84""",All Voters
+157,23,157,"Chennai Corporatio Multipurpose Building, Hall No
+-1Chitra Nagar Kotturpuram chennai - 85 South Face Room","1.Kotturpuram.Ward No.170 TNSCB H L Block 4 2.Kotturpuram.Ward No.170 tnscb h block 5
+3.Kotturpuram.Ward No.170 TNSCB H Block 6 4.Kotturpuram.Ward No.170 TNSCB H Block 7 5.Kotturpuram.Ward No.170 TNSCB H Block 8 6.Kotturpuram.Ward No.170 TNSCB H Block 9 7.Kotturpuram.Ward No.170 tnscb h block 10
+8.Kotturpuram.Ward No.170 TNSCB H Block 11Ward No.138 TNSCB H Block 11
+9.Kotturpuram.Ward No.170 TNSCB H Block 12 10.Kotturpuram.Ward No.170 TNSCB H Block 13 11.Kotturpuram.Ward No.170 TNSCB H Block 14 12.Kotturpuram.Ward No.170 TNSCB H Block 15 13.Kotturpuram.Ward No.170 TNSCB H Block 16
+14.Kotturpuram.Ward No.170 TNSCB H Block 17",All Voters
+158,23,158,"Chennai Corporatio Multipurpose Building , South Hall-2 Chitra Nagar Kotturpuram chennai -85 South Face Room",1.Kotturpuram.Ward No.170 TNSCB H Block 75 2.Kotturpuram.Ward No.170 TNSCB H Block 76 3.Kotturpuram.Ward No.170 TNSCB H Block 31 4.Kotturpuram.Ward No.170 TNSCB H Block 36 5.Kotturpuram.Ward No.170 TNSCB H Block 38 6.Kotturpuram.Ward No.170 TNSCB H Block 39 7.Kotturpuram.Ward No.170 TNSCB H Block 50 8.Kotturpuram.Ward No.170 TNSCB H Block 51 9.Kotturpuram.Ward No.170 TNSCB H Block 52 10.Kotturpuram.Ward No.170 Government Staff Quarters H Block 1 11.Kotturpuram.Ward No.170 Government Staff Quarters H Block 2 12.Kotturpuram.Ward No. 170 Government Staff Quarters H Block 3 13.Kotturpuram.Ward No.170 Government Staff Quarters H Block 4 14.Kotturpuram.Ward No. 170 Government Staff Quarters H Block 5 15.Kotturpuram.Ward No.170 Government Staff Quarters H Block 6 16.Kotturpuram.Ward No.170 Government Staff Quarters H Block 89,All Voters
+159,23,159,"AMM Mat Hr sec schl,Room-2A Gandhi Mandapam Road Kotturpuram Chennai - 85 West Face Room",1.Kotturpuram.Ward no.170 r block tamil nadu slum cleareance board block no 18 to 34,All Voters
+160,23,160,"AMM Mat Hr sec schl,Room-3A Gandhi Mandapam Road Kotturpuram Chennai - 85 West Face Room",1.Kotturpuram.Ward No.170 R Block Kotturpuram Slum Cleareance Board (53 to 64),All Voters
+161,23,161,"AMM Mat Hr sec schl,Room-4A Gandhi Mandapam Road Kotturpuram Chennai - 85 West Face Room",1.Kotturpuram.Ward No.170 Kotturpuram TNSCB (65 to 73),All Voters
+162,23,162,"AMM Mat Hr sec schl,Room-1A Gandhi Mandapam Road Kotturpuram Chennai - 85 West Face Room","1.Kotturpuram.Ward No.170 Gandhi Mandabam Salai 2.Kotturpuram.Ward No.170 T.N.H.B. Salai
+3.Kotturpuram.Ward No.170 1st Main Salai 4.Kotturpuram.Ward No.170 2nd Main Salai 5.Kotturpuram.Ward No.170 3rd main salai 6.Kotturpuram.Ward No.170 1st Loop Salai 7.Kotturpuram.Ward No.170 2nd Loop Salai 8.Kotturpuram.Ward No.170 3rd Loop Salai 9.Kotturpuram.Ward No.170 Cresent Salai
+10.Kotturpuram.Ward No.170 Thandayuthapani Nagar 2nd Street",All Voters
+163,23,163,"AMM Mat Hr sec schl,Class Room-1B Gandhi Mandapam Road Kotturpuram Chennai - 85 West Face Room",1.Kotturpuram.Ward No.170 circular colony 5th main salai 2.Kotturpuram.Ward No.170 tnhp 4th main salai 3.Kotturpuram.Ward No.170 Ranjith Road,All Voters
+164,23,164,"AMM Mat Hr sec schl,Class Room-2A Gandhi Mandapam Road Kotturpuram Chennai - 85 West Face Room","1.Kotturpuram.Ward no.170 ashler palace
+2.Kotturpuram.Ward No.170 Exchequars Court (2,4th Main Salai Extension) 3.Kotturpuram.Ward No.170 Royal Helitet (4,4th Main Salai Extension) 4.Kotturpuram.Ward No.170 royal villa (5,4th main salai extension) 5.Kotturpuram.Ward No.170 Viswakamal (7,4th Main Salai Extension) 6.Kotturpuram.Ward No.170 Rivera (8,4 Main Salai Extension) 7.Kotturpuram.Ward No.170 ceder park (9,4th main salai extension) 8.Kotturpuram.Ward No.170 Thandayudapani Nagar 1st Street 9.Kotturpuram.Ward No.170 Ambadi Street
+10.Kotturpuram.Ward No.170 Vellaiyan Street
+11.Kotturpuram.Ward No.170 Arunachalam Salai 12.Kotturpuram.Ward No.170 Murugappa Street",All Voters
+165,23,165,"Kottur Nadar Uravin Murai Nursary and Primary School ,Class Room-1Perumal Koil Street, Chennai-85 West Face Room",1.Kottur.Ward No.170 Guruvappan Street 2.Kottur.Ward No.170 Peeliyamman Koil Street,All Voters
+166,23,166,"Kottur Nadar Uravin Murai Nursary and Primary School,Class Room-2 Perumal Koil Street, Chennai-85 West Face Room","1.Kotturpuram.Ward No.170 Bharathi Avenue 2nd Street 2.Kottur.Ward No.170 Sudalai Pathai Mandapam Salai
+3.Kotturpuram.Ward No.170 Surya Appartmetns 4.Kotturpuram.Ward No.170 Galaxsi Appartments
+5.Kotturpuram.Ward No.170 Bharathi Avenue 1st Street",All Voters
+167,23,167,"Kottur Nadar Uravin Murai Nursary and Primary School,Class Room-2 Perumal Koil Street, Chennai-85 West Face Room","1.Kottur.Ward No.170 Kulakarai Salai Erikarai Salai 2.Kottur.Ward No.170 Sudalai Pathai Huts
+3.Kottur.Ward No.170 Balaji Street",All Voters
+168,23,168,"N.T.T.T.I Communtiy Hall Room 80 Feet
+Road (or) Gandhimandapam Road Chennai-85 West Face Room","1.Kotturpuram.Ward No.170 Jipsi Colony
+2.Kotturpuram.Ward No.170 Engineering College 4th Section Office 3.Kotturpuram.Ward No.170 G Block
+4.Kotturpuram.Ward No.170 TTTI Officer Appartments 5.Kotturpuram.Ward No.170 TTTI Officer Appartments P Block ""6.Kotturpuram.Ward No.170
+T.T.T.I Officer Appartments D Block""
+7.Kotturpuram.Ward No.170 Anna University Teacher Quarters 8.Kotturpuram.Ward No.170 Anna University Teacher Quarters L Block 9.Kotturpuram.Ward No.170 Anna University Teacher Quaters",All Voters
+169,23,169,"N.T.T.T.I Communtiy Hall Room 80 Feet
+Road (or) Gandhimandapam Road Chennai-85 West Face Room",1.Kotturpuram.Ward No 170 Aringner Anna Street 2.Kotturpuram.Ward No.170 Ellaiamman Koil Street (East) 3.Kotturpuram.Ward No.170 Yadhaval Street,All Voters
+170,23,170,"N.T.T.T.I Communtiy Hall Room 80 Feet
+Road (or) Gandhimandapam Road Chennai-85 West Face Room","1.Kotturpuram.Ward No.170 New Street
+2.Kotturpuram.Ward No.170 mannappan street 3.Kotturpuram.Ward No.170 Avvai Colony",All Voters
+171,23,171,"Advent Christian Hr sec schl,Class Room- 1A Naidu street Kottur Chennai - 85 North Face Room",1.Kotturpuram.Ward No.170 Naidu Street,All Voters
+172,23,172,"Advent Christian Hr sec schl,Class Room- 1B Naidu street Kottur Chennai - 85 North Face Room",1.Kotturpuram.Ward No.170 Naidu Street 1st Lane 2.Kotturpuram.Ward No.170 Naidu Street 2nd Lane 3.Kottur.Ward No.170 Naidu Street 3rd Lane 4.Kottur.Ward No.170 naidu street 4th lane (balakrishnan lane),All Voters
+173,23,173,"Advent Christian Hr sec schl,Class Room- 1B Naidu street Kottur Chennai - 85 North Face Room",1.Kottur.Ward No 170 Varadhapuram 2nd Street 2.Kottur.Ward No.170 Varadhapuram 1st Street,All Voters
+174,23,174,"Chennai Primary School ,Class Room- 1ANew street Kotturpuram Chennai - 85 North Face Room No 1","1.Kotturpuram.Ward No.170 ponniamman koil street kotturpuram 2.Kotturpuram.Ward No.170 Ponniamman Koil Street Kotturpuram 3.Kotturpuram.Ward No.170 Police Quaters E Block
+4.Kotturpuram.Ward No.170 Police Quaters A Block 5.Kotturpuram.Ward No.170 Police Quaters B Block
+6.Kotturpuram.Ward No.170 Police Quaters C Block",All Voters
+175,23,175,"Chennai Primary School, Class Room-1B New street Kotturpuram Chennai - 85 North Face Room No 2","1.Kotturpuram.Ward No.170 Police Quaters D Block 2.Kotturpuram.Ward No.170 Kandhan Garden
+3.Kotturpuram.Ward No.170 Thulukanathaamman Koil Street 4.Kotturpuram.Ward No.170 Karunanithi 1st Street
+5.Kotturpuram.Ward No.170 karunanithi 2nd street 6.Kotturpuram.Ward No.170 Karunanithi 3rd Street
+7.Kotturpuram.Ward No.170 Ellaiamman Koil Street Door no 151 to 200",All Voters
+176,23,176,"Chennai Primary School, Class Room- 2ANew street Kotturpuram Chennai - 85 North Face Room No 3",1.Kotturpuram.Ward No.170 Ellaiamman Koil Street Door no 1 to 150,All Voters
+177,23,177,"Chennai High School, Class Room-2B New street Kotturpuram Chennai - 85 North Face Room No 1","1.Kotturpuram.Ward No.170 Thiruvalluvar Nagar 1st Street 2.Kotturpuram.Ward No.170 Lock Street Anmol Crest 2.Kotturpuram.Ward No.170 Lock Street Pearl Apts 4.Kotturpuram.Ward No.170 Asirvath Appartments 5.Kotturpuram.Ward No.170 Kottur Villa 6.Kotturpuram.Ward No.170 Sai Nikethan
+7.Kotturpuram.Ward No.170 Ashok Dhabasvi
+8.Kotturpuram.Ward No.170 Prakathi Appartments 9.Kotturpuram.Ward No.170 Sowbakya Avenue
+10.Kotturpuram.Ward No.170 thiruvalluvar nagar 2nd street",All Voters
+178,23,178,"Chennai High School, Class Room-3A New street Kotturpuram Chennai - 85 North Face Room No 2",1.Kotturpuram.Ward No.170 pondichery road 2.Kotturpuram.Ward No.170 Seni Swagath Apartments 3.Kotturpuram.Ward No.170 Thiruvalluvar Nagar 3rd Street 4.Kotturpuram.Ward No.170 Thiruvalluvar Nagar 4th Street,All Voters
+179,23,179,"Kottur Nadar Uravin Murai Nursary and Primary School, Class Room-3 Perumal Koil Street, Chennai-85 West Face Room",1.Kotturpuram.Ward No.170 Perumal Koil Street,All Voters
+180,23,180,"Kottur Nadar Uravin Murai Nursary and Primary School,Class Room-4 Perumal Koil Street, Chennai-85 West Face Room","1.Kotturpuram.Ward No.170 Perumal Koil 1st Street 2.Kotturpuram.Ward No.170 Padmalaya Appartments
+3.Kotturpuram.Ward No.170 Pushpalaya Appartments Quarters 4.Kotturpuram.Ward No.170 Srisakthi Appartments Quarters 5.Kotturpuram.Ward No.170 Bell Appartments (Perumal Koil Street)
+6.Kotturpuram.Ward No.170 Durai Samy Nagar",All Voters
+181,23,181,"Kendriya Vidyayalaya,West Face 3rd A Class Room
+C.L.R.I Sradar Pattel Road Kotturpuram Chennai-85 West Face Room",1.Kotturpuram.Ward No.170 A Block TNSCB 2.Kotturpuram.Ward No.170 B Block TNSCB 3.Kotturpuram.Ward No.170 C Block TNSCB 4.Kotturpuram.Ward No.170 D Block TNSCB 5.Kotturpuram.Ward No.170 E Block TNSCB 6.Kotturpuram.Ward No.170 F Block TNSCB,All Voters
+182,23,182,"Kendriya Vidyayalaya, 3rd B Class Room
+C.L.R.I Sradar Pattel Road Kotturpuram Chennai-85 West Face Room","1.Kotturpuram.Ward No.170 G Block TNSCB 2.Kotturpuram.Ward No.170 H Block TNSCB
+3.Kotturpuram.Ward No.170 CLRI Staff Quaters 4.Kotturpuram, Sr.Pattel Road.Ward No.170 CLRI Staff Quaters 5.Kotturpuram.Ward No.170 CLRI Staff Quaters 6.Kotturpuram, Sr.Pattel Road.Ward No.170 CLRI Staff Quaters 7.Kotturpuram, Sr.Pattel Road.Ward No.170 CLRI Staff Quaters 8.Kotturpuram.Ward No 170 C.L.R.I Staff Quarters
+9.Kotturpuram.Ward No.170 Angalamman Koil Back Side (Huts)",All Voters
+183,23,183,"Kendriya Vidyayalaya,4th A Class Room C.L.R.I Sradar Pattel Road Kotturpuram Chennai- 85 West Face Room",1.Kotturpuram.Ward No.170 Angalamma Koil Street 2.Kotturpuram.Ward No.170 Bharathy Avenue 1st Street 3.Kotturpuram.Ward No.170 Bharathi Avenue,All Voters
+184,23,184,"Kendriya Vidyayalaya,5th A Class Room C.L.R.I Sradar Pattel Road Kotturpuram Chennai- 85 West Face Room",1.Kotturpuram.Ward No.170 West Canal Bank Salai 2.Kotturpuram.Ward No.170 West Canal Bank Road,All Voters
+185,23,185,"Kendriya Vidyayalaya,4th B Class Room C.L.R.I Sradar Pattel Road Kotturpuram Chennai- 85 West Face Room","1.Kotturpuram, Sr.Pattel Road.Ward No.170 C.L.R.I Staff Quaters 2.Kotturpuram, sr.pattel road.Ward No.170 regency 3.Kotturpuram, Sr.Pattel Road.Ward No.170 Regalaya 4.Kotturpuram, Sr.Pattel Road.Ward No.170 Residency
+5.Kotturpuram.Ward No.170 Sardar Pattel Road 6.Kotturpuram.Ward No.170 Krishna Appartments ""7.Kotturpuram.Ward No.170
+C.L.R.I Quarters (Extension)"" ""8.Kotturpuram.Ward No.170
+C.L.R.I Quarters Block"" ""9.Kotturpuram.Ward No.170
+C.L.R.I Quarters Block""
+10.Kotturpuram.Ward No.170 South Lock Street",All Voters
+186,23,186,"AMM Mat Hr sec schl,Class Room-2A Gandhi Mandapam Road Kotturpuram Chennai - 85 West Face Room","1.Kottur.Ward No.169 Sooriya Nagar Huts
+2.Guindy.Ward No.169 Anna University Staff Quarters 3.Kottur.Ward No.169 Ranjith Salai",All Voters
+187,23,187,"Model Higher Secondary School Annasalai Chennai
+-600015","1.Saidapet.Ward No.169 attrru nagar kudisai paguthi
+2.Saidapet Ward No 169 Aatruma Nagar Huts
+3.Nandhanam.Ward No.169 anna salai new no 487 to 585 & 654 to 882 4.Saidapet.Ward No.169 kavangarai kudisai pagudhigal 5.Saidapet.Ward No.169 Thadandar Nagar T.N.H.B Quarters K Block 6.Saidapet.Ward No.169 Thadandar Nagar T.N.H.B L Block 7.Saidapet.Ward No.169 thadandar nagar housing board quarters 8.Saidapet.Ward No.169 Tadandar Nagar T.N.H.B Quarters M Block 9.Saidapet.Ward No.169 Tadandar Nagar T.N.H.B Quarters N Block 10.Saidapet.Ward No.169 Thadandar Nagar T.N.H.B Quarters Q Block
+11.Saidapet.Ward No.169 Thadandar Nagar Govt Staff Quarters AA Block 12.Saidapet.Ward No.169 ab block+
+13.Saidapet.Ward No.169 AE Block 14.Saidapet.Ward No.169 AF Block 15.Saidapet.Ward No.169 ag block 16.Saidapet.Ward No.169 AH Block 17.Saidapet.Ward No.169 ai block 18.Saidapet.Ward No.169 AJ Block 19.Saidapet.Ward No.169 AK Block
+20.Saidapet.Ward No.169 Kavangarai Huts",All Voters
+188,23,188,Jaigopal garodia Government Girls Higher secondary school Todhunter Nagar Chennai-600015,1.Saidapet.Ward No.169 Tamil Nadu Government Housing Board Staff Quarter,All Voters
+189,23,189,"Govt teachers Educational Centre,Class Room 2 training college Saidapet Ch-15 West Face Room",1.Saidapet.Ward No.169 jothiammal nagar new no 1 to100,All Voters
+190,23,190,"Govt teachers Educational Centre, Class Room 3 training college Saidapet Ch-15 West Face Room",1.Saidapet.Ward No.169 jothiammal nagar,All Voters
+191,23,191,"Govt teachers Educational Centre
+.Class Room 4 training college Saidapet Ch-15 West Face Room",1.Saidapet Ward no.169. Jothiammal nagar Door No 151to End,All Voters
+192,23,192,Jaigopal garodia Government Girls Higher secondary school Todhunter Nagar Chennai-600015,"1.Saidapet.Ward No.169 Thadandar Nagar, P.W.D.D Quarters",All Voters
+193,23,193,Jaigopal garodia Government Girls Higher secondary school Todhunter Nagar Chennai-600015,1.Saidapet.Ward No.169 thodhunter nagar p.w.d C quarters 2.Saidapet.Ward No.169 thodhunter nagar p.w.d D quarters,All Voters
+194,23,194,Jaigopal garodia Government Girls Higher secondary school Todhunter Nagar Chennai-600015,"1.Saidapet.Ward No.169 Government Farm Village 1st Street ""2.Saidapet.Ward No.169
+P.W.D Drivers Staff Quarters""",All Voters
+195,23,195,Jaigopal garodia Government Girls Higher secondary school Todhunter Nagar Chennai-600015,1.Saidapet.Ward No.169 govt farm village 2nd street,All Voters
+196,23,196,"Chennai Primary School class I Bazaar Road saidapet, ch-15 North Facing Room",1.Saidapet.Ward No.142 Jayaram Street 2.Saidapet.Ward No.142 Pookkara Street,All Voters
+197,23,197,"Chennai Primary School class I Bazaar Road saidapet, ch-15 North Facing Room",1.Saidapet.Ward No.142 bazaar street,All Voters
+198,23,198,"YMCA College of physical Training College ,West Face Administrative Block 1 Anna Salai Nandhanam , ch-35 West Face Room","1.Nandhanam.Ward No.169 Panpattai 1st Street 2.Nandhanam.Ward No.169 Panpattai 1st Lane
+3.Nandhanam.Ward No.169 Model Hutment Salai
+4.Nandhanam.Ward No.169 Mazuthi Compound Huts 5.Nandhanam.Ward No.169 Vetnary Hospital Salai",All Voters
+199,23,199,"YMCA College of physical Training College
+,Administrative Block 2 Anna Salai Nandhanam , ch-35 West Face Room","""1.Nandhanam.Ward No.169
+H.I.G Appartments""
+2.Nandhanam.Ward No.169 panpettai 2nd street 3.Nandhanam.Ward No.169 Model Hutment Road (Extn)",All Voters
+200,23,200,"Chennai Primary School,Class Room 1A Venkatapuram Saidapet Chennai - 15 West Face Room","1.Saidapet, Venkatapuram.Ward No.169 Tamil Nadu Slum Clearence Board Kudiyiruppu
+2.Saidapet, Venkatapuram.Ward No.169 Tamil Nadu Slum Cleareance Board Kudiyiruppu
+3.Saidapet, Venkatapuram.Ward No.169 Tamil Nadu Slum Cleareance Board Kudiyiruppu
+4.Saidapet, Venkatapuram.Ward No.169 Tamil Nadu Slum Cleareance
+Board Kudiyiruppu",All Voters
+201,23,201,"Chennai Primary School,Class Room-1B Venkatapuram Saidapet Chennai - 15 West Face Room","1.Saidapet, Venkatapuram.Ward No.169 Tamil Nadu Slum Cleareance Board Kudiyiruppu X Block
+2.Saidapet, Venkatapuram.Ward No.169 Venkatapuram Huts (Tamil Nadu Slum Cleareance Board)
+3.Saidapet, Venkatapuram.Ward No.169 C Block T.N.S.C.B 4.Saidapet, Venkatapuram.Ward No.169 F Block T.N.S.C.B 5.Saidapet, Venkatapuram.Ward No.169 Tamil Nadu Slum Cleareance
+Board Kudiyiruppu",All Voters
+202,23,202,"Chennai Primary School,Class Room2A Venkatapuram Saidapet Chennai - 15 West Face Room","1.Saidapet, Venkatapuram.Ward No.169 G Block T.N.S.C.B 2.Saidapet, Venkatapuram.Ward No.169 H Block T.N.S.C.B 3.Saidapet, Venkatapuram.Ward No.169 I Block T.N.S.C.B 4.Saidapet,  Venkatapuram.Ward No.169 J Block T.N.S.C.B 5.Saidapet, venkatapuram.Ward No.169 k block t.n.s.c.b 6.Saidapet, Venkatapuram.Ward No.169 L Block
+T.N.S.C.B 7.Saidapet, Venkatapuram.Ward No.169 M Block T.N.S.C.B 8.Venkatapuram, saidapet.Ward No.169 venkatapuram fire proof houses
+9.Venkatapuram Saidapet.Ward No.169 T Block T.N.S.C.B",All Voters
+203,23,203,"Chennai primary school, Venkatapuram Chennai-600015 West Face Room","1.Saidapet.Ward No.169 Tamil Nadu Slum Clearance Board VengKatapuram Kudiyiruppu
+2.Saidapet.Ward No.169 Vengkatapura Huts New No 124 to 148 ""3.Saidapet.Ward No.169 T.N.S.C.B.Q. M Block
+Vengkatapuram""
+4.Saidapet.Ward No.169 t.n.s.c.b.q. n block vengkatapuram ""5.Saidapet.Ward No.169 T.N.S.C.B.Q. O Block
+Vengkatapuram""
+""6.Saidapet.Ward No.169 T.N.S.C.B.Q. P Block Vengatapuram"" ""7.Saidapet.Ward No.169 T.N.S.C.B.Q. Q Block Vengkatapuram"" ""8.Saidapet.Ward No.169 T.N.S.C.B.Q. R Block Vengkatapuram"" ""9.Saidapet.Ward No.169 T.N.S.C.B.Q. S Block
+Vengkatapuram""",All Voters
+204,23,204,"St Francis Xavier Middle School,5A Class Room Loorth Doss Crishto Street Chennai- 15 East Face Room","1.Saidapet.Ward No.169 Arokiyamatha Nagar 1st Street Huts 2.Saidapet.Ward No.169 Arokkiyamatha Nagar 2nd Street Huts 3.Saidapet.Ward No.169 Loorthu Das Gritto Street 4.Saidapet.Ward No.169 Thamos Nagar
+5.Saidapet.Ward No.169 Old Anusya Mandapam Huts
+6.Saidapet.Ward No.169 New & Old Anusya Mandapam",All Voters
+205,23,205,"St Francis Xavier Middle School, 5B Class Room Loorth Doss Crishto Street Chennai-15 East Face Room","1.Saidapet.Ward No.169 L.D.G Road Fibre Houses
+2.Saidapet.Ward No.169 Sathya Nagar South Huts Part 3.Saidapet.Ward No.169 L D G Road Door no 151 to 200",All Voters
+206,23,206,"St Francis Xavier Middle School, 6A Class Room Loorth Doss Crishto Street Chennai-15 East Face Room","1.Saidapet.Ward No.169 L D G Road Door no 1 to 150 2.Saidapet.Ward No.169 Vasanth Appartment
+3.Saidapet.Ward No.169 New View Shanthi Apartments
+4.Saidapet.Ward No.169 Viswa Shanthi Appartments",All Voters
+207,23,207,"St Francis Xavier Middle School, 6B Class Room Loorth Doss Crishto Street Chennai-15 East Face Room","1.Saidapet.Ward No.169 p s g flats 2.Saidapet.Ward No.169 Judges Quarters
+3.Saidapet.Ward No.169 Temple Avenue Srinagar Colony 4.Saidapet.Ward No.169 Narayaniam Appartments
+5.Saidapet.Ward No.169 Kala Appartments
+6.Saidapet.Ward No.169 north mada veedhi sri nagar colony 7.Saidapet.Ward No.169 Akshaya Aparments",All Voters
+208,23,208,"St Francis Xavier Middle School,7A Class Room Loorth Doss Crishto Street Chennai- 15 East Face Room","1.Saidapet.Ward No.169 west mada veedhi 2.Saidapet.Ward No.169 east mada veedhi
+3.Saidapet.Ward No.169 Coral Archi Kudiyiruppu 4.Saidapet.Ward No.169 South Avenue
+5.Saidapet.Ward No.169 K.G. Srivasthsa Apartments 6.Saidapet.Ward No.169 Anand Apartments
+7.Saidapet.Ward No.169 north avenue
+8.Saidapet.Ward No.169 South Madaveethi",All Voters
+209,23,209,"St Francis Xavier Middle School,7B Class Room Loorth Doss Crishto Street Chennai- 15 East Face Room","1.Saidapet.Ward No.169 Vasanth Apartments 2.Saidapet.Ward No.169 lakshayan
+3.Saidapet.Ward No.169 Kings Meads, (Citi Lights) 4.Saidapet.Ward No.169 Duruva Nivas
+5.Saidapet.Ward No.169 Vasanth Apartments 6.Saidapet.Ward No.169 Syam Dharbar
+7.Saidapet.Ward No.169 Abulregency
+8.Saidapet.Ward No.169 rangarajapuram 1st street and cross street 9.Saidapet.Ward No.169 Cross Street Srinagar Colony 10.Saidapet.Ward No.169 Rangarajapuram 2nd Street 11.Saidapet.Ward No.169 Rangarajapuram 4th Street",All Voters
+210,23,210,"St Francis Xavier Middle School ,7C Class Room Loorth Doss Crishto Street Chennai-15 East Face Room","1.Saidapet.Ward No.169 rangarajapuram 3th street 2.Saidapet.Ward No.169 Rangarajapuram 5th Street 3.Saidapet.Ward No.169 rangarajapuram 6th street 4.Saidapet.Ward No.169 ponniamman koil street
+5.Saidapet.Ward No.169 thulasingam street",All Voters
+211,23,211,"St Francis Xavier Middle School,8A Class Room Loorth Doss Crishto Street Chennai- 15 East Face Room","1.Saidapet.Ward No.169 vinayagar koil street 2.Saidapet.Ward No.169 Sardar Patel Salai 3.Saidapet.Ward No.169 Bharathi Street
+4.Saidapet.Ward No.169 Anjaneya Koil Street
+5.Saidapet.Ward No.169 Kakkan Puram Taluk Office Salai 6.Saidapet.Ward No.169 Taluk Office Salai",All Voters
+212,23,212,"St Francis Xavier Middle School, 8B Class Room Loorth Doss Crishto Street Chennai-15 East Face Room","1.Velacherry Road.Ward no 139 government staff quarters 2.Velacherry Road.WardNo.169 Velacherry Salai
+3.Velacherry Road.WardNo.169 Abhinav Kailash 4.Velacherry Road.WardNo.169 Abhinav Garden
+5.Velacherry Road.WardNo.169 Selva Rangaraja Street 6.Velacherry road.WardNo.169 Muthuyalu Street
+7.Velacherry Road.WardNo.169 Velacherry Road Lane",All Voters
+213,23,213,"Chellammal Womens College,II- BCS Classroom,Anna salai,Chennai-600032 South Face Room","1.Saidapet.Ward No.168 New Anusuya Manadapabam 2.Saidapet.Ward No.168 mount road
+3.Saidapet.Ward No.168 mettha complexs
+4.Guindy.Ward No.168 c.t.i. apartments",All Voters
+214,23,214,"Chennai Primary School, Class Room 1 Gangaiamman Koil Street Poondamalli Road, Ekkatuthangal, Chennai-600 032 East Face Room","1.Ekkattuthangal.WardNo.168 Poonadhamalli Salai (Atchudhan Nagar) 2.Ekkattuthangal.WardNo.168 Sakthi Towers 3.Ekkattuthangal.WardNo.168 Mettu Street Poonadamali Salai 4.Ekkattuthangal.WardNo.168 Atchudhan Nagar 1st Street 5.Ekkattuthangal.WardNo.168 Atchudhan Nagar 1st Street 1st Cross Street 6.Ekkattuthangal.WardNo.168 Atchudhan Nagar 2nd Cross Street
+7.Ekkattuthangal.WardNo.168 Atchudhan Nagar 2nd Street 1St Cross Street 8.Ekkattuthangal.WardNo.168 Atchudhan 2nd Street 2nd Cross Street 9.Ekkattuthangal.WardNo.168 Atchudhan Nagar 3rd Street 10.Ekkattuthangal.WardNo.168 Atchudhan Nagar 4th Street (Cross) Street
+11.Ekkattuthangal.WardNo.168 Atchudhan Nagar 4th Street",All Voters
+215,23,215,"Chennai Primary School, Class Room 2 Gangaiamman Koil Street Poondamalli Road, Ekkatuthangal, Chennai-600 032 East Face Room",1.Ekkattuthangal.WardNo.168 Visalatchi Nagar Main road 2.Ekkattuthangal.WardNo.168 Visalakshi nagar 1st st 3.Ekkattuthangal.WardNo.168 Visalatchi Nagar 2nd Street 4.Ekkattuthangal.WardNo.168 Visalatchi Nagar 3rd street 5.Ekkattuthangal.WardNo.168 Visalatchi Nagar Extension 6.Ekkattuthangal.WardNo.168 Kannagi Street 7.Ekkattuthangal.WardNo.168 Duraisamy Street 8.Ekkattuthangal.WardNo.168 Atchudhan Nagar 5th Street 9.Ekkattuthangal.WardNo.168 Rajeevgandhi Nagar 10.Ekkattuthangal.WardNo.168 Atchudhan Nagar 2nd 1st Cross Street,All Voters
+216,23,216,"E C I Matriculation Higher Sec. School, Class Room 1A 120 Feet Road, Ekkatuthangal, Chennai-32 East Face Room",1.Ekkatuthangal.Ward No.168 pillaiyar koil first street 2.Ekkattuthangal.WardNo.168 Nethaji Street 3.Ekkatuthangal.Ward No.168 Jawaharlal Nehru Street 4.Ekkattuthangal.WardNo.168 Pillaiyar Koil 2nd Street,All Voters
+217,23,217,"E C I Matriculation Higher Sec. School, Class Room 1B 120 Feet Road, Ekkatuthangal, Chennai-32 East Face Room",1.Ekkattuthangal.WardNo.168 Parthasarathy Koil Street 2.Ekkatuthangal.Ward No.168 Pillaiyar Koil 3rd Street 3.Ekkattuthangal.WardNo.168 Pillaiyar Koil 4th Street,All Voters
+218,23,218,"E C I Matriculation Higher Sec. School, Class Room 2A 120 Feet Road, Ekkatuthangal, Chennai-32 East Face Room",1.Ekkattuthangal.WardNo.168 pillaiyar koil 5th street 2.Ekkattuthangal.WardNo.168 Pillaiyar Koil 6th Street 3.Ekkattuthangal.WardNo.168 Bangala Street 3rd Street 4.Ekkattuthangal.WardNo.168 Bangala Street 2nd Street 5.Ekkattuthangal.WardNo.168 Bangala 1st Street (Jawaharlal Nehru Salai),All Voters
+219,23,219,"Chennai Primary School, Class 1A Room,Gangaiamman Koil Street Poondamalli Road, Ekkatuthangal,
+Chennai-32 East Face Room",1.Ekkattuthangal.WardNo.168 Lazar Street 2.Ekkattuthangal.WardNo.168 Jothi Nagar Main Road 3.Ekkattuthangal.WardNo.168 Shankar Apartments 4.Ekkattuthangal.WardNo.168 Jothi Nagar 2nd Street 5.Ekkattuthangal.WardNo.168 Balaji Flats (Jothi Nagar) 6.Ekkattuthangal.WardNo.168 Jothi Nagar 2nd Cross Street 7.Ekkattuthangal.WardNo.168 Poonadhamalli Salai (Balaji Aparements),All Voters
+220,23,220,"Chennai Primary School,1B Class Room Gangaiamman Koil Street Poondamalli Road, Ekkatuthangal, Chennai-32 East Face Room",1.Ekkattuthangal.WardNo.168 Poonadhamalali Road (Bangala Street) 2.Ekkattuthangal.WardNo.168 Jothi Nagar 1st Street 3.Ekkattuthangal.WardNo.168 Karpaga Vinayagar Koil Street 4.Ekkattuthangal.WardNo.168 Thirukumaran Street 5.Ekkattuthangal.WardNo.168 Nandhivarman Street,All Voters
+221,23,221,"Chennai Primary School, 2B Class Room Gangaiamman Koil Street Poondamalli Road, Ekkatuthangal,
+Chennai-32 East Face Room",1.Ekkattuthangal.WardNo.168 Gandhi Nagar Main Road 2.Ekkattuthangal.WardNo.168 Gangaiamman Koil Street 3.Ekkattuthangal.WardNo.168 Damodharan Street 4.Ekkattuthangal.WardNo.168 Pattinathar Street 5.Ekkattuthangal.WardNo.168 Madhurai Meenakshi Street 6.Ekkattuthangal.WardNo.168 Arunagiri Street 7.Ekkattuthangal.WardNo.168 Thirumoolar Street,All Voters
+222,23,222,"Christian Nursery and primary school,Class Room-1 Dhanakottiraja street Eddatuthangal chennai-32 West Face Room",1.Ekkattuthangal.WardNo.168 Sornambigai Street 2.Ekkattuthangal.WardNo.168 Soanambigai 1st Lane 3.Ekkattuthangal.WardNo.168 Sornambigai 2nd Lane 4.Ekkattuthangal.WardNo.168 Sornambigai 3rd Lane 5.Ekkattuthangal.WardNo.168 Karunai Street 6.Ekkattuthangal.WardNo.168 Thiruvasakam Street 7.Ekkattuthangal.WardNo.168 Thanigai Malai Street 8.Ekkattuthangal.WardNo.168 Arumugam Street,All Voters
+223,23,223,"Christian Nursery and primary school,Class Room-2 Dhanakottiraja street Eddatuthangal chennai-32 West Face Roo","1.Ekkattuthangal.WardNo.168 Kaveri Street 2.Ekkattuthangal.WardNo.168 Valli Lane
+3.Ekkattuthangal.WardNo.168 Sardar Colony Main Road 4.Ekkatuthangal.WardNo.168 Munusamy Street 5.Ekkattuthangal.WardNo.168 Arulprakasam Street 6.Ekkattuthangal.WardNo.168 lakshmi vinayagar koil street 7.Ekkattuthangal.WardNo.168 thirumal street
+8.Ekkattuthangal.WardNo.168 Kasthuribai Street",All Voters
+224,23,224,"Christian Nursery and primary school,Class Room-2 Dhanakottiraja street Eddatuthangal chennai-32 West Face Room",1.Ekkattuthangal.WardNo.168 Dhanakotti Raja Street 2.Ekkattuthangal.WardNo.168 Sathya Nagar 1st Street 3.Ekkattuthangal.WardNo.168 Sathya Nagar 2nd Street 4.Ekkattuthangal.WardNo.168 Saminathan Street,All Voters
+225,23,225,"Chiristian Nursery and primary school,Class Room -3 Dhanakodiraja street Ekkatuthangal chennai-600032 West Face Room",1.Ekkatuthangal.Ward No.168 V.V.Koil Street 2.Ekkatuthangal.Ward No.168 Muthuramalingam Street 3.Ekkatuthangal.Ward No.168 Gandhi Nagar 4.Ekkattuthangal.WardNo.168 nakkiran street 5.Ekkattuthangal.WardNo.168 Shanmugaraja Street 6.Ekkattuthangal.WardNo.168 Samandhi Street,All Voters
+226,23,226,"E C I Matriculation Higher Sec. School, Class Room 2B C886 120 Feet Road, Ekkatuthangal, Chennai-32 East Face Room","1.Ekkattuthangal.WardNo.168 Poomagal 1st Street 2.Ekkattuthangal.WardNo.168 Poomagal 2nd Street 3.Ekkattuthangal.WardNo.168 Poomagal 3rd Street 4.Ekkattuthangal.WardNo.168 poomagal 4th street 5.Ekkattuthangal.WardNo.168 Poomagal 5th Street 6.Ekkattuthangal.WardNo.168 Thiruknanasambanthar Street 7.Ekkattuthangal.WardNo.168 Sardar Colony Main Salai 8.Ekkattuthangal.WardNo.168 Sardar Colony 1st Street 9.Ekkattuthangal.WardNo.168 Sardar Colony 2nd Street, Nehru Street 10.Ekkattuthangal.WardNo.168 Sardar Colony 3rd Street 11.Ekkattuthangal.WardNo.168 Sardar Colony 4th Street 12.Ekkattuthangal.WardNo.168 Sardar Colony 5th Street 13.Ekkattuthangal.WardNo.168 owaiyar street, ambal nagar",All Voters
+227,23,227,"E C I Matriculation Higher Sec. School, Class Room 3A 120 Feet Road, Ekkatuthangal, Chennai-32 East Face Room",1.Ekkattuthangal.WardNo.168 Poomagal Main Road 2.Ekkattuthangal.WardNo.168 Ambal Nagar Main Road 3.Ekkattuthangal.WardNo.168 Kannadasan Street 4.Ekkattuthangal.WardNo.168 Ganapathy Colony 1st Street 5.Ekkattuthangal.WardNo.168 Ganapathy Colony 1st Cross Street 6.Ekkattuthangal.WardNo.168 Ganapathy Colony 2nd Street 7.Ekkattuthangal.WardNo.168 Ganapathy Colony 2nd Cross Street 8.Ekkattuthangal.WardNo.168 Kapilar Street 9.Ekkattuthangal.WardNo.168 Rajaji Street,All Voters
+228,23,228,"E C I Matriculation Higher Sec. School, lass Room 3B 120 Feet Road, Ekkatuthangal, Chennai-32 East Face Room","1.Ekkattuthangal.WardNo.168 Bharathiyar Street 2.Ekkattuthangal, Ambal Nagar.Ward No.168 Viveganantha Street
+3.Ekkattuthangal, Ambal Nagar.Ward No.168 Sulai Pandiyan Street 4.Ekkattuthangal, Ganthi Nagar.Ward No.168 Thandavarayan Street 5.Ekkattuthangal, Ganthi Nagar.Ward No.168 Dhanapal Street
+6.Ekkattuthangal, Ganthi Nagar.Ward No.168 Anbu Street",All Voters
+229,23,229,"ECI Matriculation Higher Sec. School, Class Room 120 Feet Road Ekkatuthangal, Chennai-32 East Face Room","1.Ekkattuthangal.WardNo.168 Gandhi Nagar Extension 2.Ekkattuthangal.Wardno.168 kattabomman street 3.Ekkattuthangal.WardNo.168 Veeramamunivar Street 4.Ekkattuthangal. WardNo.168 Thiruvalluvar Street
+5.Ekkattuthangal.Wardno.168 v.o.c. street
+6.Ekkattuthangl.Ward No.168 Agathiyar Street 7.Ekkattuthangal.WardNo.168 Pallavan Street",All Voters
+230,23,230,"Christian Matriculation Higher Sec. School, Class Room Vandipadai Street
+,Ekkattuthangal, Chennai-32 West Face Room",1.Ekkattuthangal.Ward No140 Kalaimagal Nagar 2nd Street 2.Ekkattuthangal.WardNo.168 Ganapathi Nagar 2nd Street 3.Ekkattuthangal.WardNo.168 Ganapathi Nagar 1nd Street 4.Ekkattuthangal.WardNo.168 Ganapathi Nagar Extension,All Voters
+231,23,231,"Christian Matriculation Higher Sec. School,Class Room 2 Vandipadai Street
+,Ekkattuthangal, Chennai-32 West Face Room",1.Ekkattuthangal.WardNo.168 Kalaimagal 1st Main Road 2.Ekkattuthangal.WardNo.168 Kalaimagal Nagar 1st Cross Street 3.Ekkattuthangal.WardNo.168 Kalaimagal Nagar 2nd Cross Street 4.Ekkattuthangal.WardNo.168 kalaimagal nagar 3rd cross street 5.Ekkattuthangal.WardNo.168 Kalaimagal Nagar 4th Cross Street 6.Ekkattuthangal.WardNo.168 Kalaimagal Nagar 3rd Main Road 7.Ekkattuthangal.WardNo.168 Manjolai 1st Main Road 8.Ekkattuthangal.WardNo.168 Manjolai 2nd Main Road 9.Ekkattuthangal.WardNo.168 Navarathan Garden 1st Main Road 10.Ekkattuthangal.WardNo.168 Landmarvel Mercury Flat 11.Ekkattuthangal.WardNo.168 Navarathna Garden 2nd Main Road 12.Ekkattuthangal.WardNo.168 Navarathna Garden 2nd Cross Street 13.Ekkattuthangal.WardNo.168 Navarathna Garden 1st Cross Street 14.Ekkattuthangal.WardNo.168 Navarathna Garden 1st Street 15.Ekkattuthangal.WardNo.168 Rajarajan Street,All Voters
+232,23,232,"Christian Matriculation Higher Sec. School,Class Room 3 Vandipadai Street
+,Ekkattuthangal, Chennai-32 West Face Room",1.Ekkattuthangal.WardNo.168 Balaji Nagar 1st Main Road 2.Ekkattuthangal.WardNo.168 Balaji Nagar 2nd Main Road 3.Ekkattuthangal.WardNo.168 Balaji Nagar 1st Cross Street 4.Ekkattuthangal.WardNo.168 Balaji Nagar 2nd Cross Street 5.Ekkattuthangal.WardNo.168 Balaji Nagar 3rd Cross Street 6.Ekkattuthangal.WardNo.168 balaji nagar 4th cross street 7.Ekkattuthangal.WardNo.168 Balaji Nagar 5th Cross Street 8.Ekkattuthangal.WardNo.168 balaji nagar 6th cross street 9.Ekkattuthangal.WardNo.168 alavinayagar Koil Street (Ganapathi Street) 10.Ekkattuthangal.WardNo.168 Shankar Flat 11.Ekkattuthangal.WardNo.168 alaimagal Nagar 3rd Main Road (1st Lane),All Voters
+233,23,233,"Guindy arima sanga labour colony, Class
+Room-1Aguindy industural estate road chennai - 32 South Face Room",1.Guindy.Ward No.168 Reddy 1st Street 2.Guindy.Ward No.168 Reddy 2nd Street 3.Guindy.Ward No.168 Reddy 3rd Street 4.Guindy.Ward No.168 Alathiamman Koil Street 5.Guindy.Ward No.168 Nagi Reddy Thottam,All Voters
+234,23,234,"Guindy arima sanga labour colony, 1B Class
+Room-guindy industural estate road chennai - 32 South Face Room",1.Guindy.Ward No.168 Nagi Reddy Thottam 2.Guindy.Ward No.168 Arulalamman Pettai 1st Street 3.Guindy.Ward No.168 Arulalamman Pettai 2nd Street,All Voters
+235,23,235,"Guindy arima sanga labour colony ,Class Room-2A guindy industural estate road chennai - 32 South Face Room",1.Guindy.Ward No.168 guindy labour colony,All Voters
+236,23,236,"Guindy arima sanga labour colony, 2B guindy industural estate road chennai - 32 South Face Room","1.Guindy.Ward No.168 guindy labour colony 2.Guindy.Ward No.168 Labour Colony 3rd Street 3.Guindy.Ward No.168 Labour Colony 4th Street 4.Guindy.Ward No.168 labour colony 1st street 5.Guindy.Ward No.168 H T L Quarters
+6.Guindy.Ward No.168 A T I Quarters",All Voters
+237,23,237,"Guindy arima sanga labour colony, 2C guindy industural estate road chennai - 32 South Face Room",1.Guindy.Ward No.168 Labour Colony 2nd Street 2.Guindy.Ward No.168 Carttrak Labour Colony 3.Guindy.Ward No.168 Labour Colony (S. Q) 4.Guindy.Ward No.168 Labour Colony D Block 5.Guindy.Ward No.168 Labour Colony G Block 6.Guindy.Ward No.168 Labour Colony (Apartment),All Voters
+238,23,238,"Lady Nye Madras round Table - 1 Special Hr sec school, Class Room-1 Bajanai koil street Chennai-113 West Face Room",1.Pallipattu Kalingkunram.Ward No.170 Sriram Nagar Main Road 2.Pallipattu Kalingundram.Ward No.170 Sriram Nagar 1st Street 3.Pallipattu Kalingundram.Ward No.170 Sriram Nagar 2nd Street 4.Pallipattu Kalingundram.Ward No.170 Sriram Nagar 3rd Street 5.Pallipattu Kalingundram.Ward No.170 Sriram Nagar 4th Street 6.Pallipattu Kalingundram.Ward No.170 Sriram Nagar 5th Street 7.Pallipattu kalingundram.Ward No.170 r.l.i flats 5 block flats 8.Pallipattu Kalingundram.Ward No.170 Bajanai Koil Street,All Voters
+239,23,239,"Lady Nye Madras round Table - 1 Special Hr sec school, Class Room-1 Bajanai koil street Chennai-113 West Face Room","1.Pallipattu Kalingundram.Ward No.170 Sriram Nagar Colony 2.Pallipattu Kalingundram.Ward No.170 Yogi Garden Street
+3.Pallipattu Kalikundram.Ward No.170 Pallipattu Main Road ( Bajanai Koil Street)
+4.Pallipattu Kalikundram.Ward No.170 Ethiraj Street 1 to 22 5.Pallipattu Kallikundram.Ward No.170 Pallipattu Lane 1 to 19 6.Pallipattu Kalingundram.Ward No.170 New Street
+7.Pallipattu Kaligundram.Ward No.170 Kandhasami Street",All Voters
+240,23,240,"Lady Nye Madras round Table - 1 Special Hr sec school,Class Room-2 Bajanai koil street Chennai-113 West Face Room","1.Pallipattu.Ward No.170 kalikundram main road 2.Pallipattu.Ward No.170 Mayura Flats
+3.Pallipattu.Ward No.170 Kalikundram 1st Street 4.Pallipattu.Ward No.170 kalikundram 2nd street 5.Pallipattu.Ward No.170 Pilliyar Koil 1st Street 6.Pallipattu.Ward No.170 Pilliyar Koil 2nd Street
+7.Pallipattu.Ward No.170 Pilliyar Koil 3rd Street",All Voters
+241,23,241,"Lady Nye Madras round Table - 1 Special Hr sec school, Class Room-3 Bajanai koil street Chennai-113 West Face Room",1.Pallipattu.Ward No.170 Thiruveedhi Amman Koil Street Huts 2.Pallipattu.Ward No.170 Anna Street,All Voters
+242,23,242,"Vanavani Matriculation
+Hr sec schl, Class Room 1A IIT Campus Guindy Chennai-36 West Face Room","""1.I.I.T. Campus .Ward No.172
+I.I.T Campus New""
+2.I.I.T Campus.Ward No.172 4th Cross Street",All Voters
+243,23,243,"Vanavani Matriculation Hr sec schl,Class Room 1B IIT Campus Guindy Chennai-36 West Face Room","""1.I.I.T. Campus .Ward No.172
+I.I.T Campus New""
+2.I.I.T Campus.Ward No.172 Pan Avenue",All Voters
+244,23,244,"Vanavani Matriculation Hr sec schl,Class Room2A IIT Campus Guindy Chennai-36 West Face Room","1.I.I.T Campus.Ward No.172 3rd Cross Street
+2.I.I.T Campus.Ward No.172 8th Cross Street
+3.I.I.T Campus.Ward No.172 5th Cross Street
+4.I.I.T Campus.Ward No.172 9th Cross Street
+5.I.I.T Campus.Ward No.172 12th Loop Street
+6.I.I.T Campus.Ward No.172 12th Cross Street
+7.I.I.T Campus.Ward No.172 13th Cross Street
+8.I.I.T Campus.Ward No.172 14th Cross Street
+9.I.i.t campus.Ward No.172 Zig Zag Street
+10.I.I.T Campus.Ward No.172 Lakview Road
+11.I.i.t campus.Ward No.172 11th Street
+12.I.I.T Campus.Ward No.172 12th Street
+13.I.I.T Campus.Ward No.172 Delhi Avenue
+14.I.I.T Campus.Ward No.172 6th Cross Street 15I.I.T Campus.Ward No.172 1St Cross Street",All Voters
+245,23,245,"Advent Chirstian Middle school,Class Room-5th A Velachery Road Chennai-32 West Face Room",1.Gundiy.Ward No.172 Kannigapuram 1st Street 2.Gundiy.Ward No.172 Kannigapuram 2nd Street 3.Gundiy.Ward No.172 Kannigapuram 3rd Street 4.Gundiy.Ward No.172 Kannigapuram 4th Street 5.Gundiy.Ward No.172 Kannigapuram 5th Street 6.Gundiy.Ward No.172 Kannigapuram 6th Street 7.Gundiy.Ward No.172 Kannigapuram 7th Street 8.Gundiy.Ward No.172 Kannigapuram 8th Street 8.Gundiy.Ward No.172 Kannigapuram 8th Street 10.Gundiy.Ward No.172 Kannigapuram 10th Street 11.Gundiy.Ward No.172 Kannigapuram 11th Street 12.Gundiy.Ward No.172 Kannigapuram 12th Street 13.Gundiy.Ward No.172 Kannigapuram 13th Street 14.Gundiy.Ward No.172 Kannigapuram 14th Street 15.Gundiy.Ward No.172 Kannigapuram 15th Street,All Voters
+246,23,246,"Advent Chirstian Middle school,Class Room-5th A Velachery Road Chennai-32 West Face Room","1.Gundiy.Ward No.172 New Kannigapuram 1st Street 2.Gundiy.Ward No.172 NewKannigapuram 2nd Street 3.Gundiy.Ward No.172 NewKannigapuram 3rd Street
+4.Guindy Ward No.172 Sudharsan Gardan
+5.Guindy sardar patel road.Ward No.172 b.c.g. employees housing board a 34",All Voters
+247,23,247,"Advent Chirstian Middle school,Class Room-5th B Velachery Road Chennai-32 West Face Room",1.Gundiy.Ward No.172 Gul Mohar Avenue 2.Gundiy.Ward No.172 Kannigapuram 16th Street 3.Gundiy.Ward No.172 Kanniagapuram 17th Street 4.Gundiy.Ward No.172 Kannigapuram 18th Street 34 Street Garden,All Voters
+248,23,248,"Advent Chirstian Middle school,Class Room-5th C Velachery Road Chennai-32 West Face Room","1.Guindy Ward No.172 Alsadiyar Park
+2.Guindy Ward No.172 Raj Bhavan Governor House
+3.Guindy Ward No.172 Forest Officers Quarters
+4.Guindy Ward No.172 Raj Bhavan Colony",All Voters
+249,23,249,"Gurunanak College, Sindhu Block,Hall No-1 Velachery Main road Chennai-32 South Face Room",1.Guindy.Ward No.172 Nehru Nagar 1st Street 2.Guindy.Ward No.172 Nehru Nagar 3rd Street 3.Guindy.Ward No.172 Nehru Nagar 4th Street 4.Guindy.Ward No.172 Kanniyamman Koil Street 5.Guindy.Ward No.172 Pillaiyar koil Street,All Voters
+250,23,250,"Gurunanak College Sindhu Block,Hall No-2 Velachery Main road Chennai-32 South Face Room",1.Guindy.Ward No.172 anbalagan street 2.Guindy.Ward No.172 Govinda Samy Street 3.Guindy.Ward No.172 Bharathithasan Street,All Voters
+251,23,251,"Gurunanak College Sindhu Block ,Hall No- 3 Velachery Main road Chennai-32 South Face Room",1.Guindy.Ward No.172 Jeevanandam Street 2.Guindy.Ward No.172 Sathya Murthy Street 3.Guindy.Ward No.172 Nehru Nagar 2nd Street 4.Guindy.Ward No.172 Veeravanjinathan Street 5.Guindy.Ward No.172 K.V.K Samy Street,All Voters
+252,23,252,"Gurunanak College Sindhu Block ,Hall No- 4 Velachery Main road Chennai-32 South Face Room","1.Guindy, nehru nagar.WardNo.172 nedunchezhiyan street 2.Guindy, nehru nagar.WardNo.172 periyar street 3.Guindy.Ward No.172 New Colony",All Voters
+253,23,253,"Gurunanak College Sindhu Block,Hall No-5 Velachery Main road Chennai-32 South Face Room","1.Guindy, Nehru Nagar.WardNo.172, Anbil Dharmalingam Street Nehru Nagar 2.Guindy.Ward No.172 Madavan Street",All Voters
+254,23,254,"Gurunanak College Sindhu Block, Hall No 6 - Velachery Main road Chennai-32 South Face Room","1.Guindy.Ward No.172 Veerapandy Kattabomman Street 2.Guindy, Kamarajpuram.Ward No.172 Gandhi Street 1 to 67",All Voters
+255,23,255,"Gurunanak College Sindhu Block , Hall No- 7 Velachery Main road Chennai-32 South Face Room","1.Guindy Kamarajpuram.Ward No.172 Gangai Amman Koil 1st Street 2.Vellacherry.Ward No.172 marudu pandiyan salai 3.Vellacherry.Ward No.172 Pradap Chandran Street
+4.Guindy, ramarajpuram.Ward No.172 kannagi street 1 to 19",All Voters
+256,23,256,"Gurunanak College Sindhu Block,Hall No-8 Velachery Main road Chennai-32 South Face Room",1.Vellacherry.Ward No.172 Gangaiamman Koil Street Door no 1 to 100,All Voters
+257,23,257,"Gurunanak College Sindhu Block,Hall No-9 Velachery Main road Chennai-32 South Face Room",1.Vellacherry.Ward No.172 Gangaiamman Koil Street Door no 101 to 200,All Voters
+258,23,258,"Gurunanak Matriculation Higher Sec School ,Class Room-1 Velacherry Main Road, Chennai- 600042 South Face Room","1.Velacherry.Ward No.172 K.R Ramasamy Nagar 2.Velacherry.Ward No.172 Ambedkar Nagar
+3.Velacherry.Ward No.172 Castle Vings
+4.Velacherry.Ward No.172 Vasantham Apartments 5.Velacherry.Ward No.172 Police Quarters
+6.Velacherry.Ward No.172 Villa Espana
+7.Velacherry.Ward No.172 Anna Thottam 1st Street 8.Velacherry.Ward No.172 Anna Thottam 2nd Street 9.Velacherry.Ward No.172 Appalakulam Street 10.Velacherry.Ward No.172 Karumariyamman Koil Street
+11.Velachery.Ward No.172 nagendiran nagar 1 to 33",All Voters
+259,23,259,"Gurunanak Matriculation Higher Sec School,Class Room- 2 Velacherry Main Road, Chennai- 600042 South Face Room","1.Guindy Janakpuri.WardNo.172 Janakpuri 1st Street
+2.Guindy Janakpuri.WardNo.172 Sankaran Avenue
+3.Guindy Janakpuri.WardNo.172 Janakpuri 2nd Street 4.Guindy, Velachery Road.Ward No.172 Somasundaram Street 5.Guindy.Ward No.172 Pasumpon Street
+6.Velacherry.Ward No.172 Radha Mohan Street 7.Velacherry.Ward No.172 Pandiyan Street
+8.Velacherry.Ward No.172 Rajagopalan Street",All Voters
+260,23,260,"Gurunanak Matriculation Higher Sec School, Class Room-3 Velacherry Main Road, Chennai- 600042 South Face Room","1.Velacherry.Ward No.172 bharathi street kamarajapuram 2.Velacherry.Ward No.172 Pandi Durai Street
+3.Velacherry.Ward No 172 Kumaran Street
+4.Velacherry.Ward No 172 Ganapathy Nagar 1st Street 5.Velacherry.Ward No 172 Ganapathy Nagar 2nd Street",All Voters
+261,23,261,"Chennai Higher Sec. School, 1A-Class Room Maduvankarai Five Furlong Salai, Chennai- 600032 North Face Room","1.Guindy bharathi nagar.Ward No.172 bharathi nagar main road
+2.Guindy Bharathi Nagar.Ward No.172 Nethaji Street
+3.Guindy Bharathi Nagar.Ward No.172 Krishnamoorthy Street
+4.Guindy Bharathi Nagar.Ward No.172 Pilliyar Koil Street",All Voters
+262,23,262,"Chennai Higher Sec. School, 1B-Class Room Maduvankarai Five Furlong Salai, Chennai- 600032 North Face Room","1.Guindy bharathi nagar.Ward No.172 m.g.r.street
+2.Guindy Bharathi Nagar.Ward No.172 Race Course Road 3.Guindy.Ward No.172 Sigal Race View Apartments 60 4.Guindy.Ward No.172 Tank Square Street",All Voters
+263,23,263,"Chennai Higher Sec. School, 1D-Class Room Maduvankarai Five Furlong Salai, Chennai- 600032 North Face Room","1.Guindy.Ward No.172 race course innerroad appartments 2.Guindy.Ward No.172 Dr Ambedkar Street
+3.Guindy.Ward No.172 Race Corce Street
+4.Guindy.Ward No.172 Race View Colony 1st Street 5.Guindy.Ward No.172 Race View Colony 2nd Street 6.Guindy.Ward No.172 chandira flats 7.Guindy.Ward No.172 Race View Colony 3rd Street",All Voters
+264,23,264,"Chennai Higher Sec. School, 1C Class Room Maduvankarai, Chennai-32 North Face Room",1.Guindy Ward No.172 Chakrapani Salai 2.Guindy.WardNo 172 K.V.Appartments 3.Guindy.Ward No.172 Narasingapuram Extn. 4.Guindy.Ward No.172 Narasingapuram 1st Street 5.Guindy.Ward No.172 Narasingapuram 2nd Street,All Voters
+265,23,265,"Chennai Higher Sec. School, Class Room-- 1E &FMaduvankarai Five Furlong Salai, Chennai-600032 North Face Room",1.Guindy.Ward No.172 Narasingapuram 3rd Street 2.Guindy.Ward No.172 Narasingapuram 4th Street 3.Guindy.Ward No.172 Narasingapuram 5th Street 4.Guindy.Ward No.172 Narasingapuram 6th Street 5.Guindy.Ward No.172 Narasingapuram 8th Street 6.Guindy.Ward No.172 Narasingapuram Main Salai 7.Guindy.Ward No.172 Narasingapuram 7th Street,All Voters
+266,23,266,"Beeta Matriculation HR sec school,Class Room 1st A Vandikaran street Maduvankarai chennai- 32 East Face Room","1.Guindy.Ward No.172 Ranganathan Street 2.Guindy.Ward No.172 thirumurugan street 3.Guindy.Ward No.172 raman avenue 4.Guindy.Ward No.172 Vandikaran Road
+5.Guindy.Ward No.172 Selva Vinayagar Quarters 6.Guindy.Ward No.172 Sangeetha Apartment
+7.Guindy.Ward No.172 Rasi Apartments",All Voters
+267,23,267,"Beeta Matriculation HR sec school,Class Room 1st B Vandikaran street Maduvankarai chennai- 32 East Face Room","1.Guindy.Ward No.172 vandikaran street 2.Guindy.Ward No.172 race view apartment 3.Guindy.Ward No.172 Gokulam Colony 4.Guindy.Ward No.172 Gopalakrishnan Street 5.Guindy.Ward No.172 Kannan Apartments 6.Guindy.Ward No.172 Kala Flats
+7.Guindy.Ward No.172 CTS Avenue Whole Block",All Voters
+268,23,268,"Beeta Matriculation HR sec school,Class Room 2nd A Vandikaran street Maduvankarai chennai- 32 East Face Room","1.Guindy.Ward No.172 Angalamman Kovil 2nd Street 2.Guindy.Ward No.172 CTS Guindy Enclave 3.Guindy.Ward No.172 Vandikaran Street 4.Guindy.Ward No.172 Angalamman Koil 1st Street 5.Guindy.Ward No.172 Agilandeswari Apartment 6.Guindy.Ward No.172 Balaji Avenue 7.Guindy.Ward No.172 Vingneshwara Street
+8.Guindy.Ward No.172 Chandran Street",All Voters
+269,23,269,"Beeta Matriculation HR sec school,Class Room - 2nd B Vandikaran street Maduvankarai chennai- 32 East Face Room","1.Guindy.Ward No.172 Mettupalayam New Street 2.Guindy.Ward No.172 Chandiran Street
+3.Guindy.Ward No.172 New Number 1 Mahalakshmi Flat A Block 4.Guindy.Ward No.172 mahalakshmi flat b block
+5.Guindy.Ward No.172 Mahalakshmi Flat C Block 6.Guindy.Ward No.172 Umapathy Thottam
+7.Guindy.Ward No.172 Secretariat Colony City Limit Road",All Voters
+270,23,270,"Chennai Higher Sec. School, Class Room - 1st A Maduvankarai Five Furlong Salai, Chennai-600032 East Face Room",1.Gindy.Ward No.172 Manthoppu 1st Street 2.Guindy.Ward No.172 Manthoppu 2nd Street 3.Guindy.Ward No.172 Manthoppu 3rd Street,All Voters
+271,23,271,"Chennai Higher Sec. School,Class Room - 1st B Maduvankarai Five Furlong Salai, Chennai-600032 East Face Room","1.Guindy.Ward No.172 Sengoniyamman Koil 1st Street
+2.Guindy. Ward No.172 Sengalani Amman Koil Main Street 3.Guindy.Ward No.172 Sindicate Apartment",All Voters
+272,23,272,"Chennai Higher Sec. School,Class Room - 1st C Maduvankarai Five Furlong Salai, Chennai-600032 East Face Room","1.Guindy.Ward No.172 Sengalani Amman Koil 2nd Street 2.Guindy.Ward No.172 Sristy Apartment
+3.Guindy.Ward No.172 Sai Krishna Apartment 4.Guindy.Ward No.172 Five
+Furlong Salai Lane 5.Guindy.Ward No.172 Five Furlong Salai 1st Street 6.Guindy.New Ward No.172 Mangoliya Apartment",All Voters
+273,23,273,"Chennai Higher Sec. School, Class Room - 2nd A Maduvankarai Five Furlong Salai, Chennai-600032 East Face Room",1.Guindy.Ward No.172 Five Furlong Road Lane,All Voters
+274,23,274,"Chennai Higher Sec. School, Class Room - 2nd B Maduvankarai Five Furlong Salai, Chennai-600032 East Face Room",1.Guindy.Ward No.172 Maduraiveen Koil Street 2.Guindy.Ward No.172 sathanipet 1st street 3.Guindy.Ward No.172 Sathanipet 2nd Street,All Voters
+275,23,275,"Chennai Higher Sec. School, Class Room - 3rd A Maduvankarai Five Furlong Salai, Chennai-600032 East Face Room",1.Guindy.Ward No.172 Masudi Colony 2nd Street 2.Guindy.Ward No.172 masudi colony 3rd street 3.Guindy.Ward No.172 Masudi Colony 4th Street 4.Guindy.Ward No.172 Mosque Colony 11th Street 5.Guindy.Ward No.172 Masudi Colony 8th Street,All Voters
+276,23,276,"Chennai Higher Sec. School, Class Room - 3rd B Maduvankarai Five Furlong Salai, Chennai-600032 East Face Room",1.Guindy.Ward No.172 masudi colony 5th street 2.Guindy.Ward No.172 Masudi Colony 6th Street 3.Guindy.Ward No.172 Masudi Colony 7th Street,All Voters
+277,23,277,"Chennai Higher Sec. School, Class Room - 4th A Maduvankarai Five Furlong Salai, Chennai-600032 East Face Room",1.Guindy.Ward No.172 Pilliyar Koil Street 1 to 75,All Voters
+278,23,278,"Chennai Higher Sec. School, Class Room - 4th B Maduvankarai Five Furlong Salai, Chennai-600032 East Face Room",1.Guindy.Ward No.172 Pilliyar Koil Street 1 to 75,All Voters
+279,23,279,"Chennai Higher Sec. School, Class Room - 5th A Maduvankarai Five Furlong Salai, Chennai-600032 East Face Room",1.Guindy.Ward No.172 Pillaiyar Koil Street (76 to end),All Voters
+280,23,280,"Chennai Primary
+School, Class Room - 5th B Maduvankarai Five Furlong Salai, Chennai-600032 East","1.Guindy.Ward No.172 Golds View Apartment 2.Guindy.Ward No.172 Masudi Colony 1st Street
+3.Guindy Maduvinkarai.WardNo.172 Masuthi Colony 14th Street",All Voters
+281,23,281,"Chennai Primary . School, Class Room - 6th A Maduvankarai Five Furlong Salai, Chennai-600032","1.Guindy Maduvinkarai.WardNo.172 Masuthi Colony 13th Street
+2.Guindy Maduvankarai.WardNo.172 Masuthi Colony 15th Street
+3.Guindy Maduvankarai.WardNo.172 Masuthi Colony 16th Street
+4.Guindy Maduvankarai.WardNo.172 Masuthi Colony 17th Street
+5.Guindy Maduvankarai.WardNo.172 Masuthi Colony 9th Street",All Voters
+282,23,282,"Chennai primary  School,Class Room - 6th B Maduvankarai Five Furlong Salai, Chennai-600032 East Face Room","1.Guindy.Ward No.172 Mettu Street
+2.Guindy.Ward No.172 new street mosque colony street 3.Guindy.Ward No.172 Mosque Colony 10th Street 4Guindy.Ward No.172 Mosque Colony 12th Street 5.Guindy.Ward No.172 Nethaji Road",All Voters

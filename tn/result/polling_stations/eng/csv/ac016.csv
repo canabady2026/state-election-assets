@@ -1,0 +1,859 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+1,16,1,"GCC Community Hall, Thideer Nagar, Purasaiwakkam Chennai - 600007.",1 - Purasaiwakkam Ward No. 99 Burial Ground Road Huts,All Voters
+2,16,2,"GCC Community Hall,Thideer Nagar,purasaiwakkam Chennai-600007",1 - Purasaiwakkam Ward No. 99 Thideer Nagar,All Voters
+3,16,3,"E.L.M.Fabricius Higher Secondary School, No.54,Purasaiwakkam High Road,Chennai-600084.",1 - Purasaiwakkam New Ward No. 99 Bricklin Street(Arinthant Vaikunt Apartment 123-125 Bricklyn Road) 2 - Purasaiwakkam Ward No. 99 Salaima Nagar,All Voters
+4,16,4,"Chennai Middle School, Sundaram Street, Purasaiwakkam, Chennai- 600007.","1 - Purasaiwakkam Ward No. 99 R. K. Puram(T N S C B)
+2 - Purasaiwakkam Ward No. 99 Ponnan 1st Lane",All Voters
+5,16,5,"Chennai Middle School, Sundaram Street, Purasaiwakkam, Chennai- 600007.",1 - Purasaiwakkam New Ward No. 99 Burial Ground Road Huts( TVH Lumbini Square 127-128 Brickline Road),All Voters
+6,16,6,"E.L.M.Fabricius Higher Secondary School, No.54,Purasaiwakkam High Road,Chennai-600084.","1 - Purasaiwakkam Ward No. 99 Sadhasivam Street
+2 - Purasaiwakkam Ward No. 99 Sundarampillai Lane
+3 - Puraisaiwakkam Ward No. 99 Paaters Street",All Voters
+7,16,7,"Chennai Middle School, Sundaram Street, Purasaiwakkam, Chennai- 600007.","1 - Purasaiwakkam Ward No. 99 Ponnan Street (Huts)
+2 - Purasaiwakkam Ward No. 99 Ponnan Street
+3 - Purasaiwakkam Ward No. 99 New West Thandavarayan Street",All Voters
+8,16,8,"Chennai Middle School, Sundaram Street, Purasaiwakkam, Chennai- 600007.","1 - Purasaiwakkam Ward No. 99 Ponnan 2nd Lane
+2 - Purasaiwakkam Ward No. 99 Ponnan 3rd Lane
+3 - Purasaiwakkam Ward No. 99 Salaima Nagar",All Voters
+9,16,9,"Chennai Middle School, Sundaram Street, Purasaiwakkam, Chennai- 600007.","1 - Purasaiwakkam Ward No. 99 Veerasamy Street
+2 - Purasaiwakkam Ward No. 99 Solaiamman Kovil Street
+3 - Purasaiwakkam Ward No. 99 Shanmugarayan Street",All Voters
+10,16,10,"Chennai Middle School, Sundaram Street, Purasaiwakkam, Chennai- 600007.","1 - Purasaiwakkam Ward No. 99 Thandavarayan Street
+2 - Purasaiwakkam Ward No. 99 Nancy Street
+3 - Purasaiwakkam Ward No. 99 Kandappan Street
+4 - Purasaiwakkam Ward No. 99 Thandavan Street",All Voters
+11,16,11,"Chennai Middle School, Sundaram Street, East Side Building, Purasaiwakkam, Chennai-600007.","1 - Purasaiwakkam Ward No. 99 Sundaram Street
+2 - Purasaiwakkam Ward No. 99 Bakthavachalam Street
+3 - Purasaiwakkam Ward No. 99 Rathinasabapathy Street",All Voters
+12,16,12,"Chennai Middle School, Sundaram Street, Purasaiwakkam, Chennai- 600007.","1 - Purasaiwakkam Ward No. 99 Vasudevan Street
+2 - Purasaiwakkam Ward No. 99 Parthasarathy Street
+3 - Purasaiwakkam Ward No. 99 Solaiyappa Street
+4 - Purasaiwakkam Ward No. 99 Solaiamman Kovil Lane",All Voters
+13,16,13,"Chennai District Library Centre, Sundaram Lane, Purasaiwakkam, Chennai - 600007.","1 - Purasaiwakkam Ward No. 99 Subramaniyan Street
+2 - Purasaiwakkam Ward No. 99 Muthiyalu Street
+3 - Purasaiwakkam Ward No. 99 Pandaram Street
+4 - Purasaiwakkam Ward No. 99 Grama Street",All Voters
+14,16,14,"E.L.M.Fabricius Higher Secondary School, No.54,Purasaiwakkam High Road,Chennai-600084.","1 - Purasaiwakkam Ward No. 99 Menod Street
+2 - Purasaiwakkam Ward No. 99 Perumal 1st Street
+3 - Purasaiwakkam Ward No. 99 Perumal 2nd Street",All Voters
+15,16,15,"C. S. I. Middle School, Sundaram Street, Purasaiwakkam, Chennai- 600007.","1 - Purasaiwakkam Ward No. 99 Chellappan Street
+2 - Purasaiwakkam Ward No. 99 Arasappa Street
+3 - Purasaiwakkam Ward No. 99 Muthiyalu (Naikkan) Street 999 - Overseas Elector",All Voters
+16,16,16,"C.S.I Middle School,No.26, Tana Street
+,Purasaiwakkam,Chennai-600007","1 - Kosapet Ward No. 78 Mookku Street Door No 1 to 55 and 2 to 20
+2 - Purasaiwakkam Ward No. 78 New Manickam Street
+3 - Purasaiwakkam Ward No. 78 Hendricks Lane
+4 - Purasaiwakkam Ward No. 78 Ponnan Lane
+5 - Purasaiwakkam Ward No. 78 Venkatesan Street 999 - Overseas Elector",All Voters
+17,16,17,"C S I Middle School,No. 26, Tana Street
+,Purasaiwakkam Chennai-600007","1 - Purasaiwakkam Ward No. 78 Eami Street
+2 - Purasaiwakkam Ward No. 78 Vadamalai Street ( Door No 57 to 85 and 54 to 84)
+3 - Purasaiwakkam Ward No. 78 Kulandaivelu Street",All Voters
+18,16,18,"Corporation Womens Gym Building ,Arunachala Pandaram Street, Purasaiwakkam, Chennai - 600007.",1 - Kosapet Ward No. 78 Sachidanandam Street Door No 120 To 287,All Voters
+19,16,19,"ICDS Centre ,Muthu Street
+,Purasaiwakkam,Chennai-600007",1 - Kosapet Ward No. 78 Sachidanandam Huts Area,All Voters
+20,16,20,"Chennai Middle School, Earan Street (New Manickam Street), Purasawakkam, Chennai - 600007.","1 - Purasaiwakkam Ward No. 78 Muthu nayakkan Street
+2 - Kosapet Ward No. 78 Vinaitheertha Vinayakar Kovil Street, Door No 53 to 108 and 50 to 98",All Voters
+21,16,21,"Chennai Middle School, Earan Street (New Manickam Street), Purasawakkam, Chennai - 600007.","1 - Purasaiwakkam Ward No. 78 Arunachalam Pandaram Street
+2 - Purasaiwakkam Ward No. 78 Earan Street",All Voters
+22,16,22,"Chennai Middle School,Earan Street (New Manickam Street),Purasaiwakkam,chennai-600007","1 - Kosapet Ward No. 78 Venkatesa Naicken Street
+2 - Kosapet Ward No. 78 Chinnathambi Street Door No 59 to 117
+and 44 to 88",All Voters
+23,16,23,"C. S. I. Middle School, Centre Part 34, Vallam Bangaru Street, Purasaiwakkam, Chennai - 600007.","1 - Kosapet Ward No. 78 Kandasamy Kovil Street Door No 103 to 161 and 86 to 126
+2 - Purasaiwakkam Ward No. 78 Muthu Street",All Voters
+24,16,24,"C S I Middle School,Centre Vallam bangaru Street
+,Purasaiwakkam chennai-600007","1 - Purasaiwakkam Ward No. 78 Kutty Street
+2 - Purasaiwakkam Ward No. 78 Vallam Bangaru Street",All Voters
+25,16,25,"T. E. L. C Megdalene girls Higher Secondary School, Centre Building Room , Kandappa Street, Purasaiwakkam, Chennai - 600007.","1 - Purasaiwakkam Ward No. 78 Kandappa high Road (Thana Street)
+2 - Purasaiwakkam Ward No. 78 Kamadenu Maligai (Kandappa High Road)
+3 - Purasaiwakkam Ward No. 78 Kariappa Street Door No.27 To 51 and 28 To 52
+4 - Purasaiwakkam Ward No. 78 White Field
+Apartments(Venkatachalam Street)",All Voters
+26,16,26,"T. E. L. C Megdalene girls Higher Secondary School, Centre Building Room , Kandappa Street, Purasaiwakkam, Chennai - 600007.","1 - Purasaiwakkam Ward No. 78 Murugappa Street
+2 - Purasaiwakkam Ward No. 78 Mookathal Street Door No 1 to 51
+and 2 to 58
+999 - Overseas Elector",All Voters
+27,16,27,"T. E. L. C Megdalene girls Higher Secondary School, Centre Building Room , Kandappa Street, Purasaiwakkam, Chennai - 600007.","1 - Purasaiwakakm Ward No. 78 Kandappa Street ( Achari Street )
+2 - Purasaiwakkam Ward No. 78 Venkatachalam Street
+3 - Purasaiwakkam Ward No. 78 Prasanna Vinayakar Kovil Street",All Voters
+28,16,28,"Chennai Middle School, No.3, Avadhanapapier Street, Choolai, Chennai - 600112.","1 - Choolai Ward No. 58 Avadhana Papier Road Door No 1 TO 83 and 2 to 72
+2 - Choolai Ward No. 58 Subaitha Apartments (Avadhana Papier Road)
+3 - Choolai Ward No. 58 Roopkamal Apartments (Avadhana Papier Road)
+999 - Overseas Elector",All Voters
+29,16,29,"Chennai Middle School, No.3, Avadhanapapier Street, Choolai, Chennai - 600112.","1 - Choolai Ward No. 58 avadhana papier Road door no 85 to 153 and 74 to 124
+2 - Choolai Ward No. 58 Adarsh Jeevan Apartments ( Avadhana Papier Road)
+3 - Choolai Ward No. 58 R. E. Apartments (Avadhana Papier Road)
+4 - Choolai Ward No. 58 R. E apartments (Avadhana Papier Road)",All Voters
+30,16,30,"Chennai Middle School, No.13, Vaikakakaran Street, Choolai, Chennai - 600007..","1 - Purasaiwakkam Ward No. 58 Valluvan Street
+2 - Purasaiwakkam Ward No. 58 Venkatachalam Street
+3 - Purasaiwakkam Ward No. 58 Muthu Street
+4 - Purasaiwakkam Ward No. 58 Kariyappa Street Door No 1 to 25
+and 2 to 26
+5 - Purasaiwakkam Ward No. 58 Varsha Apartments (Kariappa Street)",All Voters
+31,16,31,"Chennai Middle School, No.13, Vaikakakaran Street, Choolai, Chennai - 600007.","1 - Purasaiwakkam Ward No. 58 Sriram Dev Pavapuri Apartments (Kariappa Street)
+2 - Purasaiwakkam Ward No. 58 Mookathal Street Door No 53 to 83 and 60 to 88
+3 - Purasaiwakkam Ward No. 58 Royal Palace (Mookathal Street)
+4 - Purasaiwakkam Ward No. 58 Fareland Apartments (Mookathal Street)
+5 - Purasaiwakkam Ward No. 58 Prestige Palace (Mookathal Street)
+6 - Purasaiwakkam Ward No. 58 Saimuthyam Apartments (Mookathal Street)-
+7 - Purasaiwakkam Ward No. 58 Malaiyappan Street (Bishop Lane)
+8 - Purasaiwakkam Ward No. 58 Vaikakaran Street",All Voters
+32,16,32,"Sri Muthukumarasami Devasthanam P. Venugopal Chetti Higher Secondary School, No.11, Rotler Street, Choolai, Chennai - 600112.","1 - Choolai Ward No. 58 Rotler Street
+2 - Choolai Ward No. 58 Hunters Road
+3 - Choolai Ward No. 58 Surabhi Apartments (Hunters Road)
+4 - Choolai Ward No. 58 Vasubujiya (Hunters Road)",All Voters
+33,16,33,"Sri Muthukumarasami Devasthanam P. Venugopal Chetti Higher Secondary School, No.11, Rotler Street, Choolai, Chennai - 600112.","1 - Choolai Ward No. 58 Hunters Lane
+2 - Choolai Ward No. 58 Dallyth Street
+3 - Choolai Ward No. 58 Vichoor Muthaiah Street
+4 - Choolai Ward No 58 Gopal Menon Street
+5 - Choolai Ward No. 58 Dharmaraja Kovil Street",All Voters
+34,16,34,"Chennai Girls Higher Secondary School, No.3, Rotler Street, Choolai, Chennai - 600112.","1 - Purasaiwakkam Ward No. 58 Thirumalaiyappan Street
+2 - Purasaiwakkam Ward No. 58 Vadamalai Street Door No 1 to 55
+and 2 to 54
+3 - Choolai Ward No. 58 Kellys Lane
+4 - Choolai Ward No. 58 Jaijithendra (Kellys Lane)",All Voters
+35,16,35,"Chennai Girls Higher Secondary School, No.3, Rotler Street, Choolai, Chennai - 600112.",1 - Choolai Ward No. 58 Kalathiyappa Street,All Voters
+36,16,36,"Chennai Girls Higher Secondary School, No.3, Rotler Street, Choolai, Chennai - 600112.",1 - Choolai New Ward No.58 Kalathiyappa Street,All Voters
+37,16,37,"Chennai Girls Higher Secondary School, No.3, Rotler Street, Choolai, Chennai - 600112.","1 - Choolai Ward No. 58 Sankeshwara Apartments (Kalathiappa Street)
+2 - Choolai Ward No. 58 Kalpaviraksha (Kalathiappa Street)
+3 - Purasaiwakkam Ward No. 58 Vedha Vinayagar Road (Perambur Barracks Road) Door No 111 to 177 upto 4 and 118 to
+164
+4 - Choolai Ward No. 58 Varadachari Lane
+5 - Purasaiwakkam Ward No. 58 Ruby Park (Perambur Barracks Road)",All Voters
+38,16,38,"Chennai Middle School, No.72, Avadhanapapier Street, Choolai, Chennai - 600112.","1 - Choolai Ward No. 78 Raghavan Street
+2 - Choolai Ward No. 78 Avadhana Papier 1st Lane 999 - Overseas Elector",All Voters
+39,16,39,"Chennai Middle School, No.72, Avadhanapapier Street, Choolai, Chennai - 600112.","1 - Choolai Ward No. 78 Nammalwar Street
+2 - Choolai Ward No. 78 Narasinga Perumal Kovil Street",All Voters
+40,16,40,"Chennai Middle School, No.72, Avadhanapapier Street, Choolai, Chennai - 600112.","1 - Choolai Ward No. 78 Manickam Street
+2 - Choolai Ward No. 78 Ashtapujam 1st Lane
+3 - Choolai Ward No. 78 Ashtapujam 2nd Lane (Murugesan Street)",All Voters
+41,16,41,"Corporation Noon-Meal Centre, No. 552, 553, 1, Asthapujam Road, Choolai Chennai - 600112.",1 - Choolai Ward No. 78 Ashtapujam Road,All Voters
+42,16,42,"Corporation Noon-Meal Centre, No. 552, 553, 1, Asthapujam Road, Choolai Chennai - 600112.","1 - Choolai Ward No. 78 Chenna Kesava Perumal Kovil Street (Huts Area)
+2 - Choolai Ward No. 78 Ranghu Lane",All Voters
+43,16,43,"Aroma Nursery and Primary School, No.96/74, Asthapujam Road, Choolai - 600112.","1 - Choolai Ward No. 78 Kancheepuram Munusamy Street
+2 - Choolai Ward No. 78 Madurai Street
+""3 - Choolai Ward No. 78 Angalamman Kovil Street Door No 135 TO 177 and 34
+TO 62""
+4 - Choolai Ward No. 78 Angalamman Kovil East Mada Street
+5 - Choolai Ward No. 78 Angalamman Kovil West Mada Street
+6 - Choolai Ward No. 78 Angalamman Kovil South Mada Street",All Voters
+44,16,44,"Aroma Nursery and Primary School, No.96/74, Asthapujam Road, Choolai - 600112.","1 - Choolai Ward No. 78 Vedha Vinayagar Road (Perambur Barracks Road) Door No 67 to 119 and 52 to 108
+2 - Choolai Ward No. 78 Saffair Square (Vedha Vinayagar Road)
+3 - Choolai Ward No. 78 Rangaiah Street
+4 - Choolai Ward No. 78 Cheethalai Street",All Voters
+45,16,45,"Corporation Division Office Campus, No.18, Old Slaughter House Street, Choolai, Chennai - 600112.","1 - Choolai Ward No. 77 Govindaraj Street
+2 - Choolai Ward No. 77 Sait Jesvanthmal Sowkar Street
+3 - Choolai Ward No. 77 Sait Mohanlal Sowcar Street",All Voters
+46,16,46,"Corporation Division Office Campus, No.18, Old Slaughter House Street, Choolai, Chennai - 600112.","1 - Choolai Ward No. 77 Govinda Achari Street
+2 - Choolai Ward No. 77 Munusamy Street
+3 - Choolai Ward No. 77 Kaattur Nallamuthu Main Road",All Voters
+47,16,47,"Corporation Division Office Campus, No.18, Old Slaughter House Street, Choolai, Chennai - 600112.","1 - Choolai Ward No. 77 Angalamman Kovil Huts Area
+2 - Choolai Ward No. 77 Payala Pachayappa Street
+3 - Choolai Ward No. 77 Jangar Bakthar Street
+4 - Choolai Ward No. 77 Corporation 2nd Lane
+5 - Choolai Ward No. 77 Angalamman Kovil North Mada Street
+6 - Choolai Ward No. 77 Arimuthu Street",All Voters
+48,16,48,"Corporation Division Office Campus, No.18, Old Slaughter House Street, Choolai, Chennai - 600112.","1 - Choolai Ward No. 77 Ruthirappa Street
+2 - Choolai Ward No. 77 Thulasi Street
+3 - Choolai Ward No. 77 Oil Mill Street
+4 - Choolai Ward No. 77 Santhiappan Street 999 - Overseas Elector",All Voters
+49,16,49,"Corporation Division Office Campus, No.18, Old Slaughter House Street, Choolai, Chennai - 600112.","1 - Choolai Ward No. 77 Thottikalai Kumarappa Street
+2 - Choolai Ward No. 77 Avadi Srinivasan Street 999 - Overseas Elector",All Voters
+50,16,50,"Hindu Union Committee Middle School, No.54, Demellows Road, Pullianthope, Chennai - 600012.","1 - Choolai Ward No. 77 Demellows Road New No 1 to 169 and 2 to
+144",All Voters
+51,16,51,"Corporation Division Office Campus, No.18, Old Slaughter House Street, Choolai, Chennai - 600112.","1 - Choolai Ward No. 77 Sait Bakthawarmal Sowcar Street
+2 - Choolai Ward No. 77 Old Slaughter House Street
+3 - Choolai Ward No. 77 Kuzhandhai Street
+4 - Choolai Ward No. 77 Ayyavu Street",All Voters
+52,16,52,"Hindu Union Committee Middle School, No.54, Demellows Road, Pullianthope, Chennai - 600012.","1 - Choolai Ward No. 77 Kattoor Nallamuthu 1st Lane
+2 - Choolai Ward No. 77 Kattoor Nallamuthu 2nd Lane
+3 - Choolai Ward No. 77 Kattoor Nallamuthu 3rd Lane
+4 - Choolai Ward No. 77 Play Ground 1st Street
+5 - Choolai Ward No. 77 Play Ground 2nd Street
+6 - Choolai Ward No. 77 Old Slaughter House Corporation 1st Lane
+7 - Choolai Ward No. 77 Old Slaughter House Corporation 3rd Lane",All Voters
+53,16,53,"Hindu Union Committee Middle School, No.54, Demellows Road, Pullianthope, Chennai - 600012.","1 - Pulianthope Ward No. 77 Gurusamy Nagar 9th Street
+2 - Pulianthope Ward No. 77 Gurusamy Nagar 10th Street
+3 - Pulianthope Ward No. 77 Kumarasamy Rajapuram 1st Street
+4 - Pulianthope Ward No. 77 Kumarasamy Rajapuram 2nd Street
+5 - Pulianthope Ward No. 77 Kumarasamy Rajapuram 3rd Street",All Voters
+54,16,54,"Hindu Union Committee Middle School, No.54, Demellows Road, Pullianthope, Chennai - 600012.","1 - Pulianthope Ward No. 77 Kesava PoongaTamil Nadu Urban Habitat Development Board 1st Block
+2 - Pulianthope Ward No. 77 kesava PoongaTamil Nadu Urban Habitat Development Board. 2nd Block
+3 - Pulianthope Ward No. 77 Kesava PoongaTamil Nadu Urban Habitat Development Board. 3rd Block
+4 - Pulianthope Ward No. 77 kesava PoongaTamil Nadu Urban
+Habitat Development Board 4th Block",All Voters
+55,16,55,"Hindu Union Committee Middle School, No.54, Demellows Road, Pullianthope, Chennai - 600012.","1 - Pulianthope Ward No. 77 Kesava PoongaTamil Nadu Urban Habitat Development Board. 7th Block
+2 - Pulianthope Ward No. 77 Kesava PoongaTamil Nadu Urban Habitat Development Board. 8th Block
+3 - Pulianthope Ward No. 77 Kesava ParkTamil Nadu Urban Habitat Development Board 10th Block
+4 - Pulianthope Ward No. 77 Kesava ParkTamil Nadu Urban Habitat Development Board 11th Block
+5 - Pulianthope Ward No. 77 Kesava ParkTamil Nadu Urban Habitat Development Board 14th Block",All Voters
+56,16,56,"Hindu Union committee Middle School
+,No.54,Demellows road,Pulianthope,Chennai-600012","1 - Pulianthope Ward No. 77 Kesava ParkTamil Nadu Urban Habitat Development Board 15th Block
+2 - Pulianthope Ward No. 77 Kesava Poonga Park 13th BlockTamil Nadu Urban Habitat Development Board.
+3 - Pulianthope Ward No. 77 Kesava PoongaTamil Nadu Urban Habitat Development Board. 5th Block
+4 - Pulianthope Ward No. 77 Kesava PoongaTamil Nadu Urban
+Habitat Development Board. 6th Block",All Voters
+57,16,57,"Hindu Union Committee Middle School, No.54, Demellows Road, Pullianthope, Chennai - 600012.","1 - Pulianthope Ward No. 77 Kesava ParkTamil Nadu Urban Habitat Development Board 16th Block New No 721 to 750  2 - Pulianthope Ward No. 77 Kesava ParkTamil Nadu Urban Habitat Development Board 27th Block
+3 - Pulianthope Ward No. 77 KesavaParkTamil Nadu Urban Habitat Development Board 17th Block
+4 - Pulianthope Ward No. 77 Kesava ParkTamil Nadu Urban Habitat Development Board 18th Block
+5 - Pulianthope Ward No. 77 Kesava ParkTamil Nadu Urban Habitat Development Board 19th Block
+999 - Overseas Elector",All Voters
+58,16,58,"I C D S Centre, Demellows Road, Pullianthope,Chennai - 600012.","1 - Pulianthope Ward No. 77 Kesava ParkTamil Nadu Urban Habitat Development Board 9th Block
+2 - Pulianthope Ward No. 77 Kesava ParkTamil Nadu Urban Habitat Development Board 20th Block
+3 - Pulianthope Ward No. 77 Kesava ParkTamil Nadu Urban Habitat Development Board 12th Block
+999 - Overseas Elector",All Voters
+59,16,59,"I C D S Centre, Demellows Road,Pulianthope,Chennai-600012","1 - Pulianthope Ward No. 77 kesava parkTamil Nadu Urban Habitat Development Board 26th Block,
+2 - Pulianthope Ward No. 77 Kesava ParkTamil Nadu Urban Habitat Development
+Board 28th Block
+3 - Pulianthope Ward No. 77 Kesava ParkTamil Nadu Urban Habitat Development Board 29th Block
+4 - Pulianthope Ward No. 77 Kesava ParkTamil Nadu Urban Habitat Development Board 30th Block
+5 - Pulianthope Ward No. 77 Kesava ParkTamil Nadu Urban Habitat Development Board 31st Block
+6 - Pulianthope Ward No. 77 Kesava ParkTamil Nadu Urban Habitat Development Board 32nd Block
+7 - Pulianthope Ward No. 77 Kesava ParkTamil Nadu Urban Habitat Development Board 21st Block
+8 - Pulianthope Ward No. 77 Kesava ParkTamil Nadu Urban
+Habitat Development Board 22nd Block",All Voters
+60,16,60,"I C D S Centre, Demellows Road, Pullianthope,Chennai - 600012.","1 - Pulianthope Ward No. 77 Kesava ParkTamil Nadu Urban Habitat Development Board 33rd Block
+2 - Pulianthope Ward No. 77 kesava ParkTamil Nadu Urban Habitat Development Board 34th Block
+3 - Pulianthope Ward No. 77 Kesava ParkTamil Nadu Urban Habitat Development Board 35th Block
+4 - Pulianthope Ward No. 77 Kesava ParkTamil Nadu Urban Habitat Development Board. 23rd Block 1061 to 199
+5 - Pulinathope Ward No. 77 Kesava ParkTamil Nadu Urban Habitat Development Board. 24th Block
+6 - Pulianthope Ward No. 77 Kesava ParkTamil Nadu Urban Habitat Development Board. 25th Block
+""7 - Pulianthope Ward No. 77 Kanagaraya Garden (Near Sivarao Road) Door No.
+36 upto end.""",All Voters
+61,16,61,"Bakthavachalam Park Library Branch, Demellows Road, Pullianthope, Chennai - 600012.","1 - Pulianthope Ward No. 77 Kanagaraya Garden (Near Sivarao Road) Door No. 1 to 35
+999 - Overseas Elector",All Voters
+62,16,62,"ICDS, Bogipalaiyam 1st Main Road, Pulianthope,Chennai - 600012.","1 - Pulianthope Ward No. 77 1st Block Parvathi Kakkan ColonyTamil Nadu Urban Habitat Development Board
+2 - Pulianthope Ward No. 77 2nd Block Parvathy Kakkan colonyTamil Nadu Urban Habitat Development Board
+3 - Pulianthope Ward No. 77 3rd Block Parvathi Kakkan colonyTamil Nadu Urban Habitat Development Board
+4 - Pulianthope Ward No. 77 4th Block Parvathi Kakkan ColonyTamil Nadu Urban Habitat Development Board
+5 - Pulianthope Ward No. 77 5th Block Parvathi Kakkan ColonyTamil Nadu Urban Habitat Development Board
+6 - Pulianthope Ward No. 77 8th Block Parvathi Kakkan ColonyTamil Nadu Urban Habitat Development Board
+7 - Pulianthope Ward No. 77 16th Block Parvathi Kakkan ColonyTamil Nadu Urban Habitat Development Board
+8 - Pulianthope Ward No. 77 17th Block Parvathi Kakkan ColonyTamil Nadu Urban
+Habitat Development Board",All Voters
+63,16,63,"ICDS, Bogipalaiyam 1st Main Road, Pulianthope,Chennai - 600012.","1 - Pulianthope Ward No. 77 18th Block Parvathi Kakkan ColonyTamil Nadu Urban Habitat Development Board
+2 - Pulianthope Ward No. 77 19th Block Parvathi Kakkan ColonyTamil Nadu Urban Habitat Development Board
+3 - Pulianthope Ward No. 77 9th Block ParvathyKakkan ColonyTamil Nadu Urban Habitat Development Board.
+4 - Pulianthope Ward No. 77 10th Block Parvathi Kakkan ColonyTamil Nadu Urban Habitat Development Board.
+5 - Pulianthope Ward No. 77, 11th Block Parvathi Kakkan ColonyTamil Nadu Urban Habitat Development Board.
+6 - Pulianthope Ward No. 77 7th Block Parvathi Kakkan ColonyTamil Nadu Urban Habitat Development Board",All Voters
+64,16,64,"ICDS, Bogipalaiyam 1st Main Road, Pulianthope,Chennai - 600012.","1 - Pulianthope Ward No. 77 12th Block Parvathi Kakkan ColonyTamil Nadu Urban Habitat Development Board.
+2 - Pulianthope Ward No. 77 13th Block Parvathi Kakkan ColonyTamil Nadu Urban Habitat Development Board.
+3 - Pulianthope Ward No. 77 14th Block Parvathi Kakkan ColonyTamil Nadu Urban Habitat Development Board.
+4 - Pulianthope Ward No. 77 15th Block Parvathi Kakkan ColonyTamil Nadu Urban Habitat Development Board.
+5 - Pulianthope Ward No. 77 Dr. Siva Rao Road
+6 - Pulianthope Ward No. 77 6th Block Parvathi Kakkan ColonyTamil Nadu Urban Habitat Development Board",All Voters
+65,16,65,"Govt. High School, Adidravidar Welfare Dept, No.168, Pulianthope High Road, Pulianthope, Chennai - 600012.","1 - Pulianthope Ward No. 77 Raja Garden 2nd Street
+2 - Pulianthope Ward No. 77 Raja Garden 3rd Street
+3 - Pulianthope Ward No. 77 Gurusamy Nagar Canal Side Lane
+4 - Pulianthope Ward No. 77 Pulianthope 5th Cross Street
+5 - Pulianthope Ward No. 77 Pulianthope 1st Cross Street
+6 - Pulianthope Ward No. 77 Pulianthope 2nd Cross Street
+7 - Pulinathope Ward No. 77 Pulianthope 4th Cross Street 999 - Overseas Elector",All Voters
+66,16,66,"Govt. High School, Adidravidar Welfare Dept, No.168, Pulianthope High Road, Pulianthope, Chennai - 600012.","1 - Pulianthope Ward No. 77 Sundarapuram 3rd Street
+2 - Pulianthope Ward No. 77 Pulianthope 5th Street",All Voters
+67,16,67,"Govt. High School, Adidravidar Welfare Dept, No.168, Pulianthope High Road, Pulianthope, Chennai - 600012.","1 - Pulianthope Ward No. 77 Pulianthope 4th Street
+2 - Pulianthope Ward No. 77 Dr. Ansari Street back Side (canal Side)
+3 - Pulianthope Ward No. 77 Dr. Ansari Street",All Voters
+68,16,68,"Princess Metric Higher Secondary school ,No.119 Pulianthope High Road chennai-600012","1 - Pulianthope Ward No. 77 Pulianthope High Road (Door No 1 to 103)
+999 - Overseas Elector",All Voters
+69,16,69,"Princess Metric Higher Secondary School,No.119,Pulianthope High Road,chennai-600012",1 - Pulianthope Ward No. 77 Pulianthope High Road(Door No 104 to 307),All Voters
+70,16,70,"Chennai Urdu Girls Primary School, No.241, Bogipalayam New Lane, Pulianthope, Chennai - 600012.","1 - Pulianthope Ward No. 77 Mosque Street
+2 - Pulianthope Ward No. 77 Demellows Road 1st Lane (Mosque Street)
+3 - Pulianthope Ward No. 77 Demellows Road 3rd Lane (Kaja Ahamed Sahib Street)
+4 - Pulianthope Ward No. 77 Demellows Road 2nd Lane
+5 - Pulianthope Ward No. 77 Khaja Ahamed Sahib Street
+6 - Pulianthope Ward No. 77 Chinnathambi 2nd Street 999 - Overseas Elector",All Voters
+71,16,71,"ICDS Centre (Anganwadi),No 240 Bogipalayam New lane ,Pulianthope ,Chennai -600012",1 - Pulianthope Ward No. 77 corporation small Lane,All Voters
+72,16,72,"Chennai Urdu Girls Primary School,No.241,Bogipalayam New Lane,Pulianthope,Chennai-600012","1 - Pulianthope Ward No. 77 Chinnathambi First Street
+2 - Pulianthope Ward No. 77 Bogipalayam Old Lane",All Voters
+73,16,73,"Chennai Magalir Self Help Group Meeting Hall, No.1, Mothilal Street, Pulianthope, Chennai - 600012.","1 - Pulianthope Ward No. 77 Mothilal Street
+2 - Pulianthope Ward No. 77 Gurusamy Nagar Main Street
+3 - Pulianthope Ward No. 77 Gurusamy Nagar 1st Street",All Voters
+74,16,74,"I C D S Centre No.2,Mothilal Street,Pulianthope,Chennai-600012","1 - Pulianthope Ward No. 77 Gurusamy Nagar 2nd Street
+2 - Pulianthope Ward No. 77 Gurusamy Nagar 3rd Street
+3 - Pulianthope Ward No. 77 Gurusamy Nagar 4th Street
+4 - Pulianthope Ward No. 77 Gurusamy Nagar 8th Street",All Voters
+75,16,75,"Chennai Magalir Self Help Group Meeting Hall, No.1, Mothilal Nehru Street, Pulianthope, Chennai - 600012.","1 - Pulianthope Ward No. 77 Gurusamy Nagar 5th Street
+2 - Pulianthope Ward No. 77 Gurusamy Nagar 6th Street
+3 - Pulianthope Ward No. 77 Gurusamy nagar 7th Street
+4 - Pulianthope Ward No. 77 Asrivathapuram 4th Street
+5 - Pulianthope Ward No. 77 Asirvathapuram 5th Street
+6 - Pulianthope Ward No. 77 Asirvathapuram 6th Street 999 - Overseas Elector",All Voters
+76,16,76,"Chennai Primary School, No.23, Guruswamy Nagar, Sundra Puram School Street,Pulianthope,Chennai - 600012.","1 - Pulianthope Ward No. 77 Sivarajapuram 1st Street
+2 - Pulianthope Ward No. 77 Sivarajapuram 2nd Street",All Voters
+77,16,77,"Chennai Primary School, No.23, Guruswamy Nagar, Sundra Puram School Street,Pulianthope,Chennai - 600012.","1 - Pulianthope Ward No. 77 Sivarajapuram 3rd Street
+2 - Pulianthope Ward No. 77 Sivarajapuram 4th Street",All Voters
+78,16,78,"Chennai Primary School, No.23, Guruswamy Nagar, Sundra Puram School Street,Pulianthope,Chennai - 600012.","1 - Pulianthope Ward No. 77 Sivarajapuram 5th Street
+2 - Pulianthope Ward No. 77 Sivarajapuram 6th Street
+3 - Pulianthope Ward No. 77 Sivarajapuram Cross Street
+4 - Pulianthope Ward No. 77 Sundarapuram 1st Street",All Voters
+79,16,79,"Govt High School ,Adidravidar welfare Dept,No.168,Pulianthope High road chennai -600012","1 - Pulianthope Ward No. 77 Pulianthope 1st Street
+2 - Pulianthope Ward No. 77 Pulianthope 2nd Street",All Voters
+80,16,80,"Govt High School ,Adidravidar welfare Dept,No.168,Pulianthope High road chennai -600012",1 - Pulianthope Ward No. 77 Pulianthope 3rd Street,All Voters
+81,16,81,"Chennai Primary School, No.23, Guruswamy Nagar, Sundra Puram School Street,Pulianthope,Chennai - 600012.","1 - Pulianthope Ward No. 77 Aasirvathapuram 3rd Street
+2 - Pulianthope Ward No. 77 Pulianthope 6th Cross Street
+3 - Pulianthope Ward No. 77 Raja Garden 1st Street and Back Side
+4 - Pulianthope Ward No. 77 asirvathapuram 1st Street",All Voters
+82,16,82,"Chennai Primary School, No.23, Guruswamy Nagar, Sundra Puram School Street,Pulianthope,Chennai - 600012.",1 - Pulianthope Ward No. 77 Sundarapuram 4th Street,All Voters
+83,16,83,"Chennai Primary School ,No.23,Guruswamy Nagar,Sundrapuram School street,Pulianthope,Chennai-600012","1 - Pulianthope Ward No. 77 Sundarapuram 2nd Street
+2 - Pulianthope Ward No. 77 Aasirvathapuram 2nd Street",All Voters
+84,16,84,"Hindu Union Committee Higher Secondary School, 43,Thottikalai Kumarappa
+StreetChoolai,Chennai-600112.","1 - Choolai Ward No. 78 Thottikalai Kumarappa Street
+2 - Choolai Ward No. 78 Periyathambi Street",All Voters
+85,16,85,"Visvabarathi Middle School, No.47, Thotikalai Kumarappa Street, Choolai, Chennai - 600112.","1 - Choolai Ward No. 78 Arimuthu Street
+2 - Choolai Ward No. 78 Chokkavel Subramaniya Swami Street
+3 - Choolai Ward No. 78 Kuravan Kulam Street",All Voters
+86,16,86,"ICDS Centre (Anganwadi) Kuravankulam Line, Choolai, Chennai - 600112.","1 - Choolai Ward No. 78 Kuravan Kulam 1st Lane
+2 - Choolai Ward No. 78 Kuravan Kulam 2nd Lane
+3 - Choolai Ward No. 78 KuravanKulam 3rd Lane
+4 - Choolai Ward No. 78 Avadana Pappaiyar Road 2nd Lane",All Voters
+87,16,87,"Corporation Gym Building, Kuravankulam Line, Choolai, Chennai - 600112.",1 - Choolai Ward No. 78 Vijaya Vigneshwarar Kovil Street 999 - Overseas Elector,All Voters
+88,16,88,"Chennai Corporation Community Centre, Kannappar Thidal, Syden Hams Road, Choolai, Chennai - 600112.","1 - Choolai Ward No. 78 Sattannan Street
+2 - Choolai Ward No. 78 Sydenhams Road",All Voters
+89,16,89,"Chennai Corporation Community Centre, Kannappar Thidal, Syden Hams Road, Choolai, Chennai - 600112.",1 - Choolai Ward No. 78 Kannappar Street,All Voters
+90,16,90,"Chennai Corporation Community Centre, Kannappar Thidal, Syden Hams Road, Choolai, Chennai - 600112.",1 - Choolai Ward No. 78 Choolai High Road,All Voters
+91,16,91,"Chennai Coporation Community Centre ,Kannappar Thidal,Syden Hams Road,Choolai,Chennai-600112","1 - Choolai Ward No. 78 Choolai Bazaar Lane
+2 - Choolai Ward No. 78 Nehru Timber Market
+3 - Choolai Ward No. 78 Ananthakrishnan Street",All Voters
+92,16,92,"Chennai Middle School, Vathiyar Kandappa Street, Choolai, Chennai - 600112.","1 - Choolai Ward No. 78 Andiyappan Street
+2 - Choolai Ward No. 78 Vijaya Vigneshwarar Kovil Lane",All Voters
+93,16,93,"Chennai Middle School, Vathiyar Kandappa Street, Choolai, Chennai - 600112.","1 - Choolai Ward No. 78 Alanthur Subramaniya Street
+2 - Choolai Ward No. 78 Govindan Street
+3 - Choolai Ward No. 78 Subba Naidu Street",All Voters
+94,16,94,"Chennai Primary School, No.25, Samy Street, Choolai, Chennai - 600112.","1 - Choolai Ward No. 58 Arani Muthu Street
+2 - Choolai Ward No. 58 Mathews Railway Quarters
+3 - Choolai Ward No. 58 Natesan Nagar
+4 - Choolai Ward No. 58 Samy Street(105 to End) 999 - Overseas Elector",All Voters
+95,16,95,"Chennai Primary School, No.25, Samy Street, Choolai, Chennai - 600112.",1 - Choolai Ward No. 58 Samy Street (1 to 99-2),All Voters
+96,16,96,"St. Allocious Anglo Indian Girls Higher Secondary School, No.2, General Collins Road, Vepery, Chennai - 600007.","1 - Choolai Ward No. 58 Maddox Street
+2 - Choolai Ward No. 58 Venkatachalam Street",All Voters
+97,16,97,"St. Allocious Anglo Indian Girls Higher Secondary School, No.2, General Collins Road, Vepery, Chennai - 600007.","1 - Choolai Ward No. 58 Rotti kidangu Thiruvenkatam Street
+2 - Choolai Ward No. 58 Genaral Collins Road
+3 - Choolai Ward No. 58 Abinanthan Flats
+4 - Choolai Ward No. 58 Kandhappa Street",All Voters
+98,16,98,"St .Allocious Anglo Indian Girls Higher Secondary School,No.2,General Collins
+Road,Vepery,Chennai-600007","1 - Choolai Ward No. 58 Nellu Salladai Street
+2 - Choolai Ward No. 58 Vathiyar Kandhappa Street
+3 - Choolai Ward No. 58 Chandralok Apartments",All Voters
+99,16,99,"Govt Veterinary Medical College & Hospital, No.124, Vepery High Road, Vepery, Chennai - 600007.","1 - Vepery Ward No. 58 Vepery High Road
+2 - Vepery Ward No. 58 Government Veterinary College Hospital And Officers Quarters
+3 - Vepery Ward No. 58 Chathrun Jai Appartments
+4 - Vepery Ward No. 58 Shanthi Sagar Apartments
+5 - Vepery Ward No. 58 Chengalvarayan Street
+6 - Vepery Ward No. 58 Road Street
+7 - Vepery Ward No. 58 Siddharth Palace
+8 - Vepery Ward No. 58 E V K Sampath Road New No 1 to 17 and 2 to 38
+999 - Overseas Elector",All Voters
+100,16,100,"Govt Veterinary Medical College & Hospital, No.124, Vepery High Road, Vepery, Chennai - 600007.","1 - Vepery Ward No. 58 Vepery Church Road
+2 - Vepery Ward No. 58 Aryan Street
+3 - Vepery Ward No. 58 Sydenhams Road
+4 - Vepery Ward No. 58 Home For Homeless Quarters
+5 - Vepery Ward No. 58 Arunachalam Street
+6 - Vepery Ward No. 58 Samy Street
+7 - Vepery Ward No. 58 Nabikhan Subedar Street
+8 - Vepery Ward No. 58 Ramu Street
+9 - Vepery Ward No. 58 Muthu Street
+10 - Vepery Ward No. 58 Kovalam Muthu Street",All Voters
+101,16,101,"Govt Veterinary Medical College & Hospital, No.124, Vepery High Road, Vepery, Chennai - 600007.","1 - Vepery Ward No. 58 Jermiah Road
+2 - Vepery Ward No. 58 Prince Paradise,
+3 - Vepery Ward No. 58 Swiss Apartments
+4 - Vepery Ward No. . 47 Ranjit Apartments
+5 - Vepery Ward No. 58 Arihant Siva Shakthi Apartments",All Voters
+102,16,102,"Ripon Building, Chennai Corporation, Electrical Section, No.16, E. V. R. Periyar High Road, Chennai - 600003.","1 - Park Town Ward No. 58 Siddhi Vinayagar Kovil Lane
+2 - Park Town Ward No. 58 Varasiddhi Vinayagar Kovil Street
+3 - Park Town Ward No. 58 Patttunool Sandusha Street
+4 - Park Town Ward No. 58 Periyar E. V. R. High Road
+5 - Park Town Ward No. 58 Park Railway Station
+6 - Park Town Ward No. 58 Alli Kulam
+7 - Park Town Ward No. 58 Alli Kulam",All Voters
+103,16,103,"Corporation Food Analysis Centre, No.11, Samy Street, Periamet, Chennai - 600003.","1 - Park Town Ward No. 58 Kumarappa Street
+2 - Park Town Ward No. 58 Irusappan Street
+4 - Park Town Ward No. 58 Kuppu Street
+5 - Park Town Ward No. 58 Narayanan Street
+6 - Park Town Ward No. 58 Lala Kutti Street
+7 - Park Town Ward No. 58 Macfer Lane
+8 - Park Town Ward No. 58 Kattur Sadaiyappan Street
+9 - Park Town Ward No. 58 Karpura Mudali Street
+10 - 10. Park Town Ward No. 58 Sheik Ali Subedhar Street",All Voters
+104,16,104,"St. Marks Middle School, No.123/62, Vepery High Road Periamet, Chennai - 600003.","1 - Park Town Ward No. 58 Pattunool Sardar Jang Street
+2 - Park Town Ward No. 58 Muthu Gramani Street
+3 - Park Town Ward No. 58 Thoppai Street
+4 - Park Town Ward No. 58 Saminathan Street
+5 - Park Town Ward No. 58 Kandappa Lane
+6 - Park Town Ward No. 58 Egambara Kumara Guru Street",All Voters
+105,16,105,"Balar Educational Centre, No.4&5, Ritherdon Road 1st Lane, Vepery Chennai - 600007.","""1 - Purasaiwakkam Ward No. 58 Purasaiwakkam High Road Door No 1 to 45 2 to
+48""
+2 - Purasaiwakkam Ward No. 58 Purasaiwakkam High Road (Waikiki Complex)
+3 - Purasaiwakkam Ward No. 58 Purasaiwakkam High Road (Baiyya Complex)
+4 - Purasaiwakkam Ward No. 58 Puraisaiwakkam High Road (Balas Tower)
+5 - Vepery Ward No. 58 Ritherdon Road 1st Lane
+6 - Vepery Ward No. 58 Jamal Pendon Court (Ritherdon Road 1st Lane)
+7 - Vepery Ward No. 58 Ritherdon Road 2nd Lane
+8 - Vepery Ward No. 58 Ritherdon Road 3rd Lane ( Church Lane )
+9 - Vepery Ward No. 58 Subbaiah Street
+10 - Vepery Ward No. 58 Sir Ramaswamy Street
+11 - Vepery Ward No. 58 Valliyammal Street
+12 - Vepery Ward No. 58 Prasanna Kiriba ( Valliyammal Street)
+13 - Vepery Ward No. 58 Marbel Abek ( Valliyammal Street)",All Voters
+106,16,106,"Balar Educational Centre, No.4&5, Ritherdon Road 1st Lane, Vepery Chennai - 600007.",1 - Vepery Ward No. 58 Ritherdon Road,All Voters
+107,16,107,"Balar Educational Centre, No.4&5, Ritherdon Road 1st Lane, Vepery Chennai - 600007.","1 - Purasaiwakkam Ward No. 58 Thakkar Street
+2 - Vepery Ward No. 58 Letangs Road",All Voters
+108,16,108,"Balar Educational Centre ,No.4 And 5,Ritherdon Road 1st Lane,Vepery,Chennai-600007","1 - Vepery Ward No. 58 Clements Road
+2 - Purasaiwakkam Ward No. 58 Poonamallee High Road (Poornima Buildings)",All Voters
+109,16,109,"Balar Educational Centre, No.4&5, Ritherdon Road 1st Lane, Vepery Chennai - 600007.","""1 - Purasaiwakkam Ward No. 58 Poonamallee High Road, Door No 53 to 117 & 62
+to 150""
+2 - Periamet Ward No. 58 Poonamallee High Road (Arunodhaya Apartments)
+3 - Purasaiwakkam Ward No. 58 Poonamallee High Road (Krishna Apartments)
+4 - Purasaiwakkam Ward No. 58 Poonamallee High Road (Railway Quarters)
+5 - Purasaiwakkam Ward No. 58 DR. Alagappa Road 1 to19 2 to16
+6 - Purasaiwakkam Ward No. 58 Macsenny Site ( DR. Azhagappa Road )
+999 - Overseas Elector",All Voters
+110,16,110,"Agarwal Vidyalaya, No.54, E. V. K. Sampath Road, Vepery, Chennai - 600007.","1 - Vepery Ward No. 58 E. V. K. Sampath Road
+2 - Vepery Ward No. 58 Alok Apartments (E. V. K. Sampath Road)
+3 - Vepery Ward No. 58 B. B. C Apartments (E. V. K. Sampath Road )",All Voters
+111,16,111,"Agarwal Vidyalaya, No.54, E. V. K. Sampath Road, Vepery, Chennai - 600007.","1 - Vepery Ward No. 58 Swapna Loke Apartments (E. V. K Sampath Road)
+2 - Vepery Ward No. 58 Vaibav Apartments (E. V. K Sampath Road )
+3 - Vepery Ward No. 58 Alsa Linwood Apartments ( E. V. K. Sampath Road)
+4 - Vepery Ward No. 58 Mahaveer Colony (New Colony) E. V. K. .
+Sampath Road",All Voters
+112,16,112,"Corporation Noon-Meal Centre, No.546, Stingers Road, Periamet, Chennai - 600003.","1 - Periamet Ward No. 58 Naval Hospital 13th Lane
+2 - Periamet Ward No. 58 Naval Hospital 12th Lane
+3 - Periamet Ward No. 58 Naval Hospitals 11th Lane
+4 - Periamet Ward No. 58 Naval hospital 10th Lane
+5 - Periamet Ward No. 58 Naval Hospital 9th Lane
+6 - Periamet Ward No. 58 Naval Hospital 7th Lane
+7 - Periamet Ward No. 58 Naval Hospitals 6th Lane",All Voters
+113,16,113,"Corporation Noon-Meal Centre, No.546, Stingers Road, Periamet, Chennai - 600003.","1 - Periamet Ward No. 58 Naval Hospital Road
+2 - Periamet Ward No. 58 Naval Hospital 5th Lane
+3 - Periamet Ward No. 58 Naval Hospital 4 th Lane
+4 - Periamet Ward No. 58 Naval Hospital 8th Lane",All Voters
+114,16,114,"Indoor Games Auditorium, (Noon-Meal Centre No.547 Near) StingersRoad,Periamet,Chennai-600003","1 - Periamet Ward No. 58 Naval Hospital 3rd Lane
+2 - Periamet Ward No. 58 Naval Hospital 2nd Lane
+3 - Periamet Ward No. 58 Naval Hospital 1st Lane",All Voters
+115,16,115,"Corporation Food Analysis Centre, No.11, Samy Street, Periamet, Chennai - 600003.","1 - Periamet Ward No. 58 Periyanna Maistry Street
+2 - Periamet Ward No. 58 Mattukara Veerabathiran Street
+3 - Periamet Ward No. 58 Wuthucattan Street
+4 - Periamet Ward No. 58 Veerasamy Street
+5 - Periamet Ward No. 58 Thiruvenkatam Street
+6 - Periamet Ward No. 58 Cuddapah Rangaiah Street",All Voters
+116,16,116,"Govt veterinary Medical College & Hospital,No.124,Vepery High Road
+,Vepery,chennai-600007","1 - Periamet Ward No. 58 Atkinsons Road (Jothi Venkatachalam Road)
+2 - Periamet Ward No. 58 Subbiah Street
+3 - Periamet Ward No. 58 Barracks Street",All Voters
+117,16,117,"Govt veterinary Medical College & Hospital,No.124,Vepery High Road
+,Vepery,chennai-600007","1 - Periamet Ward No. 58 Ramasamy Street
+2 - Periamet Ward No. 58 Prathabat Road
+3 - Periamet Ward No. 58 Chandanbala Apartments (Prathabat Road)
+4 - Periamet Ward No. 58 Stringers Road Hut Side
+5 - Periamet Ward No. 58 Stringers Road",All Voters
+118,16,118,"Govt Veterinary Medical College And Hospital,No.124,Vepery High Road,Vepery,Chennai-600007","1 - Periamet Ward No. 58 Stringers Road (Bajaj Apartments)
+2 - Periamet Ward No. 58 Macdhoom Sheriff Road
+3 - Periamet Ward No. 58 Stringers Road 2nd Lane
+4 - Periamet Ward No. 58 Stringers Road 1st Lane",All Voters
+119,16,119,"E.L.M.Fabricius Higher Secondary School, No.54, Purasaiwakkam High Road,Chennai-600084.","1 - Purasaiwalkkam Ward No. 99 Purasaiwakkam High Road (Door No 50 to 202)
+2 - Purasaiwakkam Ward No. 99 Lakshmi Street Door no 1 to 12
+3 - Purasaiwakkam Ward No. 99 Ramasamy Street
+4 - Purasaiwakkam Ward No. 99 Adiyappa Street
+5 - Purasaiwakkam Ward No. 99 Adiyappa St Atheswar Appartments
+6 - Purasaiwakkam Ward No. 99 Adiyappa Lane 999 - Overseas Elector",All Voters
+120,16,120,"E.L.M.Fabricius Higher Secondary School, No.54, Purasaiwakkam High Road,Chennai-600084.","1 - Purasaiwakkam Ward No. 99 Saravana Perumal Street
+2 - Purasaiwakkam Ward No. 99 Penni Appartments
+3 - Purasaiwakkam Ward No. 99 Abirami Street1To17",All Voters
+121,16,121,"Chennai Boys Higher Secondary School, A- Block, Gangadeeswarar Koil Street, Purasaiwakkam, Chennai
+- 600084.","1 - Purasaiwakkam Ward No. 99 Gangadeeswarar Kovil Street
+2 - Purasaiwakkam Ward No. 99 Gangadeeswarar Kovil 1st Lane
+3 - Purasaiwakkam Ward No. 99 Gangadeeswarar Kovil 2nd Lane
+4 - Purasaiwakkam Ward No. 99 Gangadeeswarar Kovil 3rd Lane
+5 - Purasaiwakkam Ward No. 99 Tamilnadu Slum Clerance Board Qarters
+6 - Purasaiwakkam Ward No. 99 Tamilnadu Slum Clearance Board Quaters",All Voters
+122,16,122,"Chennai Boys Higher Secondary School, A- Block, Gangadeeswarar Koil Street, Purasaiwakkam, Chennai
+- 600084.","1 - Purasaiwakkam Ward No. 99 Purasaiwakkam Police Quarters A Block
+2 - Purasaiwakkam Ward No. 99 Purasaiwakkam Police Quarters B Block
+3 - Purasaiwakkam Ward No. 99 Krishnappa Street
+4 - Purasaiwakkam Ward No. 99 Gandhi Avenue
+5 - Purasaiwakkam Ward No. 99 kulandai Gramini Street
+6 - Purasaiwakkam Ward No. 99 Lettangs Road Door No 22 to 48
+7 - Purasaiwakkam Ward No. 99 Lettangs Road Arunshyam Appartment
+999 - Overseas Elector",All Voters
+123,16,123,"Chennai Boys Higher Secondary School, A- Block, Gangadeeswarar Koil Street, Purasaiwakkam, Chennai
+- 600084.","1 - Purasaiwakkam Ward No. 99 Ponnappa Street
+2 - Purasaiwakkam Ward No. 99 Ponnappa Street Veenus Roobi Appartments",All Voters
+124,16,124,"Lady M. C. T. Muthaiah Chettiar Girls Higher Sec. School, No.13, 14, Dr. Alagappa Salai, Purasaiwakkam, Chennai - 600084.","1 - Purasaiwakkam Ward No. 99 Periyar E V R High Road Door No 137 to 208
+2 - Purasaiwakkam Ward No. 99 Periyar E V R High Road 1st Lane
+3 - Purasaiwakkam Ward No. 99 Periyar E V R High Road 1st Lane Shanthi
+Nekatan
+4 - Purasaiwakkam Ward No. 99 raja annamalai Road
+5 - Purasaiwakkam Ward No. 99 Raja Annamalai Road Arihant Appartments
+6 - Purasaiwakkam Ward No. 99 Raja Annamalai Road Rams Appartments
+7 - Purasaiwakkam Ward No. 99 Raja Annamalai Street Pammal Court Appartments
+8 - Purasaiwakkam Ward No. 99 Deevan Rama Road
+9 - Purasaiwakkam Ward No. 99 Deevan Rama Road Orchid Manor Appartments
+10 - Purasaiwakkam Ward No. 99 Deevan Rama Road Skylark Appartments
+999 - Overseas Elector",All Voters
+125,16,125,"Lady M. C. T. Muthaiah Chettiar Girls Higher Sec. School, No.13, 14, Dr. Alagappa Salai, Purasaiwakkam, Chennai - 600084.","1 - Purasaiwakkam Ward No. 99 Vellala Street Door No 1 to 101
+2 - Purasaiwakkam Ward No. 99 Ishwaraya Flats Vellala Street
+3 - Purasaiwakkam Ward No. 99 Akkees Appartment Vellala Street
+4 - Purasaiwakkam Ward No. 99 Sriji Appartments Vellala Street
+5 - Purasaiwakkam Ward No. 99 Vellala 1st Street
+6 - Purasaiwakkam Ward No. 99 Vellala 2nd Street
+7 - Purasaiwakkam Ward No. 99 Vellala 3rd Street
+8 - Purasaiwakkam Ward No. 99 Vellala 4th Street
+9 - Purasaiwakkam Ward No. 99 Vellala 5th Street
+10 - Purasaiwakkam Ward No. 99 Vellala 6th Street
+11 - Purasaiwakkam Ward No. 99 Vellala 7th Street
+12 - Purasaiwakkam Ward No. 99 Vellala 8th Street
+13 - Purasaiwakkam Ward No. 99 Bedfore Appartments (Dr. Alagappa Road)
+14 - Purasaiwakkam Ward No. 99 Kapil Park Appartments ( Dr. Alagappa Road)",All Voters
+126,16,126,"Lady M. C. T. Muthaiah Chettiar Girls Higher Sec. School, No.13, 14, Dr. Alagappa Salai, Purasaiwakkam, Chennai - 600084.","1 - Purasaiwakkam Ward No. 99 Maruthi Apartments Dr. Alagappa Road
+2 - Purasaiwakkam Ward No. 99 Vellala Street
+3 - Purasaiwakkam Ward No. 99 Srinivasa Appartments (Vellala Street)
+4 - Purasaiwakkam Ward No. 99 Adhinath Apprtments (Vellala Street)
+5 - Purasaiwakkam Ward No. 99 Madam 1st Streeet
+999 - Overseas Elector",All Voters
+127,16,127,"Lady M. C. T. Muthaiah Chettiar Girls Higher Sec. School, No.13, 14, Dr. Alagappa Salai, Purasaiwakkam, Chennai - 600084.","1 - Purasaiwakkam Ward No. 99 Pandaram Lane
+2 - Purasaiwakkam Ward No. 99 Madam 2nd Lane
+3 - Purasaiwakkam Ward No. 99 Flowers Road 1st Lane
+4 - Purasaiwakkam Ward No. 99 Flowers 2nd Street
+5 - Purasaiwakkam Ward No. 99 Flowers Road 3rd Lane
+6 - Purasaiwakkam Ward No. 99 Flowers Road 4th Lane",All Voters
+128,16,128,"Lady M.C.T.Muthaiah Chettiar Girls Higher Sec.School,No.13,14,Dr.alagappa Salai,Purasaiwakkam,Chennai-600084","1 - Purasaiwakkam Ward No. 99 Lawders Gate 1st Lane
+2 - Purasaiwakkam Ward No. 99 Lawders Gate 2nd Lane
+3 - Purasaiwakkam Ward No. 99 Lawders Gate 3rd Lane
+4 - Purasaiwakkam Ward No. 99 Dr. Alagappa Road Door no 21 to 129",All Voters
+129,16,129,"Kerala Vidyalaya Higher Sec. School, 903, E.V. R. 1st Lane, Purasaiwakkam, Chennai - 600084.","1 - Purasaiwakkam Ward No. 99 Sasthri nagar 1st Street
+2 - Purasiwalkam Ward No. 99 Sasthri Nagar 2nd Street
+3 - Purasaiwakkam Ward No. 99 Sasthri Nagar 3rd Street
+4 - Purasaiwakkam Ward No. 99 Sasthri Nagar 4th Street",All Voters
+130,16,130,"Kerala Vidyalaya Higher Sec. School, 903, E.V. R. 1st Lane, Purasaiwakkam, Chennai - 600084.","1 - Purasaiwakkam Ward No. 99 Sasthri Nagar 6th Street
+2 - Purasaiwakkam Ward No. 99 Dr. Ambethkar Street
+3 - Purasaiwakkam Ward No. 99 Sasthri Nagar
+4 - Purasaiwakkam Ward No. 99 Tamil Nadu Slum Clearaness Board Appartments",All Voters
+131,16,131,"Kerala Vidyalaya Higher Sec. School, 903, E.V. R. 1st Lane, Purasaiwakkam, Chennai - 600084.","1 - Purasaiwakkam Ward No. 99 Sasthri Nagar 8th Street
+2 - Purasaiwakkam Ward No. 99 Sasthri Nagar 9th Street
+3 - Purasaiwakkam Ward No. 99 Sasthri Nagar 10th Street
+4 - Purasaiwakkam Ward No. 99 Sasthri Nagar 11th Street",All Voters
+132,16,132,"Kerala Vidyalaya Higher Sec. School, 903, E.V. R. 1st Lane, Purasaiwakkam, Chennai - 600084.",1 - Purasaiwakkam Ward No. 99 Tamil Nadu Slum Clearaness Board Appartment,All Voters
+133,16,133,"Kerala Vidyalaya Higher Sec. School, 903, E.V. R. 1st Lane, Purasaiwakkam, Chennai - 600084.","1 - Purasaiwakkam Ward No. 99 Sasthri Nagar 5th Street
+2 - Purasaiwakkam New Ward No. 99 Sasthri Nagar 7th Street",All Voters
+134,16,134,"Chennai Higher Secondary School & Chennai Primary School, Subbarayan Street, Shenoy Nagar, Chennai - 600030.","1 - Shenoy Nagar Ward No. 108 Arunachala 3rd Street
+2 - Shenoy Nagar Ward No. 108 Muthiyappa Street
+3 - Shenoy Nagar Ward No. 108 Arunachalem 2nd Street",All Voters
+135,16,135,"Chennai Higher Secondary School & Chennai Primary School, Subbarayan Street, Shenoy Nagar, Chennai - 600030.","1 - Shenoy Nagar Ward No. 108 M. K Stalin Nagar Huts Area (Chhari Street)
+2 - Shenoy Nagar Ward No. 108 Jothiyammal Nagar (Chari Street)
+3 - Shenoy Nagar Ward No. 108 Venkatachalpathi 1st Street
+4 - Shenoy Nagar Ward No. 108 Venkatachalpathi Main Street
+5 - Shenoy Nagar Ward No. 108 Venkatachalapathi 2nd Street
+6 - Shenoy Nagar Ward No. 108 Venkatachalapathi 3rd Street
+7 - Shenoy Nagar Ward No. 108 Venkata chalbathi main Road judge radhakrishnan apartments
+8 - Shenoy Nagar Ward No. 108 Arunachalem 1st Street",All Voters
+136,16,136,"Chennai Higher Secondary School, Subbarayan Street, Shenoy Nagar, Chennai - 600030.","1 - Kilpauk (South) Ward No. 99 Kandhan Street
+2 - Shenoy Nagar Ward No. 108 Vaithiyanathan Street
+3 - Shenoy Nagar Ward No. 108 Vaithiyanathan Street Crystal Square",All Voters
+137,16,137,"Chennai Higher Secondary School & Chennai Primary School, Subbarayan Street, Shenoy Nagar, Chennai - 600030.","1 - Shenoy Nagar Ward No. 108 Subbarayan Street
+2 - Shenoy Nagar Ward No. 108 Avvaipuram",All Voters
+138,16,138,"Chennai Higher Secondary School & Chennai Primary School, Subbarayan Street, Shenoy Nagar, Chennai - 600030.",1 - Shenoy Nagar Ward No. 99 Apparao Garden Street,All Voters
+139,16,139,"Chennai Higher Secondary School & Chennai Primary School, Subbarayan Street, Shenoy Nagar, Chennai - 600030.","1 - Shenoy Nagar Ward No. 108 Apparao Thottam
+2 - Shenoy Nagar Ward No. 108 Murugasan Street",All Voters
+140,16,140,"Chennai Higher Secondary School & Chennai Primary School, Subbarayan Street, Shenoy Nagar, Chennai - 600030.","1 - Shenoy Nagar Ward No. 108 Vembulli Amman Kovil Street
+2 - Shenoy Nagar Ward No. 108 Jothiyammal Nagar Pillaiyar Kovil Street",All Voters
+141,16,141,"Chennai Higher Secondary School & Chennai Primary School, Subbarayan Street, Shenoy Nagar, Chennai - 600030.","1 - Shenoy Nagar Ward No. 108 Pillaiyar Kovil Street (BackSide Slum Area)
+2 - Shenoy Nagar Ward No. 108 Pillaiyar Kovil Street",All Voters
+142,16,142,"Chennai Middle School, Pullapuram, Kilpauk, Chennai
+- 600010.","1 - Kilpauk Ward No. 99 Pullapuram Door No 1 to 80
+2 - Kilpauk New Ward No. 99 Pullapuram 2nd Street",All Voters
+143,16,143,"Chennai Middle School, Pullapuram, Kilpauk, Chennai
+- 600010.","1 - Kilpauk Ward No. 99 Pullapuram, Door No 81 to 316
+2 - Kilpauk Ward No. 99 Pullapuram 1st Street",All Voters
+144,16,144,"Chennai Middle School, Pullapuram, Kilpauk, Chennai
+-600010.","1 - Kilpauk Ward No. 99 Pullapuram 3rd Street
+2 - Kilpauk Ward No. 99 Pullapuram 4th Street
+3 - Kilpauk Ward No. 99 Pullapuram 5th Street
+4 - Kilpauk Ward No. 99 Pullapuram 6th Street
+5 - Kilpauk Ward No. 99 Pullapuram 5th Street",All Voters
+145,16,145,"Chennai Middle School, Pullapuram, Kilpauk, Chennai
+-600010.",1 - Kilpauk Ward No. 99 Slum Clearance Board Osan Kulam 999 - Overseas Elector,All Voters
+146,16,146,"Chennai Middle School, Pullapuram, Kilpauk, Chennai
+-600010.",1 - Kilpauk Ward No. 99 Boopathy Nagar And New Boopathy Nagar,All Voters
+147,16,147,"Chennai Middle School, Pullapuram, Kilpauk, Chennai
+- 600010.","1 - Kilpauk Ward No. 99 Kilpauk Old Police Quarters
+2 - Kilpauk Ward No. 99 Kilpauk SI Old Quarters
+3 - Kilpauk Ward No. 99 Kilpauk Old Police Quarters A Block
+4 - Kilpauk Ward No. 99 Kilpauk Old Police Quarters B Block
+5 - Kilpauk Ward No. 99 Kilpauk Police Quarters C Block
+6 - Kilpauk Ward No. 99 Kilpauk Police Quarters D Block
+7 - Kilpauk Ward No. 99 Kilpauk Police Quarters E Block
+8 - Kilpauk Ward No. 99 Old Police Quarters F Block
+9 - Kilpauk Ward No. 99 Old Police Quarters G Block
+10 - Kilpauk Ward No. 99 Old Police Quarters H Block
+11 - Kilpauk Ward No. 99 Old Police Quarters I Block
+12 - Kilpauk Ward No. 99 Old Police Quarters K Block
+13 - Kilpauk Ward No. 99 New Police Quarters L Block
+14 - Kilpauk Ward No. 99 New Police Quarters M Block
+15 - Kilpauk Ward No. 99 New Police Quarters N Block
+16 - Kilpauk Ward No. 99 S I New Police Quarters B Block
+17 - Kilpauk Ward No. 99 Inspector New Quarters Q Block
+18 - Kilpauk Ward No. 99 New S I Quarters R Block
+19 - Kilpauk Ward No. 99 New Police Quarters S Block
+20 - Kilpauk Ward No. 99 New Police Quarters D Block
+21 - Kilpauk Ward No. 99 New Police Quarters U Block
+22 - Kilpauk Ward No. 99 New D I G Quarters
+23 - Kilpauk Ward No. 99 New D I G Quarters
+24 - Kilpauk Ward No. 99 P C Quarters Lane (Old)
+25 - Kilpauk Ward No. 99 V P Singh Nagar",All Voters
+148,16,148,"Our Lady's Centre (Auxliam Primary School), Mc. Nichols Road, Chetpet, Chennai - 600031.","1 - Chetpet Ward No. 108 Sindhur Park
+2 - Chetpet Ward No. 108 Nowroji 1st Street
+3 - Chetpet Ward No. 108 Pachaiappan College Hostel Road
+4 - Chetpet Ward No. 108 Kavitha Niwas
+5 - Chetpet Ward No. 108 Pachaiappan College Hostel Road 1st Street
+6 - Chetpet Ward No. 108 Pachaiappan College Hostel Road 2nd Street
+7 - Chetpet Ward No. 108 McNichols Road 1st Street",All Voters
+149,16,149,"Our Lady's Centre (Auxliam Primary School), Mc. Nichols Road, Chetpet, Chennai - 600031.","1 - Chetpet Ward No. 108 McNichols Road 2nd Street
+2 - Chetpet Ward No. 108 McNichols Road 3rd Street
+3 - Chetpet Ward No. 108 McNichols Road",All Voters
+150,16,150,"Our Lady's Centre (Auxliam Primary School), Mc. Nichols Road, Chetpet, Chennai - 600031.","1 - Chetpet Ward No. 108 Dosspuram
+2 - Chetpet Ward No. 108 Dr. Guruswamy Street",All Voters
+151,16,151,"Madras Christian College Matriculations Higher Secondary School, No. 78-86 . Harington Road, Chetpet, Chennai - 600031.","1 - Chetpet Ward No. 108 Harrington Road
+2 - Chetpet Ward No. 108 Bala Appartments
+3 - Chetpet Ward No. 108 Raj Flats
+4 - Chetpet Ward No. 108 Alsa Crescent
+5 - Chetpet Ward No. 108 Alsa Court
+6 - Chetpet Ward No. 108 Harrington Road 10th Avenue
+7 - Chetpet Ward No. 108 Harrington Road 11th Avenue 999 - Overseas Elector",All Voters
+152,16,152,"Madras Christian College Matriculations Higher Secondary School, No. 78-86 . Harington Road, Chetpet, Chennai - 600031.","1 - Chetpet Ward No. 108 Harrington Road 12th Avenue
+2 - Chetpet Ward No. 108 Alsa Rejency
+3 - Chetpet Ward No. 108 Harrington Road 13th Avenue
+4 - Chetpet Ward No. 108 East Coast Apartments
+5 - Chetpet Ward No. 108 Harrington Road 14th Avenue
+6 - Chetpet Ward No. 108 Harrington Road 15th Avenue
+7 - Chetpet Ward No. 108 Harrington Road 16th avenue
+8 - Chetpet Ward No. 108 Harrington Road 17th Avenue
+9 - Chetpet Ward No. 108 Nathan Street
+10 - 10. Chetpet Ward No. 108 Park Land Apartments 999 - Overseas Elector",All Voters
+153,16,153,"Community Hall, Sathiyamoorty Salai, Chetpet, Chennai - 600031.","1 - Chetpet Ward No. 108 North Brindhavan 1st Street
+2 - Chetpet Ward No. 108 North Brindhavan 4th Street
+3 - Chetpet Ward No. 108 North Brindhavan 5th Street",All Voters
+154,16,154,"Community Hall, Sathiyamoorty Salai, Chetpet, Chennai - 600031.","1 - Chetpet Ward No. 108 North Brindhavan 2nd Street
+2 - Chetpet Ward No. 108 North Brindhavan 3rd Street",All Voters
+155,16,155,"Chennai middle School Noon - Meal Centre, Sivarajapuram, Chetpet, Chennai - 600031.","1 - Chetpet Ward No. 108 Mayor Sathyamoorthy Road
+2 - Chetpet Ward No. 108 Club Road (Kuppusamy Avenue Road)
+3 - Chetpet Ward No. 108 Banthala Dhanammal Road
+4 - Chetpet Ward No. 108 Banthala Chittibabu Street
+5 - Chetpet Ward No. 108 Dr. D. V Naidu Street
+6 - Chetpet Ward No. 108 Dhamodharan Street
+7 - Chetpet Ward No. 108 Muhtharappa Vengadasamy Street
+8 - Chetpet Ward No. 108 Vivekanandha Street
+9 - Chetpet Ward No. 108 Logambal Street
+10 - Chetpet Ward No. 108 Srinivasa Nagar Avenue (Kuppu Samy Street)
+11 - Chetpet Ward No. 108 Logaiah Street 999 - Overseas Elector",All Voters
+156,16,156,"Chennai middle School Noon - Meal Centre, Sivarajapuram, Chetpet, Chennai - 600031.","1 - Chetpet Ward No. 108 Meenambal Sivaraj Nagar 2nd Street ""2 - Chetpet Ward No. 108 ChetpetTamil Nadu Urban Habitat Development Board.
+Quarters B Block Meenambal Sivaraj Nagar""
+""3 - Chetpet Ward No. 108 ChetpetTamil Nadu Urban Habitat Development Board.
+Quarters C Block Meenambal Sivaraj Nagar""
+""4 - Chetpet Ward No. 108 ChetpetTamil Nadu Urban Habitat Development Board.
+Quarters G Block Meenambal Sivaraj Nagar""
+""5 - Chetpet Ward No. 108 ChetpetTamil Nadu Urban Habitat Development Board.
+Quarters H Block Meenambal Sivaraj Nagar""
+6 - Chetpet Ward No. 108 Meenambal Sivaraj Nagar Huts Side",All Voters
+157,16,157,"Chennai middle School Noon - Meal Centre, Sivarajapuram, Chetpet, Chennai - 600031.",1 - Chetpet Ward No. 108 Meenambal Sivaraj Nagar 1st Street,All Voters
+158,16,158,"Chennai Middle School Noon-Meal Centre,Sivarajapuram,chetpet,Chennai-600031","""1 - Chetpet Ward No. 108 ChetpetTamil Nadu Urban Habitat Development Board.
+Quarters A Block Meenambal Sivaraj Nagar""
+2 - Chetpet Ward No. 108 Meenambal Sivaraj Nagar 3rd Street ""3 - Chetpet Ward No. 108 ChetpetTamil Nadu Urban Habitat Development Board. .
+Quarters D Block Meenambal Sivaraj Nagar""
+""4 - Chetpet Ward No. 108 ChetpetTamil Nadu Urban Habitat Development Board.
+Quarters E Block Meenambal Sivaraj Nagar""
+""5 - Chetpet Ward No. 108 ChepetTamil Nadu Urban Habitat Development Board.
+Quarters F Block Meenambal Sivaraj Nagar""",All Voters
+159,16,159,"ICDS Centre , Mangalapuram, Chetpet, Chennai
+- 600031.","1 - Chetpet Ward No. 108 Mangalapuram 1st Street
+2 - Chetpet Ward No. 108 Mangalapuram 3rd Street",All Voters
+160,16,160,"ICDS Centre , Mangalapuram, Chetpet, Chennai
+- 600031.","1 - Chetpet Ward No. 108 Mangalapuram 6th Street
+2 - Chetpet Ward No. 108 Mangalapuram 7th Street
+3 - Chetpet Ward No. 108 Mangalapuram 8th Street",All Voters
+161,16,161,"Chennai Middle School Noon -Meal Centre, Sivarajapuram, Chetpet, Chennai - 600031.","1 - Chetpet Ward No. 108 Mangalapuram 5th Street
+2 - Chetpet Ward No. 108 Mangalapuram 4th Street
+3 - Chetpet Ward No. 108 Mangalapuram 2nd Street
+4 - Chetpet Ward No. 108 Mangalapuram 9th Street
+5 - Chetpet Ward No. 108 Mangalapuram 10th Street
+6 - Chetpet Ward No. 108 Rajambal Lane
+7 - Chetpet Ward No. 108 Mangalapuram 11th Street",All Voters
+162,16,162,"Corporation Primary Health Centre, No.14, Jaganathapuram, School Road, Chetpet, Chennai-600 031","1 - Chetpet Ward No. 108 Mangalapuram 18th Street
+2 - Chetpet Ward No. 108 Jaganathapuram school Road (extension)
+3 - Chetpet Ward No. 108 irattai malai srinivasan Street",All Voters
+163,16,163,"Corporation Primary Health Centre, No,14, Jaganathapuram, School Road, Chetpet, Chennai-600 031","1 - Chetpet Ward No. 108 Mangalapuram 14th Street
+2 - Chetpet Ward No. 108 North Birindhavan Street (Manickavasakar Street)
+3 - Chetpet Ward No. 108 Mangalapuram 13th Street
+4 - Chetpet Ward No. 108 Dobikana School Road",All Voters
+164,16,164,"Corporation Primary Health Centre
+,No.14,Jaganathapuram,School Road,chetpet,Chennai-600031","1 - Chetpet Ward No. 108 Ayya 2nd Street (New Colony)
+2 - Chetpet Ward No. 108 Ayya 1st Street
+3 - Chetpet Ward No. 108 Mangalapuram 12th Street
+4 - Chetpet Ward No. 108 Mayor V. R. Ramanathan Colony",All Voters
+165,16,165,"Chennai Middle School, No.27, Jaganathapuram School Road Chetpet, Chennai - 600031.","1 - Chetpet Ward No. 108 Ranganathapuram 2nd Street
+2 - Chetpet Ward No. 108 Ranganathapuram 1st Street
+3 - Chetpet Ward No. 108 Pumbing Station Road
+4 - Chetpet Ward No. 108 Jaganathapuram 1st Lane (Ranganathapuram)
+5 - Chetpet Ward No. 108 Jaganathapuram 4th Lane (Ranganathapuram)
+6 - Chetpet Ward No. 108 Ranganathapuram Corporation Model Line
+7 - Chetpet Ward No. 108 Jaganathapuram 2nd Lane",All Voters
+166,16,166,"Chennai Middle School, No.27, Jaganathapuram School Road Chetpet, Chennai - 600031.","1 - Chetpet Ward No. 108 Jaganathapuram 4th Street (Rajammal Street)
+999 - Overseas Elector",All Voters
+167,16,167,"Chennai Middle School, No.27, Jaganathapuram School Road Chetpet, Chennai - 600031.","1 - Chetpet Ward No. 108 Jaganathapuram 1st Street
+2 - Chetpet Ward No. 108 Jaganathapuram 1st Street 2nd Lane",All Voters
+168,16,168,"Chennai Middle School, No.27, Jaganathapuram School Road Chetpet, Chennai - 600031.","1 - Chetpet Ward No. 108 Selvanathan Street Mc Nichols Road 2nd Lane
+2 - Chetpet Ward No. 108 Murugesan Street
+3 - Chetpet Ward No. 108 Karukathamman Kovil 2nd Street
+4 - Chetpet Ward No. 108 Karukathamman Kovil 1st Lane
+5 - Chetpet Ward No. 108 Mc. Nichols Road 3rd Lane
+6 - Chetpet Ward No. 108 Muktha Garden
+7 - Chetpet Ward No. 108 Lamach Avenue
+8 - Chetpet Ward No. 108 Mayor V. R. Ramanathan Road (River Side Huts Area)
+9 - Chetpet Ward No. 108 Mayor V. R. Ramanathan Road 2nd Lane",All Voters
+169,16,169,"Chennai Middle School,No.27,Jaganathapuram School Road,Chetpet,Chennai-600031","1 - Chetpet Ward No. 108 Mayor V. R. Ramanathan Road (Spurtank Road)
+2 - Chetpet Ward No. 108 New Street
+3 - Chetpet Ward No. 108 Jaganathapuram 3rd Street",All Voters
+170,16,170,"Chennai Middle School, No.27, Jaganathapuram School Road Chetpet, Chennai - 600031.","1 - Chetpet Ward No. 108 Jaganathapuram 6 th Street
+2 - Chetpet Ward No. 108 Jaganathapuram 5th Street
+3 - Chetpet Ward No. 108 Manoharan Street (Mc. Nihcols Road 1st Lane)
+4 - Chetpet Ward No. 108 Manoharan Lane",All Voters
+171,16,171,"Sivakasi Hindu Nadar Metric Higher Secondary School, 46/47, Aravamudhan Garden Street, Egmore, Chennai - 600008.",1 - Egmore Ward No. 61 Osan Kulam Huts Side,All Voters
+172,16,172,"Sivakasi Hindu Nadar Metric Higher Secondary School, 46/47, Aravamudhan Garden Street, Egmore, Chennai - 600008.","1 - Egmore Ward No. 61 Osan KulamTamil Nadu Urban Habitat Development Board A Block
+2 - Egmore Ward No. 61 Osan KulamTamil Nadu Urban Habitat Development Board B Block
+3 - Egmore Ward No. 61 Osan KulamTamil Nadu Urban Habitat Development Board C Block
+4 - Egmore Ward No. 61 Osan KulamTamil Nadu Urban Habitat Development Board D Block
+5 - Egmore Ward No. 61 Osan KulamTamil Nadu Urban Habitat Development Board E Block
+6 - Egmore Ward No. 61 Osan KulamTamil Nadu Urban Habitat Development Board F Block
+7 - Egmore Ward No. 61 Osan KulamTamil Nadu Urban Habitat Development Board G & H Block",All Voters
+173,16,173,"Sivakasi Hindu Nadar Metric Higher Secondary School, 46/47, Aravamudhan Garden Street, Egmore, Chennai - 600008.","1 - Egmore Ward No. 61 Aravamudha Garden Street
+2 - Egmore Ward No. 61 Southern Railway Quarters
+3 - Egmore Ward No. 61 Kennet Lane",All Voters
+174,16,174,"ICDS Centre, No.35 Veerasamy Street, Egmore, Chennai - 600008.","1 - Egmore Ward No. 61 Police Commissioner Office Road
+2 - Egmore Ward No. 61 Police Commissioner Office Road (Cebros Flats)
+3 - Egmore Ward No. 61 Veerasamy Street
+4 - Egmore Ward No. 61 Varadharajalu Street
+5 - Egmore Ward No. 61 New Police Line A Block
+6 - Egmore Ward No. 61 New Police Line B Block
+7 - Egmore Ward No. 61 New Police Line C Block
+8 - Egmore Ward No. 61 New Police Line D Block
+9 - Egmore Ward No. 61 New Police Line E Block
+10 - Egmore Ward No. 61 New Police Line F Block
+11 - Egmore Ward No. 61 New Police Line G Block
+12 - Egmore Ward No. 61 New Police Line H Block
+13 - Egmore Ward No. 61 New Police Line I Block",All Voters
+175,16,175,"Chennai Middle School, No.35, Veerasamy Street, Egmore, Chennai - 600008.","1 - Egmore Ward No. 61 Poosala Gengu Street
+2 - Egmore Ward No. 61 Poosala Gengu Street City Heart Flats
+3 - Egmore Ward No. 61 Soorammal Street
+4 - Egmore Ward No. 61 Soorammal Street Huts Side",All Voters
+176,16,176,"Presidency Girls Higher Secondary School, Gengu Salai, Egmore, Chennai - 600008.",1 - Egmore Ward No. 61 Gengu Road 999 - Overseas Elector,All Voters
+177,16,177,"Presidency Girls Higher Secondary School, Gengu Salai, Egmore, Chennai - 600008.","1 - Egmore Ward No. 61 Boopathy Nagar Huts Side
+2 - Egmore Ward No. 61 Gopal Samy Nagar Huts Side
+3 - Egmore Ward No. 61 Boopathy Nagar Pillaiyar Kovil Street
+4 - Egmore Ward No. 61 New Police Quarters A Block
+5 - Egmore Ward No. 61 New Police Quarters B Block
+6 - Egmore Ward No. 61 New Police Quarters C Block",All Voters
+178,16,178,"Presidency Girls Higher Secondary School, Gengu Salai, Egmore, Chennai - 600008.","1 - Egmore Ward No. 61 Egmore High Road
+2 - Egmore Ward No. 61 Chinna Street
+3 - Egmore Ward No. 61 Vengu Street
+4 - Egmore Ward No. 61 Srinivasan Street
+5 - Egmore Ward No. 61 Lakshmi Narayana Perumal Kovil Street",All Voters
+179,16,179,"Don Bosco Matriculation Higher Secondary School, Casa Major Road, Egmore, Chennai - 600008.","1 - Egmore Ward No. 61 Sait Colony 1 st Street
+2 - Egmore Ward No. 61 Sait Colony 2nd Street
+3 - Chetpet Ward No. 61 Spur Tank Road Door No 1 to 47
+4 - Egmore Ward No. 61 East Spur Tank Road
+5 - Egmore Ward No. 61 Pantheon Road 1st Lane",All Voters
+180,16,180,"Don Bosco Matriculation Higher Secondary School, Casa Major Road, Egmore, Chennai - 600008.","1 - Chetpet Ward No. 61 Venugopal Avenue
+2 - Egmore Ward No. 61 Casa Major Road 1st Lane ( Manohar Avenue )
+3 - Egmore Ward No. 61 Casa Major Road
+4 - Egmore Ward No. 61 Casa Major Road 3rd Lane ( Sulaiman Jakkiriya Colony)
+5 - Egmore Ward No. 61 Casa Major Road 2nd Lane ( Jerard
+Garden )",All Voters
+181,16,181,"Don Bosco Matriculation Higher Secondary School, Casa Major Road, Egmore, Chennai - 600008.","1 - Egmore Ward No. 61 Halls Road
+2 - Egmore Ward No. 61 Pantheon Road 2nd Lane
+3 - Egmore Ward No. 61 Pantheon Road 3rd Lane ( Srirangam Avenue)
+4 - Egmore Ward No. 61 Pantheon Road",All Voters
+182,16,182,"Presidency Girls Higher Secondary School, Gengu Salai, Egmore, Chennai - 600008.","1 - Egmore Ward No. 61 Narayana Dasari Street
+2 - Egmore Ward No. 61 Nainiyan Street
+3 - Egmore Ward No. 61 Perumal Street and Huts Side
+4 - Egmore Ward No. 61 Diwan Bahadur Rangachari Street
+5 - Egmore Ward No. 61 Sundaram Street",All Voters
+183,16,183,"Presidency Girls Higher Secondary School, Gengu Salai, Egmore, Chennai - 600008.","1 - Egmore Ward No. 61 Samy Street
+2 - Egmore Ward No. 61 Dr. Natesan Road (Corporation Model Line)",All Voters
+184,16,184,"I C D S Centre , Varadharajapuram Langs Garden Road, Pudupet, Chennai-600 002","4 - Egmore Ward No. 61 Railway Quarters (Gandhi Irwin Road)
+5 - Egmore Ward No. 61 Gandhi Irwin Road
+6 - Egmore Ward No. 61 Whannels Road
+7 - Egmore Ward No. 61 Fire Station Officers Quarters
+8 - Pudupet Ward No. 61 Longs Garden Road",All Voters
+185,16,185,"Chennai Middle School, Varadharajapuram 1,Pantheon Road, Pudupet, Chennai - 600002.","1 - Pudupet Ward No. 61 Lebbai Street
+2 - Pudupet New Ward No. 61 W. S. K Enclave Longs Garden Road",All Voters
+186,16,186,"Chennai Middle School, Varadharajapuram 1,Pantheon Road, Pudupet, Chennai - 600002.",1 - Pudupet Ward No. 61 Ayyasamy Street,All Voters
+187,16,187,"Chennai Middle School, Varadharajapuram 1,Pantheon Road, Pudupet, Chennai - 600002.",1 - Pudupet Ward No. 61 Iyyasamy Street Huts Side,All Voters
+188,16,188,"Chennai Urdu Girls Primary School, 71 Langs Garden Road, Varadharajapuram,Pudupet, Chennai - 600002.","1 - Pudupet Ward No. 61 Longs Garden Road Huts Side
+2 - Pudupet Ward No. 61 Murthy Street
+3 - Pudupet Ward No. 61 Model Lines Anglo Indian Quarters
+4 - Pudupet Ward No. 61 Subban Street
+5 - Pudupet Ward No. 61 Chinna Kuzhandhai Street and Lane",All Voters
+189,16,189,"Chennai Urdu Girls Primary School, 71 Langs Garden Road, Varadharajapuram,Pudupet, Chennai - 600002.","1 - Pudupet Ward No. 61 Seshagiri Street
+2 - Pudupet Ward No. 61 Thulukanam Street
+3 - Pudupet Ward No. 61 Thiyagarajan Street
+4 - Pudupet Ward No. 61 Getty Ponnan Street",All Voters
+190,16,190,"ICDS Centre, Pantheon Road, Egmore, Chennai - 600008.",1 - Pudupet Ward No. 61 nariyankadu police lines (varadarajapuram police quarters),All Voters
+191,16,191,"St. Antony AI High School, Marshall Road, Egmore, Chennai-600008",1 - Pudupet Ward No. 61 Siyali Street,All Voters
+192,16,192,"St. Antony AI High School, Marshall Road, Egmore, Chennai-600008","1 - Pudupet Ward No. 61 Kudhirai Padai Quarters (Adhithanar Road)
+2 - Pudupet Ward No. 61 Thiruvenkadam Street
+3 - Pudupet Ward No. 61 Pusaran Lane
+4 - Pudupet Ward No. 61 basha sahib 2nd Lane
+5 - Pudupet Ward No. 61 Basha Sahib 1st Lane 999 - Overseas Elector",All Voters
+193,16,193,"St. Antony AI High School, Marshall Road, Egmore, Chennai-600008","1 - Pudupet Ward No. 61 Yegappan Street
+2 - Pudupet Ward No. 61 Sawarimuthu Lane
+3 - Pudupet Ward No. 61 Velayutham Street
+4 - Pudupet Ward No. 61 Subbarayar Street
+5 - Pudupet Ward No. 61 Velayutham 1st Lane
+6 - Pudupet Ward No. 61 Adithanar Road
+8 - Pudupet Ward No. 61 judge quarters (adhithanar Road)",All Voters
+194,16,194,"Nagle Nursery & Primary School, Adithanar Salai, Egmore, Chennai - 600002.","1 - Pudupet Ward No. 61 Transport Line
+2 - Pudupet Ward No. 61 Narayana Street
+3 - Pudupet Ward No. 61 Munusamy Lane
+4 - Pudupet Ward No. 61 Narayana Samy Lane
+5 - Pudupet Ward No. 61 Basha Sahib Street",All Voters
+195,16,195,"Nagle Nursery & Primary School, Adithanar Salai, Egmore, Chennai - 600002.",1 - Pudupet Ward No. 61 Thulasingam Street,All Voters
+196,16,196,"Urban Health & Wellness Centre, Drivers Street, Pudupet, Chennai - 600002.","1 - Pudupet Ward No. 61 Driver Street
+2 - Pudupet Ward No. 61 new police quarters
+3 - Pudupet Ward No. 61 T. N. P. H. C. A Block
+4 - Pudupet Ward No. 61 T. N. P. H. C. B Block
+5 - Pudupet Ward No. 61 T. N. P. H. C. C Block
+6 - Pudupet Ward No. 61 T. N. P. H. C. D Block",All Voters
+197,16,197,"Armed Reserve 1, Police Quarters , Pudupet, Chennai - 600002","1 - Pudupet Ward No. 61 Sepoy lines c Block
+2 - Pudupet Ward No. 61 Velayudham 2nd Lane
+3 - Pudupet Ward No. 61 Velayudham 3rd Lane
+4 - Pudupet Ward No. 61 Velayudham 4th Lane
+5 - Pudupet Ward No. 61 Transport Line Huts Side
+6 - Pudupet Ward No. 61 Abdul Sukoor Street",All Voters
+198,16,198,"Armed Reserve 1, Police Quarters , Pudupet, Chennai - 600002","1 - Pudupet Ward No. 61 Jamalmuhgaitheen Street
+2 - Pudupet Ward No. 61 Kaja Mogideen Street
+3 - Pudupet Ward No. 61 Abdul Usain Street
+4 - Pudupet Ward No. 61 Goyya Thoppu Street
+5 - Pudupet Ward No. 61 Syful Mulk Nawab Street
+6 - Pudupet Ward No. 61 Doctor Sukoor Street
+7 - Pudupet Ward No. 61 Meer Madan Ali Street",All Voters
+199,16,199,"Ethiraj College for Women, No.15, Commander- in-Cheif Road, Egmore, Chennai - 600008.","1 - Egmore Ward No. 61 Rukumani Lakshmipathi Road (Marshall Road)
+2 - Egmore Ward No. 61 Radha Shyam Flat (Marshall Road)
+3 - Egmore Ward No. 61 Lakshmi Niwas (Marshall Road)
+4 - Egmore Ward No. 61 Tirupthi Apartments (Marshall Road)
+5 - Egmore Ward No. 61 Appana Kar (Marshall Road)
+6 - Egmore Ward No. 61 Parkavey Flat (Marshall Road)
+7 - Egmore Ward No. 61 Bagirathi ReSidency (Marshall Road)
+8 - Egmore Ward No. 61 Rajagiri ReSidency (Marshall Road)
+9 - Egmore Ward No. 61 Montieth Lane
+10 - Egmore Ward No. 61 Meridian House (Montieth Lane)
+11 - Egmore Ward No. 61 Montieth Road 999 - Overseas Elector",All Voters
+200,16,200,"Ethiraj College For Women,No.15,Commander-in-Cheif Road,Egmore,Chennai-600008","1 - Egmore Ward No. 61 Montieth Mansion (Montieth Road)
+2 - Egmore Ward No. 61 Sisaan Complex (Montieth Road)
+3 - Egmore Ward No. 61 Queens Court (Montieth Road)
+4 - Egmore Ward No. 61 Montieth Court (Montieth Road)
+5 - Egmore Ward No. 61 Ethiraj Road
+6 - Egmore Ward No. 61 Sesna Niligiri (East) ( Ethiraj Road) 7 - Egmore Ward No. 61 Sesna Niligiri (West) ( Ethiraj Road)
+8 - Egmore Ward No. 61 Sivalaaya B Block (Ethiraj Road)
+9 - Egmore Ward No. 61 Sivalaaya C Block (Ethiraj Road)
+10 - Egmore Ward No. 61 P. V . Cheriyan Crescent Road (Victoria)
+11 - Egmore Ward No. 61 Tangy Apartments (P. V. Cherian Crescent Road)
+12 - Egmore Ward No. 61 Gambrae East (P. V Cherian Crescent Road)",All Voters

@@ -1,0 +1,576 @@
+sl_no,ac_code,polling_station_number,polling_station,polling_areas,polling_station_type
+-1,47,-2,-3,-4,-5
+1,47,1,"Panchayat union Middle School, Facing
+East, West Building Narayanapuram 635801","1.Narayanapuram (R.V) & (P) Ward 1 Narayanapuram , 2.Narayanapuram
+(R.V) & (P) Ward 1 2Narayanpuram Kellakottai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+2,47,2,"Panchayat union Middle School , Facing South, North Building Javadurama sumdaram 635801","1.Narayanapuram (R.V) & (P) Ward 3 Javadu Ramasamudiram , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+3,47,3,"Panchayat Union Elementary School , Old Addl. Building East Facing Alasanthapuram 635801","1.Alachandapuram (R.V) & (P) Ward 1 Cimukampattu , 2.Alasandapuram (R.V) & (P) Ward 1 Kollapalli , 3.Alachandapuram (R.V) & (P) Ward 2 Venkatarajapuram , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+4,47,4,"Panchayat Union Elementary School , Old Addl. Building East Facing Lift side building Alasanthapuram 635801","1.Alachandapuram (R.V) & (P) Ward 3 Alachandapuram , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+5,47,5,"Panchayat Union Middle School , SSA Building North Facing Mottur 635801","1.Pullur (R.V) & (P) Ward 2 Pullur Adidravidar colony , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+6,47,6,Panchayat Union Middle School New Main Additional Building South Facing Mottur 635801,"1.Pullur (R.V) & (P) Ward 2 Pullur Kollakottai , 2.Pullur (R.V) & (P) Ward 2 Government Promboku , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+7,47,7,"Panchayat Union Middle School, SSA Building West Facing Mottur 635801","1.Pullur (R.V) & (P) Ward 1 Mottur , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+8,47,8,"Panchayat Union Middle School , New Main Addittional Building, South Facing Mottur 635801","1.Thimmapettai (R.V) & (P) Ward 1 Eswaran Koil Street , 2.Thimmapettai (R.V) & (P) Ward 2 Arasamara Street , 3.Thimmapettai (R.V) & (P) Ward 3 Vinayagar Koil Street , 4.Thimmapettai (R.V) & (P) Ward 4 Theradi Veethi , 5.Thimmapettai (R.V) & (P) Ward 5 Vanara Street , 6.Thimmapettai (R.V) & (P) Ward 6 Otter Street , 7.Thimmapettai (R.V) & (P) Ward 7 Venkatesan Kovil Street , 8.Thimmapettai (R.V) & (P) Ward 8 Police Station Street , 9.Thimmapettai (R.V) & (P) Ward 9 High  School Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+9,47,9,Panchayat Union Middle School New Main Addittional Building South Facing Left side Mottur 635801,"1.Thimmapettai (R.V) & (P) PACB Street , 2.Thimmapettai (R.V) & (P) Ward 2 Vannar Street , 3.Thimmapettai (R.V) & (P) Ward 2  Mariyamman Kovil Street , 4.Thimmapettai (R.V) & (P) Ward 3 Jet Vattam , 5.Thimmapettai (R.V) & (P) Ward 3 Kadamana Kollai , 6.Thimmapettai (R.V) & (P) Ward 3 Kottampatti Moolai , 7.Thimmapettai (R.V) & (P) Ward 3 Pattur , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+10,47,10,"Panchayat Union Elementary School , Eastern Side Building, North Facing Thimampettai 635801","1.Chicknangkuppam (R.V) & (P) Ward 1 Chicknangkuppam , 2.Chicknangkuppam (R.V) & (P) Ward 1 Vaithiyar Vattam , 3.Chicknangkuppam (R.V) & (P) Ward 1 Eatchangal Vattam , 4.Chicknangkuppam (R.V) & (P) Ward 1 Pookara Vattam , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+11,47,11,"Panchayat Union Elementary School , New Building Eastern side Facing East Thimampettai 635801","1.Chicknangkuppam (R.V) & (P) Ward 1  Sevathan Vattam , 2.Chicknangkuppam (R.V) & (P) Ward 1 Rasan Vattam , 3.Chicknangkuppam (R.V) & (P) Ward 1 Nather Kuttai Vattam , 4.Chicknangkuppam (R.V) & (P) Ward 1 Nattan Vattam , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+12,47,12,"Panchayat Union Elementary School , West Facing SSA Building, South Portion Chickanankuppam 635801","1.Chicknangkuppam (R.V) & (P) Ward 2 Tank Vattam , 2.Chicknangkuppam (R.V) & (P) Ward 2 Kanakupillai Vattam , 3.Chicknangkuppam (R.V) & (P) Ward 2 Kil Vattam , 4.Chicknangkuppam (R.V) & (P) Ward 2 Old Colony , 5.Chicknangkuppam (R.V) & (P) Ward 2 New Colony , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+13,47,13,"Panchayat Union Elementary School , West Facing SSA Building, Sorth Portion, Chickanankuppam 635801","1.Chicknangkuppam (R.V) & (P) Ward 3 Egilorian Vattam , 2.Chicknangkuppam (R.V) & (P) Ward 3 Thotti Kolli Vattam , 3.Chicknangkuppam (R.V) & (P) Ward 3 Kurumer Vattam , 4.Chicknangkuppam (R.V) & (P) Ward 3 Thiguvapalayam , 5.Chicknangkuppam (R.V) & (P) Ward 3 Pakaveetu Vattam , 6.Chicknangkuppam (R.V) & (P) Ward 3 Eari Kolli Kottai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+14,47,14,"Panchayat Union Elementary School, SSA Building, North Facing Chickanankuppam 635801","1.Chicknangkuppam (R.V) & (P) Ward 4  Jaman Kolli Vattam , 2.Chicknangkuppam (R.V) & (P) Ward 4  Mooper Vattam , 3.Chicknangkuppam (R.V) & (P) Ward 4 Kanaka Medu , 4.Chicknangkuppam (R.V) & (P) Ward 4  Kundi Mariyamman Koil Vattam , 5.Chicknangkuppam (R.V) & (P) War .4 Kavukapattu , 6.Chicknangkuppam (R.V) & (P) Ward 4 Nathar Kuttai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+15,47,15,"Panchayat Union Elementary School , Addl Building, Eastern wing, Facing South Thiguvapalayam 635801","1.Thumberi (R.V) & (P) Ward 3  Thumberi Mettu Street , 2.Thumberi (R.V) & (P) Ward 3 Guruvan Gavunder Vattam , 3.Thumberi (R.V) & (P) Ward 3 Ambedkar Nagar , 4.Thumberi (R.V) & (P) Ward 3 Ellaiyakavu Vattam ,
+5.Thumberi (R.V) & (P) Ward 3 Balakavu Vattam , 6.Thumberi (R.V) & (P) Ward 3 EariKollai Vattam West Division , 7.Thumberi (R.V) & (P) Ward 3 Pallikuda Vattam , 8.Thumberi (R.V) & (P) Ward 3  Killi Vattam ,
+9.Thumberi (R.V) & (P) Ward 3 EariKollai Vattam , 10.Thumberi (P) Ward 3 Samikannu Vattam , 11.Thumberi (R.V) & (P) Ward 3 Elli Vattam , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+16,47,16,"Panchayat Union Elementary School , Addl Building, Eastern wing, Facing East Thiguvapalayam 635801","1.Thumberi (R.V) & (P) Ward 4 Kootu Road Nathikuppam , 2.Thumberi (R.V) & (P) Ward 4 Sankaran Vattam , 3.Thumberi (R.V) & (P) Ward 4 Bharathi Nagar , 4.Thumberi (R.V) & (P) Ward 4 Mitanangkuppam ,
+5.Thumberi (R.V) & (P) Ward 4 Mitanangkuppam East Division ,
+6.Thumberi (R.V) & (P) Ward 4 Mitanangkuppam Kollakottai , 7.Thumberi (R.V) & (P) Ward 4  Nathikuppam , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+17,47,17,"Panchayat Union Elementary School , Addl Building Southern portion, Facing north Kowakkapattu 635801","1.Thumberi (R.V) & (P) Ward 1 Thumberi Village Part , 2.Thumberi (R.V) &
+(P) Ward 1 Thumberi Colony , 3.Thumberi (R.V) & (P) Ward 1 Paraikollai Vattam , 4.Thumberi (R.V) & (P) Ward 1 Thumberi Mettu Street ,
+5.Thumberi (R.V) & (P) Ward 1 Perumal Koil Vattam Mitanangkuppam ,
+6.Thumberi (R.V) & (P) Ward 1 Thumberian Vattam Mittanangkuppam ,
+7.Thumberi (R.V) & (P) War 1 Mitanangkuppam , 8.Thumberi (R.V) & (P) Ward 1 Mathan Vattam , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+18,47,18,"Government Higher Secondary School, , Class Room No.11-C, Western Building, East Facing Thumberi 635754","1.Thumberi (R.V) & (P) Ward 2 Balagavunder Vattam , 2.Thumberi (R.V) &
+(P) Ward 2 Annanagar , 3.Thumberi (R.V) & (P) Ward 2 Theerthan Vattam
+, 4.Thumberi (R.V) & (P) Ward 2 Chettykuttai Vattam , 5.Thumberi (R.V) &
+(P) Ward 2 Pallakollai Vattam , 6.Thumberi (R.V) & (P) Ward 2 Mathan Vattam , 7.Thumberi (R.V) & (P) Ward 2 Naidu Vattam , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+19,47,19,"Panchayat Union Ele. School , Western Building, Facing East South side Thumberi 635754","1.Thumberi (R.V), Alinchikulam (P) Ward 1 Alinchikulam Adidravidar Colony Pudumanai , 2.Thumberi (R.V), Alinchikulam (P) Ward 1 Alinchikulam Adidravidar Colony School , 3.Thumberi (R.V), Alinchikulam
+(P) Ward 1 Alinchikulam Adidravidar Colony Thangavel , 4.Thumberi (R.V), Alinchikulam (P) Ward 1 Alinchikulam Adidravidar Colony Mettu Street ,
+5.Thumberi (R.V), Alinchikulam (P) Ward 1 Mandari Vattam , 6.Thumberi (R.V), Alinchikulam (P) Ward 1  Alinchikulam Colony Old Manai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+20,47,20,"Panchayat Union Ele. School ,Eastern Building, Facing East Thumberi 635754","1.Thumberi (R.V), Alinchikulam (P) Ward 2 Alinchikulam Adidravidar Colony Srivina , 2.Thumberi (R.V), Alinchikulam (P) Ward 2  Alinchikulam Kollakottai , 3.Thumberi (R.V), Alinchikulam (P) Ward 2 Putheri Kolla Vattam , 4.Thumberi (R.V), Alinchikulam (P) Ward 2 Mel Alinchikulam ,
+5.Thumberi (R.V), Alinchikulam (P) Ward 2 Mel Alinchikulam Perumal Koil Vattam , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+21,47,21,"Government Higher secondary School, , Room No.9, East Building, Facing South Thumberi 635754","1.Vaniyambadi (R.V) Etchangal (P) Ward 1, Etchankal  main road , 2.Vaniyambadi (R.V) Etchankal (P) Ward 1, Amman Kovil Street , 3.Vaniyambadi (R.V) Etchankal (P) Ward 1, Gandhi Street , 4.Vaniyambadi (R.V) Etchankal (P) Ward 1, Kamaraj Street , 5.Vaniyambadi (R.V) Etchankal (P) Ward 1, Neru Street , 6.Vaniyambadi (R.V) Etchankal (P) Ward 2, Kattabomman Street , 7.Vaniyambadi(R.V) Etchankal (P) Ward 2, Ma.Po.C. Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+22,47,22,Government Higher secondary School West Building Facing South Thumberi 635754,"1.Devasthanam (R.V) And (P) Ward 1, Bharathidasan street , 2.Devasthanam (R.V) And (P) Ward 1, V.L.Shanmugha Mudali Street , 3.Devasthanam (R.V) And (P) Ward 1, Eswaran Kovil Street , 4.Devasthanam (R.V) And (P) Ward 1, Marku sagaya Mudali street , 5.Devasthanam (R.V) And (P) Ward 1, West Mada Veethi , 6.Devasthanam (R.V) And (P) Ward 1, Gandhi Street , 7.Devasthanam (R.V) And (P) Ward 1, Attrupadukai Kudisaigal , 8.Devasthanam (R.V) And
+(P) Ward 1, Kollai Kottai , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+23,47,23,"Panchayat Union Elementary School , RCC building, West Facing Azhinchikulam 635751","1.Devasthanam (R.V) And (P) Ward 3, Samundeeswari kovil street , 2.Devasthanam (R.V) And (P) Ward 3  Gandhi Street , 3.Devasthanam (R.V) And (P) Ward 3, Narayanasami Street , 4.Devasthanam (R.V) And
+(P) Ward 3, Perumal Kovil Street , 5.Devasthanam (R.V) And (P) Ward 3, Ilango Street , 6.Devasthanam (R.V) And (P) Ward 3, S.P.Dhanapal Street
+, 7.Devasthanam (R.V) And (P) Ward 3, Kamarajar Street , 8.Devasthanam (R.V) And (P) Ward 3, Mada Thoppu , 9.Devasthanam (R.V) And (P) Ward 3, Erikarai , 10.Devasthanam (R.V) And (P) Ward 3, Kollakottaid , 11.Devasthanam (R.V) And (P) Ward 3, Otapperi , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+24,47,24,"Panchayat Union Middle School, Southern Side Building, Facing North Azhinchikulam 635751","1.Jafarabat  (CT) Ward 1, Shioli street , 2.Jafarabat  (CT) Ward 1, Majith Street , 3.Jafarabat  (CT) Ward 2, Medhanakar Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+25,47,25,"Panchayat UnionElementary School , Facing South Building Echangal 635751","1.Jafarabat  (CT) Ward 1, Abdul  Kuttus Street , 2.Jafarabat  (CT) Ward 1,
+Salar Street , 3.Jafarabat  (CT) Ward 1, Peerji Street ,  999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+26,47,26,"Panchayat Union Middle School , Addl. Building, Eastern Wing, Facing South Devasthanam 635751","1.Jabarbath (CT) Ward 1, Main road , 2.Jafarabat  (CT) Ward 1, Pullaru Vattam , 3.Jafarabat  (CT) Ward 1, Kakkan Street , 4.Jafarabat  (CT) Ward 1, Ambedkar Street , 5.Jafarabat  (CT) Ward 1, Gandhi Street , 6.Jafarabat (CT) Ward 4, Kamaraj Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+27,47,27,"Panchayat Union Middle School, Class Room-6,7, South Facing Devasthanam 635751","1.Jabarabath (CT) Ward 1, T  abdul rahman street , 2.Jafarabat  (CT) Ward 1, Mariamman Kovil Street , 3.Jafarabat  (CT) Ward 1, Old Vaniyambadi , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+28,47,28,"Panchayat Union Middle Urdu Boys School , RCC. Building, North Fortion Facing East Jafarabath 635754","1.Jafarabat  (CT) Ward 1, Pudhu manai , 2.Jafarabat  (CT) Ward 1, Reshan kadai Street , 3.Jafarabat  (CT) Ward 1, Dhuperi Road , 4.Jafarabat  (CT) Ward 1, Ambedkar Nagar , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+29,47,29,Panchayat Union Urdu Boys Middle School Additional Building West Facing Jafarabath 635754,"1.Jabrabath (CT) Ward 2, Ethka backside kava street , 2.Jafarabat  (CT) Ward 2, A.L. Street , 3.Jafarabat  (CT) Ward 2, Majith Street , 4.Jafarabat (CT) Ward 2, O.P. Street , 5.Jafarabat  (CT) Ward 2, Kavakkara Street , 6.Jafarabat  (CT) Ward 2, Siyali Street , 7.Jafarabat  (CT) Ward 2, Salar Street , 8.Jafarabat  (CT) Ward 2, Kaka Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+30,47,30,"Panchayat Union Urdu Boys Middle School, New RCC Building, Facing South Jafarabath 635754","1.Vaniyambadi (R.V) Devasthanam (P) Ward 2, Mariamman kovil street , 2.Vaniyambadi (R.V) Devasthanam (P) Ward 2, Pudhumanai , 3.Vaniyambadi (R.V) Devasthanam (P) Ward 2, Ambedkar Street , 4.Vaniyambadi (R.V) Devasthanam (P) Ward 2, Sivaraj Street , 5.Vaniyambadi (R.V) Devasthanam (P) Ward 2, Kakkan Colony , 6.Vaniyambadi (R.V) Devasthanam (P) Ward 2, Kamaraj Street , 7.Vaniyambadi (R.V) Devasthanam (P) Ward 2, Anna Veethi , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+31,47,31,"Panchayat Union Urdhu Girls Middle School , RCC Building Facing west Jafarabath 635754","1.Vaniyambadi (R.V) Devasthanam (P) Ward 4, Mariamman kovil street , 2.Vaniyambadi (R.V) Devasthanam (P) Ward 4, Thanjan Vattam , 3.Vaniyambadi (R.V) Devasthanam (P) Ward 4, Meivattam , 4.Vaniyambadi (R.V) Devasthanam (P) Ward 4, Kollakottai , 5.Vaniyambadi (R.V) Devasthanam (P) Ward 4, Perumal Kovil Street , 6.Vaniyambadi (R.V) Devasthanam (P) Ward 4, Ambedkar Street , 7.Vaniyambadi (R.V) Devasthanam (P) Ward 4, Kakan Vattam , 8.Vaniyambadi (R.V) Devasthanam (P) Ward 4, Bharathiyar Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+32,47,32,"Panchayat Union Urdhu Girls Middle School , New Building, North Facing East Fortion Jafarabath 635754","1.Vadakupattu (R.V), Ekalaspuram (P) Ward 1 Ekalaspuram , 2.Vadakupattu (R.V), Ekalaspuram (P) Ward 1 Ekalaspuram Adidravidar Colony , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+33,47,33,"Panchayat Union Urdhu Girls Middle School, North Facing West Fortion Jafarabath 635754","1.Vadakupattu (R.V) & (P) Ward 1 Vadakupattu , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+34,47,34,"Panchayat Union Urdhu Boys Middle School , Addl. RCC. Building, Facing East, South Fortion Jafarabath 635754","1.Vadakupattu (R.V) & (P) Ward 2 Vadakupattu Kollakottai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+35,47,35,Aanganwadi Centre North Facing Jaffarabad - 635754,"1.Vadakkupattu (R.V), Sankarapuram (P) Ward 1 Sankarapuram , 2.Vadakkupattu (R.V), Sankarapuram (P) Ward 2 Kollakottai , 3.Vadakkupattu (R.V), Sankarapuram (P) Ward 2 Kollakottai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+36,47,36,"Panchayat Union Elementary School, Facing East Nadupattarai 635754","1.Pullur (R.V), Avarangkuppam (P) Ward 2 Avarangkuppam , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+37,47,37,"Anganwadi Centre , Facing North, Arapandakuppam 635754","1.Pullur (R.V), Avarangkuppam (P) Ward 2 Avarangkuppam Kollakottai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+38,47,38,"Panchayat Union Elementary School, New Building, Facing East Ekalaspuram 635801","1.Ramanayakan Pettai (R.V) & (P) Ward 2 Ramanayakan Pettai Kollakottai
+, 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+39,47,39,"Panchayat Union Elementary School, West Side Building, Facing South Vadakupattu 635801","1.Ramanayakan Pettai (R.V) & (P) Ward 2 Ramanayakan Pettai Kollakottai
+, 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+40,47,40,"Panchayat Union Elementary School, East Side Building, Facing South Vadakupattu 635801","1.Ramanayakan Pettai (R.V) & (P) Ward 1 Ramanayakan Pettai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+41,47,41,"Panchayat Union Elementary School, New Building, Facing West Sankarapuram 635801","1.Mallakunda (R.V) & (P) ParaiKollai Vattam, Irullar Vattam, Thakarakuppam, Thottiginaru , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+42,47,42,"Panchayat Union Middle School, Main Building Facing North, East side Avarangkuppam 635801","1.Mallakunda (R.V) & (P) ParaiKollai Vattam, Irullar Vattam, Thakarakuppam, Thottiginaru , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+43,47,43,"Panchayat Union Middle School , Main Building, Facing North, West side Avarangkuppam 635801","1.Mallakunda (R.V) & (P) Ward 3 Mallakunda , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+44,47,44,"Government Higher Sec School , North Building, Facing South East Wing, RamanayakanPettai 635801","1.Mallakunda (R.V) & (P) Ward 3 Puduran Vattam , 2.Mallakunda (R.V) &
+(P) Ward 3 Thasariyapanur Kollakottai , 3.Mallakunda (R.V) & (P) Ward 3 Earikuttai Vattam , 4.Mallakunda (R.V) & (P) Ward 2 Chinnapiyan Vattam , 5.Mallakunda (R.V) & (P) Ward 2 Mariyan Vattam , 6.Mallakunda (R.V) &
+(P) Ward 2 Udupathai Vattam , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+45,47,45,"Government Higher Sec School , North Building, Facing South, West Wing, RamanayakanPettai 635801","1.Mallakunda (R.V) & (P) Ward 5 Thasiriyapanur , 2.Mallakunda (R.V) &
+(P) Ward 5 Narayana Vattam , 3.Mallakunda (R.V) & (P) Ward 5 Chunambukara Vattam , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+46,47,46,"Government Higher Sec School , West Building, East Facing , Middle Room, RamanayakanPettai 635801","1.Mallakunda (R.V) & (P) Ward 5 Koyan Kollai , 2.Mallakunda (R.V) & (P) Ward 5 Velmarathu Vattam , 3.Mallakunda (R.V) & (P) Ward 5 Pullaneri Vattam , 4.Mallakunda (R.V) & (P) Ward 5 Kulima Kollai , 5.Mallakunda (R.V) & (P) Ward 5 Chunambukara Vattam , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+47,47,47,"Panchayat Union Elementary School, North wing, Facing East Gurupavani Gunda 635852","1.Mallakunda (R.V) & (P) Ward 1 Mallagunda 2.Mallakunda (R.V) & (P) Ward 1 Mallagunda Colony , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+48,47,48,"Panchayat Union Elementary School, West Facing East Building,Gurupavani Gunda 635852","1.Mallakunda (R.V) & (P) Ward 1 Palakalapavi 2.Mallakunda (R.V) & (P) Ward 1 Kavarao Street ,, 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+49,47,49,"Government High School, Facing West, Kamarajar Koodam Thagarakuppam 635852","1.Mallakunda (R.V) & (P) Ward 1 Thottikuttai  2.Mallakunda (R.V) & (P) Ward 5 Annanagar , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+50,47,50,"Panchayat Union Elementary School , Eastern side building Facing West Thasiriyapanur 635852","1.Mallangkuppam (R.V) & (P) Ward 1 Mallangkuppam , 2.Mallangkuppam (R.V) & (P) Ward 1 Natchi Mandiri Vattam , 3.Mallangkuppam (R.V) & (P) Ward 1 Karuthandi Vattam , 4.Mallangkuppam (R.V) & (P) Ward 1Balan Vattam , 5.Mallangkuppam (R.V) & (P) Ward 1 Thirupathi Vattem , 6.Mallangkuppam (R.V) & (P) Ward 1 Alagu Mandiri Vattam , 7.Mallangkuppam (R.V) & (P) Ward 1 Mooper Colony , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+51,47,51,"Panchayat Union Elementary School, Eastern Building, Facing South Bharathi Nagar Thasiriyapanur 635852","1.Thekupattu (R.V) & (P) Ward 1  Thekupattu , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+52,47,52,"Panchayat Union Elementary School , West Building, East Portion, Facing South Thasiriyapanur 635852","1.Thekupattu (R.V) & (P) Ward 2  Thekupattu Adidravidar Colony , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+53,47,53,"Panchayat Union Elementary School , East Building, Facing west Koyankollai 635852","1.Ambalur (R.V) & (P) Ward 1 Raja Street , 2.Ambalur (R.V) & (P) Ward 2 Mooper Street , 3.Ambalur (R.V) & (P) Ward2 Kamaraj Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+54,47,54,"Panchayat Union Elementary School , North Building Facing south Mallakunda 635852","1.Ambalur (R.V) & (P) Ward 3 Old Colony , 2.Ambalur (R.V) & (P) Ward 3 New Street , 3.Ambalur (R.V) & (P) Ward 4 New Street , 4.Ambalur (R.V) &
+(P) Ward 4  Thenathoppu , 5.Ambalur (R.V) & (P) Ward 4 Vauvalthoppu ,
+6.Ambalur (R.V) & (P) Ward 4 Pannakollai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+55,47,55,"Panchayat Union Elementary School , Facing East building Mallakunda 635852","1.Ambalur (R.V),  Kodaiyanchi (P) Ward 1 Mettu Street , 2.Ambalur (R.V), Kodaiyanchi (P) Ward 1 Mariyamman Koil Street , 3.Ambalur (R.V), Kodaiyanchi (P) Ward 1  Palla Street , 4.Ambalur (R.V),  Kodaiyanchi (P) Ward 1 Raja Street , 5.Ambalur (R.V),  Kodaiyanchi (P) Ward 2 Old Colony Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+56,47,56,"Panchayat Union Middle School , East Building Facing East Mallakunda 635852","1.Ambalur (R.V),  Kodaiyanchi (P) Ward 3 Old Colony Street , 2.Ambalur (R.V),  Kodaiyanchi (P) Ward 3 Thomas Nagar , 3.Ambalur (R.V), Kodaiyanchi (P) Ward 3 Kalar Kottai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+57,47,57,"Panchayat Union Elementary School, New Additional Building Facing East Mallangkuppam 635801","1.Vaniyambadi (M) Ward-1 kaliyamman koil street , 2.Vaniyambadi (M) Ward-1 Kangappan Street , 3.Vaniyambadi (M) Ward-1 Arunachalam Street , 4.Vaniyambadi (M) Ward-1 Murthy Street , 5.Vaniyambadi (M) Ward-1 Ayyasamy Street , 6.Vaniyambadi (M) WARd-1 Lakshmanan Street , 7.Vaniyambadi (M) Ward-1 Kataikara Kanthasamy Stree , 8.Vaniyambadi (M) Ward-1 Thasiri Street , 9.Vaniyambadi (M) Ward-1 Nallan Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+58,47,58,"Panchayat Union Elementary School, South Facing North Building, Mallangkuppam 635801","1.Vaniyambadi (M) Ward-1 Vijayaragavan Street , 2.Vaniyambadi (M) Ward-1 Vijayaragavan Street Lane , 3.Vaniyambadi (M) Ward-1- A.S. Vishvanathan 1st Street , 4.Vaniyambadi (M) Ward-1 V.S. Vishwanathan 2nd Street , 5.Vaniyambadi (M) Ward-1 V.S. Vishvanathan 3rd Street , 6.Vaniyambadi (M) Ward-1 V.S.Vishvanathan Street (Atrupadugai) , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+59,47,59,"Panchayat Union Middle School, Addl. Building Facing East, North Side Thekupattu 635801","1.Vaniyambadi (M) Ward-2 santhamiyan street , 2.Vaniyambadi (M) Ward-2, Khathar Hussain Street , 3.Vaniyambadi (M) Ward-2 Khathip Abdul Kareem Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+60,47,60,"Panchayat Union Middle School, North Facing East Side Building Thekupattu 635801","1.Vaniyambadi (M) Ward-3 m.l.abdul salaam street , 2.Vaniyambadi (M) Ward-3 Hassain mohamad Usman 1st Street , 3.Vaniyambadi (M) Ward-3 Hassain Ushman 2nd Street , 4.Vaniyambadi (M) Ward-3 Matharase PaisaiAm Street , 5.Vaniyambadi (M) Ward-3- Masthan Tharka Street , 6.Vaniyambadi (M) Ward-3 M.Purandin Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+61,47,61,"Panchayat Union Middle School, SSA Building Facing North Thekupattu 635801","1.Vaniyambadi (M) Ward-3 M.Abdul Vahab 1st Street , 2.Vaniyambadi (M) Ward-3 M.Abdul Vahab 2nd Street , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+62,47,62,"Panchayat Union Elementary School , Facing North Eastern side Building Ambalur 635801","1.Vaniyambadi (M) Ward-4 mohamad usman road , 2.Vaniyambadi (M) Ward-4Mohamad Usman 1st Cross  , 3.Vaniyambadi (M) Ward-4 Mohamad Usman 2 Cross Street , 4.Vaniyambadi (M) Ward-4 Mohamad Usman 3rd Cross Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+63,47,63,"Panchayat Union Elementary School , Facing North Western side Building Ambalur 635801","1.Vaniyambadi (M) Ward-4 J.Saiban 1st Street , 2.Vaniyambadi (M) Ward-4 J.Saiban 2nd Street , 3.Vaniyambadi (M) Ward-4 Thakkadi Jainulabithin Street , 4.Vaniyambadi (M) Ward-4 Malai Bakkir Street , 5.Vaniyambadi
+(M) Ward-4 Mosque Street , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+64,47,64,"Panchayat Union Middle School , Additional Building, North Facing Kodaiyanchi 635801","1.Vaniyambadi (M) Ward-5 kambar street , 2.Vaniyambadi (M) Ward-5-Chinnaiyan Street , 3.Vaniyambadi (M) Ward-5- Ajee Kulam Hussain Street
+, 4.Vaniyambadi (M) Ward-5 Ajee Kulam Hussain Street Starting , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+65,47,65,"Panchayat Union Middle School , SSA Building, Facing west Kodaiyanchi 635801","1.Vaniyambadi (M) Ward-5 Pillaiyar Koil Street , 2.Vaniyambadi (M) Ward-5 Saraswathi Nagar , 3.Vaniyambadi (M) Ward-5 Pillaiyar Koil Street Starting , 4.Vaniyambadi (M) Ward-5 Balappan Street , 999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+66,47,66,"Municipal Hindu Middle School , Western side facing south Periyapettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-6 c. govindarajan street , 2.Vaniyambadi (M) Ward-6 Post Office Street , 3.Vaniyambadi (M) Ward-6 Thippannan Street 1st , 4.Vaniyambadi (M) Ward-6 Thippannan 2nd Street , 5.Vaniyambadi
+(M) Ward-6 Ponniyammal Koil 1st Street , 6.Vaniyambadi (M) Ward-6 Ponniyamman Koil 2nd Street  7.Vaniyambadi (M) Ward-6 Shanmugam Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+67,47,67,"Municipal Hindu Middle School , Eestern side facing south Periyapettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-6  Sivan 1st Street  , 2.Vaniyambadi (M) Ward-6 Sivan 2nd Street , 3.Vaniyambadi (M) Ward -6 Annasamy Street , 4.Vaniyambadi (M) Ward-6 Gowri Street , 5.Vaniyambadi (M) Ward-7,desai senkannan street , 6.Vaniyambadi (M) Ward-7 DEsai Vengatraman Street , 7.Vaniyambadi (M) WArd-7,Sagadeva Krishnappan Street , 8.Vaniyambadi
+(M) Ward-7,Velan Govindan Street , 9.Vaniyambadi (M) Ward-7,Senjan Street , 10.Vaniyambadi (M) Ward-7,V.R.B.Ramasamy Street , 11.Vaniyambadi (M) WArd- 7, Police Line 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+68,47,68,"Municipal Hindu Middle School ,East Side Facing West, Room No.1 Periyapettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-8 pandithar jawaharlal nehru 1st street , 2.Vaniyambadi (M) Ward-8 Pandithar Jawaharlal Nehru Street , 3.Vaniyambadi (M) Ward-8 Pandithar Jawaharlal Nehru 2nd Street , 4.Vaniyambadi (M) Ward-8 Padithar Jawaharlal Nehru 4th Street ,
+999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+69,47,69,"Madrasatul Banath Primary School, Facing South Periyapettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-8 Pandithar Jawaharlal Nehru  (Kamarajapuram)
+, 2.Vaniyambadi (M) Ward-8-È Pandithar Jawaharlal Nehru (annanagar) , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+70,47,70,"Madrasatul Banath Primary School, Facing South, North Building, West Wing, Periyapettai, Vaniyambadi 635751","1.Vaniyambadi (M) Ward-9¤arasamara street , 2.Vaniyambadi (M) WArd-9ÈÚBatcha Munisamy Street , 3.Vaniyambadi (M) Ward-9 Pellary Subarayan Street , 4.Vaniyambadi (M) Ward-9 Mariyamman Koil Street , 5.Vaniyambadi (M) Ward-9 Kunni Street , 6.Vaniyambadi (M) Ward-9 Kanniyar Madam 1st Street , 7.Vaniyambadi (M) Ward-9 Kanniyar Madam 2rd Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+71,47,71,"Madrasatul Banath Primary School,LKG ClassRoom, Facing North Periyapettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) ward-9 Seetha raman Street , 2.Vaniyambadi (M) Ward-9 Sounthri Ponnappan Street , 3.Vaniyambadi (M) Ward-10 thiruvalluvar street , 4.Vaniyambadi (M) Ward-10 Pajanai Koil Street , 5.Vaniyambadi
+(M) Ward-10 S.R.Kuppusamy Street , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+72,47,72,"Madrasatul Banath Primary School, Facing East Periyapettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-10 V.Abdul Rasheeth Street , 2.Vaniyambadi (M) Ward-10 M.Meerthin Street , 3.Vaniyambadi (M) Ward-10 Pethakara Jaylathief Street , 4.Vaniyambadi (M) Ward-10 Pandithat Jawahalal Nehru Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+73,47,73,"Madrasatul Banath Primary School, Facing North, South Side west wing 2nd Std Class Room, Periyapettai,
+Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-11naina mohamad  kasheem street , 2.Vaniyambadi (M) Ward-11 Kattumani Yusup Street , 3.Vaniyambadi (M) Ward-11 Pandit Jawaharlal Nehru Street ,999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+74,47,74,"Municipal Muslim Girls Ele. School, Northern Building Class Room 3 rd, Facing West Periyapettai, Vaniyambadi
+Town 635751","1.Vaniyambadi (M) Ward-11 Kaniyambadi Abdul Wahab Street , 2.Vaniyambadi (M) Ward-11 Mulakkatai Mathar Street , 3.Vaniyambadi (M) Ward-11 Mandi Thathemiyan Street , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+75,47,75,"Municipal Muslim Girls Ele. School, Westside Building Class Room 4th Std, Facing East Periyapettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-12 mohamathali market , 2.Vaniyambadi (M) Ward-12 Ajee Saiyath Hussain 1,2 Streets , 3.Vaniyambadi (M) Ward-12 Khathip Mohamad Ismail Street , 4.Vaniyambadi (M) Ward-12 Anjaneyar Koil Street , 5.Vaniyambadi (M) Ward-12 Mariyamman Koil Street    , 6.Vaniyambadi (M) Ward-12 Palan Street , 7.Vaniyambadi (M) Ward-12 Mosque Street , 8.Vaniyambadi (M) Ward-12 Pangi rao Street , 9.Vaniyambadi (M) Ward-12 M.L. Ushman Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+76,47,76,"Municipal Muslim Girls Ele. School, Northern Building, Facing East Periyapettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-13 malaiyalam kuthus street , 2.Vaniyambadi (M) Ward-13 Lawyar Ahamad Sha Street , 3.Vaniyambadi (M) Ward-13 M.K. Usmaan Street , 4.Vaniyambadi (M) Ward-13 Ajee Abdul Raheem Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+77,47,77,"T.V.K.V.High School Facing North, Fort,
+Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-13 Patel Yakub Street ,999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+78,47,78,"Angawadi Centre, Facing North Chennampettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-14, muni street , 2.Vaniyambadi (M) Ward-14,1st Muni Street Starting , 3.Vaniyambadi (M) Ward-14,2st Muni Street Starting
+,  999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+79,47,79,"Anganwadi Centre, Facing North East Wing Chennampettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-14, 1st Muni Street Starting ,, 2.Vaniyambadi
+(M) Ward-14,3rd Muni Street Starting , 3.Vaniyambadi (M) Ward-14, 4th Muni Street Starting , 4.Vaniyambadi (M) WArd-14, 5th Muni Street Starting ,  999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+80,47,80,"Hindu Higher Secondary School, Main Building, Eastern side Facing south, Room No.6 Amburpettai, Vaniyambadi
+Town 635751","1.Vaniyambadi (M) Ward-14, Kose Kasheem Street 2.Vaniyambadi (M) Ward-14, muni street ,999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+81,47,81,"Hindu Higher Secondary School, Main Building, Eastern side Facing south Amburpettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-14, 2nd Muni Street Starting , 2.Vaniyambadi (M) Ward-14, 3rd Muni Street Starting , 3.Vaniyambadi (M) Ward-14 ,4th Muni Street Starting , 4.Vaniyambadi (M) Ward-14, 5th Muni Street Starting , 5.Vaniyambadi (M) Ward-14, 2nd K.K.Street Starting , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+82,47,82,"Hindu Higher Secondary School, Main Building, Eastern side Facing south, Room No.7, Amburpettai, Vaniyambadi
+Town 635751","1.Vaniyambadi (M) Ward-16 Gose Kasheem Street , 2.Vaniyambadi (M) Ward-16 School Backside (roshan Nagar) 3.Vaniyambadi (M) Ward-15,
+K.K. STreet Starting , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+83,47,83,"Hindu Higher Secondary School , Main Building, Room No.9, Facing West Amburpettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-15, 3rd K.K. Street Starting , 2.Vaniyambadi (M) Ward-15, 6th K.K. Street Starting 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+84,47,84,"Hindu Higher Secondary School, Main Building, Room No.11, Facing West Amburpettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-15, 4th K.K. Street Starting ,  2.Vaniyambadi (M) Ward-15, 5Ôth K.K.Street Starting , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+85,47,85,"Hindu Higher Secondary School, Main Building, Room No.10, Facing West Amburpettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-15, 7th k.k. street , 2.Vaniyambadi (M) Ward-15, Khaja Nagar 1 , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+86,47,86,"Hndu Aided Elementary School, North Building, Facing South Amburpettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-15, Khaja Nagar 2 , 2.Vaniyambadi (M) Ward-15, Khaja Nagar 3 , 3.Vaniyambadi (M) Ward-15, Khaja Nagar 4 4.Vaniyambadi (M) Ward-15, Salamapath 1,2 , 999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+87,47,87,"Hndu Aided Elementary School, South side Building, Facing North Amburpettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-16  kose kashim street , 2.Vaniyambadi (M) Ward-16 New Street 1 , 3.Vaniyambadi (M) Ward-16 New Street 2 , 4.Vaniyambadi (M) Ward-16 New Street 3 , 5.Vaniyambadi (M) Ward-16 New Street 4 , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+88,47,88,"Madarasa-E-Mufida-Am Muslim Boys School, Eastern Side North Facing Amburpettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-17  iqbal road , 2.Vaniyambadi (M) Ward-17 Arani Yusup Street , 3.Vaniyambadi (M) Ward-17 Thameyan Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+89,47,89,"Madarasa-E-Mufida-Am Muslim Boys School, Main Building, South Facing Amburpettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-17 Kudubai Yusup Street , 2.Vaniyambadi (M) Ward-17 S.Jaylapthin Street , 3.Vaniyambadi (M) Ward-17 Kudukoli Azam Street , 4.Vaniyambadi (M) Ward-17 Luthran Michan Street ,
+999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+90,47,90,"Madarasa-E-Mufida-Am Muslim Boys School Main Building, North Facing Amburpettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-18 Kaki Ajee Kulaam Mohidin Street , 2.Vaniyambadi (M) Ward-18 Mattakara Ahamadbasha Street , 3.Vaniyambadi (M) WARd-18 Selva vinayakar Koil Street ,
+999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+91,47,91,"Madarasa-E-Mufida-Am Muslim Boys School Main Building, Western side, Facing North Amburpettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-18 Kataikara Abubakar Street , 2.Vaniyambadi (M) Ward-18 Subramaniyan Street , 3.Vaniyambadi (M) Ward-18 Bharathiyar Street , 4.Vaniyambadi (M) Ward-18 P.R. Patsamiyan Street , 5.Vaniyambadi (M) Ward-18 Tokku Alauthin Street
+, 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+92,47,92,"T.V.K.V.High School, Facing west, Room No.2 Fort, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-19 ambalaan street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+93,47,93,"T V K V.High School, Facing west, Room No.1 Fort, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-20-  iqbal street , 2.Vaniyambadi (M) Ward-20-Old Mosque Street , 3.Vaniyambadi (M) Ward-20- ThatchaKhathar Street , 4.Vaniyambadi (M) Ward-20- Bengalor Ibraheem Street  5.Vaniyambadi
+(M) Ward-20 Solavaran Abdulla Street  6.Vaniyambadi (M) Ward-20 Sengan Thippu Street , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+94,47,94,"Islamiah Boys Higher Secondary School, Main Building, Room No.4 Facing North Fort, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-20 Onji Mohithin Street , 2.Vaniyambadi (M) Ward-20 Thattara Kaseem Street , 3.Vaniyambadi (M) Ward-20 Kundu Mohamad Ibraheem Street ,  999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+95,47,95,"Islamiah Boys Higher Secondary School, Main Building, Room No.5 Facing North Fort, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-21 Saiyath Hayath basha Street , 2.Vaniyambadi
+(M) Ward-21- Thippu Sulthan Street , 3.Vaniyambadi (M) Ward-21-Tharul Khaja Street , 4.Vaniyambadi (M) Ward-21- Ithar ali Street , 5.Vaniyambadi
+(M) Ward-21- Millilath Street , 6.Vaniyambadi (M) Ward-21- Mosque Street
+, 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+96,47,96,"Islamiah Boys Higher Secondary School, Main Building, Room No.3 Facing North Fort, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-21- Abdul Suban Street , 2.Vaniyambadi (M) Ward-21-Jamath Road , 3.Vaniyambadi (M) Ward-21- Abdul kalam Street , 4.Vaniyambadi (M) Ward-21-ÌMalangu Road , 5.Vaniyambadi (M) Ward-21-CNA Road , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+97,47,97,"Municipal Muslim Girls Middle School , New Building, Facing South, Western side Basheerabad, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-22-Sengan Thippu Street , 2.Vaniyambadi (M) Ward-22- Vara Santhai Street , 3.Vaniyambadi (M) Ward-22 C.L.Road , 4.Vaniyambadi (M) Ward-22 Kavakarai 1 , 5.Vaniyambadi (M) Ward-22-Kavakarai-2 , 6.Vaniyambadi (M) Ward-22- Kavakarai-3 , 7.Vaniyambadi
+(M) WArd-22- Oinji Mohidin Street , 8.Vaniyambadi (M) Ward-22- Oosi Abdul  Jabbar Street , 9.Vaniyambadi (M) Ward-22- Madurai Ismail Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+98,47,98,"Municipal Muslim Girls Middle School , New Building, Facing West
+Basheerabad, Vaniyambadi Town 635751","1.Vaniyambadi (M) WArd-23 Jinna road , 2.Vaniyambadi (M) Ward-23 Jinna Road 1 Cross Street , 3.Vaniyambadi (M) Ward-23 Munisamy Street
+, 4.Vaniyambadi (M) Ward-23 Jangiran Mohidin Street , 5.Vaniyambadi (M) Ward-23 Oosi Abdul Jabbar Street , 6.Vaniyambadi (M) Ward-23 ÏRailway Colony , 7.Vaniyambadi(M) Meerlappai Alauthin Street , 8.Vaniyambadi(M) CNA Road , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+99,47,99,"Municipal Muslim Girls Middle School , New Building, Facing South, East side building Basheerabad, Vaniyambadi
+Town 635751","1.Vaniyambadi (M) Ward-23 Oosi Abdul Jabbar Street , 2.Vaniyambadi (M) WARd-23 Madurai Ismail Street , 3.Vaniyambadi (M) Ward-23 Kooja Complex , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+100,47,100,"Anganwadi Centre, South Facing, Basheerabad, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward 24 Mulla Mohamed Kasim Street , 2.Vaniyambadi(M) Ward 24 Patel Mohamed Kasim Street , 3.Vaniyambadi(M) Ward 24 Teacher Nagar , 4.Vaniyambadi(M) Ward 24 First Street , 5.Vaniyambadi(M) Ward 24 Fourth Street 6.Vaniyambadi(M) Ward 24 Mayapilliyar Koil Street 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+101,47,101,"Municipal Muslim Girls Middle School , West side building , Fasing West, Basheerabad, Vaniyambadi Town 635751","1.Vaniyambadi(M) Ward 24 Second Street , 2.Vaniyambadi(M) Ward 24 Third Street 3.Vaniyambadi (M) Ward-24 Teacher Nagar 4.Vaniyambadi
+(M) Ward-24 1st Street , 5.Vaniyambadi (M) Ward-24 1st Cross Street , 6.Vaniyambadi (M) Ward-24 2nd Street , 7.Vaniyambadi (M) Ward-24 2nd Cross Street , 8.Vaniyambadi (M) Ward-24 3rd Street , 9.Vaniyambadi (M) Ward-24 4th Street , 10.Vaniyambadi (M) Ward-24 5th Street , 11.Vaniyambadi (M) Ward-24 6th STreet , 12.Vaniyambadi (M) Ward-24 C.N.A.Road , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+102,47,102,"Islamiah Aided Elementary School , II Std class room, North Facing Muslimpur, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-25-CNA Road VMC Colony 1sr Street , 2.Vaniyambadi (M) Ward-25 CNA  Road VMC  Colony 2nd Street , 3.Vaniyambadi (M) Ward-25- CNA Road VMC Colony 3rd Street , 4.Vaniyambadi (M) Ward-25 CNA Road VMC Colony 4Ôth Street , 5.Vaniyambadi (M) Ward-25 CNA Road VMC Colony 5th Street , 6.Vaniyambadi (M) Ward-25 CNA  Main Road , 7.Vaniyambadi (M) Ward-25-¸ÛSiddikpath !st Street , 8.Vaniyambadi (M) Ward-25 Siddikpath 2nd Street , 9.Vaniyambadi (M) Ward-25- Siddikpath 3rd Street , 10.Vaniyambadi (M) Ward-25 Siddikpath 4th Street , 11.Vaniyambadi (M) Ward-25- Siddikpath 5th Street , 12.Vaniyambadi (M) Ward-25-Siddikapath 6th Street , 13.Vaniyambadi (M) Ward-25- Siddikapath 7th Street , 14.Vaniyambadi (M) Ward-25 Siddikapath 15th Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+103,47,103,"Islamiah Aided Elementary School , I Std Class Room, North Facing Muslimpur, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-25- CNA Road Siddikapath 1st Street , 2.Vaniyambadi (M) Ward-25- CNA Road Siddikaptha  2nd Street , 3.Vaniyambadi (M) Ward-25- CNA Raod Siddikapath 3rd Street , 4.Vaniyambadi (M) Ward-25 CNA Raod Siddikapath 4th Street , 5.Vaniyambadi (M) Ward-25  CNA Raod Siddikapath 5th Street , 6.Vaniyambadi (M) Ward-25- CNA Road Siddikapath 6th Street , 7.Vaniyambadi (M) Ward-25 CNA Raod Siddikapath 7th Street , 8.Vaniyambadi (M) Ward-25 CNA Raod Siddikapath  8th Street , 9.Vaniyambadi (M) Ward-25 CNA Raod Siddikapath 9thj Street , 10.Vaniyambadi (M) Ward-25 CNA Main Raod , 11.Vaniyambadi (M) Ward-25- KalMandabam 1st Street , 12.Vaniyambadi (M) Ward-25- Kal Mandapam 2nd Street , 13.Vaniyambadi (M) Ward-25- KalMandapam  3rd STreet , 14.Vaniyambadi (M) Ward-25- Kalmandapam 4th Street , 15.Vaniyambadi (M) WARd-25- Kalmandapam 5th Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+104,47,104,"Islamiah Aided Elementary School , III Std Class Room, West Facing Muslimpur, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-27-ÈParameshvar Nagar 2nd Street , 2.Vaniyambadi (M) Ward-27- CNA Road , 3.Vaniyambadi (M) Ward-27-Konamedu Pudumanai , 4.Vaniyambadi (M) Ward-27- Ambethkar Nagar 1st Street , 5.Vaniyambadi (M) Ward-27 Konamadu 2nd Street , 6.Vaniyambadi (M) Ward-27- Parameshvar Nagar Koil Street , 7.Vaniyambadi (M) Ward-27 Ambethkar Nagar Koil Street , 8.Vaniyambadi
+(M) Ward-27- Puthar Nagar , 9.Vaniyambadi (M) Ward-27- Konamedu 3rd New Street , 10.Vaniyambadi (M) Ward- 27 Ambethakar nagar 3rd Street , 11.Vaniyambadi (M) Ward-27 Alangayam Cross Road , 12.Vaniyambadi
+(M) Ward-27- Konamedu 1st Street , 13.Vaniyambadi (M) WArd-27-Parameshvar  Nagar 1st Street , 14.Vaniyambadi (M) Ward-27-Parameshvar Nagar 3rd Street , 15.Vaniyambadi (M) Ward-27 R.M. Devan Daynary Street , 16.Vaniyambadi (M) Ward-27- Konamedu Koil Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+105,47,105,"Islamiah Aided Elementary School ,LKG Class Room, North Facing Muslimpur, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-26 Konamedu VSK  Street , 2.Vaniyambadi (M) Ward-26 Konamedu  Putha Nagar CNA Nagar , 3.Vaniyambadi (M) Ward-26 Konamedu Anna Nagar , 4.Vaniyambadi (M) Ward-26  Konamedu Parameshvara NAgar 3rdd Street  ,999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+106,47,106,"Anj Man - e - Kayarkhan - Aam Girls Elementary School, Western Side Facing North Muslimpur, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-26 Konamedu Parameshvara Nagar 2nd Street , 2.Vaniyambadi (M) Ward-26 Konamedu Parameshvara Nagar 1st Street , 3.Vaniyambadi (M) Ward-26 Konamedu 1st Street , 4.Vaniyambadi (M) Ward-26 Konamedu 2nd Street , 5.Vaniyambadi (M) Ward-26 Konamedu 3rd Street , 6.Vaniyambadi (M) Ward-2 Konamedu NewManai , 7.Vaniyambadi (M) WArd-26 Murthy Nagar , 8.Vaniyambadi (M) Ward-26 Umaimary Kattaimedu Road , 9.Vaniyambadi (M) Ward-26 Konamedu CNA Raod , 10.Vaniyambadi (M) Ward-26 Ambethkar Nagar , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+107,47,107,"Anj Man - e - Kayarkhan - Aam Girls Elementary School, Front Portion Old Building Muslimpur, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-27 Butha Nagar , 2.Vaniyambadi (M) Ward-27 Putha Nagar 1st Street , 3.Vaniyambadi (M) Ward-27ÈÝPutha Nagar 2nd Street , 4.Vaniyambadi (M) Ward-27ÈÝPutha Nagar 3rd Street , 5.Vaniyambadi (M) Ward-27ÈÝPutha Nagar 4th Street , 6.Vaniyambadi (M) Ward-27 Post Office Street , 7.Vaniyambadi (M) Ward-27ÈÝPutha Nagar Starting , 8.Vaniyambadi (M) Ward-27 VMC Colony , 999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+108,47,108,"Anj Man - e - Kayarkhan - Aam Girls Elementary School, Western side Last Room, Facing North, Muslimpur, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-27³Konamedu Koil Stret , 2.Vaniyambadi (M) Ward-27G Murthy Nagar , 3.Vaniyambadi (M) Ward-27 Omaimari Street Kattaimedu CNA Road , 4.Vaniyambadi (M) Ward-27 Konamadu CNA Road , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+109,47,109,"Anj Man - e - Kayarkhan - Aam Girls Elementary School, Western side north Facing, Muslimpur, Vaniyambadi Town
+635751","1.Vaniyambadi (M) Ward-28 Munisamy Street , 2.Vaniyambadi (M) Ward-28 Subrayan Street , 3.Vaniyambadi (M) Ward-28¤Ayyau Street , 4.Vaniyambadi (M) Ward-28 Muthumariyamman Koil Street ,
+999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+110,47,110,"Islamiah Girls Higher Secondary School , Main Building Facing North Room-9 Muslimpur, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-28,Paiyas 1st Cross Street , 2.Vaniyambadi (M) Ward-28,Paiyas 2nd Cross Street , 3.Vaniyambadi (M) Ward-28, Paiyas  3rd  Cross Street , 4.Vaniyambadi (M) Ward-28, Paiyas Main Road , 5.Vaniyambadi (M) Ward-28, Paiyas East Street , 6.Vaniyambadi (M) Ward-28, Alangkayam Cross Road , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+111,47,111,"Islamiah Girls Higher Secondary School , Main Building Facing West, Room-18 Muslimpur, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-28, Sandiran Street 1 , 2.Vaniyambadi (M) WArd-28, Sandiran Street (New Stret) , 3.Vaniyambadi (M) WArd-28, Sandiran Street 2 , 4.Vaniyambadi (M) Ward-28, Sandiran Street 3 , 5.Vaniyambadi
+(M) WArd-28, Sandiran Street 4 , 6.Vaniyambadi (M) Ward-28, Sandiran Street 5 , 7.Vaniyambadi (M) Ward-28, College Road , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+112,47,112,"Nasirul Adided Urudu Elementary School Facing North Left Side Building Muslimpur Govindapuram, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-29 Alagkayam Raod South , 2.Vaniyambadi (M) Ward-29 Medical Colony , 3.Vaniyambadi (M) Ward-29 Nethaji Nagar 1st Street , 4.Vaniyambadi (M) Ward-29 Nethaji Nagar 2nd Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+113,47,113,"Nasirul Adided Urudu Elementary School Facing North Right Side Building Muslimpur Govindapuram, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-29 Nethaji Nagar 3rd Street     , 2.Vaniyambadi
+(M) Ward-29  Nethaji Nagar 4th Street , 3.Vaniyambadi (M) Ward-29 Nethaji Nagar 5th Street , 4.Vaniyambadi (M) Ward-29 Nethaji Nagar 6th Street , 5.Vaniyambadi (M) Ward-29 Nethaji Nagar 7th  Street , 6.Vaniyambadi (M) Wards-29 Nethaji Nagar 8th Street , 7.Vaniyambadi (M) Ward-29 Nethaji Nagar 9th Street , 8.Vaniyambadi (M) Ward-29 Nethaji Nagar 10th Street , 9.Vaniyambadi (M) WArd-29 Nethaji Nagar 11th Street
+, 10.Vaniyambadi (M) Ward-29 Nethaji Nagar 12th Street , 11.Vaniyambadi
+(M) Ward-29  Nethaji Nagar 13th Street , 12.Vaniyambadi (M) Ward-29 Nethaji Nagar 14th Street , 13.Vaniyambadi (M) WARd-29 Nethaaji Nagar 15th Street , 14.Vaniyambadi (M) Ward-29 Nethaji Nagar 16th Street , 15.Vaniyambadi (M) Ward-29 Nethaji Nagar 17th Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+114,47,114,"Islamiah Girls Higher Secondary School, Facing North, 10B Class Room Muslimpur, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-24 Alangkayam Road , 2.Vaniyambadi (M) Ward-29 Medical Colony , 3.Vaniyambadi (M) Ward-29 Bismilha  Mosque Street , 4.Vaniyambadi (M) Ward-29 Nethaji Nagar (North) , 5.Vaniyambadi (M) Ward-29 Nethaji Nagar (north) , 6.Vaniyambadi (M) Ward-29 Nethaji Nagar North 3rd Street , 7.Vaniyambadi (M) Ward-29ÆáNethaji Nagar North 7th Street , 8.Vaniyambadi (M) Ward-29 Nethaji Nagar North 5th Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+115,47,115,"Islamiah Girls Higher Secondary School, Facing West, Room No.12 Muslimpur, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-29 Nethaji Nagar North 6th Street , 2.Vaniyambadi (M) Ward-29 Nethaji Nagar North 5th Street , 3.Vaniyambadi (M) Ward-29 Nethaji Nagar North 8th Street , 4.Vaniyambadi (M) Ward-29 Nethaji Nagar North 9th Street , 5.Vaniyambadi (M) Ward-29 Nethaji Nagar North 10th Street , 6.Vaniyambadi (M) Ward-29 Nethaji Nagar North 11th Street , 7.Vaniyambadi (M) Ward-29Nethji Nagar North 12th Street , 8.Vaniyambadi (M) Ward-29 Nethaji Nagar North13th Street , 9.Vaniyambadi (M) Ward-29 Nethaji Nagar North 14th Street , 10.Vaniyambadi (M) Ward-29Nethaji Nagar North 15th Street , 11.Vaniyambadi (M) Ward-29 Nethaji Nagar North 16th Street , 12.Vaniyambadi (M) Ward-29 Nethaji Nagar North 17th Street , 13.Vaniyambadi (M) Ward-29 Nethaji Nagar North 18th Street , 14.Vaniyambadi (M) Ward-29 Nethaji Nagar North 19th Street , 15.Vaniyambadi (M) Ward-29 Nethaji Nagar North 20th Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+116,47,116,"Islamiah Girls Higher Secondary School, Facing West, Room No.15 Muslimpur, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-30 Nethaji Nagar South , 2.Vaniyambadi (M) Ward-30 Alangkayam Raod , 3.Vaniyambadi (M) Ward-30 Nethaji Nagar South 1st Street , 4.Vaniyambadi (M) Ward30 Nethaji Nagar South 2nd Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+117,47,117,"Islamiah Girls Higher Secondary School, Facing West, Room No.16 Muslimpur, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-30 Nethaji Nagar South3rd Street , 2.Vaniyambadi (M) Ward-30 Nethaji Nagar South 4th Street , 3.Vaniyambadi (M) Ward-30 Nethaji Nagar South 5th Street , 4.Vaniyambadi (M) Ward-30 Nethaji Nagar south 6th Street , 5.Vaniyambadi (M) Ward-30 Nethaji Nagar South 7th Street , 6.Vaniyambadi (M) Ward-30 Nethaji Nagar South 8th Street , 7.Vaniyambadi (M) Ward-30 Nethaji Nagar South 9th Street , 8.Vaniyambadi (M) Ward-30 Nethaji nagar South 10th Street , 9.Vaniyambadi (M) Ward-30 Nethaji Nagar South 11th Street ,
+999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+118,47,118,"Kadariya Aided Elementary School , North Portion, Facing West Khaderpettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-30 alangkayam raod , 2.Vaniyambadi (M) Ward-30 Nethaji Nagar South 1st Street , 3.Vaniyambadi (M) Ward-30 Nethaji Nagar south 2nd Street , 4.Vaniyambadi (M) Ward-30 Nethaji Nagar South 3rd Street , 5.Vaniyambadi (M) Ward-30 Nethaji Nagar South 4th Street , 6.Vaniyambadi (M) Ward-30 Nethaji Nagar South 5th Street , 7.Vaniyambadi (M) Ward-30 Nethaji Nagar South 6th Street , 8.Vaniyambadi (M) Ward-30 Nethaji Nagar South 7th Street , 9.Vaniyambadi (M) Ward-30 Nethaji Nagar South 8th Street , 10.Vaniyambadi (M) WArd-30 Nethaji Nagar South 9th Street , 11.Vaniyambadi (M) Ward-30 Nethaji Nagar South 10th Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+119,47,119,"Kadariya Aided Elementary School , South Portion, Facing West Khaderpettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-31 dr.jandidas street , 2.Vaniyambadi (M) Ward-31 Hajee Mohamad Street , 3.Vaniyambadi (M) Ward-31 Hajee Mohamad Ibraheem Street , 4.Vaniyambadi (M) Ward-31 D.Abdul Sukkur Street , 5.Vaniyambadi (M) Ward-31 Jeeva Nagar 1st Street , 999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+120,47,120,"Kadariya Aided Elementary School, Facing North, East Side, XIB Std Khaderpettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-31 Jeeva Nagar 2nd Street , 2.Vaniyambadi (M) Ward-31ºÜJeeeva Nagar 3rd Street , 3.Vaniyambadi (M) Ward-31 Jeeva Nagar 4th Street , 4.Vaniyambadi (M) Ward-31 Jeeva nagar 5th Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+121,47,121,"Kadariya Aided Hr.Sec.School, Facing North, East Side, XIIA class Room Khaderpettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-32 pillaiyar koil street , 2.Vaniyambadi (M) Ward-32 Thajipet  Kavagkarai , 3.Vaniyambadi (M) Ward-32 Nattar colony (Kavagkarai) , 4.Vaniyambadi (M) WArd-32 Hajee Abdul Samath Street , 5.Vaniyambadi (M) Ward-32 N.Abdul Subhan Street , 6.Vaniyambadi (M) Ward-32 Yaseen Abdul Khathar Street , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+122,47,122,"Kadariya Aided Hr.Sec.School, Facing North, East Side, 10B Class Room Khaderpettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-32 Mosque Street , 2.Vaniyambadi (M) Ward-32
+C. Moulana Street , 3.Vaniyambadi (M) Ward-32 K.Abdul Munaf Street , 4.Vaniyambadi (M) Ward-32 Kaki Mohamd Hussain Street , 5.Vaniyambadi
+(M) Ward-32 Nari Abdul Vanap Street , 6.Vaniyambadi (M) ward-32 Islamiya Collage Road , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+123,47,123,"Ar Rahman Matriculation School North Facing East Side Room, Teacher's Colony Vaniyambadi-635751","1.Vaniyambadi (M) Ward-33- pillaiyar koil street , 2.Vaniyambadi (M) Ward-33- Pairas Road  (Thiruvalluvar Nagar) , 3.Vaniyambadi (M) Ward-33-C.Narayanansamy Street , 4.Vaniyambadi (M) Ward-33- A.M. Govindasamy Street 1 , 5.Vaniyambadi (M) Ward-33- A.M. Govindasamy Street 2 , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+124,47,124,"Ar Rahman Matriculation School North Facing West Side Room No-3, Teachers Colony Vaniyambadi-635751","1.Vaniyambadi (M) Ward-33- Shegiri Street , 2.Vaniyambadi (M) Ward-33-Bhatathiyar Street , 3.Vaniyambadi (M) Ward-33- Sampath Compound , 4.Vaniyambadi (M) Ward-33- Professor Nagar , 5.Vaniyambadi (M) Ward-33- Manickam Street , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+125,47,125,"Ar Rahman Matriculation School East Facing South Side Room, Teachers Colony Vaniyambadi-635751","1.Vaniyambadi (M) Ward-34, islamiya collage road (nattar colony) , 2.Vaniyambadi (M) Ward-34, Nattar Colony 1st Street , 3.Vaniyambadi (M) Ward-34, Nattai Colony 2nd Street , 4.Vaniyambadi (M) Ward-34, PuthuMariyamman Koil Street , 5.Vaniyambadi (M) Ward-34,Jamethar Street (Main) , 6.Vaniyambadi (M) Ward-34 Jamethar Street 1st lane Street
+, 7.Vaniyambadi (M) Ward-34, Jamethar Street 2nd Lane Street , 8.Vaniyambadi (M) Ward-34, Tharumar Street (Main) , 9.Vaniyambadi (M) Ward-34,Tharumar Street Starting , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+126,47,126,"Municipal Muslim Girls Middle School , Facing East, Western Side Building Khaderpettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-34, Singaravelan Street , 2.Vaniyambadi (M) Ward-34,ÂTharjipet , 3.Vaniyambadi (M) Ward-34, TharjiPet (bye-Pass) , 4.Vaniyambadi (M) Ward-34 Pirunthavanam Street , 5.Vaniyambadi (M) Ward-34,¤Arasamara Street Kavakkarai , 6.Vaniyambadi (M) Ward-34, Thiruvalluvar Nagar , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+127,47,127,"Municipal Muslim Girls Middle School , New Building Facing West Khaderpettai Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-35 c.n. annamalai , 2.Vaniyambadi (M) Ward-35 Samanan Street , 3.Vaniyambadi (M) Ward-35 Mariyamman Koil Street , 4.Vaniyambadi (M) Ward-35 Thiru.V.K. Street , 5.Vaniyambadi (M) Ward-35 Mosque Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+128,47,128,"Municipal Muslim Girls Middle School, Facing East, Eastern Side Building Khaderpettai, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-35 Veppampet Road , 2.Vaniyambadi (M) Ward-35 Veppanpet Road 1st Street , 3.Vaniyambadi (M) Ward-35 Veppampet Road 2nd Street , 4.Vaniyambadi (M) Ward-35 Periyar Nagar 1st Street , 5.Vaniyambadi (M) Ward-35 Periyar Nagar 2nd Street , 6.Vaniyambadi (M) Ward-35 Earikarai Puthur , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+129,47,129,"Municipal Elementary School New Addl. Building Facing East, North wing Konamedu, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-35 pillaiyar koil street , 2.Vaniyambadi (M) Ward-35 Kangi Street , 3.Vaniyambadi (M) Ward-35 Narayanasamy Mesthiri Street , 4.Vaniyambadi (M) Ward-35 Puthur C.N. Annadurai Main Road ,
+999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+130,47,130,"Municipal Elementary School New Building Facing South, Left side Building, Konamedu, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-35 Puthur Luthran Centre ,999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+131,47,131,"Municipal Elementary School Facing North Left Side Building Konamedu, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-35 Puthur Sangam Theater Street , 2.Vaniyampadi (M) Ward-35 Puthur C.N Annadurai Main Street , 3.Vaniyambadi (M) Ward-35 Puthur C.N Annadurai Main Road ,
+999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+132,47,132,"Municipal Elementary School Facing North Right Side Building Konamedu, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-36 muthappan street , 2.Vaniyambadi (M) Ward-36 Chinnathambi Street , 3.Vaniyambadi (M) Ward-36 Thirumangsolai , 4.Vaniyambadi (M) Ward-36 Thirumansolai Division  , 5.Vaniyambadi (M) Ward-36 Avaiyar Street , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+133,47,133,"Municipal High School East Side Addl.Building, Facing West Konamedu, Vaniyambadi Town 635751","1.Vaniyambadi (M) Ward-36 Avaiyar Street , 2.Vaniyambadi (M) Ward-36 Thirumangsolai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+134,47,134,"Municipal High School East Side Addl.Building, Facing West Konamedu, Vaniyambadi Town 635751","1.Uthayendhiram (TP) Ward 13 Japrabarath salai , 2.Uthayenthiram (TP) Ward 13, Bharathi Nagar , 3.Uthayenthiram (TP) Ward 13, Kaithemillath Street , 4.Uthayenthiram (TP) Ward 13, Arunachalam street , 5.Uthayenthiram (TP) Ward 14, Pallipet Road , 999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+135,47,135,"Municipal Middle School Facing West Side West facing Perumalpettai, Vaniyambadi Town 635751","1.Uthayenthiram (TP) Ward 14, V.O.C Street , 2.Uthayenthiram (TP) Ward 14, pillaiyar Koil street , 3.Uthayenthiram (TP) Ward 14, Velathukamanipenda Road , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+136,47,136,"Municipal Middle School Facing West
+Perumalpettai, Vaniyambadi Town 635751","1.Uthayendhiram (TP) Ward 10 Mettupalayam colony , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+137,47,137,"Municipal Middle School North side Building, Facing south, Room No.4,Perumalpettai, Vaniyambadi Town
+635751","1.Uthayenthiram (TP) Ward 10 Officers Line , 2.Uthayenthiram (TP) Ward 10 Aringjar Anna Street , 3.Uthayenthiram (TP) Ward 10, Mariyamman Koill Street , 4.Uthayenthiram (TP) Ward 10, Naidu Street ,
+999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+138,47,138,"Municipal Middle School SSA Building, Facing South, Mullai Room Perumalpettai, Vaniyambadi Town
+635751","1.Uthayenthiram (TP) Ward 8 Gandhi Street , 2.Uthayenthiram (TP) Ward 8 Pajanai Koil Street , 3.Uthayenthiram (TP) Ward 8  Bharathiyar Street , 4.Uthayenthiram (TP) Ward 8 Vanchinathan Street , 999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+139,47,139,"Municipal Middle School Facing West Nethaji Nagar, Vaniyambadi Town
+635751","1.Uthayenthiram (TP) Ward 8 Jinna Street , 2.Uthayenthiram (TP) Ward 9 Bharathithasan , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+140,47,140,"Municipal Middle School Facing West, South Wing, Nethaji Nagar, Vaniyambadi
+Town 635751","1.Uthayendhiram (TP) Ward 15 Pillaiyar koil street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+141,47,141,"Municipal Middle School, Centre Room Facing West Nethaji Nagar, Vaniyambadi Town 635751","1.Uthayendhiram (TP) Ward 4 Angalaparameshwari koil street , 2.Uthayenthiram (TP) Ward 4 Mettu Street (Kailasagiri Street) , 3.Uthayenthiram (TP) Ward 4 Sathiram, Street , 4.Uthayenthiram (TP) Ward 4 Muthuraj Street , 5.Uthayenthiram (TP) Ward 4 Mosque Street , 6.Uthayenthiram (TP) Ward 4 Hussain Pura Street , 7.Uthayenthiram (TP) Ward 4 Krishnamurthy street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+142,47,142,"Municipal Middle School, Facing East, South Side Nethaji Nagar, Vaniyambadi Town 635751","1.Uthayenthiram (TP) Ward 5 Iruthaya andavar Koil Street , 2.Uthayenthiram (TP) Ward 5 Punitha Jepasthiyar Street 1,2 , 3.Uthayenthiram (TP) Ward 5 Kallarai Street , 4.Uthayenthiram (TP) Ward 5 Maniyam periya Surai Street , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+143,47,143,"Thiru V Ka Aided Middile School Room No.5,Facing South,Marthuvar Colony,Vaniyambadi Town 635751","1.Uthayendhiram (TP) Ward 6 I.S.Antony street , 2.Uthayenthiram (TP) Ward 6  Egan Savuri Lane , 3.Uthayenthiram (TP) Ward 6 Oni Street , 4.Uthayenthiram (TP) Ward 6 Mosque Street , 999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+144,47,144,"Thiru.V.Ka.Aided Middile School, Room No.2, Facing South, Marthuvar Colony, Vaniyambadi Town 635751","1.Uthayenthiram (TP) Ward 6  Nathai Surai Street , 2.Uthayenthiram (TP) Ward 7 Kombukara Perumal Street , 3.Uthayenthiram (TP) Ward 7 Eruthukara Savui Lane , 4.Uthayenthiram (TP) Ward 7 Mariyamman Koil Street , 5.Uthayenthiram (TP) Ward 7 Kunni kanthan Street , 6.Uthayenthiram (TP) Ward 7 Matha Koil Street , 999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+145,47,145,"Islamiah College for Men Room No. 102, Newtown Nethaji Nagar, Vaniyambadi Town 635751","1.Uthayendhiram (TP) Ward 2 Gandhi nagar , 2.Uthayenthiram (TP) Ward 2 Devamangalam Street , 3.Uthayenthiram (TP) Ward 2 C.V.Pattarai , 4.Uthayenthiram (TP) Ward 2  Mariyamman Koil Street , 999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+146,47,146,"Islamiah College for Men Room No.-103, Newtown Nethaji Nagar, Vaniyambadi Town 635751","1.Uthayenthiram (TP) Ward 2 Thoppusamy Street , 2.Uthayenthiram (TP) Ward 2 Kajeer Antony Street , 3.Uthayenthiram (TP) Ward 2 Kanikara chinnapaiyan Street , 4.Uthayenthiram (TP) Ward 2  Bengalore Munisamy Street , 5.Uthayenthiram (TP) Ward 2 C.V.Pattarai Puthumanai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+147,47,147,"Municipal Elementry School , Add Building Facing West New Portion Nethaji Nagar South , Vaniyambadi Town
+635751","1.Uthayendhiram (TP) Ward 1 Vengatapuram , 2.Uthayenthiram (TP) Ward 1, Kailasagiri Road , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+148,47,148,"Municipal Elementry School , North wing
+Facing West, Nethaji Nagar South , Vaniyambadi Town 635751","1.Valayampattu (R.V) And (P) Ward 1 Saravana School Street ,
+2.Valayampattu (R.V) And (P) Ward 1 Raja Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+149,47,149,"Municipal Muslim Boys High School, Addl. Building Eastern Side Facing North Gandhinagar, Vaniyambadi Town 635751","1.Valayampattu (R.V) And (P) Ward 1 Raja 1st Street , 2.Valayampattu (R.V) And (P) Ward 1 Raja Street , 3.Valayampattu (R.V) And (P) Ward 1 Raja Veethi 3rd Street , 4.Valayampattu (R.V) And (P) Ward 1 Raja Veethi 4th Street , 5.Valayampattu (R.V) And (P) Ward 2 Kaliyamman Koil Veethi
+, 6.Valayampattu (R.V) And (P) Ward 2 Kothantavar Koil Vattam , 7.Valayampattu (R.V) And (P) Ward 2 Arasamara Street , 8.Valayampattu (R.V) And (P) Ward 2 M.C.Road , 9.Valayampattu (R.V) And (P) Ward 2 C.L.Road Colony , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+150,47,150,"Municipal Muslim Boys High School, Addl. Building West wing Facing North, Gandhinagar, Vaniyambadi Town 635751","1.Valayampattu (R.V) And (P) Ward 2 Athidiravidar Colony , 2.Valayampattu (R.V) And (P) Ward 2 Colony Main Road , 3.Valayampattu (R.V) And (P) Ward 2 Bharathi Street , 4.Valayampattu (R.V) And (P) Ward 2 Indira Gandhi Street , 5.Valayampattu (R.V) And (P) Ward 2 Thiruvalluvar Veethi , 6.Valayampattu (R.V) And (P) Ward 2 Vinayakar Koil Veethi , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+151,47,151,"Municipal Muslim Boys High School, Addl. Building Eastern Side Facing West Gandhinagar, Vaniyambadi Town 635751","1.Valayampattu (R.V) And (P) Ward 2 Arunthathiray Colony , 2.Valayampattu (R.V) And (P) Ward 2 Kollai Medu , 3.Valayampattu (R.V) And (P) Ward 2 Arigyar Anna Nagar , 4.Valayampattu (R.V) And (P) Ward 2 MGR Nagar , 5.Valayampattu (R.V) And (P) Ward 2  Nagoji Vattam , 6.Valayampattu (R.V) And (P) Ward 2 Kalaigar Nagar , 7.Valayampattu (R.V) And (P) Ward 2 Rajivgandhi Nagar , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+152,47,152,"Municipal Muslim Elementry School , Addl. Building Eastern Side Facing East Gandhinagar, Vaniyambadi Town 635751","1.Valayampattu (R.V) And (P) Ward 3 Arunthathiyar Colony , 2.Valayampattu (R.V) And (P) Ward 3 Kollakkottai , 3.Valayampattu (R.V) And (P) Ward 3 Anna Nagar , 4.Valayampattu (R.V) And (P) Ward 3 Mariyamman Koil Vattam , 5.Valayampattu (R.V) And (P) Ward 3 Ponni Nagar , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+153,47,153,"Municipal Muslim Elementry School , 3rd Addl. Building Facing west Gandhinagar, Vaniyambadi Town 635751","1.Valayampattu (R.V) And (P) Ward 3 Indira Nagar , 2.Valayampattu (R.V) And (P) Ward 3 Tharman Vattam , 3.Valayampattu (R.V) And (P) Ward 3 Parasuraman Vattam , 4.Valayampattu (R.V) And (P) Ward 3  Lala Eari, Kollakottai , 5.Valayampattu (R.V) And (P) Ward 3  Nagappam Vattam , 6.Valayampattu (R.V) And (P) Ward 3  Godiyuran Vattam , 7.Valayampattu (R.V) And (P) Ward 3  Lala eari , 8.Valayampattu (R.V) And (P) Ward 3 Rangan Vattam , 9.Valayampattu (R.V) And (P) Ward 3 Krishnan Vattam , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+154,47,154,"Municipal Model Hr.Sec.School, Western Side Room, Facing North Teachers Room Gandhinagar, Vaniyambadi Town 635751","1.Valayampattu (R.V) And (P) Ward 4, Anna Nagar , 2.Valayampattu (R.V) And (P) Ward 4, Kollakottai , 3.Valayampattu (R.V) And (P) Ward 4, Ponni Nagar , 4.Valayampattu (R.V) And (P) Ward 4, Indira Nagar , 5.Valayampattu (R.V) And (P) Ward 4, Ponnappan Vattam ,
+999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+155,47,155,"Municipal Model Hr.Sec.School New Addl. Building Western Portion Facing North Gandhinagar, Vaniyambadi Town
+635751","1.Valayampattu (R.V) And (P) Ward 4 Ummar Nagar , 2.Valayampattu (R.V) And (P) Ward 4, Kamarajar Nagar , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+156,47,156,"Municipal Model Hr.Sec.School New Addl. Building Facing West Gandhinagar, Vaniyambadi Town 635751","1.Amburpet (R.V) Valaiyampet(P) Ward 5 Veppamara salai , 2.Amburpet (R.V) Valaiyampet(P) Ward 5 Pappanery , 3.Amburpet (R.V) Valaiyampet(P) Ward 5 Usithopu , 4.Amburpet (R.V) Valaiyampet(P) Ward 5, Bhatath Nagar , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+157,47,157,"Municipal Model Hr.Sec.School North Portion Facing West, Gandhinagar, Vaniyambadi Town 635751","1.Govindapuram (R.V) And (P) Ward 1, North street , 2.Govindapuram (R.V) And (P) Ward 1, Pillaiyar Koil  Street , 3.Govindapuram (R.V) And (P) Ward 1, South Street , 4.Govindapuram (R.V) And (P) Ward 1, Patasalai Street , 5.Govindapuram (R.V) And (P) Ward 1, Mariyamman Koil Street , 6.Govindapuram (R.V) And (P) Ward 1, East Street , 7.Govindapuram (R.V) And (P) Ward 1, Rajiv Gandhi Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+158,47,158,"Municipal Model Hr.Sec.School South Portion Facing West Gandhinagar, Vaniyambadi Town 635751","1.Govindapuram (R.V) And (P) Ward 2 Eariminnur , 2.Govindapuram (R.V) And (P) Ward 2, Vanniyaputhur , 3.Govindapuram (R.V) And (P) Ward 2, Ayarpadi , 4.Govindapuram (R.V) And (P) Ward 3, Vanniyaputhur Kolla kollai , 5.Govindapuram (R.V) And (P) Ward 3, Vanniyanathapuram , 6.Govindapuram (R.V) And (P) Ward 3, Pullakuttai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+159,47,159,"Municipal Hindu Elementary School, , Eastern side Building, CRC Center, Facing West , CAN Road, Pudur,
+Vaniyambadi Town 635751","1.Vallipattu (R.V) And (P) Ward 1 Pullakuttai , 2.Vallipattu (R.V) And (P) Ward 1 Vallipet , 3.Vallipattu (R.V) And (P) Ward 1 Govindan Vattam , 4.Vallipattu (R.V) And (P) Ward 4, Vallipet , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+160,47,160,"Municipal Hindu Elementary School , Eastern Side Building, Facing West CAN Road, Pudur, Vaniyambadi Town 635751","1.Vallipattu (R.V) And (P) Ward 3 Vallipet , 2.Vallipattu (R.V) And (P) Ward 3 Thimmanur , 3.Vallipattu (R.V) And (P) Ward 3 Pullakuttai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+161,47,161,"Municipal Hindu Elementary School , Room No.1, Southern side buildings, Facing North C..N.A Road, Pudur,
+Vaniyambadi Town 635751","1.Vallipattur (R.V) Pethaveppanpet (P) Ward 1 Pethaveppanpet , 2.Vallipattu (R.V) Pethaveppanpet (P) Ward 2 Idaiyampallam , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+162,47,162,"Municipal Hindu Elementary School, Room No.2, Southern side building Facing North C..N.ARoad, Pudur,
+Vaniyambadi Town 635751","1.Vallipattu (R.V) Pethaveppanpet (P) Ward 3, K.K. Kottai , 2.Vallipattu (R.V) Pethaveppanpet (P) Ward 4 Perumal Koil Vattam , 3.Vallipattu (R.V) Pethaveppanpet (P) Ward 4, Kullappanur , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+163,47,163,"Concordia Higher Sec School, South Side Building, Facing North, Room-1, CNA Road Pudur, Vaniyambadi Town 635751","1.Kothakottai (R.V) Vijilapuram(P) Ward 1 Kurumpatti , 2.Kothakottai (R.V) Vijilapuram(P) Ward 1 Arunthathiyar Colony , 3.Kothakottai (R.V) Vijilapuram(P) Ward 1 Palappnur , 4.Kothakottai (R.V) Vijilapuram(P) Ward 1 Munnaram Vattam , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+164,47,164,"Concordia Higher Sec School, South Side Building, Facing North, Room-2, CNA Road Pudur, Vaniyambadi Town 635751","1.Kothakottai (R.V) Vijilapuram(P) Ward 1 Paparukhan Vattam , 2.Kothakottai (R.V) Vijilapuram(P) Ward 1 Chinnakattery Vattam , 3.Kothakottai (R.V) Vijilapuram(P) Ward 1 Narathan Vattam , 4.Kothakottai (R.V) Vijilapuram(P) Ward 1 Godiyur , 5.Kothakottai (R.V) Vijilapuram(P) Ward 1 Pairavan Vattam , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+165,47,165,"Concordia Higher Sec School South Side Building, Facing North, Room-3, CAN Road Pudur, Vaniyambadi Town 635751","1.Kothakottai (R.V) Periyakurumpatheruo (p) Ward 1 Raisemill vattam , 2.Kothakottai (R.V) Periyakurumpatheruo (p) Ward 1 Veppalampatti Mariyamman Koil Street , 3.Kothakottai (R.V) Periyakurumpatheruo (p) Ward 1 Sorakkalnatham Mariyamman Koil Street , 999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+166,47,166,"Concordia Higher Sec School,Facing East Room-6, CAN Road Pudur, Vaniyambadi Town 635751","1.Kothakottai (R.V) Periyakurumpatheruo (p) Ward 2 Chinna kurumba street , 2.Kothakottai (R.V) Periyakurumpatheruo (p) Ward 2 Periyakurumpatheruo , 3.Kothakottai (R.V) Periyakurumpatheruo (p) Ward 2 Anna Nagar , 4.Kothakottai (R.V) Periyakurumpatheruo (p) Ward 2 Pelikhan Vattam , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+167,47,167,IELC School North Facing East building Mettupalayam 635754,"1.Kothakottai (R.V) And (P) Ward 3, Mariyamman koil 1st street , 2.Kothakottai (R.V) And (P) Ward 3, Mariyamman Koil 2nd street , 3.Kothakottai (R.V) And (P) Ward 3, Mariyamman Koil 3rd Street , 4.Kothakottai (R.V) And (P) Ward 3, Kutroad Kollamedu , 5.Kothakottai (R.V) And (P) Ward 3, Murugesan Balkara Vattam , 6.Kothakottai (R.V) And (P) Ward 3, Sekkumedu , 7.Kothakottai (R.V) And (P) Ward 3, Balu Vattam , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+168,47,168,"Panchayat Union Middle School , South Building Facing North Mettupalayam
+635754","1.Kothakottai (R.V) And (P) Ward 2, Kattaiyan vattam , 2.Kothakottai (R.V) And (P) Ward 2, Veppanpattan Eari , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+169,47,169,"Panchayat Union Middle School, Main Building ,North Facing Building Mettupalayam 635754","1.Kothakottai (R.V) And (P) Ward 2, Chinnu Vattam Kolla Kottai , 2.Kothakottai (R.V) And (P) Ward 2, Arunthathiyar Colony , 3.Kothakottai (R.V) And (P) Ward 2, Mariyamman Koil  2nd Street , 4.Kothakottai (R.V) And (P) Ward 2, Raisemil Vattam , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+170,47,170,IELC School North Facing South building Mettupalayam 635754,"1.Kothakottai (R.V) And (P) Ward 1 Kothak kottai , 2.Kothakottai (R.V) And
+(P) Watd 1 Mariyamman Koil Street , 3.Kothakottai (R.V) And (P) Ward 1 Boyar Street , 4.Kothakottai (R.V) And (P) Ward 1 Arunthathiyar Colony , 5.Kothakottai (R.V) And (P) Ward 1 Kuttur , 6.Kothakottai (R.V) And (P) Ward 1 Kottaooran Vattam , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+171,47,171,"Saint Antony Roman Chatholic mission Hr Sec School , Facing North East Side, Room No.3 Udayendiram 635754","1.Nekkanamalai (R.V) And (P) Ward 1 Nekkanamalai Village , 2.Nekkanamalai (R.V) And (P) Ward 1,KollaKottai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+172,47,172,"Saint Antony Roman Chatholic Mission Hr. Sec School , Facing North East Side, Room No.6 Udayendiram 635754","1.Vellakuttai (R.V) And (P) Ward 5 Periya vellakuttai ,  999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+173,47,173,"Panchayat Union Elementary School , Facing South Building Kundanimedu 635754","1.Vellakuttai (R.V) And (P) Ward 5 Suppan vattam  2.Vellakuttai (R.V) And
+(P) Ward 5 Nagathouppu , 3.Vellakuttai (R.V) And (P) Ward 5 Malayan Vattam , 4.Vellakuttai (R.V) And (P) Ward 5 Kaliyamman Vattam , 5.Vellakuttai (R.V) (P) Ward 5 Ulappallam Vattam , 999.OVERSEAS ELECTORS",ALL VOTERS
+174,47,174,"Panchayat Union Elementary School , Facing South, West Side Building Udayendiram 635754","1.Vellakuttai (R.V) And (p) Ward 1, Pajanai koil 1st street , 2.Vellakuttai (R.V) And (P) Ward 1,Pajanai Koil 2nd Street , 3.Vellakuttai (R.V) And (P) Ward 1, Manthaiveli Street , 4.Vellakuttai (R.V) And (P) Ward 1, Mariyamman Koil Streen , 5.Vellakuttai (R.V) And (P) Ward 1, Arasamara Street , 6.Vellakuttai (R.V) And (P) Ward 1, Adi Diravidar Colony , 7.Vellakuttai (R.V) And (P) Ward 1, Adi drawidar Colony Puthumanai , 8.Vellakuttai (R.V) And (P) Ward 5 Alamara vattam ,999.OVERSEAS
+ELECTORS",ALL VOTERS
+175,47,175,"Panchayat Union Elementary School , Facing South, East Side Building Udayendiram 635754","1.Vellakuttai (R.V) And (P) Ward 2 Mariyamman koil street , 2.Vellakuttai (R.V) And (P) Ward 2  Manthaiveli Street , 3.Vellakuttai (R.V) And (P) Ward 2 Arasamara Street , 4.Vellakuttai (R.V) And (P) Ward 2 Gowramman Koil Street , 5.Vellakuttai (R.V) And (P) Ward 2 Athi Dravidar Colony , 6.Vellakuttai (R.V) And (P) Ward 2 Arunthathiyar Colony , 7.Vellakuttai (R.V) And (P) Ward 2 Scholl Kutathan Street , 8.Vellakuttai (R.V) And (P) Ward 2 Marati Palayam , 9.Vellakuttai (R.V) And (P) Ward 5 Jambupallam , 999.OVERSEAS ELECTORS",ALL VOTERS
+176,47,176,"Saint Antony RomanChatholic Elementary School , 2nd Room Facing
+South Udayendiram 635754","1.Vellakuttai (P.V) And (P) Ward 4 Nanneri , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+177,47,177,"Saint Antony RomanChatholic Elementary School , Room No.4, Facing
+West Udayendiram 635754","1.Vellakuttai (P.V) And (P) Ward 4 Nanneri , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+178,47,178,"Panchayat Union Middle School , Facing West South Portion C.V.Pattarai 635754","1.Vellakuttai (R.V) And (P) Ward 3 Thurinchi kuppam , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+179,47,179,"Panchayat Union Middle School, Facing South East Portion C.V.Pattarai 635754","1.Nimmiyampet (R.V) And (P) Ward 2 Mel nimmiyampet , 2.Nimmiyampet (R.V) And (P) Ward 2 Gandhi Nagar , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+180,47,180,"Panchayat Union Elementary School ,
+New Building Venkatapuram 635754","1.Nimmiyampet (R.V) (P) Ward 1 Nimmiyampet , 999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+181,47,181,"Anganwadi Center, South east Facing
+Valaiyampattu 635751","1.Nimmiyampet (R.V) And (P) Ward 1 Pananthoppu , 999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+182,47,182,"Panchayat Office, Nort east Facing Valaiyampattu 635751","1.Nimmiyampet (R.V) And (P) Ward 3 Nimmiyampet  colony , 2.Nimmiyampet (R.V) And (P) Ward 3 Kuval Kuttai , 999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+183,47,183,"Pudhuvalu Thittam Building ,North
+Facing AD Colony, Valaiyampattu 635751","1.Nimmiyampet (R.V) And (P) Ward 3 Sunnambupallam , 2.Nimmiyampet (R.V) And (P) Ward 3 Main Road , 3.Nimmiyampet (R.V) And (P) Ward 3 Alamarathu Vattam , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+184,47,184,"Palvadi Center, South Facing AD Colony, Valaiyampattu 635751","1.Reddiyur (R.V) And (P) Ward 2, Ranipet vattam , 2.Reddiyur (R.V) And
+(P) Ward 2, Mallikuttai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+185,47,185,"Panchayat Union Elementary School,
+Facing East Lalaeari Valayampattu 635751","1.Reddiyur (R.V) And (P) Ward 1, Mullai kobbai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+186,47,186,"Panchayat Union Elementary School, 4th Class Room, Facing East Lalaeari
+Valayampattu 635751","1.Reddiyur (R.V) And (P) Ward 1, Kalaar Vattam , 2.Reddiyur (R.V) And
+(P) Ward 1, Ranipettai Vattam , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+187,47,187,"Panchayat Union Middle School, Facing North South side Additional Building Indira Nagar, Valayampattu 635751","1.Reddiyur (R.V) And (P) Ward 3  Reddyur , 2.Reddiyur (R.V) And (P) Ward 3 Kollai Kottai , 3.Reddiyur (R.V) And (P) Ward 3 Nagoji Vattam , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+188,47,188,"Panchayat Union Middle School, Facing East West side South Building Indira Nagar, Valayampattu 635751","1.Narasingapuram (R.V) And (P) Ward 1 Narasingapuram kose road , 2.NarasingaPuram (R.V) And (P) Ward 1 Post office Street , 3.Narasingapuram (R.V) And (P) Ward 1 Mel Street , 999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+189,47,189,"Panchayat Union Elementary School , Addl. Building, Facing West Pappanneri 635751","1.Narasingapuram (R.V) And (P) Ward 2 Narasingapuran kose street , 2.Narasingapuram (R.V) And (P) Ward 2 Adi Dravidar Colony , 3.Narasingapuram (R.V) And (P) Ward 2 Murugar Koil Vattam , 4.Narasingapuram (R.V) And (P) Ward 2 Pallikutathan Vattam , 5.Narasingapuram (R.V) And (P) Ward 2 Manganur Vattam ,
+999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+190,47,190,"Panchayat Union Elementary School , Western side Building South Facing Kanavipudur 635752","1.Narasingapuram (R.V) And (P) Ward 2 Irular Vattam , 2.Narasingapuram (R.V) And (P) Ward 2 Kurmbar Vattam , 3.Narasingapuram (R.V And (P) Ward 2 Sunnambukara Street , 4.Narasingapuram (R.V) And (P) Ward 2 Veerasamy Vattam , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+191,47,191,"Panchayat Union Elementary School , Southern Side Building North Facing Kanavipudur 635752","1.Narasingapuram (R.V) And (P) Ward 3, Komali vattam kallarapatti , 2.Narasingapuram (R.V) And (P) Ward 3, Komali Vattam Kolla Kottai , 3.Narasingapuram (R.V) And (P) Ward 4, Ragimanusethu Puthur , 4.Narasingapuram (R.V) And (P) Ward 4, KalKattu , 999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+192,47,192,"Panchayat Union Elementary School , East Facing Building Kanavipudur 635752","1.Narasingapuram (R.V) And (P) Ward 3 Kallarapatti arunthathiyar colony , 2.Narasingapuram (R.V) And (P) Ward 3, Kallarapatti , 3.Narasingapuram (R.V) And (P) Ward 3, Andi EariMulai Vattam , 4.Narasingapuram (R.V) And (P) Ward 3 KollaKottai , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+193,47,193,"Panchayat Union Elementary School , Facing North Center Room Vallipattu 635752","1.Alangayam (C.C) Ward-6, Nedimiyur , 2.Alangayam (C.C) Ward-6, Lakshmi Street , 3.Alangayam (C.C) Ward-6, Pankur 1st Street , 4.Alangayam (C.C) Ward-6,Ramasamy Vattam , 5.Alangayam (C.C) Ward - 6, Thathan Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+194,47,194,"Panchayat Union Elementary School , Facing North Room Vallipattu 635752","1.Alangayam (C.C) Ward-3 Gottauoor , 2.Alangayam (C.C) Ward-3 Majimbar Raman Street , 3.Alangayam (C.C) Ward-3 Munisamy Street (arunthathiyar Colony) , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+195,47,195,"Panchayat Union Elementary School , North side Building South Facing Vallipattu 635752","1.Alangayam (C.C) Ward-3 Gejjalur , 2.Alangayam (C.C) Ward-4 pulukurpalli , 3.Alangayam (C.C) Ward-4 Mariyamman Koil Street , 4.Alangayam (C.C) Ward-4 Pajanai Koil Street , 5.Alangayam (C.C) Ward-4 Pillaiyar Koil Street , 6.Alangayam (C.C) Ward-4 Irupatchiyamman Koil Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+196,47,196,"Palvadi center, North East Facing Pethaveppampattu 635752","1.Alangayam (C.C) Ward-7, I.D.Govindarajilu Street , 2.Alangayam (C.C) Ward-7, Reddy Street , 3.Alangayam (C.C) Ward-7, Appau Chetty Street , 4.Alangayam (C.C) Ward-7, Pillaiyar Koil Street , 5.Alangayam (C.C) Ward-7, Ramasamy Street , 6.Alangayam (C.C) ward-7, Nagarajan Street , 7.Alangayam (C.C) Ward-7, Old Arisina Colony 1st Street , 8.Alangayam (C.C) Ward-7, Old Arisana Colony 2nd Street (anna Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+197,47,197,"Panchayat Union Elementary School, North Building South Facing, Pethaveppampattu 635752","1.Alangayam (C.C) Ward-15 old adi-dravidar colony 3rd street , 2.Alangayam (C.C) Ward-15 Old Adi- Thiravidar 4th Street , 3.Alangayam (C.C) Ward-15 New Adi-Thiravidar Colony Mel Street , 4.Alangayam (C.C) Ward-15 New Adi-Thiravidar Colony Keel Street , 5.Alangayam (C.C) Ward-15 Ambethkar Nagar , 6.Alangayam (C.C) Ward-15 Methar Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+198,47,198,"Panchayat Union Elementary School, New West Building Facing East Pethaveppampattu 635752","1.Alangayam (C.C) Ward-13, vaisiyar street , 2.Alangayam (C.C) Ward-13, Tharmarajapuram 1st Street  , 3.Alangayam (C.C) Ward-13, Tharmarajapuram 2nd Street , 4.Alangayam (C.C) Ward-13, M.G.R.Nagar
+, 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+199,47,199,"Panchayat Union Elementary School, Facing West, Northern Side Palappanur 635752","1.Alangayam (C.C) Ward-11, kaithey millath street , 2.Alangayam (C.C) Ward-11 A.V.K.Road , 3.Alangayam (C.C) Ward-11, Pailwan Jay Labthin Street , 4.Alangayam (C.C) Ward-11, Abdul Ajees Street , 999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+200,47,200,"Panchayat Union Elementary School, Facing West South Side Building Palappanur 635752","1.Alangayam (C.C) Ward-11, Gandhi Road , 2.Alangayam (C.C) Ward-14, Saiyath Mohamad Saheb Street , 3.Alangayam (C.C) Ward-14, Patsamiyan Street , 4.Alangayam (C.C) Ward-14, Mosque Street , 5.Alangayam (C.C) Ward-14, P.D. Khathar Basha Street , 6.Alangayam (C.C) Ward-14, Kottai Street , 7.Alangayam (C.C) Ward-14, Kasu Saibu Street , 8.Alangayam (C.C) Ward-14, Kalai Sabjan Street , 9.Alangayam (C.C) Ward-14, Hayathbasha Street , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+201,47,201,"Panchayat Union Elementary School , Facing South Periyakurumbatheru 635752","1.Alangayam (TP) Ward 1 perumal koil street , 2.Alangayam (C.C) Ward-1 Munisamy Street (Thottistreet) , 3.Alangayam (C.C) Ward-1ÌMatrapalliyan Street , 4.Alangayam (C.C) Ward-1Ì Mathanapalliyan Street , 5.Alangayam (C.C) Ward-1 Primary School Street , 6.Alangayam (C.C) Ward-1ÌManthai Street , 7.Alangayam (C.C) Ward-2 Kavalaikara Ramasamy Street , 8.Alangayam (C.C) Ward-2 Appai Street , 9.Alangayam (C.C) Ward-2 Sengan Street , 10.Alangayam (C.C) Ward-2 Raji Street , 11.Alangayam (C.C) ward-2 Chinnan Street , 12.Alangayam (C.C) Ward-2 Mariyamman Koil Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+202,47,202,"Panchayat Union Elementary. School , Main Building Facing South Periyakurumbatheru 635752","1.Alangayam (C.C) Ward-8 postman munisamy 1st street , 2.Alangayam (C.C) Ward-8 Postman Munisam 2nd Street , 3.Alangayam (C.C) Ward-8 Postman Munisamy 3rd Street , 4.Alangayam (C.C) Ward-8 Postman Munisamy 4th Street , 5.Alangayam (C.C) Ward-8 Postman Munisamy 5th Street , 6.Alangayam (C.C) WArd-8 Pethur Mettu Street   , 7.Alangayam (C.C) Ward-8  Manika Goundar Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+203,47,203,Anganwadi Centre West Facing Periyakurubatheru 635752,"1.Alangayam (C.C) Ward-9 ragavalu naidu street , 2.Alangayam (C.C) Ward-9 Kollar Street , 3.Alangayam (C.C) Ward-9 Lathif Street , 4.Alangayam (C.C) Ward-9 Dr.Ambethkar Street , 5.Alangayam (C.C) Ward-9 Aseem Saiheb Street , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+204,47,204,"Panchayat Union Elementary School , East Facing Kurumpatti Kothakottai 635752","1.Alangayam (C.C) ward-12 Kuthus Street , 2.Alangayam (C.C) Ward-12 Muthappan Street , 3.Alangayam (C.C) Ward-12 Munisamy Street , 4.Alangayam (C.C) ward-12, Durai Street  , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+205,47,205,Anganwadi Centre West Facing Kurumpatti Kothakottai 635752,"1.Alangayam (C.C) Ward-5, rajapalayam , 2.Alangayam (C.C) Ward-5, Sevathan Street , 3.Alangayam (C.C) Ward-5, Thanthai Periyar Street , 4.Alangayam (C.C) Ward-6, Kongiyur , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+206,47,206,"Panchayat Union Elementary School, Facing West South Side Kothakottai
+635752","1.Alangayam (C.C) Ward-10 Pamandi Chinnapaiyan Street , 2.Alangayam (C.C) Ward-10 Pallikutathan Street ,999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+207,47,207,"Panchayat Union Elementary School, Facing North, South Side Kothakottai
+635752","1.Alangayam (C.C) Ward-10 Pricedent Angamuthu Street , 2.Alangayam (C.C) Ward-10 Kamarajar Street , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+208,47,208,"Panchayat Union Elementary School , New Addl.Building North Facing West
+Side Kothakottai 635752","1.Bemakulam (R.V) And (P) Ward 1 Peemakulam , 2.Bemakulam (R.V) And (P) Ward 1 Malaireddiyur ,999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+209,47,209,"Panchayat Union Elementary School , West Facing Neknamalai 635752","1.Bemakulam (R.V) And (P) Ward 1 Mantharakuttai ,2.Bemakulam (R.V)
+And (P) Ward 1 Jarapandai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+210,47,210,"Panchayat Union Elementary School
+,New Additional South Side Building Facing East Periya Vellakuttai 635752","1.Beemakulam (R.V) And (P) Ward 2, Kavalur , 2.Bemakulam (R.V) And
+(P) Ward 2, Veera ragavalasai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+211,47,211,"Panchayat Union Elementary School
+,New Additional Norh Side Building Facing East Periya Vellakuttai 635752","1.Bemakulam (R.V) And (P) Ward 3, Thimmarayavalasai  Palaiyur , 2.Bemakulam (R.V) And (P) Ward 3, Arunachala Kottai , 3.Bemakulam (R.V) And (P) Ward 3, Kolla Kottai , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+212,47,212,"Government Hr.Sec School , Room No.19, South Facing North building
+Vellakuttai 635752","1.Naikanur (R.V) And (P) Ward 1, Naikanur , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+213,47,213,"Government Hr.Sec School , Room No.20, South Facing North building Vellakuttai 635752","1.Naikanur (R.V) And (P) Ward 3, Umaiyappanaikanur , 2.Naikanur (R.V.) And (P) Ward 3,Veerarakava valasai , 3.Naikanur (R.V) And (P) Ward 3, Sathiram Kollai kottai , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+214,47,214,"Government Hr.Sec School , West Facing Building Vellakuttai 635752","1.Naikanur (R.V) And (P) Ward 2, Krishnapuram , 2.Naikanur (R.V) And
+(P) Ward 2, Upparai Vattam , 3.Naikanur (R.V) And (P) Ward 2, Kolla kottai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+215,47,215,"Panchayat Union Elementary School,
+New Building Facing East Nanneri Vellakuttai 635752","1.Poongulam (R.V) And (P) Ward 4 Alamarathur , 2.Poongulam (R.V) And
+(P) Ward 4 Lathikottai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+216,47,216,"Panchayat Union Elementary School,
+New Building Facing West Nanneri Vellakuttai 635752","1.Poongulam (R.V) And (P) Ward 2 Poongulam Kolla Kottai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+217,47,217,"Panchayat Union Elementary School ,
+Facing West East Building Thurinjikuppam Vellakuttai 635752","1.Poongulam (R.V) And (P) Ward 2 Dindivanam , 2.Poongulam (R.V) And
+(P) Ward 2 Poongulam Kolla Kottai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+218,47,218,"Panchayat Union Elementary School , Facing South, East Building
+Thurinjikuppam Vellakuttai 635752","1.Poongulam (R.V) And (P) Ward 1 Poongulam , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+219,47,219,"Panchayat Union Elementary. School, Facing South MelNimmiyampattu 635752","1.Poongulam (R.V) And (P) Ward 1 Adidravidar Colony , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+220,47,220,"Panchayat Union Elementary School, Facing South Nimmiyampattu 635752","1.Poongulam (R.V), Balappanatham (P) Ward 3 Balappanatham Adidravaidar Colony , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+221,47,221,"Panchayat Union Elementary School,
+CRC Building, West Facing Nimmiyampattu 635752","1.Poongulam (R.V), Balappanatham (P) Ward 3 Balappanatham
+Adidravaidar Colony , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+222,47,222,"Panchayat Union Elementary School , 2009-10 West Building, North Facing
+Nimmiyampattu 635752","1.Poongulam (R.V), Balapanatham (P) Ward 3 Balapanatham , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+223,47,223,"Panchayat Union Elementary School , West Building, North Facing
+Nimmiyampattu 635752","1.Poongulam (R.V), Reddivalasai (P) Ward 4 Reddivalasai , 2.Poongulam (R.V), Reddivalasai (P) Ward 4 Kollakottai , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+224,47,224,"Panchayat Union Elementary School ,
+New Addl. Building Facing North Nimmiyampattu 635752","1.Marimanikuppam (R.V) And (P) Ward 4 Andalvadinatham , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+225,47,225,"Panchayat Union Elementary School , New Addl. Building Facing East
+Mullaikumbai 635752","1.Marimanikuppam (R.V) And (P) Ward 4 Andalvadinatham , 2.Marimanikuppam (R.V) And (P) Ward 4 Eriepallam , 999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+226,47,226,"Panchayat Union Elementary School , Facing North, New Building Mullaikumbai
+635752","1.Marimanikuppam (R.V) And (P) Ward 1 Omakuppam , 2.Marimanikuppam (R.V) And (P) Ward 1 Omakuppam Kollakottai ,
+999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+227,47,227,"Panchayat Union Elementary School , Facing West Old Building Mullaikumbai
+635752","1.Marimanikuppam (R.V) And (P) Ward 3 Pudur , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+228,47,228,"Panchayat Union Elementary School, Addl. Building Facing East Reddiyur
+635701","1.Marimanikuppam (R.V) And (P) Ward 3 Neelikkollai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+229,47,229,"Panchayat Union Elementary School, Facing West Reddiyur 635701","1.Marimanikuppam (R.V) And (P) Ward 1 Marimanikuppam , 2.Marimanikuppam (R.V) And (P) Ward 1 Marimanikuppam Adidravidar Colony , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+230,47,230,"Panchayat Union Middle School,
+Southern Side Building, Facing North Narasingapuram 635701","1.Nacharkuppam (R.V)AND (P) Ward 2 1, Nacharkuppam , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+231,47,231,"Panchayat Union Middle School , Northern Side Building, Facing North
+Narasingapuram 635701","1.Nachiarkuppam (R.V), AND(P) Ward 2, 2 Malandiyur , 2.Nacharkuppam (R.V)AND (P) Ward  1  3  Reddivalasai , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+232,47,232,"Panchayat Union Middle School,Western
+Side Building, Facing East Narasingapuram 635701","1.Nacharkuppam (R.V)AND (P) Ward  4 1 Gundreddiyur ,
+2.Nacharkuppam (R.V)AND (P) Ward 4, 2  Mittur , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+233,47,233,"Panchayat Union Middle School, Facing North Kalarapatti Narasingapuram 635701","1.Nacharkuppam (R.V)AND (P) Ward 4, 2  Mittur , 2.Nacharkuppam (R.V), AND (P) Ward 4 ,3 Mittur Annanagar , 3.Nachiarkuppam (R.V), AND(P) Ward  4, 4 Jalthi , 4.Nacharkuppam (R.V)AND (P) Ward  4 1 Gundreddiyur
+, 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+234,47,234,"Panchayat Union Middle School, Facing South Kalarapatti Narasingapuram 635701","1.Nacharkuppam (R.V)AND (P) Ward 2 1, Thimaraya Valasai , 2.Nacharkuppam (R.V)AND (P) Ward 2  2,Chakarakuppam , 3.Nacharkuppam (R.V)AND (P) Ward 2, 3 Vilanguppam , 999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+235,47,235,"Panchayat Union Elementary School, Facing South North Building Bankur, Alangayam TP 635701","1.Nacharkuppam (R.V)AND (P) Ward 3 4, Malandiyur , 2.Nacharkuppam (R.V)AND (P) Ward 3, 5 Gandhi Nagar , 3.Nacharkuppam (R.V)AND (P) Ward 3, 6  Paiyappan Vattam , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+236,47,236,"Goernment Boys Higher Secondary School, Room No.39, Facing North Dharumarajapuram Alangayam TP 635701","1.Andiyappanur (R.V) And (P) Ward 1 Andiyappanur , 2.Andiyappanur (R.V) And (P) Ward 1 Andiayappanur Main Street , 3.Andiyappanur (R.V) And (P) Ward 1 Andiyappanur Mel Street , 4.Andiyappanur (R.V) And (P) Ward 2 T. K. Vattam , 5.Andiyappanur (R.V) And (P) Ward 2 Vathiyar Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+237,47,237,"Government Boys Higher Secondary School, New Building Facing North Dharumarajapuram Alangayam TP
+635701","1.Andiyappanur (R.V) And (P) Ward 3 Andiyappanur Colony , 2.Andiyappanur (R.V) And (P) Ward 3 Rajapalayam , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+238,47,238,"Government Boys Higher Secondary School, South Facing Building Dharumarajapuram Alangayam TP 635701","1.Andiyappanur (R.V) And (P) Ward 4 Gunreddiyur , 2.Andiyappanur (R.V) And (P) Ward  4 Andiyappanur Kollakotai , 3.Andiyappanur (R.V) And (P) Ward 4 Mecheri Vattam , 4.Andiyappanur (R.V) And (P) Ward 4 Lalapetai Colony , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+239,47,239,"Government Boy's Higher Secondary School, Room No.41 Facing North Dharumarajapuram Alangayam TP
+635701","1.Andiyappanur (R.V) And (P) Ward 4 Mollanur , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+240,47,240,"Panchayat Union Elementary School , Kamban Koodam East Facing Building
+Alangayam TP 635701","1.Andiyappanur (R.V) And (P) Ward 5 Lalapettai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+241,47,241,"Panchayat Union Elementary School , Kamban Koodam West Facing Building Alangayam TP 635701","1.Andiyappanur (R.V) And (P) Ward 5 Kollakotai , 2.Andiyappanur (R.V) And (P) Ward 5 Kappuvanam , 3.Andiyappanur (R.V) And (P) Ward 5 Aathumedu Kappuvanam , 4.Andiyappanur (R.V) And (P) Ward 5 Papathiamman Kovil Vattam , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+242,47,242,"Govenment Boy's Higher Secondary School, Room No.10, Facing North
+Alangayam TP 635701","1.Irunapattu (R.V) And (P) Ward 4 Irunapattu(Kollakotai) , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+243,47,243,"Panchayat Union Musilim Boys Elementary School, Northern Side Building, West Facing Alangayam TP
+635701","1.Irunapattu (R.V) And (P) Ward 4 Irunapattu(Kollakotai) , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+244,47,244,"Panchayat Union Musilim Boys Elementary School , Eastern Side Building West Facing Alangayam TP
+635701","1.Irunapattu (R.V) And (P) Ward 1 Irunapattu , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+245,47,245,"Panchayat Union Elementary School , Facing South Padakuppam Alangayam
+TP 635701","1.Irunapattu (R.V) And (P) Ward 1 Papanur , 2.Irunapattu (R.V) And (P) Ward 2 Kottavur , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+246,47,246,"Anganwadi Centre, East Facing Padakuppam Alangayam TP 635701","1.Irunapattu (R.V) And (P) Ward 3 Ettikuppam , 2.Irunapattu (R.V) And (P) Ward 3 Adikkuttai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+247,47,247,"Government Girl's Higher Secondary School , Room No.5, Eastern Portion
+Alangayam TP 635701","1.Irunapattu (R.V) And (P) Ward 3 Narayanapuram , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+248,47,248,"Government Girl's Higher Secondary
+School, Addl. Building Facing South Alangayam TP 635701","1.Perumapattu (R.V) And (P) Ward 3, Perumapattu , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+249,47,249,"Government Girl's Higher Secondary
+School, 1995-96 Scheme Building Facing South Alangayam TP 635701","1.Perumapattu (R.V) And (P) Ward 2 Adidravidar Colony , 2.Perumapattu
+(R.V) And (P) Ward 4 Permapattu Kollakotai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+250,47,250,"Panchayat Union Elementary School, Northern Building Facing North
+Rajapalayam Alangayam TP 635701","1.Perumapattu (R.V) And (P) Ward 1 Permapattu , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+251,47,251,"Government Girl's Higher Secondary
+School , Northern Building Facing South Alangayam TP 635701","1.Perumapattu (R.V) And (P) Ward 1 Permapattu , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+252,47,252,"Government Girl's Higher Secondary School , Facing Room No.16 Facing
+South Alangayam TP 635701","1.Perumapattu (R.V) And (P) Ward 5 Jadayanur Colony , 2.Perumapattu (R.V) And (P) Ward 5 Vengataeshapuram , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+253,47,253,Government Higher Secondary School Facing North Malai Reddiur 635701,"1.Perumapattu (R.V), Jadaiyanur (P) Ward 4 Perumapattu , 2.Perumapattu (R.V), Jadaiyanur (P) Ward 4 Jadayanur , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+254,47,254,"Government Higher Secondary School New Building Facing North Malai Reddiur
+635701","1.Perumapattu (R.V), Pallavalli (P) Ward 1 Pallavalli , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+255,47,255,"Government High School, Southern Side West Building, East Facing Naickannur
+635701","1.Perumapattu (R.V), Pallavalli (P) Ward 2, Pallavalli , 2.Perumapattu (R.V), Pallavalli (P) Ward 2, Pallavalli Adidravidar Colony ,
+999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+256,47,256,"Government High School, EAS Scheme Building East Facing Naickannur 635701","1.Kurisilapattu (R.V) And (P) Ward 2  Kuricilapattu Adidravidar Colony , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+257,47,257,"Government High School, Facing East, New Building Naickannur 635701","1.Kurisilapattu (R.V) And (P) Ward 2  Kuricilapattu Adidravidar Colony , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+258,47,258,"Government High School, Middle Room Facing East Naickannur 635701","1.Kurisilapattu (R.V) And (P) Ward 3 Vadukamuthampatti Village , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+259,47,259,"Panchayat Union Elementary School , Facing South East Building Krishnapuram Naickannur 635701","1.Kurisilapattu (R.V) And (P) Ward 1 Kuricilapattu , 2.Kurisilapattu (R.V) And (P) Ward 1 Annnanagar , 3.Kurisilapattu (R.V) And (P) Ward 1 Main Road , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+260,47,260,"Panchayat Union Elementary School ,
+Facing East West Building Alamarathur 635710","1.Kurisilapattu (R.V) And (P) Ward 4 JollaGoundanur , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+261,47,261,"Panchayat Union Elementary School, East Wing, North Facing East side Room
+Poongulam 635710","1.Kurisilapattu (R.V) And (P) Ward 3 Thalugan Vattam , 2.Kurisilapattu (R.V) And (P) Ward 3 Kuricilapattu , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+262,47,262,"Panchayat Union Elementary School , East wing, Middle Room Facing North
+Poongulam 635710","1.Kurisilapattu (R.V) And (P) Ward 3 Thalugan Vattam , 2.Kurisilapattu (R.V) And (P) Ward 3 Kuricilapattu , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+263,47,263,"Panchayat Union Elementary School , West Wing West side Building North Facing Poongulam 635710","1.Alangayam (C.C) Ward-3 Gejjalur , 2.Alangayam (C.C) Ward-4 pulukurpalli , 3.Alangayam (C.C) Ward-4 Mariyamman Koil Street , 4.Alangayam (C.C) Ward-4 Pajanai Koil Street , 5.Alangayam (C.C) Ward-4 Pillaiyar Koil Street , 6.Alangayam (C.C) Ward-4 Irupatchiyamman Koil Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+264,47,264,"Panchayat Union Elementary School , West Wing 1st Room North Facing Poongulam 635710","1.Alangayam (C.C) Ward-7, I.D.Govindarajilu Street , 2.Alangayam (C.C) Ward-7, Reddy Street , 3.Alangayam (C.C) Ward-7, Appau Chetty Street , 4.Alangayam (C.C) Ward-7, Pillaiyar Koil Street , 5.Alangayam (C.C) Ward-7, Ramasamy Street , 6.Alangayam (C.C) ward-7, Nagarajan Street , 7.Alangayam (C.C) Ward-7, Old Arisina Colony 1st Street , 8.Alangayam (C.C) Ward-7, Old Arisana Colony 2nd Street (anna Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+265,47,265,"Panchayat Union Middle School, Southern Side Building North Facing Balapalantham Poongulam 635710","1.Alangayam (C.C) Ward-15 old adi-dravidar colony 3rd street , 2.Alangayam (C.C) Ward-15 Old Adi- Thiravidar 4th Street , 3.Alangayam (C.C) Ward-15 New Adi-Thiravidar Colony Mel Street , 4.Alangayam (C.C) Ward-15 New Adi-Thiravidar Colony Keel Street , 5.Alangayam (C.C) Ward-15 Ambethkar Nagar , 6.Alangayam (C.C) Ward-15 Methar Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+266,47,266,"Panchayat Union Middle School, New Addl. Building Facing East Balapalantham Poongulam 635710","1.Alangayam (C.C) Ward-13, vaisiyar street , 2.Alangayam (C.C) Ward-13, Tharmarajapuram 1st Street  , 3.Alangayam (C.C) Ward-13, Tharmarajapuram 2nd Street , 4.Alangayam (C.C) Ward-13, M.G.R.Nagar
+, 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+267,47,267,"Panchayat Union Middle School, Centre Room, Facing South Balapalantham Poongulam 635710","1.Alangayam (C.C) Ward-11, kaithey millath street , 2.Alangayam (C.C) Ward-11 A.V.K.Road , 3.Alangayam (C.C) Ward-11, Pailwan Jay Labthin Street , 4.Alangayam (C.C) Ward-11, Abdul Ajees Street , 999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+268,47,268,"Panchayat Union Elementary School, Southern Building Facing North Reddivalasai Poongulam 635710","1.Alangayam (C.C) Ward-11, Gandhi Road , 2.Alangayam (C.C) Ward-14, Saiyath Mohamad Saheb Street , 3.Alangayam (C.C) Ward-14, Patsamiyan Street , 4.Alangayam (C.C) Ward-14, Mosque Street , 5.Alangayam (C.C) Ward-14, P.D. Khathar Basha Street , 6.Alangayam (C.C) Ward-14, Kottai Street , 7.Alangayam (C.C) Ward-14, Kasu Saibu Street , 8.Alangayam (C.C) Ward-14, Kalai Sabjan Street , 9.Alangayam (C.C) Ward-14, Hayathbasha Street , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+269,47,269,"Panchayat Union Middle School, Facing West, Pudur 635710","1.Alangayam (TP) Ward 1 perumal koil street , 2.Alangayam (C.C) Ward-1 Munisamy Street (Thottistreet) , 3.Alangayam (C.C) Ward-1ÌMatrapalliyan Street , 4.Alangayam (C.C) Ward-1Ì Mathanapalliyan Street , 5.Alangayam (C.C) Ward-1 Primary School Street , 6.Alangayam (C.C) Ward-1ÌManthai Street , 7.Alangayam (C.C) Ward-2 Kavalaikara Ramasamy Street , 8.Alangayam (C.C) Ward-2 Appai Street , 9.Alangayam (C.C) Ward-2 Sengan Street , 10.Alangayam (C.C) Ward-2 Raji Street , 11.Alangayam (C.C) ward-2 Chinnan Street , 12.Alangayam (C.C) Ward-2 Mariyamman Koil Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+270,47,270,"Panchayat Union Elementary School, New Building, West side, North Facing, Andalvadinatham Poongulam 635710","1.Alangayam (C.C) Ward-8 postman munisamy 1st street , 2.Alangayam (C.C) Ward-8 Postman Munisam 2nd Street , 3.Alangayam (C.C) Ward-8 Postman Munisamy 3rd Street , 4.Alangayam (C.C) Ward-8 Postman Munisamy 4th Street , 5.Alangayam (C.C) Ward-8 Postman Munisamy 5th Street , 6.Alangayam (C.C) WArd-8 Pethur Mettu Street   , 7.Alangayam (C.C) Ward-8  Manika Goundar Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+271,47,271,"Panchayat Union Middle School, Facing West Omakuppam, Marimanikuppam 635710","1.Alangayam (C.C) Ward-9 ragavalu naidu street , 2.Alangayam (C.C) Ward-9 Kollar Street , 3.Alangayam (C.C) Ward-9 Lathif Street , 4.Alangayam (C.C) Ward-9 Dr.Ambethkar Street , 5.Alangayam (C.C) Ward-9 Aseem Saiheb Street , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+272,47,272,"Panchayat Union Middle School, Facing North, West Wing, Omakuppam, Marimanikuppam 635710","1.Alangayam (C.C) ward-12 Kuthus Street , 2.Alangayam (C.C) Ward-12 Muthappan Street , 3.Alangayam (C.C) Ward-12 Munisamy Street , 4.Alangayam (C.C) ward-12, Durai Street  , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+273,47,273,"Panchayat Union Middle School, Facing South Pudur 635710","1.Alangayam (C.C) Ward-5, rajapalayam , 2.Alangayam (C.C) Ward-5, Sevathan Street , 3.Alangayam (C.C) Ward-5, Thanthai Periyar Street , 4.Alangayam (C.C) Ward-6, Kongiyur , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+274,47,274,"Panchayat Union Middle School , East Wing West Facing, Omakuppam, Marimanikuppam 635710","1.Alangayam (C.C) Ward-10 Pamandi Chinnapaiyan Street , 2.Alangayam (C.C) Ward-10 Pallikutathan Street ,999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+275,47,275,"Panchayat Union Elementary School, Facing South Marimanikuppam 635710","1.Alangayam (C.C) Ward-10 Pricedent Angamuthu Street , 2.Alangayam
+(C.C) Ward-10 Kamarajar Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+276,47,276,"Panchayat Union Elementary School, Main Building Facing South West Mittur,
+Nacharkuppam 635710","1.Bemakulam (R.V) And (P) Ward 1 Peemakulam , 2.Bemakulam (R.V) And (P) Ward 1 Malaireddiyur ,999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+277,47,277,"Panchayat Union Elementary School, South East Building North West Facing
+Mittur, Nacharkuppam 635710","1.Bemakulam (R.V) And (P) Ward 1 Mantharakuttai ,2.Bemakulam (R.V) And (P) Ward 1 Jarapandai , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+278,47,278,"Government Higher Secondary School, Room 4,5 Facing North Mittur,
+Nacharkuppam 635710","1.Beemakulam (R.V) And (P) Ward 2, Kavalur , 2.Bemakulam (R.V) And
+(P) Ward 2, Veera ragavalasai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+279,47,279,"Government Higher Secondary School, Room 26 Mittur, Nacharkuppam 635710","1.Bemakulam (R.V) And (P) Ward 3, Thimmarayavalasai  Palaiyur , 2.Bemakulam (R.V) And (P) Ward 3, Arunachala Kottai , 3.Bemakulam (R.V) And (P) Ward 3, Kolla Kottai , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+280,47,280,"Panchayat Union Middle School, Facing
+West Villankuppam 635710","1.Naikanur (R.V) And (P) Ward 1, Naikanur , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+281,47,281,"Panchayat Union Middle School, Addl., Building Villankuppam 635710","1.Naikanur (R.V) And (P) Ward 3, Umaiyappanaikanur , 2.Naikanur (R.V.) And (P) Ward 3,Veerarakava valasai , 3.Naikanur (R.V) And (P) Ward 3, Sathiram Kollai kottai , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+282,47,282,"Panchayat Union Elementary School , North wing, Facing West Andiyappanur 635702","1.Naikanur (R.V) And (P) Ward 2, Krishnapuram , 2.Naikanur (R.V) And
+(P) Ward 2, Upparai Vattam , 3.Naikanur (R.V) And (P) Ward 2, Kolla kottai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+283,47,283,"Panchayat Union Elementary School ,
+New Building, North Wing, Andiyappanur 635702","1.Poongulam (R.V) And (P) Ward 4 Alamarathur , 2.Poongulam (R.V) And
+(P) Ward 4 Lathikottai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+284,47,284,"Government Hr.Sec. School , East Wing Facin West Andiyappanur 635702","1.Poongulam (R.V) And (P) Ward 2 Poongulam Kolla Kottai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+285,47,285,"Government Hr.Sec.School , South Side
+Building Facing North Andiyappanur 635702","1.Poongulam (R.V) And (P) Ward 2 Dindivanam , 2.Poongulam (R.V) And
+(P) Ward 2 Poongulam Kolla Kottai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+286,47,286,"Government Hr.Sec.School , 9th Class Room, South Wing, North Facing
+Andiyappanur 635702","1.Poongulam (R.V) And (P) Ward 1 Poongulam , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+287,47,287,"Panchayat Union Middle School , Centre Room,Facing West Lalapettai 635702","1.Poongulam (R.V) And (P) Ward 1 Adidravidar Colony , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+288,47,288,"Panchayat Union Middle School , Addl., Building, Facing East Lalapettai 635702","1.Poongulam (R.V), Balappanatham (P) Ward 3 Balappanatham Adidravaidar Colony , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+289,47,289,"Panchayat Union Middle School , RCC
+Addl. Building, Facing West Irunapattu 635702","1.Poongulam (R.V), Balappanatham (P) Ward 3 Balappanatham
+Adidravaidar Colony , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+290,47,290,"Panchayat Union Middle School , RCC Addl. Building, Facing South Irunapattu
+635702","1.Poongulam (R.V), Balapanatham (P) Ward 3 Balapanatham , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+291,47,291,"Panchayat Union Middle School , Facing South Irunapattu 635702","1.Poongulam (R.V), Reddivalasai (P) Ward 4 Reddivalasai , 2.Poongulam (R.V), Reddivalasai (P) Ward 4 Kollakottai , 999.OVERSEAS ELECTORS
+OVERSEAS ELECTORS",ALL VOTERS
+292,47,292,"Panchayat Union Middle School , Western Side Building Irunapattu 635702","1.Marimanikuppam (R.V) And (P) Ward 4 Andalvadinatham , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+293,47,293,"Panchayat Union Middle School , New Building, East side, North Facing,
+Narayanapuram 635702","1.Marimanikuppam (R.V) And (P) Ward 4 Andalvadinatham , 2.Marimanikuppam (R.V) And (P) Ward 4 Eriepallam , 999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+294,47,294,"Panchayat Union Middle School , New Building, West side, North Facing,
+Narayanapuram 635702","1.Marimanikuppam (R.V) And (P) Ward 1 Omakuppam , 2.Marimanikuppam (R.V) And (P) Ward 1 Omakuppam Kollakottai ,
+999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+295,47,295,"Panchayat Union Elementary School,
+Facing South Perumapattu 635702","1.Marimanikuppam (R.V) And (P) Ward 3 Pudur , 999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+296,47,296,"Panchayat Union Elementary School,
+Facing East Perumapattu 635702","1.Marimanikuppam (R.V) And (P) Ward 3 Neelikkollai , 999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+297,47,297,"Panchayat Union Elementary School , Main Building Facing East Perumapattu 635702","1.Marimanikuppam (R.V) And (P) Ward 1 Marimanikuppam , 2.Marimanikuppam (R.V) And (P) Ward 1 Marimanikuppam Adidravidar Colony , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+298,47,298,"Panchayat Union Elementary School , Facing East, Addl Building Perumapattu
+635702","1.Nacharkuppam (R.V)AND (P) Ward 2 1, Nacharkuppam , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+299,47,299,"Panchayat Union Elementary School ,
+East Facing, Venkatesapuram, Perumapattu 635702","1.Nachiarkuppam (R.V), AND(P) Ward 2, 2 Malandiyur , 2.Nacharkuppam
+(R.V)AND (P) Ward  1  3  Reddivalasai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+300,47,300,"Panchayat Union Elementary School , East Facing New Building, Venkatesapuram, Perumapattu 635702","1.Nacharkuppam (R.V)AND (P) Ward  4 1 Gundreddiyur , 2.Nacharkuppam (R.V)AND (P) Ward 4, 2  Mittur , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+301,47,301,"Adidravidar Welfare High School, Facing South Jadayanur, Jadayanur Perumapattu 635702","1.Nacharkuppam (R.V)AND (P) Ward 4, 2  Mittur , 2.Nacharkuppam (R.V), AND (P) Ward 4 ,3 Mittur Annanagar , 3.Nachiarkuppam (R.V), AND(P) Ward  4, 4 Jalthi , 4.Nacharkuppam (R.V)AND (P) Ward  4 1 Gundreddiyur
+, 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+302,47,302,"Adidravidar Welfare High School, Facing South west side Jadayanur, Jadayanur Perumapattu 635702","1.Nacharkuppam (R.V)AND (P) Ward 2 1, Thimaraya Valasai , 2.Nacharkuppam (R.V)AND (P) Ward 2  2,Chakarakuppam , 3.Nacharkuppam (R.V)AND (P) Ward 2, 3 Vilanguppam , 999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+303,47,303,"Grama Seva Building Facing East Pallavalli, Perumapattu 635702","1.Nacharkuppam (R.V)AND (P) Ward 3 4, Malandiyur , 2.Nacharkuppam (R.V)AND (P) Ward 3, 5 Gandhi Nagar , 3.Nacharkuppam (R.V)AND (P) Ward 3, 6  Paiyappan Vattam , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+304,47,304,Anganwadi Centre South Facing Pallavalli Perumapatttu-635702,"1.Andiyappanur (R.V) And (P) Ward 1 Andiyappanur , 2.Andiyappanur (R.V) And (P) Ward 1 Andiayappanur Main Street , 3.Andiyappanur (R.V) And (P) Ward 1 Andiyappanur Mel Street , 4.Andiyappanur (R.V) And (P) Ward 2 T. K. Vattam , 5.Andiyappanur (R.V) And (P) Ward 2 Vathiyar Street , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+305,47,305,"Government Aided Elementary School , II Class Room Pallavalli, Perumapattu
+635702","1.Andiyappanur (R.V) And (P) Ward 3 Andiyappanur Colony , 2.Andiyappanur (R.V) And (P) Ward 3 Rajapalayam , 999.OVERSEAS
+ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+306,47,306,"Government Higher Seconday School, Class Room 13 Vadukamuthampatti Kurisalapatttu-635702","1.Andiyappanur (R.V) And (P) Ward 4 Gunreddiyur , 2.Andiyappanur (R.V) And (P) Ward  4 Andiyappanur Kollakotai , 3.Andiyappanur (R.V) And (P) Ward 4 Mecheri Vattam , 4.Andiyappanur (R.V) And (P) Ward 4 Lalapetai Colony , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+307,47,307,"Government Higher Seconday School, Class Room 15 Vadukamuthampatti Kurisalapatttu-635702","1.Andiyappanur (R.V) And (P) Ward 4 Mollanur , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+308,47,308,"Government Higher Secondary School, Class Room 22 Vadukamuthampatti Kurisalapatttu-635702","1.Andiyappanur (R.V) And (P) Ward 5 Lalapettai , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+309,47,309,"Government Higher Secondary School, Class Room 21 Vadukamuthampatti Kurisalapatttu-635702","1.Andiyappanur (R.V) And (P) Ward 5 Kollakotai , 2.Andiyappanur (R.V) And (P) Ward 5 Kappuvanam , 3.Andiyappanur (R.V) And (P) Ward 5 Aathumedu Kappuvanam , 4.Andiyappanur (R.V) And (P) Ward 5 Papathiamman Kovil Vattam , 999.OVERSEAS ELECTORS OVERSEAS
+ELECTORS",ALL VOTERS
+310,47,310,"Government Aided Elementary School , North Facing Kurisilapattu 635702","1.Irunapattu (R.V) And (P) Ward 4 Irunapattu(Kollakotai) , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+311,47,311,"Government Higher Secondary School, Class Room 16 Vadukamuthampatti Kurisalapatttu-635702","1.Irunapattu (R.V) And (P) Ward 4 Irunapattu(Kollakotai) , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
+312,47,312,"Government Higher Secondary School, Class Room 17 Vadukamuthampatti Kurisalapatttu-635702","1.Irunapattu (R.V) And (P) Ward 1 Irunapattu , 999.OVERSEAS ELECTORS OVERSEAS ELECTORS",ALL VOTERS
