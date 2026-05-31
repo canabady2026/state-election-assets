@@ -1,0 +1,810 @@
+[
+  {
+    "ac_code": 2,
+    "error": "AC002: PDF has 0 pages"
+  },
+  {
+    "ac_code": 3,
+    "warning": "AC003: cand_sum(236964) != valid_votes_polled(237588) (diff=624)"
+  },
+  {
+    "ac_code": 8,
+    "warning": "AC008: expected 23 candidate votes, got 11"
+  },
+  {
+    "ac_code": 9,
+    "warning": "AC009: expected 15 candidate votes, got 11"
+  },
+  {
+    "ac_code": 9,
+    "warning": "AC009: cand_sum(98017) != valid_votes_polled(360604) (diff=262587)"
+  },
+  {
+    "ac_code": 11,
+    "warning": "AC011: expected 38 candidate votes, got 7"
+  },
+  {
+    "ac_code": 11,
+    "warning": "AC011: cand_sum(78838) != valid_votes_polled(180645) (diff=101807)"
+  },
+  {
+    "ac_code": 12,
+    "warning": "AC012: expected 47 candidate votes, got 46"
+  },
+  {
+    "ac_code": 13,
+    "warning": "AC013: expected 35 candidate votes, got 32"
+  },
+  {
+    "ac_code": 15,
+    "warning": "AC015: expected 23 candidate votes, got 3"
+  },
+  {
+    "ac_code": 17,
+    "warning": "AC017: expected 28 candidate votes, got 27"
+  },
+  {
+    "ac_code": 18,
+    "warning": "AC018: expected 23 candidate votes, got 13"
+  },
+  {
+    "ac_code": 19,
+    "warning": "AC019: expected 26 candidate votes, got 7"
+  },
+  {
+    "ac_code": 19,
+    "warning": "AC019: cand_sum(140436) != valid_votes_polled(140098) (diff=338)"
+  },
+  {
+    "ac_code": 23,
+    "warning": "AC023: expected 15 candidate votes, got 2"
+  },
+  {
+    "ac_code": 23,
+    "warning": "AC023: cand_sum(4) != valid_votes_polled(159477) (diff=159473)"
+  },
+  {
+    "ac_code": 24,
+    "warning": "AC024: expected 26 candidate votes, got 2"
+  },
+  {
+    "ac_code": 25,
+    "warning": "AC025: expected 19 candidate votes, got 6"
+  },
+  {
+    "ac_code": 26,
+    "warning": "AC026: expected 27 candidate votes, got 19"
+  },
+  {
+    "ac_code": 26,
+    "warning": "AC026: cand_sum(182890) != valid_votes_polled(183479) (diff=589)"
+  },
+  {
+    "ac_code": 27,
+    "warning": "AC027: expected 27 candidate votes, got 26"
+  },
+  {
+    "ac_code": 29,
+    "warning": "AC029: expected 13 candidate votes, got 2"
+  },
+  {
+    "ac_code": 29,
+    "warning": "AC029: cand_sum(106515) != valid_votes_polled(329927) (diff=223412)"
+  },
+  {
+    "ac_code": 30,
+    "warning": "AC030: expected 23 candidate votes, got 22"
+  },
+  {
+    "ac_code": 30,
+    "warning": "AC030: cand_sum(281632) != valid_votes_polled(282075) (diff=443)"
+  },
+  {
+    "ac_code": 31,
+    "warning": "AC031: cand_sum(277327) != valid_votes_polled(7297) (diff=270030)"
+  },
+  {
+    "ac_code": 35,
+    "warning": "AC035: expected 9 candidate votes, got 6"
+  },
+  {
+    "ac_code": 35,
+    "warning": "AC035: cand_sum(196773) != valid_votes_polled(197454) (diff=681)"
+  },
+  {
+    "ac_code": 37,
+    "warning": "AC037: expected 15 candidate votes, got 5"
+  },
+  {
+    "ac_code": 37,
+    "warning": "AC037: cand_sum(176344) != valid_votes_polled(245236) (diff=68892)"
+  },
+  {
+    "ac_code": 39,
+    "warning": "AC039: expected 23 candidate votes, got 22"
+  },
+  {
+    "ac_code": 41,
+    "warning": "AC041: expected 15 candidate votes, got 14"
+  },
+  {
+    "ac_code": 41,
+    "warning": "AC041: cand_sum(219075) != valid_votes_polled(219829) (diff=754)"
+  },
+  {
+    "ac_code": 42,
+    "warning": "AC042: cand_sum(44391) != valid_votes_polled(16786) (diff=27605)"
+  },
+  {
+    "ac_code": 44,
+    "warning": "AC044: expected 13 candidate votes, got 6"
+  },
+  {
+    "ac_code": 44,
+    "warning": "AC044: cand_sum(77260) != valid_votes_polled(215215) (diff=137955)"
+  },
+  {
+    "ac_code": 45,
+    "warning": "AC045: expected 11 candidate votes, got 10"
+  },
+  {
+    "ac_code": 45,
+    "warning": "AC045: cand_sum(135022) != valid_votes_polled(188920) (diff=53898)"
+  },
+  {
+    "ac_code": 47,
+    "warning": "AC047: expected 15 candidate votes, got 10"
+  },
+  {
+    "ac_code": 48,
+    "warning": "AC048: expected 16 candidate votes, got 15"
+  },
+  {
+    "ac_code": 48,
+    "warning": "AC048: cand_sum(194626) != valid_votes_polled(195116) (diff=490)"
+  },
+  {
+    "ac_code": 49,
+    "warning": "AC049: cand_sum(212262) != valid_votes_polled(237465) (diff=25203)"
+  },
+  {
+    "ac_code": 51,
+    "warning": "AC051: expected 13 candidate votes, got 6"
+  },
+  {
+    "ac_code": 51,
+    "warning": "AC051: cand_sum(203071) != valid_votes_polled(204649) (diff=1578)"
+  },
+  {
+    "ac_code": 52,
+    "warning": "AC052: expected 15 candidate votes, got 11"
+  },
+  {
+    "ac_code": 53,
+    "warning": "AC053: cand_sum(169091) != valid_votes_polled(229045) (diff=59954)"
+  },
+  {
+    "ac_code": 54,
+    "warning": "AC054: expected 13 candidate votes, got 12"
+  },
+  {
+    "ac_code": 55,
+    "warning": "AC055: expected 13 candidate votes, got 8"
+  },
+  {
+    "ac_code": 55,
+    "warning": "AC055: cand_sum(83194) != valid_votes_polled(276156) (diff=192962)"
+  },
+  {
+    "ac_code": 57,
+    "warning": "AC057: expected 14 candidate votes, got 10"
+  },
+  {
+    "ac_code": 57,
+    "warning": "AC057: cand_sum(218282) != valid_votes_polled(223965) (diff=5683)"
+  },
+  {
+    "ac_code": 58,
+    "warning": "AC058: cand_sum(227466) != valid_votes_polled(227992) (diff=526)"
+  },
+  {
+    "ac_code": 59,
+    "warning": "AC059: expected 19 candidate votes, got 17"
+  },
+  {
+    "ac_code": 59,
+    "warning": "AC059: cand_sum(235941) != valid_votes_polled(237638) (diff=1697)"
+  },
+  {
+    "ac_code": 60,
+    "warning": "AC060: expected 14 candidate votes, got 6"
+  },
+  {
+    "ac_code": 60,
+    "warning": "AC060: cand_sum(228174) != valid_votes_polled(235944) (diff=7770)"
+  },
+  {
+    "ac_code": 61,
+    "warning": "AC061: cand_sum(220256) != valid_votes_polled(219260) (diff=996)"
+  },
+  {
+    "ac_code": 62,
+    "warning": "AC062: cand_sum(295119) != valid_votes_polled(241783) (diff=53336)"
+  },
+  {
+    "ac_code": 63,
+    "warning": "AC063: expected 30 candidate votes, got 28"
+  },
+  {
+    "ac_code": 63,
+    "warning": "AC063: cand_sum(219053) != valid_votes_polled(219281) (diff=228)"
+  },
+  {
+    "ac_code": 64,
+    "warning": "AC064: expected 23 candidate votes, got 16"
+  },
+  {
+    "ac_code": 64,
+    "warning": "AC064: cand_sum(62250) != valid_votes_polled(219350) (diff=157100)"
+  },
+  {
+    "ac_code": 70,
+    "warning": "AC070: expected 19 candidate votes, got 14"
+  },
+  {
+    "ac_code": 70,
+    "warning": "AC070: cand_sum(142334) != valid_votes_polled(216144) (diff=73810)"
+  },
+  {
+    "ac_code": 74,
+    "warning": "AC074: expected 24 candidate votes, got 23"
+  },
+  {
+    "ac_code": 74,
+    "warning": "AC074: cand_sum(145986) != valid_votes_polled(214849) (diff=68863)"
+  },
+  {
+    "ac_code": 75,
+    "warning": "AC075: expected 24 candidate votes, got 23"
+  },
+  {
+    "ac_code": 80,
+    "warning": "AC080: expected 11 candidate votes, got 9"
+  },
+  {
+    "ac_code": 80,
+    "warning": "AC080: cand_sum(248216) != valid_votes_polled(248743) (diff=527)"
+  },
+  {
+    "ac_code": 81,
+    "warning": "AC081: expected 13 candidate votes, got 8"
+  },
+  {
+    "ac_code": 81,
+    "warning": "AC081: cand_sum(75396) != valid_votes_polled(195948) (diff=120552)"
+  },
+  {
+    "ac_code": 83,
+    "warning": "AC083: expected 13 candidate votes, got 12"
+  },
+  {
+    "ac_code": 83,
+    "warning": "AC083: cand_sum(184297) != valid_votes_polled(252342) (diff=68045)"
+  },
+  {
+    "ac_code": 84,
+    "warning": "AC084: expected 15 candidate votes, got 1"
+  },
+  {
+    "ac_code": 85,
+    "warning": "AC085: expected 18 candidate votes, got 17"
+  },
+  {
+    "ac_code": 86,
+    "warning": "AC086: expected 15 candidate votes, got 2"
+  },
+  {
+    "ac_code": 87,
+    "warning": "AC087: expected 20 candidate votes, got 19"
+  },
+  {
+    "ac_code": 87,
+    "warning": "AC087: cand_sum(165243) != valid_votes_polled(243068) (diff=77825)"
+  },
+  {
+    "ac_code": 88,
+    "warning": "AC088: expected 31 candidate votes, got 27"
+  },
+  {
+    "ac_code": 88,
+    "warning": "AC088: cand_sum(231993) != valid_votes_polled(233355) (diff=1362)"
+  },
+  {
+    "ac_code": 89,
+    "warning": "AC089: expected 14 candidate votes, got 7"
+  },
+  {
+    "ac_code": 93,
+    "warning": "AC093: cand_sum(24027) != valid_votes_polled(208476) (diff=184449)"
+  },
+  {
+    "ac_code": 95,
+    "warning": "AC095: expected 31 candidate votes, got 23"
+  },
+  {
+    "ac_code": 97,
+    "warning": "AC097: expected 21 candidate votes, got 20"
+  },
+  {
+    "ac_code": 98,
+    "warning": "AC098: expected 20 candidate votes, got 18"
+  },
+  {
+    "ac_code": 98,
+    "warning": "AC098: cand_sum(161315) != valid_votes_polled(161574) (diff=259)"
+  },
+  {
+    "ac_code": 99,
+    "warning": "AC099: expected 13 candidate votes, got 11"
+  },
+  {
+    "ac_code": 99,
+    "warning": "AC099: cand_sum(173322) != valid_votes_polled(220143) (diff=46821)"
+  },
+  {
+    "ac_code": 101,
+    "warning": "AC101: expected 9 candidate votes, got 8"
+  },
+  {
+    "ac_code": 101,
+    "warning": "AC101: cand_sum(225) != valid_votes_polled(198886) (diff=198661)"
+  },
+  {
+    "ac_code": 102,
+    "warning": "AC102: expected 15 candidate votes, got 14"
+  },
+  {
+    "ac_code": 102,
+    "warning": "AC102: cand_sum(202059) != valid_votes_polled(202828) (diff=769)"
+  },
+  {
+    "ac_code": 105,
+    "warning": "AC105: cand_sum(184410) != valid_votes_polled(185021) (diff=611)"
+  },
+  {
+    "ac_code": 106,
+    "warning": "AC106: expected 18 candidate votes, got 17"
+  },
+  {
+    "ac_code": 106,
+    "warning": "AC106: cand_sum(218323) != valid_votes_polled(218820) (diff=497)"
+  },
+  {
+    "ac_code": 108,
+    "warning": "AC108: cand_sum(147179) != valid_votes_polled(148376) (diff=1197)"
+  },
+  {
+    "ac_code": 109,
+    "warning": "AC109: expected 6 candidate votes, got 5"
+  },
+  {
+    "ac_code": 109,
+    "warning": "AC109: cand_sum(144171) != valid_votes_polled(150370) (diff=6199)"
+  },
+  {
+    "ac_code": 111,
+    "error": "AC111: PDF not found"
+  },
+  {
+    "ac_code": 112,
+    "warning": "AC112: cand_sum(229439) != valid_votes_polled(230037) (diff=598)"
+  },
+  {
+    "ac_code": 113,
+    "warning": "AC113: expected 15 candidate votes, got 8"
+  },
+  {
+    "ac_code": 113,
+    "warning": "AC113: cand_sum(207205) != valid_votes_polled(262379) (diff=55174)"
+  },
+  {
+    "ac_code": 114,
+    "warning": "AC114: expected 24 candidate votes, got 3"
+  },
+  {
+    "ac_code": 115,
+    "warning": "AC115: expected 15 candidate votes, got 4"
+  },
+  {
+    "ac_code": 115,
+    "warning": "AC115: cand_sum(213067) != valid_votes_polled(299597) (diff=86530)"
+  },
+  {
+    "ac_code": 116,
+    "warning": "AC116: expected 15 candidate votes, got 8"
+  },
+  {
+    "ac_code": 119,
+    "warning": "AC119: expected 21 candidate votes, got 14"
+  },
+  {
+    "ac_code": 121,
+    "warning": "AC121: expected 28 candidate votes, got 26"
+  },
+  {
+    "ac_code": 124,
+    "warning": "AC124: expected 6 candidate votes, got 5"
+  },
+  {
+    "ac_code": 124,
+    "warning": "AC124: cand_sum(144500) != valid_votes_polled(149756) (diff=5256)"
+  },
+  {
+    "ac_code": 126,
+    "warning": "AC126: expected 13 candidate votes, got 12"
+  },
+  {
+    "ac_code": 127,
+    "warning": "AC127: expected 15 candidate votes, got 14"
+  },
+  {
+    "ac_code": 127,
+    "warning": "AC127: cand_sum(201569) != valid_votes_polled(207869) (diff=6300)"
+  },
+  {
+    "ac_code": 128,
+    "warning": "AC128: cand_sum(139921) != valid_votes_polled(220263) (diff=80342)"
+  },
+  {
+    "ac_code": 130,
+    "warning": "AC130: expected 15 candidate votes, got 14"
+  },
+  {
+    "ac_code": 130,
+    "warning": "AC130: cand_sum(196552) != valid_votes_polled(196951) (diff=399)"
+  },
+  {
+    "ac_code": 134,
+    "warning": "AC134: expected 30 candidate votes, got 28"
+  },
+  {
+    "ac_code": 134,
+    "warning": "AC134: cand_sum(130110) != valid_votes_polled(180441) (diff=50331)"
+  },
+  {
+    "ac_code": 135,
+    "warning": "AC135: expected 79 candidate votes, got 76"
+  },
+  {
+    "ac_code": 136,
+    "warning": "AC136: cand_sum(188557) != valid_votes_polled(1883532) (diff=1694975)"
+  },
+  {
+    "ac_code": 140,
+    "warning": "AC140: expected 14 candidate votes, got 13"
+  },
+  {
+    "ac_code": 142,
+    "warning": "AC142: expected 26 candidate votes, got 16"
+  },
+  {
+    "ac_code": 143,
+    "warning": "AC143: cand_sum(184465) != valid_votes_polled(184823) (diff=358)"
+  },
+  {
+    "ac_code": 146,
+    "warning": "AC146: expected 15 candidate votes, got 0"
+  },
+  {
+    "ac_code": 148,
+    "warning": "AC148: expected 19 candidate votes, got 16"
+  },
+  {
+    "ac_code": 149,
+    "warning": "AC149: expected 15 candidate votes, got 11"
+  },
+  {
+    "ac_code": 149,
+    "warning": "AC149: cand_sum(233762) != valid_votes_polled(235217) (diff=1455)"
+  },
+  {
+    "ac_code": 150,
+    "warning": "AC150: expected 19 candidate votes, got 7"
+  },
+  {
+    "ac_code": 151,
+    "warning": "AC151: expected 14 candidate votes, got 4"
+  },
+  {
+    "ac_code": 151,
+    "warning": "AC151: cand_sum(171794) != valid_votes_polled(175170) (diff=3376)"
+  },
+  {
+    "ac_code": 153,
+    "warning": "AC153: expected 11 candidate votes, got 7"
+  },
+  {
+    "ac_code": 153,
+    "warning": "AC153: cand_sum(64662) != valid_votes_polled(168012) (diff=103350)"
+  },
+  {
+    "ac_code": 154,
+    "warning": "AC154: expected 9 candidate votes, got 3"
+  },
+  {
+    "ac_code": 155,
+    "warning": "AC155: expected 15 candidate votes, got 13"
+  },
+  {
+    "ac_code": 155,
+    "warning": "AC155: cand_sum(189202) != valid_votes_polled(189484) (diff=282)"
+  },
+  {
+    "ac_code": 156,
+    "warning": "AC156: expected 11 candidate votes, got 8"
+  },
+  {
+    "ac_code": 157,
+    "warning": "AC157: cand_sum(204629) != valid_votes_polled(206629) (diff=2000)"
+  },
+  {
+    "ac_code": 158,
+    "warning": "AC158: expected 11 candidate votes, got 10"
+  },
+  {
+    "ac_code": 159,
+    "warning": "AC159: expected 11 candidate votes, got 7"
+  },
+  {
+    "ac_code": 159,
+    "warning": "AC159: cand_sum(133964) != valid_votes_polled(187440) (diff=53476)"
+  },
+  {
+    "ac_code": 160,
+    "warning": "AC160: cand_sum(199893) != valid_votes_polled(198893) (diff=1000)"
+  },
+  {
+    "ac_code": 161,
+    "warning": "AC161: expected 20 candidate votes, got 14"
+  },
+  {
+    "ac_code": 164,
+    "warning": "AC164: expected 7 candidate votes, got 5"
+  },
+  {
+    "ac_code": 164,
+    "warning": "AC164: cand_sum(150245) != valid_votes_polled(151092) (diff=847)"
+  },
+  {
+    "ac_code": 166,
+    "warning": "AC166: expected 9 candidate votes, got 3"
+  },
+  {
+    "ac_code": 166,
+    "warning": "AC166: cand_sum(1340) != valid_votes_polled(190233) (diff=188893)"
+  },
+  {
+    "ac_code": 167,
+    "warning": "AC167: expected 15 candidate votes, got 14"
+  },
+  {
+    "ac_code": 167,
+    "warning": "AC167: cand_sum(126845) != valid_votes_polled(193695) (diff=66850)"
+  },
+  {
+    "ac_code": 170,
+    "warning": "AC170: cand_sum(207610) != valid_votes_polled(257014) (diff=49404)"
+  },
+  {
+    "ac_code": 175,
+    "warning": "AC175: expected 9 candidate votes, got 8"
+  },
+  {
+    "ac_code": 175,
+    "warning": "AC175: cand_sum(184518) != valid_votes_polled(1194673) (diff=1010155)"
+  },
+  {
+    "ac_code": 176,
+    "warning": "AC176: expected 11 candidate votes, got 9"
+  },
+  {
+    "ac_code": 176,
+    "warning": "AC176: cand_sum(117653) != valid_votes_polled(183007) (diff=65354)"
+  },
+  {
+    "ac_code": 177,
+    "warning": "AC177: expected 10 candidate votes, got 7"
+  },
+  {
+    "ac_code": 177,
+    "warning": "AC177: cand_sum(283754) != valid_votes_polled(175579) (diff=108175)"
+  },
+  {
+    "ac_code": 179,
+    "warning": "AC179: expected 26 candidate votes, got 11"
+  },
+  {
+    "ac_code": 180,
+    "warning": "AC180: expected 30 candidate votes, got 29"
+  },
+  {
+    "ac_code": 183,
+    "warning": "AC183: expected 15 candidate votes, got 14"
+  },
+  {
+    "ac_code": 183,
+    "warning": "AC183: cand_sum(181742) != valid_votes_polled(182150) (diff=408)"
+  },
+  {
+    "ac_code": 184,
+    "warning": "AC184: expected 25 candidate votes, got 23"
+  },
+  {
+    "ac_code": 185,
+    "warning": "AC185: expected 15 candidate votes, got 13"
+  },
+  {
+    "ac_code": 185,
+    "warning": "AC185: cand_sum(214233) != valid_votes_polled(214963) (diff=730)"
+  },
+  {
+    "ac_code": 188,
+    "warning": "AC188: expected 13 candidate votes, got 3"
+  },
+  {
+    "ac_code": 188,
+    "warning": "AC188: cand_sum(119606) != valid_votes_polled(190172) (diff=70566)"
+  },
+  {
+    "ac_code": 190,
+    "warning": "AC190: expected 14 candidate votes, got 7"
+  },
+  {
+    "ac_code": 190,
+    "warning": "AC190: cand_sum(177246) != valid_votes_polled(188509) (diff=11263)"
+  },
+  {
+    "ac_code": 191,
+    "warning": "AC191: cand_sum(9241) != valid_votes_polled(161048) (diff=151807)"
+  },
+  {
+    "ac_code": 192,
+    "warning": "AC192: expected 6 candidate votes, got 5"
+  },
+  {
+    "ac_code": 192,
+    "warning": "AC192: cand_sum(140521) != valid_votes_polled(140891) (diff=370)"
+  },
+  {
+    "ac_code": 195,
+    "warning": "AC195: expected 15 candidate votes, got 14"
+  },
+  {
+    "ac_code": 195,
+    "warning": "AC195: cand_sum(204451) != valid_votes_polled(254318) (diff=49867)"
+  },
+  {
+    "ac_code": 196,
+    "warning": "AC196: expected 15 candidate votes, got 14"
+  },
+  {
+    "ac_code": 198,
+    "warning": "AC198: cand_sum(215701) != valid_votes_polled(257997) (diff=42296)"
+  },
+  {
+    "ac_code": 199,
+    "warning": "AC199: cand_sum(209442) != valid_votes_polled(266570) (diff=57128)"
+  },
+  {
+    "ac_code": 201,
+    "warning": "AC201: cand_sum(209757) != valid_votes_polled(257323) (diff=47566)"
+  },
+  {
+    "ac_code": 202,
+    "warning": "AC202: cand_sum(146038) != valid_votes_polled(182267) (diff=36229)"
+  },
+  {
+    "ac_code": 208,
+    "warning": "AC208: expected 23 candidate votes, got 22"
+  },
+  {
+    "ac_code": 210,
+    "warning": "AC210: expected 21 candidate votes, got 12"
+  },
+  {
+    "ac_code": 212,
+    "warning": "AC212: expected 20 candidate votes, got 2"
+  },
+  {
+    "ac_code": 214,
+    "warning": "AC214: cand_sum(203759) != valid_votes_polled(250803) (diff=47044)"
+  },
+  {
+    "ac_code": 216,
+    "warning": "AC216: expected 15 candidate votes, got 6"
+  },
+  {
+    "ac_code": 217,
+    "warning": "AC217: expected 13 candidate votes, got 11"
+  },
+  {
+    "ac_code": 217,
+    "warning": "AC217: cand_sum(177445) != valid_votes_polled(195238) (diff=17793)"
+  },
+  {
+    "ac_code": 218,
+    "warning": "AC218: expected 21 candidate votes, got 15"
+  },
+  {
+    "ac_code": 218,
+    "warning": "AC218: cand_sum(121270) != valid_votes_polled(193639) (diff=72369)"
+  },
+  {
+    "ac_code": 220,
+    "warning": "AC220: expected 18 candidate votes, got 17"
+  },
+  {
+    "ac_code": 220,
+    "warning": "AC220: cand_sum(185039) != valid_votes_polled(189158) (diff=4119)"
+  },
+  {
+    "ac_code": 221,
+    "warning": "AC221: expected 22 candidate votes, got 21"
+  },
+  {
+    "ac_code": 221,
+    "warning": "AC221: cand_sum(221011) != valid_votes_polled(221424) (diff=413)"
+  },
+  {
+    "ac_code": 222,
+    "warning": "AC222: expected 22 candidate votes, got 11"
+  },
+  {
+    "ac_code": 222,
+    "warning": "AC222: cand_sum(161646) != valid_votes_polled(234314) (diff=72668)"
+  },
+  {
+    "ac_code": 223,
+    "warning": "AC223: expected 13 candidate votes, got 6"
+  },
+  {
+    "ac_code": 223,
+    "warning": "AC223: cand_sum(27978) != valid_votes_polled(219875) (diff=191897)"
+  },
+  {
+    "ac_code": 224,
+    "warning": "AC224: expected 20 candidate votes, got 19"
+  },
+  {
+    "ac_code": 224,
+    "warning": "AC224: cand_sum(217337) != valid_votes_polled(217708) (diff=371)"
+  },
+  {
+    "ac_code": 226,
+    "warning": "AC226: expected 17 candidate votes, got 4"
+  },
+  {
+    "ac_code": 226,
+    "warning": "AC226: cand_sum(175880) != valid_votes_polled(179769) (diff=3889)"
+  },
+  {
+    "ac_code": 228,
+    "warning": "AC228: expected 23 candidate votes, got 21"
+  },
+  {
+    "ac_code": 228,
+    "warning": "AC228: cand_sum(183929) != valid_votes_polled(199462) (diff=15533)"
+  },
+  {
+    "ac_code": 233,
+    "warning": "AC233: expected 14 candidate votes, got 6"
+  },
+  {
+    "ac_code": 233,
+    "warning": "AC233: cand_sum(172854) != valid_votes_polled(174099) (diff=1245)"
+  },
+  {
+    "ac_code": 234,
+    "warning": "AC234: expected 13 candidate votes, got 12"
+  }
+]
